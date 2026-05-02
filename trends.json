@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-05-02T21:25:39.535Z",
+  "updatedAt": "2026-05-02T22:04:54.423Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "신유빈",
-      "traffic": "500+"
+      "keyword": "건강",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "네덜란드",
-      "traffic": "200+"
+      "keyword": "laliga",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "오사수나 대 바르셀로나",
-      "traffic": "200+"
+      "keyword": "서울 날씨",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "기술",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "축구",
+      "keyword": "두산그룹",
       "traffic": "200+"
     },
     {
-      "rank": 6,
-      "keyword": "제주시",
-      "traffic": "100+"
+      "rank": 5,
+      "keyword": "xrp 레저",
+      "traffic": "500+"
     },
     {
-      "rank": 7,
-      "keyword": "전국 춘향 선발 대회",
+      "rank": 6,
+      "keyword": "안세영",
       "traffic": "2000+"
     },
     {
+      "rank": 7,
+      "keyword": "신유빈",
+      "traffic": "1000+"
+    },
+    {
       "rank": 8,
-      "keyword": "민생지원금",
-      "traffic": "5000+"
+      "keyword": "네덜란드",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "arsenal",
-      "traffic": "100+"
+      "keyword": "오사수나 대 바르셀로나",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "아스날",
-      "traffic": "1000+"
+      "keyword": "기술",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
@@ -67,49 +67,49 @@
     },
     {
       "rank": 3,
-      "keyword": "정샘물 CEO, 입양娘 공개",
+      "keyword": "2026년 5월 3일 운세",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "상공에 스파이더맨 레이저쇼",
+      "keyword": "비 김태희 주부 매력 반전",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "정이찬, 닥터신 마지막 빌드업",
-      "state": "-",
-      "change": "2"
+      "keyword": "인터뷰하는 세이브더칠드런 홍보대사",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "신지♥문원 결혼식 현장",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "우버컵 결승행 배드민턴 여자팀",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
       "keyword": "은밀한감사",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "외교장관 통화 호르무즈",
+      "rank": 7,
+      "keyword": "윤복희 4번 낙태했다",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "정샘물 CEO 입양딸 공개",
+      "state": "-",
+      "change": "5"
+    },
+    {
+      "rank": 9,
+      "keyword": "돌체앤가바나 뷰티 59% 성장",
+      "state": "-",
+      "change": "3"
+    },
+    {
       "rank": 10,
-      "keyword": "부산 60대 공동거주자 살해",
+      "keyword": "환희와 은지원의 오열",
       "state": "n",
       "change": "0"
     }
