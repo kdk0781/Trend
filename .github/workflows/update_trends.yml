@@ -1,0 +1,38 @@
+name: Update Google Trends Data
+
+on:
+  schedule:
+    # 한국 시간 기준 매시간 정각에 실행 (UTC 기준 시간임에 주의: UTC 0 * * * * = KST 매시간 정각)
+    - cron: '0 * * * *' 
+  workflow_dispatch: # GitHub 웹에서 수동으로 실행할 수 있는 버튼 활성화
+
+permissions:
+  contents: write # 봇이 저장소에 변경된 파일을 푸시할 수 있도록 권한 부여
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20' # LTS 버전 사용
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Fetch Trends Data
+        run: node fetch_trends.js
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add trends.json
+          
+          # 내용에 변경사항이 있을 때만 커밋을 수행하여 불필요한 빈 커밋 방지
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update trends data" && git push)
