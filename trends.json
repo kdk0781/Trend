@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-05-02T08:11:49.685Z",
+  "updatedAt": "2026-05-02T09:34:28.132Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "제주 대 전북",
-      "traffic": "5000+"
+      "keyword": "ตรวจหวย",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "음악중심",
-      "traffic": "100+"
+      "keyword": "문동주",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "노경은",
+      "keyword": "장찬희",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "주현영",
-      "traffic": "100+"
+      "keyword": "조세호",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "kf-21 보라매",
-      "traffic": "2000+"
+      "keyword": "bangladesh vs new zealand",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "나균안",
-      "traffic": "500+"
+      "keyword": "최정",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "태아",
+      "keyword": "배나라",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "부모",
-      "traffic": "5000+"
+      "keyword": "항공권",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "김용범",
+      "keyword": "러시아",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "맥 미니",
-      "traffic": "1000+"
+      "keyword": "황정민",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
@@ -61,56 +61,56 @@
     },
     {
       "rank": 2,
-      "keyword": "박형준 개소식 참석한 장동혁 송언석",
+      "keyword": "한강 잠퍼자기 대회",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "명동 거리 모금 활동",
-      "state": "s",
+      "keyword": "명동 모금 활동하는",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이호준 타격 지도",
+      "keyword": "칼텍스 매경오픈 3라운드",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "포항, 울산 제압 K리그1 극장골",
+      "keyword": "신이랑 법률사무소",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "GS 칼텍스 매경오픈",
-      "state": "n",
+      "keyword": "박왕열 구속영장 신청",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "선한 영향력 한효주 한지민",
-      "state": "n",
+      "keyword": "인파 몰린 포켓몬 행사장",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "결의대회 참석한 후보들",
+      "keyword": "한지민, 선한 영향력 발휘",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "박동빈 아내 오열 속 영면",
-      "state": "-",
-      "change": "4"
+      "keyword": "성범죄자 엡스타인 유서",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "호쾌한 샷으로 우승 도전",
-      "state": "s",
+      "keyword": "역투하는 문동주",
+      "state": "n",
       "change": "0"
     }
   ]
