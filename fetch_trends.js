@@ -5,10 +5,10 @@ const fs = require('fs');
 
 const parser = new Parser({ customFields: { item: [['ht:approx_traffic', 'traffic']] } });
 
-// 1. 구글 트렌드 수집 (우회 -> 직접 접속 2중 시도)
+// 1. 구글 트렌드 수집
 async function getGoogleTrends() {
-  // .co.kr 대신 .com 사용 (미국 IP 프록시 우회 시 404 에러 방지)
-  const targetUrl = 'https://trends.google.com/trends/trendingsearches/daily/rss?geo=KR';
+  // 🚨 해결 1: 구글이 기존 주소를 폐쇄했으므로, 작동하는 최신 공식 RSS 주소로 변경
+  const targetUrl = 'https://trends.google.com/trending/rss?geo=KR';
   const apiKey = process.env.SCRAPER_API_KEY;
 
   try {
@@ -24,9 +24,8 @@ async function getGoogleTrends() {
   } catch (error) {
     console.log(`⚠️ 1차 시도 실패(${error.message}). 2차 시도(우회 없이 직접 접속) 진행...`);
     try {
-      // 우회 API가 막혔을 경우, 봇인 척하지 않고 일반 브라우저처럼 직접 찔러보기
       const response = await axios.get(targetUrl, {
-        headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' },
+        headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' },
         timeout: 10000
       });
       const feed = await parser.parseString(response.data);
@@ -39,48 +38,40 @@ async function getGoogleTrends() {
   }
 }
 
-// 2. 국내 실시간 검색어 수집 (ZUM -> 네이트 -> 시그널 3중 릴레이)
+// 2. 국내 실시간 검색어 수집 (Nate -> ZUM 릴레이)
 async function getDomesticTrends() {
-  const headers = { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' };
+  const headers = { 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' };
 
-  // 1순위: ZUM (줌)
+  // 1순위: 네이트 (Nate) - 정적 HTML 크롤링이 가장 안정적
   try {
-    console.log('🇰🇷 국내 검색어 (1순위: ZUM) 수집 중...');
-    const res = await axios.get('https://zum.com', { headers, timeout: 5000 });
-    const $ = cheerio.load(res.data);
-    const trends = [];
-    $('.issue-keyword .word, .issue_keyword_list .keyword, .list-issue .word').each((i, el) => {
-      const text = $(el).text().trim();
-      if (text && !trends.find(t => t.keyword === text)) trends.push({ rank: trends.length + 1, keyword: text });
-    });
-    if (trends.length > 0) { console.log('✅ ZUM 데이터 수집 성공'); return trends.slice(0, 10); }
-  } catch (e) { console.log('⚠️ ZUM 수집 실패, 다음 사이트로 넘어갑니다.'); }
-
-  // 2순위: 네이트 (Nate)
-  try {
-    console.log('🇰🇷 국내 검색어 (2순위: Nate) 수집 중...');
+    console.log('🇰🇷 국내 검색어 (1순위: Nate) 수집 중...');
     const res = await axios.get('https://m.nate.com', { headers, timeout: 5000 });
     const $ = cheerio.load(res.data);
     const trends = [];
     $('.kwd_list .kwd, .isKeywordList .kwd, .sank_list .kwd, .rank_list .kwd').each((i, el) => {
       const text = $(el).text().trim();
-      if (text && !trends.find(t => t.keyword === text)) trends.push({ rank: trends.length + 1, keyword: text });
+      // 해결 2: 순위 숫자("1", "2")나 빈 텍스트가 섞이는 것을 방지
+      if (text && isNaN(text) && !trends.find(t => t.keyword === text)) {
+        trends.push({ rank: trends.length + 1, keyword: text });
+      }
     });
     if (trends.length > 0) { console.log('✅ Nate 데이터 수집 성공'); return trends.slice(0, 10); }
-  } catch (e) { console.log('⚠️ Nate 수집 실패, 다음 사이트로 넘어갑니다.'); }
+  } catch (e) { console.log('⚠️ Nate 수집 실패: ' + e.message); }
 
-  // 3순위: 시그널 (Signal) - 범용 클래스로 재탐색
+  // 2순위: ZUM (줌)
   try {
-    console.log('🇰🇷 국내 검색어 (3순위: Signal) 수집 중...');
-    const res = await axios.get('https://signal.bz/news', { headers, timeout: 5000 });
+    console.log('🇰🇷 국내 검색어 (2순위: ZUM) 수집 중...');
+    const res = await axios.get('https://zum.com', { headers, timeout: 5000 });
     const $ = cheerio.load(res.data);
     const trends = [];
-    $('.rank-text, .keyword, .rank-title').each((i, el) => {
+    $('.issue-keyword .word, .list-issue .word, .issue_keyword_list .keyword').each((i, el) => {
       const text = $(el).text().trim();
-      if (text && !trends.find(t => t.keyword === text)) trends.push({ rank: trends.length + 1, keyword: text });
+      if (text && isNaN(text) && !trends.find(t => t.keyword === text)) {
+         trends.push({ rank: trends.length + 1, keyword: text });
+      }
     });
-    if (trends.length > 0) { console.log('✅ Signal 데이터 수집 성공'); return trends.slice(0, 10); }
-  } catch (e) { console.log('⚠️ Signal 수집 실패'); }
+    if (trends.length > 0) { console.log('✅ ZUM 데이터 수집 성공'); return trends.slice(0, 10); }
+  } catch (e) { console.log('⚠️ ZUM 수집 실패: ' + e.message); }
 
   console.error('❌ 모든 국내 검색어 사이트 수집 실패');
   return [];
@@ -91,7 +82,7 @@ async function main() {
   const googleData = await getGoogleTrends();
   const domesticData = await getDomesticTrends();
 
-  // 둘 다 배열이 비어있을(실패했을) 때만 워크플로우를 중단
+  // 방어 로직: 구글과 국내 데이터 중 하나라도 성공하면 파일 생성
   if (googleData.length === 0 && domesticData.length === 0) {
     console.error('🚨 모든 데이터 수집에 실패하여 워크플로우를 중단합니다.');
     process.exit(1); 
