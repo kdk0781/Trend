@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-05-02T09:34:28.132Z",
+  "updatedAt": "2026-05-02T10:30:13.332Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "ตรวจหวย",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "문동주",
+      "keyword": "ufc",
       "traffic": "500+"
     },
     {
-      "rank": 3,
-      "keyword": "장찬희",
+      "rank": 2,
+      "keyword": "예정화",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "최우수산",
+      "traffic": "100+"
+    },
+    {
       "rank": 4,
-      "keyword": "조세호",
-      "traffic": "1000+"
+      "keyword": "광주 대 대전",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "bangladesh vs new zealand",
+      "keyword": "항공",
       "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "최정",
-      "traffic": "100+"
+      "keyword": "박지현",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "배나라",
-      "traffic": "500+"
+      "keyword": "대한축구협회",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "항공권",
-      "traffic": "2000+"
+      "keyword": "삼성전자 노조 파업",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "러시아",
-      "traffic": "500+"
+      "keyword": "에일리",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "황정민",
-      "traffic": "2000+"
+      "keyword": "파리 생제르맹 fc",
+      "traffic": "500+"
     }
   ],
   "domestic": [
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "한강 잠퍼자기 대회",
-      "state": "s",
-      "change": "0"
+      "keyword": "인파 몰린 포켓몬 행사장",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 3,
-      "keyword": "명동 모금 활동하는",
-      "state": "n",
+      "keyword": "두산 웨스 벤자민 역투",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "칼텍스 매경오픈 3라운드",
+      "keyword": "신이랑 법률사무소",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "오세훈과 청년 대화",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "신이랑 법률사무소",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 6,
-      "keyword": "박왕열 구속영장 신청",
-      "state": "s",
+      "keyword": "롯데 나균안 첫 승",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "인파 몰린 포켓몬 행사장",
-      "state": "s",
-      "change": "0"
+      "keyword": "윤수일, 44년 고독 끝.",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "한지민, 선한 영향력 발휘",
-      "state": "s",
+      "keyword": "정원오, 부동산지옥에서 적반하장?",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "성범죄자 엡스타인 유서",
+      "keyword": "서울 김천 리그 선두 유지",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "역투하는 문동주",
+      "keyword": "문동주 어깨 통증",
       "state": "n",
       "change": "0"
     }
