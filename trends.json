@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-02T14:35:32.477Z",
+  "updatedAt": "2026-05-02T15:27:27.803Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "윤복희",
+      "keyword": "웨스트햄",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "mbc",
-      "traffic": "200+"
+      "keyword": "그것이 알고싶다",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "조희대",
+      "keyword": "마달레나",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "이혜성",
-      "traffic": "1000+"
+      "keyword": "mi vs csk",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "이노우에 나오야",
+      "keyword": "valencia vs atlético madrid",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "바이에른 대 하이덴하임",
-      "traffic": "20000+"
+      "keyword": "원빈",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "bayern vs heidenheim",
-      "traffic": "500+"
+      "keyword": "박주미",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "유칼",
-      "traffic": "200+"
+      "keyword": "efl",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "스테이블코인",
-      "traffic": "500+"
+      "keyword": "이솜",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "문지애",
-      "traffic": "200+"
+      "keyword": "bayern đấu với heidenheim",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "문성훈 재혼식 2년만",
-      "state": "n",
+      "keyword": "21세기 대군부인",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "은밀한감사",
+      "keyword": "이란 호르무즈 통행료 제재",
       "state": "+",
-      "change": "1"
+      "change": "18"
     },
     {
       "rank": 3,
-      "keyword": "호르무즈 통행료 제재",
+      "keyword": "신이랑 법률사무소",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "엡스타인 유서 법원 보관",
-      "state": "s",
+      "keyword": "신지♥문원 결혼식 현장",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
       "keyword": "황동하 7이닝 무실점 완봉승",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "실패했다 9년 레이블",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "은밀한감사",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "1222회 로또 1등 24명 12억",
+      "keyword": "정이찬, 닥터신 빌드업 온다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "광주로 없다 장관도",
-      "state": "-",
-      "change": "1"
+      "keyword": "2026 한강 대회",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "전북 제주 2위 도약",
-      "state": "s",
+      "keyword": "명동 모금 활동하는",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "신이랑 법률사무소",
-      "state": "+",
-      "change": "8"
+      "keyword": "문동주 강판 아쉬움",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
