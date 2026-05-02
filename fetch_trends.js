@@ -1,37 +1,81 @@
-const googleTrends = require('google-trends-api');
+const axios = require('axios');
+const cheerio = require('cheerio');
+const Parser = require('rss-parser');
 const fs = require('fs');
 
-async function fetchGoogleTrends() {
-  try {
-    console.log('구글 트렌드 API를 통해 데이터를 가져오는 중...');
-    
-    // 한국(KR) 지역의 일별 트렌드 가져오기
-    const results = await googleTrends.dailyTrends({ geo: 'KR' });
-    const parsedResults = JSON.parse(results);
-    
-    // 오늘(가장 최신) 날짜의 검색어 데이터 추출
-    const trendingSearches = parsedResults.default.trendingSearchesDays[0].trendingSearches;
-    
-    // 원하는 형태로 데이터 가공
-    const trendsData = trendingSearches.map((item, index) => {
-      return {
-        rank: index + 1,
-        keyword: item.title.query,
-        traffic: item.formattedTraffic || 'N/A',
-        publishedDate: parsedResults.default.trendingSearchesDays[0].date,
-        // 관련 뉴스가 있을 경우 첫 번째 뉴스 제목 가져오기
-        newsTitle: item.articles && item.articles.length > 0 ? item.articles[0].title : ''
-      };
-    });
+const parser = new Parser({
+  customFields: { item: [['ht:approx_traffic', 'traffic']] }
+});
 
-    // JSON 파일로 저장
-    fs.writeFileSync('trends.json', JSON.stringify(trendsData, null, 2), 'utf-8');
-    console.log('✅ trends.json 파일이 성공적으로 생성/업데이트 되었습니다!');
+// 1. 구글 트렌드 가져오기 (ScraperAPI 우회 사용)
+async function getGoogleTrends() {
+  try {
+    console.log('🌐 구글 트렌드 데이터 수집 중...');
+    const apiKey = process.env.SCRAPER_API_KEY;
+    if (!apiKey) throw new Error('API Key가 없습니다.');
+
+    const targetUrl = 'https://trends.google.co.kr/trends/trendingsearches/daily/rss?geo=KR';
+    // ScraperAPI를 경유하여 구글에 접속 (봇 차단 회피)
+    const url = `http://api.scraperapi.com?api_key=${apiKey}&url=${encodeURIComponent(targetUrl)}`;
     
+    const response = await axios.get(url);
+    const feed = await parser.parseString(response.data); // 받아온 XML 텍스트를 파싱
+    
+    return feed.items.map((item, index) => ({
+      rank: index + 1,
+      keyword: item.title,
+      traffic: item.traffic || 'N/A'
+    }));
   } catch (error) {
-    console.error('❌ 데이터를 가져오는 중 오류 발생:', error);
-    process.exit(1); // 에러 발생 시 Actions 워크플로우 강제 종료
+    console.error('❌ 구글 트렌드 수집 실패:', error.message);
+    return []; // 에러 시 빈 배열 반환하여 전체 프로세스가 뻗는 것을 방지
   }
 }
 
-fetchGoogleTrends();
+// 2. 국내 실시간 검색어 가져오기 (시그널 웹 크롤링)
+async function getSignalTrends() {
+  try {
+    console.log('🇰🇷 국내 실시간 검색어(Signal) 수집 중...');
+    const response = await axios.get('https://signal.bz/news');
+    const $ = cheerio.load(response.data);
+    
+    const trends = [];
+    // 실시간 검색어가 있는 HTML 요소를 찾아 텍스트만 추출
+    $('.realtime-rank .content .rank-layer .rank-list .rank-text').each((i, el) => {
+      if (i < 10) { // 1위부터 10위까지만 추출
+        trends.push({
+          rank: i + 1,
+          keyword: $(el).text().trim()
+        });
+      }
+    });
+    return trends;
+  } catch (error) {
+    console.error('❌ 국내 검색어 수집 실패:', error.message);
+    return [];
+  }
+}
+
+// 메인 실행 함수
+async function main() {
+  const googleData = await getGoogleTrends();
+  const signalData = await getSignalTrends();
+
+  // 둘 다 가져오는 데 실패했다면 Actions를 실패 처리
+  if (googleData.length === 0 && signalData.length === 0) {
+    console.error('🚨 모든 데이터 수집에 실패했습니다.');
+    process.exit(1); 
+  }
+
+  // 최종 저장할 데이터 구조
+  const finalData = {
+    updatedAt: new Date().toISOString(), // 업데이트 시간 기록
+    google: googleData,
+    domestic: signalData
+  };
+
+  fs.writeFileSync('trends.json', JSON.stringify(finalData, null, 2), 'utf-8');
+  console.log('✅ 하이브리드 트렌드 데이터(trends.json)가 성공적으로 저장되었습니다!');
+}
+
+main();
