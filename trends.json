@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-05-02T22:58:21.573Z",
+  "updatedAt": "2026-05-02T23:44:54.307Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "날씨",
-      "traffic": "500000+"
+      "keyword": "dl이앤씨",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "lpga",
+      "keyword": "화재",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "염경엽",
+      "keyword": "김해시",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "이시형",
-      "traffic": "500+"
+      "keyword": "weather",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "이수진",
-      "traffic": "500+"
+      "keyword": "날씨",
+      "traffic": "500000+"
     },
     {
       "rank": 6,
-      "keyword": "야구",
-      "traffic": "1000+"
+      "keyword": "lpga",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "아크인베스트",
-      "traffic": "200+"
+      "keyword": "염경엽",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "天気",
-      "traffic": "100+"
+      "keyword": "이수진",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "tsmc",
-      "traffic": "200+"
+      "keyword": "이시형",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "자동차",
-      "traffic": "10000+"
+      "keyword": "야구",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
@@ -67,51 +67,51 @@
     },
     {
       "rank": 3,
-      "keyword": "정이찬, 닥터신 마지막 서사",
-      "state": "n",
+      "keyword": "북한, 5.1절 축제 분위기",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "2026년 5월 3일 운세",
-      "state": "-",
-      "change": "1"
+      "keyword": "정이찬, 닥터신 빌드업 온다",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "정샘물 입양딸 영재 판정",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "변우석과 아이유, 결혼 계약서 유출",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "인터뷰하는 박경림 홍보대사",
+      "keyword": "윤복희 출산 금지 고백",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "비♥ 김태희, 주부9단 매력과 미모 유지",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "keyword": "은밀한감사",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 7,
+      "keyword": "아이유 변우석 결혼 계약서 유출",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "이강인 활약 PSG 2-2 무승부",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "김민재 바이에른 하이덴하임 3-3 무승부",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "돌체앤가바나 뷰티 59% 성장",
-      "state": "-",
-      "change": "1"
+      "keyword": "이상영, NC전 선발 복귀",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
