@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-02T03:31:44.020Z",
+  "updatedAt": "2026-05-02T06:30:56.658Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "멕시코 축구 국가대표팀",
+      "keyword": "암호화폐",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "휴스턴 대 la 레이커스",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "인플레이션",
+      "keyword": "혜리",
       "traffic": "500+"
     },
     {
+      "rank": 3,
+      "keyword": "sk스퀘어",
+      "traffic": "100+"
+    },
+    {
       "rank": 4,
-      "keyword": "한국경제신문사",
-      "traffic": "2000+"
+      "keyword": "박성한",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "김서현",
+      "keyword": "폴스타",
       "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "미겔 로하스",
-      "traffic": "200+"
+      "keyword": "고양국제꽃박람회",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "미군",
-      "traffic": "2000+"
+      "keyword": "린",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "정우주",
-      "traffic": "1000+"
+      "keyword": "탁재훈",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "두산베어스",
-      "traffic": "200+"
+      "keyword": "통화 정책",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "대한민국 과학기술정보통신부",
-      "traffic": "200+"
+      "keyword": "환희",
+      "traffic": "20000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "경기지사 후보에 양향자",
+      "keyword": "21세기 대군부인",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "칼텍스 매경오픈 3라운드",
+      "keyword": "한예종 광주 이전 검토 안 해",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 3,
+      "keyword": "이정후 2G 연속 안타",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "빅뱅 V.I.P 6기 모집",
-      "state": "+",
-      "change": "4"
-    },
-    {
       "rank": 4,
-      "keyword": "북한 청년대회 공연",
+      "keyword": "신이랑 법률사무소",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이정후 2경기 연속 안타, 팀 4연패",
-      "state": "n",
-      "change": "0"
+      "keyword": "오세훈 부동산 지옥 초래",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "출산후 방치한 아이 사망",
+      "keyword": "NRG 문성훈, 재혼 2년 만 결혼식",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "한동훈 국힘과 싸우려 해",
+      "keyword": "결혼식 엉망진창 노잼",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "환연2 성해은 대한항공 그리움",
+      "keyword": "6·3 투표 잊지 마세요",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "시비걸고 폭행한 40대",
+      "keyword": "비와이 난 실패했다 9년",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "구윤철 출국, 한중일 회의 참석",
-      "state": "-",
-      "change": "5"
+      "keyword": "퇴사 여행 거절하고 손절하자",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
