@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-05-02T15:27:27.803Z",
+  "updatedAt": "2026-05-02T16:09:40.700Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "웨스트햄",
+      "keyword": "psg vs lorient",
       "traffic": "500+"
     },
     {
       "rank": 2,
+      "keyword": "newcastle vs brighton",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "brentford vs west ham",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "한강",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "웨스트햄",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
       "keyword": "그것이 알고싶다",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 7,
       "keyword": "마달레나",
-      "traffic": "200+"
+      "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 8,
       "keyword": "mi vs csk",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "keyword": "valencia vs atlético madrid",
       "traffic": "200+"
     },
     {
-      "rank": 6,
-      "keyword": "원빈",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "박주미",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "efl",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "이솜",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "bayern đấu với heidenheim",
+      "keyword": "원빈",
       "traffic": "100+"
     }
   ],
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "이란 호르무즈 통행료 제재",
+      "keyword": "정이찬, 닥터신 마지막 빌드업",
       "state": "+",
-      "change": "18"
+      "change": "1"
     },
     {
       "rank": 3,
+      "keyword": "이란 호르무즈 통행료 제재",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "신지♥문원 결혼식 현장",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
       "keyword": "신이랑 법률사무소",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "신지♥문원 결혼식 현장",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "황동하 7이닝 무실점 완봉승",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 6,
-      "keyword": "은밀한감사",
-      "state": "+",
-      "change": "1"
+      "keyword": "문동주 강판, 한화 10점 대승!",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "정이찬, 닥터신 빌드업 온다",
-      "state": "n",
+      "keyword": "윤복희 남편 공개",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "2026 한강 대회",
-      "state": "n",
-      "change": "0"
+      "keyword": "박소영 아나운서",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "명동 모금 활동하는",
-      "state": "n",
-      "change": "0"
+      "keyword": "황동하 7이닝 무실점",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "문동주 강판 아쉬움",
-      "state": "n",
-      "change": "0"
+      "keyword": "박왕열 구속영장 신청",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
