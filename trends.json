@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-02T03:19:15.954Z",
+  "updatedAt": "2026-05-02T03:31:44.020Z",
   "google": [
     {
       "rank": 1,
@@ -43,55 +43,75 @@
     },
     {
       "rank": 9,
-      "keyword": "대한민국 과학기술정보통신부",
+      "keyword": "두산베어스",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "돌싱글즈",
-      "traffic": "500+"
+      "keyword": "대한민국 과학기술정보통신부",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "양향자 경기지사 후보 확정"
+      "keyword": "경기지사 후보에 양향자",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이정후 안타, SF 4연패"
+      "keyword": "칼텍스 매경오픈 3라운드",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "비와이 레이블 운영 종료"
+      "keyword": "빅뱅 V.I.P 6기 모집",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 4,
-      "keyword": "제11차대회 기념 종합공연"
+      "keyword": "북한 청년대회 공연",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "GS 칼텍스 매경오픈 3라운드"
+      "keyword": "이정후 2경기 연속 안타, 팀 4연패",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "기름값 5주 상승"
+      "keyword": "출산후 방치한 아이 사망",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "빅뱅 V.I.P 팬클럽 모집"
+      "keyword": "한동훈 국힘과 싸우려 해",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "21세기 대군부인"
+      "keyword": "환연2 성해은 대한항공 그리움",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "주수빈 11위 도약"
+      "keyword": "시비걸고 폭행한 40대",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "죄없는 행인에 시비걸고"
+      "keyword": "구윤철 출국, 한중일 회의 참석",
+      "state": "-",
+      "change": "5"
     }
   ]
 }
