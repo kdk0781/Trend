@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-02T17:58:02.070Z",
+  "updatedAt": "2026-05-02T19:00:22.978Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "arsenal",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
+      "keyword": "아스날",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
       "keyword": "아스널 대 풀럼",
       "traffic": "1000+"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "keyword": "그것이 알고 싶다",
-      "traffic": "200+"
+      "traffic": "500+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "김민재",
       "traffic": "1000+"
     },
     {
-      "rank": 4,
-      "keyword": "김태흠",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "psg vs lorient",
-      "traffic": "500+"
-    },
-    {
       "rank": 6,
-      "keyword": "brentford vs west ham",
+      "keyword": "bundesliga",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "newcastle vs brighton",
-      "traffic": "200+"
+      "keyword": "김태흠",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "한강",
-      "traffic": "100+"
+      "keyword": "psg vs lorient",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "웨스트햄",
-      "traffic": "1000+"
+      "keyword": "brentford vs west ham",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "psg 대 로리앙",
-      "traffic": "20000+"
+      "keyword": "newcastle vs brighton",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "21세기 대군부인",
-      "state": "s",
-      "change": "0"
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "호르무즈 통행료 제재",
-      "state": "n",
-      "change": "0"
+      "keyword": "정이찬, 닥터신 빌드업 온다",
+      "state": "+",
+      "change": "34"
     },
     {
       "rank": 3,
-      "keyword": "신지 문원 결혼식 현장",
+      "keyword": "신이랑 법률사무소",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "신이랑 법률사무소",
-      "state": "s",
-      "change": "0"
+      "keyword": "정샘물 CEO 입양딸 공개",
+      "state": "+",
+      "change": "77"
     },
     {
       "rank": 5,
-      "keyword": "정샘물 CEO 입양 딸 공개",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "황동하 무실점 7이닝",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "정이찬, 닥터신 빌드업 온다",
+      "keyword": "호르무즈 통행료 제재",
       "state": "-",
       "change": "4"
     },
     {
-      "rank": 8,
-      "keyword": "안우진 981일 만에 승리",
+      "rank": 6,
+      "keyword": "황동하 7이닝 무실점 투구",
       "state": "-",
-      "change": "1"
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "은밀한감사",
+      "state": "+",
+      "change": "23"
+    },
+    {
+      "rank": 8,
+      "keyword": "박소영 아나운서",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "로또 1등 12억 24명 어디?",
-      "state": "-",
-      "change": "1"
+      "keyword": "백서영 4골로 필리핀 5-0 대승",
+      "state": "+",
+      "change": "15"
     },
     {
       "rank": 10,
-      "keyword": "백서영 4골 필리핀에 5-0 승리",
-      "state": "n",
-      "change": "0"
+      "keyword": "로또 1등 12억 받는 24명",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
