@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-05-02T03:00:34.370Z",
+  "updatedAt": "2026-05-02T03:06:21.611Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "하림",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 2,
       "keyword": "멕시코 축구 국가대표팀",
       "traffic": "500+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "휴스턴 대 la 레이커스",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "김서현",
       "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "한국경제신문사",
-      "traffic": "2000+"
     },
     {
       "rank": 5,
@@ -28,28 +28,28 @@
     },
     {
       "rank": 6,
+      "keyword": "한국경제신문사",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
       "keyword": "미겔 로하스",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "미군",
-      "traffic": "1000+"
+      "traffic": "2000+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "정우주",
       "traffic": "1000+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "대한민국 과학기술정보통신부",
       "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "돌싱글즈",
-      "traffic": "500+"
     }
   ],
   "domestic": []
