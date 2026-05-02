@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-05-02T20:40:14.523Z",
+  "updatedAt": "2026-05-02T21:25:39.535Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "민생지원금",
-      "traffic": "2000+"
+      "keyword": "신유빈",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "기리고 시즌 2",
-      "traffic": "100+"
+      "keyword": "네덜란드",
+      "traffic": "200+"
     },
     {
       "rank": 3,
+      "keyword": "오사수나 대 바르셀로나",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "기술",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "축구",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "제주시",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "전국 춘향 선발 대회",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "민생지원금",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 9,
       "keyword": "arsenal",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 10,
       "keyword": "아스날",
       "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "아스널 대 풀럼",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "그것이 알고 싶다",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "김민재",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "bundesliga",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "김태흠",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "최우식",
-      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "호르무즈 통항 재개",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
       "keyword": "신이랑 법률사무소",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "정샘물 CEO, 입양娘 공개",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 4,
-      "keyword": "신지♥문원 결혼식 현장 공개",
-      "state": "s",
+      "keyword": "상공에 스파이더맨 레이저쇼",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "백서영 4골, 필리핀 5-0 대승",
-      "state": "s",
-      "change": "0"
+      "keyword": "정이찬, 닥터신 마지막 빌드업",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "광안리서 스파이더맨 레이저쇼",
+      "keyword": "신지♥문원 결혼식 현장",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "군대 질문도 유승준 OK",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "로또 1등 24명 당첨금 12억",
+      "keyword": "우버컵 결승행 배드민턴 여자팀",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "keyword": "은밀한감사",
-      "state": "+",
-      "change": "2"
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "외교장관 통화 호르무즈",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "패거리 정당 심판 필요",
-      "state": "-",
-      "change": "3"
+      "keyword": "부산 60대 공동거주자 살해",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
