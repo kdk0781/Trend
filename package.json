@@ -1,0 +1,12 @@
+{
+  "name": "trend-crawler",
+  "version": "1.0.0",
+  "description": "실시간 검색어 크롤러",
+  "main": "fetch_trends.js",
+  "scripts": {
+    "start": "node fetch_trends.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
