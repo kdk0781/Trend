@@ -37,8 +37,6 @@ async function getGoogleTrends() {
   }
 }
 
-// 2. 국내 실시간 검색어 수집 (Daum -> Nate -> ZUM 3중 릴레이)
-async function getDomesticTrends() {
   // 2. 국내 실시간 검색어 수집 (HTML 크롤링 ❌ -> 내부 API 직접 호출 ⭕)
 async function getDomesticTrends() {
   
