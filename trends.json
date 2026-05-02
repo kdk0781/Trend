@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-02T03:13:09.980Z",
+  "updatedAt": "2026-05-02T03:16:08.595Z",
   "google": [
     {
       "rank": 1,
@@ -13,18 +13,18 @@
     },
     {
       "rank": 3,
-      "keyword": "김서현",
-      "traffic": "1000+"
+      "keyword": "인플레이션",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "인플레이션",
-      "traffic": "200+"
+      "keyword": "한국경제신문사",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "한국경제신문사",
-      "traffic": "2000+"
+      "keyword": "김서현",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
@@ -52,5 +52,46 @@
       "traffic": "500+"
     }
   ],
-  "domestic": []
+  "domestic": [
+    {
+      "rank": 1,
+      "keyword": "1"
+    },
+    {
+      "rank": 2,
+      "keyword": "2"
+    },
+    {
+      "rank": 3,
+      "keyword": "3"
+    },
+    {
+      "rank": 4,
+      "keyword": "4"
+    },
+    {
+      "rank": 5,
+      "keyword": "5"
+    },
+    {
+      "rank": 6,
+      "keyword": "6"
+    },
+    {
+      "rank": 7,
+      "keyword": "7"
+    },
+    {
+      "rank": 8,
+      "keyword": "8"
+    },
+    {
+      "rank": 9,
+      "keyword": "9"
+    },
+    {
+      "rank": 10,
+      "keyword": "10"
+    }
+  ]
 }
