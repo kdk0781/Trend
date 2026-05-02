@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-05-02T11:27:28.978Z",
+  "updatedAt": "2026-05-02T12:06:35.159Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "예정 화",
-      "traffic": "2000+"
+      "keyword": "릴리",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "채연",
+      "keyword": "개헌",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "dazn",
-      "traffic": "100+"
+      "keyword": "산들",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "spirit airlines",
+      "keyword": "박기량",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "전혜진",
-      "traffic": "100+"
+      "keyword": "예정 화",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "gc녹십자",
-      "traffic": "200+"
+      "keyword": "채연",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "한승연",
-      "traffic": "500+"
+      "keyword": "dazn",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "조경태",
+      "keyword": "spirit airlines",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "최형우",
+      "keyword": "전혜진",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "地震",
+      "keyword": "gc녹십자",
       "traffic": "200+"
     }
   ],
@@ -67,14 +67,14 @@
     },
     {
       "rank": 3,
-      "keyword": "오스틴 3점 홈런",
+      "keyword": "황동하 7이닝 무실점 투혼!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "신지♥문원 결혼식 현장",
-      "state": "s",
+      "keyword": "유재석 변우석 섭외 가능?",
+      "state": "n",
       "change": "0"
     },
     {
@@ -85,31 +85,31 @@
     },
     {
       "rank": 6,
-      "keyword": "섬 여행 10만원 지원",
+      "keyword": "결혼식 공개했다 신지에",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "2타점 적시타",
-      "state": "s",
+      "keyword": "안우진, 981일 만에 승리!",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "유재석, 주우재로 변우석 섭외할까?",
+      "keyword": "시술과 젊은 마인드",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "주영훈의 메가 히트곡 비화",
-      "state": "n",
-      "change": "0"
+      "keyword": "도봉구 어린이날 축제 개최",
+      "state": "+",
+      "change": "12"
     },
     {
       "rank": 10,
-      "keyword": "박민우 1타점 2루타",
+      "keyword": "노시환 2점 홈런",
       "state": "n",
       "change": "0"
     }
