@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-05-02T06:30:56.658Z",
+  "updatedAt": "2026-05-02T08:11:49.685Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "암호화폐",
-      "traffic": "500+"
+      "keyword": "제주 대 전북",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "혜리",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "sk스퀘어",
+      "keyword": "음악중심",
       "traffic": "100+"
     },
     {
-      "rank": 4,
-      "keyword": "박성한",
+      "rank": 3,
+      "keyword": "노경은",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "주현영",
+      "traffic": "100+"
+    },
+    {
       "rank": 5,
-      "keyword": "폴스타",
-      "traffic": "1000+"
+      "keyword": "kf-21 보라매",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "고양국제꽃박람회",
+      "keyword": "나균안",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "린",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "탁재훈",
+      "keyword": "태아",
       "traffic": "500+"
     },
     {
+      "rank": 8,
+      "keyword": "부모",
+      "traffic": "5000+"
+    },
+    {
       "rank": 9,
-      "keyword": "통화 정책",
-      "traffic": "100+"
+      "keyword": "김용범",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "환희",
-      "traffic": "20000+"
+      "keyword": "맥 미니",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
@@ -61,56 +61,56 @@
     },
     {
       "rank": 2,
-      "keyword": "한예종 광주 이전 검토 안 해",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 3,
-      "keyword": "이정후 2G 연속 안타",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "신이랑 법률사무소",
+      "keyword": "박형준 개소식 참석한 장동혁 송언석",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "명동 거리 모금 활동",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "이호준 타격 지도",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "오세훈 부동산 지옥 초래",
-      "state": "-",
-      "change": "2"
+      "keyword": "포항, 울산 제압 K리그1 극장골",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "NRG 문성훈, 재혼 2년 만 결혼식",
+      "keyword": "GS 칼텍스 매경오픈",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "결혼식 엉망진창 노잼",
+      "keyword": "선한 영향력 한효주 한지민",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "6·3 투표 잊지 마세요",
-      "state": "n",
+      "keyword": "결의대회 참석한 후보들",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "비와이 난 실패했다 9년",
-      "state": "n",
-      "change": "0"
+      "keyword": "박동빈 아내 오열 속 영면",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 10,
-      "keyword": "퇴사 여행 거절하고 손절하자",
-      "state": "n",
+      "keyword": "호쾌한 샷으로 우승 도전",
+      "state": "s",
       "change": "0"
     }
   ]
