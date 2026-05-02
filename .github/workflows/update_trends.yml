@@ -2,8 +2,9 @@ name: Update Trends Data
 
 on:
   schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+    # 매 10분마다 실행 (현실감 극대화)
+    - cron: '*/10 * * * *' 
+  workflow_dispatch: # 수동 실행 버튼 유지
 
 permissions:
   contents: write
