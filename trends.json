@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-02T13:44:21.775Z",
+  "updatedAt": "2026-05-02T14:35:32.477Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "bayern vs heidenheim",
+      "keyword": "윤복희",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "유칼",
+      "keyword": "mbc",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "스테이블코인",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "문지애",
+      "keyword": "조희대",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "이혜성",
+      "traffic": "1000+"
+    },
+    {
       "rank": 5,
-      "keyword": "신혜선",
+      "keyword": "이노우에 나오야",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "marwan rahiki",
-      "traffic": "200+"
+      "keyword": "바이에른 대 하이덴하임",
+      "traffic": "20000+"
     },
     {
       "rank": 7,
-      "keyword": "뷔",
+      "keyword": "bayern vs heidenheim",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "로또1222",
-      "traffic": "1000+"
+      "keyword": "유칼",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "북구 갑",
+      "keyword": "스테이블코인",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "내일 날씨",
-      "traffic": "200000+"
+      "keyword": "문지애",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "문성훈 재혼 2년 만에 결혼식",
+      "keyword": "문성훈 재혼식 2년만",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
+      "keyword": "은밀한감사",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 3,
       "keyword": "호르무즈 통행료 제재",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "엡스타인 유서 법원 보관",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "엡스타인 유서 7년 간 법원 보관",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "신지 문원 결혼식",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 5,
-      "keyword": "황동하 7이닝 무실점 투혼",
+      "keyword": "황동하 7이닝 무실점 완봉승",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "문체부 장관, 한예종 광주 반대",
-      "state": "+",
-      "change": "1"
+      "keyword": "실패했다 9년 레이블",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "비와이 레이블 9년 실패",
+      "keyword": "1222회 로또 1등 24명 12억",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "1222회 로또 1등 24명",
-      "state": "n",
-      "change": "0"
+      "keyword": "광주로 없다 장관도",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "한화 3연패 탈출!",
-      "state": "n",
+      "keyword": "전북 제주 2위 도약",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "은밀한감사",
+      "keyword": "신이랑 법률사무소",
       "state": "+",
-      "change": "17"
+      "change": "8"
     }
   ]
 }
