@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-02T16:09:40.700Z",
+  "updatedAt": "2026-05-02T17:05:16.616Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "김태흠",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
       "keyword": "psg vs lorient",
       "traffic": "500+"
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "keyword": "brentford vs west ham",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
       "keyword": "newcastle vs brighton",
       "traffic": "200+"
     },
     {
-      "rank": 3,
-      "keyword": "brentford vs west ham",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "keyword": "한강",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "웨스트햄",
       "traffic": "1000+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "그것이 알고싶다",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "keyword": "나는 solo 20 기",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 9,
       "keyword": "마달레나",
       "traffic": "500+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "mi vs csk",
       "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "valencia vs atlético madrid",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "원빈",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "21세기 대군부인",
+      "keyword": "정이찬, 닥터신 막판 서사 온다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "정이찬, 닥터신 마지막 빌드업",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "이란 호르무즈 통행료 제재",
+      "keyword": "호르무즈 통행료 제재",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "신지♥문원 결혼식 현장 공개",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 4,
-      "keyword": "신지♥문원 결혼식 현장",
+      "keyword": "황동하 무실점 7이닝 쾌투",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "신이랑 법률사무소",
-      "state": "-",
+      "keyword": "박소영 아나운서",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "문동주 강판, 한화 10점 대승!",
-      "state": "s",
-      "change": "0"
+      "keyword": "안우진 981일 만에 승리",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "윤복희 남편 공개",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "박소영 아나운서",
+      "keyword": "로또 1등 24명 당첨 12억씩",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 8,
+      "keyword": "백서영 4골 필리핀 5-0 대승",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "황동하 7이닝 무실점",
-      "state": "-",
-      "change": "1"
+      "keyword": "서영주 오늘 모자무싸 OST 발매",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "박왕열 구속영장 신청",
-      "state": "-",
-      "change": "1"
+      "keyword": "김태흠 정진석 탈당 시사",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
