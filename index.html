@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>실시간 트렌드 대시보드</title>
+  <style>
+    /* 기본 초기화 및 폰트 설정 */
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      background-color: #f4f6f8;
+      color: #333;
+      line-height: 1.6;
+    }
+
+    /* 헤더 스타일 */
+    header {
+      background-color: #ffffff;
+      padding: 20px;
+      text-align: center;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+      margin-bottom: 20px;
+    }
+    header h1 { font-size: 1.5rem; font-weight: 800; color: #1a1a1a; margin-bottom: 5px; }
+    header p { font-size: 0.85rem; color: #888; }
+
+    /* 메인 레이아웃 (반응형 그리드) */
+    main {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 0 15px 40px;
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 20px;
+    }
+    @media (min-width: 768px) {
+      main { grid-template-columns: 1fr 1fr; } /* PC 화면에서는 양옆으로 배치 */
+    }
+
+    /* 트렌드 카드 스타일 */
+    .trend-card {
+      background: #ffffff;
+      border-radius: 16px;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.03);
+      overflow: hidden;
+    }
+    .trend-header {
+      padding: 18px 20px;
+      background: #fafafa;
+      border-bottom: 1px solid #eaeaea;
+      display: flex;
+      align-items: center;
+    }
+    .trend-header h2 { font-size: 1.1rem; font-weight: 700; }
+    .google-icon { color: #ea4335; margin-right: 8px; }
+    .korea-icon { margin-right: 8px; }
+
+    /* 리스트 스타일 */
+    .trend-list { list-style: none; }
+    .trend-item {
+      display: flex;
+      align-items: center;
+      padding: 16px 20px;
+      border-bottom: 1px solid #f0f0f0;
+      transition: background-color 0.2s;
+    }
+    .trend-item:last-child { border-bottom: none; }
+    .trend-item:hover { background-color: #fcfcfc; }
+    
+    .rank {
+      width: 28px;
+      height: 28px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: #2c3e50;
+      color: white;
+      border-radius: 6px;
+      font-size: 0.85rem;
+      font-weight: bold;
+      margin-right: 15px;
+      flex-shrink: 0;
+    }
+    /* 1~3위는 눈에 띄는 색상 부여 */
+    .trend-item:nth-child(1) .rank { background-color: #e74c3c; }
+    .trend-item:nth-child(2) .rank { background-color: #e67e22; }
+    .trend-item:nth-child(3) .rank { background-color: #f1c40f; color: #333; }
+
+    .keyword {
+      flex-grow: 1;
+      font-size: 1rem;
+      font-weight: 600;
+      word-break: break-all;
+    }
+    .traffic {
+      font-size: 0.8rem;
+      color: #999;
+      background: #f4f4f4;
+      padding: 4px 8px;
+      border-radius: 4px;
+      white-space: nowrap;
+      margin-left: 10px;
+    }
+    .loading-msg { padding: 30px; text-align: center; color: #888; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>🔥 오늘 실시간 트렌드</h1>
+    <p id="update-time">데이터를 불러오는 중입니다...</p>
+  </header>
+
+  <main>
+    <!-- 구글 트렌드 영역 -->
+    <section class="trend-card">
+      <div class="trend-header">
+        <span class="google-icon">🌐</span>
+        <h2>구글 급상승 검색어</h2>
+      </div>
+      <ul id="google-list" class="trend-list">
+        <li class="loading-msg">데이터 로딩 중...</li>
+      </ul>
+    </section>
+
+    <!-- 국내 트렌드 영역 -->
+    <section class="trend-card">
+      <div class="trend-header">
+        <span class="korea-icon">🇰🇷</span>
+        <h2>국내 실시간 검색어 (Nate/ZUM)</h2>
+      </div>
+      <ul id="domestic-list" class="trend-list">
+        <li class="loading-msg">데이터 로딩 중...</li>
+      </ul>
+    </section>
+  </main>
+
+  <script>
+    // GitHub Pages 캐싱 방지를 위해 URL 끝에 현재 시간 파라미터 추가
+    const jsonUrl = `trends.json?t=${new Date().getTime()}`;
+
+    async function loadTrends() {
+      try {
+        const response = await fetch(jsonUrl);
+        if (!response.ok) throw new Error('데이터 파일을 찾을 수 없습니다.');
+        
+        const data = await response.json();
+
+        // 1. 업데이트 시간 렌더링
+        const updateDate = new Date(data.updatedAt);
+        // 한국 시간 포맷으로 변경
+        const formattedDate = updateDate.toLocaleString('ko-KR', {
+          year: 'numeric', month: '2-digit', day: '2-digit',
+          hour: '2-digit', minute: '2-digit', second: '2-digit'
+        });
+        document.getElementById('update-time').innerText = `마지막 업데이트: ${formattedDate}`;
+
+        // 2. 리스트 렌더링 함수
+        const renderList = (elementId, items) => {
+          const listElement = document.getElementById(elementId);
+          listElement.innerHTML = ''; // 로딩 메시지 제거
+
+          if (!items || items.length === 0) {
+            listElement.innerHTML = '<li class="loading-msg">현재 수집된 데이터가 없습니다.</li>';
+            return;
+          }
+
+          items.forEach(item => {
+            const li = document.createElement('li');
+            li.className = 'trend-item';
+            
+            // 검색량(traffic) 데이터가 있는 경우에만 뱃지 표시
+            const trafficHtml = (item.traffic && item.traffic !== 'N/A') 
+              ? `<span class="traffic">${item.traffic}</span>` 
+              : '';
+
+            li.innerHTML = `
+              <span class="rank">${item.rank}</span>
+              <span class="keyword">${item.keyword}</span>
+              ${trafficHtml}
+            `;
+            listElement.appendChild(li);
+          });
+        };
+
+        // 구글과 국내 데이터 각각 렌더링
+        renderList('google-list', data.google);
+        renderList('domestic-list', data.domestic);
+
+      } catch (error) {
+        console.error('데이터 로드 실패:', error);
+        document.getElementById('update-time').innerText = '⚠️ 데이터를 불러오는데 실패했습니다.';
+        document.getElementById('google-list').innerHTML = '<li class="loading-msg">오류 발생</li>';
+        document.getElementById('domestic-list').innerHTML = '<li class="loading-msg">오류 발생</li>';
+      }
+    }
+
+    // 페이지 로드 시 즉시 실행
+    loadTrends();
+  </script>
+
+</body>
+</html>
