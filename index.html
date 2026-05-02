@@ -11,14 +11,14 @@
     :root {
       --bg-color: #f8f9fa; --card-bg: #ffffff; --text-main: #1e293b; --text-sub: #64748b;
       --border-color: #e2e8f0; --hover-bg: #f1f5f9; --rank-bg: #f8fafc;
-      --traffic-bg: #f1f5f9; /* 트래픽 배경 추가 */
+      --traffic-bg: #f1f5f9; 
       --accent-color: #ef4444; --live-color: #10b981; 
       --btn-bg: #1e293b; --btn-text: #ffffff; --btn-hover: #334155;
     }
     [data-theme="dark"] {
       --bg-color: #0f1014; --card-bg: #1a1b20; --text-main: #ffffff; --text-sub: #94a3b8;
       --border-color: #2d2e36; --hover-bg: #25262d; --rank-bg: #2d2e36;
-      --traffic-bg: #2d2e36; /* 트래픽 배경 추가 */
+      --traffic-bg: #2d2e36; 
       --accent-color: #ff4757; --live-color: #2ed573; 
       --btn-bg: #ffffff; --btn-text: #000000; --btn-hover: #e2e8f0;
     }
@@ -26,7 +26,6 @@
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body { font-family: 'Pretendard Variable', sans-serif; background-color: var(--bg-color); color: var(--text-main); line-height: 1.6; transition: background-color 0.3s, color 0.3s; }
 
-    /* 상단 LIVE 배너 */
     .live-status-bar {
       background: var(--card-bg); padding: 10px; display: flex; justify-content: center; align-items: center; gap: 10px;
       font-size: 0.85rem; font-weight: 700; border-bottom: 1px solid var(--border-color); transition: 0.3s;
@@ -45,7 +44,6 @@
       display: inline-block; padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; margin-bottom: 20px;
     }
 
-    /* 버튼 및 토글 컨트롤 영역 */
     .controls { display: flex; justify-content: center; align-items: center; gap: 12px; margin-top: 10px; }
     button.refresh-btn { 
       background: var(--btn-bg); color: var(--btn-text); border: none; padding: 14px 28px; 
@@ -71,7 +69,7 @@
 
     .trend-item { 
       display: flex; align-items: center; padding: 20px 24px; border-bottom: 1px solid var(--border-color); 
-      text-decoration: none; color: inherit; transition: 0.2s;
+      text-decoration: none; color: inherit; transition: 0.2s; cursor: pointer;
     }
     .trend-item:hover { background-color: var(--hover-bg); padding-left: 30px; }
     
@@ -85,10 +83,8 @@
 
     .keyword { flex-grow: 1; font-size: 1.1rem; font-weight: 700; letter-spacing: -0.3px; }
     
-    /* 🌟 구글 검색량(Traffic) 스타일 복구 */
     .traffic { font-size: 0.8rem; font-weight: 600; color: var(--text-sub); background: var(--traffic-bg); padding: 4px 10px; border-radius: 6px; margin-left: 10px; white-space: nowrap; }
 
-    /* 국내 상승/하락 뱃지 스타일 */
     .status-badge { font-weight: 900; width: 35px; text-align: right; font-size: 0.9rem; }
     .status-up { color: #ff4757; } .status-down { color: #3742fa; } .status-new { color: #ff4757; font-size: 0.8rem; }
 
@@ -154,13 +150,8 @@
         if (nextUpdateTime > 0) nextUpdateTime--;
         const mins = Math.floor(nextUpdateTime / 60);
         const secs = nextUpdateTime % 60;
-        document.getElementById('sync-text').innerText = 
-          `다음 데이터 동기화까지 ${mins}분 ${secs}초 남음`;
-        
-        if (nextUpdateTime === 0) {
-          loadTrends(false);
-          nextUpdateTime = 600;
-        }
+        document.getElementById('sync-text').innerText = `다음 데이터 동기화까지 ${mins}분 ${secs}초 남음`;
+        if (nextUpdateTime === 0) { loadTrends(false); nextUpdateTime = 600; }
       }, 1000);
     }
 
@@ -171,41 +162,75 @@
         const data = await response.json();
         
         const now = new Date();
-        document.getElementById('update-time').innerText = 
-          `LAST SCAN: ${now.toLocaleTimeString('ko-KR', { hour12: false })} (KST)`;
+        document.getElementById('update-time').innerText = `LAST SCAN: ${now.toLocaleTimeString('ko-KR', { hour12: false })} (KST)`;
 
         renderList('google-list', data.google, 'google');
         renderList('domestic-list', data.domestic, 'naver');
 
-        if (isManual) {
-          showToast("DATA REFRESHED");
-          nextUpdateTime = 600; 
-        }
-      } catch (e) {
-        console.error(e);
-      }
+        if (isManual) { showToast("DATA REFRESHED"); nextUpdateTime = 600; }
+      } catch (e) { console.error(e); }
     }
 
-    // 🌟 렌더링 로직 구글/국내 완벽 분리
+    // 🌟 1. 앱 딥링크(App Deep Link)를 처리하는 핵심 함수
+    function handleSmartLink(e, keyword, engine, pcUrl) {
+      const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+      
+      // PC인 경우 기본 동작(새 탭으로 웹페이지 열기)을 수행하도록 놔둡니다.
+      if (!isMobile) return true; 
+
+      // 모바일인 경우 기본 웹 연결을 막고 앱 호출을 시도합니다.
+      e.preventDefault(); 
+      
+      const isAndroid = /Android/i.test(navigator.userAgent);
+      const isIOS = /iPhone|iPad|iPod/i.test(navigator.userAgent);
+      
+      let appUrl = "";
+      let mobileWebUrl = engine === 'google' 
+        ? `https://www.google.com/search?q=${encodeURIComponent(keyword)}`
+        : `https://m.search.naver.com/search.naver?query=${encodeURIComponent(keyword)}`;
+
+      if (engine === 'google') {
+        // 구글/크롬 앱 강제 호출 세팅
+        if (isIOS) appUrl = `googlechrome://navigate?url=${encodeURIComponent(mobileWebUrl)}`;
+        else if (isAndroid) appUrl = `intent://www.google.com/search?q=${encodeURIComponent(keyword)}#Intent;scheme=https;package=com.android.chrome;end`;
+      } else {
+        // 네이버 검색 앱 강제 호출 세팅
+        appUrl = `naversearchapp://keywordsearch?query=${encodeURIComponent(keyword)}`;
+      }
+
+      // 앱 실행 시도
+      const clickedAt = +new Date();
+      window.location.href = appUrl;
+
+      // 앱이 설치되어 있지 않아 반응이 없으면, 0.5초 뒤 모바일 웹 브라우저로 폴백(Fallback) 이동
+      setTimeout(() => {
+        if (+new Date() - clickedAt < 1500) {
+          window.location.href = mobileWebUrl;
+        }
+      }, 500);
+    }
+
     function renderList(elementId, items, engine) {
       const list = document.getElementById(elementId);
       list.innerHTML = ''; 
       items.forEach(item => {
-        const searchUrl = engine === 'google' 
+        // PC 접속 시 기본적으로 열릴 URL 설정
+        const pcUrl = engine === 'google' 
           ? `https://www.google.com/search?q=${encodeURIComponent(item.keyword)}`
           : `https://search.naver.com/search.naver?query=${encodeURIComponent(item.keyword)}`;
 
         const li = document.createElement('a');
-        li.href = searchUrl; li.target = "_blank"; li.className = 'trend-item';
+        li.href = pcUrl; 
+        li.target = "_blank"; 
+        li.className = 'trend-item';
         
-        // 우측에 표시될 요소 (구글: 검색량 / 국내: 상태뱃지)
+        // 🌟 2. 클릭 이벤트에 스마트 링크 함수 연결
+        li.onclick = (e) => handleSmartLink(e, item.keyword, engine, pcUrl);
+        
         let rightSideElement = '';
-        
         if (engine === 'google' && item.traffic && item.traffic !== 'N/A') {
-          // 구글이면 검색량 표시
           rightSideElement = `<span class="traffic">${item.traffic}</span>`;
         } else {
-          // 국내이면 상승/하락 뱃지 표시
           if (item.state === '+') rightSideElement = `<span class="status-badge status-up">▲</span>`;
           else if (item.state === '-') rightSideElement = `<span class="status-badge status-down">▼</span>`;
           else if (item.state?.toLowerCase() === 'n') rightSideElement = `<span class="status-badge status-new">NEW</span>`;
