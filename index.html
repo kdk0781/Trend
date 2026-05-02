@@ -7,16 +7,18 @@
   <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css" />
   
   <style>
-    /* 🌟 라이트/다크 모드 색상 완벽 분리 */
+    /* 라이트/다크 모드 색상 */
     :root {
       --bg-color: #f8f9fa; --card-bg: #ffffff; --text-main: #1e293b; --text-sub: #64748b;
       --border-color: #e2e8f0; --hover-bg: #f1f5f9; --rank-bg: #f8fafc;
+      --traffic-bg: #f1f5f9; /* 트래픽 배경 추가 */
       --accent-color: #ef4444; --live-color: #10b981; 
       --btn-bg: #1e293b; --btn-text: #ffffff; --btn-hover: #334155;
     }
     [data-theme="dark"] {
       --bg-color: #0f1014; --card-bg: #1a1b20; --text-main: #ffffff; --text-sub: #94a3b8;
       --border-color: #2d2e36; --hover-bg: #25262d; --rank-bg: #2d2e36;
+      --traffic-bg: #2d2e36; /* 트래픽 배경 추가 */
       --accent-color: #ff4757; --live-color: #2ed573; 
       --btn-bg: #ffffff; --btn-text: #000000; --btn-hover: #e2e8f0;
     }
@@ -43,7 +45,7 @@
       display: inline-block; padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; margin-bottom: 20px;
     }
 
-    /* 🌟 버튼 및 토글 컨트롤 영역 */
+    /* 버튼 및 토글 컨트롤 영역 */
     .controls { display: flex; justify-content: center; align-items: center; gap: 12px; margin-top: 10px; }
     button.refresh-btn { 
       background: var(--btn-bg); color: var(--btn-text); border: none; padding: 14px 28px; 
@@ -63,7 +65,6 @@
 
     .trend-card { background: var(--card-bg); border-radius: 24px; border: 1px solid var(--border-color); overflow: hidden; transition: 0.3s; box-shadow: 0 4px 20px rgba(0,0,0,0.02); }
     
-    /* 🌟 전문적인 느낌의 타이틀 헤더 */
     .trend-header { padding: 24px; border-bottom: 1px solid var(--border-color); display: flex; flex-direction: column; gap: 4px; }
     .trend-header h2 { font-size: 1.3rem; font-weight: 800; letter-spacing: -0.5px; }
     .sub-title { font-size: 0.85rem; color: var(--text-sub); font-weight: 600; }
@@ -84,6 +85,10 @@
 
     .keyword { flex-grow: 1; font-size: 1.1rem; font-weight: 700; letter-spacing: -0.3px; }
     
+    /* 🌟 구글 검색량(Traffic) 스타일 복구 */
+    .traffic { font-size: 0.8rem; font-weight: 600; color: var(--text-sub); background: var(--traffic-bg); padding: 4px 10px; border-radius: 6px; margin-left: 10px; white-space: nowrap; }
+
+    /* 국내 상승/하락 뱃지 스타일 */
     .status-badge { font-weight: 900; width: 35px; text-align: right; font-size: 0.9rem; }
     .status-up { color: #ff4757; } .status-down { color: #3742fa; } .status-new { color: #ff4757; font-size: 0.8rem; }
 
@@ -110,13 +115,11 @@
     <div id="update-time" style="color: var(--text-sub); font-size: 0.9rem; margin-bottom: 20px;">정보 업데이트 중...</div>
     <div class="controls">
       <button class="refresh-btn" onclick="loadTrends(true)">최신 트렌드 갱신</button>
-      <!-- 🌟 다크모드 토글 버튼 복구 -->
       <button class="theme-btn" onclick="toggleTheme()" title="테마 변경">☀️</button>
     </div>
   </header>
 
   <main>
-    <!-- 🌟 타이틀 전문화: 영문 메인 + 한글 서브 -->
     <section class="trend-card">
       <div class="trend-header">
         <h2>🌐 Google Search Trends</h2>
@@ -139,7 +142,6 @@
   <script>
     let nextUpdateTime = 600;
 
-    // 🌟 테마 토글 스크립트 복구
     function toggleTheme() {
       const current = document.documentElement.getAttribute('data-theme');
       const next = current === 'dark' ? 'light' : 'dark';
@@ -184,6 +186,7 @@
       }
     }
 
+    // 🌟 렌더링 로직 구글/국내 완벽 분리
     function renderList(elementId, items, engine) {
       const list = document.getElementById(elementId);
       list.innerHTML = ''; 
@@ -195,16 +198,24 @@
         const li = document.createElement('a');
         li.href = searchUrl; li.target = "_blank"; li.className = 'trend-item';
         
-        let badge = '';
-        if (item.state === '+') badge = `<span class="status-badge status-up">▲</span>`;
-        else if (item.state === '-') badge = `<span class="status-badge status-down">▼</span>`;
-        else if (item.state?.toLowerCase() === 'n') badge = `<span class="status-badge status-new">NEW</span>`;
-        else badge = `<span class="status-badge" style="color:var(--text-sub)">-</span>`;
+        // 우측에 표시될 요소 (구글: 검색량 / 국내: 상태뱃지)
+        let rightSideElement = '';
+        
+        if (engine === 'google' && item.traffic && item.traffic !== 'N/A') {
+          // 구글이면 검색량 표시
+          rightSideElement = `<span class="traffic">${item.traffic}</span>`;
+        } else {
+          // 국내이면 상승/하락 뱃지 표시
+          if (item.state === '+') rightSideElement = `<span class="status-badge status-up">▲</span>`;
+          else if (item.state === '-') rightSideElement = `<span class="status-badge status-down">▼</span>`;
+          else if (item.state?.toLowerCase() === 'n') rightSideElement = `<span class="status-badge status-new">NEW</span>`;
+          else rightSideElement = `<span class="status-badge" style="color:var(--text-sub)">-</span>`;
+        }
 
         li.innerHTML = `
           <span class="rank">${item.rank}</span>
           <span class="keyword">${item.keyword}</span>
-          ${badge}
+          ${rightSideElement}
         `;
         list.appendChild(li);
       });
