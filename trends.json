@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-05-02T10:30:13.332Z",
+  "updatedAt": "2026-05-02T11:27:28.978Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "ufc",
-      "traffic": "500+"
+      "keyword": "예정 화",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "예정화",
-      "traffic": "200+"
+      "keyword": "채연",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "최우수산",
+      "keyword": "dazn",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "광주 대 대전",
-      "traffic": "2000+"
+      "keyword": "spirit airlines",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "항공",
-      "traffic": "1000+"
+      "keyword": "전혜진",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "박지현",
-      "traffic": "500+"
+      "keyword": "gc녹십자",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "대한축구협회",
-      "traffic": "1000+"
+      "keyword": "한승연",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "삼성전자 노조 파업",
+      "keyword": "조경태",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "에일리",
-      "traffic": "200+"
+      "keyword": "최형우",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "파리 생제르맹 fc",
-      "traffic": "500+"
+      "keyword": "地震",
+      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "인파 몰린 포켓몬 행사장",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 3,
-      "keyword": "두산 웨스 벤자민 역투",
+      "keyword": "호르무즈 통행료 제재",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "신이랑 법률사무소",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "오세훈과 청년 대화",
+      "rank": 3,
+      "keyword": "오스틴 3점 홈런",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "신지♥문원 결혼식 현장",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "신이랑 법률사무소",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "롯데 나균안 첫 승",
+      "keyword": "섬 여행 10만원 지원",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "윤수일, 44년 고독 끝.",
-      "state": "+",
-      "change": "3"
+      "keyword": "2타점 적시타",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "정원오, 부동산지옥에서 적반하장?",
+      "keyword": "유재석, 주우재로 변우석 섭외할까?",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "서울 김천 리그 선두 유지",
+      "keyword": "주영훈의 메가 히트곡 비화",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "문동주 어깨 통증",
+      "keyword": "박민우 1타점 2루타",
       "state": "n",
       "change": "0"
     }
