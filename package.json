@@ -7,6 +7,6 @@
     "start": "node fetch_trends.js"
   },
   "dependencies": {
-    "rss-parser": "^3.13.0"
+    "google-trends-api": "^4.9.2"
   }
 }
