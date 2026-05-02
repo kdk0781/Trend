@@ -5,7 +5,7 @@ const fs = require('fs');
 
 const parser = new Parser({ customFields: { item: [['ht:approx_traffic', 'traffic']] } });
 
-// 1. 구글 트렌드 수집 (ScraperAPI 제거, 다이렉트 수집)
+// 1. 구글 트렌드 수집 
 async function getGoogleTrends() {
   const targetUrl = 'https://trends.google.com/trending/rss?geo=KR';
   try {
@@ -23,7 +23,7 @@ async function getGoogleTrends() {
   }
 }
 
-// 2. 국내 실시간 검색어 수집 (인코딩 깨짐 완벽 해결)
+// 2. 국내 실시간 검색어 수집 
 async function getDomesticTrends() {
   
   // 1순위: Nate API 다이렉트 호출 (EUC-KR 디코딩 적용)
@@ -34,12 +34,10 @@ async function getDomesticTrends() {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/124.0.0.0',
         'Referer': 'https://www.nate.com/'
       },
-      // 🌟 핵심: 글자 깨짐 방지를 위해 텍스트가 아닌 '바이너리(arraybuffer)'로 수신
       responseType: 'arraybuffer', 
       timeout: 10000
     });
 
-    // 🌟 핵심: Node.js 내장 기능을 통해 EUC-KR을 정상적인 한글(UTF-8)로 강제 번역
     const decodedData = new TextDecoder('euc-kr').decode(res.data);
     
     const startIndex = decodedData.indexOf('[');
@@ -51,7 +49,8 @@ async function getDomesticTrends() {
       
       const trends = parsedData.map((item, index) => ({
         rank: index + 1,
-        keyword: item[0] 
+        // 💡 수정됨: item[0]은 숫자(순위)이고, item[1]이 실제 검색어 텍스트입니다.
+        keyword: item[1] 
       }));
 
       console.log('✅ Nate API 데이터 수집 성공!');
@@ -72,7 +71,8 @@ async function getDomesticTrends() {
     const trends = [];
     $('.rank-text').each((i, el) => {
       const text = $(el).text().trim();
-      if (text && !trends.find(t => t.keyword === text)) {
+      // 숫자로만 된 텍스트가 섞여 들어오는 것을 방지
+      if (text && isNaN(text) && !trends.find(t => t.keyword === text)) {
         trends.push({ rank: trends.length + 1, keyword: text });
       }
     });
