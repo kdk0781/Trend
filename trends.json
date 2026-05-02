@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-05-02T22:04:54.423Z",
+  "updatedAt": "2026-05-02T22:58:21.573Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "건강",
-      "traffic": "1000+"
+      "keyword": "날씨",
+      "traffic": "500000+"
     },
     {
       "rank": 2,
-      "keyword": "laliga",
-      "traffic": "100+"
+      "keyword": "lpga",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "서울 날씨",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "두산그룹",
+      "keyword": "염경엽",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "이시형",
+      "traffic": "500+"
+    },
+    {
       "rank": 5,
-      "keyword": "xrp 레저",
+      "keyword": "이수진",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "안세영",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "신유빈",
+      "keyword": "야구",
       "traffic": "1000+"
     },
     {
+      "rank": 7,
+      "keyword": "아크인베스트",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "네덜란드",
-      "traffic": "500+"
+      "keyword": "天気",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "오사수나 대 바르셀로나",
-      "traffic": "500+"
+      "keyword": "tsmc",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "기술",
-      "traffic": "2000+"
+      "keyword": "자동차",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
@@ -67,51 +67,51 @@
     },
     {
       "rank": 3,
-      "keyword": "2026년 5월 3일 운세",
-      "state": "+",
-      "change": "1"
+      "keyword": "정이찬, 닥터신 마지막 서사",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "비 김태희 주부 매력 반전",
-      "state": "n",
-      "change": "0"
+      "keyword": "2026년 5월 3일 운세",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "인터뷰하는 세이브더칠드런 홍보대사",
-      "state": "n",
-      "change": "0"
+      "keyword": "정샘물 입양딸 영재 판정",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "은밀한감사",
+      "keyword": "변우석과 아이유, 결혼 계약서 유출",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "윤복희 4번 낙태했다",
+      "keyword": "인터뷰하는 박경림 홍보대사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "정샘물 CEO 입양딸 공개",
-      "state": "-",
-      "change": "5"
+      "keyword": "비♥ 김태희, 주부9단 매력과 미모 유지",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "돌체앤가바나 뷰티 59% 성장",
+      "keyword": "은밀한감사",
       "state": "-",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "환희와 은지원의 오열",
-      "state": "n",
-      "change": "0"
+      "keyword": "돌체앤가바나 뷰티 59% 성장",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
