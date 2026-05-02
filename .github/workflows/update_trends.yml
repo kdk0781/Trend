@@ -1,4 +1,4 @@
-name: Update Google Trends Data
+name: Update Trends Data
 
 on:
   schedule:
@@ -19,23 +19,24 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '24' # 경고 해결을 위해 24 버전으로 변경
+          node-version: '24'
 
       - name: Install Dependencies
         run: npm install
 
       - name: Fetch Trends Data
         run: node fetch_trends.js
+        env:
+          SCRAPER_API_KEY: ${{ secrets.SCRAPER_API_KEY }} # 깃허브 시크릿에서 키를 불러와 주입
 
       - name: Commit and Push changes
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # trends.json 파일이 존재하는지 확인하는 방어 로직
           if [ -f trends.json ]; then
             git add trends.json
             git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update trends data" && git push)
           else
-            echo "trends.json 파일이 생성되지 않아 커밋을 건너뜁니다."
+            echo "trends.json 파일이 없어 커밋을 건너뜁니다."
           fi
