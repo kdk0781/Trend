@@ -3,205 +3,186 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <title>🔥 실시간 트렌드 대시보드</title>
+  <title>🔥 실시간 트렌드 LIVE</title>
   <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css" />
   
   <style>
-    /* 기존 스타일 유지 + 업데이트 효과 추가 */
     :root {
-      --bg-color: #f4f6f9; --card-bg: #ffffff; --text-main: #1a1a1a; --text-sub: #888888;
-      --border-color: #eaeaea; --hover-bg: #f8f9fa; --rank-bg: #e9ecef; --rank-text: #495057;
-      --traffic-bg: #f1f3f5; --btn-bg: #1a73e8; --btn-hover: #1557b0; --btn-disabled: #a0c1f2;
-      --skeleton-bg: #e9ecef; --skeleton-shine: #f8f9fa;
-      --accent-color: #2ed573;
-    }
-    [data-theme="dark"] {
-      --bg-color: #121212; --card-bg: #1e1e1e; --text-main: #e0e0e0; --text-sub: #a0a0a0;
-      --border-color: #333333; --hover-bg: #2a2a2a; --rank-bg: #333333; --rank-text: #e0e0e0;
-      --traffic-bg: #2d2d2d; --btn-bg: #4c8bf5; --btn-hover: #3b71ca; --btn-disabled: #3a5c9a;
-      --skeleton-bg: #333333; --skeleton-shine: #444444;
-      --accent-color: #2ed573;
+      --bg-color: #0f1014; --card-bg: #1a1b20; --text-main: #ffffff; --text-sub: #94a3b8;
+      --border-color: #2d2e36; --hover-bg: #25262d; --rank-bg: #2d2e36;
+      --accent-color: #ff4757; --live-color: #2ed573;
     }
 
     * { margin: 0; padding: 0; box-sizing: border-box; }
-    body { font-family: 'Pretendard Variable', sans-serif; background-color: var(--bg-color); color: var(--text-main); transition: 0.3s; line-height: 1.6; }
+    body { font-family: 'Pretendard Variable', sans-serif; background-color: var(--bg-color); color: var(--text-main); line-height: 1.6; }
 
-    header { background-color: var(--card-bg); padding: 30px 20px; text-align: center; border-bottom: 1px solid var(--border-color); margin-bottom: 30px; }
-    header h1 { font-size: 1.8rem; font-weight: 800; margin-bottom: 8px; }
-    
-    /* 업데이트 시간 텍스트 애니메이션 */
-    #update-time { 
-      font-size: 0.95rem; 
-      color: var(--text-sub); 
-      margin-bottom: 20px; 
-      transition: color 0.3s, transform 0.3s;
-      display: inline-block;
+    /* 상단 LIVE 배너 스타일 */
+    .live-status-bar {
+      background: #000; padding: 10px; display: flex; justify-content: center; align-items: center; gap: 10px;
+      font-size: 0.85rem; font-weight: 600; border-bottom: 1px solid var(--border-color);
     }
-    .time-updated { color: var(--accent-color) !important; font-weight: 700; transform: scale(1.05); }
+    .live-dot {
+      width: 8px; height: 8px; background-color: var(--live-color); border-radius: 50%;
+      animation: blink 1.5s infinite;
+    }
+    @keyframes blink { 0% { opacity: 1; } 50% { opacity: 0.3; } 100% { opacity: 1; } }
 
-    .controls { display: flex; justify-content: center; gap: 10px; }
-    button { background-color: var(--btn-bg); color: white; border: none; padding: 12px 24px; border-radius: 30px; font-weight: 600; cursor: pointer; transition: 0.2s; display: flex; align-items: center; gap: 8px; }
-    button:hover:not(:disabled) { background-color: var(--btn-hover); transform: translateY(-1px); }
-    button:disabled { background-color: var(--btn-disabled); cursor: not-allowed; }
-    .theme-btn { background-color: var(--rank-bg); color: var(--text-main); padding: 10px; border-radius: 50%; width: 44px; height: 44px; }
-
-    main { max-width: 1050px; margin: 0 auto; padding: 0 15px 50px; display: grid; grid-template-columns: 1fr; gap: 25px; }
-    @media (min-width: 768px) { main { grid-template-columns: 1fr 1fr; } }
-
-    .trend-card { background: var(--card-bg); border-radius: 20px; border: 1px solid var(--border-color); overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.05); }
-    .trend-header { padding: 20px 24px; border-bottom: 1px solid var(--border-color); display: flex; align-items: center; }
-    .trend-header h2 { font-size: 1.2rem; font-weight: 700; }
-    .icon { font-size: 1.3rem; margin-right: 10px; }
-
-    .trend-list { list-style: none; }
-    .trend-item { display: flex; align-items: center; padding: 16px 24px; border-bottom: 1px solid var(--border-color); text-decoration: none; color: inherit; }
-    .trend-item:hover { background-color: var(--hover-bg); }
+    header { padding: 40px 20px; text-align: center; }
+    header h1 { font-size: 2rem; font-weight: 900; letter-spacing: -1px; margin-bottom: 15px; }
     
-    .rank { width: 30px; height: 30px; display: flex; align-items: center; justify-content: center; background-color: var(--rank-bg); color: var(--rank-text); border-radius: 8px; font-size: 0.95rem; font-weight: 700; margin-right: 16px; flex-shrink: 0; }
-    .trend-item:nth-child(1) .rank { background-color: #ff4757; color: white; }
-    .trend-item:nth-child(2) .rank { background-color: #ffa502; color: white; }
-    .trend-item:nth-child(3) .rank { background-color: #2ed573; color: white; }
+    /* 타이머 디자인 고도화 */
+    .sync-info {
+      background: rgba(46, 213, 115, 0.1); color: var(--live-color);
+      display: inline-block; padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; margin-bottom: 20px;
+    }
 
-    .keyword { flex-grow: 1; font-size: 1.05rem; font-weight: 600; }
-    .traffic { font-size: 0.8rem; color: var(--text-sub); background: var(--traffic-bg); padding: 4px 10px; border-radius: 6px; margin-left: 10px; }
+    .controls { display: flex; justify-content: center; gap: 12px; margin-top: 10px; }
+    button { 
+      background: var(--text-main); color: #000; border: none; padding: 14px 28px; 
+      border-radius: 12px; font-weight: 700; cursor: pointer; transition: 0.3s;
+    }
+    button:hover { transform: scale(1.02); opacity: 0.9; }
 
-    .status-badge { font-size: 0.85rem; font-weight: 800; margin-left: 10px; width: 20px; text-align: center; }
-    .status-up { color: #ff4757; } .status-down { color: #3742fa; } .status-new { color: #ff4757; } .status-same { color: var(--text-sub); }
+    main { max-width: 1100px; margin: 0 auto; padding: 20px 15px 60px; display: grid; grid-template-columns: 1fr; gap: 30px; }
+    @media (min-width: 850px) { main { grid-template-columns: 1fr 1fr; } }
 
-    #toast { visibility: hidden; min-width: 280px; background-color: #333; color: #fff; text-align: center; border-radius: 50px; padding: 14px 28px; position: fixed; z-index: 1000; left: 50%; bottom: 30px; transform: translateX(-50%); font-weight: 500; box-shadow: 0 10px 20px rgba(0,0,0,0.3); }
+    .trend-card { background: var(--card-bg); border-radius: 24px; border: 1px solid var(--border-color); overflow: hidden; }
+    .trend-header { padding: 24px; border-bottom: 1px solid var(--border-color); display: flex; justify-content: space-between; align-items: center; }
+    .trend-header h2 { font-size: 1.25rem; font-weight: 800; }
+
+    .trend-item { 
+      display: flex; align-items: center; padding: 20px 24px; border-bottom: 1px solid var(--border-color); 
+      text-decoration: none; color: inherit; transition: 0.2s;
+    }
+    .trend-item:hover { background-color: var(--hover-bg); padding-left: 30px; }
+    
+    .rank { 
+      width: 32px; height: 32px; display: flex; align-items: center; justify-content: center; 
+      font-size: 1rem; font-weight: 800; margin-right: 20px; color: var(--text-sub);
+    }
+    .trend-item:nth-child(1) .rank { color: #ff4757; font-size: 1.4rem; }
+    .trend-item:nth-child(2) .rank { color: #ffa502; font-size: 1.3rem; }
+    .trend-item:nth-child(3) .rank { color: #2ed573; font-size: 1.2rem; }
+
+    .keyword { flex-grow: 1; font-size: 1.1rem; font-weight: 700; letter-spacing: -0.3px; }
+    
+    .status-badge { font-weight: 900; width: 30px; text-align: right; }
+    .status-up { color: #ff4757; } .status-down { color: #3742fa; } .status-new { color: #ff4757; }
+
+    #toast {
+      visibility: hidden; min-width: 200px; background-color: var(--live-color); color: #000;
+      text-align: center; border-radius: 12px; padding: 16px; position: fixed;
+      z-index: 1000; left: 50%; bottom: 40px; transform: translateX(-50%); font-weight: 800;
+    }
     #toast.show { visibility: visible; animation: fadein 0.5s, fadeout 0.5s 2.5s; }
-    @keyframes fadein { from { bottom: 0; opacity: 0; } to { bottom: 30px; opacity: 1; } }
-    @keyframes fadeout { from { bottom: 30px; opacity: 1; } to { bottom: 0; opacity: 0; } }
+    @keyframes fadein { from { bottom: 0; opacity: 0; } to { bottom: 40px; opacity: 1; } }
+    @keyframes fadeout { from { bottom: 40px; opacity: 1; } to { bottom: 0; opacity: 0; } }
   </style>
 </head>
 <body>
 
+  <div class="live-status-bar">
+    <div class="live-dot"></div>
+    <span>NETWORK LIVE (KR/GLOBAL)</span>
+  </div>
+
   <header>
-    <h1>🔥 오늘 실시간 트렌드</h1>
-    <p id="update-time">마지막 확인: 데이터 동기화 중...</p>
+    <div class="sync-info" id="sync-text">실시간 데이터 동기화 중...</div>
+    <h1>지금 대한민국은?</h1>
+    <div id="update-time" style="color: var(--text-sub); font-size: 0.9rem; margin-bottom: 20px;">정보 업데이트 중...</div>
     <div class="controls">
-      <button id="refresh-btn" onclick="loadTrends(true)">🔄 최신 데이터 불러오기</button>
-      <button class="theme-btn" onclick="toggleTheme()">☀️</button>
+      <button onclick="loadTrends(true)">최신 트렌드 갱신</button>
     </div>
   </header>
 
   <main>
     <section class="trend-card">
-      <div class="trend-header"><span class="icon">🌐</span><h2>구글 급상승 검색어</h2></div>
+      <div class="trend-header"><h2>🌐 Google Global</h2></div>
       <ul id="google-list" class="trend-list"></ul>
     </section>
     <section class="trend-card">
-      <div class="trend-header"><span class="icon">🇰🇷</span><h2>국내 이슈 검색어</h2></div>
+      <div class="trend-header"><h2>🇰🇷 Domestic Issue</h2></div>
       <ul id="domestic-list" class="trend-list"></ul>
     </section>
   </main>
 
-  <div id="toast">✅ 실시간 데이터가 갱신되었습니다.</div>
+  <div id="toast">FETCH COMPLETED</div>
 
   <script>
-    function toggleTheme() {
-      const current = document.documentElement.getAttribute('data-theme');
-      const next = current === 'dark' ? 'light' : 'dark';
-      document.documentElement.setAttribute('data-theme', next);
-      document.querySelector('.theme-btn').innerText = next === 'dark' ? '☀️' : '🌙';
-    }
+    let nextUpdateTime = 600; // 10분(600초) 카운트다운
 
-    function showToast(message) {
-      const toast = document.getElementById("toast");
-      toast.innerText = message;
-      toast.classList.add("show");
-      setTimeout(() => { toast.classList.remove("show"); }, 3000);
-    }
-
-    // 💡 시간을 실시간으로 업데이트하고 시각 효과를 주는 함수
-    function updateTimestamp() {
-      const timeElement = document.getElementById('update-time');
-      const now = new Date();
-      const formattedTime = now.toLocaleString('ko-KR', {
-        year: 'numeric', month: '2-digit', day: '2-digit',
-        hour: '2-digit', minute: '2-digit', second: '2-digit',
-        hour12: false
-      });
-
-      timeElement.innerText = `마지막 확인: ${formattedTime}`;
-      
-      // 시각적 피드백: 초록색으로 강조했다가 원래대로
-      timeElement.classList.add('time-updated');
-      setTimeout(() => {
-        timeElement.classList.remove('time-updated');
+    function startTimer() {
+      setInterval(() => {
+        if (nextUpdateTime > 0) nextUpdateTime--;
+        const mins = Math.floor(nextUpdateTime / 60);
+        const secs = nextUpdateTime % 60;
+        document.getElementById('sync-text').innerText = 
+          `다음 데이터 동기화까지 ${mins}분 ${secs}초 남음`;
+        
+        // 0초가 되면 자동으로 데이터 다시 읽어오기
+        if (nextUpdateTime === 0) {
+          loadTrends(false);
+          nextUpdateTime = 600;
+        }
       }, 1000);
     }
 
     async function loadTrends(isManual = false) {
-      const btn = document.getElementById('refresh-btn');
-      if (isManual) {
-        btn.disabled = true;
-        btn.innerText = '⏳ 확인 중...';
-      }
-
-      // 캐시 방지를 위한 쿼리 스트링
       const url = `trends.json?t=${new Date().getTime()}`;
-
       try {
         const response = await fetch(url);
         const data = await response.json();
+        
+        const now = new Date();
+        document.getElementById('update-time').innerText = 
+          `LAST SCAN: ${now.toLocaleTimeString('ko-KR', { hour12: false })} (KST)`;
 
-        // 리스트 렌더링
         renderList('google-list', data.google, 'google');
         renderList('domestic-list', data.domestic, 'naver');
 
-        // 💡 핵심: 성공적으로 데이터를 가져오면 현재 시간으로 갱신
-        updateTimestamp();
-
-        if (isManual) showToast("✅ 실시간 트렌드 확인 완료!");
-
-      } catch (error) {
-        console.error('Fetch Error:', error);
-        if (isManual) showToast("❌ 데이터 연결 실패");
-      } finally {
         if (isManual) {
-          btn.disabled = false;
-          btn.innerText = '🔄 최신 데이터 불러오기';
+          showToast("DATA REFRESHED");
+          nextUpdateTime = 600; // 수동 갱신 시 타이머 초기화
         }
+      } catch (e) {
+        console.error(e);
       }
     }
 
-    function renderList(elementId, items, searchEngine) {
-      const listElement = document.getElementById(elementId);
-      listElement.innerHTML = ''; 
-
+    function renderList(elementId, items, engine) {
+      const list = document.getElementById(elementId);
+      list.innerHTML = ''; 
       items.forEach(item => {
-        const searchUrl = searchEngine === 'google' 
+        const searchUrl = engine === 'google' 
           ? `https://www.google.com/search?q=${encodeURIComponent(item.keyword)}`
           : `https://search.naver.com/search.naver?query=${encodeURIComponent(item.keyword)}`;
 
         const li = document.createElement('a');
         li.href = searchUrl; li.target = "_blank"; li.className = 'trend-item';
         
-        const trafficHtml = item.traffic && item.traffic !== 'N/A' ? `<span class="traffic">${item.traffic}</span>` : '';
-        
-        let stateHtml = '';
-        if (item.state) {
-          if (item.state === '+') stateHtml = `<span class="status-badge status-up">▲</span>`;
-          else if (item.state === '-') stateHtml = `<span class="status-badge status-down">▼</span>`;
-          else if (item.state.toLowerCase() === 'n') stateHtml = `<span class="status-badge status-new">N</span>`;
-          else stateHtml = `<span class="status-badge status-same">-</span>`;
-        }
+        let badge = '';
+        if (item.state === '+') badge = `<span class="status-badge status-up">▲</span>`;
+        else if (item.state === '-') badge = `<span class="status-badge status-down">▼</span>`;
+        else if (item.state?.toLowerCase() === 'n') badge = `<span class="status-badge status-new">NEW</span>`;
+        else badge = `<span class="status-badge" style="color:#555">-</span>`;
 
         li.innerHTML = `
           <span class="rank">${item.rank}</span>
           <span class="keyword">${item.keyword}</span>
-          ${trafficHtml}
-          ${stateHtml}
+          ${badge}
         `;
-        listElement.appendChild(li);
+        list.appendChild(li);
       });
     }
 
-    // 초기 실행
+    function showToast(msg) {
+      const t = document.getElementById("toast");
+      t.innerText = msg; t.classList.add("show");
+      setTimeout(() => t.classList.remove("show"), 2500);
+    }
+
     loadTrends();
-    // 10분 자동 갱신
-    setInterval(() => loadTrends(false), 600000); 
+    startTimer();
   </script>
 </body>
 </html>
