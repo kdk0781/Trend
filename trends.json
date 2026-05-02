@@ -1,62 +1,62 @@
 {
-  "updatedAt": "2026-05-02T12:06:35.159Z",
+  "updatedAt": "2026-05-02T13:44:21.775Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "릴리",
+      "keyword": "bayern vs heidenheim",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "개헌",
-      "traffic": "100+"
+      "keyword": "유칼",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "산들",
-      "traffic": "200+"
+      "keyword": "스테이블코인",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "박기량",
-      "traffic": "100+"
+      "keyword": "문지애",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "예정 화",
-      "traffic": "2000+"
+      "keyword": "신혜선",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "채연",
-      "traffic": "100+"
+      "keyword": "marwan rahiki",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "dazn",
-      "traffic": "100+"
+      "keyword": "뷔",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "spirit airlines",
-      "traffic": "100+"
+      "keyword": "로또1222",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "전혜진",
-      "traffic": "100+"
+      "keyword": "북구 갑",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "gc녹십자",
-      "traffic": "200+"
+      "keyword": "내일 날씨",
+      "traffic": "200000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "21세기 대군부인",
-      "state": "s",
+      "keyword": "문성훈 재혼 2년 만에 결혼식",
+      "state": "n",
       "change": "0"
     },
     {
@@ -67,51 +67,51 @@
     },
     {
       "rank": 3,
-      "keyword": "황동하 7이닝 무실점 투혼!",
+      "keyword": "엡스타인 유서 7년 간 법원 보관",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "유재석 변우석 섭외 가능?",
+      "keyword": "신지 문원 결혼식",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "신이랑 법률사무소",
-      "state": "s",
-      "change": "0"
+      "keyword": "황동하 7이닝 무실점 투혼",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "결혼식 공개했다 신지에",
-      "state": "n",
-      "change": "0"
+      "keyword": "문체부 장관, 한예종 광주 반대",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "안우진, 981일 만에 승리!",
+      "keyword": "비와이 레이블 9년 실패",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "시술과 젊은 마인드",
+      "keyword": "1222회 로또 1등 24명",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "도봉구 어린이날 축제 개최",
-      "state": "+",
-      "change": "12"
+      "keyword": "한화 3연패 탈출!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "노시환 2점 홈런",
-      "state": "n",
-      "change": "0"
+      "keyword": "은밀한감사",
+      "state": "+",
+      "change": "17"
     }
   ]
 }
