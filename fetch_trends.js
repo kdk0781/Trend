@@ -37,59 +37,61 @@ async function getGoogleTrends() {
   }
 }
 
-// 2. 국내 실시간 검색어 수집 (Nate API + ScraperAPI 우회 결합)
+// 2. 국내 실시간 검색어 수집 (한국 IP 우회 + 다중 릴레이)
 async function getDomesticTrends() {
   const apiKey = process.env.SCRAPER_API_KEY;
   if (!apiKey) {
-    console.error("❌ API Key가 없습니다. GitHub Secrets를 확인하세요.");
+    console.error("❌ API Key가 없습니다.");
     return [];
   }
 
-  // 1순위: 네이트 내부 API를 우회 서버(ScraperAPI)로 접속 (가장 확실하고 빠른 방법)
+  // 💡 핵심 해결책: &country_code=kr 파라미터를 추가하여 '한국 IP'로 접속 위장!
+  const getProxyUrl = (targetUrl) => 
+    `http://api.scraperapi.com?api_key=${apiKey}&country_code=kr&url=${encodeURIComponent(targetUrl)}`;
+
+  // 1순위: 네이트 (Nate) 모바일 메인 - 한국 IP 우회 크롤링
   try {
-    console.log('🇰🇷 국내 검색어 (1순위: Nate API) 우회 수집 중...');
-    const targetUrl = 'https://www.nate.com/js/data/jsonLiveKeywordDataV1.js';
-    // API 키를 사용해 프록시 URL 생성
-    const proxyUrl = `http://api.scraperapi.com?api_key=${apiKey}&url=${encodeURIComponent(targetUrl)}`;
-
-    const res = await axios.get(proxyUrl, { timeout: 15000 });
-
-    // 받아온 텍스트에서 JSON 배열 부분만 추출
-    const startIndex = res.data.indexOf('[');
-    const endIndex = res.data.lastIndexOf(']');
-
-    if (startIndex !== -1 && endIndex !== -1) {
-      const jsonString = res.data.substring(startIndex, endIndex + 1);
-      const parsedData = JSON.parse(jsonString); 
-
-      // 데이터 가공 (배열의 첫 번째 요소가 검색어)
-      const trends = parsedData.map((item, index) => ({
-        rank: index + 1,
-        keyword: item[0] 
-      }));
-
-      console.log('✅ Nate API 데이터 수집 성공');
-      return trends.slice(0, 10);
-    }
-  } catch (e) { console.log('⚠️ Nate API 우회 수집 실패: ' + e.message); }
-
-  // 2순위: 시그널(Signal.bz) 우회 (네이트 서버가 죽었을 때를 대비한 백업)
-  try {
-    console.log('🇰🇷 국내 검색어 (2순위: Signal) 우회 수집 중...');
-    const targetUrl = 'https://signal.bz/news';
-    const proxyUrl = `http://api.scraperapi.com?api_key=${apiKey}&url=${encodeURIComponent(targetUrl)}`;
-    
-    const res = await axios.get(proxyUrl, { timeout: 15000 });
+    console.log('🇰🇷 국내 검색어 (1순위: Nate) 우회 수집 중...');
+    // 한국 IP로 접속하므로 타임아웃을 넉넉히 20초로 설정
+    const res = await axios.get(getProxyUrl('https://m.nate.com'), { timeout: 20000 });
     const $ = cheerio.load(res.data);
     const trends = [];
-    $('.rank-text').each((i, el) => {
+    $('.kwd_list .kwd, .isKeywordList .kwd, .sank_list .kwd, .rank_list .kwd').each((i, el) => {
       const text = $(el).text().trim();
-      if (text && !trends.find(t => t.keyword === text)) {
-        trends.push({ rank: trends.length + 1, keyword: text });
-      }
+      if (text && isNaN(text) && !trends.find(t => t.keyword === text)) trends.push({ rank: trends.length + 1, keyword: text });
     });
-    if (trends.length > 0) { console.log('✅ Signal 데이터 수집 성공'); return trends.slice(0, 10); }
-  } catch (e) { console.log('⚠️ Signal 우회 수집 실패: ' + e.message); }
+    if (trends.length > 0) { console.log('✅ Nate 데이터 수집 성공'); return trends.slice(0, 10); }
+  } catch (e) { console.log('⚠️ Nate 우회 수집 실패: ' + e.message); }
+
+  // 2순위: 줌 (ZUM) - 한국 IP 우회 크롤링
+  try {
+    console.log('🇰🇷 국내 검색어 (2순위: ZUM) 우회 수집 중...');
+    const res = await axios.get(getProxyUrl('https://zum.com'), { timeout: 20000 });
+    const $ = cheerio.load(res.data);
+    const trends = [];
+    $('.issue-keyword .word, .list-issue .word, .issue_keyword_list .keyword').each((i, el) => {
+      const text = $(el).text().trim();
+      if (text && isNaN(text) && !trends.find(t => t.keyword === text)) trends.push({ rank: trends.length + 1, keyword: text });
+    });
+    if (trends.length > 0) { console.log('✅ ZUM 데이터 수집 성공'); return trends.slice(0, 10); }
+  } catch (e) { console.log('⚠️ ZUM 우회 수집 실패: ' + e.message); }
+
+  // 3순위: 네이트 숨겨진 내부 API (우회 없이 다이렉트 호출 - 최후의 보루)
+  try {
+    console.log('🇰🇷 국내 검색어 (3순위: Nate API) 다이렉트 수집 중...');
+    const res = await axios.get('https://www.nate.com/js/data/jsonLiveKeywordDataV1.js', { 
+      headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0' },
+      timeout: 10000 
+    });
+    const startIndex = res.data.indexOf('[');
+    const endIndex = res.data.lastIndexOf(']');
+    if (startIndex !== -1 && endIndex !== -1) {
+      const parsedData = JSON.parse(res.data.substring(startIndex, endIndex + 1));
+      const trends = parsedData.map((item, index) => ({ rank: index + 1, keyword: item[0] }));
+      console.log('✅ Nate API 다이렉트 수집 성공');
+      return trends.slice(0, 10);
+    }
+  } catch (e) { console.log('⚠️ Nate API 다이렉트 수집 실패: ' + e.message); }
 
   console.error('❌ 모든 국내 검색어 사이트 수집 실패');
   return [];
