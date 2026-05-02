@@ -7,18 +7,20 @@
   <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css" />
   
   <style>
-    /* CSS 변수 (라이트/다크 모드) */
+    /* 기존 스타일 유지 + 업데이트 효과 추가 */
     :root {
       --bg-color: #f4f6f9; --card-bg: #ffffff; --text-main: #1a1a1a; --text-sub: #888888;
       --border-color: #eaeaea; --hover-bg: #f8f9fa; --rank-bg: #e9ecef; --rank-text: #495057;
       --traffic-bg: #f1f3f5; --btn-bg: #1a73e8; --btn-hover: #1557b0; --btn-disabled: #a0c1f2;
       --skeleton-bg: #e9ecef; --skeleton-shine: #f8f9fa;
+      --accent-color: #2ed573;
     }
     [data-theme="dark"] {
       --bg-color: #121212; --card-bg: #1e1e1e; --text-main: #e0e0e0; --text-sub: #a0a0a0;
       --border-color: #333333; --hover-bg: #2a2a2a; --rank-bg: #333333; --rank-text: #e0e0e0;
       --traffic-bg: #2d2d2d; --btn-bg: #4c8bf5; --btn-hover: #3b71ca; --btn-disabled: #3a5c9a;
       --skeleton-bg: #333333; --skeleton-shine: #444444;
+      --accent-color: #2ed573;
     }
 
     * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -26,18 +28,27 @@
 
     header { background-color: var(--card-bg); padding: 30px 20px; text-align: center; border-bottom: 1px solid var(--border-color); margin-bottom: 30px; }
     header h1 { font-size: 1.8rem; font-weight: 800; margin-bottom: 8px; }
-    header p { font-size: 0.95rem; color: var(--text-sub); margin-bottom: 20px; }
     
+    /* 업데이트 시간 텍스트 애니메이션 */
+    #update-time { 
+      font-size: 0.95rem; 
+      color: var(--text-sub); 
+      margin-bottom: 20px; 
+      transition: color 0.3s, transform 0.3s;
+      display: inline-block;
+    }
+    .time-updated { color: var(--accent-color) !important; font-weight: 700; transform: scale(1.05); }
+
     .controls { display: flex; justify-content: center; gap: 10px; }
-    button { background-color: var(--btn-bg); color: white; border: none; padding: 10px 20px; border-radius: 30px; font-weight: 600; cursor: pointer; transition: 0.2s; }
+    button { background-color: var(--btn-bg); color: white; border: none; padding: 12px 24px; border-radius: 30px; font-weight: 600; cursor: pointer; transition: 0.2s; display: flex; align-items: center; gap: 8px; }
     button:hover:not(:disabled) { background-color: var(--btn-hover); transform: translateY(-1px); }
     button:disabled { background-color: var(--btn-disabled); cursor: not-allowed; }
-    .theme-btn { background-color: var(--rank-bg); color: var(--text-main); padding: 10px; border-radius: 50%; width: 42px; height: 42px; }
+    .theme-btn { background-color: var(--rank-bg); color: var(--text-main); padding: 10px; border-radius: 50%; width: 44px; height: 44px; }
 
     main { max-width: 1050px; margin: 0 auto; padding: 0 15px 50px; display: grid; grid-template-columns: 1fr; gap: 25px; }
     @media (min-width: 768px) { main { grid-template-columns: 1fr 1fr; } }
 
-    .trend-card { background: var(--card-bg); border-radius: 20px; border: 1px solid var(--border-color); overflow: hidden; }
+    .trend-card { background: var(--card-bg); border-radius: 20px; border: 1px solid var(--border-color); overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.05); }
     .trend-header { padding: 20px 24px; border-bottom: 1px solid var(--border-color); display: flex; align-items: center; }
     .trend-header h2 { font-size: 1.2rem; font-weight: 700; }
     .icon { font-size: 1.3rem; margin-right: 10px; }
@@ -46,7 +57,7 @@
     .trend-item { display: flex; align-items: center; padding: 16px 24px; border-bottom: 1px solid var(--border-color); text-decoration: none; color: inherit; }
     .trend-item:hover { background-color: var(--hover-bg); }
     
-    .rank { width: 28px; height: 28px; display: flex; align-items: center; justify-content: center; background-color: var(--rank-bg); color: var(--rank-text); border-radius: 8px; font-size: 0.9rem; font-weight: 700; margin-right: 16px; flex-shrink: 0; }
+    .rank { width: 30px; height: 30px; display: flex; align-items: center; justify-content: center; background-color: var(--rank-bg); color: var(--rank-text); border-radius: 8px; font-size: 0.95rem; font-weight: 700; margin-right: 16px; flex-shrink: 0; }
     .trend-item:nth-child(1) .rank { background-color: #ff4757; color: white; }
     .trend-item:nth-child(2) .rank { background-color: #ffa502; color: white; }
     .trend-item:nth-child(3) .rank { background-color: #2ed573; color: white; }
@@ -54,37 +65,21 @@
     .keyword { flex-grow: 1; font-size: 1.05rem; font-weight: 600; }
     .traffic { font-size: 0.8rem; color: var(--text-sub); background: var(--traffic-bg); padding: 4px 10px; border-radius: 6px; margin-left: 10px; }
 
-    /* 상승/하락/New 아이콘 스타일 */
-    .status-badge { font-size: 0.85rem; font-weight: 800; margin-left: 10px; width: 20px; text-align: center; display: flex; justify-content: center; align-items: center;}
-    .status-up { color: #ff4757; }    
-    .status-down { color: #3742fa; }  
-    .status-new { color: #ff4757; font-weight: 900; }
-    .status-same { color: var(--text-sub); }
+    .status-badge { font-size: 0.85rem; font-weight: 800; margin-left: 10px; width: 20px; text-align: center; }
+    .status-up { color: #ff4757; } .status-down { color: #3742fa; } .status-new { color: #ff4757; } .status-same { color: var(--text-sub); }
 
-    /* 토스트 알림창 스타일 */
-    #toast {
-      visibility: hidden; min-width: 250px; background-color: #333; color: #fff; text-align: center;
-      border-radius: 30px; padding: 12px 24px; position: fixed; z-index: 1000; left: 50%; bottom: 30px;
-      transform: translateX(-50%); font-size: 0.95rem; font-weight: 500; box-shadow: 0 5px 15px rgba(0,0,0,0.2);
-    }
+    #toast { visibility: hidden; min-width: 280px; background-color: #333; color: #fff; text-align: center; border-radius: 50px; padding: 14px 28px; position: fixed; z-index: 1000; left: 50%; bottom: 30px; transform: translateX(-50%); font-weight: 500; box-shadow: 0 10px 20px rgba(0,0,0,0.3); }
     #toast.show { visibility: visible; animation: fadein 0.5s, fadeout 0.5s 2.5s; }
     @keyframes fadein { from { bottom: 0; opacity: 0; } to { bottom: 30px; opacity: 1; } }
     @keyframes fadeout { from { bottom: 30px; opacity: 1; } to { bottom: 0; opacity: 0; } }
-
-    /* 스켈레톤 로딩 */
-    .skeleton { background: linear-gradient(90deg, var(--skeleton-bg) 25%, var(--skeleton-shine) 50%, var(--skeleton-bg) 75%); background-size: 200% 100%; animation: loading 1.5s infinite; border-radius: 4px; }
-    @keyframes loading { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
-    .skel-rank { width: 28px; height: 28px; border-radius: 8px; margin-right: 16px; }
-    .skel-text { width: 60%; height: 20px; }
   </style>
 </head>
 <body>
 
   <header>
     <h1>🔥 오늘 실시간 트렌드</h1>
-    <p id="update-time">데이터 확인 중...</p>
+    <p id="update-time">마지막 확인: 데이터 동기화 중...</p>
     <div class="controls">
-      <!-- 💡 onclick에 true를 넘겨 수동 새로고침임을 명시합니다 -->
       <button id="refresh-btn" onclick="loadTrends(true)">🔄 최신 데이터 불러오기</button>
       <button class="theme-btn" onclick="toggleTheme()">☀️</button>
     </div>
@@ -101,11 +96,9 @@
     </section>
   </main>
 
-  <!-- 💡 빠져있던 토스트 HTML 복구 -->
-  <div id="toast">✅ 최신 데이터를 불러왔습니다.</div>
+  <div id="toast">✅ 실시간 데이터가 갱신되었습니다.</div>
 
   <script>
-    // 다크모드
     function toggleTheme() {
       const current = document.documentElement.getAttribute('data-theme');
       const next = current === 'dark' ? 'light' : 'dark';
@@ -113,44 +106,60 @@
       document.querySelector('.theme-btn').innerText = next === 'dark' ? '☀️' : '🌙';
     }
 
-    // 💡 빠져있던 토스트 띄우기 함수 복구
     function showToast(message) {
       const toast = document.getElementById("toast");
       toast.innerText = message;
-      toast.className = "show";
-      setTimeout(() => { toast.className = toast.className.replace("show", ""); }, 3000);
+      toast.classList.add("show");
+      setTimeout(() => { toast.classList.remove("show"); }, 3000);
     }
 
-    // 메인 로드 함수 (수동 새로고침 여부 체크)
-    async function loadTrends(isManualRefresh = false) {
-      const btn = document.getElementById('refresh-btn');
+    // 💡 시간을 실시간으로 업데이트하고 시각 효과를 주는 함수
+    function updateTimestamp() {
+      const timeElement = document.getElementById('update-time');
+      const now = new Date();
+      const formattedTime = now.toLocaleString('ko-KR', {
+        year: 'numeric', month: '2-digit', day: '2-digit',
+        hour: '2-digit', minute: '2-digit', second: '2-digit',
+        hour12: false
+      });
+
+      timeElement.innerText = `마지막 확인: ${formattedTime}`;
       
-      // 💡 고도화: 수동 클릭 시 버튼 비활성화 & 로딩 텍스트로 변경 (스팸 클릭 방지)
-      if (isManualRefresh) {
+      // 시각적 피드백: 초록색으로 강조했다가 원래대로
+      timeElement.classList.add('time-updated');
+      setTimeout(() => {
+        timeElement.classList.remove('time-updated');
+      }, 1000);
+    }
+
+    async function loadTrends(isManual = false) {
+      const btn = document.getElementById('refresh-btn');
+      if (isManual) {
         btn.disabled = true;
-        btn.innerText = '⏳ 불러오는 중...';
+        btn.innerText = '⏳ 확인 중...';
       }
 
-      const jsonUrl = `trends.json?t=${new Date().getTime()}`;
-      try {
-        const response = await fetch(jsonUrl);
-        const data = await response.json();
-        
-        const date = new Date(data.updatedAt);
-        document.getElementById('update-time').innerText = `마지막 업데이트: ${date.toLocaleString('ko-KR')}`;
+      // 캐시 방지를 위한 쿼리 스트링
+      const url = `trends.json?t=${new Date().getTime()}`;
 
+      try {
+        const response = await fetch(url);
+        const data = await response.json();
+
+        // 리스트 렌더링
         renderList('google-list', data.google, 'google');
         renderList('domestic-list', data.domestic, 'naver');
 
-        // 💡 수동 클릭 시에만 토스트 알림 띄우기
-        if (isManualRefresh) showToast("✅ 최신 데이터를 성공적으로 불러왔습니다.");
+        // 💡 핵심: 성공적으로 데이터를 가져오면 현재 시간으로 갱신
+        updateTimestamp();
+
+        if (isManual) showToast("✅ 실시간 트렌드 확인 완료!");
 
       } catch (error) {
-        console.error('Error:', error);
-        if (isManualRefresh) showToast("❌ 데이터 갱신에 실패했습니다.");
+        console.error('Fetch Error:', error);
+        if (isManual) showToast("❌ 데이터 연결 실패");
       } finally {
-        // 💡 작업 완료 후 버튼 원상복구
-        if (isManualRefresh) {
+        if (isManual) {
           btn.disabled = false;
           btn.innerText = '🔄 최신 데이터 불러오기';
         }
@@ -171,7 +180,6 @@
         
         const trafficHtml = item.traffic && item.traffic !== 'N/A' ? `<span class="traffic">${item.traffic}</span>` : '';
         
-        // 상승, 하락, 신규(New), 동일 상태 아이콘 
         let stateHtml = '';
         if (item.state) {
           if (item.state === '+') stateHtml = `<span class="status-badge status-up">▲</span>`;
@@ -190,10 +198,10 @@
       });
     }
 
-    // 💡 초기 실행 및 10분마다 자동 갱신 (자동 갱신때는 토스트 안 뜸)
+    // 초기 실행
     loadTrends();
+    // 10분 자동 갱신
     setInterval(() => loadTrends(false), 600000); 
-
   </script>
 </body>
 </html>
