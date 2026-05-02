@@ -1,12 +1,14 @@
 {
   "name": "trend-crawler",
   "version": "1.0.0",
-  "description": "실시간 검색어 크롤러",
+  "description": "하이브리드 실시간 검색어 크롤러",
   "main": "fetch_trends.js",
   "scripts": {
     "start": "node fetch_trends.js"
   },
   "dependencies": {
-    "google-trends-api": "^4.9.2"
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12",
+    "rss-parser": "^3.13.0"
   }
 }
