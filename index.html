@@ -7,92 +7,56 @@
   <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css" />
   
   <style>
-    /* 라이트/다크 모드 색상 */
     :root {
       --bg-color: #f8f9fa; --card-bg: #ffffff; --text-main: #1e293b; --text-sub: #64748b;
       --border-color: #e2e8f0; --hover-bg: #f1f5f9; --rank-bg: #f8fafc;
-      --traffic-bg: #f1f5f9; 
-      --accent-color: #ef4444; --live-color: #10b981; 
+      --traffic-bg: #f1f5f9; --accent-color: #ef4444; --live-color: #10b981; 
       --btn-bg: #1e293b; --btn-text: #ffffff; --btn-hover: #334155;
     }
     [data-theme="dark"] {
       --bg-color: #0f1014; --card-bg: #1a1b20; --text-main: #ffffff; --text-sub: #94a3b8;
       --border-color: #2d2e36; --hover-bg: #25262d; --rank-bg: #2d2e36;
-      --traffic-bg: #2d2e36; 
-      --accent-color: #ff4757; --live-color: #2ed573; 
+      --traffic-bg: #2d2e36; --accent-color: #ff4757; --live-color: #2ed573; 
       --btn-bg: #ffffff; --btn-text: #000000; --btn-hover: #e2e8f0;
     }
 
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body { font-family: 'Pretendard Variable', sans-serif; background-color: var(--bg-color); color: var(--text-main); line-height: 1.6; transition: background-color 0.3s, color 0.3s; }
 
-    .live-status-bar {
-      background: var(--card-bg); padding: 10px; display: flex; justify-content: center; align-items: center; gap: 10px;
-      font-size: 0.85rem; font-weight: 700; border-bottom: 1px solid var(--border-color); transition: 0.3s;
-    }
-    .live-dot {
-      width: 8px; height: 8px; background-color: var(--live-color); border-radius: 50%;
-      animation: blink 1.5s infinite;
-    }
-    @keyframes blink { 0% { opacity: 1; } 50% { opacity: 0.3; } 100% { opacity: 1; } }
+    .live-status-bar { background: var(--card-bg); padding: 10px; display: flex; justify-content: center; align-items: center; gap: 10px; font-size: 0.85rem; font-weight: 700; border-bottom: 1px solid var(--border-color); }
+    .live-dot { width: 8px; height: 8px; background-color: var(--live-color); border-radius: 50%; animation: blink 1.5s infinite; }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
 
     header { padding: 40px 20px; text-align: center; }
     header h1 { font-size: 2rem; font-weight: 900; letter-spacing: -1px; margin-bottom: 15px; }
-    
-    .sync-info {
-      background: rgba(46, 213, 115, 0.1); color: var(--live-color); font-weight: 600;
-      display: inline-block; padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; margin-bottom: 20px;
-    }
+    .sync-info { background: rgba(46, 213, 115, 0.1); color: var(--live-color); font-weight: 600; display: inline-block; padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; margin-bottom: 20px; }
 
-    .controls { display: flex; justify-content: center; align-items: center; gap: 12px; margin-top: 10px; }
-    button.refresh-btn { 
-      background: var(--btn-bg); color: var(--btn-text); border: none; padding: 14px 28px; 
-      border-radius: 12px; font-weight: 700; cursor: pointer; transition: 0.3s;
-    }
-    button.refresh-btn:hover { background: var(--btn-hover); transform: scale(1.02); }
-    
-    .theme-btn { 
-      background: var(--card-bg); color: var(--text-main); border: 1px solid var(--border-color); 
-      width: 48px; height: 48px; border-radius: 12px; font-size: 1.2rem; cursor: pointer; 
-      display: flex; justify-content: center; align-items: center; transition: 0.3s;
-    }
-    .theme-btn:hover { background: var(--hover-bg); transform: scale(1.05); }
+    .controls { display: flex; justify-content: center; align-items: center; gap: 12px; }
+    button.refresh-btn { background: var(--btn-bg); color: var(--btn-text); border: none; padding: 14px 28px; border-radius: 12px; font-weight: 700; cursor: pointer; }
+    .theme-btn { background: var(--card-bg); color: var(--text-main); border: 1px solid var(--border-color); width: 48px; height: 48px; border-radius: 12px; font-size: 1.2rem; cursor: pointer; display: flex; justify-content: center; align-items: center; }
 
     main { max-width: 1100px; margin: 0 auto; padding: 20px 15px 60px; display: grid; grid-template-columns: 1fr; gap: 30px; }
     @media (min-width: 850px) { main { grid-template-columns: 1fr 1fr; } }
 
-    .trend-card { background: var(--card-bg); border-radius: 24px; border: 1px solid var(--border-color); overflow: hidden; transition: 0.3s; box-shadow: 0 4px 20px rgba(0,0,0,0.02); }
-    
+    .trend-card { background: var(--card-bg); border-radius: 24px; border: 1px solid var(--border-color); overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.02); }
     .trend-header { padding: 24px; border-bottom: 1px solid var(--border-color); display: flex; flex-direction: column; gap: 4px; }
-    .trend-header h2 { font-size: 1.3rem; font-weight: 800; letter-spacing: -0.5px; }
+    .trend-header h2 { font-size: 1.3rem; font-weight: 800; }
     .sub-title { font-size: 0.85rem; color: var(--text-sub); font-weight: 600; }
 
-    .trend-item { 
-      display: flex; align-items: center; padding: 20px 24px; border-bottom: 1px solid var(--border-color); 
-      text-decoration: none; color: inherit; transition: 0.2s; cursor: pointer;
-    }
+    .trend-item { display: flex; align-items: center; padding: 20px 24px; border-bottom: 1px solid var(--border-color); text-decoration: none; color: inherit; transition: 0.2s; cursor: pointer; }
     .trend-item:hover { background-color: var(--hover-bg); padding-left: 30px; }
     
-    .rank { 
-      width: 32px; height: 32px; display: flex; align-items: center; justify-content: center; 
-      font-size: 1rem; font-weight: 800; margin-right: 20px; color: var(--text-sub); background: var(--rank-bg); border-radius: 8px;
-    }
-    .trend-item:nth-child(1) .rank { background: #ff4757; color: white; font-size: 1.2rem; }
-    .trend-item:nth-child(2) .rank { background: #ffa502; color: white; font-size: 1.1rem; }
-    .trend-item:nth-child(3) .rank { background: #2ed573; color: white; font-size: 1.1rem; }
+    .rank { width: 32px; height: 32px; display: flex; align-items: center; justify-content: center; font-size: 1rem; font-weight: 800; margin-right: 20px; color: var(--text-sub); background: var(--rank-bg); border-radius: 8px; }
+    .trend-item:nth-child(1) .rank { background: #ff4757; color: white; }
+    .trend-item:nth-child(2) .rank { background: #ffa502; color: white; }
+    .trend-item:nth-child(3) .rank { background: #2ed573; color: white; }
 
-    .keyword { flex-grow: 1; font-size: 1.1rem; font-weight: 700; letter-spacing: -0.3px; }
-    
-    .traffic { font-size: 0.8rem; font-weight: 600; color: var(--text-sub); background: var(--traffic-bg); padding: 4px 10px; border-radius: 6px; margin-left: 10px; white-space: nowrap; }
-
+    .keyword { flex-grow: 1; font-size: 1.1rem; font-weight: 700; }
+    .traffic { font-size: 0.8rem; font-weight: 600; color: var(--text-sub); background: var(--traffic-bg); padding: 4px 10px; border-radius: 6px; margin-left: 10px; }
     .status-badge { font-weight: 900; width: 35px; text-align: right; font-size: 0.9rem; }
     .status-up { color: #ff4757; } .status-down { color: #3742fa; } .status-new { color: #ff4757; font-size: 0.8rem; }
 
-    #toast {
-      visibility: hidden; min-width: 200px; background-color: var(--live-color); color: #000;
-      text-align: center; border-radius: 12px; padding: 16px; position: fixed;
-      z-index: 1000; left: 50%; bottom: 40px; transform: translateX(-50%); font-weight: 800;
-    }
+    #toast { visibility: hidden; min-width: 200px; background-color: var(--live-color); color: #000; text-align: center; border-radius: 12px; padding: 16px; position: fixed; z-index: 1000; left: 50%; bottom: 40px; transform: translateX(-50%); font-weight: 800; }
     #toast.show { visibility: visible; animation: fadein 0.5s, fadeout 0.5s 2.5s; }
     @keyframes fadein { from { bottom: 0; opacity: 0; } to { bottom: 40px; opacity: 1; } }
     @keyframes fadeout { from { bottom: 40px; opacity: 1; } to { bottom: 0; opacity: 0; } }
@@ -100,10 +64,7 @@
 </head>
 <body>
 
-  <div class="live-status-bar">
-    <div class="live-dot"></div>
-    <span>NETWORK LIVE (KR/GLOBAL)</span>
-  </div>
+  <div class="live-status-bar"><div class="live-dot"></div><span>NETWORK LIVE (KR/GLOBAL)</span></div>
 
   <header>
     <div class="sync-info" id="sync-text">실시간 데이터 동기화 중...</div>
@@ -111,24 +72,17 @@
     <div id="update-time" style="color: var(--text-sub); font-size: 0.9rem; margin-bottom: 20px;">정보 업데이트 중...</div>
     <div class="controls">
       <button class="refresh-btn" onclick="loadTrends(true)">최신 트렌드 갱신</button>
-      <button class="theme-btn" onclick="toggleTheme()" title="테마 변경">☀️</button>
+      <button class="theme-btn" onclick="toggleTheme()">☀️</button>
     </div>
   </header>
 
   <main>
     <section class="trend-card">
-      <div class="trend-header">
-        <h2>🌐 Google Search Trends</h2>
-        <span class="sub-title">글로벌 급상승 트렌드 분석</span>
-      </div>
+      <div class="trend-header"><h2>🌐 Google Search Trends</h2><span class="sub-title">글로벌 급상승 트렌드 분석</span></div>
       <ul id="google-list" class="trend-list"></ul>
     </section>
-    
     <section class="trend-card">
-      <div class="trend-header">
-        <h2>🇰🇷 Korea Live Keywords</h2>
-        <span class="sub-title">국내 실시간 핫이슈 모니터링</span>
-      </div>
+      <div class="trend-header"><h2>🇰🇷 Korea Live Keywords</h2><span class="sub-title">국내 실시간 핫이슈 모니터링</span></div>
       <ul id="domestic-list" class="trend-list"></ul>
     </section>
   </main>
@@ -160,61 +114,65 @@
       try {
         const response = await fetch(url);
         const data = await response.json();
-        
         const now = new Date();
         document.getElementById('update-time').innerText = `LAST SCAN: ${now.toLocaleTimeString('ko-KR', { hour12: false })} (KST)`;
-
         renderList('google-list', data.google, 'google');
         renderList('domestic-list', data.domestic, 'naver');
-
         if (isManual) { showToast("DATA REFRESHED"); nextUpdateTime = 600; }
       } catch (e) { console.error(e); }
     }
 
-   // 🌟 모바일 앱 연동 핵심 로직 (수정됨)
-    // 🌟 모바일 앱 연동 핵심 로직 (안드로이드/iOS 분리 & 백그라운드 감지 완벽 적용)
+    // 🌟 모바일 딥링크 궁극의 해결책 (OS Native Fallback 도입)
     function handleSmartLink(e, keyword, engine) {
       const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-      if (!isMobile) return true; // PC는 원래대로 새 탭에서 열림
+      
+      // PC인 경우 a태그의 원래 동작(새 탭 열기)을 허용합니다.
+      if (!isMobile) return true; 
 
+      // 모바일인 경우 새 탭 열기를 취소하고 강제 라우팅을 시작합니다.
       e.preventDefault(); 
+      
       const isAndroid = /Android/i.test(navigator.userAgent);
+      const isIOS = /iPhone|iPad|iPod/i.test(navigator.userAgent);
       const encodedKeyword = encodeURIComponent(keyword);
       
-      let appUrl = "";
-      let mobileWebUrl = "";
+      const googleWebUrl = `https://www.google.com/search?q=${encodedKeyword}`;
+      const naverWebUrl = `https://m.search.naver.com/search.naver?query=${encodedKeyword}`;
 
-      if (engine === 'google') {
-        mobileWebUrl = `https://www.google.com/search?q=${encodedKeyword}`;
-        if (isAndroid) {
-          appUrl = `intent://www.google.com/search?q=${encodedKeyword}#Intent;scheme=https;package=com.android.chrome;end`;
+      if (isAndroid) {
+        // [안드로이드] OS 네이티브 기능인 'S.browser_fallback_url' 사용
+        // 앱이 없거나 막혔을 때, 안드로이드 OS가 "알아서" 뒤에 적힌 웹 주소로 자연스럽게 이동시킵니다.
+        if (engine === 'google') {
+          window.location.href = `intent://www.google.com/search?q=${encodedKeyword}#Intent;scheme=https;package=com.android.chrome;S.browser_fallback_url=${encodeURIComponent(googleWebUrl)};end`;
         } else {
-          appUrl = `googlechrome://navigate?url=${encodeURIComponent(mobileWebUrl)}`;
+          // 네이버 앱 (정확한 검색어 화면 호출을 위해 keywordsearch 사용)
+          window.location.href = `intent://keywordsearch?query=${encodedKeyword}#Intent;scheme=naversearchapp;package=com.nhn.android.search;S.browser_fallback_url=${encodeURIComponent(naverWebUrl)};end`;
         }
-      } else {
-        mobileWebUrl = `https://m.search.naver.com/search.naver?query=${encodedKeyword}`;
+      } else if (isIOS) {
+        // [iOS] 애플은 안드로이드 같은 편의 기능이 없어, setTimeout으로 튕겨냅니다.
+        let appUrl = '';
+        let webUrl = '';
         
-        // 🚀 핵심 수정 1: 네이버 앱 강제 호출 (안드로이드와 iOS 방식을 완벽히 분리)
-        if (isAndroid) {
-          // 안드로이드는 패키지명을 명시한 Intent 방식으로 검색어 유실 방지
-          appUrl = `intent://keywordsearch?query=${encodedKeyword}#Intent;scheme=naversearchapp;package=com.nhn.android.search;end`;
+        if (engine === 'google') {
+          appUrl = `googlechrome://navigate?url=${encodeURIComponent(googleWebUrl)}`;
+          webUrl = googleWebUrl;
         } else {
-          // iOS는 네이버 공식 커스텀 스키마 사용
           appUrl = `naversearchapp://keywordsearch?query=${encodedKeyword}`;
+          webUrl = naverWebUrl;
         }
+
+        window.location.href = appUrl;
+        
+        // 1.5초 대기 후 화면이 여전히 웹브라우저라면 (앱이 안 열렸다면) 웹으로 이동
+        setTimeout(() => {
+          if (!document.hidden && !document.webkitHidden) {
+            window.location.href = webUrl;
+          }
+        }, 1500);
+      } else {
+        // 그 외 모바일 (웹으로 이동)
+        window.location.href = engine === 'google' ? googleWebUrl : naverWebUrl;
       }
-
-      // 1. 먼저 앱 호출을 시도합니다.
-      window.location.href = appUrl;
-
-      // 🚀 핵심 수정 2: 완벽한 안전장치 (Fallback)
-      setTimeout(() => {
-        // 브라우저 화면이 백그라운드로 가려지지 않았다면 = 앱이 열리지 않은 것!
-        // 앱이 정상적으로 열렸다면 브라우저가 숨겨지므로 아래 코드가 실행되지 않습니다.
-        if (!document.hidden && !document.webkitHidden) { 
-          window.location.href = mobileWebUrl; 
-        }
-      }, 1000); // 사용자 기기에 따라 앱 열릴 시간을 1초로 넉넉히 대기
     }
 
     function renderList(elementId, items, engine) {
@@ -227,6 +185,8 @@
 
         const li = document.createElement('a');
         li.href = pcUrl; li.target = "_blank"; li.className = 'trend-item';
+        
+        // 🌟 클릭 시 위에서 만든 네이티브 스마트 링크 함수를 호출
         li.onclick = (e) => handleSmartLink(e, item.keyword, engine);
         
         let right = '';
