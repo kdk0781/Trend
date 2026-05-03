@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-03T15:58:31.277Z",
+  "updatedAt": "2026-05-03T16:53:40.120Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "저비용 항공사",
-      "traffic": "500+"
+      "keyword": "문동주",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "모두가 자신의 무가치함과 싸우고 있다",
+      "keyword": "man united vs liverpool",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "manchester united",
-      "traffic": "200+"
+      "keyword": "포스코이앤씨",
+      "traffic": "100+"
     },
     {
       "rank": 4,
+      "keyword": "스포츠중계",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "저비용 항공사",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "모두가 자신의 무가치함과 싸우고 있다",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
       "keyword": "ดูบอลสด",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "맨유 대 리버풀",
       "traffic": "10000+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "op",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "keyword": "pbks vs gt",
       "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "psl",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "백건우",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "린",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "중형위성 2호 발사 성공",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "닥터신 5인 종영 소감",
-      "state": "+",
-      "change": "7"
-    },
-    {
-      "rank": 3,
-      "keyword": "구윤철 부총리 주재",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "유현조 DB 챔피언십 우승",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "OPEC+ 7개국, 6월 원유 증산",
+      "keyword": "닥터신 5인방 소감",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "차세대위성 2호 교신 성공",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "OPEC+ 7국, 6월부터 증산",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "유현조 첫 우승!",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "도운, 원필 콘서트 깜짝 등장!",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "데이식스 원필의 다양한 모습",
+      "keyword": "은밀한감사",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "21세기 대군부인",
-      "state": "+",
-      "change": "1"
+      "keyword": "구윤철 부총리 재정정책회의",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "최형우 통산 1위 2623안타",
-      "state": "n",
-      "change": "0"
+      "keyword": "21세기 대군부인",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "은밀한감사",
+      "keyword": "최형우 통산 안타 1위 2623개",
       "state": "-",
-      "change": "7"
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "김경수 경남지사 후보",
-      "state": "n",
-      "change": "0"
+      "keyword": "살목지 260만 돌파",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
