@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-03T10:05:31.211Z",
+  "updatedAt": "2026-05-03T11:03:58.957Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "마사회",
-      "traffic": "200+"
+      "keyword": "백지영",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "위안부",
-      "traffic": "100+"
+      "keyword": "전소미",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "종교",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "에이피알",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "스피릿 항공",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "강소라",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "송성문",
+      "keyword": "srh vs kkr",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
-      "keyword": "경매",
+      "rank": 4,
+      "keyword": "괴롭힘",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "김희철",
       "traffic": "5000+"
     },
     {
+      "rank": 6,
+      "keyword": "박수홍",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "항공 승무원",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "양준혁",
+      "traffic": "100+"
+    },
+    {
       "rank": 9,
-      "keyword": "저축",
-      "traffic": "2000+"
+      "keyword": "공승연",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "삼성 한화",
+      "keyword": "위안부",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "차세대중형위성 2호 첫 교신 성공",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "유현조 DB챔피언십 우승",
+      "keyword": "차중 2호, 교신 성공",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "21세기 대군부인",
+      "rank": 2,
+      "keyword": "유현조 첫 우승!",
       "state": "s",
       "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "강나언 졸업, 김우석 전역",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "데이식스 도운, 원필 콘서트 지원",
-      "state": "s",
-      "change": "0"
+      "keyword": "21세기 대군부인",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "김경수 경남지사 후보 개소식",
-      "state": "s",
+      "keyword": "살목지 260만 관객 3위",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "구윤철 재무장관회의 주재",
+      "keyword": "남원 춘향제 다채로운 행사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "살목지 260만 돌파 공포 영화 3위",
-      "state": "+",
-      "change": "3"
+      "keyword": "허경환 소개팅 고백?",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
       "keyword": "신이랑 법률사무소",
-      "state": "+",
-      "change": "4"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김도영 스리런, KIA 패배",
-      "state": "-",
-      "change": "2"
+      "keyword": "최형우, 통산 안타 1위",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "허경환 소개팅 사실 고백?",
-      "state": "n",
-      "change": "0"
+      "keyword": "도운, 원필 콘서트 깜짝 등장!",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
