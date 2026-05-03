@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-03T15:03:29.320Z",
+  "updatedAt": "2026-05-03T15:58:31.277Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "pbks vs gt",
-      "traffic": "200+"
+      "keyword": "저비용 항공사",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "psl",
-      "traffic": "100+"
+      "keyword": "모두가 자신의 무가치함과 싸우고 있다",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "백건우",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "린",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "본머스",
+      "keyword": "manchester united",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "ดูบอลสด",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "맨유 대 리버풀",
+      "traffic": "10000+"
+    },
+    {
       "rank": 6,
-      "keyword": "jtbc",
+      "keyword": "op",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "김가은",
-      "traffic": "10000+"
+      "keyword": "pbks vs gt",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "박준형",
-      "traffic": "200+"
+      "keyword": "psl",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "토마호크",
-      "traffic": "2000+"
+      "keyword": "백건우",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "모자무싸",
-      "traffic": "200+"
+      "keyword": "린",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "유현조 DB 챔피언 첫 승",
+      "keyword": "중형위성 2호 발사 성공",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "은밀한감사",
-      "state": "-",
-      "change": "1"
+      "keyword": "닥터신 5인 종영 소감",
+      "state": "+",
+      "change": "7"
     },
     {
       "rank": 3,
-      "keyword": "OPEC+ 7개국 6월 증산",
-      "state": "s",
+      "keyword": "구윤철 부총리 주재",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "윤석열, 전광훈 불만 한가득",
-      "state": "s",
+      "keyword": "유현조 DB 챔피언십 우승",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이범수 기차역 간식 찾기",
+      "keyword": "OPEC+ 7개국, 6월 원유 증산",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "안세영과 세계 여자배드민턴",
-      "state": "n",
-      "change": "0"
+      "keyword": "데이식스 원필의 다양한 모습",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
       "keyword": "21세기 대군부인",
-      "state": "-",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "구윤철 부총리 재정회의 참석",
+      "keyword": "최형우 통산 1위 2623안타",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "강남, 4개월 20KG 감량?",
-      "state": "s",
-      "change": "0"
+      "keyword": "은밀한감사",
+      "state": "-",
+      "change": "7"
     },
     {
       "rank": 10,
-      "keyword": "청하, 아이오아이 재결합 수락",
+      "keyword": "김경수 경남지사 후보",
       "state": "n",
       "change": "0"
     }
