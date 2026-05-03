@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-03T07:14:10.252Z",
+  "updatedAt": "2026-05-03T08:58:22.240Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "한석현",
-      "traffic": "100+"
+      "keyword": "독일",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "홍해",
-      "traffic": "100+"
+      "keyword": "오승환",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "트레이드",
+      "keyword": "골프",
       "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "수도권 광역급행철도",
+      "keyword": "보험계약",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "한국경제신문사",
-      "traffic": "200+"
+      "keyword": "뉴욕",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "최형우",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "석유",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "시장 노점",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "경제",
+      "keyword": "현대자동차",
       "traffic": "5000+"
     },
     {
-      "rank": 10,
-      "keyword": "백승건",
+      "rank": 7,
+      "keyword": "국민성장펀드",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "상속세",
       "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "양우현",
+      "traffic": "200+"
+    },
+    {
+      "rank": 10,
+      "keyword": "디지털 자산",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
+      "keyword": "차세대 중형위성 2호 발사 성공",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 2,
       "keyword": "21세기 대군부인",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 2,
-      "keyword": "삼성家 12조 상속세 완납",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 3,
-      "keyword": "시구하는 아이들 소연",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "2026 종묘대제 어가행렬",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "신이랑 법률사무소",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "박왕열 최모 영장 출석",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 7,
-      "keyword": "서울주교좌성당 100주년 기념식",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "LG 선발 이상영 복귀",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "은밀한감사",
+      "keyword": "2026 종묘대제 개최",
       "state": "-",
       "change": "2"
     },
     {
-      "rank": 10,
+      "rank": 4,
       "keyword": "김경수 경남지사 후보",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "레이예스 역전 3점포 롯데 4연승",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "신지♥문원, 결혼 감사 인사",
+      "state": "+",
+      "change": "9"
+    },
+    {
+      "rank": 7,
+      "keyword": "신이랑 법률사무소",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "구본혁 2타점 적시타",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "김도영, 허리 부여잡다",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "닥터신 5인 종영 소감",
       "state": "n",
       "change": "0"
     }
