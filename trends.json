@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-03T22:39:08.399Z",
+  "updatedAt": "2026-05-03T23:26:39.240Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "최유빈",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "항만",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "가상자산",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "롯데 자이언츠",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "lg 트윈스",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "선박",
+      "keyword": "담합",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "pltr",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "espanyol vs real madrid standings",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "klasemen espanyol vs real madrid",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "박진만",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "天気",
+      "traffic": "100+"
+    },
+    {
       "rank": 7,
-      "keyword": "김혜성",
+      "keyword": "신입 사원 강 회장",
       "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "포포투",
-      "traffic": "1000+"
+      "keyword": "미스김",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "이란",
+      "keyword": "최유빈",
       "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "문세윤",
+      "keyword": "디트로이트 대 올랜도",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 호르무즈 선박 구출작전",
-      "state": "+",
-      "change": "1"
+      "keyword": "트럼프 선박 구출 프로젝트",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "정이찬 뇌가 개 몸에?",
-      "state": "-",
-      "change": "1"
+      "keyword": "닥터신을 위한 체중 증가",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "맨유, 리버풀 상대로 3연승!",
-      "state": "+",
-      "change": "1"
+      "keyword": "김시우 공동 4위 기록",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "은밀한감사",
-      "state": "-",
-      "change": "1"
+      "keyword": "21세기 대군부인",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "21세기 대군부인",
-      "state": "s",
+      "keyword": "토트넘 기적 잔류!",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "구교환 모자무싸 눈물샘 자극",
-      "state": "s",
-      "change": "0"
+      "keyword": "사랑을 처방해 드립니다",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "정청래 아이·부모에 송구",
-      "state": "s",
+      "keyword": "쿠팡, 미지급 피해자에 합의금 제시",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "사랑을 처방해 드립니다",
-      "state": "s",
+      "keyword": "국토부 도로 위험 신고단 모집",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "변우석의 분노와 약물 테러",
+      "keyword": "고유가피해지원금",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "뉴욕대 근황 몰래 술",
-      "state": "n",
-      "change": "0"
+      "keyword": "최유리, 모자무싸 OST 발매",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
