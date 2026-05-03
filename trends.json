@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-03T21:57:20.358Z",
+  "updatedAt": "2026-05-03T22:39:08.399Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "최유빈",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
+      "keyword": "항만",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "가상자산",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "롯데 자이언츠",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "lg 트윈스",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "선박",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
       "keyword": "김혜성",
       "traffic": "2000+"
     },
     {
-      "rank": 2,
+      "rank": 8,
       "keyword": "포포투",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "이란",
       "traffic": "1000+"
     },
     {
-      "rank": 4,
-      "keyword": "문세윤",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "헌법",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "음식",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "오세훈",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "man utd đấu với liverpool",
-      "traffic": "500+"
-    },
-    {
       "rank": 9,
-      "keyword": "파운드리",
-      "traffic": "500+"
+      "keyword": "이란",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "real madrid",
-      "traffic": "100+"
+      "keyword": "문세윤",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정이찬 뇌가 개 몸으로",
+      "keyword": "트럼프 호르무즈 선박 구출작전",
       "state": "+",
-      "change": "5"
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "트럼프, 호르무즈 선박 구출 노력",
-      "state": "n",
-      "change": "0"
+      "keyword": "정이찬 뇌가 개 몸에?",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
+      "keyword": "맨유, 리버풀 상대로 3연승!",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
       "keyword": "은밀한감사",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "여배드민턴, 4년 만에 정상",
-      "state": "n",
+      "rank": 5,
+      "keyword": "21세기 대군부인",
+      "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "21세기 대군부인",
-      "state": "-",
-      "change": "2"
-    },
-    {
       "rank": 6,
-      "keyword": "이란 미국 답변 검토 중",
-      "state": "-",
-      "change": "5"
+      "keyword": "구교환 모자무싸 눈물샘 자극",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "허수아비 소재 콘텐츠 인기 상승",
+      "keyword": "정청래 아이·부모에 송구",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
       "keyword": "사랑을 처방해 드립니다",
-      "state": "-",
-      "change": "3"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "정청래, 아이·부모에 송구",
-      "state": "-",
-      "change": "3"
+      "keyword": "변우석의 분노와 약물 테러",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "차세대 2호 첫 교신 성공",
+      "keyword": "뉴욕대 근황 몰래 술",
       "state": "n",
       "change": "0"
     }
