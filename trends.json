@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-05-03T04:54:57.066Z",
+  "updatedAt": "2026-05-03T07:14:10.252Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "예방 접종",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "lafc",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "통장",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "소송",
+      "keyword": "한석현",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "홍해",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "트레이드",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "수도권 광역급행철도",
+      "traffic": "500+"
+    },
+    {
       "rank": 5,
-      "keyword": "중위소득",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "지진",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "송도동",
+      "keyword": "한국경제신문사",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "최형우",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "석유",
+      "traffic": "2000+"
+    },
+    {
       "rank": 8,
-      "keyword": "안우진",
-      "traffic": "500+"
+      "keyword": "시장 노점",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "조주빈",
-      "traffic": "500+"
+      "keyword": "경제",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "종합소득세 환급",
+      "keyword": "백승건",
       "traffic": "200+"
     }
   ],
@@ -56,60 +56,60 @@
     {
       "rank": 1,
       "keyword": "21세기 대군부인",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "정청래·하정우 구포시장 방문",
-      "state": "+",
-      "change": "1"
+      "keyword": "삼성家 12조 상속세 완납",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "오세훈 서울시장 후보",
+      "keyword": "시구하는 아이들 소연",
       "state": "-",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "황인범 시즌 아웃",
-      "state": "s",
-      "change": "0"
+      "keyword": "2026 종묘대제 어가행렬",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
       "keyword": "신이랑 법률사무소",
       "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 6,
-      "keyword": "하츠투하츠 에이나, 1년 2개월 MC 마무리",
-      "state": "-",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "박왕열 최모 영장 출석",
+      "state": "-",
+      "change": "3"
+    },
+    {
       "rank": 7,
-      "keyword": "한동훈, 구포시장에서 인사",
-      "state": "n",
-      "change": "0"
+      "keyword": "서울주교좌성당 100주년 기념식",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "한윤서, 상견례 취소당해",
+      "keyword": "LG 선발 이상영 복귀",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "손흥민 도움 2-2",
-      "state": "n",
-      "change": "0"
+      "keyword": "은밀한감사",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "삼성전자 노조 탈퇴 급증",
+      "keyword": "김경수 경남지사 후보",
       "state": "n",
       "change": "0"
     }
