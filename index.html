@@ -122,14 +122,13 @@
       } catch (e) { console.error(e); }
     }
 
-    // 🌟 모바일 딥링크 궁극의 해결책 (OS Native Fallback 도입)
+// 🌟 모바일 딥링크 궁극의 해결책 (네이버 인앱 브라우저 강제 호출)
     function handleSmartLink(e, keyword, engine) {
       const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
       
-      // PC인 경우 a태그의 원래 동작(새 탭 열기)을 허용합니다.
+      // PC인 경우 기본 동작(새 탭 열기)
       if (!isMobile) return true; 
 
-      // 모바일인 경우 새 탭 열기를 취소하고 강제 라우팅을 시작합니다.
       e.preventDefault(); 
       
       const isAndroid = /Android/i.test(navigator.userAgent);
@@ -140,16 +139,15 @@
       const naverWebUrl = `https://m.search.naver.com/search.naver?query=${encodedKeyword}`;
 
       if (isAndroid) {
-        // [안드로이드] OS 네이티브 기능인 'S.browser_fallback_url' 사용
-        // 앱이 없거나 막혔을 때, 안드로이드 OS가 "알아서" 뒤에 적힌 웹 주소로 자연스럽게 이동시킵니다.
         if (engine === 'google') {
           window.location.href = `intent://www.google.com/search?q=${encodedKeyword}#Intent;scheme=https;package=com.android.chrome;S.browser_fallback_url=${encodeURIComponent(googleWebUrl)};end`;
         } else {
-          // 네이버 앱 (정확한 검색어 화면 호출을 위해 keywordsearch 사용)
-          window.location.href = `intent://keywordsearch?query=${encodedKeyword}#Intent;scheme=naversearchapp;package=com.nhn.android.search;S.browser_fallback_url=${encodeURIComponent(naverWebUrl)};end`;
+          // 🚀 최후의 수단: 네이버 인앱 브라우저(inappbrowser) 호출
+          // 네이버 앱을 열고, 그 안에서 바로 검색 결과 웹페이지를 로드해버립니다.
+          const inAppUrl = encodeURIComponent(naverWebUrl);
+          window.location.href = `intent://inappbrowser?url=${inAppUrl}#Intent;scheme=naversearchapp;package=com.nhn.android.search;S.browser_fallback_url=${encodeURIComponent(naverWebUrl)};end`;
         }
       } else if (isIOS) {
-        // [iOS] 애플은 안드로이드 같은 편의 기능이 없어, setTimeout으로 튕겨냅니다.
         let appUrl = '';
         let webUrl = '';
         
@@ -157,20 +155,19 @@
           appUrl = `googlechrome://navigate?url=${encodeURIComponent(googleWebUrl)}`;
           webUrl = googleWebUrl;
         } else {
-          appUrl = `naversearchapp://keywordsearch?query=${encodedKeyword}`;
+          // 🚀 iOS 역시 네이버 인앱 브라우저 호출
+          appUrl = `naversearchapp://inappbrowser?url=${encodeURIComponent(naverWebUrl)}`;
           webUrl = naverWebUrl;
         }
 
         window.location.href = appUrl;
         
-        // 1.5초 대기 후 화면이 여전히 웹브라우저라면 (앱이 안 열렸다면) 웹으로 이동
         setTimeout(() => {
           if (!document.hidden && !document.webkitHidden) {
             window.location.href = webUrl;
           }
         }, 1500);
       } else {
-        // 그 외 모바일 (웹으로 이동)
         window.location.href = engine === 'google' ? googleWebUrl : naverWebUrl;
       }
     }
