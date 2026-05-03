@@ -172,34 +172,49 @@
     }
 
    // 🌟 모바일 앱 연동 핵심 로직 (수정됨)
+    // 🌟 모바일 앱 연동 핵심 로직 (안드로이드/iOS 분리 & 백그라운드 감지 완벽 적용)
     function handleSmartLink(e, keyword, engine) {
       const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-      if (!isMobile) return true; // PC는 기본 동작 수행
+      if (!isMobile) return true; // PC는 원래대로 새 탭에서 열림
 
       e.preventDefault(); 
       const isAndroid = /Android/i.test(navigator.userAgent);
+      const encodedKeyword = encodeURIComponent(keyword);
       
       let appUrl = "";
       let mobileWebUrl = "";
 
       if (engine === 'google') {
-        mobileWebUrl = `https://www.google.com/search?q=${encodeURIComponent(keyword)}`;
-        // 안드로이드는 인텐트 방식, iOS는 크롬 앱 스키마 시도
-        if (isAndroid) appUrl = `intent://www.google.com/search?q=${encodeURIComponent(keyword)}#Intent;scheme=https;package=com.android.chrome;end`;
-        else appUrl = `googlechrome://navigate?url=${encodeURIComponent(mobileWebUrl)}`;
+        mobileWebUrl = `https://www.google.com/search?q=${encodedKeyword}`;
+        if (isAndroid) {
+          appUrl = `intent://www.google.com/search?q=${encodedKeyword}#Intent;scheme=https;package=com.android.chrome;end`;
+        } else {
+          appUrl = `googlechrome://navigate?url=${encodeURIComponent(mobileWebUrl)}`;
+        }
       } else {
-        mobileWebUrl = `https://m.search.naver.com/search.naver?query=${encodeURIComponent(keyword)}`;
-        // 🚀 네이버 앱 최신 검색 스키마 적용 (search?q=)
-        appUrl = `naversearchapp://search?q=${encodeURIComponent(keyword)}&version=1`;
+        mobileWebUrl = `https://m.search.naver.com/search.naver?query=${encodedKeyword}`;
+        
+        // 🚀 핵심 수정 1: 네이버 앱 강제 호출 (안드로이드와 iOS 방식을 완벽히 분리)
+        if (isAndroid) {
+          // 안드로이드는 패키지명을 명시한 Intent 방식으로 검색어 유실 방지
+          appUrl = `intent://keywordsearch?query=${encodedKeyword}#Intent;scheme=naversearchapp;package=com.nhn.android.search;end`;
+        } else {
+          // iOS는 네이버 공식 커스텀 스키마 사용
+          appUrl = `naversearchapp://keywordsearch?query=${encodedKeyword}`;
+        }
       }
 
-      const clickedAt = +new Date();
+      // 1. 먼저 앱 호출을 시도합니다.
       window.location.href = appUrl;
 
-      // 앱 실행 실패 시(미설치 등) 모바일 웹으로 이동하는 Fallback
+      // 🚀 핵심 수정 2: 완벽한 안전장치 (Fallback)
       setTimeout(() => {
-        if (+new Date() - clickedAt < 1500) { window.location.href = mobileWebUrl; }
-      }, 700);
+        // 브라우저 화면이 백그라운드로 가려지지 않았다면 = 앱이 열리지 않은 것!
+        // 앱이 정상적으로 열렸다면 브라우저가 숨겨지므로 아래 코드가 실행되지 않습니다.
+        if (!document.hidden && !document.webkitHidden) { 
+          window.location.href = mobileWebUrl; 
+        }
+      }, 1000); // 사용자 기기에 따라 앱 열릴 시간을 1초로 넉넉히 대기
     }
 
     function renderList(elementId, items, engine) {
