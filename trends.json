@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-03T01:21:39.792Z",
+  "updatedAt": "2026-05-03T04:54:57.066Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "롯데홈쇼핑",
-      "traffic": "100+"
+      "keyword": "예방 접종",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "워렌 버핏",
-      "traffic": "500+"
+      "keyword": "lafc",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "마누엘 우가르테",
-      "traffic": "100+"
+      "keyword": "통장",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "부동산",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "2026",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "김준현",
+      "keyword": "소송",
       "traffic": "100+"
     },
     {
+      "rank": 5,
+      "keyword": "중위소득",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "지진",
+      "traffic": "1000+"
+    },
+    {
       "rank": 7,
-      "keyword": "osasuna vs barcelona",
+      "keyword": "송도동",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "dl이앤씨",
-      "traffic": "200+"
+      "keyword": "안우진",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "화재",
-      "traffic": "2000+"
+      "keyword": "조주빈",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "김해시",
+      "keyword": "종합소득세 환급",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "서울특별시장기 축구대회 참석한",
-      "state": "s",
+      "keyword": "21세기 대군부인",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "신이랑 법률사무소",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "선수들에게 인사하는 서울시장",
+      "keyword": "정청래·하정우 구포시장 방문",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 3,
+      "keyword": "오세훈 서울시장 후보",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 4,
-      "keyword": "김시우, 공동 2위 도약",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "르세라핌, 데뷔 4주년 축하",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "월 200만원 수급자 9만명",
-      "state": "n",
+      "keyword": "황인범 시즌 아웃",
+      "state": "s",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "신이랑 법률사무소",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 6,
+      "keyword": "하츠투하츠 에이나, 1년 2개월 MC 마무리",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "트럼프 방금 보낸 제안 곧 검토",
+      "keyword": "한동훈, 구포시장에서 인사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이강인 PSG 무승부 2-2",
+      "keyword": "한윤서, 상견례 취소당해",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "윤복희 과거 4번 임신 금지",
+      "keyword": "손흥민 도움 2-2",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "조상기, 10년차 일용직 근로자 근황 공개",
+      "keyword": "삼성전자 노조 탈퇴 급증",
       "state": "n",
       "change": "0"
     }
