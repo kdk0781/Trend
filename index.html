@@ -171,84 +171,66 @@
       } catch (e) { console.error(e); }
     }
 
-    // 🌟 1. 앱 딥링크(App Deep Link)를 처리하는 핵심 함수
-    function handleSmartLink(e, keyword, engine, pcUrl) {
+   // 🌟 모바일 앱 연동 핵심 로직 (수정됨)
+    function handleSmartLink(e, keyword, engine) {
       const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-      
-      // PC인 경우 기본 동작(새 탭으로 웹페이지 열기)을 수행하도록 놔둡니다.
-      if (!isMobile) return true; 
+      if (!isMobile) return true; // PC는 기본 동작 수행
 
-      // 모바일인 경우 기본 웹 연결을 막고 앱 호출을 시도합니다.
       e.preventDefault(); 
-      
       const isAndroid = /Android/i.test(navigator.userAgent);
-      const isIOS = /iPhone|iPad|iPod/i.test(navigator.userAgent);
       
       let appUrl = "";
-      let mobileWebUrl = engine === 'google' 
-        ? `https://www.google.com/search?q=${encodeURIComponent(keyword)}`
-        : `https://m.search.naver.com/search.naver?query=${encodeURIComponent(keyword)}`;
+      let mobileWebUrl = "";
 
       if (engine === 'google') {
-        // 구글/크롬 앱 강제 호출 세팅
-        if (isIOS) appUrl = `googlechrome://navigate?url=${encodeURIComponent(mobileWebUrl)}`;
-        else if (isAndroid) appUrl = `intent://www.google.com/search?q=${encodeURIComponent(keyword)}#Intent;scheme=https;package=com.android.chrome;end`;
+        mobileWebUrl = `https://www.google.com/search?q=${encodeURIComponent(keyword)}`;
+        // 안드로이드는 인텐트 방식, iOS는 크롬 앱 스키마 시도
+        if (isAndroid) appUrl = `intent://www.google.com/search?q=${encodeURIComponent(keyword)}#Intent;scheme=https;package=com.android.chrome;end`;
+        else appUrl = `googlechrome://navigate?url=${encodeURIComponent(mobileWebUrl)}`;
       } else {
-        // 네이버 검색 앱 강제 호출 세팅
-        appUrl = `naversearchapp://keywordsearch?query=${encodeURIComponent(keyword)}`;
+        mobileWebUrl = `https://m.search.naver.com/search.naver?query=${encodeURIComponent(keyword)}`;
+        // 🚀 네이버 앱 최신 검색 스키마 적용 (search?q=)
+        appUrl = `naversearchapp://search?q=${encodeURIComponent(keyword)}&version=1`;
       }
 
-      // 앱 실행 시도
       const clickedAt = +new Date();
       window.location.href = appUrl;
 
-      // 앱이 설치되어 있지 않아 반응이 없으면, 0.5초 뒤 모바일 웹 브라우저로 폴백(Fallback) 이동
+      // 앱 실행 실패 시(미설치 등) 모바일 웹으로 이동하는 Fallback
       setTimeout(() => {
-        if (+new Date() - clickedAt < 1500) {
-          window.location.href = mobileWebUrl;
-        }
-      }, 500);
+        if (+new Date() - clickedAt < 1500) { window.location.href = mobileWebUrl; }
+      }, 700);
     }
 
     function renderList(elementId, items, engine) {
       const list = document.getElementById(elementId);
       list.innerHTML = ''; 
       items.forEach(item => {
-        // PC 접속 시 기본적으로 열릴 URL 설정
         const pcUrl = engine === 'google' 
           ? `https://www.google.com/search?q=${encodeURIComponent(item.keyword)}`
           : `https://search.naver.com/search.naver?query=${encodeURIComponent(item.keyword)}`;
 
         const li = document.createElement('a');
-        li.href = pcUrl; 
-        li.target = "_blank"; 
-        li.className = 'trend-item';
+        li.href = pcUrl; li.target = "_blank"; li.className = 'trend-item';
+        li.onclick = (e) => handleSmartLink(e, item.keyword, engine);
         
-        // 🌟 2. 클릭 이벤트에 스마트 링크 함수 연결
-        li.onclick = (e) => handleSmartLink(e, item.keyword, engine, pcUrl);
-        
-        let rightSideElement = '';
+        let right = '';
         if (engine === 'google' && item.traffic && item.traffic !== 'N/A') {
-          rightSideElement = `<span class="traffic">${item.traffic}</span>`;
+          right = `<span class="traffic">${item.traffic}</span>`;
         } else {
-          if (item.state === '+') rightSideElement = `<span class="status-badge status-up">▲</span>`;
-          else if (item.state === '-') rightSideElement = `<span class="status-badge status-down">▼</span>`;
-          else if (item.state?.toLowerCase() === 'n') rightSideElement = `<span class="status-badge status-new">NEW</span>`;
-          else rightSideElement = `<span class="status-badge" style="color:var(--text-sub)">-</span>`;
+          if (item.state === '+') right = `<span class="status-badge status-up">▲</span>`;
+          else if (item.state === '-') right = `<span class="status-badge status-down">▼</span>`;
+          else if (item.state?.toLowerCase() === 'n') right = `<span class="status-badge status-new">NEW</span>`;
+          else right = `<span class="status-badge" style="color:var(--text-sub)">-</span>`;
         }
 
-        li.innerHTML = `
-          <span class="rank">${item.rank}</span>
-          <span class="keyword">${item.keyword}</span>
-          ${rightSideElement}
-        `;
+        li.innerHTML = `<span class="rank">${item.rank}</span><span class="keyword">${item.keyword}</span>${right}`;
         list.appendChild(li);
       });
     }
 
     function showToast(msg) {
-      const t = document.getElementById("toast");
-      t.innerText = msg; t.classList.add("show");
+      const t = document.getElementById("toast"); t.innerText = msg; t.classList.add("show");
       setTimeout(() => t.classList.remove("show"), 2500);
     }
 
