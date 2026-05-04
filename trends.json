@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-05-04T17:02:03.355Z",
+  "updatedAt": "2026-05-04T18:48:15.960Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "chelsea",
+      "keyword": "chelsea f.c. vs nottingham forest standings",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "lg에너지솔루션",
-      "traffic": "200+"
+      "keyword": "블리자드",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "김새론",
+      "keyword": "uae",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "유미의 세포들 시즌3",
+      "keyword": "lg에너지솔루션",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "김승혜",
+      "keyword": "김새론",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "ioi",
+      "keyword": "유미의 세포들 시즌3",
       "traffic": "200+"
     },
     {
       "rank": 7,
+      "keyword": "김승혜",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "ioi",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
       "keyword": "츠키",
       "traffic": "100+"
     },
     {
-      "rank": 8,
-      "keyword": "아이오아이",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "keyword": "첼시 대 노팅엄 포레스트",
       "traffic": "5000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "lsg vs mi",
-      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "호르무즈 한국 선박 피격 확인 중",
+      "keyword": "호르무즈 한국 선박 무사 확인",
       "state": "s",
       "change": "0"
     },
@@ -67,51 +67,51 @@
     },
     {
       "rank": 3,
-      "keyword": "별세 서효림 시부상",
-      "state": "s",
+      "keyword": "국동호 통화 내용 제보 공개",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "한화 문동주 어깨 수술 확정",
-      "state": "s",
-      "change": "0"
+      "keyword": "김승혜·김해준 임신 17주차",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "변호사 학폭 제보 공개",
-      "state": "n",
-      "change": "0"
+      "keyword": "은밀한감사",
+      "state": "+",
+      "change": "15"
     },
     {
       "rank": 6,
-      "keyword": "김창민 감독 피의자 구속",
-      "state": "n",
-      "change": "0"
+      "keyword": "SK슈가글, H리그 여자부 3연패!",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "한덕수 2심 선고 생중계",
+      "keyword": "닥터신 임성한 작가",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "3연패 달성한 SK슈가글라이더즈",
-      "state": "+",
-      "change": "3"
+      "keyword": "양상국 결정사 6등급 발끈",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "은밀한감사",
-      "state": "+",
-      "change": "1"
+      "keyword": "북한 한국 방문 확정",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "TXT 수빈 범규",
-      "state": "n",
-      "change": "0"
+      "keyword": "첫 번째 남자",
+      "state": "+",
+      "change": "16"
     }
   ]
 }
