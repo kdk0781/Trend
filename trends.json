@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-04T15:11:27.750Z",
+  "updatedAt": "2026-05-04T17:02:03.355Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "첼시 대 노팅엄 포레스트",
-      "traffic": "2000+"
+      "keyword": "chelsea",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "첼시",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "lsg vs mi",
+      "keyword": "lg에너지솔루션",
       "traffic": "200+"
     },
     {
-      "rank": 4,
-      "keyword": "김종대",
+      "rank": 3,
+      "keyword": "김새론",
       "traffic": "100+"
     },
     {
+      "rank": 4,
+      "keyword": "유미의 세포들 시즌3",
+      "traffic": "200+"
+    },
+    {
       "rank": 5,
-      "keyword": "김세정",
+      "keyword": "김승혜",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "결혼식",
-      "traffic": "2000+"
+      "keyword": "ioi",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "lg이노텍",
+      "keyword": "츠키",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "강민경",
-      "traffic": "200+"
+      "keyword": "아이오아이",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "이란 해군",
-      "traffic": "1000+"
+      "keyword": "첼시 대 노팅엄 포레스트",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "젠지",
-      "traffic": "200+"
+      "keyword": "lsg vs mi",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "미군 상선 2척 호르무즈 통과",
-      "state": "+",
-      "change": "3"
+      "keyword": "호르무즈 한국 선박 피격 확인 중",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "허수아비 압수수색 박해수 긴장",
+      "keyword": "김나미 사무총장 사임",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "정몽열 회장 구단주 취임",
-      "state": "n",
+      "keyword": "별세 서효림 시부상",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "H리그 여자부 3연패 SK슈가글라이더즈",
-      "state": "+",
-      "change": "2"
+      "keyword": "한화 문동주 어깨 수술 확정",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "지드래곤 인종차별 의상 사과",
+      "keyword": "변호사 학폭 제보 공개",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김승혜 김해준 임신 발표",
-      "state": "-",
-      "change": "2"
+      "keyword": "김창민 감독 피의자 구속",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "한윤서, 시댁 만남 취소 당황",
-      "state": "s",
+      "keyword": "한덕수 2심 선고 생중계",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "오빠 정청래 거듭 사과했지만",
-      "state": "n",
-      "change": "0"
+      "keyword": "3연패 달성한 SK슈가글라이더즈",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "뇌사 아들로 사임 논란",
-      "state": "n",
-      "change": "0"
+      "keyword": "은밀한감사",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "은밀한감사",
-      "state": "+",
-      "change": "8"
+      "keyword": "TXT 수빈 범규",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
