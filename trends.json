@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-04T22:16:27.176Z",
+  "updatedAt": "2026-05-04T23:12:06.614Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "다우 존스 산업평균지수",
-      "traffic": "500+"
+      "keyword": "원태인",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "조승래",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "한국프로농구",
+      "keyword": "klasemen everton vs man city",
       "traffic": "200+"
     },
     {
-      "rank": 4,
-      "keyword": "amd",
-      "traffic": "100+"
+      "rank": 3,
+      "keyword": "로봇",
+      "traffic": "1000+"
     },
     {
-      "rank": 5,
-      "keyword": "schd",
+      "rank": 4,
+      "keyword": "vix",
       "traffic": "500+"
     },
     {
+      "rank": 5,
+      "keyword": "everton f.c. vs man city standings",
+      "traffic": "1000+"
+    },
+    {
       "rank": 6,
-      "keyword": "홍지윤",
+      "keyword": "pltr",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "과일",
+      "keyword": "세종특별자치시",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "황유민",
-      "traffic": "1000+"
+      "keyword": "임영웅",
+      "traffic": "20000+"
     },
     {
       "rank": 9,
-      "keyword": "한국항공우주산업",
-      "traffic": "100+"
+      "keyword": "주스",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "ngoại hạng anh",
+      "keyword": "mu",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 이란 공격, 한국 합류 필요",
+      "keyword": "트럼프 이란, 한국 작전 합류",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "박해수 허수아비 압수수색 긴장",
+      "keyword": "박해수, 허수아비 압수수색 긴장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "양상국 결정사 포기",
+      "keyword": "양상국 결정사 하위 등급",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김나미 사무총장 막말 논란 사퇴",
+      "keyword": "연합뉴스와 인터뷰하는 최지만",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "한윤서 상견례 취소",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 6,
-      "keyword": "아이유와 변우석의 꿀 케미",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "은밀한감사",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "안우연, 닥터신으로 존재감 발휘",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "홍지윤 차문 파손 사고",
+      "keyword": "아이유와 변우석의 혼례 케미",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "은밀한감사",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "국동호 학폭 논란 최후통첩",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "김나미 사무총장 사의",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "안우연, 닥터신으로 존재감 입증",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 10,
-      "keyword": "정몽열 KCC 회장 취임",
+      "keyword": "친오빠와 비밀 연애 고민",
       "state": "n",
       "change": "0"
     }
