@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-04T06:51:33.631Z",
+  "updatedAt": "2026-05-04T09:13:00.885Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "유언",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "주식",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "교사",
+      "keyword": "지드래곤",
       "traffic": "5000+"
     },
     {
-      "rank": 4,
-      "keyword": "쓸쓸하고 찬란하神 - 도깨비",
+      "rank": 2,
+      "keyword": "대원전선",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "경기지역화폐",
       "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "연수구",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "기아",
-      "traffic": "1000+"
+      "keyword": "배스킨라빈스",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "무죄",
+      "keyword": "폰지 사기",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "김민혁",
+      "keyword": "김고은",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "김창민 감독",
-      "traffic": "100+"
+      "keyword": "팡청바오",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "송영길",
-      "traffic": "2000+"
+      "keyword": "아버지",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "석유화학",
-      "traffic": "500+"
+      "keyword": "기소",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "송언석 원내대표 민생 방문",
-      "state": "s",
+      "keyword": "르노코리아 4월 6199대 판매",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "솔로지옥4 국동호 학폭 의혹 전면 부인",
+      "keyword": "코스피 6936.99 마감",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "정원오 서울시장 후보 방문",
+      "keyword": "김창민 감독 피의자 2명 구속",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "한동훈 부산 북갑 예비후보 등록",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "KIA 아데를린 영입",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "2024년 계엄 준비 정황",
+      "keyword": "추경호 이철우, 박근혜 예방",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "살목지 곤지암 제치고 2위",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 6,
+      "keyword": "국동호 학폭 의혹 부인",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "아이유 변우석 혼례복 케미",
-      "state": "s",
+      "keyword": "허인회 기록 수정 실수 인정",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김지미 특검보 브리핑",
+      "keyword": "아이유와 변우석의 꿀 케미",
       "state": "-",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "SK하이닉스 주가 140만원 돌파",
-      "state": "-",
-      "change": "1"
+      "keyword": "은밀한감사",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "조승래 사무총장 기자간담회",
-      "state": "-",
-      "change": "1"
+      "keyword": "삼성전자 노조 균열 심화",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
