@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-04T18:48:15.960Z",
+  "updatedAt": "2026-05-04T20:07:14.314Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "영월소방서",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
       "keyword": "chelsea f.c. vs nottingham forest standings",
       "traffic": "500+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "블리자드",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "uae",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "lg에너지솔루션",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "김새론",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "유미의 세포들 시즌3",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "김승혜",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "ioi",
       "traffic": "200+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "츠키",
       "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "첼시 대 노팅엄 포레스트",
-      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "호르무즈 한국 선박 무사 확인",
+      "keyword": "호르무즈 한국 선박 피격 추정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김나미 사무총장 사임",
+      "keyword": "양상국 결정사 6등급",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 3,
+      "keyword": "핸드볼 H리그 여자부 3연패 SK슈가글라이더즈",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "허수아비 압수수색 긴장 최고조",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "한윤서, 예비 시모 상견례 취소",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 6,
+      "keyword": "국동호 변호사 폭로",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "국동호 통화 내용 제보 공개",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "김승혜·김해준 임신 17주차",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "은밀한감사",
-      "state": "+",
-      "change": "15"
-    },
-    {
-      "rank": 6,
-      "keyword": "SK슈가글, H리그 여자부 3연패!",
-      "state": "-",
-      "change": "2"
-    },
-    {
       "rank": 7,
-      "keyword": "닥터신 임성한 작가",
-      "state": "n",
-      "change": "0"
+      "keyword": "닥터신 임성한 작가 아냐",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "양상국 결정사 6등급 발끈",
-      "state": "-",
-      "change": "2"
+      "keyword": "3만원 청소 일당 비판",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "북한 한국 방문 확정",
+      "keyword": "김나미 사무총장 사의",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "첫 번째 남자",
-      "state": "+",
-      "change": "16"
+      "keyword": "현주엽 子 다른 부모",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
