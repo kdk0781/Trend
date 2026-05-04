@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-04T12:59:08.711Z",
+  "updatedAt": "2026-05-04T15:11:27.750Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "양민혁",
-      "traffic": "500+"
+      "keyword": "첼시 대 노팅엄 포레스트",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "자전거",
+      "keyword": "첼시",
       "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "xsmb",
-      "traffic": "1000+"
+      "keyword": "lsg vs mi",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "sk온",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "불꽃야구",
+      "keyword": "김종대",
       "traffic": "100+"
     },
     {
+      "rank": 5,
+      "keyword": "김세정",
+      "traffic": "200+"
+    },
+    {
       "rank": 6,
-      "keyword": "주식시장",
-      "traffic": "1000+"
+      "keyword": "결혼식",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "one ui 8.5",
+      "keyword": "lg이노텍",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "김태년",
+      "keyword": "강민경",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "김정태",
-      "traffic": "200+"
+      "keyword": "이란 해군",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "cnn",
+      "keyword": "젠지",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "미군함, 미사일 피격 퇴각",
-      "state": "s",
-      "change": "0"
+      "keyword": "미군 상선 2척 호르무즈 통과",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 2,
-      "keyword": "첫 번째 남자",
+      "keyword": "허수아비 압수수색 박해수 긴장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김나미 사무총장 부적절 발언 사임",
+      "keyword": "정몽열 회장 구단주 취임",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김승혜·김해준 임신 발표",
-      "state": "s",
-      "change": "0"
+      "keyword": "H리그 여자부 3연패 SK슈가글라이더즈",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "에릭남, 힘든 3개월 생활",
-      "state": "s",
+      "keyword": "지드래곤 인종차별 의상 사과",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "박해수, 허수아비 압수수색 긴장 최고조",
-      "state": "+",
-      "change": "11"
-    },
-    {
-      "rank": 7,
-      "keyword": "SK슈가글라이더즈 3연패 성공",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "은밀한감사",
+      "keyword": "김승혜 김해준 임신 발표",
       "state": "-",
       "change": "2"
     },
     {
+      "rank": 7,
+      "keyword": "한윤서, 시댁 만남 취소 당황",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "오빠 정청래 거듭 사과했지만",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "故김창민 감독 관련 사건 구속 소식",
-      "state": "+",
-      "change": "1"
+      "keyword": "뇌사 아들로 사임 논란",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "붉은 진주",
-      "state": "n",
-      "change": "0"
+      "keyword": "은밀한감사",
+      "state": "+",
+      "change": "8"
     }
   ]
 }
