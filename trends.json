@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-04T04:07:26.506Z",
+  "updatedAt": "2026-05-04T06:51:33.631Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김준호",
-      "traffic": "500+"
+      "keyword": "유언",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "이재현",
-      "traffic": "1000+"
+      "keyword": "주식",
+      "traffic": "10000+"
     },
     {
       "rank": 3,
-      "keyword": "산일전기",
-      "traffic": "100+"
+      "keyword": "교사",
+      "traffic": "5000+"
     },
     {
       "rank": 4,
-      "keyword": "세종특별자치시",
-      "traffic": "100+"
+      "keyword": "쓸쓸하고 찬란하神 - 도깨비",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "하이닉스",
-      "traffic": "500+"
+      "keyword": "기아",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "삼성증권",
-      "traffic": "200+"
+      "keyword": "무죄",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "알렉스 퍼거슨",
+      "keyword": "김민혁",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "김시우",
-      "traffic": "200+"
+      "keyword": "김창민 감독",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "데이브 로버츠",
+      "keyword": "송영길",
       "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "소송",
-      "traffic": "200+"
+      "keyword": "석유화학",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정원오 서울시장 후보",
+      "keyword": "송언석 원내대표 민생 방문",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "학폭 가해자 국동호 실명 폭로",
+      "keyword": "솔로지옥4 국동호 학폭 의혹 전면 부인",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "SK하이닉스 주가 급등 140만원突破",
-      "state": "s",
+      "keyword": "정원오 서울시장 후보 방문",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "조작기소 특검 시기와 절차 논의 필요",
-      "state": "s",
-      "change": "0"
+      "keyword": "한동훈 부산 북갑 예비후보 등록",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "박지원 국회의장 출마 기자회견",
+      "keyword": "KIA 아데를린 영입",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "양상국 결국 사과",
-      "state": "-",
-      "change": "3"
+      "keyword": "2024년 계엄 준비 정황",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "은밀한감사",
-      "state": "+",
-      "change": "2"
+      "keyword": "아이유 변우석 혼례복 케미",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "군민을 위한 공약 발표",
-      "state": "+",
+      "keyword": "김지미 특검보 브리핑",
+      "state": "-",
       "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "수도권 단체장 모임",
-      "state": "n",
-      "change": "0"
+      "keyword": "SK하이닉스 주가 140만원 돌파",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "금리 인상 고민할 때",
-      "state": "n",
-      "change": "0"
+      "keyword": "조승래 사무총장 기자간담회",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
