@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-04T11:18:43.714Z",
+  "updatedAt": "2026-05-04T12:59:08.711Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "화성",
-      "traffic": "200+"
+      "keyword": "양민혁",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "rte",
-      "traffic": "200+"
+      "keyword": "자전거",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "대한민국 축구 국가대표팀",
-      "traffic": "200+"
+      "keyword": "xsmb",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "어머니",
-      "traffic": "200+"
+      "keyword": "sk온",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "롯데건설",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "xsmn",
+      "keyword": "불꽃야구",
       "traffic": "100+"
     },
     {
+      "rank": 6,
+      "keyword": "주식시장",
+      "traffic": "1000+"
+    },
+    {
       "rank": 7,
-      "keyword": "리그 오브 레전드 챔피언스 코리아",
+      "keyword": "one ui 8.5",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "조치원 화재",
+      "keyword": "김태년",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "화재",
-      "traffic": "10000+"
+      "keyword": "김정태",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "증여세",
-      "traffic": "5000+"
+      "keyword": "cnn",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "한덕수 내란 선고 생중계",
-      "state": "+",
-      "change": "2"
+      "keyword": "미군함, 미사일 피격 퇴각",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "별세 서효림 시부상",
-      "state": "n",
+      "keyword": "첫 번째 남자",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "문동주 어깨 수술 결정",
+      "keyword": "김나미 사무총장 부적절 발언 사임",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "호르무즈 미사일 맞고 퇴각",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "한화에어로 KAI 5% 확보",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 6,
-      "keyword": "아이유 변우석, 꿀 뚝뚝 혼례복 케미",
+      "keyword": "김승혜·김해준 임신 발표",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "에릭남, 힘든 3개월 생활",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "박해수, 허수아비 압수수색 긴장 최고조",
+      "state": "+",
+      "change": "11"
+    },
+    {
       "rank": 7,
-      "keyword": "국동호 학폭 의혹과 사건 소식",
-      "state": "-",
-      "change": "3"
+      "keyword": "SK슈가글라이더즈 3연패 성공",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "하이닉스 주가 140만원 돌파",
-      "state": "+",
+      "keyword": "은밀한감사",
+      "state": "-",
       "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "삼성바이오 노사 추가 협상 예정",
-      "state": "-",
-      "change": "4"
+      "keyword": "故김창민 감독 관련 사건 구속 소식",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "문세윤 신지 결혼식 축가 귀신 나타나",
+      "keyword": "붉은 진주",
       "state": "n",
       "change": "0"
     }
