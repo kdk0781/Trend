@@ -1,62 +1,62 @@
 {
-  "updatedAt": "2026-05-05T03:48:07.907Z",
+  "updatedAt": "2026-05-05T06:06:37.877Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "켄터키 더비",
-      "traffic": "100+"
+      "keyword": "전북 대 광주",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "삼성 갤럭시s26",
-      "traffic": "5000+"
+      "keyword": "이홍구",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "이차 전지",
-      "traffic": "1000+"
+      "keyword": "연예인",
+      "traffic": "10000+"
     },
     {
       "rank": 4,
-      "keyword": "라이언 와이스",
+      "keyword": "결혼정보회사",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "로스앤젤레스 레이커스",
-      "traffic": "100+"
+      "keyword": "금융감독원",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "알렉스 프리랜드",
+      "keyword": "윤하",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "스포티파이",
-      "traffic": "100+"
+      "keyword": "광주 칼부림",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "met gala 2026 theme",
-      "traffic": "500+"
+      "keyword": "고양 소노 대 부산 kcc",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "여객기",
-      "traffic": "2000+"
+      "keyword": "티빙",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "샌안토니오 대 미네소타",
+      "keyword": "nc 대 ssg",
       "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "기자간담회 장동혁 대표",
-      "state": "s",
+      "keyword": "정원오 후보 야구장 방문",
+      "state": "n",
       "change": "0"
     },
     {
@@ -67,49 +67,49 @@
     },
     {
       "rank": 3,
-      "keyword": "아데를린 로드리게스 광주 적응 중",
+      "keyword": "롯데 도박 3인방 복귀",
+      "state": "+",
+      "change": "6"
+    },
+    {
+      "rank": 4,
+      "keyword": "신제윤 의장, 대화로 해결하자",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "이홍구 전 국무총리 별세",
-      "state": "+",
-      "change": "2"
-    },
-    {
       "rank": 5,
-      "keyword": "고우석, LG 대신 ML 도전",
-      "state": "n",
+      "keyword": "靑, 호르무즈 화재 회의 개최",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "호르무즈 선박 화재 완료",
-      "state": "-",
-      "change": "2"
+      "keyword": "역투하는 두산 잭로그",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "5세대 실손 보험 출시",
+      "keyword": "에스파 카리나 드레스 자태",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "허수아비 시청률 7% 경신",
-      "state": "-",
-      "change": "1"
+      "keyword": "유미의 세포들 시즌3",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "SSG 긴지로 영입",
-      "state": "s",
+      "keyword": "이정후 무안타 지속",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "유미의 세포들 시즌3",
+      "keyword": "택배비 1000원 인상",
       "state": "n",
       "change": "0"
     }
