@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-05T22:38:40.117Z",
+  "updatedAt": "2026-05-05T23:29:51.543Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "qqq",
+      "keyword": "노바크 조코비치",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "arsenal vs atlético madrid",
-      "traffic": "1000+"
+      "keyword": "신제윤",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "필라델피아 반도체 지수",
-      "traffic": "1000+"
+      "keyword": "박현주",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "투자",
+      "keyword": "유병훈",
       "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "김도영",
-      "traffic": "500+"
+      "keyword": "인플레이션",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "운세",
-      "traffic": "1000+"
+      "keyword": "최준희",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "hbf",
-      "traffic": "200+"
+      "keyword": "부동산",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "mu",
-      "traffic": "200+"
+      "keyword": "구속영장",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "joby",
+      "keyword": "마이클 캐릭",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "개헌",
+      "keyword": "내 이름은",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "쿠팡 1분기 영업손실 3545억",
-      "state": "s",
-      "change": "0"
+      "keyword": "허수아비 부흥 이유",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "허수아비 범죄 수사물 인기",
-      "state": "s",
-      "change": "0"
+      "keyword": "쿠팡INC 1분기 영업손실",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "트럼프 화물선, 혼자 공격당하다",
+      "keyword": "아스널, 20년 만에 결승 진출!",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "휴전 유지에 유가 급락",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "히든싱어 8",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "민주연구원 부원장 성희롱 논란",
+      "keyword": "방탄소년단 SWIM 6주 차트인",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "부동산 신화 없다",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "배성재, 장모님과 존댓말 사용",
+      "state": "-",
+      "change": "3"
+    },
+    {
       "rank": 7,
-      "keyword": "이현 작가와 푸른사자",
-      "state": "+",
-      "change": "5"
+      "keyword": "트럼프 한국 화물선 공격당해",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "돌싱N모솔, 자녀 셋도 OK!",
+      "keyword": "공정위, 설탕 담합 과징금 감경",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "첫 번째 남자",
-      "state": "n",
-      "change": "0"
+      "keyword": "돌싱 모솔 조지 행동 반응",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "2026년 5월 6일 운세",
-      "state": "n",
-      "change": "0"
+      "keyword": "첫 번째 남자",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
