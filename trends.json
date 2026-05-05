@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-05T08:24:55.501Z",
+  "updatedAt": "2026-05-05T10:16:10.650Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "황 유민",
-      "traffic": "5000+"
+      "keyword": "땅집고",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "풍력 발전",
-      "traffic": "100+"
+      "keyword": "홍진경",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "이찬원",
-      "traffic": "200+"
+      "keyword": "부산광역시",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "파업",
-      "traffic": "20000+"
+      "keyword": "국가보훈부",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "최강희",
-      "traffic": "2000+"
+      "keyword": "fc서울",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "문보경",
-      "traffic": "200+"
+      "keyword": "오늘의 운세 띠별",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "엘 클라시코",
-      "traffic": "200+"
+      "keyword": "손담비",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "육군사관학교",
+      "keyword": "정당",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "이마",
-      "traffic": "5000+"
+      "keyword": "국채",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "k리그",
-      "traffic": "500+"
+      "keyword": "노동 시간",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "호르무즈 선박 화재 원인 분석",
+      "keyword": "우즈베키스탄 구윤철 부총리",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "박해민 1타점 적시타",
-      "state": "n",
+      "keyword": "LG 어린이날 승리",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이준영 작곡가",
-      "state": "-",
-      "change": "1"
+      "keyword": "종합특검 한동훈 출국금지",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "블랙핑크 멧 갈라 참석",
-      "state": "+",
-      "change": "5"
+      "keyword": "허수아비 예고된 반전",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이홍구 전 국무총리 별세",
-      "state": "-",
-      "change": "2"
+      "keyword": "카리나 멧갈라 등장",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "허수아비 반전 대면",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "찾은 정청래 대표",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "배드민턴 여자대표팀 인터뷰",
-      "state": "-",
+      "keyword": "은밀한감사",
+      "state": "+",
       "change": "3"
     },
     {
+      "rank": 7,
+      "keyword": "최강기아 세븐일레븐 협업 상품",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "여고생 살해 20대 남성 체포",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "문보경 왼쪽 발목 부상으로 병원 이송",
+      "keyword": "도수치료 제외 5세대 실손",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "KCC, 소노 잡고 71.4% 확률 확보",
+      "keyword": "최불암 다큐 불발",
       "state": "n",
       "change": "0"
     }
