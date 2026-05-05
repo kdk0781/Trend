@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-05T19:49:40.163Z",
+  "updatedAt": "2026-05-05T20:46:35.734Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "최유빈",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
+      "keyword": "축구",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "장마",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "아스널 대 아틀레티코",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "arsenal",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "수학여행",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "아스널",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "술",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
       "keyword": "효경",
       "traffic": "200+"
     },
     {
-      "rank": 2,
-      "keyword": "아이오아이",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "국제 통화 기금",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "선우용여",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "문성현",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "공중 급유",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "마이크론",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "롤인벤",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "루이스 리베라 토",
-      "traffic": "1000+"
-    },
-    {
       "rank": 10,
-      "keyword": "스테이 블코 인",
+      "keyword": "아이오아이",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "허수아비 반전 대면",
-      "state": "s",
-      "change": "0"
+      "keyword": "허수아비 반전과 키플레이어",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "한국, 호르무즈 작전 나서야",
-      "state": "s",
-      "change": "0"
+      "keyword": "배성재, 김다영과 첫 만남 비화",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "배성재 김다영 결혼 후 즐거운 신혼생활",
-      "state": "s",
-      "change": "0"
+      "keyword": "한국, 호르무즈 작전 참여",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "긴축 노래 부르는 분들",
+      "keyword": "김기동 버티는 힘",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "히든싱어 8",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "이현 작가의 푸른사자",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "하천서 폭발물 발견",
+      "keyword": "이현 작가 푸른사자",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "조작기소로 결집한 국힘 후보들",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "김선태 퇴사에 수입 부러워요",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "손 베여 신고한 50대 지인 살해",
+      "keyword": "마지막 어린이날 LG가 웃었다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "출국금지 테면 해보라",
+      "keyword": "중개사는 내린다 하반기 집값",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "오빠가 민주연구원 부원장",
-      "state": "-",
-      "change": "4"
+      "keyword": "청년동맹 11차대회 파병기념관",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
