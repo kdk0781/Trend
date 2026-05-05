@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-04T23:12:06.614Z",
+  "updatedAt": "2026-05-05T00:09:54.536Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "원태인",
-      "traffic": "1000+"
+      "keyword": "연합뉴스",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "klasemen everton vs man city",
+      "keyword": "한윤 서",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "로봇",
-      "traffic": "1000+"
+      "keyword": "joby",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "vix",
-      "traffic": "500+"
+      "keyword": "수익률",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "everton f.c. vs man city standings",
-      "traffic": "1000+"
+      "keyword": "티웨이항공",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "pltr",
+      "keyword": "김태규",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "세종특별자치시",
+      "keyword": "항공",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "임영웅",
-      "traffic": "20000+"
+      "keyword": "everton – манчестер сити турнирная таблица",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "주스",
-      "traffic": "2000+"
+      "keyword": "한동희",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "mu",
-      "traffic": "100+"
+      "keyword": "대한광통신",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 이란, 한국 작전 합류",
+      "keyword": "박해수 허수아비 시청률 상승",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "박해수, 허수아비 압수수색 긴장",
-      "state": "s",
-      "change": "0"
+      "keyword": "광주서 고교생 2명 피습 사망",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 3,
-      "keyword": "양상국 결정사 하위 등급",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
       "keyword": "연합뉴스와 인터뷰하는 최지만",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "아이유 변우석, 혼례복 케미",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 5,
-      "keyword": "아이유와 변우석의 혼례 케미",
-      "state": "s",
+      "keyword": "트럼프 작전 참여할 때",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "은밀한감사",
+      "keyword": "국동호 학폭 논란 최후통첩",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "국동호 학폭 논란 최후통첩",
+      "keyword": "은밀한감사",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "김나미 사무총장 사의",
-      "state": "s",
+      "keyword": "홍명보호 FIFA랭킹 월드컵",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "안우연, 닥터신으로 존재감 입증",
-      "state": "+",
-      "change": "2"
+      "keyword": "사랑꾼 양상국, 결정사 등급 발끈",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 10,
-      "keyword": "친오빠와 비밀 연애 고민",
+      "keyword": "상견례 취소 母 무릎 꿇다",
       "state": "n",
       "change": "0"
     }
