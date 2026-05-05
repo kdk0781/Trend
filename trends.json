@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-05T20:46:35.734Z",
+  "updatedAt": "2026-05-05T21:44:43.087Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "최유빈",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "축구",
+      "keyword": "경상남도",
       "traffic": "1000+"
     },
     {
-      "rank": 3,
-      "keyword": "장마",
+      "rank": 2,
+      "keyword": "blackpink",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "(주)금양",
+      "traffic": "100+"
+    },
+    {
       "rank": 4,
-      "keyword": "아스널 대 아틀레티코",
+      "keyword": "삼성전기",
       "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "arsenal",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "수학여행",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "아스널",
+      "keyword": "amd 주가",
       "traffic": "100+"
     },
     {
-      "rank": 8,
-      "keyword": "술",
+      "rank": 6,
+      "keyword": "검찰",
       "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "이재명",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "upm",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "효경",
-      "traffic": "200+"
+      "keyword": "토트넘 홋스퍼 fc",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "아이오아이",
-      "traffic": "500+"
+      "keyword": "왕 즈이",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "허수아비 반전과 키플레이어",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "배성재, 김다영과 첫 만남 비화",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 3,
-      "keyword": "한국, 호르무즈 작전 참여",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "김기동 버티는 힘",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "이현 작가 푸른사자",
+      "keyword": "허수아비 범죄 수사물 부흥 이유",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "조작기소로 결집한 국힘 후보들",
+      "rank": 2,
+      "keyword": "쿠팡 1분기 영업손실 3500억",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "배성재 김다영 14살 차이 결혼 생활",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "트럼프 화물선 단독 공격",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "히든싱어 8",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "이현 작가와 와니니",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 7,
-      "keyword": "김선태 퇴사에 수입 부러워요",
+      "keyword": "대학병원 O형환자 A형혈액 사고",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "마지막 어린이날 LG가 웃었다",
+      "keyword": "황재균, 주식 수입 제로",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "중개사는 내린다 하반기 집값",
+      "keyword": "출국금지 해보라, 선거개입은 금지",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "청년동맹 11차대회 파병기념관",
+      "keyword": "정원오 오세훈 아파트 문제",
       "state": "n",
       "change": "0"
     }
