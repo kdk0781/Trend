@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-05T00:09:54.536Z",
+  "updatedAt": "2026-05-05T03:48:07.907Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "연합뉴스",
+      "keyword": "켄터키 더비",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "한윤 서",
-      "traffic": "200+"
+      "keyword": "삼성 갤럭시s26",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "joby",
-      "traffic": "100+"
+      "keyword": "이차 전지",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "수익률",
-      "traffic": "100+"
+      "keyword": "라이언 와이스",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "티웨이항공",
-      "traffic": "500+"
+      "keyword": "로스앤젤레스 레이커스",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "김태규",
+      "keyword": "알렉스 프리랜드",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "항공",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "everton – манчестер сити турнирная таблица",
+      "keyword": "스포티파이",
       "traffic": "100+"
     },
     {
-      "rank": 9,
-      "keyword": "한동희",
+      "rank": 8,
+      "keyword": "met gala 2026 theme",
       "traffic": "500+"
     },
     {
+      "rank": 9,
+      "keyword": "여객기",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "대한광통신",
-      "traffic": "500+"
+      "keyword": "샌안토니오 대 미네소타",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "박해수 허수아비 시청률 상승",
+      "keyword": "기자간담회 장동혁 대표",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "광주서 고교생 2명 피습 사망",
-      "state": "+",
-      "change": "4"
+      "keyword": "어린이들과 이재명 대통령",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "연합뉴스와 인터뷰하는 최지만",
+      "keyword": "아데를린 로드리게스 광주 적응 중",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "아이유 변우석, 혼례복 케미",
+      "keyword": "이홍구 전 국무총리 별세",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "트럼프 작전 참여할 때",
+      "keyword": "고우석, LG 대신 ML 도전",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "국동호 학폭 논란 최후통첩",
-      "state": "+",
-      "change": "1"
+      "keyword": "호르무즈 선박 화재 완료",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "은밀한감사",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "홍명보호 FIFA랭킹 월드컵",
+      "keyword": "5세대 실손 보험 출시",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "사랑꾼 양상국, 결정사 등급 발끈",
+      "rank": 8,
+      "keyword": "허수아비 시청률 7% 경신",
       "state": "-",
-      "change": "5"
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "SSG 긴지로 영입",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "상견례 취소 母 무릎 꿇다",
+      "keyword": "유미의 세포들 시즌3",
       "state": "n",
       "change": "0"
     }
