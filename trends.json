@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-05T12:57:59.156Z",
+  "updatedAt": "2026-05-05T15:08:57.788Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "알렉 감보아",
+      "keyword": "김다영",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "신해철",
+      "keyword": "장원영",
       "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "기소",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "그랜드 테프트 오토 vi",
+      "keyword": "dc vs csk",
       "traffic": "500+"
     },
     {
-      "rank": 5,
-      "keyword": "박순찬",
+      "rank": 4,
+      "keyword": "간호사",
       "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "캐디",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "돌싱n모솔",
-      "traffic": "200+"
+      "keyword": "스테이블코인",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "나는 solo",
-      "traffic": "10000+"
+      "keyword": "이란 대통령",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "에릭",
-      "traffic": "1000+"
+      "keyword": "고진영",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "배당",
-      "traffic": "100+"
+      "keyword": "권정열",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "최다니엘",
-      "traffic": "100+"
+      "keyword": "최불암 근황",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "故 이준영, 섬세한 천재 작곡가 비극",
-      "state": "s",
-      "change": "0"
+      "keyword": "허수아비 반전의 대면",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 2,
-      "keyword": "이란 외무 장관 중국 방문",
-      "state": "s",
+      "keyword": "한동훈 해보라, 선거개입 금지",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "첫 번째 남자",
-      "state": "s",
+      "keyword": "배성재 애칭은 귀여운 강아지",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "연고지 0-0 퇴장 무승부",
-      "state": "n",
-      "change": "0"
+      "keyword": "미국 국방 한국 기여 촉구",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "WHO 크루즈선 사람 간 전파 의심",
-      "state": "n",
-      "change": "0"
+      "keyword": "최불암 김민자 사랑 이야기",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "충주맨 수입 부럽다",
+      "keyword": "중국 폭죽공장 폭발 87명 사상",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "민주연구원 오빠 음란마귀",
+      "keyword": "연고지 더비 0-0 무승부",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "도수치료 제외 보험료 절반",
+      "keyword": "민주연구원 부원장 성희롱 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "최불암, 아들 길 걷게 된 이유",
-      "state": "n",
-      "change": "0"
+      "keyword": "故 신해철 심장 부근서 먹는 깨 발견",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "정원오 아파트 포기?",
+      "keyword": "KIA, 박재현 7안타 합작!",
       "state": "n",
       "change": "0"
     }
