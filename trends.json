@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-05T16:53:01.044Z",
+  "updatedAt": "2026-05-05T18:06:30.616Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "효경",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
+      "keyword": "아이오아이",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "국제 통화 기금",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
       "keyword": "선우용여",
       "traffic": "100+"
     },
     {
-      "rank": 2,
+      "rank": 5,
       "keyword": "문성현",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "keyword": "공중 급유",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "keyword": "마이크론",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "루이스 리베라 토",
       "traffic": "1000+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "mu stock",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "keyword": "소유진",
       "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "김포시",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "김다영",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "샌디스크",
-      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김다영의 배성재 건강 걱정",
+      "keyword": "한국, 호르무즈 작전 참여해야",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "호르무즈 선박 화재 이틀째 조사",
+      "keyword": "배성재 김다영 14살 차이 신혼생활",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "LG 어린이날 승리",
-      "state": "s",
-      "change": "0"
+      "keyword": "2007년생 퇴장 교육하겠다",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "정청래 대표 활동",
+      "keyword": "이란 외무장관 중국 방문",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "유병훈 감독, 2007년생 퇴장 교육",
-      "state": "+",
-      "change": "3"
+      "keyword": "허수아비 반전의 불편한 대면",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "아일릿 원희, 신분증 검사 또",
+      "keyword": "이재명 부부 어린이대공원 방문",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "종합특검 한동훈 출국금지",
+      "keyword": "긴축 노래 부르는 사람들",
       "state": "-",
-      "change": "5"
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "긴축 노래 부르는 분들",
+      "keyword": "WHO 크루즈선 사람 간 전파 의심",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "이현 작가 인터뷰",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "WHO 크루즈 한타 의심",
-      "state": "+",
-      "change": "4"
-    },
-    {
       "rank": 10,
-      "keyword": "돌싱N모솔 직진 연애",
+      "keyword": "폭발사고 87명 사상 문책",
       "state": "n",
       "change": "0"
     }
