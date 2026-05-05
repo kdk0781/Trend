@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-05T06:06:37.877Z",
+  "updatedAt": "2026-05-05T08:24:55.501Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "전북 대 광주",
-      "traffic": "500+"
+      "keyword": "황 유민",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "이홍구",
-      "traffic": "200+"
+      "keyword": "풍력 발전",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "연예인",
-      "traffic": "10000+"
+      "keyword": "이찬원",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "결혼정보회사",
-      "traffic": "200+"
+      "keyword": "파업",
+      "traffic": "20000+"
     },
     {
       "rank": 5,
-      "keyword": "금융감독원",
-      "traffic": "200+"
+      "keyword": "최강희",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "윤하",
+      "keyword": "문보경",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "광주 칼부림",
+      "keyword": "엘 클라시코",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "고양 소노 대 부산 kcc",
-      "traffic": "5000+"
+      "keyword": "육군사관학교",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "티빙",
+      "keyword": "이마",
       "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "nc 대 ssg",
-      "traffic": "2000+"
+      "keyword": "k리그",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정원오 후보 야구장 방문",
-      "state": "n",
+      "keyword": "호르무즈 선박 화재 원인 분석",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "어린이들과 이재명 대통령",
-      "state": "s",
+      "keyword": "박해민 1타점 적시타",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "롯데 도박 3인방 복귀",
-      "state": "+",
-      "change": "6"
+      "keyword": "이준영 작곡가",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "신제윤 의장, 대화로 해결하자",
-      "state": "s",
-      "change": "0"
+      "keyword": "블랙핑크 멧 갈라 참석",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 5,
-      "keyword": "靑, 호르무즈 화재 회의 개최",
-      "state": "s",
-      "change": "0"
+      "keyword": "이홍구 전 국무총리 별세",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "역투하는 두산 잭로그",
-      "state": "n",
-      "change": "0"
+      "keyword": "허수아비 반전 대면",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "에스파 카리나 드레스 자태",
-      "state": "n",
-      "change": "0"
+      "keyword": "찾은 정청래 대표",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "유미의 세포들 시즌3",
-      "state": "+",
+      "keyword": "배드민턴 여자대표팀 인터뷰",
+      "state": "-",
       "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "이정후 무안타 지속",
+      "keyword": "문보경 왼쪽 발목 부상으로 병원 이송",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "택배비 1000원 인상",
+      "keyword": "KCC, 소노 잡고 71.4% 확률 확보",
       "state": "n",
       "change": "0"
     }
