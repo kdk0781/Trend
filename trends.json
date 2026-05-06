@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-06T09:39:35.061Z",
+  "updatedAt": "2026-05-06T11:28:35.355Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "박계범",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "로스앤젤레스 다저스",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "대한광통신",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "비트코인",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "재난지원금",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "코스피",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "기안84",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "전북 현대 모터스",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "에어로케이",
+      "keyword": "최형우",
       "traffic": "100+"
     },
     {
-      "rank": 10,
-      "keyword": "피고인",
+      "rank": 2,
+      "keyword": "화물 연대",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "뉴스",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "육아휴직",
       "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "통일",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "pba 팀리그",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "김은중",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "홍영기",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "성남시",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 10,
+      "keyword": "공원",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "신종오 판사, 성실한 법관",
+      "keyword": "신종오 판사 숨진 채 발견",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "코스피 7,300대 마감",
-      "state": "n",
-      "change": "0"
+      "keyword": "미국-이란 종전 합의안 다가왔다",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 3,
-      "keyword": "프로젝트 프리덤 종료",
-      "state": "+",
-      "change": "1"
+      "keyword": "역투하는 류현진",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이상훈 어린이날 기부",
-      "state": "+",
-      "change": "7"
+      "keyword": "안성재 와인 논란 사과",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "박계범 류승민 트레이드",
-      "state": "n",
+      "keyword": "현대차, 베니스비엔날레 2034년까지 후원",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "허수아비 시청률 논란",
-      "state": "+",
-      "change": "1"
+      "keyword": "허수아비 이춘재 시청률 상승",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "샘 스미스, 동성 연인과 약혼",
+      "keyword": "70대 차량 빵집 돌진",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이란 호르무즈 개방 해결 가능",
+      "keyword": "고려아연 1분기 실적 최대",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "SK바이오사이언스 1분기 매출 증가",
-      "state": "n",
-      "change": "0"
+      "keyword": "이재원 투런포 작렬",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "최여진 남편과 드라마 출연",
-      "state": "n",
-      "change": "0"
+      "keyword": "삼성전자, 중국 가전 철수",
+      "state": "-",
+      "change": "4"
     }
   ]
 }
