@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-06T11:28:35.355Z",
+  "updatedAt": "2026-05-06T13:13:49.037Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "최형우",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "화물 연대",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "뉴스",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "육아휴직",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "통일",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "pba 팀리그",
+      "keyword": "거부권",
       "traffic": "2000+"
     },
     {
+      "rank": 2,
+      "keyword": "오승환",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "강원도민일보",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "삼중살",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "sxmb",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "내일 날씨",
+      "traffic": "100000+"
+    },
+    {
       "rank": 7,
-      "keyword": "김은중",
+      "keyword": "아데를린",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "홍영기",
-      "traffic": "200+"
+      "keyword": "이희진",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "성남시",
+      "keyword": "북한 개헌",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "공원",
-      "traffic": "200+"
+      "keyword": "달",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "신종오 판사 숨진 채 발견",
+      "keyword": "신종오 판사, 숨진 채 발견",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "미국-이란 종전 합의안 다가왔다",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 3,
-      "keyword": "역투하는 류현진",
+      "keyword": "나승엽 보쉴리 투런포",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "이춘재 허수아비 시청률 상승?",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 4,
-      "keyword": "안성재 와인 논란 사과",
-      "state": "s",
+      "keyword": "이란 혁명수비대 호르무즈 통항 보장",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "현대차, 베니스비엔날레 2034년까지 후원",
-      "state": "s",
-      "change": "0"
+      "keyword": "안성재 와인 배상 사과",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 6,
-      "keyword": "허수아비 이춘재 시청률 상승",
-      "state": "s",
+      "keyword": "무명 전설",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "70대 차량 빵집 돌진",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "고려아연 1분기 실적 최대",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "이재원 투런포 작렬",
+      "keyword": "황신혜, 최명길과 관계 발전",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 10,
-      "keyword": "삼성전자, 중국 가전 철수",
+      "rank": 8,
+      "keyword": "아데를린 솔로 홈런",
       "state": "-",
-      "change": "4"
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "수원 경기 중단",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "프로젝트 프리덤 중단 검토 필요없다",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
