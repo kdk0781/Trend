@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-05-06T07:25:13.067Z",
+  "updatedAt": "2026-05-06T09:39:35.061Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "농지",
+      "keyword": "박계범",
       "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "보스턴다이내믹스",
-      "traffic": "200+"
+      "keyword": "로스앤젤레스 다저스",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "김선태",
-      "traffic": "100+"
+      "keyword": "대한광통신",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "스페인 왕비 레티시아",
-      "traffic": "200+"
+      "keyword": "비트코인",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "강재준",
+      "keyword": "재난지원금",
       "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "cj제일제당",
-      "traffic": "1000+"
+      "keyword": "코스피",
+      "traffic": "20000+"
     },
     {
       "rank": 7,
-      "keyword": "이스라엘",
-      "traffic": "1000+"
+      "keyword": "기안84",
+      "traffic": "20000+"
     },
     {
       "rank": 8,
-      "keyword": "탐지견",
-      "traffic": "200+"
+      "keyword": "전북 현대 모터스",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "국민성장펀드",
-      "traffic": "5000+"
+      "keyword": "에어로케이",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "이정진",
-      "traffic": "2000+"
+      "keyword": "피고인",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정견발표하는 한병도 후보",
+      "keyword": "신종오 판사, 성실한 법관",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "조수미 40주년 기념 행사",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "박지훈 취사병 전설",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "1분기 최대 실적",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 5,
-      "keyword": "히말라야 미답봉 등정 성공",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "코스피 7,380 마감",
+      "keyword": "코스피 7,300대 마감",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "프로젝트 프리덤 종료",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "이상훈 어린이날 기부",
+      "state": "+",
+      "change": "7"
+    },
+    {
+      "rank": 5,
+      "keyword": "박계범 류승민 트레이드",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "허수아비 시청률 논란",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "디지털 성범죄 피해 지원단 출범",
-      "state": "-",
-      "change": "2"
+      "keyword": "샘 스미스, 동성 연인과 약혼",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이춘재 허수아비 사건",
-      "state": "-",
-      "change": "2"
+      "keyword": "이란 호르무즈 개방 해결 가능",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김은중 감독, LA 올림픽 이끈다",
+      "keyword": "SK바이오사이언스 1분기 매출 증가",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "영토조항 신설 두 국가",
-      "state": "s",
+      "keyword": "최여진 남편과 드라마 출연",
+      "state": "n",
       "change": "0"
     }
   ]
