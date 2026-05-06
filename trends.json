@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-06T13:13:49.037Z",
+  "updatedAt": "2026-05-06T15:36:34.508Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "거부권",
-      "traffic": "2000+"
+      "keyword": "회사",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "오승환",
+      "keyword": "윤하",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "강원도민일보",
+      "keyword": "장한별",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "삼중살",
-      "traffic": "200+"
+      "keyword": "srh vs pbks",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "sxmb",
-      "traffic": "1000+"
+      "keyword": "남규리",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "내일 날씨",
-      "traffic": "100000+"
+      "keyword": "판결",
+      "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "아데를린",
-      "traffic": "200+"
+      "keyword": "lg전자",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "이희진",
-      "traffic": "2000+"
+      "keyword": "섬총각 영웅",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "북한 개헌",
-      "traffic": "1000+"
+      "keyword": "구승민",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "달",
-      "traffic": "500+"
+      "keyword": "팔공산",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "신종오 판사, 숨진 채 발견",
+      "keyword": "신종오 판사, 원칙 지키다 숨져",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "나승엽 보쉴리 투런포",
-      "state": "s",
+      "keyword": "코스피 7380선 마감",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이춘재 허수아비 시청률 상승?",
+      "keyword": "신혜선 유퀴즈 출연 소감",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "이란 혁명수비대 호르무즈 통항 보장",
-      "state": "n",
-      "change": "0"
+      "keyword": "안성재 와인 바꿔치기 사과",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 5,
-      "keyword": "안성재 와인 배상 사과",
+      "keyword": "무명 전설",
       "state": "+",
-      "change": "6"
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "무명 전설",
+      "keyword": "미-이란 합의안 근접",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "황신혜, 최명길과 관계 발전",
-      "state": "-",
-      "change": "1"
+      "keyword": "나승엽 보쉴리 투런포",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "아데를린 솔로 홈런",
-      "state": "-",
-      "change": "1"
+      "keyword": "1분기 매출 최대 성장",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "수원 경기 중단",
+      "keyword": "한병도 원내대표 연임 성공",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "프로젝트 프리덤 중단 검토 필요없다",
+      "keyword": "송찬의 솔로포 작렬",
       "state": "n",
       "change": "0"
     }
