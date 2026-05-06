@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-05-06T04:44:50.621Z",
+  "updatedAt": "2026-05-06T07:25:13.067Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "베이비붐",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "한온시스템",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "에이비엘바이오",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "김민재",
+      "keyword": "농지",
       "traffic": "2000+"
     },
     {
-      "rank": 5,
-      "keyword": "이소나",
+      "rank": 2,
+      "keyword": "보스턴다이내믹스",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "김선태",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "스페인 왕비 레티시아",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "강재준",
+      "traffic": "2000+"
+    },
+    {
       "rank": 6,
-      "keyword": "오타니 쇼헤이",
+      "keyword": "cj제일제당",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "이모티콘",
-      "traffic": "100+"
+      "keyword": "이스라엘",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "최명길",
+      "keyword": "탐지견",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "김민자",
-      "traffic": "500+"
+      "keyword": "국민성장펀드",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "ive",
-      "traffic": "200+"
+      "keyword": "이정진",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "가비 스님 로봇",
-      "state": "+",
-      "change": "1"
+      "keyword": "정견발표하는 한병도 후보",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "차승원, 봉주르 빵집에서 제일 많이 먹어",
-      "state": "+",
-      "change": "1"
+      "keyword": "조수미 40주년 기념 행사",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "정원오-오세훈 어버이날 행사",
-      "state": "+",
-      "change": "1"
+      "keyword": "박지훈 취사병 전설",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "하이닉스 주가",
+      "keyword": "1분기 최대 실적",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "이희준, 허수아비 대박!",
-      "state": "+",
+      "keyword": "히말라야 미답봉 등정 성공",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "형사사법 개선 토론회",
+      "keyword": "코스피 7,380 마감",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "송성문 2타점 활약",
-      "state": "n",
-      "change": "0"
+      "keyword": "디지털 성범죄 피해 지원단 출범",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "박지원 임문영 발탁",
-      "state": "n",
-      "change": "0"
+      "keyword": "이춘재 허수아비 사건",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "양향자 경기도지사 후보",
+      "keyword": "김은중 감독, LA 올림픽 이끈다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "4월 물가 2.6%↑",
-      "state": "n",
+      "keyword": "영토조항 신설 두 국가",
+      "state": "s",
       "change": "0"
     }
   ]
