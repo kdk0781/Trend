@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-05T23:29:51.543Z",
+  "updatedAt": "2026-05-06T01:11:32.949Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "노바크 조코비치",
-      "traffic": "100+"
+      "keyword": "인플 루 언서",
+      "traffic": "20000+"
     },
     {
       "rank": 2,
-      "keyword": "신제윤",
-      "traffic": "100+"
+      "keyword": "사이드카",
+      "traffic": "10000+"
     },
     {
       "rank": 3,
-      "keyword": "박현주",
-      "traffic": "200+"
+      "keyword": "삼성전자 주가",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "유병훈",
-      "traffic": "2000+"
+      "keyword": "sh",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "인플레이션",
-      "traffic": "200+"
+      "keyword": "신종오 판사",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "최준희",
-      "traffic": "2000+"
+      "keyword": "삼성전자 주식",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "부동산",
-      "traffic": "2000+"
+      "keyword": "롯데홈쇼핑",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "구속영장",
-      "traffic": "500+"
+      "keyword": "긴축",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "마이클 캐릭",
+      "keyword": "미래에셋증권",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "내 이름은",
-      "traffic": "100+"
+      "keyword": "삼성증권",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "허수아비 부흥 이유",
-      "state": "+",
-      "change": "1"
+      "keyword": "신종오 판사 숨진 채 발견",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "쿠팡INC 1분기 영업손실",
-      "state": "-",
-      "change": "1"
+      "keyword": "4월 물가 2.6% 상승",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "아스널, 20년 만에 결승 진출!",
-      "state": "+",
-      "change": "1"
+      "keyword": "트럼프 해방 프로젝트 중단",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "방탄소년단 SWIM 6주 차트인",
-      "state": "n",
+      "keyword": "임영웅 섬총각 영웅 시즌2 컴백",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "부동산 신화 없다",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "배성재, 장모님과 존댓말 사용",
-      "state": "-",
+      "keyword": "코스피 매수 사이드카 발동",
+      "state": "+",
       "change": "3"
     },
     {
+      "rank": 6,
+      "keyword": "송성문 이정후와 맞대결",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "트럼프 한국 화물선 공격당해",
+      "keyword": "이스트소프트 AI 아바타 공개",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "공정위, 설탕 담합 과징금 감경",
+      "keyword": "SK하이닉스 주가 140만원 돌파",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "돌싱 모솔 조지 행동 반응",
+      "keyword": "군체 124개국 선판매",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "첫 번째 남자",
-      "state": "-",
-      "change": "2"
+      "keyword": "이용 전 의원 활동",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
