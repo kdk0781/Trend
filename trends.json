@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-06T01:11:32.949Z",
+  "updatedAt": "2026-05-06T04:44:50.621Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "인플 루 언서",
-      "traffic": "20000+"
+      "keyword": "베이비붐",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "사이드카",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "삼성전자 주가",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "sh",
+      "keyword": "한온시스템",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "에이비엘바이오",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "김민재",
+      "traffic": "2000+"
+    },
+    {
       "rank": 5,
-      "keyword": "신종오 판사",
-      "traffic": "5000+"
+      "keyword": "이소나",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "삼성전자 주식",
+      "keyword": "오타니 쇼헤이",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "롯데홈쇼핑",
+      "keyword": "이모티콘",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "긴축",
+      "keyword": "최명길",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "미래에셋증권",
-      "traffic": "200+"
+      "keyword": "김민자",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "삼성증권",
+      "keyword": "ive",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "신종오 판사 숨진 채 발견",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "4월 물가 2.6% 상승",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "트럼프 해방 프로젝트 중단",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "임영웅 섬총각 영웅 시즌2 컴백",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "코스피 매수 사이드카 발동",
+      "keyword": "가비 스님 로봇",
       "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 6,
-      "keyword": "송성문 이정후와 맞대결",
-      "state": "-",
       "change": "1"
     },
     {
+      "rank": 2,
+      "keyword": "차승원, 봉주르 빵집에서 제일 많이 먹어",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "정원오-오세훈 어버이날 행사",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "하이닉스 주가",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "이희준, 허수아비 대박!",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "형사사법 개선 토론회",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "이스트소프트 AI 아바타 공개",
+      "keyword": "송성문 2타점 활약",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "SK하이닉스 주가 140만원 돌파",
+      "keyword": "박지원 임문영 발탁",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "군체 124개국 선판매",
-      "state": "+",
-      "change": "1"
+      "keyword": "양향자 경기도지사 후보",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이용 전 의원 활동",
+      "keyword": "4월 물가 2.6%↑",
       "state": "n",
       "change": "0"
     }
