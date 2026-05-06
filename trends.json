@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-05-06T18:55:36.371Z",
+  "updatedAt": "2026-05-06T20:18:01.614Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "무명전설 - 트롯 사내들의 서열전쟁",
-      "traffic": "200+"
+      "keyword": "바이에른 대 psg",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "아스널 fc",
-      "traffic": "10000+"
+      "keyword": "상속세",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "양상문",
-      "traffic": "100+"
+      "keyword": "무명전설 - 트롯 사내들의 서열전쟁",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "dram etf",
+      "keyword": "양상문",
       "traffic": "100+"
     },
     {
@@ -48,68 +48,68 @@
     },
     {
       "rank": 10,
-      "keyword": "판결",
-      "traffic": "5000+"
+      "keyword": "srh vs pbks",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "신종오 판사 힘든 내색 안 해",
+      "keyword": "이란 제안 검토 중",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "무명 전설",
-      "state": "n",
-      "change": "0"
+      "keyword": "신종오 판사, 원칙 지킨 분",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "송찬의 솔로포 작렬",
+      "keyword": "류현진 120승 달성",
       "state": "+",
-      "change": "69"
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "이란 호르무즈 통항 보장",
+      "keyword": "안성재, 와인 사과해도 논란",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "나승엽 보쉴리 투런포",
-      "state": "-",
-      "change": "3"
+      "keyword": "영숙과 순자 갈등",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "수원 화재로 경기 중단",
+      "keyword": "테드 터너 별세",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "첫 번째 남자",
-      "state": "n",
-      "change": "0"
+      "keyword": "수영 아버지 시력 상실",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "허수아비 이춘재 사건 시청률 상승",
+      "keyword": "종로구 버스 11명 부상",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "류현진 120승 달성",
-      "state": "-",
-      "change": "3"
+      "keyword": "한인타운 총격 5명 사상",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "변우석과 유수빈 관계",
+      "keyword": "서인영 연애 계속",
       "state": "n",
       "change": "0"
     }
