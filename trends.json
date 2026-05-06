@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-05-06T15:36:34.508Z",
+  "updatedAt": "2026-05-06T17:08:23.972Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "회사",
-      "traffic": "500+"
+      "keyword": "근로기준법",
+      "traffic": "100+"
     },
     {
       "rank": 2,
+      "keyword": "전소미",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "회사",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
       "keyword": "윤하",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "장한별",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "srh vs pbks",
       "traffic": "500+"
     },
     {
-      "rank": 5,
-      "keyword": "남규리",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
+      "rank": 7,
       "keyword": "판결",
       "traffic": "5000+"
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "keyword": "남규리",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
       "keyword": "lg전자",
       "traffic": "500+"
     },
     {
-      "rank": 8,
-      "keyword": "섬총각 영웅",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "구승민",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "팔공산",
+      "keyword": "섬총각 영웅",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "신종오 판사, 원칙 지키다 숨져",
+      "keyword": "무명 전설",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "코스피 7380선 마감",
-      "state": "n",
-      "change": "0"
+      "keyword": "이란 호르무즈 안전한 통항 보장",
+      "state": "+",
+      "change": "9"
     },
     {
       "rank": 3,
-      "keyword": "신혜선 유퀴즈 출연 소감",
+      "keyword": "안성재 와인 논란 사과",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "안성재 와인 바꿔치기 사과",
-      "state": "+",
-      "change": "5"
+      "keyword": "신종오 판사는 원칙을 지킨 분",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "무명 전설",
-      "state": "+",
-      "change": "3"
+      "keyword": "송찬의 솔로포 날린다",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "미-이란 합의안 근접",
-      "state": "n",
+      "keyword": "나승엽 보쉴리 상대로 투런포",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "나승엽 보쉴리 투런포",
+      "keyword": "순자, 영숙과의 갈등 속 투명인간 됨",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "1분기 매출 최대 성장",
+      "keyword": "현대차, 베니스비엔날레 2034년까지 후원",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "한병도 원내대표 연임 성공",
-      "state": "n",
-      "change": "0"
+      "keyword": "화재로 경기 중단",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "송찬의 솔로포 작렬",
-      "state": "n",
+      "keyword": "류현진 120승 달성",
+      "state": "s",
       "change": "0"
     }
   ]
