@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-05-07T19:11:58.125Z",
+  "updatedAt": "2026-05-07T20:40:08.236Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "페이커",
+      "keyword": "황성빈",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "이상민",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "서현",
+      "keyword": "주거",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "이장우",
+      "traffic": "200+"
+    },
+    {
       "rank": 4,
-      "keyword": "울산광역시",
+      "keyword": "페이커",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "연금복권720+",
-      "traffic": "100+"
+      "keyword": "이상민",
+      "traffic": "500+"
     },
     {
       "rank": 6,
+      "keyword": "서현",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "울산광역시",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "연금복권720+",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
       "keyword": "이지훈",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "김호령",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "아정당",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "lsg vs rcb",
-      "traffic": "1000+"
-    },
-    {
       "rank": 10,
-      "keyword": "추아메니",
-      "traffic": "2000+"
+      "keyword": "김호령",
+      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "네덜란드 총리와 첫 통화",
+      "keyword": "종합특검 김관영 처분",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "영식과 영자 담배 논란",
+      "keyword": "20기 영식, 25기 영자 질문 공세",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김형준 2타점 적시타",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "종합특검 김관영 처분",
+      "keyword": "박건우 쐐기 투런포",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 5,
+      "keyword": "홍해 통과 첫 유조선 여수 도착",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "국회 법안 통과",
+      "keyword": "여고생 살해 전 스토킹 신고",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "고현정, 수술 후 김밥 못 먹어",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 8,
+      "keyword": "김원형 감독 승리의 주역",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "박건우 쐐기 투런포",
+      "rank": 9,
+      "keyword": "프로야구 300만 관중",
       "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "21세기 대군부인 변우석과 김영재 활동",
-      "state": "-",
       "change": "2"
     },
     {
-      "rank": 9,
-      "keyword": "검찰 방시혁 영장 반려",
-      "state": "+",
-      "change": "20"
-    },
-    {
       "rank": 10,
-      "keyword": "커티스 테일러 집중력 필요",
+      "keyword": "원태인 7이닝 무실점 투구",
       "state": "+",
-      "change": "4"
+      "change": "2"
     }
   ]
 }
