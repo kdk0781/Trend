@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-07T04:07:12.829Z",
+  "updatedAt": "2026-05-07T06:49:22.429Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "현대차 채용",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "반려견",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "에어로케이",
+      "keyword": "전략",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "윤진이",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "박혜경",
+      "traffic": "2000+"
+    },
+    {
       "rank": 4,
-      "keyword": "pga 투어",
+      "keyword": "재정",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "서경덕",
-      "traffic": "500+"
+      "keyword": "모두의 창업",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "lg 유플러스",
-      "traffic": "500+"
+      "keyword": "이자",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "제2금융권",
-      "traffic": "1000+"
+      "keyword": "개헌안",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "이승민",
-      "traffic": "200+"
+      "keyword": "lafc",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "여자 농구",
-      "traffic": "200+"
+      "keyword": "최태원",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "민지",
-      "traffic": "1000+"
+      "keyword": "박성준",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "한덕수 징역 15년 확정",
-      "state": "s",
-      "change": "0"
+      "keyword": "헌법 개정안 본회의 상정",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "와일드 씽 강동원 BTS와 챌린지 하길!",
-      "state": "s",
-      "change": "0"
+      "keyword": "이재명 대통령 수석보좌관회의",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "정성호 장관 신임 검사들과 대화",
+      "keyword": "임지연, 멋진 신세계 커플",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "북중미컵 LAFC 톨루카",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "발언하는 장동혁 대표",
+      "keyword": "무명 전설",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 5,
+      "keyword": "손흥민 슈팅 0개 최악의 날",
+      "state": "+",
+      "change": "10"
+    },
+    {
       "rank": 6,
-      "keyword": "행정수도 특별법안 공청회",
-      "state": "n",
-      "change": "0"
+      "keyword": "1분기 영업익 전년比",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "오세훈 후보 재개발 발언",
-      "state": "n",
-      "change": "0"
+      "keyword": "방수 시연하는 무인소방로봇",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "김관영 무소속 출마 선언",
+      "keyword": "모습 드러낸 감사의 정원",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "SK 소셜벤처 지원 확대",
-      "state": "+",
-      "change": "1"
+      "keyword": "대통령이 BTS 대통령궁",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "현대모비스 전기차 부품 개발 완료",
-      "state": "n",
-      "change": "0"
+      "keyword": "한일 안보정책협의회",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
