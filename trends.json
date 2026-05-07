@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-05-07T13:13:51.877Z",
+  "updatedAt": "2026-05-07T15:39:10.836Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "외국인",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "국민성장펀드 가입 방법",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "강백호",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "이연",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "국제 축구 연맹",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "브라이슨 디섐보",
+      "keyword": "lsg vs rcb",
       "traffic": "500+"
     },
     {
+      "rank": 2,
+      "keyword": "추아메니",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "김진태",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "백윤식",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "김서현",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "쿠싱",
+      "traffic": "200+"
+    },
+    {
       "rank": 7,
-      "keyword": "thời tiết ngày mai",
-      "traffic": "2000+"
+      "keyword": "신현빈",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "서병수",
+      "keyword": "윤상",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "한준수",
-      "traffic": "200+"
+      "keyword": "여자친구",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "메가",
-      "traffic": "100+"
+      "keyword": "이현우",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김형준 2타점 적시타",
-      "state": "s",
+      "keyword": "국회 본회의 통과 법안들",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "네덜란드 총리와 첫 통화",
-      "state": "s",
+      "keyword": "개헌안 투표 불성립",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "약손명가 갑질 논란",
+      "keyword": "정진석 공천 신청 철회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "KCC 챔프전 2연승!",
-      "state": "s",
+      "keyword": "검찰, 방시혁 구속영장 또 반려",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "최현석 딸 최연수 득남",
+      "keyword": "아이브 이서, 야구장 시구",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "검찰, 방시혁 구속영장 재반려",
+      "keyword": "1분기 매출 최대 기록",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "이현우 집 앞 홍진경 방문",
-      "state": "n",
-      "change": "0"
+      "keyword": "기은세 평창동 논란",
+      "state": "-",
+      "change": "6"
     },
     {
       "rank": 8,
-      "keyword": "윤상 아들 앤톤, 큰 선물 주다",
+      "keyword": "5차 석유 가격 동결",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "정진석 철회 백의종군",
+      "keyword": "이상민 감독의 미소와 승리",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "무명 전설",
-      "state": "s",
+      "keyword": "홈플러스 익스프레스 인수",
+      "state": "n",
       "change": "0"
     }
   ]
