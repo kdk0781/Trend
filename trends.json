@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-07T20:40:08.236Z",
+  "updatedAt": "2026-05-07T21:37:08.230Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "황성빈",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "주거",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "이장우",
+      "keyword": "한국도로공사",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "기안84",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "일본",
+      "traffic": "1000+"
+    },
+    {
       "rank": 4,
-      "keyword": "페이커",
-      "traffic": "100+"
+      "keyword": "애스턴 빌라 대 노팅엄 포레스트",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "이상민",
+      "keyword": "채소",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "서현",
+      "keyword": "iren",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "울산광역시",
-      "traffic": "200+"
+      "keyword": "스타뉴스",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "연금복권720+",
-      "traffic": "200+"
+      "keyword": "이민정",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "이지훈",
-      "traffic": "200+"
+      "keyword": "김숙",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "김호령",
-      "traffic": "200+"
+      "keyword": "문정희",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "KCC 챔프전 2연승",
+      "keyword": "트럼프 EU 관세 인상 7월 기한",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "종합특검 김관영 처분",
-      "state": "s",
-      "change": "0"
+      "keyword": "20기 영식과 25기 영자 질문 폭탄",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "20기 영식, 25기 영자 질문 공세",
-      "state": "s",
-      "change": "0"
+      "keyword": "300만 관중 돌파",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "박건우 쐐기 투런포",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "홍해 통과 첫 유조선 여수 도착",
+      "keyword": "김관영 내란 방조 무혐의",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "여고생 살해 전 스토킹 신고",
+      "rank": 5,
+      "keyword": "대군부인 변우석 뿌듯한 얼굴",
       "state": "+",
-      "change": "2"
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "미 이란 경제 침체",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
       "keyword": "고현정, 수술 후 김밥 못 먹어",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "김원형 감독 승리의 주역",
+      "keyword": "호르무즈 나무호 도착",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "프로야구 300만 관중",
-      "state": "+",
-      "change": "2"
+      "keyword": "NC 선수들 승리 자축",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "원태인 7이닝 무실점 투구",
-      "state": "+",
-      "change": "2"
+      "keyword": "신혜선 시청률 경쟁 어떨까",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
