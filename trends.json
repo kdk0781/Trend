@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-07T21:37:08.230Z",
+  "updatedAt": "2026-05-07T22:40:51.959Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "한국도로공사",
-      "traffic": "200+"
+      "keyword": "현대 마이티",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "기안84",
-      "traffic": "5000+"
+      "keyword": "코스피 삼성전자 sk하이닉스",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "일본",
-      "traffic": "1000+"
+      "keyword": "허인회",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "애스턴 빌라 대 노팅엄 포레스트",
-      "traffic": "500+"
+      "keyword": "에마뉘엘 마크롱",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "채소",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "iren",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "스타뉴스",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "이민정",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "김숙",
+      "keyword": "s&p 500",
       "traffic": "1000+"
     },
     {
-      "rank": 10,
-      "keyword": "문정희",
+      "rank": 6,
+      "keyword": "필라델피아 반도체 지수",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "lg에너지솔루션",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "코스피",
       "traffic": "2000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "다우 존스 산업평균지수",
+      "traffic": "500+"
+    },
+    {
+      "rank": 10,
+      "keyword": "액화천연가스",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 EU 관세 인상 7월 기한",
+      "keyword": "트럼프 관세 위법 판결",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "20기 영식과 25기 영자 질문 폭탄",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "300만 관중 돌파",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "김관영 내란 방조 무혐의",
+      "keyword": "국회의장 출마 김태년, 조정식 인터뷰",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "신서윤의 매력 가득",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "호르무즈 나무호 두바이 도착",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "대군부인 변우석 뿌듯한 얼굴",
-      "state": "+",
-      "change": "1"
+      "keyword": "故 정명환 자택서 심근경색 1주기",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "미 이란 경제 침체",
-      "state": "n",
+      "keyword": "미 이란 긴장 고조",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "고현정, 수술 후 김밥 못 먹어",
+      "keyword": "김정은 중요군수공장 시찰",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "김원형 감독의 승리 기쁨",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "호르무즈 나무호 도착",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 9,
-      "keyword": "NC 선수들 승리 자축",
-      "state": "n",
-      "change": "0"
+      "keyword": "술에 약 타서 살해 모의한 태권도 관장과 40대 여성",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "신혜선 시청률 경쟁 어떨까",
+      "keyword": "김지영 전 남친 만나다",
       "state": "n",
       "change": "0"
     }
