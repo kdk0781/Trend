@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-05-07T17:23:50.022Z",
+  "updatedAt": "2026-05-07T19:11:58.125Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "페이커",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
       "keyword": "이상민",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "서현",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "울산광역시",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "연금복권720+",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "이지훈",
       "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "아정당",
-      "traffic": "100+"
     },
     {
       "rank": 7,
@@ -38,80 +38,80 @@
     },
     {
       "rank": 8,
-      "keyword": "lsg vs rcb",
-      "traffic": "500+"
+      "keyword": "아정당",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "추아메니",
+      "keyword": "lsg vs rcb",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "김진태",
-      "traffic": "1000+"
+      "keyword": "추아메니",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "방시혁 구속영장 반려",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "아이브 이서, 시구 도전!",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "국회 본회의 통과 법안들",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "5차 석유 동결 유지",
+      "keyword": "KCC 챔프전 2연승",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "홈플러스 익스프레스 인수",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "KCC 이상민 감독 우승 확률 71.4%",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
+      "rank": 2,
       "keyword": "네덜란드 총리와 첫 통화",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
-      "rank": 8,
+      "rank": 3,
+      "keyword": "영식과 영자 담배 논란",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
       "keyword": "김형준 2타점 적시타",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "기은세 평창동 집 공사 논란",
+      "rank": 5,
+      "keyword": "종합특검 김관영 처분",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "국회 법안 통과",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "박건우 쐐기 투런포",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "21세기 대군부인 변우석과 김영재 활동",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "검찰 방시혁 영장 반려",
+      "state": "+",
+      "change": "20"
+    },
+    {
       "rank": 10,
-      "keyword": "정원오 후보 시장 활동",
-      "state": "s",
-      "change": "0"
+      "keyword": "커티스 테일러 집중력 필요",
+      "state": "+",
+      "change": "4"
     }
   ]
 }
