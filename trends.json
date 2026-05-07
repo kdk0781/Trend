@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-07T06:49:22.429Z",
+  "updatedAt": "2026-05-07T09:18:53.602Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "전략",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "윤진이",
+      "keyword": "이서진",
       "traffic": "5000+"
     },
     {
-      "rank": 3,
-      "keyword": "박혜경",
+      "rank": 2,
+      "keyword": "홈런",
       "traffic": "2000+"
     },
     {
+      "rank": 3,
+      "keyword": "아메리칸 비트코인",
+      "traffic": "200+"
+    },
+    {
       "rank": 4,
-      "keyword": "재정",
+      "keyword": "기은세",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "모두의 창업",
-      "traffic": "100+"
+      "keyword": "신랑",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "이자",
-      "traffic": "2000+"
+      "keyword": "개헌 투표",
+      "traffic": "10000+"
     },
     {
       "rank": 7,
-      "keyword": "개헌안",
-      "traffic": "500+"
+      "keyword": "아시아경제",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "lafc",
-      "traffic": "500+"
+      "keyword": "000660",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "최태원",
-      "traffic": "5000+"
+      "keyword": "닛케이 평균주가",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "박성준",
-      "traffic": "500+"
+      "keyword": "신안산선",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "헌법 개정안 본회의 상정",
-      "state": "+",
-      "change": "1"
+      "keyword": "기은세 자택 공사 논란",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이재명 대통령 수석보좌관회의",
-      "state": "-",
-      "change": "1"
+      "keyword": "개헌안 투표 불성립 유감",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "임지연, 멋진 신세계 커플",
-      "state": "n",
-      "change": "0"
+      "keyword": "정진석, 공천 신청 철회",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "무명 전설",
-      "state": "+",
-      "change": "1"
+      "keyword": "코스피 최고치 경신",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "손흥민 슈팅 0개 최악의 날",
-      "state": "+",
-      "change": "10"
-    },
-    {
-      "rank": 6,
-      "keyword": "1분기 영업익 전년比",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "방수 시연하는 무인소방로봇",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "모습 드러낸 감사의 정원",
+      "keyword": "김길리·임종언, 아동 스케이트 강습",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "지드래곤, 에스파 신곡 피처링",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "넷마블 1분기 영업익 6.8%↑",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "하이닉스 주가 300만원 간다",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "대통령이 BTS 대통령궁",
+      "keyword": "강승현, 부친상 슬픔 속 빈소 지킴",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "한일 안보정책협의회",
-      "state": "+",
-      "change": "2"
+      "keyword": "무명 전설",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
