@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-05-07T09:18:53.602Z",
+  "updatedAt": "2026-05-07T11:21:54.124Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이서진",
-      "traffic": "5000+"
+      "keyword": "두산로지스틱스솔루션",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "홈런",
-      "traffic": "2000+"
+      "keyword": "스포츠조선",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "아메리칸 비트코인",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "기은세",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "신랑",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "개헌 투표",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "아시아경제",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "000660",
+      "keyword": "고양 소노 대 부산 kcc",
       "traffic": "2000+"
     },
     {
-      "rank": 9,
-      "keyword": "닛케이 평균주가",
+      "rank": 4,
+      "keyword": "이투스",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "토지거래허가제",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "반도체 메모리",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "김단비",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "구속",
       "traffic": "200+"
     },
     {
+      "rank": 9,
+      "keyword": "부동산 투자",
+      "traffic": "500+"
+    },
+    {
       "rank": 10,
-      "keyword": "신안산선",
-      "traffic": "1000+"
+      "keyword": "놀이공원",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "기은세 자택 공사 논란",
-      "state": "s",
-      "change": "0"
+      "keyword": "방시혁 구속영장 보완수사 미이행",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "개헌안 투표 불성립 유감",
+      "keyword": "국회 본회의 통과 법안 5건",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "아이브 이서, 시구로 뜬다!",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "정진석, 공천 신청 철회",
-      "state": "+",
-      "change": "2"
-    },
-    {
       "rank": 4,
-      "keyword": "코스피 최고치 경신",
+      "keyword": "5차 석유 동결 유지",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김길리·임종언, 아동 스케이트 강습",
-      "state": "n",
-      "change": "0"
+      "keyword": "하림, 홈플러스 익스프레스 인수",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "지드래곤, 에스파 신곡 피처링",
+      "keyword": "작전 지시하는 감독",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "넷마블 1분기 영업익 6.8%↑",
+      "keyword": "기은세 평창동 집 공사 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "하이닉스 주가 300만원 간다",
+      "keyword": "무명 전설",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "강승현, 부친상 슬픔 속 빈소 지킴",
+      "keyword": "이란, 한국에 우호적",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "무명 전설",
-      "state": "s",
+      "keyword": "김소영 CCTV 공개",
+      "state": "n",
       "change": "0"
     }
   ]
