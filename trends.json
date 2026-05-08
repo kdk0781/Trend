@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-08T09:48:35.484Z",
+  "updatedAt": "2026-05-08T10:59:01.155Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "kia 대 롯데",
+      "keyword": "고현정",
       "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "lg 대 한화",
-      "traffic": "5000+"
+      "keyword": "폭력",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "삼성 대 nc",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "ssg 대 두산",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "마녀공장",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "로베르토 데 제르비",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "부산 kcc 이지스",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "국가 배상 책임",
+      "keyword": "외국인",
       "traffic": "1000+"
     },
     {
-      "rank": 9,
-      "keyword": "박은정",
+      "rank": 4,
+      "keyword": "5월8일",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "생산직",
       "traffic": "500+"
     },
     {
-      "rank": 10,
-      "keyword": "사랑과 평화",
+      "rank": 6,
+      "keyword": "메이플 극장판",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "주간조선",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "박준영",
       "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "신봉선",
+      "traffic": "200+"
+    },
+    {
+      "rank": 10,
+      "keyword": "이수현",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "삼성전자 사후조정 시작",
+      "keyword": "백상예술대상 후보 지금 집결",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "딸 기동능력종합평가시험 참관",
+      "keyword": "딸 주애와 기동능력종합평가시험",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "광주 노희동 2경기 징계",
-      "state": "n",
-      "change": "0"
+      "keyword": "김정은 군수공업기업소 방문",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "하이브 손배소 승패",
-      "state": "+",
-      "change": "8"
+      "keyword": "광주 노희동 2경기 출장정지",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "김정은 군수공업기업소 방문",
-      "state": "+",
+      "keyword": "김재환, 두산팬 인사",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "1분기 영업익 전년比 변화",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 7,
-      "keyword": "하이닉스 주가 전망 엇갈려",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "버디 퍼트 들어가길!",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 9,
-      "keyword": "채상병 임성근 징역 3년",
+      "keyword": "삼성전자 노사 협상 재개",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 10,
-      "keyword": "기은세 민폐 공사 사과",
-      "state": "-",
+      "rank": 7,
+      "keyword": "운동부 코치 나체 촬영 공유",
+      "state": "+",
       "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "계엄과 유다의 배신",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "전남광주통합특별시준비위원회 출범",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "이민우 첫 어버이날 카네이션에",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
