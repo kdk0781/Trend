@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-08T22:38:54.572Z",
+  "updatedAt": "2026-05-08T23:36:25.757Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "기부",
-      "traffic": "1000+"
+      "keyword": "레이 달리오",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "나스닥 100",
-      "traffic": "500+"
+      "keyword": "www",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "원자력 발전소",
+      "keyword": "문채원",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "중랑구",
+      "keyword": "mu",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "황인범",
-      "traffic": "200+"
+      "keyword": "나는 solo",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "용인시",
+      "keyword": "joby",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "레인보우로보틱스",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "프로야구 순위",
+      "keyword": "hbf",
       "traffic": "100+"
     },
     {
-      "rank": 9,
-      "keyword": "rklb",
+      "rank": 8,
+      "keyword": "필라델피아 반도체 지수",
       "traffic": "200+"
     },
     {
+      "rank": 9,
+      "keyword": "기부",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "알테오젠",
-      "traffic": "200+"
+      "keyword": "나스닥 100",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "유해진·류승룡 백상예술대상 수상",
+      "keyword": "수지 윤아 드레스 같아",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김영재, 21세기 대군부인 출연",
+      "keyword": "21세기 대군부인",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "멋진 신세계의 주말 대결",
+      "keyword": "한미 조선 MOU 체결",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이란 유조선 2척 무력화",
-      "state": "s",
-      "change": "0"
+      "keyword": "첫 번째 남자",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 5,
-      "keyword": "LG, 연장서 한화 9-8 제압",
+      "keyword": "양도세 중과 임박",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "한미 조선 협력 체결",
-      "state": "s",
+      "keyword": "임지연, 허남준과 시작",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "첫 번째 남자",
-      "state": "s",
+      "keyword": "곽정은, 어버이날 부친상 소식 전해져",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "나 혼자 산다",
-      "state": "+",
-      "change": "7"
+      "keyword": "이란 웃는다고 미국에",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "UFO 기밀 공개",
-      "state": "s",
+      "keyword": "132명 숨진 여객기 새 정황",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "그림 김상민 유죄로",
+      "keyword": "김상민 유죄로 뒤집혔다",
       "state": "n",
       "change": "0"
     }
