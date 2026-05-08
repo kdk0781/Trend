@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-08T08:00:57.818Z",
+  "updatedAt": "2026-05-08T09:48:35.484Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "국가배상책임",
-      "traffic": "200+"
+      "keyword": "kia 대 롯데",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "무키 베츠",
-      "traffic": "2000+"
+      "keyword": "lg 대 한화",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "이더리움",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "로스앤젤레스 다저스",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "김재환",
+      "keyword": "삼성 대 nc",
       "traffic": "2000+"
     },
     {
+      "rank": 4,
+      "keyword": "ssg 대 두산",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "마녀공장",
+      "traffic": "200+"
+    },
+    {
       "rank": 6,
-      "keyword": "cvn-77",
+      "keyword": "로베르토 데 제르비",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "영주권",
-      "traffic": "200+"
+      "keyword": "부산 kcc 이지스",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "바가지요금",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "전주원",
+      "keyword": "국가 배상 책임",
       "traffic": "1000+"
     },
     {
+      "rank": 9,
+      "keyword": "박은정",
+      "traffic": "500+"
+    },
+    {
       "rank": 10,
-      "keyword": "국내선",
+      "keyword": "사랑과 평화",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "코스피 상승 마감",
-      "state": "+",
-      "change": "1"
+      "keyword": "삼성전자 사후조정 시작",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "장동혁 외신기자 간담회",
+      "keyword": "딸 기동능력종합평가시험 참관",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "광주 노희동 2경기 징계",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "하이브 손배소 승패",
+      "state": "+",
+      "change": "8"
+    },
+    {
+      "rank": 5,
+      "keyword": "김정은 군수공업기업소 방문",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 3,
-      "keyword": "우원식 의장 눈물과 격려",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "1분기 영업익 증가",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "이승환 공연 취소 소송 승소 1억2천500만원 배상",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 6,
-      "keyword": "김상민 징역형 집행유예",
+      "keyword": "1분기 영업익 전년比 변화",
       "state": "-",
-      "change": "2"
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "홈플러스 37개 점포 영업 중단",
+      "keyword": "하이닉스 주가 전망 엇갈려",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "박홍근 장관 선수단 응원",
-      "state": "n",
-      "change": "0"
+      "keyword": "버디 퍼트 들어가길!",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "이억원 금융위원장 축사",
-      "state": "n",
-      "change": "0"
+      "keyword": "채상병 임성근 징역 3년",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "호르무즈 서산 앞바다",
-      "state": "n",
-      "change": "0"
+      "keyword": "기은세 민폐 공사 사과",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
