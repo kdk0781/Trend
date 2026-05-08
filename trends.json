@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-08T04:30:27.725Z",
+  "updatedAt": "2026-05-08T06:18:16.179Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "홈플러스",
-      "traffic": "1000+"
+      "keyword": "skc",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "두산로보틱스",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "임성근",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "무신사",
+      "keyword": "원더풀스",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
-      "keyword": "모아타운",
+      "rank": 3,
+      "keyword": "공매도",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "노홍철",
       "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "한화에어로스페이스",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "중앙그룹",
-      "traffic": "200+"
+      "keyword": "김현태",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "lakers vs thunder",
-      "traffic": "500+"
+      "keyword": "gs25",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "대한민국 독립유공자",
-      "traffic": "500+"
+      "keyword": "김지원",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "검정고시",
+      "keyword": "정원오",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "국가유산",
-      "traffic": "200+"
+      "keyword": "빌라",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 어버이날 기념식",
+      "keyword": "양도세 중과 종료",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "임성근 징역 3년 결론",
-      "state": "s",
-      "change": "0"
+      "keyword": "임성근 징역 3년 선고",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "영화 작전 주가조작",
-      "state": "+",
-      "change": "1"
+      "keyword": "홈플러스 37개 매장 중단",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "권익위 정상화 추진 결과 발표",
-      "state": "+",
-      "change": "1"
+      "keyword": "우즈, 무급 스태프 구인 사과",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "징역 2년 확정",
+      "keyword": "영화 작전주인공",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 6,
+      "keyword": "김영빈 변호사 충남 공천",
       "state": "-",
       "change": "2"
     },
     {
-      "rank": 6,
-      "keyword": "코르티스 4일 만에 200만 장 판매",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 7,
-      "keyword": "정수빈 월간 호수비 수상",
+      "keyword": "이재명, 캐나다 총리 통화",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "국회세종의사당 마스터플랜 국제공모",
-      "state": "s",
+      "keyword": "양정원 남편 주가조작",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "추경호 후보 발언",
-      "state": "s",
+      "keyword": "장다아, 키는 작지만 다리 길이 2M",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "기은세의 민폐 공사 논란",
-      "state": "n",
-      "change": "0"
+      "keyword": "3월 경상흑자 373억 달러 최대",
+      "state": "-",
+      "change": "5"
     }
   ]
 }
