@@ -1,117 +1,56 @@
 {
-  "updatedAt": "2026-05-08T18:19:56.014Z",
+  "updatedAt": "2026-05-08T19:48:07.914Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "인텔",
-      "traffic": "200+"
+      "keyword": "마이크론 주가",
+      "traffic": "100+"
     },
     {
       "rank": 2,
+      "keyword": "과일",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "인텔 주가",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
       "keyword": "인터뷰",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "장항준",
       "traffic": "2000+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "김원훈",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "이혼",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "덱스",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "트럼프 연설",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "보스턴 다이내믹스",
       "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "알렉스 히메네스",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "박정민",
-      "traffic": "200+"
     }
   ],
-  "domestic": [
-    {
-      "rank": 1,
-      "keyword": "백상예술대상 성과들",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "이란 유조선 나포",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "4월 고용 증가",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "이강철 감독, 선수와 기쁨 나눔",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "2026 서울패션로드 서울숲 개최",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "SSG 선발 베니지아노 승리하다",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "고유가 1차 지급 1조6728억",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "두산 팬들에게 인사",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "박찬욱 장항준 감독상",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 10,
-      "keyword": "현빈과 손예진, 사랑의 부부 NA리.",
-      "state": "n",
-      "change": "0"
-    }
-  ]
+  "domestic": []
 }
