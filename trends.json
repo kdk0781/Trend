@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-07T23:36:32.247Z",
+  "updatedAt": "2026-05-08T01:21:51.606Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "투자",
-      "traffic": "5000+"
+      "keyword": "진은정",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "법관",
+      "keyword": "롯데홈쇼핑",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "europa league",
-      "traffic": "100+"
+      "keyword": "육상 경기",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "abl바이오",
-      "traffic": "200+"
+      "keyword": "대통령",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "크리스털 팰리스 대 샤흐타르",
-      "traffic": "100+"
+      "keyword": "데이터 센터",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "가방",
+      "keyword": "맷 데이비슨",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "할인",
-      "traffic": "100+"
+      "keyword": "한고은",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "thứ hạng của al shabab gặp al-nassr",
-      "traffic": "100+"
+      "keyword": "정희",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "김성윤",
-      "traffic": "100+"
+      "keyword": "풍자",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "반도체",
-      "traffic": "5000+"
+      "keyword": "디트로이트 대 클리블랜드",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 10% 관세 위법 판결",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "국회의장 출마 의원 인터뷰",
+      "keyword": "비상경제본부회의 구윤철 부총리",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "나무호 두바이 도착 조사",
+      "rank": 2,
+      "keyword": "하이브 걸그룹 레이블 설립",
       "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "코스피 하락 시작",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 4,
-      "keyword": "신서윤 치어리더 매력",
-      "state": "n",
-      "change": "0"
+      "keyword": "3월 경상흑자 최대",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "김신영 첫 개콘 출연",
+      "keyword": "송언석 원내대표 회의 주재",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "이란군 시설 타격",
-      "state": "-",
-      "change": "2"
+      "keyword": "FA 최고 강이슬 우리은행 이적",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "대군부인 손준호 아들 변우석",
-      "state": "-",
-      "change": "1"
+      "keyword": "어버이날 맞아 부모님 감사 전해",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김정은 중요군수공장 시찰",
-      "state": "-",
-      "change": "1"
+      "keyword": "美 10% 관세 위법",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "故 정명환 심근경색 1주기",
+      "keyword": "에스파 선공개곡 WDA",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "300만 관중 돌파",
+      "keyword": "최현석, 할아버지 됐다.",
       "state": "n",
       "change": "0"
     }
