@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-08T06:18:16.179Z",
+  "updatedAt": "2026-05-08T08:00:57.818Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "skc",
+      "keyword": "국가배상책임",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "원더풀스",
-      "traffic": "1000+"
+      "keyword": "무키 베츠",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "공매도",
-      "traffic": "1000+"
+      "keyword": "이더리움",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "노홍철",
+      "keyword": "로스앤젤레스 다저스",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "한화에어로스페이스",
-      "traffic": "100+"
+      "keyword": "김재환",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "김현태",
-      "traffic": "500+"
+      "keyword": "cvn-77",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "gs25",
+      "keyword": "영주권",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "김지원",
-      "traffic": "2000+"
+      "keyword": "바가지요금",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "정원오",
+      "keyword": "전주원",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "빌라",
-      "traffic": "500+"
+      "keyword": "국내선",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "양도세 중과 종료",
-      "state": "n",
-      "change": "0"
+      "keyword": "코스피 상승 마감",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "임성근 징역 3년 선고",
-      "state": "-",
+      "keyword": "장동혁 외신기자 간담회",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "홈플러스 37개 매장 중단",
-      "state": "n",
-      "change": "0"
+      "keyword": "우원식 의장 눈물과 격려",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "우즈, 무급 스태프 구인 사과",
+      "keyword": "1분기 영업익 증가",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "영화 작전주인공",
-      "state": "-",
-      "change": "3"
+      "keyword": "이승환 공연 취소 소송 승소 1억2천500만원 배상",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김영빈 변호사 충남 공천",
+      "keyword": "김상민 징역형 집행유예",
       "state": "-",
       "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "이재명, 캐나다 총리 통화",
+      "keyword": "홈플러스 37개 점포 영업 중단",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "양정원 남편 주가조작",
+      "keyword": "박홍근 장관 선수단 응원",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "장다아, 키는 작지만 다리 길이 2M",
+      "keyword": "이억원 금융위원장 축사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "3월 경상흑자 373억 달러 최대",
-      "state": "-",
-      "change": "5"
+      "keyword": "호르무즈 서산 앞바다",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
