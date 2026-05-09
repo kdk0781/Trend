@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-05-09T15:06:44.533Z",
+  "updatedAt": "2026-05-09T16:04:25.535Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "gt vs rr",
-      "traffic": "500+"
+      "keyword": "한소희",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "닷컴 버블",
-      "traffic": "2000+"
+      "keyword": "manchester united",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "한일전",
-      "traffic": "2000+"
+      "keyword": "이연",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "로또 1223 회",
-      "traffic": "1000+"
+      "keyword": "창사",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "양궁 월드컵",
+      "keyword": "brighton vs wolves",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "외국인 노동자",
-      "traffic": "200+"
+      "keyword": "뉴스",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "jtbc",
-      "traffic": "200+"
+      "keyword": "닷컴 버블",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "sunderland vs man utd",
-      "traffic": "200+"
+      "keyword": "gt vs rr",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "무인 항공기",
-      "traffic": "200+"
+      "keyword": "한일전",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "모자무싸",
-      "traffic": "200+"
+      "keyword": "로또 1223 회",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "그것이 알고 싶다",
-      "state": "+",
-      "change": "1"
+      "keyword": "태권도장 관장 남편 살해 시도",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "남편 먹이려 단팥빵 훔친 할머니",
+      "keyword": "키오프 벨 시구와 승리",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "후보 선거사무소 개소식",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "버디 퍼트 들어가라",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "1223회 로또 1등 16명 18억",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 5,
-      "keyword": "광주 여고생 범 신상 확산",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 6,
-      "keyword": "층간소음으로 이웃 살해한 20대",
-      "state": "n",
-      "change": "0"
+      "keyword": "이지훈 아야네 육아 소신",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "첫 홀 버디 들어가라",
-      "state": "n",
-      "change": "0"
+      "keyword": "로또 당첨지역",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "홍준표 고문 영입하고",
-      "state": "n",
+      "keyword": "모자무싸에 대한 기대와 우려",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "아야네 어린이집 사탕 논란 해명",
+      "keyword": "윤준호 첫 홈런",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김영옥 광복 기억 생생해",
-      "state": "-",
-      "change": "4"
+      "keyword": "이웃 흉기 살해 20대 체포",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
