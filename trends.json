@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-05-09T09:47:36.647Z",
+  "updatedAt": "2026-05-09T10:40:40.869Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "뉴 진스",
-      "traffic": "1000+"
+      "keyword": "대전 대 포항",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "이용식",
-      "traffic": "500+"
+      "keyword": "표절",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "전기 자동차",
-      "traffic": "5000+"
+      "keyword": "김진욱",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "변우석",
-      "traffic": "1000+"
+      "keyword": "추신수",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "kick",
-      "traffic": "100+"
+      "keyword": "컴투스프로야구v26",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "유상증자",
-      "traffic": "500+"
+      "keyword": "경주",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "게장",
-      "traffic": "500+"
+      "keyword": "오세훈",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "빛과전자",
+      "keyword": "베트남",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "염혜란",
+      "keyword": "서범준",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "문현빈",
-      "traffic": "100+"
+      "keyword": "이용식",
+      "traffic": "500+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "태권도장 관장 직원 약물 살해미수",
+      "keyword": "태권도장 관장 구속",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "아름다운 키오프 벨 시구",
+      "keyword": "수원 대구 0-0 무승부",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "백상예술대상 참석한 스타들",
-      "state": "+",
+      "keyword": "대구 찾은 추경호",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "대구서 인사한 추경호",
-      "state": "n",
-      "change": "0"
+      "keyword": "백상예술대상 참석",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "이상민 감독 우승 확률 높다",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "수원 삼성 무승, 대구와 무승부",
+      "keyword": "최형우 좌중간 2루타",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 7,
+      "keyword": "선거사무소 개소식",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "한화 LG 11-3 대승",
+      "keyword": "키오프 벨 힘찬 시구",
       "state": "-",
-      "change": "3"
+      "change": "6"
     },
     {
       "rank": 9,
-      "keyword": "레오 14세 사제복 극찬",
+      "keyword": "제니, 2년 만에 대박",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김선태, 악플 1위 커뮤니티",
-      "state": "n",
-      "change": "0"
+      "keyword": "북한 군인들 전승절 행사",
+      "state": "-",
+      "change": "4"
     }
   ]
 }
