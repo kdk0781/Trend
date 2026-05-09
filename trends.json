@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-09T14:03:11.498Z",
+  "updatedAt": "2026-05-09T15:06:44.533Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "선덜랜드 대 맨유",
-      "traffic": "10000+"
+      "keyword": "gt vs rr",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "로또1223",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "쓰레기봉투",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "살림하는 남자들",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "기상",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "사미자",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "죽음",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "김고은",
+      "keyword": "닷컴 버블",
       "traffic": "2000+"
     },
     {
+      "rank": 3,
+      "keyword": "한일전",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "로또 1223 회",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "양궁 월드컵",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "외국인 노동자",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "jtbc",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "sunderland vs man utd",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "브리온",
-      "traffic": "100+"
+      "keyword": "무인 항공기",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "ливерпуль – челси",
-      "traffic": "100+"
+      "keyword": "모자무싸",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "사랑을 처방해 드립니다",
+      "keyword": "21세기 대군부인",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 2,
+      "keyword": "그것이 알고 싶다",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 2,
-      "keyword": "할머니의 단팥빵 훔쳤다",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 3,
-      "keyword": "사미자 출연료 모욕 사건",
+      "keyword": "남편 먹이려 단팥빵 훔친 할머니",
       "state": "+",
-      "change": "8"
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "김영옥, 광복 만세 기억나",
+      "keyword": "1223회 로또 1등 16명 18억",
       "state": "+",
-      "change": "4"
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "엘리베이터에서 이웃 살해한 20대",
+      "keyword": "광주 여고생 범 신상 확산",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "여고생 살해범 신상 확산",
+      "keyword": "층간소음으로 이웃 살해한 20대",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "은밀한 감사",
-      "state": "+",
-      "change": "5"
+      "keyword": "첫 홀 버디 들어가라",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "버디 퍼트 들어가라",
-      "state": "+",
-      "change": "1"
+      "keyword": "홍준표 고문 영입하고",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "그것이 알고 싶다",
-      "state": "+",
-      "change": "8"
+      "keyword": "아야네 어린이집 사탕 논란 해명",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김수미의 남능미 사연 고백",
-      "state": "n",
-      "change": "0"
+      "keyword": "김영옥 광복 기억 생생해",
+      "state": "-",
+      "change": "4"
     }
   ]
 }
