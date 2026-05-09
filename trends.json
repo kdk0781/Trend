@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-09T16:04:25.535Z",
+  "updatedAt": "2026-05-09T17:07:29.504Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "한소희",
-      "traffic": "200+"
+      "keyword": "차지연",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "manchester united",
-      "traffic": "100+"
+      "keyword": "man city vs brentford",
+      "traffic": "500+"
     },
     {
       "rank": 3,
+      "keyword": "본머스",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "한소희",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
       "keyword": "이연",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "창사",
-      "traffic": "200+"
+      "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "brighton vs wolves",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "뉴스",
       "traffic": "2000+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "닷컴 버블",
       "traffic": "2000+"
     },
     {
-      "rank": 8,
-      "keyword": "gt vs rr",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "한일전",
-      "traffic": "2000+"
-    },
-    {
       "rank": 10,
-      "keyword": "로또 1223 회",
+      "keyword": "gt vs rr",
       "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "21세기 대군부인",
+      "keyword": "멋진 신세계 시청률 4.1% 출발",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "태권도장 관장 남편 살해 시도",
+      "keyword": "남편 살해 시도 관장 구속",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "키오프 벨 시구와 승리",
-      "state": "s",
+      "keyword": "윤준호 첫 홈런!",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "후보 선거사무소 개소식",
-      "state": "s",
+      "keyword": "아이유 변우석 사랑 고백.",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "버디 퍼트 들어가라",
-      "state": "+",
+      "keyword": "1223회 로또 1등 16명 각 18억 지급",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
       "keyword": "이지훈 아야네 육아 소신",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "로또 당첨지역",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "모자무싸에 대한 기대와 우려",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "위층 이웃 살해한 20대 체포",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "정청래, 전태진 개소식 참석",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "윤준호 첫 홈런",
+      "keyword": "대구 인사하는 추경호",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이웃 흉기 살해 20대 체포",
-      "state": "s",
-      "change": "0"
+      "keyword": "제니 1인 기획사 정산금 238억",
+      "state": "+",
+      "change": "6"
     }
   ]
 }
