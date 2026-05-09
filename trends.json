@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-09T08:19:46.821Z",
+  "updatedAt": "2026-05-09T09:47:36.647Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "하나금융그룹",
-      "traffic": "100+"
+      "keyword": "뉴 진스",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "왕옌청",
+      "keyword": "이용식",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "수원 대 대구",
-      "traffic": "2000+"
+      "keyword": "전기 자동차",
+      "traffic": "5000+"
     },
     {
       "rank": 4,
-      "keyword": "광주 대 강원",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "김천상무 대 인천",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "v리그",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "양양군수",
+      "keyword": "변우석",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
-      "keyword": "예측 시장",
+      "rank": 5,
+      "keyword": "kick",
       "traffic": "100+"
     },
     {
+      "rank": 6,
+      "keyword": "유상증자",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "게장",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "빛과전자",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "샘 올트먼",
+      "keyword": "염혜란",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "군수산업",
-      "traffic": "1000+"
+      "keyword": "문현빈",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김영재, 21세기 대군부인 출연",
+      "keyword": "21세기 대군부인",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "태권도장 관장·직원 살인미수",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 3,
-      "keyword": "박소영 아나운서",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "전재수 캠프 찾은 정청래",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "백상예술대상 시상식 참석",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "임지연과 허남준의 멋진 신세계",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "KCC 챔프전 3연승!",
+      "keyword": "태권도장 관장 직원 약물 살해미수",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "한동훈, 부산 출마합니다.",
+      "rank": 3,
+      "keyword": "아름다운 키오프 벨 시구",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "백상예술대상 참석한 스타들",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "뉴진스 하우 스위트 저작권 소송 중",
-      "state": "-",
+      "rank": 5,
+      "keyword": "대구서 인사한 추경호",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "이상민 감독 우승 확률 높다",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "수원 삼성 무승, 대구와 무승부",
+      "state": "+",
       "change": "1"
     },
     {
+      "rank": 8,
+      "keyword": "한화 LG 11-3 대승",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 9,
+      "keyword": "레오 14세 사제복 극찬",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "딘딘母, 아들 통장 모텔 정리",
+      "keyword": "김선태, 악플 1위 커뮤니티",
       "state": "n",
       "change": "0"
     }
