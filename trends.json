@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-09T04:36:26.148Z",
+  "updatedAt": "2026-05-09T06:34:51.237Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "휴 잭맨",
-      "traffic": "200+"
+      "keyword": "봉화군",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "집행유예",
-      "traffic": "200+"
+      "keyword": "초과근무",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "햄버거",
+      "keyword": "아우디",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "징역형",
-      "traffic": "100+"
+      "keyword": "충남 아산 fc 대 서울e",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "강유진",
-      "traffic": "200+"
+      "keyword": "청라하늘대교",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "진서연",
+      "keyword": "고양시장",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "이은형",
-      "traffic": "1000+"
+      "keyword": "청두 j-20",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "닌텐도 스위치",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "마이클 버리",
+      "keyword": "국민연금",
       "traffic": "500+"
     },
     {
-      "rank": 10,
-      "keyword": "시진핑",
+      "rank": 9,
+      "keyword": "츄",
       "traffic": "200+"
+    },
+    {
+      "rank": 10,
+      "keyword": "부산 kcc 대 고양 소노",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "백상예술대상 참가자들",
-      "state": "s",
+      "keyword": "백상예술대상 구찌 참석",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "MC 유재필의 신현빈 배려",
-      "state": "+",
-      "change": "2"
+      "keyword": "김영재 매진, 21세기 대군부인 출연",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "안규백 방미 논의",
-      "state": "-",
+      "keyword": "정원오 후보, 택시운수 대화",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "고우석, 트리플A서 3이닝 무실점",
+      "keyword": "광주 여고생 살해범",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "광주 여고생 살해범",
-      "state": "+",
-      "change": "3"
+      "keyword": "이상민 감독 3차전 승리",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "양도세 중과 유예 마지막 날",
+      "keyword": "장동혁 노모에 무시하냐",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "안규백 방미 전작권 논의",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "김경문 감독 승리의 길",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 8,
-      "keyword": "이성민 조연상 불발 반응",
-      "state": "n",
-      "change": "0"
+      "keyword": "이정후 5월 첫 멀티히트",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "이지훈 아야네, 딸 사탕 첫경험",
+      "keyword": "김부겸 서문시장 방문",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "트럼프는 한국 사랑해",
-      "state": "-",
-      "change": "3"
+      "keyword": "뉴진스 하우 스위트 저작권 소송",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
