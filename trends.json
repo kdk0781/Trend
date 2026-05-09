@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-05-09T10:40:40.869Z",
+  "updatedAt": "2026-05-09T11:36:24.733Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "대전 대 포항",
-      "traffic": "2000+"
+      "keyword": "리버풀 대 첼시",
+      "traffic": "10000+"
     },
     {
       "rank": 2,
-      "keyword": "표절",
-      "traffic": "2000+"
+      "keyword": "최준용",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "김진욱",
-      "traffic": "200+"
+      "keyword": "주영훈",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "추신수",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "컴투스프로야구v26",
+      "keyword": "김준수",
       "traffic": "200+"
     },
     {
+      "rank": 5,
+      "keyword": "서건창",
+      "traffic": "100+"
+    },
+    {
       "rank": 6,
-      "keyword": "경주",
+      "keyword": "나성범",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "오세훈",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "베트남",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "서범준",
+      "keyword": "김종국",
       "traffic": "100+"
     },
     {
-      "rank": 10,
-      "keyword": "이용식",
+      "rank": 8,
+      "keyword": "살인",
       "traffic": "500+"
+    },
+    {
+      "rank": 9,
+      "keyword": "삼성전자",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 10,
+      "keyword": "채연",
+      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "태권도장 관장 구속",
-      "state": "n",
+      "keyword": "로코 멋진 신세계 흥행 시작",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "수원 대구 0-0 무승부",
-      "state": "n",
-      "change": "0"
+      "keyword": "태권도장 관장·직원 구속",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "대구 찾은 추경호",
-      "state": "-",
-      "change": "1"
+      "keyword": "김재환 투런포",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "백상예술대상 참석",
+      "keyword": "전태진 사무소 개소식 참석",
       "state": "-",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "최형우 좌중간 2루타",
+      "keyword": "수원 대구 0-0 무승부",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "대구에서 인사하는 추경호",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "선거사무소 개소식",
+      "rank": 8,
+      "keyword": "놀면 뭐하니",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "키오프 벨 힘찬 시구",
-      "state": "-",
-      "change": "6"
-    },
-    {
       "rank": 9,
-      "keyword": "제니, 2년 만에 대박",
+      "keyword": "넥스지 퍼포먼스 대결",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "북한 군인들 전승절 행사",
-      "state": "-",
-      "change": "4"
+      "keyword": "김효주 NH투자증권 선두",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
