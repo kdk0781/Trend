@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-08T23:36:25.757Z",
+  "updatedAt": "2026-05-09T01:19:12.545Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "레이 달리오",
-      "traffic": "200+"
+      "keyword": "롯데홈쇼핑",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "www",
+      "keyword": "함은정",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "문채원",
+      "keyword": "휴전",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "mu",
+      "keyword": "김영재",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "나는 solo",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "joby",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "hbf",
+      "keyword": "원자력",
       "traffic": "100+"
     },
     {
-      "rank": 8,
-      "keyword": "필라델피아 반도체 지수",
+      "rank": 6,
+      "keyword": "해상 풍력 발전",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "선거관리위원회",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "조선일보",
+      "traffic": "500+"
+    },
+    {
       "rank": 9,
-      "keyword": "기부",
-      "traffic": "2000+"
+      "keyword": "비야디",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "나스닥 100",
-      "traffic": "500+"
+      "keyword": "광주연구개발 특구 첨단3지구",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "수지 윤아 드레스 같아",
+      "keyword": "신현빈, 우아한 인어공주 같아 웃음 유발",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "21세기 대군부인",
-      "state": "s",
-      "change": "0"
+      "keyword": "트럼프 이란 서한 받을 듯",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 3,
-      "keyword": "한미 조선 MOU 체결",
+      "keyword": "임성재 트루이스트 챔피언십",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "첫 번째 남자",
-      "state": "+",
-      "change": "5"
+      "keyword": "뽀빠이 이상용 1주기",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "양도세 중과 임박",
-      "state": "n",
-      "change": "0"
+      "keyword": "열일 행보 김영재, 21세기 대군부인 특별출연",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "임지연, 허남준과 시작",
-      "state": "n",
-      "change": "0"
+      "keyword": "장승조, 신세계 야망男 등장",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "곽정은, 어버이날 부친상 소식 전해져",
+      "keyword": "부산 북갑 후보 인터뷰",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이란 웃는다고 미국에",
+      "keyword": "송영한 2R 24위 함정우 33위",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "132명 숨진 여객기 새 정황",
+      "keyword": "국힘 옹호 프레임 으로 변경하였습니다.",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김상민 유죄로 뒤집혔다",
+      "keyword": "박민식 한날한시 개소식",
       "state": "n",
       "change": "0"
     }
