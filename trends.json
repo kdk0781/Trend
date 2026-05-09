@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-05-09T11:36:24.733Z",
+  "updatedAt": "2026-05-09T12:38:24.080Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "리버풀 대 첼시",
-      "traffic": "10000+"
+      "keyword": "쿠팡플레이",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "최준용",
-      "traffic": "5000+"
+      "keyword": "미확인 비행체",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "주영훈",
+      "keyword": "로또 추첨 시간",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "김준수",
-      "traffic": "200+"
+      "keyword": "권정열",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "서건창",
-      "traffic": "100+"
+      "keyword": "미들즈브러 대 사우샘프턴",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "나성범",
-      "traffic": "100+"
+      "keyword": "sxmb",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "김종국",
-      "traffic": "100+"
+      "keyword": "김재윤",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "살인",
-      "traffic": "500+"
+      "keyword": "이상용",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "삼성전자",
-      "traffic": "10000+"
+      "keyword": "liverpool đấu với chelsea",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "채연",
-      "traffic": "200+"
+      "keyword": "liverpool vs chelsea",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "로코 멋진 신세계 흥행 시작",
-      "state": "s",
+      "keyword": "남편 살해 시도 관장 구속",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "태권도장 관장·직원 구속",
+      "keyword": "사랑을 처방해 드립니다",
       "state": "+",
-      "change": "2"
+      "change": "4"
     },
     {
       "rank": 4,
-      "keyword": "김재환 투런포",
+      "keyword": "김재환 투런포 성과",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "넥스지 우승 박진영 한우 공약",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "백상예술대상 구찌 참석",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "김효주 NH투자증권 선두",
       "state": "+",
       "change": "3"
     },
     {
-      "rank": 5,
-      "keyword": "전태진 사무소 개소식 참석",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "수원 대구 0-0 무승부",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "대구에서 인사하는 추경호",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 8,
-      "keyword": "놀면 뭐하니",
+      "keyword": "전태진 선거사무소 개소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "넥스지 퍼포먼스 대결",
+      "keyword": "그것이 알고 싶다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김효주 NH투자증권 선두",
+      "keyword": "이정효호, 대구와 0-0 무승부",
       "state": "n",
       "change": "0"
     }
