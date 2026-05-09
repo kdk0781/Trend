@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-09T01:19:12.545Z",
+  "updatedAt": "2026-05-09T04:36:26.148Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "롯데홈쇼핑",
-      "traffic": "100+"
+      "keyword": "휴 잭맨",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "함은정",
+      "keyword": "집행유예",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "휴전",
+      "keyword": "햄버거",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "김영재",
+      "keyword": "징역형",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "원자력",
-      "traffic": "100+"
+      "keyword": "강유진",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "해상 풍력 발전",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "선거관리위원회",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "조선일보",
+      "keyword": "진서연",
       "traffic": "500+"
     },
     {
+      "rank": 7,
+      "keyword": "이은형",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "닌텐도 스위치",
+      "traffic": "2000+"
+    },
+    {
       "rank": 9,
-      "keyword": "비야디",
-      "traffic": "200+"
+      "keyword": "마이클 버리",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "광주연구개발 특구 첨단3지구",
+      "keyword": "시진핑",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "신현빈, 우아한 인어공주 같아 웃음 유발",
+      "keyword": "백상예술대상 참가자들",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "트럼프 이란 서한 받을 듯",
+      "keyword": "MC 유재필의 신현빈 배려",
       "state": "+",
-      "change": "5"
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "임성재 트루이스트 챔피언십",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "뽀빠이 이상용 1주기",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "열일 행보 김영재, 21세기 대군부인 특별출연",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "장승조, 신세계 야망男 등장",
+      "keyword": "안규백 방미 논의",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 4,
+      "keyword": "고우석, 트리플A서 3이닝 무실점",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "광주 여고생 살해범",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 6,
+      "keyword": "양도세 중과 유예 마지막 날",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "부산 북갑 후보 인터뷰",
+      "keyword": "김경문 감독 승리의 길",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "송영한 2R 24위 함정우 33위",
+      "keyword": "이성민 조연상 불발 반응",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "국힘 옹호 프레임 으로 변경하였습니다.",
+      "keyword": "이지훈 아야네, 딸 사탕 첫경험",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "박민식 한날한시 개소식",
-      "state": "n",
-      "change": "0"
+      "keyword": "트럼프는 한국 사랑해",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
