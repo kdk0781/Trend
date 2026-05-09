@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-05-09T20:03:23.586Z",
+  "updatedAt": "2026-05-09T20:58:16.976Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "파리 생제르맹 fc",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "맨시티",
+      "keyword": "이재명",
       "traffic": "500+"
     },
     {
+      "rank": 2,
+      "keyword": "콩",
+      "traffic": "200+"
+    },
+    {
       "rank": 3,
-      "keyword": "man city đấu với brentford",
+      "keyword": "박찬호",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "wolfsburg vs bayern",
-      "traffic": "100+"
+      "keyword": "파리 생제르맹 fc",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "페리카나",
+      "keyword": "atlético madrid vs celta",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "군함",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "브루노 페르난데스",
+      "keyword": "삼성 엑시노스",
       "traffic": "100+"
     },
     {
+      "rank": 7,
+      "keyword": "맨시티",
+      "traffic": "500+"
+    },
+    {
       "rank": 8,
-      "keyword": "어머니날",
+      "keyword": "양파",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "차지연",
-      "traffic": "1000+"
+      "keyword": "man city đấu với brentford",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "man city vs brentford",
-      "traffic": "500+"
+      "keyword": "wolfsburg vs bayern",
+      "traffic": "100+"
     }
   ],
   "domestic": [
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "멋진 신세계 시청률 출발",
+      "keyword": "로코 멋진 신세계 시청률 상승",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "1223회 로또 1등 16명 각 18억",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "나이스 버디 성공한 선수들",
-      "state": "+",
-      "change": "8"
-    },
-    {
-      "rank": 5,
-      "keyword": "2026 해양치유 관광 시작",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "은밀한 감사",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
       "keyword": "어청도 쓰레기 야적장서",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "대이란 4척 무력화",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 4,
+      "keyword": "버디 성공한 선수들",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "육지담 직업 변경",
+      "state": "+",
+      "change": "16"
+    },
+    {
+      "rank": 6,
+      "keyword": "사랑을 처방해 드립니다",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "대이란 4척 무력화",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "광주 여고생 살해범",
+      "state": "+",
+      "change": "4"
+    },
+    {
       "rank": 9,
-      "keyword": "김서아, 완벽한 플레이",
+      "keyword": "첫 홀 버디 들어가라",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "한동훈 겨냥한 홍준표",
+      "keyword": "모자무싸와 케미 기대",
       "state": "n",
       "change": "0"
     }
