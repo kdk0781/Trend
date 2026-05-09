@@ -1,69 +1,69 @@
 {
-  "updatedAt": "2026-05-09T19:18:02.169Z",
+  "updatedAt": "2026-05-09T20:03:23.586Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "파리 생제르맹 fc",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
       "keyword": "맨시티",
       "traffic": "500+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "man city đấu với brentford",
-      "traffic": "100+"
+      "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "wolfsburg vs bayern",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "페리카나",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "군함",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "브루노 페르난데스",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "어머니날",
       "traffic": "500+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "차지연",
       "traffic": "1000+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "man city vs brentford",
       "traffic": "500+"
-    },
-    {
-      "rank": 10,
-      "keyword": "본머스",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "21세기 대군부인",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "멋진 신세계 시청률 4.1% 출발",
-      "state": "-",
-      "change": "1"
+      "keyword": "멋진 신세계 시청률 출발",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
@@ -73,45 +73,45 @@
     },
     {
       "rank": 4,
-      "keyword": "첫 홀 버디 들어가라",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "2026 해양치유 프로그램",
+      "keyword": "나이스 버디 성공한 선수들",
       "state": "+",
       "change": "8"
     },
     {
+      "rank": 5,
+      "keyword": "2026 해양치유 관광 시작",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "나이스 버디 성공한 선수들",
+      "keyword": "은밀한 감사",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "남편 살해 시도 구속",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "SSG 두산 제압",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "육지담, 상담실장으로 변신",
+      "keyword": "어청도 쓰레기 야적장서",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 10,
-      "keyword": "삼성 6연승 질주",
+      "rank": 8,
+      "keyword": "대이란 4척 무력화",
       "state": "+",
-      "change": "6"
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "김서아, 완벽한 플레이",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "한동훈 겨냥한 홍준표",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
