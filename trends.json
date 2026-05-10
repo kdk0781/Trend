@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-05-09T23:12:01.054Z",
+  "updatedAt": "2026-05-10T00:06:38.183Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "브라이슨 디섐보",
-      "traffic": "100+"
+      "keyword": "나는 solo, 그 후 사랑은 계속된다",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "정유라",
-      "traffic": "100+"
+      "keyword": "제네시스 마그마 레이싱",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "밀양아리랑대축제",
-      "traffic": "200+"
+      "keyword": "농협은행",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "엄태영",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "중국 축구 국가대표팀",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "fifa u-17 월드컵",
+      "keyword": "오십프로",
       "traffic": "500+"
     },
     {
+      "rank": 5,
+      "keyword": "대방건설",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "가짜뉴스",
+      "traffic": "1000+"
+    },
+    {
       "rank": 7,
-      "keyword": "toronto vs inter miami",
-      "traffic": "100+"
+      "keyword": "브래드 피트",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "아시아경제",
-      "traffic": "1000+"
+      "keyword": "육아",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "ufc",
-      "traffic": "1000+"
+      "keyword": "이성민",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "sk증권",
-      "traffic": "200+"
+      "keyword": "농구",
+      "traffic": "100+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "멋진 신세계 시청률 4.1%로 출발",
+      "keyword": "멋진 신세계의 매력",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "양도세 중과 부활로 집값 영향",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "육지담, 성형외과 실장 됐다",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
       "keyword": "은밀한 감사",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "모스크바 붉은광장서 행진",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "사랑을 처방해 드립니다",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 6,
-      "keyword": "2026년 5월 10일 운세",
-      "state": "s",
+      "keyword": "축의금 10만원 대세",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "변우석 아이유 고백 후 위기",
-      "state": "s",
+      "keyword": "아야네 이지훈 무염 사과",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이연, 무대 공포증 극복하고 배우 도전",
+      "keyword": "임수정 양정숙, 백상예술여자조연상 수상",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "사랑을 처방해 드립니다",
-      "state": "s",
+      "keyword": "의사도 놀란 160KM 투수",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "대이란 4척 무력화",
-      "state": "-",
-      "change": "3"
+      "keyword": "광주 여고생 살해범",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
