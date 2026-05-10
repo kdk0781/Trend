@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-10T16:32:26.401Z",
+  "updatedAt": "2026-05-10T17:33:07.432Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "west ham đấu với arsenal",
-      "traffic": "200+"
+      "keyword": "아스날",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "뉴캐슬",
-      "traffic": "100+"
+      "keyword": "아스널",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "west ham vs arsenal",
+      "keyword": "고소",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "웨스트 햄 대 아스널",
-      "traffic": "10000+"
+      "keyword": "west ham đấu với arsenal",
+      "traffic": "200+"
     },
     {
       "rank": 5,
+      "keyword": "뉴캐슬",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "west ham vs arsenal",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "웨스트 햄 대 아스널",
+      "traffic": "20000+"
+    },
+    {
+      "rank": 8,
       "keyword": "mi vs rcb",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "과천시",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "벙커버스터",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "풍자",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "골프장",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "호프",
-      "traffic": "1000+"
+      "keyword": "벙커버스터",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "나무호 미상 비행체 공격",
+      "keyword": "나무호 미상 비행체 타격",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김효주 4년7개월 만에 우승",
+      "keyword": "소노 이정현 역전 성공",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "고우림 김연아 라면 좋아해",
+      "keyword": "고우림 김연아, 라면 좋아해",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "안치홍 만루홈런 끝내기!",
-      "state": "+",
-      "change": "1"
+      "keyword": "이란, 미국 답변 전달",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "장동혁·이진숙 필승 다짐",
-      "state": "+",
-      "change": "1"
+      "keyword": "김효주 5년 만의 KLPGA 우승",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
       "keyword": "21세기 대군부인",
       "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "이란, 미국 답변 전달",
-      "state": "+",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "부산 발전소 화재 발생",
+      "rank": 7,
+      "keyword": "은밀한 감사",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "이정현, 소노의 기적!",
+      "rank": 8,
+      "keyword": "이지훈 아야네 어린이집 해명 논란",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "멋진 신세계의 새로운 모습",
-      "state": "s",
+      "rank": 9,
+      "keyword": "강성연, 훈남과 재혼 공개",
+      "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "임지연의 멋진 신세계",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
