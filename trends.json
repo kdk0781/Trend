@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-10T09:59:50.812Z",
+  "updatedAt": "2026-05-10T11:02:43.526Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "문화일보",
-      "traffic": "1000+"
+      "keyword": "보스턴다이내믹스",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "이란 축구 국가대표팀",
+      "keyword": "이준영",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "기온",
-      "traffic": "1000+"
+      "keyword": "기술",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "한국항공우주산업",
-      "traffic": "5000+"
+      "keyword": "대둔산",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "씨맥",
-      "traffic": "100+"
+      "keyword": "하지원",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "뉴스 속보",
-      "traffic": "200+"
+      "keyword": "김민석",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "로저 페더러",
-      "traffic": "1000+"
+      "keyword": "t1",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "안치홍",
-      "traffic": "200+"
+      "keyword": "찰리 반즈",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "정재훈",
-      "traffic": "200+"
+      "keyword": "채원빈",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "통장",
-      "traffic": "5000+"
+      "keyword": "이이경",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김효주, 조카와 우승!",
-      "state": "s",
-      "change": "0"
+      "keyword": "외교부 미상 타격",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
       "keyword": "21세기 대군부인",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "김남준 선거사무소 개소식",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "멋진 신세계의 매력 포인트",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 3,
+      "keyword": "소노 이정현 반격 성공",
+      "state": "+",
+      "change": "6"
+    },
+    {
+      "rank": 4,
+      "keyword": "채원빈 반응에 양세찬 씁쓸",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 5,
-      "keyword": "장동혁·이진숙 필승 다짐",
+      "keyword": "멋진 신세계의 매력",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "대둔산 이모카세 등장",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "KCC 이상민 감독 우승 도전",
-      "state": "+",
-      "change": "2"
-    },
-    {
       "rank": 7,
-      "keyword": "안치홍 만루홈런 5연패 탈출",
-      "state": "s",
+      "keyword": "김효주 5년 만에 우승",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "박민식 한동훈 개소식",
-      "state": "n",
-      "change": "0"
+      "keyword": "답하는 김정관 산업장관",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "민형배 선대위 출범",
+      "keyword": "유희관 런닝맨 초토화",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "은밀한 감사",
-      "state": "-",
-      "change": "1"
+      "keyword": "박세웅, 280일 만에 승리!",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
