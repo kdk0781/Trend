@@ -1,63 +1,63 @@
 {
-  "updatedAt": "2026-05-10T19:42:57.395Z",
+  "updatedAt": "2026-05-10T20:30:41.726Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "택시",
-      "traffic": "500+"
+      "keyword": "barcelona đấu với real madrid",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "바르셀로나 대 레알 마드리드",
-      "traffic": "5000+"
+      "keyword": "최형우",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "레알",
-      "traffic": "100+"
+      "keyword": "lg 트윈스",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "real madrid",
-      "traffic": "100+"
+      "keyword": "라리가",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "laliga",
-      "traffic": "100+"
+      "keyword": "barcelona vs real madrid",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "박선영",
+      "keyword": "며느리",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "เวสต์แฮม พบ อาร์เซนอล",
-      "traffic": "200+"
+      "keyword": "택시",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "건설업",
-      "traffic": "500+"
+      "keyword": "응급실",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "고소",
-      "traffic": "500+"
+      "keyword": "레알마드리드",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "west ham đấu với arsenal",
-      "traffic": "500+"
+      "keyword": "바르셀로나 대 레알 마드리드",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이란, 美 답변 전달",
-      "state": "+",
-      "change": "2"
+      "keyword": "이란, 美 종전안 답변 전달",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
@@ -67,51 +67,51 @@
     },
     {
       "rank": 3,
-      "keyword": "나무호 비행체 피해 바꿨습니다.",
-      "state": "-",
-      "change": "2"
+      "keyword": "청, 나무호 NSC 개최",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "강성연 재혼 훈남 공개",
-      "state": "+",
-      "change": "2"
+      "keyword": "강성연, 이혼 후 새 가정 마련",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "평창오대산천장사씨름대회 소백장사 임주성",
+      "keyword": "평창오대산천장사씨름대회 등극한 임주성",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
       "keyword": "은밀한 감사",
-      "state": "-",
-      "change": "2"
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "21세기 대군부인",
-      "state": "-",
-      "change": "2"
+      "keyword": "이동휘 유재석 은인",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "멋진 신세계, 임지연 활약",
+      "keyword": "21세기 대군부인",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "모자무싸 특별출연 성동일",
+      "keyword": "13일 中 회담",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김효주 KLPGA 우승",
-      "state": "n",
-      "change": "0"
+      "keyword": "이시언 아내 위해 겨울 수박 구해왔다",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
