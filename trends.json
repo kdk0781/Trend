@@ -1,86 +1,86 @@
 {
-  "updatedAt": "2026-05-10T13:41:44.349Z",
+  "updatedAt": "2026-05-10T14:40:03.775Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "아스날 웨스트햄",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
+      "keyword": "burnley vs aston villa",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "공명",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "urvil patel",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "보안",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "비",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
       "keyword": "서인국",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 8,
       "keyword": "크리스털 팰리스 대 에버턴",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
+      "rank": 9,
       "keyword": "패션",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 10,
       "keyword": "윤태호",
       "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "노팅엄 포레스트 대 뉴캐슬",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "북대서양 조약 기구",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "삼성sds",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "내일 날씨",
-      "traffic": "200000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "weather tomorrow",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "부영그룹",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "나무호 미상 비행체 타격",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
+      "keyword": "이란혁명수비대 출신 비자",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
       "keyword": "사랑을 처방해 드립니다",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 3,
-      "keyword": "혁명수비대 출신 비자 발급",
-      "state": "n",
+      "rank": 4,
+      "keyword": "은밀한 감사",
+      "state": "s",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "21세기 대군부인",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 5,
-      "keyword": "무등산 조난 30대 생환",
-      "state": "n",
+      "keyword": "배유람 집 너무 더러워!",
+      "state": "s",
       "change": "0"
     },
     {
@@ -91,27 +91,27 @@
     },
     {
       "rank": 7,
-      "keyword": "배유람 집 너무 더러워!",
+      "keyword": "안치홍 끝내기 홈런!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "소노 이정현, 역전 자유투 성공!",
+      "keyword": "무등산 조난 30대 생환",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "KBO 최초 기록 달성",
-      "state": "n",
+      "keyword": "멋진 신세계의 생동감",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "전광훈, 트럼프 만나러 미국行",
-      "state": "n",
-      "change": "0"
+      "keyword": "21세기 대군부인",
+      "state": "-",
+      "change": "5"
     }
   ]
 }
