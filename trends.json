@@ -1,109 +1,109 @@
 {
-  "updatedAt": "2026-05-10T08:31:14.779Z",
+  "updatedAt": "2026-05-10T09:59:50.812Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "부산 kcc 대 고양 소노",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "노무현",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "포로 교환",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "인천광역시",
+      "keyword": "문화일보",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
-      "keyword": "무등산",
+      "rank": 2,
+      "keyword": "이란 축구 국가대표팀",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "기온",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "한국항공우주산업",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "씨맥",
+      "traffic": "100+"
+    },
+    {
       "rank": 6,
-      "keyword": "청주 kb 스타즈",
+      "keyword": "뉴스 속보",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "kt위즈",
-      "traffic": "100+"
+      "keyword": "로저 페더러",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "영국",
-      "traffic": "2000+"
+      "keyword": "안치홍",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "조정석",
-      "traffic": "100+"
+      "keyword": "정재훈",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "류지혁",
-      "traffic": "200+"
+      "keyword": "통장",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "21세기 대군부인",
-      "state": "+",
-      "change": "1"
+      "keyword": "김효주, 조카와 우승!",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김효주 우승 소감",
-      "state": "n",
+      "keyword": "21세기 대군부인",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "나무호 현장조사 마무리",
-      "state": "n",
-      "change": "0"
+      "keyword": "김남준 선거사무소 개소식",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "멋진 신세계 미모와 활력",
+      "keyword": "멋진 신세계의 매력 포인트",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "살목지 300만 관객 돌파",
-      "state": "-",
-      "change": "1"
+      "keyword": "장동혁·이진숙 필승 다짐",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "정원오 서울시장 후보 활동",
-      "state": "-",
-      "change": "1"
+      "keyword": "KCC 이상민 감독 우승 도전",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "정청래 대표와 민형배",
-      "state": "+",
-      "change": "3"
+      "keyword": "안치홍 만루홈런 5연패 탈출",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "조현우가 빛난 하루",
+      "keyword": "박민식 한동훈 개소식",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "한화 박준영 5이닝 무실점",
+      "keyword": "민형배 선대위 출범",
       "state": "n",
       "change": "0"
     },
