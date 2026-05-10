@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-05-10T00:06:38.183Z",
+  "updatedAt": "2026-05-10T04:10:05.219Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "나는 solo, 그 후 사랑은 계속된다",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "제네시스 마그마 레이싱",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "농협은행",
+      "keyword": "홍현희",
       "traffic": "100+"
     },
     {
-      "rank": 4,
-      "keyword": "오십프로",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "대방건설",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "가짜뉴스",
+      "rank": 2,
+      "keyword": "가상화폐",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
-      "keyword": "브래드 피트",
+      "rank": 3,
+      "keyword": "남진",
       "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "조슈아 반",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "lakers vs thunder",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "제레미 스티븐스",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "불교",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "육아",
-      "traffic": "200+"
+      "keyword": "한웨",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "이성민",
+      "keyword": "하원미",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "농구",
-      "traffic": "100+"
+      "keyword": "la 레이커스 대 오클라호마시티",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
@@ -61,56 +61,56 @@
     },
     {
       "rank": 2,
-      "keyword": "멋진 신세계의 매력",
+      "keyword": "오세훈 교통공약 발표",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "은밀한 감사",
-      "state": "s",
-      "change": "0"
+      "keyword": "그루비룸 이휘민 프러포즈",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 4,
-      "keyword": "모스크바 붉은광장서 행진",
+      "keyword": "이란 혁명수비대 비자 필요",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "사랑을 처방해 드립니다",
-      "state": "+",
+      "keyword": "안규백 장관 미국 출국",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "축의금 10만원 대세",
+      "keyword": "이지훈, 유난 떨어 사과",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "아야네 이지훈 무염 사과",
+      "keyword": "설종진 감독, 답답한 상황",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "임수정 양정숙, 백상예술여자조연상 수상",
-      "state": "n",
+      "keyword": "30대 무등산 조난 구조",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "의사도 놀란 160KM 투수",
-      "state": "n",
-      "change": "0"
+      "keyword": "은밀한 감사",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 10,
-      "keyword": "광주 여고생 살해범",
-      "state": "s",
+      "keyword": "대법 했다고 폭행 아냐",
+      "state": "n",
       "change": "0"
     }
   ]
