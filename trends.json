@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-10T06:42:16.124Z",
+  "updatedAt": "2026-05-10T08:31:14.779Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "전한길",
-      "traffic": "500+"
+      "keyword": "부산 kcc 대 고양 소노",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "백제",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "은행",
+      "keyword": "노무현",
       "traffic": "500+"
     },
     {
+      "rank": 3,
+      "keyword": "포로 교환",
+      "traffic": "100+"
+    },
+    {
       "rank": 4,
-      "keyword": "2026",
+      "keyword": "인천광역시",
       "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "충북 청주 fc",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "cbse class 12 result 2026 expected date",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "이의리",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "current chief minister of tamil nadu 2026",
+      "keyword": "무등산",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "청주 kb 스타즈",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "kt위즈",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "영국",
+      "traffic": "2000+"
+    },
+    {
       "rank": 9,
-      "keyword": "성남 대 전남",
-      "traffic": "500+"
+      "keyword": "조정석",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "이승민",
-      "traffic": "1000+"
+      "keyword": "류지혁",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "21세기 대군부인",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "다주택자 양도세 재개",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "나무호 조사 검토 끝",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 2,
+      "keyword": "김효주 우승 소감",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "나무호 현장조사 마무리",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 4,
-      "keyword": "최형우 4천500루타 달성",
+      "keyword": "멋진 신세계 미모와 활력",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "두아 리파, 삼성 220억 소송",
-      "state": "+",
-      "change": "7"
+      "keyword": "살목지 300만 관객 돌파",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "소개하는 한동훈 후보",
-      "state": "+",
-      "change": "2"
+      "keyword": "정원오 서울시장 후보 활동",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "아야네 어린이집 오해 해명",
-      "state": "n",
-      "change": "0"
+      "keyword": "정청래 대표와 민형배",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "조승래 총괄선대본부장",
+      "keyword": "조현우가 빛난 하루",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이휘민 프랑스서 프러포즈",
+      "keyword": "한화 박준영 5이닝 무실점",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "30대 무등산 조난 5일 생수로 버텨",
-      "state": "n",
-      "change": "0"
+      "keyword": "은밀한 감사",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
