@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-10T21:29:36.604Z",
+  "updatedAt": "2026-05-10T22:11:24.815Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "왕과 사는 남자",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "금",
+      "keyword": "나는 solo",
       "traffic": "1000+"
     },
     {
+      "rank": 2,
+      "keyword": "어뢰",
+      "traffic": "500+"
+    },
+    {
       "rank": 3,
-      "keyword": "барселона – реал мадрид",
+      "keyword": "필라데피아 대 뉴욕",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "송일국",
-      "traffic": "100+"
+      "keyword": "리그 1",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "건강보험",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "박민식",
+      "keyword": "전국삼성전자노동조합",
       "traffic": "1000+"
     },
     {
+      "rank": 6,
+      "keyword": "로스앤젤레스 다저스",
+      "traffic": "2000+"
+    },
+    {
       "rank": 7,
-      "keyword": "최준희",
-      "traffic": "5000+"
+      "keyword": "중앙일보",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "올리비아 로드리고",
-      "traffic": "200+"
+      "keyword": "데이터 센터",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "상장지수 펀드",
-      "traffic": "200+"
+      "keyword": "이강인",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "강이슬",
-      "traffic": "200+"
+      "keyword": "tsmc",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 답변 용납불가",
-      "state": "n",
-      "change": "0"
+      "keyword": "강성연 재혼 남편 공개",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "강성연 재혼 공개",
-      "state": "+",
+      "keyword": "트럼프 이란 답변, 완전 용납불가",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 3,
       "keyword": "은밀한 감사",
-      "state": "-",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "21세기 대군부인",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "고우림 김연아 라면 좋아해",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "나무호 비행체 공격",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "멋진 신세계의 존재감과 시청률 상승",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "성동일, 모자무싸 특별출연",
+      "keyword": "고우림 김연아 라면 사랑해",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "백악관 14일 회담",
+      "rank": 5,
+      "keyword": "백악관 14일 베이징 회담",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "21세기 대군부인",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 7,
+      "keyword": "2026년 5월 11일 운세",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "멋진 신세계, 임지연 활약",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "이시언, 아내 위해 겨울 수박 구해요",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 10,
-      "keyword": "이시언, 아내 위해 겨울 수박 구해와",
+      "keyword": "나무호 비행체 타격 분석",
       "state": "-",
       "change": "1"
     }
