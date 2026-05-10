@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-05-10T17:33:07.432Z",
+  "updatedAt": "2026-05-10T18:36:11.311Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "아스날",
-      "traffic": "2000+"
+      "keyword": "박선영",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "아스널",
-      "traffic": "1000+"
+      "keyword": "เวสต์แฮม พบ อาร์เซนอล",
+      "traffic": "100+"
     },
     {
       "rank": 3,
+      "keyword": "나홍진 호프",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
       "keyword": "고소",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "west ham đấu với arsenal",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "나홍진",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "뉴캐슬",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "west ham vs arsenal",
-      "traffic": "1000+"
+      "traffic": "2000+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "웨스트 햄 대 아스널",
       "traffic": "20000+"
     },
     {
-      "rank": 8,
-      "keyword": "mi vs rcb",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "과천시",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "벙커버스터",
+      "keyword": "mi vs rcb",
       "traffic": "500+"
     }
   ],
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "소노 이정현 역전 성공",
-      "state": "s",
-      "change": "0"
+      "keyword": "고우림 김연아, 라면 좋아해",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "고우림 김연아, 라면 좋아해",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
       "keyword": "이란, 미국 답변 전달",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "김효주 5년 만의 KLPGA 우승",
-      "state": "n",
-      "change": "0"
+      "rank": 4,
+      "keyword": "부키리치 정관장 복귀",
+      "state": "+",
+      "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "21세기 대군부인",
+      "rank": 5,
+      "keyword": "강성연 재혼 훈남 공개",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "김효주 KLPGA 우승",
+      "state": "+",
+      "change": "8"
+    },
+    {
       "rank": 7,
-      "keyword": "은밀한 감사",
+      "keyword": "이지훈 아야네 어린이집 해명 논란",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "이지훈 아야네 어린이집 해명 논란",
-      "state": "s",
+      "keyword": "평창오대산천장사씨름대회 소백장사 등극한",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "강성연, 훈남과 재혼 공개",
+      "keyword": "3%에 빌려 18% 고금리",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "임지연의 멋진 신세계",
-      "state": "-",
-      "change": "1"
+      "keyword": "국민의힘 당원 1325명 탈당",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
