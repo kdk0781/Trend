@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-05-11T18:23:15.206Z",
+  "updatedAt": "2026-05-11T20:13:10.748Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "인도의 총리",
-      "traffic": "200+"
+      "keyword": "새마을금고",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "정치",
-      "traffic": "200+"
+      "keyword": "무명전설 - 트롯 사내들의 서열전쟁",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "류혜린",
+      "keyword": "민생회복 소비쿠폰",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "가비",
-      "traffic": "200+"
+      "keyword": "이가 시비옹테크",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "대부도",
+      "keyword": "나폴리",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "byd",
-      "traffic": "100+"
+      "keyword": "토트넘 대 리즈 유나이티드",
+      "traffic": "10000+"
     },
     {
       "rank": 7,
-      "keyword": "이효리",
-      "traffic": "500+"
+      "keyword": "여자 축구",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "프로젝트 프리덤",
-      "traffic": "200+"
+      "keyword": "김동완",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "아이온큐",
-      "traffic": "200+"
+      "keyword": "입원",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "pbks vs dc",
-      "traffic": "1000+"
+      "keyword": "twitch",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "한미 국방장관 회담 시작",
+      "keyword": "한미 국방장관 회담",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "마이클 VIP 시사회 참석자",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "트럼프 이란 제안 쓰레기",
+      "keyword": "트럼프 프로젝트 재개 검토",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 3,
+      "keyword": "칸영화제 D-1, 델마와 루이스",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 4,
-      "keyword": "삼성전자 노사 첫날 협상 불발",
-      "state": "-",
-      "change": "1"
+      "keyword": "삼성전자 사후조정 첫날 종료",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "LAFC 감독 손흥민 경질 요구",
+      "keyword": "한윤서 이 결혼 맞나",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김빈우 새벽 소음 사과",
-      "state": "s",
-      "change": "0"
+      "keyword": "감사의 정원 시범운영",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "칸영화제 D-1, 델마와 루이스",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "감사의 정원 시범운영",
+      "keyword": "나무호 피격 사건 확인",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 8,
+      "keyword": "마이클 VIP 시사회 참석자들",
+      "state": "-",
+      "change": "5"
+    },
+    {
       "rank": 9,
-      "keyword": "한윤서, 예비 시모와 갈등",
-      "state": "n",
-      "change": "0"
+      "keyword": "김빈우 새벽 사과",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 10,
-      "keyword": "광주 여고생 살해 사건",
-      "state": "s",
+      "keyword": "이스라엘 정착민 제재",
+      "state": "n",
       "change": "0"
     }
   ]
