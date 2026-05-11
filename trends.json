@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-05-11T21:42:37.102Z",
+  "updatedAt": "2026-05-11T22:40:32.365Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "주유소",
+      "keyword": "오대환",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "punjab kings vs delhi capitals standings",
-      "traffic": "500+"
+      "keyword": "weather",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "pba 팀리그",
-      "traffic": "1000+"
+      "keyword": "한윤서",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "토트넘",
-      "traffic": "1000+"
+      "keyword": "나스닥 100",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "김관영",
-      "traffic": "1000+"
+      "keyword": "대구날씨",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "암호화폐",
-      "traffic": "500+"
+      "keyword": "schd",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "조영남",
-      "traffic": "500+"
+      "keyword": "필라델피아 반도체 지수",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "김종국",
+      "keyword": "crcl",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "엘레나 리바키나",
+      "keyword": "에코프로비엠",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "tottenham vs leeds",
-      "traffic": "500+"
+      "keyword": "삼성전자",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "한미 국방장관 회담 시작",
+      "keyword": "허수아비",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "트럼프 이란 휴전 불안 지속",
-      "state": "n",
-      "change": "0"
+      "keyword": "트럼프 해방 프로젝트 재개",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "칸 영화제 D-1, 델마와 루이스",
-      "state": "s",
-      "change": "0"
+      "keyword": "한미 국방장관 회담 개최",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
       "keyword": "취사병 전설이 되다",
-      "state": "s",
-      "change": "0"
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "삼성전자 노사 사후조정 종료",
+      "keyword": "한윤서, 예비 시모와 기싸움",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "아이유X변우석 상승세 굳히기",
-      "state": "s",
+      "keyword": "최혜진 세계랭킹 15위",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "한윤서, 예비 시모와 갈등",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "나무호 공격",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "장덕수, 세혁으로 활동명 변경",
-      "state": "+",
+      "keyword": "아이유와 변우석의 상승세",
+      "state": "-",
       "change": "1"
     },
     {
-      "rank": 10,
+      "rank": 8,
+      "keyword": "칸영화제 D-1, 델마와 루이스",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 9,
       "keyword": "고유가피해지원금",
-      "state": "n",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 10,
+      "keyword": "강성연 재혼 남편 공개",
+      "state": "s",
       "change": "0"
     }
   ]
