@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-11T00:09:54.853Z",
+  "updatedAt": "2026-05-11T04:33:46.525Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "미사일",
+      "keyword": "스페이스x 상장",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "코스모로보틱스",
+      "keyword": "위켄드 내한",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "강성연",
-      "traffic": "5000+"
+      "keyword": "대한민국 중소벤처기업부",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "klasemen barcelona vs real madrid",
+      "keyword": "장다아",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "발롱도르",
+      "keyword": "대한광통신 주가",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "검사",
-      "traffic": "2000+"
+      "keyword": "경향신문",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "대전날씨",
-      "traffic": "100+"
+      "keyword": "탑승",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "김민하",
-      "traffic": "100+"
+      "keyword": "문상호",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "관중석",
+      "keyword": "김하성",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "บาร์ซา พบ เรอัลมาดริด",
-      "traffic": "100+"
+      "keyword": "조성환",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "강성연 훈남 재혼",
+      "keyword": "정원오 후보 LG 간담회",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "트럼프 이란 답변 수용 불가",
+      "keyword": "고유가 지원금 2차 지급",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "은밀한 감사",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "갭투자 허용은 억까",
+      "keyword": "손흥민 LAFC, 휴스턴에 1-4 패",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "21세기 대군부인",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 5,
-      "keyword": "최혜진 미즈호 공동 3위",
-      "state": "s",
-      "change": "0"
+      "keyword": "코르티스 초동 231만 장 2위",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "21세기 대군부인",
+      "keyword": "삼성전자 노사 사후조정 시작",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "광주 여고생 살해범",
+      "keyword": "강성연, 재혼 소식",
       "state": "+",
-      "change": "108"
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "이지훈 아야네 짬뽕 논란",
+      "keyword": "국힘 나무호 피격 대응 기자회견",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "임지연, 멋진 신세계 활력 증가",
-      "state": "-",
-      "change": "1"
+      "keyword": "박홍근 장관 세종청사 개청",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "6월 1일 컴백 확정",
-      "state": "n",
-      "change": "0"
+      "keyword": "양도세 중과 매물 감소?",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
