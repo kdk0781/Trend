@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-11T16:40:16.825Z",
+  "updatedAt": "2026-05-11T18:23:15.206Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "류혜린",
+      "keyword": "인도의 총리",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "가비",
+      "keyword": "정치",
       "traffic": "200+"
     },
     {
       "rank": 3,
+      "keyword": "류혜린",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "가비",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "대부도",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
       "keyword": "byd",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "keyword": "이효리",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "프로젝트 프리덤",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "아이온큐",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "회사",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 8,
+      "rank": 10,
       "keyword": "pbks vs dc",
       "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "데브시스터즈",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "박민영",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "허수아비",
+      "keyword": "한미 국방장관 회담 시작",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "나무호 피격 규탄",
-      "state": "n",
+      "keyword": "마이클 VIP 시사회 참석자",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김진일 교수가 금통위원 추천",
-      "state": "-",
+      "keyword": "트럼프 이란 제안 쓰레기",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "마이클 시사회 참석者들",
+      "keyword": "삼성전자 노사 첫날 협상 불발",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "박성한 월간 MVP",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "아르노 LVMH 방한",
+      "keyword": "LAFC 감독 손흥민 경질 요구",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "김빈우 새벽 소음 사과",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "김빈우 새벽 사과",
-      "state": "+",
-      "change": "1"
+      "keyword": "칸영화제 D-1, 델마와 루이스",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이재용 주식 50조 돌파",
+      "keyword": "감사의 정원 시범운영",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "아이유X변우석 상승세 계속",
-      "state": "+",
-      "change": "3"
+      "keyword": "한윤서, 예비 시모와 갈등",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "삼성전자 노사 첫날 종료",
-      "state": "+",
-      "change": "5"
+      "keyword": "광주 여고생 살해 사건",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
