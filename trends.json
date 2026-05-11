@@ -1,117 +1,56 @@
 {
-  "updatedAt": "2026-05-11T22:40:32.365Z",
+  "updatedAt": "2026-05-11T23:41:43.433Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "오대환",
+      "keyword": "이강철",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "weather",
-      "traffic": "2000+"
+      "keyword": "aespa wda (whole different animal)",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "한윤서",
+      "keyword": "ls그룹",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "나스닥 100",
-      "traffic": "500+"
+      "keyword": "해운대구",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "대구날씨",
+      "keyword": "rklb",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "schd",
-      "traffic": "1000+"
+      "keyword": "날씨",
+      "traffic": "200000+"
     },
     {
       "rank": 7,
-      "keyword": "필라델피아 반도체 지수",
-      "traffic": "1000+"
+      "keyword": "한가인",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "crcl",
+      "keyword": "다우 존스 산업평균지수",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "에코프로비엠",
+      "keyword": "nvda",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "삼성전자",
+      "keyword": "weather",
       "traffic": "5000+"
     }
   ],
-  "domestic": [
-    {
-      "rank": 1,
-      "keyword": "허수아비",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "트럼프 해방 프로젝트 재개",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "한미 국방장관 회담 개최",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "취사병 전설이 되다",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "한윤서, 예비 시모와 기싸움",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "최혜진 세계랭킹 15위",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "아이유와 변우석의 상승세",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "칸영화제 D-1, 델마와 루이스",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "고유가피해지원금",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 10,
-      "keyword": "강성연 재혼 남편 공개",
-      "state": "s",
-      "change": "0"
-    }
-  ]
+  "domestic": []
 }
