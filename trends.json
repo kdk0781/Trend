@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-11T14:04:49.241Z",
+  "updatedAt": "2026-05-11T16:40:16.825Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이지훈",
+      "keyword": "류혜린",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "토마호크",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "길려원",
+      "keyword": "가비",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "byd",
+      "traffic": "100+"
+    },
+    {
       "rank": 4,
-      "keyword": "fifa u-17 여자 월드컵",
+      "keyword": "이효리",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "내일 날씨",
-      "traffic": "200000+"
+      "keyword": "프로젝트 프리덤",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "오유진",
+      "keyword": "아이온큐",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "캐시워크 정답",
-      "traffic": "200+"
+      "keyword": "회사",
+      "traffic": "10000+"
     },
     {
       "rank": 8,
-      "keyword": "시아버지",
+      "keyword": "pbks vs dc",
       "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "오마이 뉴스",
-      "traffic": "1000+"
+      "keyword": "데브시스터즈",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "thời tiết ngày mai",
-      "traffic": "2000+"
+      "keyword": "박민영",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "취사병 전설이 되다",
+      "keyword": "허수아비",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "나무호 공격 강력 규탄 필요",
+      "keyword": "나무호 피격 규탄",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "주왕산 실종 초등생 수색 중",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "이재용 주식 50조 돌파",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "롯데 자이언츠 일베 사과",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "마이클 시사회 참석자들",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "허수아비",
+      "keyword": "김진일 교수가 금통위원 추천",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "아내 살해 후 투신",
+      "rank": 4,
+      "keyword": "마이클 시사회 참석者들",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "박성한 월간 MVP",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "아르노 LVMH 방한",
       "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "김빈우 새벽 사과",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "이재용 주식 50조 돌파",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "우상혁 높이뛰기 선발전 우승",
-      "state": "-",
-      "change": "2"
+      "keyword": "아이유X변우석 상승세 계속",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "삼성전자 노사 첫날 회의 종료",
-      "state": "n",
-      "change": "0"
+      "keyword": "삼성전자 노사 첫날 종료",
+      "state": "+",
+      "change": "5"
     }
   ]
 }
