@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-10T23:10:50.563Z",
+  "updatedAt": "2026-05-11T00:09:54.853Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "관중석",
-      "traffic": "200+"
+      "keyword": "미사일",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "บาร์ซา พบ เรอัลมาดริด",
-      "traffic": "100+"
+      "keyword": "코스모로보틱스",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "ipl",
-      "traffic": "100+"
+      "keyword": "강성연",
+      "traffic": "5000+"
     },
     {
       "rank": 4,
-      "keyword": "天気",
+      "keyword": "klasemen barcelona vs real madrid",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "날씨",
-      "traffic": "200000+"
+      "keyword": "발롱도르",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "weather",
+      "keyword": "검사",
       "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "박지수",
-      "traffic": "200+"
+      "keyword": "대전날씨",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "롯데 자이언츠",
-      "traffic": "2000+"
+      "keyword": "김민하",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "강원특별자치도",
-      "traffic": "500+"
+      "keyword": "관중석",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "혈압",
-      "traffic": "2000+"
+      "keyword": "บาร์ซา พบ เรอัลมาดริด",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 답변 불가",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "강성연 재혼 남편 공개",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "은밀한 감사",
+      "keyword": "강성연 훈남 재혼",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "트럼프 이란 답변 수용 불가",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "은밀한 감사",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 4,
-      "keyword": "이강인 PSG 선발 활약",
+      "keyword": "갭투자 허용은 억까",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "21세기 대군부인",
+      "keyword": "최혜진 미즈호 공동 3위",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "바르셀로나 레알 격파 우승",
-      "state": "n",
+      "keyword": "21세기 대군부인",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "양도세 중과 재개 우려 커져",
-      "state": "n",
-      "change": "0"
+      "keyword": "광주 여고생 살해범",
+      "state": "+",
+      "change": "108"
     },
     {
       "rank": 8,
-      "keyword": "멋진 신세계 감동적이다",
-      "state": "+",
+      "keyword": "이지훈 아야네 짬뽕 논란",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "나무호 미상 비행체 타격",
-      "state": "n",
-      "change": "0"
+      "keyword": "임지연, 멋진 신세계 활력 증가",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "웨스트햄 아스널에 패배",
+      "keyword": "6월 1일 컴백 확정",
       "state": "n",
       "change": "0"
     }
