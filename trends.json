@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-11T04:33:46.525Z",
+  "updatedAt": "2026-05-11T08:02:58.108Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "스페이스x 상장",
-      "traffic": "500+"
+      "keyword": "엔진",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "위켄드 내한",
+      "keyword": "대원미디어",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "대한민국 중소벤처기업부",
-      "traffic": "100+"
+      "keyword": "반포자이",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "장다아",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "대한광통신 주가",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "경향신문",
+      "keyword": "옥순이",
       "traffic": "500+"
     },
     {
+      "rank": 5,
+      "keyword": "매매",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "마이너스 통장",
+      "traffic": "1000+"
+    },
+    {
       "rank": 7,
-      "keyword": "탑승",
+      "keyword": "쓰레기통",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "문상호",
-      "traffic": "200+"
+      "keyword": "서울 지하철",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "김하성",
-      "traffic": "200+"
+      "keyword": "폭포",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "조성환",
-      "traffic": "1000+"
+      "keyword": "양준혁",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정원오 후보 LG 간담회",
+      "keyword": "고지대 시설 찾는 오세훈",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "고유가 지원금 2차 지급",
-      "state": "s",
+      "keyword": "더불어민주당 서울 공천자대회",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "손흥민 LAFC, 휴스턴에 1-4 패",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "21세기 대군부인",
+      "keyword": "코스피 7822.24 마감 최고치",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "코르티스 초동 231만 장 2위",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "삼성전자 노사 사후조정 시작",
+      "rank": 4,
+      "keyword": "민간선박 공격 반대",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "강성연, 재혼 소식",
+      "rank": 5,
+      "keyword": "구윤철 부총리 기자간담회",
       "state": "+",
-      "change": "3"
+      "change": "2"
     },
     {
-      "rank": 8,
-      "keyword": "국힘 나무호 피격 대응 기자회견",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "박홍근 장관 세종청사 개청",
+      "rank": 6,
+      "keyword": "정윤민, 브래드 피트 AI 경각심 해명",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "박성한, 22G 연속 안타 MVP",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "박상용 검사 소명 기회 달라",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "멋진 신세계 배우 극과극 변신",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 10,
-      "keyword": "양도세 중과 매물 감소?",
+      "keyword": "컬리 1분기 영업익 242억",
       "state": "-",
       "change": "1"
     }
