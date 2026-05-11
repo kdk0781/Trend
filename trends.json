@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-11T11:33:55.922Z",
+  "updatedAt": "2026-05-11T14:04:49.241Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "삼성중공업",
-      "traffic": "1000+"
+      "keyword": "이지훈",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "북한산",
-      "traffic": "500+"
+      "keyword": "토마호크",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "선거 대책 위원장",
-      "traffic": "500+"
+      "keyword": "길려원",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "필리조선소",
-      "traffic": "100+"
+      "keyword": "fifa u-17 여자 월드컵",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "금융감독원",
-      "traffic": "100+"
+      "keyword": "내일 날씨",
+      "traffic": "200000+"
     },
     {
       "rank": 6,
-      "keyword": "한겨레",
-      "traffic": "100+"
+      "keyword": "오유진",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "로제",
+      "keyword": "캐시워크 정답",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "황 유민",
-      "traffic": "500+"
+      "keyword": "시아버지",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "bangladesh vs pakistan",
-      "traffic": "200+"
+      "keyword": "오마이 뉴스",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "회계사",
-      "traffic": "1000+"
+      "keyword": "thời tiết ngày mai",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "루이뷔통 회장 잠실 방문",
+      "keyword": "취사병 전설이 되다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김빈우, 클럽파티 사과",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "아이유 변우석 주말극 왕좌 굳히기",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "장덕수 활동명 변경 안내",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "임지연, 멋진 신세계 2위!",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "주왕산 초등생 수색 이틀째",
+      "keyword": "나무호 공격 강력 규탄 필요",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "주왕산 실종 초등생 수색 중",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "이재용 주식 50조 돌파",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "롯데 자이언츠 일베 사과",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "마이클 시사회 참석자들",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 7,
-      "keyword": "이재용 50조 돌파",
+      "keyword": "허수아비",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "광주 여고생 살해범",
-      "state": "s",
+      "keyword": "아내 살해 후 투신",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "강성연, 재혼 소식 알리다",
-      "state": "+",
-      "change": "1"
+      "keyword": "우상혁 높이뛰기 선발전 우승",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "나무호 공격 규탄",
+      "keyword": "삼성전자 노사 첫날 회의 종료",
       "state": "n",
       "change": "0"
     }
