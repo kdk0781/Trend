@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-11T08:02:58.108Z",
+  "updatedAt": "2026-05-11T11:33:55.922Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "엔진",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "대원미디어",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "반포자이",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "옥순이",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "매매",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "마이너스 통장",
+      "keyword": "삼성중공업",
       "traffic": "1000+"
     },
     {
+      "rank": 2,
+      "keyword": "북한산",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "선거 대책 위원장",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "필리조선소",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "금융감독원",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "한겨레",
+      "traffic": "100+"
+    },
+    {
       "rank": 7,
-      "keyword": "쓰레기통",
+      "keyword": "로제",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "서울 지하철",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "폭포",
+      "keyword": "황 유민",
       "traffic": "500+"
     },
     {
+      "rank": 9,
+      "keyword": "bangladesh vs pakistan",
+      "traffic": "200+"
+    },
+    {
       "rank": 10,
-      "keyword": "양준혁",
-      "traffic": "10000+"
+      "keyword": "회계사",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "고지대 시설 찾는 오세훈",
+      "keyword": "루이뷔통 회장 잠실 방문",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "더불어민주당 서울 공천자대회",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "코스피 7822.24 마감 최고치",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "민간선박 공격 반대",
+      "keyword": "김빈우, 클럽파티 사과",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "아이유 변우석 주말극 왕좌 굳히기",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "장덕수 활동명 변경 안내",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 5,
-      "keyword": "구윤철 부총리 기자간담회",
+      "keyword": "임지연, 멋진 신세계 2위!",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "정윤민, 브래드 피트 AI 경각심 해명",
+      "keyword": "주왕산 초등생 수색 이틀째",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "박성한, 22G 연속 안타 MVP",
-      "state": "n",
-      "change": "0"
+      "keyword": "이재용 50조 돌파",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "박상용 검사 소명 기회 달라",
-      "state": "n",
+      "keyword": "광주 여고생 살해범",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "멋진 신세계 배우 극과극 변신",
-      "state": "-",
+      "keyword": "강성연, 재혼 소식 알리다",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "컬리 1분기 영업익 242억",
-      "state": "-",
-      "change": "1"
+      "keyword": "나무호 공격 규탄",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
