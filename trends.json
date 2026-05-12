@@ -1,56 +1,117 @@
 {
-  "updatedAt": "2026-05-11T23:41:43.433Z",
+  "updatedAt": "2026-05-12T01:25:10.945Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이강철",
-      "traffic": "500+"
+      "keyword": "화산",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "aespa wda (whole different animal)",
+      "keyword": "국가유산청",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "ls그룹",
-      "traffic": "200+"
+      "keyword": "hd현대중공업",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "해운대구",
+      "keyword": "정책",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "rklb",
+      "keyword": "뉴데일리",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "날씨",
-      "traffic": "200000+"
+      "keyword": "현대무벡스",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "한가인",
-      "traffic": "200+"
+      "keyword": "김도영",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "다우 존스 산업평균지수",
-      "traffic": "200+"
+      "keyword": "윤형주",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "nvda",
-      "traffic": "100+"
+      "keyword": "김세환",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "weather",
-      "traffic": "5000+"
+      "keyword": "웨스트햄 유나이티드 fc",
+      "traffic": "500+"
     }
   ],
-  "domestic": []
+  "domestic": [
+    {
+      "rank": 1,
+      "keyword": "뉴시스 건설부동산 포럼",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 2,
+      "keyword": "발언하는 송언석 원내대표",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 3,
+      "keyword": "지예은 ♥바타 애칭 자기",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "CJ제일제당 1분기 영업익 26%↓",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "홍명보호 월드컵 트리니다드토바고",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "허수아비 범인 공개 및 OST 발매",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "코스피 8000 근접",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 8,
+      "keyword": "장재훈 부회장 금탑훈장 수훈",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "유선호, 1박 2일 하차",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "셀트리온 지프레 인수",
+      "state": "s",
+      "change": "0"
+    }
+  ]
 }
