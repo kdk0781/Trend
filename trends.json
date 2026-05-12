@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-12T17:24:34.550Z",
+  "updatedAt": "2026-05-12T19:15:43.294Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "나스닥",
-      "traffic": "500+"
+      "keyword": "알나스르 대 알힐랄",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "에어부산",
+      "keyword": "치마",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "디렉티브 8020",
+      "keyword": "스포티파이",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "김다영",
-      "traffic": "100+"
+      "keyword": "고성군",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "무리뉴",
-      "traffic": "500+"
+      "keyword": "재테크",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "gt vs srh",
+      "keyword": "나스닥",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "리플",
-      "traffic": "500+"
+      "keyword": "에어부산",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "도깨비",
-      "traffic": "1000+"
+      "keyword": "디렉티브 8020",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "ios 26.5",
+      "keyword": "김다영",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "토지거래허가제",
-      "traffic": "100+"
+      "keyword": "무리뉴",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "박상용 검사 징계 청구",
+      "keyword": "허수아비 박해수 누명 쓸까?",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "한화 류현진 역투",
+      "keyword": "삼성전자 사후조정 결렬",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "허수아비 누명 쓰나 시청자 훈훈",
+      "keyword": "박상용 정직 징계 청구",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "노시환 만루 홈런",
-      "state": "s",
+      "keyword": "레드카펫에 오른 박찬욱 심사위원장",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "제79회 칸영화제 개막",
+      "keyword": "美 4월 CPI 3.8% 상승",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "최정, 21시즌 연속 홈런",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "내일 베선트 접견",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "삼성전자 노사 막판 협상 중",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "강남서 수사 인력 전원 교체",
+      "keyword": "류현진 199승 달성",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "취사병 전설이 되다",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "윤용근 공주 보선",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "배성재 김다영 놀이공원 결혼",
+      "state": "-",
+      "change": "5"
+    },
+    {
       "rank": 10,
-      "keyword": "태양 코첼라 등장",
+      "keyword": "트럼프, 쿠바와 대화할 것",
       "state": "n",
       "change": "0"
     }
