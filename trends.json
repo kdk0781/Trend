@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-12T07:40:13.942Z",
+  "updatedAt": "2026-05-12T10:14:22.530Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "kf-21 보라매",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "구글 오류",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "투수",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "푸틴",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "최저임금",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "포항시",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "오타니 쇼헤이",
+      "keyword": "박근형",
       "traffic": "500+"
     },
     {
-      "rank": 8,
-      "keyword": "김성수",
+      "rank": 2,
+      "keyword": "기름",
       "traffic": "5000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "연애기숙학교 - 돌싱n모솔",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "한지아",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "성과급",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "ssg 대 kt",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "딕 아드보카트",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "마약",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "성리",
-      "traffic": "5000+"
+      "keyword": "이경규",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "착륙 복행",
-      "traffic": "2000+"
+      "keyword": "한화 대 키움",
+      "traffic": "20000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "체험 중인 윤호중 장관",
-      "state": "s",
-      "change": "0"
+      "keyword": "특검, 윤석열 징역 4년 구형",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 2,
-      "keyword": "정부서울청사 민방위 훈련",
+      "keyword": "허수아비 진범 누명 쓰나",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "허수아비 정체 드러난 갈등",
+      "keyword": "1분기 매출 증가",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "노상원 징역 2년 확정",
+      "keyword": "김용범 국민배당금 개인 의견",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이억원 금융위원장 AI 기업 방문",
-      "state": "-",
-      "change": "1"
+      "keyword": "대한항공 점보스 배구교실",
+      "state": "+",
+      "change": "8"
     },
     {
       "rank": 6,
-      "keyword": "이용훈 예방한 정동영",
-      "state": "n",
-      "change": "0"
+      "keyword": "생활의 달인 무단 촬영 논란",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "연극 베니스의 상인 소식 모음",
-      "state": "n",
-      "change": "0"
+      "keyword": "부산시장 후보 첫 TV토론",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "이승우 K리그 골",
-      "state": "s",
+      "keyword": "연극 베니스의 상인 간담회",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "코스피 2.3% 하락 마감",
+      "keyword": "헌재 재판소원 2건 통과",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "농심천심 국민참여단 대학생들",
-      "state": "s",
-      "change": "0"
+      "keyword": "고유가피해지원금 1차 지급 1위",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
