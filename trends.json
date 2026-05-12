@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-12T20:51:45.674Z",
+  "updatedAt": "2026-05-12T22:06:17.523Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "농축 우라늄",
-      "traffic": "5000+"
+      "keyword": "김하성",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "기부",
-      "traffic": "1000+"
+      "keyword": "osasuna vs atlético madrid",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "정부",
-      "traffic": "10000+"
+      "keyword": "삼성sdi",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "전원주",
-      "traffic": "2000+"
+      "keyword": "brandon clarke",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "프로당구 협회",
-      "traffic": "500+"
+      "keyword": "경기도교육감",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "주식시장",
-      "traffic": "500+"
+      "keyword": "현대 무 벡스",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "al-nassr vs al-hilal",
-      "traffic": "500+"
+      "keyword": "무등산",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "음료",
-      "traffic": "100+"
+      "keyword": "강남구",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "오민석",
-      "traffic": "100+"
+      "keyword": "걷기",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "알나스르 대 알힐랄",
-      "traffic": "500+"
+      "keyword": "al-nassr đấu với al hilal",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "허수아비 진범 박해수와 김반장",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 2,
       "keyword": "삼성전자 사후조정 결렬",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "미소 짓는 박찬욱 주석위원장",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "김다영, 배성재와 비밀연애 발각",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "美 4월 소비자물가 3.8% 상승",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "류현진 199승 달성",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "트럼프 쿠바 도움 대화할 것",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "박태하 4경기 무패",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "장원영 미모 대결",
+      "rank": 2,
+      "keyword": "허수아비 박해수와 김반장",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "레드카펫에 오른 박찬욱 심사위원장",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "트럼프 이란 논의 불필요",
       "state": "+",
-      "change": "28"
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "취사병 전설이 되다",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "배성재 김다영 비밀 연애 드러났다",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "10% 관세 무효 정지",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "민음사, 142명 번호 유출 사과",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "히든싱어 8",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "임지연 허남준 멋진 신세계",
+      "keyword": "인플레 우려 속 혼조 마감",
       "state": "n",
       "change": "0"
     }
