@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-05-12T01:25:10.945Z",
+  "updatedAt": "2026-05-12T04:56:36.290Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "화산",
+      "keyword": "코너 맥그리거",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "국가유산청",
+      "keyword": "필리핀",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "hd현대중공업",
-      "traffic": "2000+"
+      "keyword": "scotland vs nepal",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "정책",
+      "keyword": "신동",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "뉴데일리",
-      "traffic": "100+"
+      "keyword": "조정식",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "현대무벡스",
-      "traffic": "200+"
+      "keyword": "항소",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "김도영",
-      "traffic": "500+"
+      "keyword": "윤정수",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "윤형주",
-      "traffic": "500+"
+      "keyword": "lakers",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "김세환",
+      "keyword": "thunder vs lakers",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "웨스트햄 유나이티드 fc",
-      "traffic": "500+"
+      "keyword": "롯데케미칼",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "뉴시스 건설부동산 포럼",
+      "keyword": "감사의 정원 준공식 개최",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "발언하는 송언석 원내대표",
-      "state": "+",
-      "change": "2"
+      "keyword": "원더풀스 감독 차은우",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "지예은 ♥바타 애칭 자기",
+      "keyword": "실거주 유예 확대",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "CJ제일제당 1분기 영업익 26%↓",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "홍명보호 월드컵 트리니다드토바고",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "허수아비 범인 공개 및 OST 발매",
+      "keyword": "장재훈 부회장 금탑 수상",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "코스피 8000 근접",
+      "rank": 5,
+      "keyword": "취사병 전설이 되다",
       "state": "+",
-      "change": "3"
+      "change": "4"
+    },
+    {
+      "rank": 6,
+      "keyword": "제23회 자동차의 날",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 7,
+      "keyword": "고유가피해지원금",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "장재훈 부회장 금탑훈장 수훈",
+      "keyword": "5.12 간호사의 날 회견",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "유선호, 1박 2일 하차",
+      "keyword": "브리핑하는 김이탁 1차관",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "셀트리온 지프레 인수",
-      "state": "s",
+      "keyword": "최지우 부친상 슬픔",
+      "state": "n",
       "change": "0"
     }
   ]
