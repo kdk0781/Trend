@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-12T10:14:22.530Z",
+  "updatedAt": "2026-05-12T12:19:28.667Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "박근형",
-      "traffic": "500+"
+      "keyword": "현충일",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "기름",
-      "traffic": "5000+"
+      "keyword": "광주 살인범 얼굴",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "연애기숙학교 - 돌싱n모솔",
-      "traffic": "200+"
+      "keyword": "nol",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "한지아",
-      "traffic": "500+"
+      "keyword": "생활의 달인",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "성과급",
-      "traffic": "10000+"
+      "keyword": "장승현",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "ssg 대 kt",
+      "keyword": "광화문광장",
       "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "딕 아드보카트",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "마약",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "이경규",
+      "keyword": "bangladesh vs pakistan",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "51번째 주",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "황신혜",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "한화 대 키움",
-      "traffic": "20000+"
+      "keyword": "코닝",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "특검, 윤석열 징역 4년 구형",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 2,
-      "keyword": "허수아비 진범 누명 쓰나",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "1분기 매출 증가",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "김용범 국민배당금 개인 의견",
+      "keyword": "박상용 검사 징계 청구",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "대한항공 점보스 배구교실",
+      "rank": 2,
+      "keyword": "노시환 만루 홈런",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "제79회 칸영화제 개막",
       "state": "+",
-      "change": "8"
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "허수아비 박해수 곁에 김반장 있다",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "한화 류현진 역투",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "생활의 달인 무단 촬영 논란",
+      "keyword": "최승호 위원장 협상장 복귀",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "부산시장 후보 첫 TV토론",
+      "keyword": "최정, 21시즌 연속 홈런",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "연극 베니스의 상인 간담회",
+      "keyword": "첫 번째 남자",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "헌재 재판소원 2건 통과",
-      "state": "n",
-      "change": "0"
+      "keyword": "장원영 드레스 미모 대결",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "고유가피해지원금 1차 지급 1위",
+      "keyword": "고유가피해지원금 1위 지급",
       "state": "+",
       "change": "1"
     }
