@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-05-12T22:06:17.523Z",
+  "updatedAt": "2026-05-12T23:14:46.516Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김하성",
-      "traffic": "500+"
+      "keyword": "시장",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "osasuna vs atlético madrid",
+      "keyword": "무소속",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "삼성sdi",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "brandon clarke",
+      "keyword": "사고",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "소비자 물가지수",
+      "traffic": "2000+"
+    },
+    {
       "rank": 5,
-      "keyword": "경기도교육감",
+      "keyword": "카카오 t",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "현대 무 벡스",
-      "traffic": "200+"
+      "keyword": "마이크론 테크놀로지",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "무등산",
+      "keyword": "운세",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "강남구",
-      "traffic": "200+"
+      "keyword": "신지",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "걷기",
+      "keyword": "김포시",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "al-nassr đấu với al hilal",
-      "traffic": "200+"
+      "keyword": "이영표",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "허수아비 박해수와 김반장",
+      "keyword": "허수아비 열연한 박해수와 따스한 김반장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "레드카펫에 오른 박찬욱 심사위원장",
-      "state": "s",
-      "change": "0"
+      "keyword": "안규백 호르무즈 기여 검토",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "트럼프 이란 논의 불필요",
-      "state": "+",
+      "keyword": "트럼프, 이란 도움 불필요",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "취사병 전설이 되다",
-      "state": "s",
-      "change": "0"
+      "keyword": "배성재 김다영 비밀 연애 발각",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "배성재 김다영 비밀 연애 드러났다",
-      "state": "s",
+      "keyword": "이강인 발목 부상, 실내 훈련 중",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "10% 관세 무효 정지",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "민음사, 142명 번호 유출 사과",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "히든싱어 8",
-      "state": "+",
+      "keyword": "취사병 전설이 되다",
+      "state": "-",
       "change": "1"
     },
     {
+      "rank": 8,
+      "keyword": "10% 관세 판결 정지",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "엠씨더맥스 제이윤 5주기",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 10,
-      "keyword": "인플레 우려 속 혼조 마감",
-      "state": "n",
-      "change": "0"
+      "keyword": "아이유X변우석 대군부인 상승세",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
