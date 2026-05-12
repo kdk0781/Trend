@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-05-12T04:56:36.290Z",
+  "updatedAt": "2026-05-12T07:40:13.942Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "코너 맥그리거",
-      "traffic": "200+"
+      "keyword": "kf-21 보라매",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "필리핀",
+      "keyword": "구글 오류",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "scotland vs nepal",
+      "keyword": "투수",
       "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "신동",
-      "traffic": "200+"
+      "keyword": "푸틴",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "조정식",
-      "traffic": "500+"
+      "keyword": "최저임금",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "항소",
-      "traffic": "1000+"
+      "keyword": "포항시",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "윤정수",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "lakers",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "thunder vs lakers",
+      "keyword": "오타니 쇼헤이",
       "traffic": "500+"
     },
     {
+      "rank": 8,
+      "keyword": "김성수",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "성리",
+      "traffic": "5000+"
+    },
+    {
       "rank": 10,
-      "keyword": "롯데케미칼",
-      "traffic": "100+"
+      "keyword": "착륙 복행",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "감사의 정원 준공식 개최",
+      "keyword": "체험 중인 윤호중 장관",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "원더풀스 감독 차은우",
-      "state": "s",
-      "change": "0"
+      "keyword": "정부서울청사 민방위 훈련",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "실거주 유예 확대",
-      "state": "s",
+      "keyword": "허수아비 정체 드러난 갈등",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "장재훈 부회장 금탑 수상",
+      "keyword": "노상원 징역 2년 확정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "취사병 전설이 되다",
-      "state": "+",
-      "change": "4"
+      "keyword": "이억원 금융위원장 AI 기업 방문",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "제23회 자동차의 날",
-      "state": "+",
-      "change": "4"
+      "keyword": "이용훈 예방한 정동영",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "고유가피해지원금",
-      "state": "s",
+      "keyword": "연극 베니스의 상인 소식 모음",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "5.12 간호사의 날 회견",
-      "state": "+",
-      "change": "2"
+      "keyword": "이승우 K리그 골",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "브리핑하는 김이탁 1차관",
+      "keyword": "코스피 2.3% 하락 마감",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "최지우 부친상 슬픔",
-      "state": "n",
+      "keyword": "농심천심 국민참여단 대학생들",
+      "state": "s",
       "change": "0"
     }
   ]
