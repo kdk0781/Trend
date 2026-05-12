@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-12T15:12:31.339Z",
+  "updatedAt": "2026-05-12T17:24:34.550Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "리플",
+      "keyword": "나스닥",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "도깨비",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "ios 26.5",
+      "keyword": "에어부산",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "디렉티브 8020",
+      "traffic": "200+"
+    },
+    {
       "rank": 4,
-      "keyword": "토지거래허가제",
+      "keyword": "김다영",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "이천수",
-      "traffic": "1000+"
+      "keyword": "무리뉴",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "아나운서",
+      "keyword": "gt vs srh",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "tod",
-      "traffic": "200+"
+      "keyword": "리플",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "군용기",
-      "traffic": "100+"
+      "keyword": "도깨비",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "rte",
+      "keyword": "ios 26.5",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "s&p 500",
-      "traffic": "2000+"
+      "keyword": "토지거래허가제",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "유조선 호르무즈 통과",
-      "state": "n",
+      "keyword": "박상용 검사 징계 청구",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "박상용 정직 청구",
-      "state": "n",
-      "change": "0"
+      "keyword": "한화 류현진 역투",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "전병우 만루포 삼성 8연승!",
+      "keyword": "허수아비 누명 쓰나 시청자 훈훈",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "이제 1승 남은 류현진",
-      "state": "n",
+      "keyword": "노시환 만루 홈런",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "허수아비 박해수 누명 쓴다",
-      "state": "+",
-      "change": "9"
+      "keyword": "제79회 칸영화제 개막",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "윤석열 부친 단독주택 경매",
-      "state": "-",
-      "change": "1"
+      "keyword": "최정, 21시즌 연속 홈런",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "민음사 회원 번호 유출",
-      "state": "-",
-      "change": "1"
+      "keyword": "내일 베선트 접견",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "선한 영향력 최불암의 울림",
-      "state": "-",
-      "change": "5"
+      "keyword": "삼성전자 노사 막판 협상 중",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "엘시티 논란 전재수 박형준",
-      "state": "-",
-      "change": "2"
+      "keyword": "강남서 수사 인력 전원 교체",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "태권도장 관장 징역 10년",
-      "state": "-",
-      "change": "2"
+      "keyword": "태양 코첼라 등장",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
