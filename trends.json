@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-12T19:15:43.294Z",
+  "updatedAt": "2026-05-12T20:51:45.674Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "알나스르 대 알힐랄",
-      "traffic": "200+"
+      "keyword": "농축 우라늄",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "치마",
-      "traffic": "100+"
+      "keyword": "기부",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "스포티파이",
-      "traffic": "200+"
+      "keyword": "정부",
+      "traffic": "10000+"
     },
     {
       "rank": 4,
-      "keyword": "고성군",
-      "traffic": "200+"
+      "keyword": "전원주",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "재테크",
-      "traffic": "100+"
+      "keyword": "프로당구 협회",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "나스닥",
+      "keyword": "주식시장",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "에어부산",
-      "traffic": "100+"
+      "keyword": "al-nassr vs al-hilal",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "디렉티브 8020",
-      "traffic": "200+"
+      "keyword": "음료",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "김다영",
+      "keyword": "오민석",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "무리뉴",
+      "keyword": "알나스르 대 알힐랄",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "허수아비 박해수 누명 쓸까?",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "삼성전자 사후조정 결렬",
+      "keyword": "허수아비 진범 박해수와 김반장",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 2,
+      "keyword": "삼성전자 사후조정 결렬",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 3,
-      "keyword": "박상용 정직 징계 청구",
+      "keyword": "미소 짓는 박찬욱 주석위원장",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "레드카펫에 오른 박찬욱 심사위원장",
+      "keyword": "김다영, 배성재와 비밀연애 발각",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "美 4월 CPI 3.8% 상승",
-      "state": "s",
-      "change": "0"
+      "keyword": "美 4월 소비자물가 3.8% 상승",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
       "keyword": "류현진 199승 달성",
-      "state": "n",
-      "change": "0"
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "취사병 전설이 되다",
+      "keyword": "트럼프 쿠바 도움 대화할 것",
       "state": "-",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "윤용근 공주 보선",
-      "state": "-",
-      "change": "2"
+      "keyword": "박태하 4경기 무패",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "배성재 김다영 놀이공원 결혼",
-      "state": "-",
-      "change": "5"
+      "keyword": "장원영 미모 대결",
+      "state": "+",
+      "change": "28"
     },
     {
       "rank": 10,
-      "keyword": "트럼프, 쿠바와 대화할 것",
+      "keyword": "임지연 허남준 멋진 신세계",
       "state": "n",
       "change": "0"
     }
