@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-12T23:14:46.516Z",
+  "updatedAt": "2026-05-13T00:14:29.890Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "시장",
-      "traffic": "200+"
+      "keyword": "컵스 대 브레이브스",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "무소속",
+      "keyword": "에릭 트럼프",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "사고",
-      "traffic": "200+"
+      "keyword": "비용",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "소비자 물가지수",
+      "keyword": "전투기",
       "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "카카오 t",
-      "traffic": "200+"
+      "keyword": "유치원",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "마이크론 테크놀로지",
+      "keyword": "나나",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "운세",
+      "keyword": "민생회복 소비쿠폰",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "신지",
-      "traffic": "500+"
+      "keyword": "전북 현대 모터스",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "김포시",
-      "traffic": "500+"
+      "keyword": "qubt",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "이영표",
-      "traffic": "1000+"
+      "keyword": "시장",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "삼성전자 사후조정 결렬",
+      "keyword": "정문성 허수아비 8.2% 돌파",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "허수아비 열연한 박해수와 따스한 김반장",
+      "keyword": "안규백 호르무즈 기여 검토",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "이종석 즉각 파면과 사랑은 알아주길",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "안규백 호르무즈 기여 검토",
-      "state": "+",
-      "change": "2"
-    },
-    {
       "rank": 4,
-      "keyword": "트럼프, 이란 도움 불필요",
-      "state": "-",
-      "change": "1"
+      "keyword": "4월 취업자 7.4만명 증가",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "배성재 김다영 비밀 연애 발각",
-      "state": "+",
-      "change": "3"
+      "keyword": "취사병 전설이 되다",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "이강인 발목 부상, 실내 훈련 중",
-      "state": "n",
+      "keyword": "이강인 발목 부상 훈련 예정",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "취사병 전설이 되다",
-      "state": "-",
-      "change": "1"
+      "keyword": "비공개 최고위 장동혁",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "10% 관세 판결 정지",
+      "keyword": "방탄소년단 빌보드 1위 탈환",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "주왕산 실종 어린이 수색",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "엠씨더맥스 제이윤 5주기",
-      "state": "+",
-      "change": "3"
-    },
-    {
       "rank": 10,
-      "keyword": "아이유X변우석 대군부인 상승세",
-      "state": "+",
-      "change": "1"
+      "keyword": "손흥민, 메시에 이어 MLS 2위",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
