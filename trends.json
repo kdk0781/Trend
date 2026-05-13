@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-13T12:19:28.855Z",
+  "updatedAt": "2026-05-13T15:17:59.304Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "주영달",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "오은영",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "스마트 폰",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "박정훈",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "agi",
+      "keyword": "여당",
       "traffic": "100+"
     },
     {
-      "rank": 6,
-      "keyword": "rs-28 사르마트",
+      "rank": 2,
+      "keyword": "식중독",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "rcb vs kkr",
       "traffic": "500+"
     },
     {
+      "rank": 4,
+      "keyword": "허훈",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "전력",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "태양광 발전",
+      "traffic": "1000+"
+    },
+    {
       "rank": 7,
-      "keyword": "티비",
+      "keyword": "태양의 후예",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "다시보기",
-      "traffic": "500+"
+      "keyword": "츠키",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "마크 도스 산토스",
+      "keyword": "골드만삭스",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "서병수",
-      "traffic": "200+"
+      "keyword": "유열",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이상민 감독 마지막 경기",
-      "state": "+",
-      "change": "3"
+      "keyword": "KCC, 6위 최초 챔프전 우승",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "경찰 농협중앙회 압수수색",
+      "keyword": "주왕산 초등생 손상",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "EXID 솔지 시투",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "안성재 유튜브 중단",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "유동근, 전인화와 완벽한 부부",
-      "state": "n",
+      "keyword": "트럼프, 베이징 도착",
+      "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "정문성 대국민 사과",
+      "rank": 4,
+      "keyword": "유열, 아들 위한 유언장",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "무명 전설",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "롯데 직원 퇴사",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "안양 최건주, K리그1 최단골",
+      "keyword": "오지환 달아나는 솔로포",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "첫 번째 남자",
+      "keyword": "양상국 발언 논란",
       "state": "-",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "창원 트럭 버스 추돌",
+      "keyword": "옥순 영호 신혼여행 언제?",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "박지원의 국회의장 각오",
-      "state": "s",
-      "change": "0"
+      "keyword": "경찰, 농협중앙회 압수수색",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
