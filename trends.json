@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-13T20:58:19.394Z",
+  "updatedAt": "2026-05-13T22:13:04.531Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "แมนซิตี พบ คริสตัลพาเลซ",
-      "traffic": "200+"
+      "keyword": "신지",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "박지현",
+      "keyword": "프리미어리그",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "강남구",
+      "keyword": "실사격훈련",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "에코프로비엠",
-      "traffic": "100+"
+      "keyword": "서인영",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "man city đấu với crystal palace",
-      "traffic": "200+"
+      "keyword": "манчестер сити – кристал пэлас",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "man city vs palace",
-      "traffic": "200+"
+      "keyword": "v-리그",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "제이비어 브런슨",
-      "traffic": "100+"
+      "keyword": "나스닥 지수",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "박지수",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "천안시",
+      "keyword": "관세",
       "traffic": "1000+"
     },
     {
+      "rank": 9,
+      "keyword": "두산에너빌리티",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "맨시티",
-      "traffic": "200+"
+      "keyword": "환자",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "무명 전설",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "오지환, 8회 솔로포 작렬",
-      "state": "+",
-      "change": "9"
-    },
-    {
-      "rank": 3,
-      "keyword": "트럼프, 베이징 도착",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "허훈 MVP 등극",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "챔피언 자리에 오른 KCC",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "4월 도매물가 1.4%↑",
-      "state": "-",
-      "change": "2"
+      "rank": 2,
+      "keyword": "네타냐후 UAE 비밀 방문",
+      "state": "s",
+      "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "21세기 대군부인",
-      "state": "+",
-      "change": "14"
+      "rank": 3,
+      "keyword": "순자, 영숙과 뒷담화로 갈등 발생",
+      "state": "s",
+      "change": "0"
     },
     {
-      "rank": 8,
+      "rank": 4,
       "keyword": "케빈 워시 의장 인준 통과",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "정문성, 대국민 사과",
+      "rank": 5,
+      "keyword": "이강인 재계약 중단",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "네타냐후 UAE 비밀 방문",
+      "rank": 6,
+      "keyword": "2026년 5월 14일 운세",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "21세기 대군부인",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "김구라 늦둥이 딸 똘똘해!",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 9,
+      "keyword": "칸영화제 나기 노트 시사회",
       "state": "-",
-      "change": "2"
+      "change": "1"
+    },
+    {
+      "rank": 10,
+      "keyword": "최태원-노소영 조정기일 SK 주가 급등",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
