@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-13T15:17:59.304Z",
+  "updatedAt": "2026-05-13T17:26:18.586Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "여당",
+      "keyword": "강미나",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "식중독",
-      "traffic": "100+"
+      "keyword": "kkr vs rcb",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "rcb vs kkr",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "허훈",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "전력",
+      "keyword": "황보라",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "신유",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "나는솔로 31기",
+      "traffic": "500+"
+    },
+    {
       "rank": 6,
-      "keyword": "태양광 발전",
+      "keyword": "장원영",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "태양의 후예",
-      "traffic": "200+"
+      "keyword": "lg",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "츠키",
-      "traffic": "100+"
+      "keyword": "용인 식중독",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "골드만삭스",
-      "traffic": "1000+"
+      "keyword": "송중기",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "유열",
-      "traffic": "1000+"
+      "keyword": "황혜영",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "KCC, 6위 최초 챔프전 우승",
+      "keyword": "무명 전설",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "주왕산 초등생 손상",
-      "state": "n",
+      "keyword": "트럼프 베이징 도착",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "트럼프, 베이징 도착",
+      "keyword": "오지환 달아나는 솔로포",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "유열, 아들 위한 유언장",
+      "keyword": "챔피언 자리에 오른 KCC",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "안성재 유튜브 중단",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "경찰, 농협 변호사비 의혹 수사",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "무명 전설",
-      "state": "-",
+      "rank": 7,
+      "keyword": "EXID 솔지의 완벽한 시투",
+      "state": "+",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "롯데 직원 퇴사",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "오지환 달아나는 솔로포",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 8,
-      "keyword": "양상국 발언 논란",
-      "state": "-",
+      "keyword": "LG, 삼성 9연승 저지 2위 탈환",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "옥순 영호 신혼여행 언제?",
-      "state": "n",
-      "change": "0"
+      "keyword": "4월 도매물가 1.4%↑",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "경찰, 농협중앙회 압수수색",
-      "state": "-",
-      "change": "2"
+      "keyword": "순자, 옥순 뒷담화에 멘탈 무너져",
+      "state": "+",
+      "change": "12"
     }
   ]
 }
