@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-13T04:14:00.616Z",
+  "updatedAt": "2026-05-13T07:28:40.828Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "두산 베어스",
-      "traffic": "500+"
+      "keyword": "일용직",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "정청래",
-      "traffic": "500+"
+      "keyword": "정윤민",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "일본 축구 국가대표팀",
-      "traffic": "500+"
+      "keyword": "의장",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "국무회의",
+      "keyword": "김은지",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "김용현",
-      "traffic": "500+"
+      "keyword": "복지",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "현대모비스 주가",
+      "keyword": "카카오페이",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "이혼",
-      "traffic": "5000+"
+      "keyword": "김형은",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "박위",
-      "traffic": "500+"
+      "keyword": "특허",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "사드",
+      "keyword": "정경호",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "이성민",
-      "traffic": "2000+"
+      "keyword": "이종석",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "신라면 40주년 발표",
+      "keyword": "플레어 유 최립우 팀 데뷔 기대",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "1주택자 재산세 감면",
-      "state": "+",
-      "change": "1"
+      "keyword": "지방선거 후보 등록 시작",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "취사병 전설이 되다",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 4,
-      "keyword": "황혜영 뇌수막종 투병",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "허수아비 흥행 축복",
+      "keyword": "허수아비 시청률 껑충 7.4%",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "김하성 볼넷과 호수비",
-      "state": "+",
-      "change": "2"
+      "rank": 4,
+      "keyword": "SK하이닉스 주가 상승",
+      "state": "-",
+      "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "이재명, 스콧 접견",
+      "rank": 5,
+      "keyword": "대통령 HD현대중공업 조선소",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "삼성전자 파업 논의",
+      "rank": 6,
+      "keyword": "시간 남아 지원",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "HD현대 1분기 영업익 2.8조",
       "state": "-",
-      "change": "3"
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "코스피 사상 최고 마감",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "닉쿤 근황 푸근해 보여",
+      "keyword": "노무현재단 롯데 항의",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "하이닉스 주가 더 간다",
-      "state": "+",
-      "change": "2"
+      "keyword": "위성락 국가안보실장 편집인협회",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
