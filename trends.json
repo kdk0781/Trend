@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-14T22:35:38.004Z",
+  "updatedAt": "2026-05-14T23:33:21.141Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "avgo",
+      "keyword": "cerebras",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "s&p 500",
-      "traffic": "2000+"
+      "keyword": "적금",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "궁",
-      "traffic": "1000+"
+      "keyword": "이근희",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "엘리나 스비톨리나",
+      "keyword": "맥북",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "나스닥 지수",
-      "traffic": "20000+"
+      "keyword": "농민",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "주거",
-      "traffic": "1000+"
+      "keyword": "김범석",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "염경엽",
-      "traffic": "500+"
+      "keyword": "장동주",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "nvda",
-      "traffic": "500+"
+      "keyword": "최저임금",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "poet",
+      "keyword": "lg전자 주가",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "제주특별자치도",
+      "keyword": "킬리안 음바페",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "손승원 음주운전 블박 제거 요청",
+      "keyword": "트럼프 시진핑, 호르무즈 지원 의사",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "트럼프 시진핑 호르무즈 지원",
+      "keyword": "기안84와 강미나 차이",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "20기 영식, 25기 영자 발언 후회",
-      "state": "s",
+      "keyword": "이한범 미트윌란 컵 우승",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "후보 등록 시작",
-      "state": "n",
-      "change": "0"
+      "keyword": "13기 상철과 27기 현숙은 설렘이 없다",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
       "keyword": "21세기 대군부인",
-      "state": "+",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "상철과 현숙, 팔짱도 설렘 無",
-      "state": "n",
-      "change": "0"
+      "keyword": "이란 핵무기 불허 합의",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "나는 솔로 사랑꾼의 상상",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "2026년 5월 15일 운세",
+      "keyword": "수입물가 10개월 하락",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "나는 솔로 행사 성료",
+      "state": "+",
+      "change": "4"
+    },
+    {
       "rank": 9,
-      "keyword": "민도희, 공항 민폐 해명했다.",
+      "keyword": "김혜윤 오리알 먹방 성공",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "다우 5만 회복",
+      "keyword": "한혜진 후손이라 엄지윤과",
       "state": "n",
       "change": "0"
     }
