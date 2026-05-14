@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-14T20:08:50.472Z",
+  "updatedAt": "2026-05-14T21:21:04.771Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "한화 이글스",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "real madrid vs real oviedo",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "두산에너 빌리티",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "한화솔루션",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "에코프로",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "전기 버스",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
       "keyword": "레알마드리드",
       "traffic": "200+"
     },
     {
-      "rank": 2,
-      "keyword": "미국",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "리플",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "사기",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "송영길",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "이채영",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "이더리움",
-      "traffic": "100+"
-    },
-    {
       "rank": 8,
-      "keyword": "잭 쿠싱",
-      "traffic": "1000+"
+      "keyword": "미국",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "cbrs",
-      "traffic": "100+"
+      "keyword": "사기",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "재판",
-      "traffic": "100+"
+      "keyword": "송영길",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프·시진핑, 호르무즈 지원 원해",
-      "state": "+",
-      "change": "1"
+      "keyword": "손승원의 거짓말과 음주 사고",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "손승원, 음주운전 4년 구형",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "이재현 2홈런 삼성, LG 제압",
+      "keyword": "트럼프 시진핑 호르무즈 지원",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "20기 영식, 25기 영자 후회",
+      "rank": 3,
+      "keyword": "영식, 영자 발언 후회",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "후보 등록 첫날 평균",
+      "rank": 4,
+      "keyword": "158KM 안우진에 판정승",
       "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "21세기 대군부인",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "윤석열 26일 소환",
-      "state": "n",
-      "change": "0"
+      "keyword": "나는 솔로 참가자들",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "한화, 키움에 10-1 대승!",
-      "state": "s",
+      "keyword": "스승의 날 갈등과 더위",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "삼성전자 파업 시 긴급조정 필요",
+      "keyword": "무명 끝 전설 탄생",
       "state": "-",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "이도윤 2타점 3루타",
-      "state": "-",
-      "change": "1"
+      "keyword": "제주 초등생 교사 폭행",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이채영 위경련·탈수로 불참",
-      "state": "-",
-      "change": "1"
+      "keyword": "미중 정상회담 주시",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
