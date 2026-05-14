@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-14T16:34:22.650Z",
+  "updatedAt": "2026-05-14T18:20:15.864Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "이더리움",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
       "keyword": "잭 쿠싱",
       "traffic": "500+"
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "keyword": "cbrs",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
       "keyword": "재판",
       "traffic": "100+"
     },
     {
-      "rank": 3,
-      "keyword": "클래리티법안",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "keyword": "clarity act",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "이지훈",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "pbks vs mi",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "상장지수펀드",
       "traffic": "2000+"
     },
     {
-      "rank": 8,
-      "keyword": "장준하",
+      "rank": 9,
+      "keyword": "클래리티",
       "traffic": "500+"
     },
     {
-      "rank": 9,
-      "keyword": "포르자 호라이즌 6",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "폴리마켓",
-      "traffic": "100+"
+      "keyword": "장준하",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "후보 등록 시작",
+      "keyword": "트럼프 시진핑 9월 초청",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이재명 대통령 수석보좌관회의",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "트럼프 시진핑 초청 대화",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "삼성 박진만 감독의 승리 기쁨",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "손승원 음주운전 징역 4년",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "1분기 전년비",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "기안84, 강미나에게 키 180 고백",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 8,
       "keyword": "역투하는 한화 정우주",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "장준하 의문사에 가슴 먹먹해져",
+      "rank": 3,
+      "keyword": "후보 등록 첫날",
       "state": "-",
-      "change": "2"
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "삼성전자 파업 시 긴급조정 불가피",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "손승원, 또 음주운전",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "이재명, 새마을운동 방문",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "이재현, 삼성 LG 2위 복귀",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "종합특검, 윤석열 소환 통보",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "20기 영식, 25기 영자 후회",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "영식 영자 직진 결심",
-      "state": "-",
-      "change": "2"
+      "keyword": "김경문 감독, 이원석 좋네",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
