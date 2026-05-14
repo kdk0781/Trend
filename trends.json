@@ -1,62 +1,62 @@
 {
-  "updatedAt": "2026-05-14T21:21:04.771Z",
+  "updatedAt": "2026-05-14T22:35:38.004Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "한화 이글스",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "real madrid vs real oviedo",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "두산에너 빌리티",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "한화솔루션",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "에코프로",
+      "keyword": "avgo",
       "traffic": "100+"
     },
     {
-      "rank": 6,
-      "keyword": "전기 버스",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "레알마드리드",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "미국",
+      "rank": 2,
+      "keyword": "s&p 500",
       "traffic": "2000+"
     },
     {
+      "rank": 3,
+      "keyword": "궁",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "엘리나 스비톨리나",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "나스닥 지수",
+      "traffic": "20000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "주거",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "염경엽",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "nvda",
+      "traffic": "500+"
+    },
+    {
       "rank": 9,
-      "keyword": "사기",
+      "keyword": "poet",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "송영길",
-      "traffic": "1000+"
+      "keyword": "제주특별자치도",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "손승원의 거짓말과 음주 사고",
-      "state": "n",
+      "keyword": "손승원 음주운전 블박 제거 요청",
+      "state": "s",
       "change": "0"
     },
     {
@@ -67,13 +67,13 @@
     },
     {
       "rank": 3,
-      "keyword": "영식, 영자 발언 후회",
-      "state": "+",
-      "change": "1"
+      "keyword": "20기 영식, 25기 영자 발언 후회",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "158KM 안우진에 판정승",
+      "keyword": "후보 등록 시작",
       "state": "n",
       "change": "0"
     },
@@ -85,31 +85,31 @@
     },
     {
       "rank": 6,
-      "keyword": "나는 솔로 참가자들",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 7,
-      "keyword": "스승의 날 갈등과 더위",
+      "keyword": "상철과 현숙, 팔짱도 설렘 無",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "무명 끝 전설 탄생",
-      "state": "-",
+      "rank": 7,
+      "keyword": "나는 솔로 사랑꾼의 상상",
+      "state": "+",
       "change": "1"
     },
     {
+      "rank": 8,
+      "keyword": "2026년 5월 15일 운세",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "제주 초등생 교사 폭행",
+      "keyword": "민도희, 공항 민폐 해명했다.",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "미중 정상회담 주시",
+      "keyword": "다우 5만 회복",
       "state": "n",
       "change": "0"
     }
