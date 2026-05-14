@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-14T14:43:54.137Z",
+  "updatedAt": "2026-05-14T16:34:22.650Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "사업",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "변요한",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "류현진",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "장민호",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "안규백",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "정재훈",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "실종자",
+      "keyword": "잭 쿠싱",
       "traffic": "500+"
     },
     {
+      "rank": 2,
+      "keyword": "재판",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "클래리티법안",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "clarity act",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "이지훈",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "pbks vs mi",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "상장지수펀드",
+      "traffic": "2000+"
+    },
+    {
       "rank": 8,
-      "keyword": "주광덕",
+      "keyword": "장준하",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "김구",
-      "traffic": "100+"
+      "keyword": "포르자 호라이즌 6",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "치어리더",
-      "traffic": "1000+"
+      "keyword": "폴리마켓",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "손승원 음주운전 징역 4년",
+      "keyword": "후보 등록 시작",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "청와대 초과세수 검토 불가",
-      "state": "n",
+      "keyword": "이재명 대통령 수석보좌관회의",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "트럼프 시진핑 방미 초청",
-      "state": "+",
-      "change": "1"
+      "keyword": "트럼프 시진핑 초청 대화",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "유혜리의 근황과 우정",
+      "keyword": "삼성 박진만 감독의 승리 기쁨",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "한화, 키움 10-1 대승!",
-      "state": "n",
-      "change": "0"
+      "keyword": "손승원 음주운전 징역 4년",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "아들 살해 및 학대 부부",
-      "state": "n",
+      "keyword": "1분기 전년비",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김경문 감독의 영광",
+      "keyword": "기안84, 강미나에게 키 180 고백",
       "state": "+",
-      "change": "8"
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "삼성전자 긴급조정 불가피",
-      "state": "s",
-      "change": "0"
+      "keyword": "역투하는 한화 정우주",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "곽노정 사장 282억 비오너 1위",
-      "state": "s",
-      "change": "0"
+      "keyword": "장준하 의문사에 가슴 먹먹해져",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "제자 보살핀 7년 담임교사",
-      "state": "s",
-      "change": "0"
+      "keyword": "영식 영자 직진 결심",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
