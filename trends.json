@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-14T08:02:59.415Z",
+  "updatedAt": "2026-05-14T10:29:48.222Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "윤태화",
-      "traffic": "100+"
+      "keyword": "홍윤화",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "인천국제공항",
-      "traffic": "500+"
+      "keyword": "한국형 차기 구축함",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "초순수",
+      "keyword": "후성",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "송교창",
+      "keyword": "김영희",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "오타니",
-      "traffic": "1000+"
+      "keyword": "류준열",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "삼성물산",
-      "traffic": "200+"
+      "keyword": "이진아",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "경제",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "무효",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "h200",
+      "keyword": "효성중공업",
       "traffic": "500+"
     },
     {
-      "rank": 10,
-      "keyword": "마이크론 테크놀로지",
+      "rank": 8,
+      "keyword": "한화그룹",
       "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "애경케미칼",
+      "traffic": "200+"
+    },
+    {
+      "rank": 10,
+      "keyword": "김영란법",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "후보 등록 완료",
-      "state": "s",
-      "change": "0"
+      "keyword": "이재명, 수석보좌관회의 주재",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "오세훈 후보 포럼 참석",
-      "state": "s",
-      "change": "0"
+      "keyword": "우현주, 오펀스 하차 재발 암 두번",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "이재명 대통령 새마을운동중앙회",
-      "state": "-",
-      "change": "1"
+      "keyword": "백악관 호르무즈 개방·이란 핵금지",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "무명 전설 탄생!",
+      "keyword": "역투하는 한화 정우주",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "무명전설 최종 우승",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "후보 등록 시작",
+      "state": "-",
+      "change": "5"
+    },
+    {
+      "rank": 7,
+      "keyword": "하이닉스 주가",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "코스피 7981 최고치 경신",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "우현주 암 재발로 하차",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "BTS, 월드컵 하프타임 공연",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 8,
-      "keyword": "류준열, 칸서 한소희 언급",
+      "keyword": "박진만 감독, 다리에 힘 빠져",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "장동혁 당대표 환호와 인사",
+      "keyword": "1분기 전년比",
       "state": "-",
-      "change": "4"
+      "change": "5"
     },
     {
       "rank": 10,
-      "keyword": "네덜란드 참전용사 유엔공원 안장식",
-      "state": "-",
-      "change": "4"
+      "keyword": "어지럽게 돌아가는 세상",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
