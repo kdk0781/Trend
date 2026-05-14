@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-05-14T12:11:29.213Z",
+  "updatedAt": "2026-05-14T14:43:54.137Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "핵전쟁",
-      "traffic": "200+"
+      "keyword": "사업",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "박현경",
+      "keyword": "변요한",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "김환희",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "선익시스템",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "노화",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "한소희",
+      "keyword": "류현진",
       "traffic": "1000+"
     },
     {
+      "rank": 4,
+      "keyword": "장민호",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "안규백",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "정재훈",
+      "traffic": "100+"
+    },
+    {
       "rank": 7,
-      "keyword": "31 기 순자",
-      "traffic": "10000+"
+      "keyword": "실종자",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "김동관",
+      "keyword": "주광덕",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "청년미래적금",
-      "traffic": "1000+"
+      "keyword": "김구",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "연휴",
-      "traffic": "500+"
+      "keyword": "치어리더",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
@@ -61,56 +61,56 @@
     },
     {
       "rank": 2,
-      "keyword": "트럼프, 시진핑 초청",
-      "state": "s",
+      "keyword": "청와대 초과세수 검토 불가",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "역투하는 한화 정우주",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "무명 끝 전설 된 성리",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "광주 세모녀 살인사건",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "로맨스 절대 매력",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "만루포 이재현 기쁘지 않나?",
+      "keyword": "트럼프 시진핑 방미 초청",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "모텔 신생아 살해 친모 구속",
-      "state": "-",
-      "change": "3"
+      "rank": 4,
+      "keyword": "유혜리의 근황과 우정",
+      "state": "+",
+      "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "김원해 모친상 소식",
+      "rank": 5,
+      "keyword": "한화, 키움 10-1 대승!",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "김정관 삼성전자 긴급조정 불가피",
+      "rank": 6,
+      "keyword": "아들 살해 및 학대 부부",
       "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "김경문 감독의 영광",
+      "state": "+",
+      "change": "8"
+    },
+    {
+      "rank": 8,
+      "keyword": "삼성전자 긴급조정 불가피",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "곽노정 사장 282억 비오너 1위",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "제자 보살핀 7년 담임교사",
+      "state": "s",
       "change": "0"
     }
   ]
