@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-14T01:29:39.865Z",
+  "updatedAt": "2026-05-14T05:10:00.918Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "천위페이",
-      "traffic": "1000+"
+      "keyword": "나솔",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "홍현희",
+      "keyword": "정해영",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "혼인",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "김해시장",
+      "keyword": "이민우",
       "traffic": "100+"
     },
     {
+      "rank": 4,
+      "keyword": "간호사",
+      "traffic": "200+"
+    },
+    {
       "rank": 5,
-      "keyword": "이도진",
+      "keyword": "브리지트 마크롱",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "세인트루이스 시티 sc 대 엘에이 fc",
-      "traffic": "50000+"
+      "keyword": "현충일",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "종신보험",
-      "traffic": "100+"
+      "keyword": "빌라",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "현대모비스 주가",
-      "traffic": "200+"
+      "keyword": "신현 송",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "송해나",
-      "traffic": "5000+"
+      "keyword": "트롯챔피언",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "그랜저",
-      "traffic": "200+"
+      "keyword": "mls",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "현대차, 더 뉴 그랜저 출시",
-      "state": "n",
+      "keyword": "박홍근 장관 한은 방문",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "박찬대 인천시장 후보 등록",
-      "state": "n",
-      "change": "0"
+      "keyword": "무명에서 전설로",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "광주 여고생 장윤기 살해 사건",
+      "keyword": "후보 등록 시작!",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "이기택, 봉주르빵집 보조 셰프 활약",
-      "state": "-",
-      "change": "1"
+      "keyword": "삼성전자 사후조정 재개 요청",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "마이클 첫날 박스오피스 1위",
-      "state": "+",
-      "change": "4"
+      "keyword": "정의선 회장 리노베이션 참석",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "장동혁 대표 발언",
+      "keyword": "손흥민 또 침묵 1-2 패배",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "이란 외 공격 가능성 낮다",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 7,
-      "keyword": "코스피 상승 출발",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 8,
-      "keyword": "박지수 KB 재계약 2년",
+      "keyword": "레드벨벳 조이, 애견미용사 도전",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "관저 이전 의혹 수사",
+      "keyword": "공정위, 산란계협회 과징금 6억 부과",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "이승환, 구미시장 항소 세금 쓰지 마",
-      "state": "n",
-      "change": "0"
+      "keyword": "김환희 결혼 소식",
+      "state": "-",
+      "change": "4"
     }
   ]
 }
