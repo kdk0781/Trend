@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-14T10:29:48.222Z",
+  "updatedAt": "2026-05-14T12:11:29.213Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "홍윤화",
+      "keyword": "핵전쟁",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "한국형 차기 구축함",
+      "keyword": "박현경",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "후성",
-      "traffic": "200+"
+      "keyword": "김환희",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "김영희",
-      "traffic": "200+"
+      "keyword": "선익시스템",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "류준열",
-      "traffic": "200+"
+      "keyword": "노화",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "이진아",
-      "traffic": "100+"
+      "keyword": "한소희",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "효성중공업",
-      "traffic": "500+"
+      "keyword": "31 기 순자",
+      "traffic": "10000+"
     },
     {
       "rank": 8,
-      "keyword": "한화그룹",
-      "traffic": "200+"
+      "keyword": "김동관",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "애경케미칼",
-      "traffic": "200+"
+      "keyword": "청년미래적금",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "김영란법",
-      "traffic": "100+"
+      "keyword": "연휴",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명, 수석보좌관회의 주재",
-      "state": "+",
-      "change": "1"
+      "keyword": "손승원 음주운전 징역 4년",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "우현주, 오펀스 하차 재발 암 두번",
-      "state": "+",
-      "change": "1"
+      "keyword": "트럼프, 시진핑 초청",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "백악관 호르무즈 개방·이란 핵금지",
-      "state": "n",
+      "keyword": "역투하는 한화 정우주",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "역투하는 한화 정우주",
-      "state": "n",
-      "change": "0"
+      "keyword": "무명 끝 전설 된 성리",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "무명전설 최종 우승",
+      "keyword": "광주 세모녀 살인사건",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "후보 등록 시작",
+      "keyword": "로맨스 절대 매력",
       "state": "-",
-      "change": "5"
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "하이닉스 주가",
-      "state": "-",
+      "keyword": "만루포 이재현 기쁘지 않나?",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "박진만 감독, 다리에 힘 빠져",
+      "keyword": "모텔 신생아 살해 친모 구속",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 9,
+      "keyword": "김원해 모친상 소식",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "1분기 전년比",
-      "state": "-",
-      "change": "5"
-    },
-    {
       "rank": 10,
-      "keyword": "어지럽게 돌아가는 세상",
+      "keyword": "김정관 삼성전자 긴급조정 불가피",
       "state": "n",
       "change": "0"
     }
