@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-13T23:32:05.348Z",
+  "updatedAt": "2026-05-14T01:29:39.865Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "고우석",
-      "traffic": "200+"
+      "keyword": "천위페이",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "deportivo alavés vs fc barcelona standings",
-      "traffic": "500+"
+      "keyword": "홍현희",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "afc u-17 아시안컵",
-      "traffic": "100+"
+      "keyword": "혼인",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "joby",
+      "keyword": "김해시장",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "개리",
-      "traffic": "1000+"
+      "keyword": "이도진",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "qqq",
-      "traffic": "100+"
+      "keyword": "세인트루이스 시티 sc 대 엘에이 fc",
+      "traffic": "50000+"
     },
     {
       "rank": 7,
-      "keyword": "스위프트",
-      "traffic": "500+"
+      "keyword": "종신보험",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "fifa u-17 월드컵",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "압수수색",
+      "keyword": "현대모비스 주가",
       "traffic": "200+"
     },
     {
+      "rank": 9,
+      "keyword": "송해나",
+      "traffic": "5000+"
+    },
+    {
       "rank": 10,
-      "keyword": "넥슨",
-      "traffic": "100+"
+      "keyword": "그랜저",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "무명 전설",
-      "state": "s",
+      "keyword": "현대차, 더 뉴 그랜저 출시",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "광주 여고생 살해범 장윤기 신상",
-      "state": "+",
-      "change": "1"
+      "keyword": "박찬대 인천시장 후보 등록",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "정청래 울릉도 방문",
-      "state": "+",
-      "change": "3"
+      "keyword": "광주 여고생 장윤기 살해 사건",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "순자 응급실 영숙 또 뒷담화",
-      "state": "n",
-      "change": "0"
+      "keyword": "이기택, 봉주르빵집 보조 셰프 활약",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "이강인 부상 PSG 리그1 5연패",
-      "state": "n",
-      "change": "0"
+      "keyword": "마이클 첫날 박스오피스 1위",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 6,
-      "keyword": "21세기 대군부인",
+      "keyword": "장동혁 대표 발언",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "서울 31도 초여름 시작",
-      "state": "+",
-      "change": "3"
+      "keyword": "코스피 상승 출발",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "이장우 아내 주방 금지령",
+      "keyword": "박지수 KB 재계약 2년",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "내일부터 후보자 등록 시작",
-      "state": "n",
-      "change": "0"
+      "keyword": "관저 이전 의혹 수사",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "목욕탕 남성 사망 사건",
-      "state": "-",
-      "change": "1"
+      "keyword": "이승환, 구미시장 항소 세금 쓰지 마",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
