@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-15T08:15:46.654Z",
+  "updatedAt": "2026-05-15T10:39:07.480Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "수익률",
-      "traffic": "2000+"
+      "keyword": "플레이엑스포",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "조혜련",
-      "traffic": "1000+"
+      "keyword": "정유라",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "catl",
-      "traffic": "1000+"
+      "keyword": "안재현",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "한국전력공사",
+      "keyword": "군체",
       "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "준우승",
-      "traffic": "200+"
+      "keyword": "에어 포스 원",
+      "traffic": "10000+"
     },
     {
       "rank": 6,
-      "keyword": "이상화",
-      "traffic": "1000+"
+      "keyword": "설윤",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "키옥시아 실적발표",
+      "keyword": "선수",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "김종민",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "키옥시아 주가",
+      "keyword": "007 제임스 본드",
       "traffic": "200+"
     },
     {
-      "rank": 10,
-      "keyword": "관세청장",
+      "rank": 9,
+      "keyword": "로리 맥길로이",
       "traffic": "100+"
+    },
+    {
+      "rank": 10,
+      "keyword": "키움 대 nc",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "1분기 매출 45억↑",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "코스피 급락 마감",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "청해부대 48진 출항",
+      "keyword": "1분기 영업이익 전년比",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 2,
+      "keyword": "손승원 국민 공분 유발",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 3,
+      "keyword": "나무호 잔해 도착",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 4,
-      "keyword": "유튜버 납치 일당 징역 30년",
-      "state": "n",
-      "change": "0"
+      "keyword": "원더풀스 감독 차은우",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "이정후 첫 인사이드 홈런",
-      "state": "n",
-      "change": "0"
+      "keyword": "김건희 징역 7년6개월 구형",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "김사랑 아파트 압류 발생",
+      "keyword": "강백호 KT 팬들께 인사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "KTX SRT 중련운행",
-      "state": "s",
+      "keyword": "이재명, 대구경북 신공항 현장 방문",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "성시경 기획사 미등록 종결",
+      "keyword": "이상현 회장 AG 선수단장",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "손승원 청춘 말아먹다, 군 면제 논란",
-      "state": "-",
-      "change": "1"
+      "keyword": "삼성 노조 사측 교섭위원 교체",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "후보 등록 소식",
-      "state": "-",
-      "change": "1"
+      "keyword": "장동주 은퇴 선언",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
