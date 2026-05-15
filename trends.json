@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-15T14:44:45.667Z",
+  "updatedAt": "2026-05-15T16:28:48.283Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "신용회복위원회",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "프로야구 순위",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "마이클 쿠키",
+      "keyword": "마크롱",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "김신영",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "연기금",
+      "traffic": "200+"
+    },
+    {
       "rank": 4,
-      "keyword": "ssg",
+      "keyword": "ebay",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "캐시워크 정답",
-      "traffic": "200+"
+      "keyword": "비",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "야구 순위",
+      "keyword": "이효리",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "용인반도체클러스터",
-      "traffic": "200+"
+      "keyword": "김어준",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "화사",
-      "traffic": "2000+"
+      "keyword": "서현숙",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "소백산",
-      "traffic": "1000+"
+      "keyword": "csk vs lsg",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "후보",
-      "traffic": "2000+"
+      "keyword": "나스닥",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "아이유 변우석 OST 나온다!",
+      "keyword": "아이유와 변우석 OST 앨범 출시",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이란, 美와 협상 계속",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "트럼프 시진핑과 북한에 대해",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "김어준 징역 1년 구형",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "멋진 신세계 소식",
+      "keyword": "1분기 영업이익 전년比",
       "state": "+",
       "change": "3"
     },
     {
-      "rank": 6,
-      "keyword": "주말 서울 더위 31도",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "문현빈 역전포 폭발",
+      "rank": 3,
+      "keyword": "김건희 징역 7년6개월 구형",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "나무호 잔해 한국 도착",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "멋진 신세계 특별출연과 도전",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "차은우 감독의 논란과 캐스팅",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "김태형 감독의 승리 인사",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "군체 칸 포토콜에서 인사와 포즈",
+      "keyword": "후보 등록 완료",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "하주연 나는 솔로 지원 탈락",
+      "keyword": "손승원, 또 음주운전 5회",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "영종도 호텔 욕조서 여성 사망",
-      "state": "n",
-      "change": "0"
+      "keyword": "트럼프, 시진핑과 북한 논의",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
