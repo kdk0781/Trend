@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-15T18:06:09.399Z",
+  "updatedAt": "2026-05-15T19:51:26.904Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "함은정",
-      "traffic": "200+"
+      "keyword": "김원형",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "용인 반도체 클러스터",
-      "traffic": "200+"
+      "keyword": "애스턴 빌라 대 리버풀",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "이채연",
+      "keyword": "op",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "전현무계획",
-      "traffic": "500+"
+      "keyword": "grok",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "조이",
-      "traffic": "200+"
+      "keyword": "fa컵",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "중동",
+      "keyword": "함은정",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "마크롱",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "김신영",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "연기금",
+      "keyword": "용인 반도체 클러스터",
       "traffic": "200+"
     },
     {
-      "rank": 10,
-      "keyword": "ebay",
+      "rank": 8,
+      "keyword": "이채연",
       "traffic": "100+"
+    },
+    {
+      "rank": 9,
+      "keyword": "전현무계획",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 10,
+      "keyword": "조이",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 시진핑과 논의했다",
-      "state": "s",
-      "change": "0"
+      "keyword": "아이유 변우석 OST 앨범 나온다",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 2,
-      "keyword": "박재현 역전 투런포",
+      "keyword": "트럼프 시진핑과 대만 논의",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "군체 칸 포토콜에서 다양한 포즈 선보인 스타들",
+      "keyword": "멋진 신세계 출연자 소식",
       "state": "+",
-      "change": "2"
+      "change": "32"
     },
     {
       "rank": 4,
-      "keyword": "하주연, 나는 솔로 탈락",
+      "keyword": "쿠싱 마지막 투수 SV, 한화 KT 2연승",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "손승원, 음주운전 5번째",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 6,
+      "keyword": "후보 등록 완료",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "김어준 징역 1년 구형",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "롯데, 6-5 두산 제압",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "후보 등록 마감",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "1타점 적시타",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 7,
-      "keyword": "이란 외무, 미국 대화 메시지 받아",
-      "state": "s",
+      "rank": 9,
+      "keyword": "최지훈 동점 만루포",
+      "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "김태형 감독의 감사 인사",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "김어준 징역 1년 구형",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 10,
-      "keyword": "이재명 대통령 대구 방문",
-      "state": "-",
-      "change": "2"
+      "keyword": "이란 외무 미국 못 믿어",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
