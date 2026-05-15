@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-15T05:09:51.679Z",
+  "updatedAt": "2026-05-15T08:15:46.654Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이규섭",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "목포시",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "잠수함",
+      "keyword": "수익률",
       "traffic": "2000+"
     },
     {
+      "rank": 2,
+      "keyword": "조혜련",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "catl",
+      "traffic": "1000+"
+    },
+    {
       "rank": 4,
-      "keyword": "범죄",
+      "keyword": "한국전력공사",
       "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "삼양식품",
+      "keyword": "준우승",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "배드 뱅크",
-      "traffic": "200+"
+      "keyword": "이상화",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "한예리",
+      "keyword": "키옥시아 실적발표",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "옌스 카스트로프",
-      "traffic": "200+"
+      "keyword": "김종민",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "축구 감독",
-      "traffic": "100+"
+      "keyword": "키옥시아 주가",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "영탁",
+      "keyword": "관세청장",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정원오 후보, 감사의 정원 방문",
+      "keyword": "1분기 매출 45억↑",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "손승원 음주운전",
+      "keyword": "코스피 급락 마감",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이정후 첫 파크 홈런",
+      "keyword": "청해부대 48진 출항",
       "state": "+",
-      "change": "6"
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "트럼프, 중국과 무역합의",
-      "state": "+",
-      "change": "5"
+      "keyword": "유튜버 납치 일당 징역 30년",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김재중 2세 정자 동결",
-      "state": "s",
+      "keyword": "이정후 첫 인사이드 홈런",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "19일 안동서 정상회담",
-      "state": "-",
-      "change": "5"
+      "keyword": "김사랑 아파트 압류 발생",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "유혜리 이근희 이혼 폭로",
-      "state": "-",
-      "change": "1"
+      "keyword": "KTX SRT 중련운행",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김성환 현장 점검",
+      "keyword": "성시경 기획사 미등록 종결",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "DB 이규섭 감독 선임",
+      "keyword": "손승원 청춘 말아먹다, 군 면제 논란",
       "state": "-",
-      "change": "6"
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "인도 화물선 호르무즈 공격",
-      "state": "n",
-      "change": "0"
+      "keyword": "후보 등록 소식",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
