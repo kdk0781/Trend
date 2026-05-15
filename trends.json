@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-05-15T22:45:53.130Z",
+  "updatedAt": "2026-05-15T23:40:20.330Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "황보라",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
+      "keyword": "장원영",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "마이크론 테크놀로지",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "토트넘 홋스퍼 fc",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "메이저 리그 베이스볼",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
       "keyword": "이정후",
       "traffic": "5000+"
     },
     {
-      "rank": 2,
-      "keyword": "셀트리온",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "nvda",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "시스코 시스템즈",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "신지",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "tsla",
-      "traffic": "200+"
-    },
-    {
       "rank": 7,
-      "keyword": "ionq",
+      "keyword": "셀트리온",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "시어머니",
-      "traffic": "500+"
+      "keyword": "nvda",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "vix",
-      "traffic": "200+"
+      "keyword": "시스코 시스템즈",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "경제",
+      "keyword": "신지",
       "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "아이유 변우석 OST 발매",
+      "keyword": "아이유 변우석 OST 앨범 출시",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "손승원, 또 음주운전",
+      "keyword": "손승원, 5번째 음주운전",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "트럼프 시진핑 대만 무기논의",
-      "state": "+",
-      "change": "3"
+      "keyword": "트럼프 미 대통령",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
@@ -79,37 +79,37 @@
     },
     {
       "rank": 5,
-      "keyword": "최준희 오늘 결혼 진행",
-      "state": "n",
+      "keyword": "최준희 오늘 결혼",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "2026년 5월 16일 운세",
+      "keyword": "북 노동신문 강조 내용 정리",
       "state": "+",
-      "change": "1"
+      "change": "8"
     },
     {
       "rank": 7,
-      "keyword": "스페이스X 이르면 12일",
-      "state": "+",
-      "change": "5"
+      "keyword": "이동재 징역 구형",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김신영 이발 청소 공개",
+      "keyword": "나 혼자 산다 재출격",
       "state": "+",
-      "change": "4"
+      "change": "7"
     },
     {
       "rank": 9,
-      "keyword": "주왕산 초등생 유족 호소",
+      "keyword": "쥬얼리 하주연, 직장인 됐다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "북 노동신문 강조사항",
+      "keyword": "서은혜 결혼 발표",
       "state": "n",
       "change": "0"
     }
