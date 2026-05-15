@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-15T12:22:20.311Z",
+  "updatedAt": "2026-05-15T14:44:45.667Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "어 도어",
+      "keyword": "신용회복위원회",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "조정석",
-      "traffic": "500+"
+      "keyword": "프로야구 순위",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "심현섭",
-      "traffic": "1000+"
+      "keyword": "마이클 쿠키",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "교사 의 날",
-      "traffic": "1000+"
+      "keyword": "ssg",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "현수막",
+      "keyword": "캐시워크 정답",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "석삼플레이",
+      "keyword": "야구 순위",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "지창욱",
-      "traffic": "2000+"
+      "keyword": "용인반도체클러스터",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "고영표",
-      "traffic": "200+"
+      "keyword": "화사",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "이준",
-      "traffic": "200+"
+      "keyword": "소백산",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "배구",
-      "traffic": "1000+"
+      "keyword": "후보",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 시진핑과 북한에 대해",
-      "state": "+",
-      "change": "2"
+      "keyword": "아이유 변우석 OST 나온다!",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "1타점 적시타 치는 LG 선수들",
+      "keyword": "이란, 美와 협상 계속",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "군체 칸 포토콜 참석한 스타들",
+      "keyword": "트럼프 시진핑과 북한에 대해",
       "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "하주연, 나는 솔로 탈락",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "LG 선발 요니의 역투",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "첫 번째 남자",
-      "state": "+",
       "change": "1"
     },
     {
-      "rank": 7,
+      "rank": 4,
       "keyword": "김어준 징역 1년 구형",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "세종대왕 나신 날 기념사",
+      "rank": 5,
+      "keyword": "멋진 신세계 소식",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 6,
+      "keyword": "주말 서울 더위 31도",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "문현빈 역전포 폭발",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "군체 칸 포토콜에서 인사와 포즈",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "문현빈 역전포 폭발",
-      "state": "-",
+      "keyword": "하주연 나는 솔로 지원 탈락",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "이란 외무, 미국과 대화 유지",
+      "keyword": "영종도 호텔 욕조서 여성 사망",
       "state": "n",
       "change": "0"
     }
