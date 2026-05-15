@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-15T10:39:07.480Z",
+  "updatedAt": "2026-05-15T12:22:20.311Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "플레이엑스포",
-      "traffic": "100+"
+      "keyword": "어 도어",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "정유라",
-      "traffic": "2000+"
+      "keyword": "조정석",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "안재현",
-      "traffic": "200+"
+      "keyword": "심현섭",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "군체",
+      "keyword": "교사 의 날",
       "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "에어 포스 원",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "설윤",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "선수",
+      "keyword": "현수막",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "석삼플레이",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "지창욱",
+      "traffic": "2000+"
+    },
+    {
       "rank": 8,
-      "keyword": "007 제임스 본드",
+      "keyword": "고영표",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "로리 맥길로이",
-      "traffic": "100+"
+      "keyword": "이준",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "키움 대 nc",
-      "traffic": "2000+"
+      "keyword": "배구",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "1분기 영업이익 전년比",
+      "keyword": "트럼프 시진핑과 북한에 대해",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "손승원 국민 공분 유발",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 3,
-      "keyword": "나무호 잔해 도착",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "원더풀스 감독 차은우",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "김건희 징역 7년6개월 구형",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "강백호 KT 팬들께 인사",
+      "keyword": "1타점 적시타 치는 LG 선수들",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "군체 칸 포토콜 참석한 스타들",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "하주연, 나는 솔로 탈락",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "LG 선발 요니의 역투",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "첫 번째 남자",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "이재명, 대구경북 신공항 현장 방문",
+      "keyword": "김어준 징역 1년 구형",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이상현 회장 AG 선수단장",
+      "keyword": "세종대왕 나신 날 기념사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "삼성 노조 사측 교섭위원 교체",
-      "state": "n",
-      "change": "0"
+      "keyword": "문현빈 역전포 폭발",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "장동주 은퇴 선언",
+      "keyword": "이란 외무, 미국과 대화 유지",
       "state": "n",
       "change": "0"
     }
