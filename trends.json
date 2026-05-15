@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-05-15T16:28:48.283Z",
+  "updatedAt": "2026-05-15T18:06:09.399Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "마크롱",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "김신영",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "연기금",
+      "keyword": "함은정",
       "traffic": "200+"
     },
     {
-      "rank": 4,
-      "keyword": "ebay",
+      "rank": 2,
+      "keyword": "용인 반도체 클러스터",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "이채연",
       "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "전현무계획",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "비",
-      "traffic": "100+"
+      "keyword": "조이",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "이효리",
+      "keyword": "중동",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "김어준",
-      "traffic": "500+"
+      "keyword": "마크롱",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "서현숙",
+      "keyword": "김신영",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "csk vs lsg",
-      "traffic": "500+"
+      "keyword": "연기금",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "나스닥",
-      "traffic": "1000+"
+      "keyword": "ebay",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "아이유와 변우석 OST 앨범 출시",
+      "keyword": "트럼프 시진핑과 논의했다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "1분기 영업이익 전년比",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 3,
-      "keyword": "김건희 징역 7년6개월 구형",
+      "keyword": "박재현 역전 투런포",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "나무호 잔해 한국 도착",
+      "rank": 3,
+      "keyword": "군체 칸 포토콜에서 다양한 포즈 선보인 스타들",
       "state": "+",
-      "change": "1"
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "하주연, 나는 솔로 탈락",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "멋진 신세계 특별출연과 도전",
-      "state": "+",
-      "change": "1"
+      "keyword": "후보 등록 마감",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "차은우 감독의 논란과 캐스팅",
+      "keyword": "1타점 적시타",
       "state": "+",
-      "change": "1"
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "김태형 감독의 승리 인사",
-      "state": "+",
-      "change": "1"
+      "keyword": "이란 외무, 미국 대화 메시지 받아",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "후보 등록 완료",
-      "state": "+",
-      "change": "1"
+      "keyword": "김태형 감독의 감사 인사",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "손승원, 또 음주운전 5회",
-      "state": "+",
+      "keyword": "김어준 징역 1년 구형",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "트럼프, 시진핑과 북한 논의",
-      "state": "+",
+      "keyword": "이재명 대통령 대구 방문",
+      "state": "-",
       "change": "2"
     }
   ]
