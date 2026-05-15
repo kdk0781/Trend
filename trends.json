@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-05-15T19:51:26.904Z",
+  "updatedAt": "2026-05-15T20:53:33.804Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김원형",
+      "keyword": "전진",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "애스턴 빌라 대 리버풀",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "op",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "grok",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "fa컵",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "함은정",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "용인 반도체 클러스터",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "이채연",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "전현무계획",
+      "keyword": "야닉 시너",
       "traffic": "1000+"
     },
     {
-      "rank": 10,
-      "keyword": "조이",
+      "rank": 3,
+      "keyword": "공휴일",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "황희찬",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "시진핑",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "박지현",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "แอสตันวิลลา พบ ลิเวอร์พูล",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "리버풀",
       "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "aston villa vs liverpool",
+      "traffic": "500+"
+    },
+    {
+      "rank": 10,
+      "keyword": "카카오",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "아이유 변우석 OST 앨범 나온다",
+      "keyword": "손승원 또 음주운전",
       "state": "+",
-      "change": "6"
+      "change": "4"
     },
     {
       "rank": 2,
-      "keyword": "트럼프 시진핑과 대만 논의",
-      "state": "n",
+      "keyword": "트럼프 시진핑과 논의",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "멋진 신세계 출연자 소식",
-      "state": "+",
-      "change": "32"
-    },
-    {
-      "rank": 4,
-      "keyword": "쿠싱 마지막 투수 SV, 한화 KT 2연승",
+      "keyword": "쿠싱의 마지막 승리 포옹",
       "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "손승원, 음주운전 5번째",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 6,
-      "keyword": "후보 등록 완료",
-      "state": "+",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "김어준 징역 1년 구형",
+      "rank": 4,
+      "keyword": "아이유 변우석, 불길 속 구출",
+      "state": "+",
+      "change": "5"
+    },
+    {
+      "rank": 5,
+      "keyword": "지방선거 후보 등록 마감",
       "state": "-",
       "change": "2"
     },
     {
+      "rank": 6,
+      "keyword": "솔로포 날리며 도는 박동원",
+      "state": "+",
+      "change": "56"
+    },
+    {
+      "rank": 7,
+      "keyword": "요요 김신영 D라인 충격",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "롯데, 6-5 두산 제압",
+      "keyword": "첫 번째 남자",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "최지훈 동점 만루포",
-      "state": "n",
-      "change": "0"
+      "keyword": "김어준 징역 1년 구형",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "이란 외무 미국 못 믿어",
-      "state": "n",
+      "keyword": "최지훈, 동점 만루포!",
+      "state": "s",
       "change": "0"
     }
   ]
