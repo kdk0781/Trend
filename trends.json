@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-16T04:47:58.546Z",
+  "updatedAt": "2026-05-16T07:07:26.475Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "영화 마이클",
+      "keyword": "국민비서",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "mbk 파트너스",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "남진",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "nep vs usa",
+      "keyword": "코르티스",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "김태형",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "이엘",
+      "traffic": "2000+"
+    },
+    {
       "rank": 5,
-      "keyword": "spurs vs timberwolves",
+      "keyword": "이다희",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "추혁진",
-      "traffic": "500+"
+      "keyword": "최지광",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "도미노피자",
-      "traffic": "100+"
+      "keyword": "경북매일신문",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "유혜리",
+      "keyword": "오스틴 딘",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "데미 무어",
-      "traffic": "100+"
+      "keyword": "오타니 쇼헤이",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "한화이글스",
-      "traffic": "200+"
+      "keyword": "서동주",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "아이유♥변우석 OST 앨범 출시",
+      "keyword": "이재용 회장 귀국 및 사과",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "무투표 당선 3명",
-      "state": "n",
+      "keyword": "아이유 변우석 OST 앨범 발매",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "버디 퍼트 들어가라",
-      "state": "n",
-      "change": "0"
+      "keyword": "장동주 은퇴 의혹",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "트럼프 대만 무기 판매 가능성",
+      "keyword": "강준우 아들 690G 태어남",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "강신효, 비연예인과 평생 결혼",
+      "keyword": "임지연 멋진 신세계 상승세",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "은퇴 장동주 음주 손승원 묵언 이금희 월드컵 카이",
+      "keyword": "김혜성 1안타 다저스 승리",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "승리의 브이 시작",
-      "state": "n",
-      "change": "0"
+      "keyword": "트럼프 IS 2인자 제거",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "2026 태화강국가정원 봄꽃축제",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 9,
-      "keyword": "대전시장 후보 발언 및 인사",
+      "keyword": "무투표 당선 기초단체장 3명",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "강백호 스리런 첫 홈런",
+      "state": "-",
+      "change": "5"
+    },
+    {
       "rank": 10,
-      "keyword": "지예은 결혼은 갔다",
+      "keyword": "육룡이 강신효 결혼 발표",
       "state": "n",
       "change": "0"
     }
