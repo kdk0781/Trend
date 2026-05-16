@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-05-15T23:40:20.330Z",
+  "updatedAt": "2026-05-16T01:25:41.476Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "황보라",
-      "traffic": "100+"
+      "keyword": "장학금",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "장원영",
-      "traffic": "1000+"
+      "keyword": "우스만 뎀벨레",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "마이크론 테크놀로지",
+      "keyword": "컵스 대 화이트삭스",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "토트넘 홋스퍼 fc",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "메이저 리그 베이스볼",
+      "keyword": "윤보미",
       "traffic": "200+"
     },
     {
+      "rank": 5,
+      "keyword": "보험",
+      "traffic": "500+"
+    },
+    {
       "rank": 6,
-      "keyword": "이정후",
-      "traffic": "5000+"
+      "keyword": "클리블랜드 대 디트로이트",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "셀트리온",
+      "keyword": "피겨 ai",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "nvda",
-      "traffic": "100+"
+      "keyword": "저스틴 터너",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "시스코 시스템즈",
-      "traffic": "2000+"
+      "keyword": "살림하는 남자들",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "신지",
-      "traffic": "2000+"
+      "keyword": "제타",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "아이유 변우석 OST 앨범 출시",
-      "state": "s",
+      "keyword": "기름값 7주 상승",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "손승원, 5번째 음주운전",
-      "state": "s",
-      "change": "0"
+      "keyword": "21세기 대군부인 최고 시청률 달성",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "트럼프 미 대통령",
-      "state": "n",
-      "change": "0"
+      "keyword": "고진영 크로거 공동 선두",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "부산 KCC 이상민 감독",
-      "state": "n",
-      "change": "0"
+      "keyword": "장동주 은퇴, 손승원 음주운전",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "최준희 오늘 결혼",
-      "state": "s",
+      "keyword": "최진실 딸 결혼식 개최",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "북 노동신문 강조 내용 정리",
-      "state": "+",
-      "change": "8"
+      "keyword": "트럼프 대만 무기판매 논의",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "이동재 징역 구형",
+      "keyword": "오현규, 근육 통증으로 결장",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "나 혼자 산다 재출격",
-      "state": "+",
-      "change": "7"
+      "keyword": "낮 최고 33도 일교차 15도",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "쥬얼리 하주연, 직장인 됐다",
+      "keyword": "파월, 임시 의장직 수행",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "서은혜 결혼 발표",
-      "state": "n",
+      "keyword": "스승의 날 선물 강요",
+      "state": "s",
       "change": "0"
     }
   ]
