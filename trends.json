@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-05-16T15:10:22.198Z",
+  "updatedAt": "2026-05-16T16:11:21.202Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "문상훈",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
+      "keyword": "첼시",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "21세기 대군부인",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "челси – манчестер сити",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "모자무싸",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
       "keyword": "kkr vs gt",
       "traffic": "500+"
     },
     {
-      "rank": 2,
+      "rank": 7,
       "keyword": "할로자임",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 8,
       "keyword": "bundesliga",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "keyword": "bayern đấu với köln",
       "traffic": "100+"
     },
     {
-      "rank": 5,
-      "keyword": "레반도프스키",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "เชลซี พบ แมนซิตี",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "허남준",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "21세기 대군부인 시청률",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "chelsea vs man city",
-      "traffic": "2000+"
-    },
-    {
       "rank": 10,
-      "keyword": "chelsea đấu với man city",
-      "traffic": "500+"
+      "keyword": "레반도프스키",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "대군부인 역사 왜곡 사과",
-      "state": "n",
-      "change": "0"
+      "keyword": "홍명보 감독 월드컵 명단 발표",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "실종됐다 여성 숨진 채 발견",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "중미 관세 인하 합의",
-      "state": "+",
-      "change": "10"
-    },
-    {
-      "rank": 4,
-      "keyword": "트럼프 발언으로 양안 긴장 고조",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "강준우 690G 아기 공개",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "1224회 로또 1등 12명 당첨금 24억",
+      "keyword": "21세기 대군부인 OST 발매 결정",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "임지연의 멋진 신세계 상승세",
+      "rank": 3,
+      "keyword": "관세 인하 합의",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "북한산 실종 50대 여성 발견",
       "state": "+",
       "change": "3"
     },
     {
-      "rank": 8,
-      "keyword": "푸틴 방중 19∼20일",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "은밀한 감사",
+      "rank": 5,
+      "keyword": "후보 선거사무소 개소식",
       "state": "-",
       "change": "2"
     },
     {
-      "rank": 10,
-      "keyword": "이재현 홈런, 삼성 1위!",
+      "rank": 6,
+      "keyword": "최준희 결혼식 개최",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "삼성전자 노사 18일 재개",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 8,
+      "keyword": "연등 행렬 로봇 스님",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "이승모 결승골 서울, 대전 3연패",
       "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "임지연 멋진 신세계 상승세",
+      "state": "s",
       "change": "0"
     }
   ]
