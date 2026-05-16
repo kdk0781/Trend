@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-16T12:13:08.879Z",
+  "updatedAt": "2026-05-16T14:01:07.815Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "조국 눈 멍",
-      "traffic": "100+"
+      "keyword": "bayern vs köln",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "나이지리아",
-      "traffic": "100+"
+      "keyword": "딜리버리 히어로",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "롤인벤",
-      "traffic": "100+"
+      "keyword": "최준희",
+      "traffic": "10000+"
     },
     {
       "rank": 4,
-      "keyword": "박준순",
-      "traffic": "200+"
+      "keyword": "운동회",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "배재준",
-      "traffic": "500+"
+      "keyword": "박결",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "fifa u 20 여자 월드컵",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "필리핀",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "고유가피해지원금 대상 확인",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "이형범",
+      "keyword": "리헨즈",
       "traffic": "200+"
     },
     {
-      "rank": 10,
-      "keyword": "fa cup",
+      "rank": 7,
+      "keyword": "임지연",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "양상국 논란",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "송승준",
       "traffic": "100+"
+    },
+    {
+      "rank": 10,
+      "keyword": "배당",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "신동엽, 한영애 고교 축제 출연",
-      "state": "s",
+      "keyword": "대군부인 역사 왜곡 사과",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "아이유 변우석 OST 앨범 출시",
+      "keyword": "사랑을 처방해 드립니다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "북한산 실종 여성 발견",
-      "state": "s",
+      "keyword": "북한산 50대 여성 숨진 채 발견",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이재현 투런 홈런!",
-      "state": "s",
-      "change": "0"
+      "keyword": "은밀한 감사",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 5,
-      "keyword": "이선민 등장에 유재석 하하 분노",
-      "state": "s",
+      "keyword": "올해 첫 온열질환 사망자",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "임지연 멋진 신세계 상승세",
-      "state": "s",
+      "keyword": "한화 화이트 복귀전 대폭격쇼",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "음주운전 손승원",
-      "state": "+",
-      "change": "1"
+      "keyword": "이재현 투런 쾅!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이란, 전쟁 후 사형 급증",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "소향 무대 극찬",
+      "keyword": "부처님오신날 연등 행렬",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 10,
-      "keyword": "사랑을 처방해 드립니다",
+      "rank": 9,
+      "keyword": "헤이지니 가족여행 해명",
       "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "연천 계곡 중학생 사망",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
