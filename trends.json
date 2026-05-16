@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-05-16T17:16:33.594Z",
+  "updatedAt": "2026-05-16T18:08:47.698Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "해리 케인",
-      "traffic": "1000+"
+      "keyword": "새마을 금고",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "농심 레드포스",
+      "keyword": "알나스르",
       "traffic": "100+"
     },
     {
       "rank": 3,
+      "keyword": "국민은행",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "해리 케인",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "농심 레드포스",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
       "keyword": "감사의 정원",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 7,
+      "keyword": "chelsea",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
       "keyword": "비비",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "keyword": "문상훈",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 10,
       "keyword": "21세기 대군부인",
       "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "челси – манчестер сити",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "모자무싸",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "kkr vs gt",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "할로자임",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "대군부인 사과 OST 출시",
-      "state": "s",
-      "change": "0"
+      "keyword": "중미 관세 인하 합의",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "미중 관세 인하 합의",
+      "keyword": "21세기 대군부인 OST 발매 예정",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "이승모 결승골 서울 선두 질주",
-      "state": "n",
-      "change": "0"
+      "keyword": "이재현 투런 홈런!",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 4,
-      "keyword": "북한산 실종 여성 발견",
+      "keyword": "멋진 신세계 시청률 급상승",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "최준희 결혼식 진행",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "연등 행렬 로봇 스님",
+      "keyword": "로봇 스님 연등 행렬",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 7,
-      "keyword": "북중미 월드컵 명단 발표",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "후보 선거사무소 개소식",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 9,
-      "keyword": "유재석, 양상국 조언",
+      "rank": 6,
+      "keyword": "딸 최준희 결혼식",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "북한산서 숨진 50대 여성 발견",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "유재석, 양상국에 조언 필요해",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "이란, 호르무즈 통행세 발표",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "삼성전자 노사 18일 재개",
-      "state": "s",
+      "keyword": "삼성전자 18일 교섭 재개",
+      "state": "n",
       "change": "0"
     }
   ]
