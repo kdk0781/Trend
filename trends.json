@@ -1,105 +1,105 @@
 {
-  "updatedAt": "2026-05-16T11:28:08.092Z",
+  "updatedAt": "2026-05-16T12:13:08.879Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "lck",
-      "traffic": "2000+"
+      "keyword": "조국 눈 멍",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "페이즈",
-      "traffic": "500+"
+      "keyword": "나이지리아",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "이채연",
-      "traffic": "200+"
+      "keyword": "롤인벤",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "서든어택",
+      "keyword": "박준순",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "주우재",
+      "keyword": "배재준",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "인천 대 광주",
-      "traffic": "2000+"
+      "keyword": "fifa u 20 여자 월드컵",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "이선민",
+      "keyword": "필리핀",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "상장지수 펀드",
-      "traffic": "500+"
+      "keyword": "고유가피해지원금 대상 확인",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "xsmn",
-      "traffic": "100+"
+      "keyword": "이형범",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "한영애",
-      "traffic": "1000+"
+      "keyword": "fa cup",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "한영애 경연 도전!",
+      "keyword": "신동엽, 한영애 고교 축제 출연",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "21세기 대군부인 OST 발표",
+      "keyword": "아이유 변우석 OST 앨범 출시",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이재현 투런 쾅!",
+      "keyword": "북한산 실종 여성 발견",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "임지연의 신세계 상승세",
-      "state": "+",
-      "change": "2"
+      "keyword": "이재현 투런 홈런!",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "놀면 뭐하니",
-      "state": "-",
-      "change": "1"
+      "keyword": "이선민 등장에 유재석 하하 분노",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "이승모 결승골 서울, 대전 2-1 승!",
-      "state": "n",
+      "keyword": "임지연 멋진 신세계 상승세",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "GTX 삼성역 보강 추진",
-      "state": "n",
-      "change": "0"
+      "keyword": "음주운전 손승원",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "장동주 은퇴, 손승원 음주운전",
-      "state": "+",
-      "change": "8"
+      "keyword": "이란, 전쟁 후 사형 급증",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
@@ -109,7 +109,7 @@
     },
     {
       "rank": 10,
-      "keyword": "트럼프 푸틴 방중",
+      "keyword": "사랑을 처방해 드립니다",
       "state": "n",
       "change": "0"
     }
