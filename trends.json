@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-16T22:00:03.580Z",
+  "updatedAt": "2026-05-16T22:54:12.339Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김서현",
-      "traffic": "200+"
+      "keyword": "lg 트윈스",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "내장산",
-      "traffic": "500+"
+      "keyword": "남보라",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "오세훈",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "쓰레기 봉투",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "한화 이글스",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "최저임금",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "항공사",
+      "keyword": "정원오",
       "traffic": "100+"
     },
     {
+      "rank": 4,
+      "keyword": "선수",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "하루",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "한탄강",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "육아휴직",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "축구",
-      "traffic": "10000+"
+      "keyword": "김서현",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "코디 폰세",
+      "keyword": "수원fc 위민",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "오염",
+      "keyword": "재테크",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "대군부인 OST 발매",
+      "keyword": "21세기 대군부인 OST 발표",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "멋진 신세계 시청률 상승",
+      "keyword": "임지연의 멋진 신세계 상승세",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "방콕 열차-버스 충돌 8명 사망",
+      "keyword": "은밀한 감사",
       "state": "+",
-      "change": "6"
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "은밀한 감사",
-      "state": "-",
+      "keyword": "손승원 음주운전",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "양현준 셀틱 우승!",
-      "state": "+",
-      "change": "1"
+      "keyword": "2026년 5월 17일 운세",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "윤보미 결혼식 계기로 의리 지켰다",
-      "state": "+",
-      "change": "1"
+      "keyword": "문상훈 4층 통임대 사무실 공개",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "은퇴 장동주 음주운전 손승원",
-      "state": "+",
-      "change": "1"
+      "keyword": "윤보미 결혼식 의리 지켰다",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "2026년 5월 17일 운세",
-      "state": "n",
+      "keyword": "방콕 충돌 8명 사망",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "차은우 탈세와 우영우2 논란",
-      "state": "+",
-      "change": "1"
+      "keyword": "부산 KCC 허훈 인터뷰",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "부산 KCC 허훈 인터뷰",
-      "state": "n",
-      "change": "0"
+      "keyword": "원더풀스 차은우 탈세와 향방",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
