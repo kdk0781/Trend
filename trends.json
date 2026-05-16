@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-05-16T10:16:36.549Z",
+  "updatedAt": "2026-05-16T11:28:08.092Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "fifa u-20 여자 월드컵",
-      "traffic": "200+"
+      "keyword": "lck",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "코오롱티슈진",
-      "traffic": "100+"
+      "keyword": "페이즈",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "마라톤",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "문정빈",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "이소라",
+      "keyword": "이채연",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "서든어택",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "주우재",
+      "traffic": "500+"
+    },
+    {
       "rank": 6,
-      "keyword": "ตรวจหวย",
+      "keyword": "인천 대 광주",
       "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "조이",
+      "keyword": "이선민",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "비트코인",
-      "traffic": "2000+"
+      "keyword": "상장지수 펀드",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "대학 축제",
+      "keyword": "xsmn",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "바나나",
-      "traffic": "2000+"
+      "keyword": "한영애",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "홍명보 감독 최종명단 발표",
+      "keyword": "한영애 경연 도전!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "아이유 OST 발매",
-      "state": "+",
-      "change": "1"
+      "keyword": "21세기 대군부인 OST 발표",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "평택 후보 선거사무소 개소",
-      "state": "n",
+      "keyword": "이재현 투런 쾅!",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "한영애, 50년 소리의 마녀로 무대에서 계속 살아있다.",
+      "keyword": "임지연의 신세계 상승세",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "놀면 뭐하니",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "이승모 결승골 서울, 대전 2-1 승!",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "최준희 결혼식 사회 조세호",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "임지연의 멋진 신세계 상승세",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 7,
-      "keyword": "삼성전자 노사 18일 대화 재개",
+      "keyword": "GTX 삼성역 보강 추진",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "북한산 실종 여성 발견",
-      "state": "n",
-      "change": "0"
+      "keyword": "장동주 은퇴, 손승원 음주운전",
+      "state": "+",
+      "change": "8"
     },
     {
       "rank": 9,
-      "keyword": "강백호 2홈런 7타점",
-      "state": "n",
-      "change": "0"
+      "keyword": "소향 무대 극찬",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "장동주 술값 먹튀 의혹",
-      "state": "s",
+      "keyword": "트럼프 푸틴 방중",
+      "state": "n",
       "change": "0"
     }
   ]
