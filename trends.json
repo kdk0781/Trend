@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-05-16T07:07:26.475Z",
+  "updatedAt": "2026-05-16T08:58:22.079Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "국민비서",
+      "keyword": "김홍규",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "코르티스",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "김태형",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "이엘",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "이다희",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "최지광",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "경북매일신문",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "오스틴 딘",
+      "keyword": "폴란드",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "미슐랭 2스타 개미",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "북극 항공 로",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "수영장",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "이기혁",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "한국조폐공사",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "한화그룹",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "오타니 쇼헤이",
-      "traffic": "500+"
+      "keyword": "기초 지방 자치 단체장",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "서동주",
-      "traffic": "500+"
+      "keyword": "세종낙화축제",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재용 회장 귀국 및 사과",
+      "keyword": "홍명보 감독 월드컵 준비!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "아이유 변우석 OST 앨범 발매",
+      "keyword": "삼성전자 노사 교섭 재개",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "장동주 은퇴 의혹",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "강준우 아들 690G 태어남",
-      "state": "n",
+      "keyword": "아이유 변우석 OST 발매",
+      "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "keyword": "임지연 멋진 신세계 상승세",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "육중완밴드 강준우 득남 소식",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김혜성 1안타 다저스 승리",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "트럼프 IS 2인자 제거",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "무투표 당선 기초단체장 3명",
+      "keyword": "선거사무소 개소식 후보",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "강백호 스리런 첫 홈런",
+      "rank": 7,
+      "keyword": "김숙 제주도 집 완성",
       "state": "-",
-      "change": "5"
+      "change": "4"
+    },
+    {
+      "rank": 8,
+      "keyword": "강백호 7타점 폭발",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "한화 이글스",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "육룡이 강신효 결혼 발표",
-      "state": "n",
+      "keyword": "은퇴 장동주, 음주운전 손승원",
+      "state": "s",
       "change": "0"
     }
   ]
