@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-16T20:09:56.503Z",
+  "updatedAt": "2026-05-16T21:02:41.718Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "축구",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "오염",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "주식 분할",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
       "keyword": "acl two",
       "traffic": "500+"
     },
     {
-      "rank": 2,
+      "rank": 5,
       "keyword": "공군",
       "traffic": "200+"
     },
     {
-      "rank": 3,
-      "keyword": "알론소",
-      "traffic": "200+"
+      "rank": 6,
+      "keyword": "알나스르 대 감바 오사카",
+      "traffic": "1000+"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "keyword": "새마을 금고",
       "traffic": "2000+"
     },
     {
-      "rank": 5,
-      "keyword": "알나스르",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
+      "rank": 8,
       "keyword": "국민은행",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "할로 자임",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "해리 케인",
       "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "농심 레드포스",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "감사의 정원",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "21세기 대군부인 OST 발매",
+      "keyword": "21세기 대군부인 OST 발표",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "중미 관세 인하 합의",
+      "keyword": "임지연 멋진 신세계 상승세",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "임지연의 멋진 신세계 상승세",
-      "state": "s",
+      "keyword": "은밀한 감사",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "양현준 셀틱 우승!",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "이란 호르무즈 통행 체제 발표",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "은밀한 감사",
+      "keyword": "중미 관세 인하 합의",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "최준희 결혼식 사회 조세호",
-      "state": "+",
+      "rank": 5,
+      "keyword": "양현준 셀틱 우승",
+      "state": "-",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "윤보미 결혼식에서 의리 지켰다",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "손승원 음주운전",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 8,
-      "keyword": "로또 1등 12명 각 24억",
-      "state": "+",
+      "keyword": "방콕 열차-버스 충돌 8명 사망",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "장동주 은퇴, 손승원 음주운전",
-      "state": "+",
-      "change": "2"
+      "keyword": "원더풀스 감독, 차은우 탈세 언급",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "삼성, 1위 등극!",
-      "state": "s",
-      "change": "0"
+      "keyword": "변우석♥아이유 해피엔딩",
+      "state": "+",
+      "change": "3"
     }
   ]
 }
