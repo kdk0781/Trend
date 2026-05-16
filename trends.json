@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-16T08:58:22.079Z",
+  "updatedAt": "2026-05-16T10:16:36.549Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김홍규",
+      "keyword": "fifa u-20 여자 월드컵",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "폴란드",
+      "keyword": "코오롱티슈진",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "미슐랭 2스타 개미",
-      "traffic": "1000+"
+      "keyword": "마라톤",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "북극 항공 로",
-      "traffic": "200+"
+      "keyword": "문정빈",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "수영장",
-      "traffic": "2000+"
+      "keyword": "이소라",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "이기혁",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "한국조폐공사",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "한화그룹",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "기초 지방 자치 단체장",
+      "keyword": "ตรวจหวย",
       "traffic": "2000+"
     },
     {
-      "rank": 10,
-      "keyword": "세종낙화축제",
+      "rank": 7,
+      "keyword": "조이",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "비트코인",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "대학 축제",
       "traffic": "100+"
+    },
+    {
+      "rank": 10,
+      "keyword": "바나나",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "홍명보 감독 월드컵 준비!",
+      "keyword": "홍명보 감독 최종명단 발표",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "삼성전자 노사 교섭 재개",
-      "state": "s",
-      "change": "0"
+      "keyword": "아이유 OST 발매",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "아이유 변우석 OST 발매",
-      "state": "s",
+      "keyword": "평택 후보 선거사무소 개소",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "임지연 멋진 신세계 상승세",
-      "state": "+",
-      "change": "1"
+      "keyword": "한영애, 50년 소리의 마녀로 무대에서 계속 살아있다.",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "육중완밴드 강준우 득남 소식",
-      "state": "n",
+      "keyword": "최준희 결혼식 사회 조세호",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "선거사무소 개소식 후보",
-      "state": "n",
+      "keyword": "임지연의 멋진 신세계 상승세",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김숙 제주도 집 완성",
-      "state": "-",
-      "change": "4"
+      "keyword": "삼성전자 노사 18일 대화 재개",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "강백호 7타점 폭발",
-      "state": "+",
-      "change": "1"
+      "keyword": "북한산 실종 여성 발견",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "한화 이글스",
-      "state": "+",
-      "change": "3"
+      "keyword": "강백호 2홈런 7타점",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "은퇴 장동주, 음주운전 손승원",
+      "keyword": "장동주 술값 먹튀 의혹",
       "state": "s",
       "change": "0"
     }
