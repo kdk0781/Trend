@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-17T18:40:55.702Z",
+  "updatedAt": "2026-05-17T19:53:06.212Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "웨스트햄",
-      "traffic": "200+"
+      "keyword": "파리 대 psg",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "폭싹 속았수다",
-      "traffic": "100+"
+      "keyword": "미운 우리 새끼",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "박서준",
-      "traffic": "200+"
+      "keyword": "sevilla vs real madrid",
+      "traffic": "100+"
     },
     {
       "rank": 4,
+      "keyword": "폭싹 속았수다",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "웨스트햄",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "박서준",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
       "keyword": "네이마르",
       "traffic": "100+"
     },
     {
-      "rank": 5,
-      "keyword": "서울경제",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "wordle",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "초 가공 식품",
-      "traffic": "500+"
-    },
-    {
       "rank": 8,
-      "keyword": "카리나",
-      "traffic": "2000+"
+      "keyword": "뉴캐슬 대 웨스트 햄",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "호일룬",
-      "traffic": "100+"
+      "keyword": "서울경제",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "우상혁",
+      "keyword": "wordle",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이 대통령, 트럼프 통화",
+      "keyword": "트럼프와 통화 논의",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "은밀한 감사",
-      "state": "+",
-      "change": "14"
+      "keyword": "전소민 런닝맨 하차 후 카페 알바",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "UAE 바라카 원전 드론 화재",
-      "state": "n",
-      "change": "0"
+      "keyword": "류현진 200승 도전 실패",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "류현진 200승 아쉬워",
-      "state": "n",
-      "change": "0"
+      "keyword": "은밀한 감사",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "삼성전자 노조, 파업 강행",
-      "state": "-",
-      "change": "1"
+      "keyword": "노지훈, 용인 식중독 피해자",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "21세기 대군부인 논란",
+      "keyword": "북한 여자 U-17, 일본 5-1 대승",
       "state": "+",
-      "change": "8"
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "전소민 런닝맨 하차 후 카페 알바",
+      "keyword": "고윤정과 구교환의 포옹씬",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "장동주 소속사 신뢰 위기",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "UAE 원전 드론 공격 화재",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "북한 U-17 여자 5번째 우승",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "변우석 비주얼 샷 자랑",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 10,
-      "keyword": "원더풀스 신작 출격!",
+      "keyword": "부천, 포항 2-0으로 승리",
       "state": "n",
       "change": "0"
     }
