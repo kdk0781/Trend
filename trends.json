@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-17T01:31:05.168Z",
+  "updatedAt": "2026-05-17T05:32:20.866Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "코너 맥그리거",
-      "traffic": "200+"
+      "keyword": "김동현",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "구미시",
-      "traffic": "100+"
+      "keyword": "살림하는 남자들",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "최우진",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "ufc",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "레드삭스 대 브레이브스",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "방신실",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "케이조선",
+      "keyword": "케빈 워시",
       "traffic": "100+"
     },
     {
+      "rank": 4,
+      "keyword": "lg이노텍",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "맥그리거",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "스와치 오데마피게",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "코닝",
+      "traffic": "2000+"
+    },
+    {
       "rank": 8,
-      "keyword": "전병우",
+      "keyword": "평택시 을",
       "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "자산",
-      "traffic": "2000+"
+      "keyword": "홍준표",
+      "traffic": "10000+"
     },
     {
       "rank": 10,
-      "keyword": "돈",
+      "keyword": "연료전지",
       "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "소득 하위 70% 고유가 지원금 지급",
-      "state": "n",
+      "keyword": "21세기 대군부인 논란",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "21세기 대군부인 최고 시청률 기록",
+      "keyword": "류현진, 200승 도전",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "정청래 테러 제보",
+      "keyword": "삼성전자 노사 협상 재개",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "장동주 은퇴, 손승원 음주운전.",
-      "state": "s",
+      "keyword": "김경호 부친상 비보",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "공명 피습, 신혜선 패닉",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "케인 해트트릭, 득점왕 3연속",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "2026 코베 베이비페어 개최",
+      "keyword": "김태승 사장 KTX 요금 인상 논의 필요",
       "state": "-",
       "change": "2"
     },
     {
+      "rank": 6,
+      "keyword": "신현송 G7 회의 참석",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "공원서 80대 10대 폭행",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "관리사무소 직원에 욕한 40대",
+      "keyword": "오세훈 GTX-A 누락 정원오 책임",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "조세호, 최준희 결혼식 포착",
+      "keyword": "살목지 공포 1위 등극",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "강준현 선대위 공보단장",
-      "state": "n",
-      "change": "0"
+      "keyword": "고유가 피해지원금 2차 신청",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
