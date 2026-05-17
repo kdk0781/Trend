@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-17T14:40:19.108Z",
+  "updatedAt": "2026-05-17T15:44:43.923Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "카세미루",
-      "traffic": "500+"
+      "keyword": "카리나",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "정원오",
-      "traffic": "1000+"
+      "keyword": "호일룬",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "김영길",
+      "keyword": "우상혁",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "루마니아",
+      "keyword": "rr vs dc",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "전소민",
+      "keyword": "인하대",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "cxmt",
+      "keyword": "jtbc",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "유벤투스",
-      "traffic": "100+"
+      "keyword": "카세미루",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "한국노동조합총연맹",
-      "traffic": "5000+"
+      "keyword": "정원오",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "천위페이",
-      "traffic": "2000+"
+      "keyword": "김영길",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "탁재훈",
-      "traffic": "200+"
+      "keyword": "루마니아",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김영옥 남편상 별세",
-      "state": "n",
+      "keyword": "트럼프와 통화 논의",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "철근 누락 오세훈 책임",
-      "state": "-",
-      "change": "1"
+      "keyword": "류현진 200승 실패",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "UAE 원전 드론 공격 피해 없음",
-      "state": "-",
+      "keyword": "김영옥 남편상 별세",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "은밀한 감사",
-      "state": "+",
-      "change": "2"
+      "keyword": "UAE 드론 공격 피해 없어",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "인권위원장 5·18 기념식 불참",
+      "keyword": "북한 여자축구팀 훈련 나서다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "80대 노인 10대 4명 폭행",
+      "keyword": "5·18 전야제 열기",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "이재명, 트럼프와 통화",
+      "keyword": "신세계 최고 시청률 경신",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "삼성전자 노조 압박에 굴하지 않겠다",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 9,
+      "keyword": "21세기 대군부인 논란 사과 부족",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "방신실 우승 축하해요",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "박찬욱 프랑스 훈장 수훈",
-      "state": "-",
-      "change": "8"
-    },
-    {
       "rank": 10,
-      "keyword": "사랑을 처방해 드립니다",
-      "state": "-",
-      "change": "5"
+      "keyword": "문도엽 KPGA 우승",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
