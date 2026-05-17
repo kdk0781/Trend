@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-17T22:34:02.934Z",
+  "updatedAt": "2026-05-17T23:35:30.494Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "수학여행",
-      "traffic": "1000+"
+      "keyword": "라리가",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "마키나락스",
+      "keyword": "변호사",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "김서현",
-      "traffic": "200+"
+      "keyword": "치어리더",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "헌법",
-      "traffic": "200+"
+      "keyword": "톰 크루즈",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "리사",
-      "traffic": "100+"
+      "keyword": "페데리코 발베르데",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "농구",
+      "keyword": "전통주",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "최준희",
-      "traffic": "5000+"
+      "keyword": "대부업",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "이태원 참사",
-      "traffic": "500+"
+      "keyword": "그리즈만",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "말린스 대 레이스",
+      "keyword": "barcelona vs betis",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "대한민국 해양수산부",
-      "traffic": "200+"
+      "keyword": "랄랄",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "한반도 비핵화 목표 동의",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 2,
-      "keyword": "호프 칸 시사회 출연진",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "트럼프·네타냐후 이란 공격 논의",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "은밀한 감사",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
       "keyword": "전군 남부국경 강화",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "고유가피해지원금",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "장동주 소속사 은퇴",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "최준희 결혼 밀착샷 공개",
+      "rank": 2,
+      "keyword": "호프 칸 시사회 참석자들",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "삼성전자 파업 임박",
+      "rank": 3,
+      "keyword": "트럼프 이란 공격 재개 논의",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "이강인 리그1 교체출전",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "최준희, 루머에 대분노",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "김혜성 멀티히트 다저스 대승",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "제로베이스원 앤더블 응원 경쟁",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "이재욱 오늘 건강히 입대",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "황희찬 2개월만에 공격 포인트!",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "변우석",
+      "keyword": "21세기 대군부인 논란",
       "state": "+",
-      "change": "18"
+      "change": "5"
     }
   ]
 }
