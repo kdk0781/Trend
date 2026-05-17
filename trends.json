@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-05-17T20:40:15.503Z",
+  "updatedAt": "2026-05-17T21:39:59.266Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "유정 향",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "홍진경",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "레드삭스 대 브레이브스",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "김영옥",
+      "keyword": "야닉 시너",
       "traffic": "500+"
     },
     {
-      "rank": 5,
-      "keyword": "박남정",
+      "rank": 2,
+      "keyword": "barcelona vs real betis",
       "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "아크로리버파크",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "이용식",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "상장폐지",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "파리 대 psg",
-      "traffic": "5000+"
+      "keyword": "상속",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "sevilla vs real madrid",
-      "traffic": "100+"
+      "keyword": "v-리그",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "중소기업",
-      "traffic": "200+"
+      "keyword": "한국고속철도",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "폭싹 속았수다",
-      "traffic": "200+"
+      "keyword": "민생지원금",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "박서준",
+      "keyword": "스페이스x",
       "traffic": "1000+"
     }
   ],
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "전소민, 런닝맨 하차 후 카페 알바",
+      "keyword": "은밀한 감사",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "류현진 200승 실패",
-      "state": "s",
-      "change": "0"
+      "keyword": "장동주 소속사 은퇴",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 4,
-      "keyword": "노지훈, 용인 식중독 피해자",
-      "state": "+",
-      "change": "2"
+      "keyword": "북한, U-17 여자 아시안컵 5번째 우승",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "북한 U-17 여자 5번째 우승",
+      "keyword": "고윤정 구교환 포옹씬 감동적",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "장동주 소속사 은퇴",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "은밀한 감사",
+      "keyword": "전소민, 런닝맨 하차 후 카페 알바",
       "state": "-",
       "change": "3"
     },
     {
+      "rank": 7,
+      "keyword": "삼성전자 노조 파업 계속해",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 8,
-      "keyword": "드론 공격 피해 없어",
+      "keyword": "고유가피해지원금",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "강남 아내 이상화 걱정 고민 많다",
+      "keyword": "홍진경, 이혼 후 전남편·딸과 외식",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "GTX 철근 누락 공방",
-      "state": "n",
-      "change": "0"
+      "keyword": "21세기 대군부인 논란과 기록",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
