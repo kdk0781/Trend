@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-05-17T19:53:06.212Z",
+  "updatedAt": "2026-05-17T20:40:15.503Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "파리 대 psg",
-      "traffic": "2000+"
+      "keyword": "유정 향",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "미운 우리 새끼",
-      "traffic": "500+"
+      "keyword": "홍진경",
+      "traffic": "100+"
     },
     {
       "rank": 3,
+      "keyword": "레드삭스 대 브레이브스",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "김영옥",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "박남정",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "파리 대 psg",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 7,
       "keyword": "sevilla vs real madrid",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 8,
+      "keyword": "중소기업",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
       "keyword": "폭싹 속았수다",
       "traffic": "200+"
     },
     {
-      "rank": 5,
-      "keyword": "웨스트햄",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "박서준",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "네이마르",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "뉴캐슬 대 웨스트 햄",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "서울경제",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "wordle",
-      "traffic": "100+"
+      "keyword": "박서준",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "전소민 런닝맨 하차 후 카페 알바",
+      "keyword": "전소민, 런닝맨 하차 후 카페 알바",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "류현진 200승 도전 실패",
-      "state": "+",
-      "change": "1"
+      "keyword": "류현진 200승 실패",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "은밀한 감사",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
       "keyword": "노지훈, 용인 식중독 피해자",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 5,
+      "keyword": "북한 U-17 여자 5번째 우승",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "북한 여자 U-17, 일본 5-1 대승",
-      "state": "+",
-      "change": "3"
+      "keyword": "장동주 소속사 은퇴",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "고윤정과 구교환의 포옹씬",
+      "keyword": "은밀한 감사",
       "state": "-",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "장동주 소속사 신뢰 위기",
-      "state": "+",
-      "change": "2"
+      "keyword": "드론 공격 피해 없어",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "UAE 원전 드론 공격 화재",
-      "state": "-",
-      "change": "1"
+      "keyword": "강남 아내 이상화 걱정 고민 많다",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "부천, 포항 2-0으로 승리",
+      "keyword": "GTX 철근 누락 공방",
       "state": "n",
       "change": "0"
     }
