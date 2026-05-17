@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-17T05:32:20.866Z",
+  "updatedAt": "2026-05-17T07:58:20.344Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김동현",
-      "traffic": "100+"
+      "keyword": "전북 대 김천상무",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "살림하는 남자들",
-      "traffic": "500+"
+      "keyword": "제주 대 안양",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "케빈 워시",
-      "traffic": "100+"
+      "keyword": "뉴캐슬 유나이티드 fc",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "lg이노텍",
-      "traffic": "1000+"
+      "keyword": "노무라 증권",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "맥그리거",
+      "keyword": "헤지펀드",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "스와치 오데마피게",
-      "traffic": "100+"
+      "keyword": "위안부",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "코닝",
-      "traffic": "2000+"
+      "keyword": "위성락",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "평택시 을",
-      "traffic": "1000+"
+      "keyword": "이금희",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "홍준표",
-      "traffic": "10000+"
+      "keyword": "영천시",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "연료전지",
+      "keyword": "하이브리드 차량",
       "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "21세기 대군부인 논란",
+      "keyword": "북한 내고향여자축구단 입국",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "류현진, 200승 도전",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "삼성전자 노사 협상 재개",
+      "keyword": "제9회 전국동시지방선거 투표용지",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "오세훈 재건축 공약",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 4,
-      "keyword": "김경호 부친상 비보",
+      "keyword": "김영길 별세 비보",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김태승 사장 KTX 요금 인상 논의 필요",
+      "keyword": "21세기 대군부인 논란",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "멋진 신세계 시청률 상승",
       "state": "-",
       "change": "2"
     },
     {
-      "rank": 6,
-      "keyword": "신현송 G7 회의 참석",
-      "state": "+",
+      "rank": 7,
+      "keyword": "김혜윤 살목지 역대 1위",
+      "state": "-",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "공원서 80대 10대 폭행",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 8,
-      "keyword": "오세훈 GTX-A 누락 정원오 책임",
+      "keyword": "류현진, 200승 향해!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "살목지 공포 1위 등극",
+      "keyword": "2026 성년의 날 행사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "고유가 피해지원금 2차 신청",
+      "keyword": "쿠싱증후군 발견",
       "state": "-",
       "change": "2"
     }
