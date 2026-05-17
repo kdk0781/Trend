@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-17T10:56:23.408Z",
+  "updatedAt": "2026-05-17T11:57:44.710Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "rcb vs pbks",
+      "keyword": "man united vs nottm forest",
       "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "금강산",
-      "traffic": "200+"
+      "keyword": "แมนยู พบ ฟอเรสต์",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "충남 아산 fc 대 수원fc",
-      "traffic": "1000+"
+      "keyword": "man utd đấu với nottm forest",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "sk에너지",
-      "traffic": "1000+"
+      "keyword": "세리에",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "츄",
+      "keyword": "대방건설",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "항공",
-      "traffic": "500+"
+      "keyword": "맨유 대 노팅엄 포레스트",
+      "traffic": "20000+"
     },
     {
       "rank": 7,
-      "keyword": "공명",
+      "keyword": "경주시",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "조지 클루니",
-      "traffic": "100+"
+      "keyword": "원희",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "주식",
-      "traffic": "20000+"
+      "keyword": "태진아",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "강원 대 울산",
-      "traffic": "2000+"
+      "keyword": "딘딘",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김영길 씨 별세",
-      "state": "s",
+      "keyword": "이란에 나무호 피격 입장 요구",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "5·18 전야제 참석",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 3,
-      "keyword": "아이유X변우석 21세기 대군부인 논란",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "KT 이정훈 끝내기 안타",
+      "keyword": "방신실 우승 감사합니다!",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "나무호 피격 입장 요구",
+      "rank": 3,
+      "keyword": "바라카 원전 드론 공격",
       "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 4,
+      "keyword": "박찬욱 감독, 프랑스 최고 훈장 수훈",
+      "state": "+",
+      "change": "6"
+    },
+    {
+      "rank": 5,
+      "keyword": "김영옥 남편 김영길 별세",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "멋진 신세계 최고 시청률",
+      "keyword": "아이유와 대군부인 논란",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "방신실, 우승 감사합니다!",
-      "state": "n",
-      "change": "0"
+      "keyword": "5·18 전야제 열기 모아",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 8,
-      "keyword": "북한 여자축구팀 훈련출발",
-      "state": "n",
-      "change": "0"
+      "keyword": "티아고 극장골 전북 1-0 승리",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "이하늘 곱창집 경찰 출동",
+      "keyword": "정연과 공승연의 눈물",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "롯데, 7회 충격 실점",
+      "keyword": "붐, 둘째 출산 겹경사",
       "state": "n",
       "change": "0"
     }
