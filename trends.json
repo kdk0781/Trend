@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-05-17T15:44:43.923Z",
+  "updatedAt": "2026-05-17T16:39:07.267Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "뉴캐슬",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
+      "keyword": "김재욱",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "서울경제",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "wordle",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "초 가공 식품",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
       "keyword": "카리나",
       "traffic": "2000+"
     },
     {
-      "rank": 2,
+      "rank": 7,
       "keyword": "호일룬",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 8,
       "keyword": "우상혁",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "keyword": "rr vs dc",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 10,
       "keyword": "인하대",
       "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "jtbc",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "카세미루",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "정원오",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "김영길",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "루마니아",
-      "traffic": "500+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "류현진 200승 실패",
+      "keyword": "UAE 원전 드론 피해 없어",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김영옥 남편상 별세",
-      "state": "+",
-      "change": "1"
+      "keyword": "KT 이정훈 끝내기",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "UAE 드론 공격 피해 없어",
-      "state": "-",
+      "keyword": "조현, 이란에 나무호 입장 요구",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "북한 여자축구팀 훈련 나서다",
-      "state": "n",
-      "change": "0"
+      "keyword": "김영옥 남편상 별세",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
       "keyword": "5·18 전야제 열기",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "신세계 최고 시청률 경신",
+      "keyword": "방신실, 우승 감사해요!",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "삼성전자 노조 긴급조정 반대",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "박찬욱, 프랑스 훈장 수훈",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "삼성전자 노조 압박에 굴하지 않겠다",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 9,
-      "keyword": "21세기 대군부인 논란 사과 부족",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 10,
-      "keyword": "문도엽 KPGA 우승",
-      "state": "n",
-      "change": "0"
+      "keyword": "21세기 대군부인 역사 논란",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
