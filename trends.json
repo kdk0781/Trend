@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-17T07:58:20.344Z",
+  "updatedAt": "2026-05-17T09:47:44.181Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "전북 대 김천상무",
-      "traffic": "5000+"
+      "keyword": "임은정",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "제주 대 안양",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "뉴캐슬 유나이티드 fc",
+      "keyword": "ai 붐",
       "traffic": "200+"
     },
     {
-      "rank": 4,
-      "keyword": "노무라 증권",
+      "rank": 3,
+      "keyword": "젠슨 황",
       "traffic": "2000+"
     },
     {
-      "rank": 5,
-      "keyword": "헤지펀드",
+      "rank": 4,
+      "keyword": "석유화학",
       "traffic": "500+"
     },
     {
+      "rank": 5,
+      "keyword": "박영현",
+      "traffic": "200+"
+    },
+    {
       "rank": 6,
-      "keyword": "위안부",
+      "keyword": "임기영",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "위성락",
+      "keyword": "정유미",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "이금희",
-      "traffic": "2000+"
+      "keyword": "손주영",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "영천시",
-      "traffic": "100+"
+      "keyword": "오은영 리포트 - 결혼지옥",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "하이브리드 차량",
-      "traffic": "1000+"
+      "keyword": "성남 대 경남",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "북한 내고향여자축구단 입국",
+      "keyword": "김영길, 89세로 별세",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "제9회 전국동시지방선거 투표용지",
-      "state": "n",
-      "change": "0"
+      "keyword": "아이유의 대군부인 기록",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "오세훈 재건축 공약",
+      "keyword": "북한 여자축구팀 훈련 출발",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "김영길 별세 비보",
-      "state": "n",
-      "change": "0"
+      "keyword": "KT 이정훈 끝내기",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 5,
-      "keyword": "21세기 대군부인 논란",
+      "keyword": "임지연과 포옹한 멋진 신세계",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "멋진 신세계 시청률 상승",
-      "state": "-",
-      "change": "2"
+      "keyword": "방신실, KLPGA 매치플레이 우승",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "김혜윤 살목지 역대 1위",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "류현진, 200승 향해!",
+      "keyword": "권오을, 5·18 전야 참석",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "호텔 나오는 내고향여자축구단",
+      "state": "-",
+      "change": "3"
+    },
+    {
       "rank": 9,
-      "keyword": "2026 성년의 날 행사",
+      "keyword": "강남역 10주기 집회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "쿠싱증후군 발견",
-      "state": "-",
-      "change": "2"
+      "keyword": "오스틴 홈런 LG SSG 제압",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
