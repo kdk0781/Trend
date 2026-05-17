@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-17T17:39:15.797Z",
+  "updatedAt": "2026-05-17T18:40:55.702Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "박서준",
-      "traffic": "100+"
+      "keyword": "웨스트햄",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "네이마르",
+      "keyword": "폭싹 속았수다",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "뉴캐슬",
-      "traffic": "1000+"
+      "keyword": "박서준",
+      "traffic": "200+"
     },
     {
       "rank": 4,
+      "keyword": "네이마르",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
       "keyword": "서울경제",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "wordle",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "초 가공 식품",
       "traffic": "500+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "카리나",
       "traffic": "2000+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "호일룬",
       "traffic": "100+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "우상혁",
       "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "인간극장",
-      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프와 통화 논의",
+      "keyword": "이 대통령, 트럼프 통화",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "UAE 바라카 드론 화재 발생",
+      "keyword": "은밀한 감사",
+      "state": "+",
+      "change": "14"
+    },
+    {
+      "rank": 3,
+      "keyword": "UAE 바라카 원전 드론 화재",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "방신실, 우승 감사합니다!",
-      "state": "+",
-      "change": "6"
-    },
-    {
       "rank": 4,
-      "keyword": "조현, 이란에 나무호 입장 요구",
-      "state": "+",
-      "change": "1"
+      "keyword": "류현진 200승 아쉬워",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "5·18 전야제 열기",
-      "state": "+",
+      "keyword": "삼성전자 노조, 파업 강행",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "티아고 결승골 전북 1-0 승리",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 7,
-      "keyword": "류현진 200승 실패",
+      "keyword": "21세기 대군부인 논란",
       "state": "+",
       "change": "8"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "keyword": "전소민 런닝맨 하차 후 카페 알바",
-      "state": "+",
-      "change": "6"
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "북한 U-17 여자 5번째 우승",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "긴급조정 압박에 굴하지 않겠다",
+      "keyword": "변우석 비주얼 샷 자랑",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "노지훈, 용인 식중독 피해자",
-      "state": "+",
-      "change": "3"
+      "keyword": "원더풀스 신작 출격!",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
