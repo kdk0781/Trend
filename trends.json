@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-16T23:43:12.789Z",
+  "updatedAt": "2026-05-17T01:31:05.168Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "자산",
-      "traffic": "500+"
+      "keyword": "코너 맥그리거",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "돈",
-      "traffic": "500+"
+      "keyword": "구미시",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "마무리 투수",
-      "traffic": "100+"
+      "keyword": "최우진",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "아우디",
-      "traffic": "100+"
+      "keyword": "ufc",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "인플레이션",
-      "traffic": "200+"
+      "keyword": "레드삭스 대 브레이브스",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "엘리나 스비톨리나",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "남보라",
+      "keyword": "방신실",
       "traffic": "200+"
     },
     {
+      "rank": 7,
+      "keyword": "케이조선",
+      "traffic": "100+"
+    },
+    {
       "rank": 8,
-      "keyword": "lg 트윈스",
-      "traffic": "500+"
+      "keyword": "전병우",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "버킨백",
-      "traffic": "100+"
+      "keyword": "자산",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "정원오",
-      "traffic": "100+"
+      "keyword": "돈",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "대군부인 OST 앨범 나온다",
-      "state": "s",
+      "keyword": "소득 하위 70% 고유가 지원금 지급",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "임지연의 멋진 신세계 폭발",
+      "keyword": "21세기 대군부인 최고 시청률 기록",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "장동주 은퇴, 손승원 음주운전",
-      "state": "s",
+      "keyword": "정청래 테러 제보",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "칸 크루아제트 해변의 군체들",
+      "keyword": "장동주 은퇴, 손승원 음주운전.",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "북 활용 강조",
-      "state": "+",
-      "change": "2"
+      "keyword": "공명 피습, 신혜선 패닉",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "윤보미 결혼식에서 의리 지켰다",
-      "state": "+",
-      "change": "2"
+      "keyword": "케인 해트트릭, 득점왕 3연속",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "사랑을 처방해 드립니다",
-      "state": "+",
-      "change": "4"
+      "keyword": "2026 코베 베이비페어 개최",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "30년 동거 60대 징역 25년",
+      "keyword": "관리사무소 직원에 욕한 40대",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "강남역 여성 생존 10년",
+      "keyword": "조세호, 최준희 결혼식 포착",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김신영, 아프니까 먹방!",
+      "keyword": "강준현 선대위 공보단장",
       "state": "n",
       "change": "0"
     }
