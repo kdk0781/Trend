@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-17T09:47:44.181Z",
+  "updatedAt": "2026-05-17T10:56:23.408Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "임은정",
+      "keyword": "rcb vs pbks",
       "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "ai 붐",
+      "keyword": "금강산",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "젠슨 황",
-      "traffic": "2000+"
+      "keyword": "충남 아산 fc 대 수원fc",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "석유화학",
-      "traffic": "500+"
+      "keyword": "sk에너지",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "박영현",
+      "keyword": "츄",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "임기영",
-      "traffic": "200+"
+      "keyword": "항공",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "정유미",
+      "keyword": "공명",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "손주영",
-      "traffic": "500+"
+      "keyword": "조지 클루니",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "오은영 리포트 - 결혼지옥",
-      "traffic": "200+"
+      "keyword": "주식",
+      "traffic": "20000+"
     },
     {
       "rank": 10,
-      "keyword": "성남 대 경남",
-      "traffic": "500+"
+      "keyword": "강원 대 울산",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김영길, 89세로 별세",
+      "keyword": "김영길 씨 별세",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "아이유의 대군부인 기록",
+      "keyword": "5·18 전야제 참석",
       "state": "+",
-      "change": "1"
+      "change": "6"
     },
     {
       "rank": 3,
-      "keyword": "북한 여자축구팀 훈련 출발",
+      "keyword": "아이유X변우석 21세기 대군부인 논란",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "KT 이정훈 끝내기",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 5,
-      "keyword": "임지연과 포옹한 멋진 신세계",
+      "keyword": "KT 이정훈 끝내기 안타",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "방신실, KLPGA 매치플레이 우승",
+      "rank": 5,
+      "keyword": "나무호 피격 입장 요구",
       "state": "+",
-      "change": "3"
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "멋진 신세계 최고 시청률",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "권오을, 5·18 전야 참석",
+      "keyword": "방신실, 우승 감사합니다!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "호텔 나오는 내고향여자축구단",
-      "state": "-",
-      "change": "3"
+      "keyword": "북한 여자축구팀 훈련출발",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "강남역 10주기 집회",
+      "keyword": "이하늘 곱창집 경찰 출동",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "오스틴 홈런 LG SSG 제압",
+      "keyword": "롯데, 7회 충격 실점",
       "state": "n",
       "change": "0"
     }
