@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-17T21:39:59.266Z",
+  "updatedAt": "2026-05-17T22:34:02.934Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "야닉 시너",
-      "traffic": "500+"
+      "keyword": "수학여행",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "barcelona vs real betis",
-      "traffic": "200+"
+      "keyword": "마키나락스",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "아크로리버파크",
+      "keyword": "김서현",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "이용식",
-      "traffic": "2000+"
+      "keyword": "헌법",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "상장폐지",
-      "traffic": "500+"
+      "keyword": "리사",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "상속",
-      "traffic": "200+"
+      "keyword": "농구",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "v-리그",
-      "traffic": "200+"
+      "keyword": "최준희",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "한국고속철도",
+      "keyword": "이태원 참사",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "민생지원금",
-      "traffic": "1000+"
+      "keyword": "말린스 대 레이스",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "스페이스x",
-      "traffic": "1000+"
+      "keyword": "대한민국 해양수산부",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프와 통화 논의",
-      "state": "s",
-      "change": "0"
+      "keyword": "한반도 비핵화 목표 동의",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 2,
+      "keyword": "호프 칸 시사회 출연진",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "트럼프·네타냐후 이란 공격 논의",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
       "keyword": "은밀한 감사",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "장동주 소속사 은퇴",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 4,
-      "keyword": "북한, U-17 여자 아시안컵 5번째 우승",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 5,
-      "keyword": "고윤정 구교환 포옹씬 감동적",
+      "keyword": "전군 남부국경 강화",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "전소민, 런닝맨 하차 후 카페 알바",
+      "keyword": "고유가피해지원금",
       "state": "-",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "삼성전자 노조 파업 계속해",
+      "keyword": "장동주 소속사 은퇴",
       "state": "-",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "고유가피해지원금",
+      "keyword": "최준희 결혼 밀착샷 공개",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "홍진경, 이혼 후 전남편·딸과 외식",
-      "state": "n",
-      "change": "0"
+      "keyword": "삼성전자 파업 임박",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "21세기 대군부인 논란과 기록",
+      "keyword": "변우석",
       "state": "+",
-      "change": "2"
+      "change": "18"
     }
   ]
 }
