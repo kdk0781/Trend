@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-18T20:02:54.231Z",
+  "updatedAt": "2026-05-18T21:22:18.188Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "arsenal vs burnley",
-      "traffic": "200+"
+      "keyword": "토트넘 홋스퍼 fc",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "파키스탄",
-      "traffic": "1000+"
+      "keyword": "lg화학",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "아스널 대 번리",
-      "traffic": "5000+"
+      "keyword": "버스",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "쓰레기 봉투",
+      "keyword": "한동훈",
       "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "김정원",
-      "traffic": "100+"
+      "keyword": "อาร์เซนอล พบ เบิร์นลีย์",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "제헌절",
-      "traffic": "100+"
+      "keyword": "arsenal đấu với burnley",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "집단 소송",
+      "keyword": "파키스탄",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "포스코퓨처엠",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "무소속",
+      "keyword": "arsenal vs burnley",
       "traffic": "1000+"
     },
     {
+      "rank": 9,
+      "keyword": "아스널 대 번리",
+      "traffic": "10000+"
+    },
+    {
       "rank": 10,
-      "keyword": "한국배구연맹",
-      "traffic": "200+"
+      "keyword": "쓰레기 봉투",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이은우 KTV 영장 청구",
-      "state": "+",
-      "change": "1"
+      "keyword": "트럼프 이란 공격 보류",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "칸 포토콜 호프 주역들",
-      "state": "+",
-      "change": "1"
+      "keyword": "고유가피해지원금",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "정용진 스타벅스 해임",
+      "keyword": "차가원 비밀 연애 폭로 가능성",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "허수아비",
+      "keyword": "신보라 둘째 건강 감사",
       "state": "+",
-      "change": "31"
+      "change": "7"
     },
     {
       "rank": 5,
-      "keyword": "MC몽 차가원 작은 아버지 비밀 연애 폭로",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "트럼프 이란 공격 보류",
-      "state": "n",
+      "keyword": "손흥민 LAFC 감독 한탄",
+      "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "고유가피해지원금",
+      "rank": 6,
+      "keyword": "MC몽 발치 논란 해명",
       "state": "-",
-      "change": "3"
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "카카오 노사 조정 연장",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "CJ 여직원 개인정보 유출",
-      "state": "-",
+      "keyword": "칸 손하트 날리는 조인성과 황정민",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "하정우 박민식 한동훈 접전",
-      "state": "n",
-      "change": "0"
+      "keyword": "이재명 대통령 안동 방문",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
       "keyword": "배그부부",
       "state": "-",
-      "change": "2"
+      "change": "1"
     }
   ]
 }
