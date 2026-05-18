@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-05-18T16:19:56.458Z",
+  "updatedAt": "2026-05-18T18:14:44.881Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "제헌절",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
       "keyword": "집단 소송",
       "traffic": "500+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "포스코퓨처엠",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "무소속",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "한국배구연맹",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "프로골퍼",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "경계 현",
       "traffic": "2000+"
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "keyword": "라면",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
       "keyword": "이요원",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "채무",
       "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "csk vs srh",
-      "traffic": "500+"
-    },
-    {
-      "rank": 10,
-      "keyword": "불꽃야구",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정용진, 스타벅스 대표 경질",
-      "state": "+",
-      "change": "2"
+      "keyword": "삼성전자 사후조정 종료",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "허수아비",
+      "keyword": "정용진 스타벅스 대표 해임",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "와일드 씽 강동원과 도전하는 웃음 가득한 이야기",
-      "state": "-",
-      "change": "2"
+      "keyword": "종합특검 이은우 KTV",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "출국하는 홍명보 감독",
-      "state": "+",
-      "change": "1"
+      "keyword": "칸 포토콜 호프 참석자들",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "MC몽 비밀 연애 폭로 가능성",
-      "state": "-",
-      "change": "1"
+      "keyword": "홍명보호 월드컵 출국!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "GTX 철근 누락 공방 확대",
-      "state": "n",
+      "keyword": "MC몽 성매매 의혹 폭로",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "종합특검 이은우 KTV",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "삼성전자 2차 조정 종료",
-      "state": "n",
+      "keyword": "이란 새 종전안 미국 전달",
+      "state": "s",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "CJ그룹 여직원 정보 유출",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "사후조정 회의 마친 최승호",
+      "keyword": "한동훈 초생 질문 답변",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "롯데렌탈 매각 중단",
-      "state": "n",
+      "keyword": "와일드 씽 강동원 이유 있는 도전!",
+      "state": "s",
       "change": "0"
     }
   ]
