@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-18T22:31:14.171Z",
+  "updatedAt": "2026-05-18T23:40:40.987Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "앤 트로픽",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "schd",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "mu",
+      "keyword": "지 창욱",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "거래소",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "포스코 퓨처 엠",
+      "traffic": "500+"
+    },
+    {
       "rank": 4,
-      "keyword": "손흥민",
-      "traffic": "20000+"
+      "keyword": "조진웅",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "골프",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "필라델피아 반도체 지수",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "ionq",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "나스닥 100",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "nvda",
+      "keyword": "라민 야말",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "마레스카",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "날씨",
+      "traffic": "50000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "테슬라 모델 y",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "арсенал – бернли",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "김도영",
+      "keyword": "대형주",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프, 이란 공격 보류",
-      "state": "+",
-      "change": "1"
+      "keyword": "고유가피해지원금",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "허수아비",
-      "state": "-",
+      "keyword": "최주원과 결혼한 순자",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "MC몽 차가원 불륜 의혹",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "고유가피해지원금",
+      "keyword": "허수아비 OST 곽선영이 부른다",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "심현섭 시험관 실패",
-      "state": "n",
+      "rank": 4,
+      "keyword": "트럼프 이란 공격 보류",
+      "state": "s",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "김민종, MC몽 폭로에 입 열어",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 6,
-      "keyword": "손흥민 LAFC 감독 우려",
-      "state": "s",
+      "keyword": "22년 만의 우승 코앞 아스널!",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "북한, 일본 꺾고 우승",
-      "state": "n",
-      "change": "0"
+      "keyword": "정용진 회장, 스타벅스 대표 해임",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "배그부부",
-      "state": "s",
-      "change": "0"
+      "keyword": "호프 황정민, 칸 포토콜 참석",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "유재석, 최준희에 축의금 전달",
-      "state": "n",
-      "change": "0"
+      "keyword": "배그부부",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "푸틴 시진핑 20일 정상회담",
+      "keyword": "유재석, 최준희 축의금 전달",
       "state": "n",
       "change": "0"
     }
