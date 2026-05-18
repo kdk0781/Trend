@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-18T09:43:56.305Z",
+  "updatedAt": "2026-05-18T12:56:31.075Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "철도",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "진",
+      "keyword": "아랏쏘 김진성",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "노머스",
+      "traffic": "200+"
+    },
+    {
       "rank": 3,
-      "keyword": "교도관",
-      "traffic": "500+"
+      "keyword": "엘앤에프",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "국립산림과학원",
-      "traffic": "200+"
+      "keyword": "에버랜드",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "국제선",
-      "traffic": "200+"
+      "keyword": "이자",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "황연주",
-      "traffic": "1000+"
+      "keyword": "cbc뉴스",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "예금",
-      "traffic": "10000+"
+      "keyword": "디에고 시메오네",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "한지민",
+      "keyword": "김보미",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "진성",
-      "traffic": "5000+"
+      "keyword": "설악산",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "앙투안 그리즈만",
-      "traffic": "1000+"
+      "keyword": "도둑",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "와일드 씽 강동원과 코미디 도전",
+      "keyword": "MC몽, 오늘 라이브 방송 개최",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "출국하는 홍명보 감독",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "롯데, 어피니티와 매각 중단",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "빅뱅 태양 20주년 앨범 컴백",
+      "keyword": "탱크데이 논란 스타벅스 대표 해임",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 5,
-      "keyword": "GTX 철근 누락 논란",
-      "state": "-",
+      "rank": 3,
+      "keyword": "고유가피해지원금",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "삼성전자 노사 2차 조정 미진",
+      "state": "+",
       "change": "1"
     },
     {
+      "rank": 5,
+      "keyword": "종합특검 이은우 KTV",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "탱크데이 스타벅스 이벤트에",
+      "keyword": "붉은 진주",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "삼성전자 노사 평행선 지속",
-      "state": "n",
+      "keyword": "엠씨몽",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이재명, 남광주 방문",
-      "state": "n",
+      "keyword": "허수아비",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "가천대 길병원 중증응급병원",
-      "state": "n",
-      "change": "0"
+      "keyword": "오정세와 와일드 씽",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 10,
-      "keyword": "정혜성, 나솔사계 MC 합류",
+      "keyword": "신림역 보조배터리 연기 발생",
       "state": "n",
       "change": "0"
     }
