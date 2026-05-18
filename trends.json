@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-18T05:52:15.327Z",
+  "updatedAt": "2026-05-18T09:43:56.305Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "키보토스 런",
-      "traffic": "200+"
+      "keyword": "철도",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "pga 챔피언십",
-      "traffic": "200+"
+      "keyword": "진",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "한다감",
-      "traffic": "200+"
+      "keyword": "교도관",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "제주반도체",
+      "keyword": "국립산림과학원",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "삼성 전자 파업",
-      "traffic": "50000+"
+      "keyword": "국제선",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "에너지",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "카카오모빌리티",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "scotland vs nepal",
+      "keyword": "황연주",
       "traffic": "1000+"
     },
     {
-      "rank": 9,
-      "keyword": "송가인",
+      "rank": 7,
+      "keyword": "예금",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "한지민",
       "traffic": "200+"
     },
     {
+      "rank": 9,
+      "keyword": "진성",
+      "traffic": "5000+"
+    },
+    {
       "rank": 10,
-      "keyword": "토지거래허가제",
-      "traffic": "200+"
+      "keyword": "앙투안 그리즈만",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 대통령 옛 전남도청 방문",
-      "state": "n",
-      "change": "0"
+      "keyword": "와일드 씽 강동원과 코미디 도전",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "엄지영 애국가",
-      "state": "s",
+      "keyword": "출국하는 홍명보 감독",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "고유가피해지원금",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "종합특검 국정원 직원 입건",
+      "keyword": "롯데, 어피니티와 매각 중단",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "오세훈 후보와 의원",
+      "rank": 4,
+      "keyword": "빅뱅 태양 20주년 앨범 컴백",
       "state": "+",
-      "change": "3"
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "GTX 철근 누락 논란",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "MC몽 불법도박 폭로 방송",
+      "keyword": "탱크데이 스타벅스 이벤트에",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "하이닉스 주가 460원",
-      "state": "-",
-      "change": "1"
+      "keyword": "삼성전자 노사 평행선 지속",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "삼성전자 사후조정 진행",
+      "keyword": "이재명, 남광주 방문",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "라이 PGA 챔피언십 정상",
-      "state": "s",
+      "keyword": "가천대 길병원 중증응급병원",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "은밀한 감사",
-      "state": "+",
-      "change": "1"
+      "keyword": "정혜성, 나솔사계 MC 합류",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
