@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-18T12:56:31.075Z",
+  "updatedAt": "2026-05-18T16:19:56.458Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "아랏쏘 김진성",
-      "traffic": "100+"
+      "keyword": "집단 소송",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "노머스",
+      "keyword": "포스코퓨처엠",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "엘앤에프",
-      "traffic": "200+"
+      "keyword": "무소속",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "에버랜드",
-      "traffic": "2000+"
+      "keyword": "한국배구연맹",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "이자",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "cbc뉴스",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "디에고 시메오네",
+      "keyword": "프로골퍼",
       "traffic": "100+"
     },
     {
-      "rank": 8,
-      "keyword": "김보미",
+      "rank": 6,
+      "keyword": "경계 현",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "이요원",
       "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "채무",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "설악산",
-      "traffic": "200+"
+      "keyword": "csk vs srh",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "도둑",
-      "traffic": "500+"
+      "keyword": "불꽃야구",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "MC몽, 오늘 라이브 방송 개최",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "탱크데이 논란 스타벅스 대표 해임",
+      "keyword": "정용진, 스타벅스 대표 경질",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 3,
-      "keyword": "고유가피해지원금",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "삼성전자 노사 2차 조정 미진",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "종합특검 이은우 KTV",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "붉은 진주",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "엠씨몽",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
+      "rank": 2,
       "keyword": "허수아비",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "오정세와 와일드 씽",
+      "rank": 3,
+      "keyword": "와일드 씽 강동원과 도전하는 웃음 가득한 이야기",
       "state": "-",
-      "change": "4"
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "출국하는 홍명보 감독",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "MC몽 비밀 연애 폭로 가능성",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "GTX 철근 누락 공방 확대",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "종합특검 이은우 KTV",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "삼성전자 2차 조정 종료",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "사후조정 회의 마친 최승호",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "신림역 보조배터리 연기 발생",
+      "keyword": "롯데렌탈 매각 중단",
       "state": "n",
       "change": "0"
     }
