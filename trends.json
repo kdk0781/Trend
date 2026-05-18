@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-17T23:35:30.494Z",
+  "updatedAt": "2026-05-18T01:31:35.989Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "라리가",
-      "traffic": "200+"
+      "keyword": "사이드카",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "변호사",
-      "traffic": "100+"
+      "keyword": "국립중앙박물관",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "치어리더",
+      "keyword": "국민카드",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "톰 크루즈",
-      "traffic": "500+"
+      "keyword": "비씨카드",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "페데리코 발베르데",
+      "keyword": "inter miami vs portland",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "전통주",
-      "traffic": "100+"
+      "keyword": "디트로이트 대 클리블랜드",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "대부업",
+      "keyword": "김미려",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "그리즈만",
-      "traffic": "100+"
+      "keyword": "대만",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "barcelona vs betis",
-      "traffic": "100+"
+      "keyword": "스페이스x 상장일",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "랄랄",
-      "traffic": "2000+"
+      "keyword": "첼시 fc",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "전군 남부국경 강화",
-      "state": "n",
+      "keyword": "고유가피해지원금",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "호프 칸 시사회 참석자들",
+      "keyword": "1분기 매출 증가율",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "트럼프 이란 공격 재개 논의",
+      "keyword": "코스피 매도 사이드카 발동",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이강인 리그1 교체출전",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "최준희, 루머에 대분노",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "김혜성 멀티히트 다저스 대승",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "제로베이스원 앤더블 응원 경쟁",
+      "keyword": "하이닉스 주가 40만% 수익률",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "노동권과 경영권 존중해야",
+      "state": "+",
+      "change": "5"
+    },
+    {
+      "rank": 6,
+      "keyword": "이재욱 오늘 입대해요",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "라이, PGA 챔피언십 제패",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "이재욱 오늘 건강히 입대",
-      "state": "n",
-      "change": "0"
+      "keyword": "김미려·김아영·허순미 진품명품 출격",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "황희찬 2개월만에 공격 포인트!",
-      "state": "n",
-      "change": "0"
+      "keyword": "기아, 2027 모닝 출시",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 10,
-      "keyword": "21세기 대군부인 논란",
-      "state": "+",
-      "change": "5"
+      "keyword": "송언석 기자간담회",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
