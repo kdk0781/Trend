@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-18T18:14:44.881Z",
+  "updatedAt": "2026-05-18T20:02:54.231Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "arsenal vs burnley",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
+      "keyword": "파키스탄",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "아스널 대 번리",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "쓰레기 봉투",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "김정원",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
       "keyword": "제헌절",
       "traffic": "100+"
     },
     {
-      "rank": 2,
+      "rank": 7,
       "keyword": "집단 소송",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
-      "rank": 3,
+      "rank": 8,
       "keyword": "포스코퓨처엠",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "keyword": "무소속",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
+      "rank": 10,
       "keyword": "한국배구연맹",
       "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "프로골퍼",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "경계 현",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "라면",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "이요원",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "채무",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "삼성전자 사후조정 종료",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "정용진 스타벅스 대표 해임",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "종합특검 이은우 KTV",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "칸 포토콜 호프 참석자들",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "홍명보호 월드컵 출국!",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "MC몽 성매매 의혹 폭로",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "이란 새 종전안 미국 전달",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "CJ그룹 여직원 정보 유출",
+      "keyword": "이은우 KTV 영장 청구",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 2,
+      "keyword": "칸 포토콜 호프 주역들",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "정용진 스타벅스 해임",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "허수아비",
+      "state": "+",
+      "change": "31"
+    },
+    {
+      "rank": 5,
+      "keyword": "MC몽 차가원 작은 아버지 비밀 연애 폭로",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "트럼프 이란 공격 보류",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "고유가피해지원금",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 8,
+      "keyword": "CJ 여직원 개인정보 유출",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "한동훈 초생 질문 답변",
+      "keyword": "하정우 박민식 한동훈 접전",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "와일드 씽 강동원 이유 있는 도전!",
-      "state": "s",
-      "change": "0"
+      "keyword": "배그부부",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
