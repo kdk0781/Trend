@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-19T20:02:01.631Z",
+  "updatedAt": "2026-05-19T21:41:31.409Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "첼시",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "쿠팡플레이",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "맨시티",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "bournemouth vs man city",
+      "keyword": "두산에너 빌리티",
       "traffic": "500+"
     },
     {
+      "rank": 2,
+      "keyword": "เชลซี พบ สเปอร์ส",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "프리미어리그",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "폴리아나 비아나",
+      "traffic": "200+"
+    },
+    {
       "rank": 5,
-      "keyword": "첼시 대 토트넘",
-      "traffic": "10000+"
+      "keyword": "김도영",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "man city",
-      "traffic": "100+"
+      "keyword": "소형모듈원자로",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "붕어",
+      "keyword": "철근",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "본머스",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "antigravity",
+      "keyword": "첫 번째 남자",
       "traffic": "200+"
     },
     {
+      "rank": 9,
+      "keyword": "weather today",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "탐지견",
+      "keyword": "부산날씨",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "삼성전자 노사, 오전 10시 협상 재개",
+      "keyword": "삼성전자 노사 10시 협상 재개",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김웅빈 끝내기 홈런 축하받아",
+      "keyword": "곽선영, 허수아비 OST 부른다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "최승호 위원장 입장 발표",
+      "keyword": "트럼프 이란 공격 보류",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 4,
-      "keyword": "허수아비 OST 곽선영 부른다",
+      "keyword": "최승호 위원장 입장 발표",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "박위 송지은 결혼 신혼집 공개",
+      "keyword": "박위♥송지은, 배변 도움 없이 독립적 생활",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "트럼프, 이란 공격 보류",
-      "state": "s",
-      "change": "0"
+      "keyword": "월드컵 명단 발표",
+      "state": "+",
+      "change": "9"
     },
     {
       "rank": 7,
-      "keyword": "양의지 통산 2000안타",
+      "keyword": "MC몽 2차 폭로 시작",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이재명 만찬사",
-      "state": "+",
-      "change": "5"
+      "keyword": "히든싱어 8",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "스님과 손님 인도 여행",
+      "keyword": "합의이행 실무그룹 출범",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김연주 교수 임용",
-      "state": "n",
-      "change": "0"
+      "keyword": "취사병 전설이 되다",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
