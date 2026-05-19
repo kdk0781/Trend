@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-19T05:52:55.290Z",
+  "updatedAt": "2026-05-19T09:29:31.885Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "세무조사",
+      "keyword": "외환시장",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "박세영",
-      "traffic": "1000+"
+      "keyword": "인구 감소",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "놀",
+      "keyword": "수사",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "소유",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "롯데콘서트홀",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "주영달",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "실책",
+      "keyword": "김지민",
       "traffic": "1000+"
     },
     {
+      "rank": 5,
+      "keyword": "불법 무기",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "해상 작전 헬기",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "브로드컴",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "류호정",
+      "keyword": "신입 사원 강 회장",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "다카이치",
-      "traffic": "200+"
+      "keyword": "야니스 아데토쿤보",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "어린이날",
-      "traffic": "5000+"
+      "keyword": "비",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명, 다카이치 총리 영접",
+      "keyword": "퐁피두센터 개관 행사",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "나나 자택 침입 10년 구형",
-      "state": "n",
-      "change": "0"
+      "keyword": "한일 정상 외교",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "고유가피해지원금",
-      "state": "s",
-      "change": "0"
+      "keyword": "최주원 배우",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "오세훈 후보 유세 차량",
-      "state": "n",
-      "change": "0"
+      "keyword": "훈련하는 내고향축구단 선수들",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "대군부인 감독 아이유와 변우석 논란",
-      "state": "s",
-      "change": "0"
+      "keyword": "나는 솔로 14기 순자",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "이정후 허리 경련 교체",
+      "keyword": "최태성, 아이유·변우석에 사과",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "차가원 성매매 의혹",
+      "keyword": "고유가피해지원금",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "평택을 후보 조국 김용남",
-      "state": "s",
-      "change": "0"
+      "keyword": "곽선영, 박해수 OST 허수아비 부른다",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "곽선영, 허수아비 OST 부른다",
-      "state": "s",
-      "change": "0"
+      "keyword": "윤호중 장관 위촉장 수여",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "경찰, 스쿨존 속도 완화 추진",
+      "keyword": "사제총기로 아들 살해 60대 무기징역",
       "state": "n",
       "change": "0"
     }
