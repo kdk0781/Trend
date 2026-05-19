@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-19T01:49:07.510Z",
+  "updatedAt": "2026-05-19T05:52:55.290Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "nh농협카드",
-      "traffic": "100+"
+      "keyword": "세무조사",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "프로 골퍼",
-      "traffic": "500+"
+      "keyword": "박세영",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "국가유산",
-      "traffic": "100+"
+      "keyword": "놀",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "오클라호마시티 대 샌안토니오",
+      "keyword": "소유",
       "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "나나",
-      "traffic": "1000+"
+      "keyword": "롯데콘서트홀",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "오만석",
-      "traffic": "1000+"
+      "keyword": "주영달",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "나솔사계",
+      "keyword": "실책",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "나이스",
+      "keyword": "류호정",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "학교",
+      "keyword": "다카이치",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "태국",
-      "traffic": "100+"
+      "keyword": "어린이날",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "MC몽, 차가원 삼촌 성매매 혐의",
+      "keyword": "이재명, 다카이치 총리 영접",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "정용진 스타벅스 사과 통감",
-      "state": "s",
+      "keyword": "나나 자택 침입 10년 구형",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "송일국 아내, 딸 자랑에 부러워",
+      "keyword": "고유가피해지원금",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김민종, MC몽 허위사실 대응",
-      "state": "s",
+      "keyword": "오세훈 후보 유세 차량",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "정원오 유세차량 제작 중",
-      "state": "n",
+      "keyword": "대군부인 감독 아이유와 변우석 논란",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "네이마르 월드컵 명단 확정",
-      "state": "+",
-      "change": "2"
+      "keyword": "이정후 허리 경련 교체",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "한병도 원내대표 발언",
-      "state": "n",
+      "keyword": "차가원 성매매 의혹",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "코스피 하락 시작",
-      "state": "+",
-      "change": "1"
+      "keyword": "평택을 후보 조국 김용남",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "런던 한국경제 투자설명회",
-      "state": "n",
+      "keyword": "곽선영, 허수아비 OST 부른다",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "대군부인 동북공정 빌미 제공",
+      "keyword": "경찰, 스쿨존 속도 완화 추진",
       "state": "n",
       "change": "0"
     }
