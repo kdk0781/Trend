@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-19T15:56:02.958Z",
+  "updatedAt": "2026-05-19T18:00:54.515Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "박준일",
-      "traffic": "200+"
+      "keyword": "부산 날씨",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "세계일보",
-      "traffic": "500+"
+      "keyword": "박지성",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "두산 로보틱스",
-      "traffic": "200+"
+      "keyword": "곽튜브",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "김채원",
+      "keyword": "아이온2",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "건강보험",
-      "traffic": "1000+"
+      "keyword": "정연",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "lsg vs rr",
-      "traffic": "500+"
+      "keyword": "박준일",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "네이마르",
-      "traffic": "500+"
+      "keyword": "세계일보",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "에테르노 청담",
-      "traffic": "100+"
+      "keyword": "두산 로보틱스",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "장미",
+      "keyword": "김채원",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "박위",
-      "traffic": "1000+"
+      "keyword": "lsg vs rr",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "퐁피두센터 한화 6월 개관",
+      "keyword": "삼성전자 노사, 오전 10시 재개",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "한일 공급망 협력 강화",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "이재명 대통령 만찬사",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "삼성전자 합의 조정안",
+      "keyword": "최승호 위원장 입장 발표",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "김웅빈 끝내기 홈런 축하받아",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "대군부인 작가 사과",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 5,
-      "keyword": "21세기 대군부인 작가",
+      "keyword": "최민석 두산 3연승 달성",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "김원형 감독의 승리 축하!",
+      "keyword": "허수아비 OST 곽선영 부른다",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "한일 정상, 긴밀 협력 필요성 증가",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "트럼프, 이란 공격 보류",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "박위♥송지은 신혼집 공개",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "허수아비 감성 OST 공개",
+      "rank": 10,
+      "keyword": "찬스 살린 1타점",
       "state": "-",
       "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "MC몽, 김민종 돈으로 폭로",
-      "state": "+",
-      "change": "7"
-    },
-    {
-      "rank": 9,
-      "keyword": "스타벅스 탱크데이 논란 확대",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 10,
-      "keyword": "히든싱어 8",
-      "state": "n",
-      "change": "0"
     }
   ]
 }
