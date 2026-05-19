@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-19T12:25:51.435Z",
+  "updatedAt": "2026-05-19T15:56:02.958Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "르노",
+      "keyword": "박준일",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "무리뉴",
-      "traffic": "1000+"
+      "keyword": "세계일보",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "박덕흠",
+      "keyword": "두산 로보틱스",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "송미령",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "상장",
+      "keyword": "김채원",
       "traffic": "500+"
     },
     {
-      "rank": 6,
-      "keyword": "엔비디아 실적발표",
+      "rank": 5,
+      "keyword": "건강보험",
       "traffic": "1000+"
     },
     {
+      "rank": 6,
+      "keyword": "lsg vs rr",
+      "traffic": "500+"
+    },
+    {
       "rank": 7,
-      "keyword": "삼성중공업",
-      "traffic": "10000+"
+      "keyword": "네이마르",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "중국",
-      "traffic": "2000+"
+      "keyword": "에테르노 청담",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "박찬대",
-      "traffic": "2000+"
+      "keyword": "장미",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "박성광",
-      "traffic": "100+"
+      "keyword": "박위",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "삼성전자 조정안 제시",
+      "keyword": "퐁피두센터 한화 6월 개관",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "훈련하는 북한 축구단 선수들",
-      "state": "s",
-      "change": "0"
+      "keyword": "한일 공급망 협력 강화",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "대군부인 작가 사과",
+      "keyword": "이재명 대통령 만찬사",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "허수아비 OST 곽선영 부른다",
-      "state": "s",
+      "keyword": "삼성전자 합의 조정안",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "SSG 선발 타케다의 승리 도전",
+      "keyword": "21세기 대군부인 작가",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "김원형 감독의 승리 축하!",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "첫 번째 남자",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 7,
-      "keyword": "박수근 위원장 취재진 답변",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 8,
-      "keyword": "한일 원유 스와프 추진",
+      "keyword": "허수아비 감성 OST 공개",
       "state": "-",
       "change": "2"
     },
     {
+      "rank": 8,
+      "keyword": "MC몽, 김민종 돈으로 폭로",
+      "state": "+",
+      "change": "7"
+    },
+    {
       "rank": 9,
-      "keyword": "경복궁 처용무 공연",
-      "state": "s",
+      "keyword": "스타벅스 탱크데이 논란 확대",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "고소영 장동건과 결별",
+      "keyword": "히든싱어 8",
       "state": "n",
       "change": "0"
     }
