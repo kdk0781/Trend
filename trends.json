@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-19T09:29:31.885Z",
+  "updatedAt": "2026-05-19T12:25:51.435Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "외환시장",
+      "keyword": "르노",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "인구 감소",
-      "traffic": "500+"
+      "keyword": "무리뉴",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "수사",
+      "keyword": "박덕흠",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "김지민",
-      "traffic": "1000+"
+      "keyword": "송미령",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "불법 무기",
-      "traffic": "100+"
+      "keyword": "상장",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "해상 작전 헬기",
+      "keyword": "엔비디아 실적발표",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "브로드컴",
-      "traffic": "200+"
+      "keyword": "삼성중공업",
+      "traffic": "10000+"
     },
     {
       "rank": 8,
-      "keyword": "신입 사원 강 회장",
-      "traffic": "200+"
+      "keyword": "중국",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "야니스 아데토쿤보",
-      "traffic": "100+"
+      "keyword": "박찬대",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "비",
-      "traffic": "500+"
+      "keyword": "박성광",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "퐁피두센터 개관 행사",
+      "keyword": "삼성전자 조정안 제시",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "한일 정상 외교",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "최주원 배우",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "훈련하는 내고향축구단 선수들",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "나는 솔로 14기 순자",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "최태성, 아이유·변우석에 사과",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "고유가피해지원금",
+      "keyword": "훈련하는 북한 축구단 선수들",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "곽선영, 박해수 OST 허수아비 부른다",
+      "rank": 3,
+      "keyword": "대군부인 작가 사과",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "허수아비 OST 곽선영 부른다",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "SSG 선발 타케다의 승리 도전",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "첫 번째 남자",
       "state": "+",
       "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "박수근 위원장 취재진 답변",
+      "state": "+",
+      "change": "5"
+    },
+    {
+      "rank": 8,
+      "keyword": "한일 원유 스와프 추진",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "윤호중 장관 위촉장 수여",
-      "state": "+",
-      "change": "1"
+      "keyword": "경복궁 처용무 공연",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "사제총기로 아들 살해 60대 무기징역",
+      "keyword": "고소영 장동건과 결별",
       "state": "n",
       "change": "0"
     }
