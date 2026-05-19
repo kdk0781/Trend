@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-19T22:49:28.604Z",
+  "updatedAt": "2026-05-19T23:47:43.049Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "날씨",
-      "traffic": "500000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "중사",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "체험학습",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "天気",
+      "keyword": "일기예보",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "마키나락스",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "유재석",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "문근영",
+      "traffic": "200+"
+    },
+    {
       "rank": 5,
-      "keyword": "weather",
-      "traffic": "2000+"
+      "keyword": "thứ hạng của chelsea gặp tottenham",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "борнмут – манчестер сити",
+      "keyword": "대한민국 통일부",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "liga inggris",
+      "keyword": "천궁",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "폴리 아나 비아나",
-      "traffic": "2000+"
+      "keyword": "apple sports",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "엔비디아 실적",
-      "traffic": "200+"
+      "keyword": "박준병",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "카스페르 루드",
-      "traffic": "100+"
+      "keyword": "nvda",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "삼성전자 노사 10시 협상 재개",
+      "keyword": "허수아비 OST 곽선영이 부른다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "곽선영, 허수아비 OST 부른다",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "트럼프 이란 공격 보류",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "최승호 위원장 입장 밝힘",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "박위, 송지은 도움 없이 스스로 배변한다",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "아스널 EPL 22년 만에 우승!",
+      "keyword": "삼성전자 노사 오전 담판",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "히든싱어 8",
-      "state": "+",
-      "change": "6"
+      "rank": 3,
+      "keyword": "아스널, 22년 만에 우승 확정!",
+      "state": "-",
+      "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "합의이행 실무그룹 출범",
+      "rank": 4,
+      "keyword": "방탄소년단 빌보드 글로벌",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "스타벅스 탱크데이 질타",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "스타벅스 사과 사건",
+      "rank": 6,
+      "keyword": "토트넘 사랑해!",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "인터뷰하는 이광재 후보",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "정용진 오너리스크 멸공 사태",
       "state": "+",
       "change": "5"
     },
     {
-      "rank": 10,
-      "keyword": "MC몽, 2차 폭로 시작",
+      "rank": 9,
+      "keyword": "히든싱어 8",
       "state": "-",
       "change": "3"
+    },
+    {
+      "rank": 10,
+      "keyword": "뉴욕증시 하락",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
