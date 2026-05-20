@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-20T15:59:16.906Z",
+  "updatedAt": "2026-05-20T18:21:18.131Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "현대건설",
-      "traffic": "500+"
+      "keyword": "선우용여",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "로이킴",
-      "traffic": "100+"
+      "keyword": "우원식",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "mi vs kkr",
+      "keyword": "서브노티카 2",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "존 존스",
-      "traffic": "100+"
+      "keyword": "생존왕 2",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "블라인드",
-      "traffic": "1000+"
+      "keyword": "정우성",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "법륜",
+      "keyword": "금리",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "한로로",
-      "traffic": "1000+"
+      "keyword": "현대건설",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "김세의",
+      "keyword": "로이킴",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "sbs",
-      "traffic": "200+"
+      "keyword": "mi vs kkr",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "이석연",
-      "traffic": "200+"
+      "keyword": "존 존스",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "삼성전자 노사 잠정 합의",
+      "keyword": "삼성전자 총파업 유보",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "나는 솔로",
+      "keyword": "수원FC 위민 1-2 패배",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "수원FC 내고향 亞4강 대결",
-      "state": "s",
+      "keyword": "작전 지시하는 감독",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "전지현 군체, 칸에서 환대받다.",
-      "state": "s",
-      "change": "0"
+      "keyword": "오세훈 후보, 상인과 만남",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "내고향여자축구단 리유일 감독",
+      "keyword": "경수, 영숙에 흔들린 순자",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "철근 누락 논란",
-      "state": "n",
-      "change": "0"
+      "keyword": "기뻐하는 내고향 선수들",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "이다해 결혼 임신 소식",
-      "state": "s",
-      "change": "0"
+      "keyword": "이다해·세븐, 결혼 3년 만에 부모",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "페널티킥 아쉬워하는 지소연",
-      "state": "s",
-      "change": "0"
+      "keyword": "시진핑, 내주 북한 방문",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "성리 탑10 디너쇼 개최",
-      "state": "+",
+      "keyword": "김현영 여신 미소",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "두나무 지분 추가 확보",
-      "state": "-",
-      "change": "1"
+      "keyword": "박길영 감독",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
