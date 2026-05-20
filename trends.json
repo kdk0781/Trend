@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-20T06:00:25.482Z",
+  "updatedAt": "2026-05-20T09:52:21.148Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "박군",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "카카오 파업",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "sk텔레콤",
+      "keyword": "방탄소년단",
       "traffic": "2000+"
     },
     {
+      "rank": 2,
+      "keyword": "오늘도 매진했습니다",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "여자축구 중계",
+      "traffic": "500+"
+    },
+    {
       "rank": 4,
-      "keyword": "던파",
-      "traffic": "1000+"
+      "keyword": "학생",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "리테일",
-      "traffic": "500+"
+      "keyword": "mlb",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "scotland vs usa",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "시리아",
+      "keyword": "상계관세",
       "traffic": "100+"
     },
     {
-      "rank": 8,
-      "keyword": "셀트리온",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "지젤",
+      "rank": 7,
+      "keyword": "바우어",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "lig 디펜스&에어로스페이스",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "한국거래소",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "방시혁",
+      "keyword": "gh",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "삼성전자 노 사협상 결렬",
+      "keyword": "전지현 클로즈업 당연해",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "GTX 철근 누락 문제",
-      "state": "s",
+      "keyword": "삼성전자 총파업 위험",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "카카오 노조 5개 법인 파업",
-      "state": "s",
-      "change": "0"
+      "keyword": "향하는 북한 내고향여자축구단",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 4,
-      "keyword": "이재명 대통령 발언",
+      "keyword": "한화투자증권, 두나무 지분 추가",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "황정음 유튜브 복귀",
-      "state": "n",
-      "change": "0"
+      "keyword": "하이닉스 목표 주가 320만",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "오세훈 서울시장 후보",
+      "keyword": "잠실 경기 우천 취소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김혜성 무안타 송성문 대수비",
+      "keyword": "경기도 반도체 산업 기자회견",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "허수아비 시청률 8% 경신",
+      "keyword": "취사병 전설이 되다",
       "state": "+",
-      "change": "8"
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "밀가루 담합 과징금 6710억",
-      "state": "-",
-      "change": "3"
+      "keyword": "허수아비 시청률 최고 경신",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "GTX 보고",
+      "keyword": "韓 유조선 호르무즈 탈출",
       "state": "n",
       "change": "0"
     }
