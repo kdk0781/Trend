@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-05-20T18:21:18.131Z",
+  "updatedAt": "2026-05-20T20:33:15.079Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "선우용여",
-      "traffic": "200+"
+      "keyword": "재혼",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "우원식",
+      "keyword": "조세",
       "traffic": "200+"
     },
     {
       "rank": 3,
+      "keyword": "sc 프라이부르크 대 애스턴 빌라",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "공화당",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "선우용여",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "우원식",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "이루 네",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
       "keyword": "서브노티카 2",
       "traffic": "200+"
     },
     {
-      "rank": 4,
-      "keyword": "생존왕 2",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "정우성",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "금리",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "현대건설",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "로이킴",
-      "traffic": "200+"
-    },
-    {
       "rank": 9,
-      "keyword": "mi vs kkr",
+      "keyword": "생존왕 2",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "존 존스",
+      "keyword": "정우성",
       "traffic": "100+"
     }
   ],
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "수원FC 위민 1-2 패배",
-      "state": "s",
+      "keyword": "오세훈 후보 가락시장 방문",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "작전 지시하는 감독",
+      "keyword": "수원FC 위민 응원 부탁해요",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "오세훈 후보, 상인과 만남",
-      "state": "-",
-      "change": "1"
+      "keyword": "31기 경수 악플 각오",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "경수, 영숙에 흔들린 순자",
-      "state": "+",
-      "change": "1"
+      "keyword": "승리 환호하는 내고향축구단",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "기뻐하는 내고향 선수들",
-      "state": "+",
-      "change": "2"
+      "keyword": "지소연, PK 실축 사과",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "이다해·세븐, 결혼 3년 만에 부모",
-      "state": "-",
-      "change": "2"
+      "keyword": "정연 사라질까 무서웠다",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "시진핑, 내주 북한 방문",
-      "state": "-",
-      "change": "1"
+      "keyword": "조병현 이틀 연속 무너짐",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김현영 여신 미소",
+      "keyword": "나는 솔로",
       "state": "-",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "박길영 감독",
-      "state": "n",
-      "change": "0"
+      "keyword": "김현영 미소 여신",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
