@@ -1,117 +1,56 @@
 {
-  "updatedAt": "2026-05-19T23:47:43.049Z",
+  "updatedAt": "2026-05-20T01:50:40.218Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "일기예보",
-      "traffic": "100+"
+      "keyword": "한국장학재단",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "마키나락스",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "유재석",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "문근영",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "thứ hạng của chelsea gặp tottenham",
+      "keyword": "인천일보",
       "traffic": "500+"
     },
     {
-      "rank": 6,
-      "keyword": "대한민국 통일부",
+      "rank": 3,
+      "keyword": "창신메모리테크놀로지",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "조권",
       "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "cgv",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "앙골라",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "천궁",
-      "traffic": "100+"
+      "keyword": "이혼 소송",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "apple sports",
+      "keyword": "고유가피해지원금 대상",
       "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "박준병",
-      "traffic": "100+"
+      "keyword": "whatsapp",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "nvda",
-      "traffic": "500+"
+      "keyword": "대암산 용늪",
+      "traffic": "2000+"
     }
   ],
-  "domestic": [
-    {
-      "rank": 1,
-      "keyword": "허수아비 OST 곽선영이 부른다",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "삼성전자 노사 오전 담판",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "아스널, 22년 만에 우승 확정!",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "방탄소년단 빌보드 글로벌",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "스타벅스 탱크데이 질타",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "토트넘 사랑해!",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "인터뷰하는 이광재 후보",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "정용진 오너리스크 멸공 사태",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 9,
-      "keyword": "히든싱어 8",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 10,
-      "keyword": "뉴욕증시 하락",
-      "state": "n",
-      "change": "0"
-    }
-  ]
+  "domestic": []
 }
