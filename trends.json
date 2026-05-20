@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-20T12:16:31.194Z",
+  "updatedAt": "2026-05-20T15:59:16.906Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "금양",
-      "traffic": "2000+"
+      "keyword": "현대건설",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "서장훈의 이웃집 백만장자",
+      "keyword": "로이킴",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "이다해",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "노래방 살인사건",
+      "keyword": "mi vs kkr",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "존 존스",
+      "traffic": "100+"
+    },
+    {
       "rank": 5,
-      "keyword": "kg모빌리티",
-      "traffic": "500+"
+      "keyword": "블라인드",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "청년주택",
+      "keyword": "법륜",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "창원시",
-      "traffic": "100+"
+      "keyword": "한로로",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "ioi",
+      "keyword": "김세의",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "kbs",
-      "traffic": "100+"
+      "keyword": "sbs",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "내고향여자축구단",
-      "traffic": "5000+"
+      "keyword": "이석연",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이다해♥세븐, 결혼 3년 만에 부모 됨",
+      "keyword": "삼성전자 노사 잠정 합의",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "첫 번째 남자",
+      "keyword": "나는 솔로",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "한국 유조선 호르무즈 통과",
+      "keyword": "수원FC 내고향 亞4강 대결",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "리유일 감독 작전 지시",
+      "keyword": "전지현 군체, 칸에서 환대받다.",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "수원FC 북한 팀 결승 도전",
-      "state": "n",
-      "change": "0"
+      "keyword": "내고향여자축구단 리유일 감독",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "허수아비 시청률 경신",
-      "state": "+",
-      "change": "1"
+      "keyword": "철근 누락 논란",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "울산시장 후보 단일화 토론회",
-      "state": "-",
-      "change": "1"
+      "keyword": "이다해 결혼 임신 소식",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "하루히 스즈키 골!",
+      "keyword": "페널티킥 아쉬워하는 지소연",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "성리 탑10 디너쇼 개최",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "주가조작 포상 상한 폐지",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 10,
-      "keyword": "정원오 오세훈 탓",
-      "state": "n",
-      "change": "0"
+      "keyword": "두나무 지분 추가 확보",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
