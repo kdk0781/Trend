@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-20T09:52:21.148Z",
+  "updatedAt": "2026-05-20T12:16:31.194Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "방탄소년단",
+      "keyword": "금양",
       "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "오늘도 매진했습니다",
-      "traffic": "10000+"
+      "keyword": "서장훈의 이웃집 백만장자",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "여자축구 중계",
+      "keyword": "이다해",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "학생",
+      "keyword": "노래방 살인사건",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "mlb",
-      "traffic": "1000+"
+      "keyword": "kg모빌리티",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "상계관세",
+      "keyword": "청년주택",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "바우어",
-      "traffic": "200+"
+      "keyword": "창원시",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "lig 디펜스&에어로스페이스",
+      "keyword": "ioi",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "한국거래소",
+      "keyword": "kbs",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "gh",
-      "traffic": "200+"
+      "keyword": "내고향여자축구단",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "전지현 클로즈업 당연해",
+      "keyword": "이다해♥세븐, 결혼 3년 만에 부모 됨",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "삼성전자 총파업 위험",
-      "state": "n",
+      "keyword": "첫 번째 남자",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "향하는 북한 내고향여자축구단",
-      "state": "+",
-      "change": "5"
+      "keyword": "한국 유조선 호르무즈 통과",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "한화투자증권, 두나무 지분 추가",
-      "state": "n",
+      "keyword": "리유일 감독 작전 지시",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "하이닉스 목표 주가 320만",
+      "keyword": "수원FC 북한 팀 결승 도전",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "허수아비 시청률 경신",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "잠실 경기 우천 취소",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 7,
-      "keyword": "경기도 반도체 산업 기자회견",
-      "state": "n",
-      "change": "0"
+      "keyword": "울산시장 후보 단일화 토론회",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "취사병 전설이 되다",
+      "keyword": "하루히 스즈키 골!",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "허수아비 시청률 최고 경신",
-      "state": "+",
-      "change": "1"
+      "keyword": "주가조작 포상 상한 폐지",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "韓 유조선 호르무즈 탈출",
+      "keyword": "정원오 오세훈 탓",
       "state": "n",
       "change": "0"
     }
