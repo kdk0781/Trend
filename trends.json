@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-05-21T15:55:05.512Z",
+  "updatedAt": "2026-05-21T17:51:58.847Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "서울시립대학교",
-      "traffic": "100+"
+      "keyword": "김부선",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "노유민",
+      "keyword": "이라올라",
       "traffic": "200+"
     },
     {
       "rank": 3,
+      "keyword": "서울시립대학교",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "노유민",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
       "keyword": "저축",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "황정민",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "아이오아이",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "삼양그룹",
       "traffic": "100+"
     },
     {
-      "rank": 6,
-      "keyword": "아이오아이",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "gt vs csk",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "아주ib투자",
-      "traffic": "2000+"
-    },
-    {
       "rank": 9,
-      "keyword": "lg그룹",
+      "keyword": "gt vs csk",
       "traffic": "500+"
     },
     {
@@ -55,8 +55,8 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "오세훈 후보 출정식",
-      "state": "n",
+      "keyword": "오세훈 서울시장 출정식",
+      "state": "s",
       "change": "0"
     },
     {
@@ -67,50 +67,50 @@
     },
     {
       "rank": 3,
-      "keyword": "김혜경 여사, 교육은 사회 변화의 힘",
-      "state": "s",
+      "keyword": "김혜경 여사 120주년 참석",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
       "keyword": "이은우 구속영장 기각",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김규리 자택 강도 사건",
-      "state": "n",
+      "keyword": "벤자민 8이닝 무실점 첫 승",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "벤자민 8이닝 무실점 투혼",
-      "state": "+",
-      "change": "1"
+      "keyword": "칸 영화제 라 시네프 2등상 나딘 감독",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "GTX 삼성역 철근 누락 점검",
-      "state": "+",
-      "change": "1"
+      "keyword": "6차 석유 동결 4주로 조정",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "윤보미, 나솔사계 하차 인사",
-      "state": "n",
+      "keyword": "GTX 철근 누락",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "6차 석유 동결 4주로 늘린다",
-      "state": "n",
+      "keyword": "김건희 만루 홈런",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "스타벅스 탱크데이",
-      "state": "s",
+      "keyword": "익선동 거기 방문은 아니죠?",
+      "state": "n",
       "change": "0"
     }
   ]
