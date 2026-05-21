@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-20T23:39:54.810Z",
+  "updatedAt": "2026-05-21T01:33:24.631Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "레인보우로보틱스",
-      "traffic": "200+"
+      "keyword": "김민수",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "제미 나이 3.5 flash",
-      "traffic": "500+"
+      "keyword": "사이드카",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "살인",
-      "traffic": "200+"
+      "keyword": "돌싱글즈",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "소니 인터랙티브 엔터테인먼트",
-      "traffic": "200+"
+      "keyword": "오클라호마시티 대 샌안토니오",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "soxx",
+      "keyword": "국민신문고",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "날씨",
-      "traffic": "200000+"
+      "keyword": "제주시",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "김해국제공항",
-      "traffic": "2000+"
+      "keyword": "국민카드",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "제임스 매디슨",
-      "traffic": "1000+"
+      "keyword": "농협카드",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "天气",
-      "traffic": "1000+"
+      "keyword": "제레미 비슬리",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "nvda",
+      "keyword": "고유가 피해지원금 이의신청",
       "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "셔누와 형원, 우리만의 길!",
-      "state": "+",
-      "change": "2"
+      "keyword": "코스닥 매수 사이드카 발동",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "엔비디아 실적발표",
+      "keyword": "출근길 인사하는 후보들",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "4월 생산자물가 2.5% 상승",
-      "state": "n",
+      "keyword": "유류세 인하 7월 연장",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "스코티 셰플러, 우승 도전 중",
-      "state": "+",
-      "change": "2"
+      "keyword": "공식 선거운동 시작",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "고유가피해지원금",
-      "state": "+",
-      "change": "2"
+      "keyword": "민생물가 특별관리 관계장관",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "세븐과 이다해 임신 소식",
-      "state": "+",
-      "change": "2"
+      "keyword": "박은빈, 오싹한 초능력 연애",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "첫 번째 남자",
-      "state": "+",
+      "keyword": "고우석 시즌 첫 승",
+      "state": "-",
       "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "스타벅스 보이콧 추진",
+      "keyword": "한정수, 카드 자르고 탈벅 합시다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "삼성전자 노사 극적 합의",
+      "keyword": "이란 트럼프 협상",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "31기 경수 영숙, 순자와 기싸움",
+      "keyword": "이지훈 아야네 논란",
       "state": "n",
       "change": "0"
     }
