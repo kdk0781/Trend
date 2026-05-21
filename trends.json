@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-21T05:51:17.179Z",
+  "updatedAt": "2026-05-21T09:00:01.829Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "엔씨",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "공무원",
+      "keyword": "이세창",
       "traffic": "500+"
     },
     {
+      "rank": 2,
+      "keyword": "손아섭",
+      "traffic": "1000+"
+    },
+    {
       "rank": 3,
-      "keyword": "엘지트윈스",
+      "keyword": "군무원",
       "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "동행",
-      "traffic": "100+"
+      "keyword": "보편적 기본소득",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "국가장학금",
+      "keyword": "강형욱",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "신지",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "광장시장",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "대한민국 여자 배구 국가대표팀",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "조성진",
+      "keyword": "부전-마산 복선전철",
       "traffic": "100+"
     },
     {
-      "rank": 10,
-      "keyword": "한국소비자원",
+      "rank": 7,
+      "keyword": "gemini cli",
       "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "김태완",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
+      "keyword": "옥주현",
+      "traffic": "200+"
+    },
+    {
+      "rank": 10,
+      "keyword": "fc 바르셀로나",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정원오 서울시장 후보",
+      "keyword": "지지를 요청하는 후보들",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이억원 금융위원장 기자회견",
-      "state": "n",
+      "keyword": "김민수 폭로글 유포 논란",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김창민 감독 사망 사건 피의자 기소",
-      "state": "n",
-      "change": "0"
+      "keyword": "코스피 8.42% 급등 마감",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "유의동 후보의 선거운동",
-      "state": "n",
-      "change": "0"
+      "keyword": "글로벌 AI 허브 선포식",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "오타니 5이닝 무실점 활약",
-      "state": "-",
-      "change": "3"
+      "keyword": "후보 출정식 개최",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김병만 빗길 지각 사과",
-      "state": "-",
+      "keyword": "조태용 위증 1년 6개월",
+      "state": "+",
       "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "이재명 대통령 수석보좌관회의",
-      "state": "n",
-      "change": "0"
+      "keyword": "손기민, 우승 기쁨!",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "장동혁 국민의힘 대표",
-      "state": "n",
-      "change": "0"
+      "keyword": "신하균·오정세·허성태, 오십프로 재밌다!",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "삼성역 철근누락 실태파악",
-      "state": "n",
-      "change": "0"
+      "keyword": "중동상황 산업-금융권 간담회",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "이은우 전 KTV 원장 구속 기로",
-      "state": "-",
-      "change": "6"
+      "keyword": "결혼식 불청객 밥만 먹다",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
