@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-05-21T17:51:58.847Z",
+  "updatedAt": "2026-05-21T19:45:03.090Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김부선",
-      "traffic": "200+"
+      "keyword": "김혜경",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "이라올라",
-      "traffic": "200+"
+      "keyword": "매매",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "서울시립대학교",
+      "keyword": "전유성",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "노유민",
+      "keyword": "kg모빌리티",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "저축",
+      "keyword": "슈퍼맨이 돌아왔다",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "황정민",
+      "keyword": "오세훈",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "아이오아이",
-      "traffic": "200+"
+      "keyword": "메이플",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "삼양그룹",
-      "traffic": "100+"
+      "keyword": "김부선",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "gt vs csk",
-      "traffic": "500+"
+      "keyword": "언더커버 셰프",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "범죄",
-      "traffic": "500+"
+      "keyword": "이라올라",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "오세훈 서울시장 출정식",
+      "keyword": "오세훈 서울시장 후보",
       "state": "s",
       "change": "0"
     },
@@ -67,49 +67,49 @@
     },
     {
       "rank": 3,
-      "keyword": "김혜경 여사 120주년 참석",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
       "keyword": "이은우 구속영장 기각",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "벤자민 8이닝 무실점 첫 승",
+      "rank": 4,
+      "keyword": "벤자민 8이닝 무실점 첫 승!",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "나딘 미송 진 2등상 수상",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "칸 영화제 라 시네프 2등상 나딘 감독",
+      "keyword": "트럼프 이란 우라늄 확보 파괴",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "6차 석유 동결 4주로 조정",
+      "keyword": "익선동 커피가 아니죠?",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "GTX 철근 누락",
-      "state": "s",
-      "change": "0"
+      "keyword": "양상국 유재석 무례 논란",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 9,
-      "keyword": "김건희 만루 홈런",
+      "keyword": "삼성역 철근 누락 점검",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "익선동 거기 방문은 아니죠?",
+      "keyword": "해외 반출",
       "state": "n",
       "change": "0"
     }
