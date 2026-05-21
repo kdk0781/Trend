@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-21T19:45:03.090Z",
+  "updatedAt": "2026-05-21T21:18:10.563Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김혜경",
+      "keyword": "무소속",
       "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "매매",
-      "traffic": "100+"
+      "keyword": "tsmc",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "전유성",
-      "traffic": "200+"
+      "keyword": "천위페이",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "kg모빌리티",
+      "keyword": "농축 우라늄",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "슈퍼맨이 돌아왔다",
-      "traffic": "100+"
+      "keyword": "lg",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "오세훈",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "메이플",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "김부선",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "언더커버 셰프",
+      "keyword": "พยากรณ์อากาศ",
       "traffic": "100+"
     },
     {
+      "rank": 7,
+      "keyword": "호날두",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "안세영",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "박정수",
+      "traffic": "500+"
+    },
+    {
       "rank": 10,
-      "keyword": "이라올라",
-      "traffic": "200+"
+      "keyword": "조인성",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "오세훈 서울시장 후보",
-      "state": "s",
-      "change": "0"
+      "keyword": "트럼프 이란 우라늄 파괴할 것",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "최소 222경기 400만 관중",
-      "state": "s",
-      "change": "0"
+      "keyword": "삼성, KT 꺾고 단독 선두!",
+      "state": "+",
+      "change": "7"
     },
     {
       "rank": 3,
-      "keyword": "이은우 구속영장 기각",
-      "state": "s",
+      "keyword": "사일런트 보이시스 2등상",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "벤자민 8이닝 무실점 첫 승!",
-      "state": "s",
-      "change": "0"
+      "keyword": "첫 번째 남자",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "나딘 미송 진 2등상 수상",
+      "keyword": "‘익선동 커피 아닌가요?’",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "트럼프 이란 우라늄 확보 파괴",
-      "state": "n",
-      "change": "0"
+      "keyword": "현수엽 차관 고유가 지원금 방문",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "익선동 커피가 아니죠?",
-      "state": "s",
-      "change": "0"
+      "keyword": "군체 관객과 소통!",
+      "state": "+",
+      "change": "9"
     },
     {
       "rank": 8,
-      "keyword": "양상국 유재석 무례 논란",
-      "state": "-",
-      "change": "4"
+      "keyword": "스타벅스 배달 거부",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 9,
-      "keyword": "삼성역 철근 누락 점검",
-      "state": "s",
+      "keyword": "오늘도 매진했습니다",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "해외 반출",
-      "state": "n",
-      "change": "0"
+      "keyword": "양상국 무례 해명",
+      "state": "-",
+      "change": "6"
     }
   ]
 }
