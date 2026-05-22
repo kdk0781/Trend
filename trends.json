@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-22T22:37:31.385Z",
+  "updatedAt": "2026-05-22T23:43:04.744Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "권순우",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "팔란티어 테크놀로지",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "ionq",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "나솔사계",
+      "keyword": "최준희",
       "traffic": "5000+"
     },
     {
+      "rank": 2,
+      "keyword": "이규섭",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "경주시",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "김대기",
+      "traffic": "100+"
+    },
+    {
       "rank": 5,
-      "keyword": "天气",
-      "traffic": "1000+"
+      "keyword": "경상남도지사",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "schd",
+      "keyword": "이민우",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "catl",
+      "keyword": "알테오젠",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "월드컵",
-      "traffic": "2000+"
+      "keyword": "중랑구",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "한미반도체",
-      "traffic": "2000+"
+      "keyword": "msci",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "rgti",
-      "traffic": "200+"
+      "keyword": "2026",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김대기 윤재순 구속",
+      "keyword": "오십프로 첫방 4.4% 스타트",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "오십프로 시청률 4.4% 출발",
+      "keyword": "최태성, 멋진 신세계 언급",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "최태성, 멋진 신세계를 언급하다",
-      "state": "s",
+      "keyword": "문원, 신지에 금 10돈 선물",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "전현무, 유기견 입양했어요",
-      "state": "s",
+      "keyword": "반도체 관세 당장 없다",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "케빈 워시 연준 의장 취임",
+      "keyword": "캐릭 정식 감독 선임",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "장동주 은퇴 소식",
-      "state": "+",
+      "keyword": "완판 국민성장펀드",
+      "state": "-",
       "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "2026년 5월 23일",
-      "state": "s",
-      "change": "0"
+      "keyword": "탱크데이 스타벅스 저격",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "국민성장펀드 완판 임박",
+      "keyword": "환희, 브라이언 갈등 공개",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이선민 나 혼자 산다 고시원 자취왕",
-      "state": "+",
-      "change": "3"
+      "keyword": "은퇴 알린 장동주",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "스타벅스 인증샷 촬영하세요",
-      "state": "+",
-      "change": "6"
+      "keyword": "나영석 PD 배 아파서 못 봤다",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
