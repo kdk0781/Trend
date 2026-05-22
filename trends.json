@@ -1,56 +1,117 @@
 {
-  "updatedAt": "2026-05-22T20:12:17.254Z",
+  "updatedAt": "2026-05-22T21:36:51.165Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "폭염",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "환율 달러",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "맨체스터 유나이티드 fc",
+      "keyword": "설악산",
       "traffic": "200+"
     },
     {
-      "rank": 4,
-      "keyword": "우리 태양 을 흔들 자",
+      "rank": 2,
+      "keyword": "사우디아라비아",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "토트넘 홋스퍼 fc",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "김지민",
+      "traffic": "200+"
+    },
+    {
       "rank": 5,
-      "keyword": "소방 청장 감찰",
+      "keyword": "장미",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "f1",
-      "traffic": "200+"
+      "keyword": "김관영",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "추경호",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "김동현",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "화물선",
+      "keyword": "탄도 미사일",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "최태성",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "김지선",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "노무현",
+      "keyword": "이범호",
       "traffic": "1000+"
     }
   ],
-  "domestic": []
+  "domestic": [
+    {
+      "rank": 1,
+      "keyword": "김대기 윤재순 구속",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 2,
+      "keyword": "최태성 멋진 신세계 언급",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "리슈잉 첫 홀 버디 성공",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "케빈 워시 의장 취임",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "이선민 결혼 오해 해명",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "장동주, 연락 두절",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "삼성 3연승 질주",
+      "state": "+",
+      "change": "7"
+    },
+    {
+      "rank": 8,
+      "keyword": "사우디 매체 미·이란 합의 초안 발표 임박",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "스타벅스 논란 지속",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 10,
+      "keyword": "캐릭, 맨유 감독 확정",
+      "state": "-",
+      "change": "1"
+    }
+  ]
 }
