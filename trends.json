@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-22T01:49:22.884Z",
+  "updatedAt": "2026-05-22T05:52:32.555Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "삼성증권",
+      "keyword": "엘지트윈스",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "더불어민주당",
-      "traffic": "200+"
+      "keyword": "유로 파이터",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "문화체육관광부",
-      "traffic": "100+"
+      "keyword": "황보라",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "국립중앙박물관",
-      "traffic": "500+"
+      "keyword": "배우 장동주",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "건강보험료",
-      "traffic": "100+"
+      "keyword": "롯데자이언츠",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "유니클로",
-      "traffic": "200+"
+      "keyword": "삼성전기 주가",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "농협",
-      "traffic": "200+"
+      "keyword": "박나래",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "우리금융캐피탈 lpba 챔피언십",
+      "keyword": "nepal vs usa",
       "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "두산 베어스",
-      "traffic": "1000+"
+      "keyword": "손연재",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "한국장학재단",
-      "traffic": "1000+"
+      "keyword": "데스티니 2",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "구윤철 부총리 주재 회의",
-      "state": "s",
-      "change": "0"
+      "keyword": "삼성전자 잠정합의안 투표",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 2,
-      "keyword": "장동주 은퇴 후 치료중",
+      "keyword": "국민성장펀드 완판 성공",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "오세훈 서울시장 후보 성동구 방문",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "고우석 5G 연속 무실점",
+      "state": "+",
+      "change": "8"
+    },
+    {
+      "rank": 5,
+      "keyword": "장동주 신체 훼손 파문",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "코스닥 매수 사이드카 발동",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "국가정상화 1차 과제 브리핑",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 5,
-      "keyword": "218억 매입 아정당 대표",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 6,
-      "keyword": "국민성장펀드 모집 시작",
+      "keyword": "故설리 오빠, 김수현 경고",
       "state": "+",
-      "change": "3"
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "삼성전자 노조 투표 27일까지",
-      "state": "s",
+      "keyword": "10년 만에 도깨비 출연진 재회!",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "월드컵 앞두고 훈련하는",
+      "keyword": "노무현 서거 17주기 추도식",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "군체 올해 최고 오프닝 기록",
+      "keyword": "윤호중 장관 OECD 참석",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "백수련 아들 신용불량",
-      "state": "-",
-      "change": "5"
+      "keyword": "태영호 장남 16억 구속",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
