@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-22T11:39:15.147Z",
+  "updatedAt": "2026-05-22T13:58:59.798Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "군체",
-      "traffic": "1000+"
+      "keyword": "종현",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "에볼라 바이러스",
-      "traffic": "100+"
+      "keyword": "항공사",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "신동욱",
-      "traffic": "1000+"
+      "keyword": "연애기숙학교 - 돌싱n모솔",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "소방청장",
-      "traffic": "500+"
+      "keyword": "김호령",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "농촌",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "김태리",
+      "keyword": "오정세",
       "traffic": "100+"
     },
     {
+      "rank": 6,
+      "keyword": "이소라",
+      "traffic": "200+"
+    },
+    {
       "rank": 7,
-      "keyword": "사고",
-      "traffic": "500+"
+      "keyword": "석삼플레이",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "포브스",
-      "traffic": "200+"
+      "keyword": "도지원",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "전민재",
-      "traffic": "200+"
+      "keyword": "lck 순위",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "박위",
-      "traffic": "2000+"
+      "keyword": "홍서범",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "권은빈 연예인 그만둔다",
-      "state": "s",
-      "change": "0"
+      "keyword": "오십프로 운명 바뀐 밤",
+      "state": "+",
+      "change": "9"
     },
     {
       "rank": 2,
-      "keyword": "이 대통령, 소방청장 감찰 지시",
-      "state": "s",
+      "keyword": "정원오 안전한 서울",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "LG 자사주 전량 소각",
+      "keyword": "소방청장 감찰 시작",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "나승엽 역전 3점포",
+      "keyword": "권은빈, 은퇴 선언",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "한동희 옆구리 부상",
+      "keyword": "온라인도 국민성장펀드 첫날",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "박찬대 인천시장 후보 활동 알림",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "군체 공항 패션과 영화 출연",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "오세훈 44.8% 정원오 42.0% 초박빙",
+      "keyword": "송교창 해외 진출 선언",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "최태성, 멋진 신세계 언급",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 8,
+      "keyword": "김선태, 1억 기부 아까워",
+      "state": "-",
+      "change": "3"
+    },
+    {
       "rank": 9,
-      "keyword": "직장인들 현충일은 안 되는",
+      "keyword": "김규리 자택 강도 구속",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김건희 적시타 터졌다",
-      "state": "n",
-      "change": "0"
+      "keyword": "정민찬 뮤지컬 하차 논란",
+      "state": "-",
+      "change": "5"
     }
   ]
 }
