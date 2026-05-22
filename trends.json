@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-05-22T21:36:51.165Z",
+  "updatedAt": "2026-05-22T22:37:31.385Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "설악산",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "사우디아라비아",
+      "keyword": "권순우",
       "traffic": "100+"
     },
     {
-      "rank": 3,
-      "keyword": "토트넘 홋스퍼 fc",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "김지민",
+      "rank": 2,
+      "keyword": "팔란티어 테크놀로지",
       "traffic": "200+"
     },
     {
-      "rank": 5,
-      "keyword": "장미",
+      "rank": 3,
+      "keyword": "ionq",
       "traffic": "500+"
     },
     {
-      "rank": 6,
-      "keyword": "김관영",
+      "rank": 4,
+      "keyword": "나솔사계",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "天气",
       "traffic": "1000+"
     },
     {
+      "rank": 6,
+      "keyword": "schd",
+      "traffic": "500+"
+    },
+    {
       "rank": 7,
-      "keyword": "탄도 미사일",
+      "keyword": "catl",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "최태성",
-      "traffic": "200+"
+      "keyword": "월드컵",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "김지선",
-      "traffic": "100+"
+      "keyword": "한미반도체",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "이범호",
-      "traffic": "1000+"
+      "keyword": "rgti",
+      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "최태성 멋진 신세계 언급",
-      "state": "n",
+      "keyword": "오십프로 시청률 4.4% 출발",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "리슈잉 첫 홀 버디 성공",
-      "state": "n",
+      "keyword": "최태성, 멋진 신세계를 언급하다",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "케빈 워시 의장 취임",
-      "state": "-",
-      "change": "1"
+      "keyword": "전현무, 유기견 입양했어요",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이선민 결혼 오해 해명",
-      "state": "s",
+      "keyword": "케빈 워시 연준 의장 취임",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "장동주, 연락 두절",
-      "state": "-",
+      "keyword": "장동주 은퇴 소식",
+      "state": "+",
       "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "삼성 3연승 질주",
-      "state": "+",
-      "change": "7"
-    },
-    {
-      "rank": 8,
-      "keyword": "사우디 매체 미·이란 합의 초안 발표 임박",
+      "keyword": "2026년 5월 23일",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "국민성장펀드 완판 임박",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "스타벅스 논란 지속",
+      "keyword": "이선민 나 혼자 산다 고시원 자취왕",
       "state": "+",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "캐릭, 맨유 감독 확정",
-      "state": "-",
-      "change": "1"
+      "keyword": "스타벅스 인증샷 촬영하세요",
+      "state": "+",
+      "change": "6"
     }
   ]
 }
