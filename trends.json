@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-22T16:27:46.531Z",
+  "updatedAt": "2026-05-22T18:15:16.602Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김동현",
-      "traffic": "100+"
+      "keyword": "소방 청장 감찰",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "추경호",
+      "keyword": "f1",
       "traffic": "200+"
     },
     {
       "rank": 3,
+      "keyword": "추경호",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "김동현",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
       "keyword": "화물선",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "노무현",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "이선민",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "항공모함",
       "traffic": "500+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "지포스",
       "traffic": "500+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "규제",
       "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "리게티 컴퓨팅",
-      "traffic": "500+"
-    },
-    {
-      "rank": 10,
-      "keyword": "이은하",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "소방청장 감찰 착수",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "오십프로 지원 드라마 제작",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "김대기 윤재순 구속",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "최태성, 멋진 신세계 언급",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "첫 홀 버디 도전 선수들",
+      "keyword": "소방청장 감찰 시작",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "김대기 윤재순 구속",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "첫 홀 버디 도전!",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "김선태 1억 기부 아까워",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "김규리 자택 침입 강도 구속",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "김선태, 1억 기부 아까워",
+      "keyword": "스타벅스, 2차 사과문 발송",
       "state": "+",
-      "change": "10"
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "자사주 전량 소각",
+      "keyword": "정민찬 뮤지컬 하차",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "지지를 호소하는 후보",
-      "state": "-",
-      "change": "2"
+      "keyword": "이란군 호르무즈 통과",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "이선민 자취 생활 시작",
+      "keyword": "한화 3연패 탈출!",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "권은빈, 일반인 귀환",
-      "state": "n",
-      "change": "0"
+      "keyword": "경찰, 도난 및 허위사실 수사",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
