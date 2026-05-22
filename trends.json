@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-22T08:51:12.595Z",
+  "updatedAt": "2026-05-22T11:39:15.147Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "쌀",
-      "traffic": "100+"
+      "keyword": "군체",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "한화생명 이글스파크",
-      "traffic": "200+"
+      "keyword": "에볼라 바이러스",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "백종원",
-      "traffic": "500+"
+      "keyword": "신동욱",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "에테르노 청담",
+      "keyword": "소방청장",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "쓸쓸 하고 찬란 하神 도깨비",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "김민전",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "pga 챔피언십",
+      "keyword": "농촌",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "김태리",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "사고",
+      "traffic": "500+"
+    },
+    {
       "rank": 8,
-      "keyword": "여름",
+      "keyword": "포브스",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "호남고속도로",
+      "keyword": "전민재",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "환율",
-      "traffic": "1000+"
+      "keyword": "박위",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "양향자 경기지사 후보",
-      "state": "n",
+      "keyword": "권은빈 연예인 그만둔다",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "결승 앞두고 훈련하는 내고향여자축구단",
-      "state": "+",
-      "change": "2"
+      "keyword": "이 대통령, 소방청장 감찰 지시",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "쇼타씨의 마지막 출장",
-      "state": "n",
+      "keyword": "LG 자사주 전량 소각",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "코스닥 급등 4.99%",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 5,
-      "keyword": "윤호중 장관 활동",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "대군부인 팝업 조기 종료",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "경찰 5·18 북한 허위사실 추적",
+      "keyword": "나승엽 역전 3점포",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "한동희 옆구리 부상",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "박찬대 인천시장 후보 활동 알림",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "군체 공항 패션과 영화 출연",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 8,
-      "keyword": "김규리 자택 강도 사건",
+      "keyword": "오세훈 44.8% 정원오 42.0% 초박빙",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "45일 결혼, 2달 이혼",
+      "keyword": "직장인들 현충일은 안 되는",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이란, 오만 통행료 협상 난항",
+      "keyword": "김건희 적시타 터졌다",
       "state": "n",
       "change": "0"
     }
