@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-21T23:42:21.392Z",
+  "updatedAt": "2026-05-22T01:49:22.884Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "챗 gpt",
-      "traffic": "1000+"
+      "keyword": "삼성증권",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "송은이",
-      "traffic": "100+"
+      "keyword": "더불어민주당",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "채무",
+      "keyword": "문화체육관광부",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "고유가지원금 사용처",
-      "traffic": "2000+"
+      "keyword": "국립중앙박물관",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "위대한",
-      "traffic": "200+"
+      "keyword": "건강보험료",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "백현",
+      "keyword": "유니클로",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "spacex",
-      "traffic": "100+"
+      "keyword": "농협",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "vix",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "스페이스x",
+      "keyword": "우리금융캐피탈 lpba 챔피언십",
       "traffic": "2000+"
     },
     {
+      "rank": 9,
+      "keyword": "두산 베어스",
+      "traffic": "1000+"
+    },
+    {
       "rank": 10,
-      "keyword": "코스피",
-      "traffic": "5000+"
+      "keyword": "한국장학재단",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이스라엘군 나포 활동가 귀국",
-      "state": "n",
+      "keyword": "구윤철 부총리 주재 회의",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "백수련 아들 신용불량",
+      "keyword": "장동주 은퇴 후 치료중",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "르세라핌 붐팔라 듣자마자 인기 확다!",
-      "state": "n",
-      "change": "0"
+      "keyword": "코스닥 매수 사이드카 발동",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "호날두 알 나스르 우승",
+      "keyword": "국가정상화 1차 과제 브리핑",
       "state": "+",
       "change": "6"
     },
     {
       "rank": 5,
-      "keyword": "고유가지원금 현장 방문",
+      "keyword": "218억 매입 아정당 대표",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "나솔사계 현커",
-      "state": "-",
-      "change": "2"
+      "keyword": "국민성장펀드 모집 시작",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "전지현 구교환 군체 첫날 19만 동원",
-      "state": "+",
-      "change": "7"
+      "keyword": "삼성전자 노조 투표 27일까지",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "스타벅스 사용 안 해요",
-      "state": "+",
-      "change": "1"
+      "keyword": "월드컵 앞두고 훈련하는",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "트럼프, 폴란드 5000명 추가",
+      "keyword": "군체 올해 최고 오프닝 기록",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "U-17 한국, 뉴칼레도니아·에콰도르 조편성",
+      "keyword": "백수련 아들 신용불량",
       "state": "-",
-      "change": "6"
+      "change": "5"
     }
   ]
 }
