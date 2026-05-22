@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-22T13:58:59.798Z",
+  "updatedAt": "2026-05-22T16:27:46.531Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "종현",
-      "traffic": "500+"
+      "keyword": "김동현",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "항공사",
-      "traffic": "500+"
+      "keyword": "추경호",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "연애기숙학교 - 돌싱n모솔",
+      "keyword": "화물선",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "김호령",
-      "traffic": "200+"
+      "keyword": "노무현",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "오정세",
-      "traffic": "100+"
+      "keyword": "이선민",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "이소라",
-      "traffic": "200+"
+      "keyword": "항공모함",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "석삼플레이",
-      "traffic": "100+"
+      "keyword": "지포스",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "도지원",
-      "traffic": "100+"
+      "keyword": "규제",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "lck 순위",
-      "traffic": "100+"
+      "keyword": "리게티 컴퓨팅",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "홍서범",
-      "traffic": "200+"
+      "keyword": "이은하",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "오십프로 운명 바뀐 밤",
+      "keyword": "소방청장 감찰 착수",
       "state": "+",
-      "change": "9"
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "정원오 안전한 서울",
-      "state": "n",
-      "change": "0"
+      "keyword": "오십프로 지원 드라마 제작",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "소방청장 감찰 시작",
+      "keyword": "김대기 윤재순 구속",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "최태성, 멋진 신세계 언급",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "첫 홀 버디 도전 선수들",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "권은빈, 은퇴 선언",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "온라인도 국민성장펀드 첫날",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 6,
-      "keyword": "송교창 해외 진출 선언",
-      "state": "n",
-      "change": "0"
+      "keyword": "김선태, 1억 기부 아까워",
+      "state": "+",
+      "change": "10"
     },
     {
       "rank": 7,
-      "keyword": "최태성, 멋진 신세계 언급",
+      "keyword": "자사주 전량 소각",
       "state": "+",
-      "change": "4"
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "김선태, 1억 기부 아까워",
+      "keyword": "지지를 호소하는 후보",
       "state": "-",
-      "change": "3"
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "김규리 자택 강도 구속",
-      "state": "n",
-      "change": "0"
+      "keyword": "이선민 자취 생활 시작",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "정민찬 뮤지컬 하차 논란",
-      "state": "-",
-      "change": "5"
+      "keyword": "권은빈, 일반인 귀환",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
