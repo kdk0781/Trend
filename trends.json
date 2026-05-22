@@ -1,117 +1,56 @@
 {
-  "updatedAt": "2026-05-22T18:15:16.602Z",
+  "updatedAt": "2026-05-22T20:12:17.254Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "폭염",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
+      "keyword": "환율 달러",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "맨체스터 유나이티드 fc",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "우리 태양 을 흔들 자",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
       "keyword": "소방 청장 감찰",
       "traffic": "500+"
     },
     {
-      "rank": 2,
+      "rank": 6,
       "keyword": "f1",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 7,
       "keyword": "추경호",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "김동현",
       "traffic": "500+"
     },
     {
-      "rank": 4,
-      "keyword": "김동현",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
+      "rank": 9,
       "keyword": "화물선",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 10,
       "keyword": "노무현",
       "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "이선민",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "항공모함",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "지포스",
-      "traffic": "500+"
-    },
-    {
-      "rank": 10,
-      "keyword": "규제",
-      "traffic": "200+"
     }
   ],
-  "domestic": [
-    {
-      "rank": 1,
-      "keyword": "소방청장 감찰 시작",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "김대기 윤재순 구속",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "첫 홀 버디 도전!",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "김선태 1억 기부 아까워",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "김규리 자택 침입 강도 구속",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "스타벅스, 2차 사과문 발송",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "정민찬 뮤지컬 하차",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "이란군 호르무즈 통과",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "한화 3연패 탈출!",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 10,
-      "keyword": "경찰, 도난 및 허위사실 수사",
-      "state": "+",
-      "change": "2"
-    }
-  ]
+  "domestic": []
 }
