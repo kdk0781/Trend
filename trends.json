@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-23T05:02:55.493Z",
+  "updatedAt": "2026-05-23T07:37:51.451Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "폴 피어스",
+      "keyword": "국채선물",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "제이쓴",
+      "keyword": "victor bericoto",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "빛과전자",
-      "traffic": "200+"
+      "keyword": "오선우",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "가격",
-      "traffic": "200+"
+      "keyword": "옵티코어",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "민희진",
-      "traffic": "500+"
+      "keyword": "류승범",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "축제",
+      "keyword": "북구 갑",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "달",
+      "keyword": "베르나르두 실바",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "콩고 민주 공화국",
+      "keyword": "펩 과르디올라",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "한능검 78회",
+      "keyword": "영종도",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "로켓",
-      "traffic": "500+"
+      "keyword": "피크민",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이수빈 결혼 발표",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 2,
-      "keyword": "김종훈 김두겸 지지 호소",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "김하성 연장 승리 기여",
-      "state": "+",
-      "change": "9"
-    },
-    {
-      "rank": 4,
-      "keyword": "거리 유세하는 후보들",
+      "keyword": "노무현 추도식 참석者들",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "염경엽 감독의 다양한 모습",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 6,
-      "keyword": "버스전용차로 위반 사과",
-      "state": "n",
+      "rank": 2,
+      "keyword": "내고향 김경영 선제골",
+      "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "장현승, 일베 용어 사용 사과",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "중국 광산 폭발 82명 사망",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "도쿄 베르디 감독 구스노세",
+      "state": "+",
+      "change": "12"
+    },
+    {
+      "rank": 6,
+      "keyword": "내고향 선수들 기뻐해요",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "오세훈 재개발 기초도 몰라",
-      "state": "n",
+      "keyword": "김현철 한동훈 지지",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "반려묘 방치 많이 큰 딸",
+      "keyword": "유재석 효리수 OST 만남",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "해초 들불상 수상",
+      "keyword": "사무실서 지인 살해한 40대 남성 체포",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이스라엘 구금 활동가 성폭행 사건",
+      "keyword": "유선호 하차 폭로 거짓말",
       "state": "n",
       "change": "0"
     }
