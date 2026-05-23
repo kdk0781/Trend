@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-23T12:46:59.255Z",
+  "updatedAt": "2026-05-23T14:18:16.760Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "딜라이트",
-      "traffic": "200+"
+      "keyword": "남도형",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "kbo 순위",
-      "traffic": "200+"
+      "keyword": "모자무싸",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "klasemen persib bandung vs persijap",
-      "traffic": "500+"
+      "keyword": "운동",
+      "traffic": "5000+"
     },
     {
       "rank": 4,
-      "keyword": "크리스탈",
-      "traffic": "100+"
+      "keyword": "이수현",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "펄어비스",
-      "traffic": "200+"
+      "keyword": "뱀",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "persib",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "경비행기",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "허인회",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "노경은",
+      "keyword": "소유진",
       "traffic": "200+"
     },
     {
+      "rank": 7,
+      "keyword": "이승엽",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "로또1225회당첨번호",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "하나로마트",
+      "traffic": "1000+"
+    },
+    {
       "rank": 10,
-      "keyword": "조갑제",
-      "traffic": "500+"
+      "keyword": "황영웅",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정원오 서울시장 후보",
+      "keyword": "오세훈 재개발 기초 모른다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "오십프로로 꽉 찬 첫방",
+      "keyword": "잠정합의안 투표율 80%",
       "state": "+",
-      "change": "3"
+      "change": "6"
     },
     {
       "rank": 3,
-      "keyword": "“김민혁 4안타 KT 승리”",
+      "keyword": "은밀한 감사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "신지 문원, CCTV 해명",
+      "keyword": "한동훈 지지 보수 승리",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "신지♥문원 CCTV 설치 해명",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "삼성 잠정합의안 투표율 80%",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 6,
-      "keyword": "내고향축구단 우승 축하",
+      "keyword": "동료 말다툼 후 살해",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "지누션 서스페 출동",
-      "state": "+",
-      "change": "1"
+      "keyword": "김민혁 3안타 KT 승리",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "KIA, SSG 6연패 부활!",
-      "state": "+",
-      "change": "25"
+      "keyword": "1225회 로또 1등 13명 각 22억3천",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "주우재 날씨 왜 틀리나?",
+      "keyword": "오십프로 첫방 존재감",
       "state": "+",
-      "change": "2"
+      "change": "24"
     },
     {
       "rank": 10,
-      "keyword": "박민식 지원유세하는 나경원",
-      "state": "-",
-      "change": "3"
+      "keyword": "그것이 알고 싶다",
+      "state": "+",
+      "change": "4"
     }
   ]
 }
