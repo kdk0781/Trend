@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-23T07:37:51.451Z",
+  "updatedAt": "2026-05-23T09:24:19.366Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "국채선물",
-      "traffic": "100+"
+      "keyword": "야구중계",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "victor bericoto",
+      "keyword": "양현종",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "오선우",
-      "traffic": "100+"
+      "keyword": "금타는 금요일",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "옵티코어",
+      "keyword": "네이처셀",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "류승범",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "북구 갑",
+      "keyword": "김용건",
       "traffic": "500+"
     },
     {
+      "rank": 6,
+      "keyword": "내 고향 여자 축구단",
+      "traffic": "20000+"
+    },
+    {
       "rank": 7,
-      "keyword": "베르나르두 실바",
-      "traffic": "200+"
+      "keyword": "에베레스트 산",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "펩 과르디올라",
-      "traffic": "200+"
+      "keyword": "ls전선",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "영종도",
-      "traffic": "1000+"
+      "keyword": "김소혜",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "피크민",
-      "traffic": "100+"
+      "keyword": "국채",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "노무현 추도식 참석者들",
-      "state": "s",
-      "change": "0"
+      "keyword": "해남 경비행기 추락 중상",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "내고향 김경영 선제골",
-      "state": "s",
-      "change": "0"
+      "keyword": "북한 내고향 아시아 정상 등극",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "장현승, 일베 용어 사용 사과",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "중국 광산 폭발 82명 사망",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "도쿄 베르디 감독 구스노세",
-      "state": "+",
-      "change": "12"
-    },
-    {
-      "rank": 6,
-      "keyword": "내고향 선수들 기뻐해요",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "김현철 한동훈 지지",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "유재석 효리수 OST 만남",
+      "keyword": "박근혜 대구 유세",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "임지연의 멋진 신세계 인생캐",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "오십프로의 존재감",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "김규리 자택 강도 구속 위험",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "6·3 지방선거 유권자 증가",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "TASTY JEJU 메밀 경연",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 9,
-      "keyword": "사무실서 지인 살해한 40대 남성 체포",
+      "keyword": "故설리 오빠 녹취 저격",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "유선호 하차 폭로 거짓말",
-      "state": "n",
-      "change": "0"
+      "keyword": "합숙맞선2 내달 방송 3MC 그대로",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
