@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-22T23:43:04.744Z",
+  "updatedAt": "2026-05-23T01:28:06.663Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "최준희",
-      "traffic": "5000+"
+      "keyword": "샌안토니오 대 오클라호마시티",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "이규섭",
+      "keyword": "스타뉴스",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "경주시",
-      "traffic": "100+"
+      "keyword": "김태흠",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "김대기",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "경상남도지사",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "이민우",
+      "keyword": "관저",
       "traffic": "500+"
     },
     {
+      "rank": 5,
+      "keyword": "두산 베어스",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "장원영",
+      "traffic": "2000+"
+    },
+    {
       "rank": 7,
-      "keyword": "알테오젠",
-      "traffic": "200+"
+      "keyword": "bmw 7 시리즈",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "중랑구",
-      "traffic": "200+"
+      "keyword": "스페이스x 발사",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "msci",
-      "traffic": "200+"
+      "keyword": "중산층",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "2026",
-      "traffic": "2000+"
+      "keyword": "김선태",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "오십프로 첫방 4.4% 스타트",
-      "state": "s",
+      "keyword": "이란공습 이스라엘 공중급유기",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "최태성, 멋진 신세계 언급",
+      "keyword": "칸 범행 증거 시사회",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "문원, 신지에 금 10돈 선물",
-      "state": "n",
+      "keyword": "오십프로 첫방 이학주 눈길",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "반도체 관세 당장 없다",
+      "keyword": "이정후 부상자 등록",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "캐릭 정식 감독 선임",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "완판 국민성장펀드",
-      "state": "-",
+      "keyword": "문원, 신지에 금 10돈 선물",
+      "state": "+",
       "change": "2"
     },
     {
-      "rank": 7,
-      "keyword": "탱크데이 스타벅스 저격",
+      "rank": 6,
+      "keyword": "반도체 관세 부과 없다",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 7,
+      "keyword": "멋진 신세계 시청률 급상승",
+      "state": "+",
+      "change": "11"
+    },
+    {
       "rank": 8,
-      "keyword": "환희, 브라이언 갈등 공개",
+      "keyword": "전국 곳곳 약한 비",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "은퇴 알린 장동주",
-      "state": "-",
-      "change": "2"
+      "keyword": "류승범, 버스전용차로 위반",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "나영석 PD 배 아파서 못 봤다",
+      "keyword": "김선태, 충주의료원 1억 기부",
       "state": "n",
       "change": "0"
     }
