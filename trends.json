@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-23T22:34:18.548Z",
+  "updatedAt": "2026-05-23T23:36:32.444Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "장두성",
-      "traffic": "2000+"
+      "keyword": "마늘",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "삼성",
-      "traffic": "10000+"
+      "keyword": "옥순이",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "이재명",
-      "traffic": "1000+"
+      "keyword": "김서현",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "부동산",
-      "traffic": "1000+"
+      "keyword": "valencia cf vs fc barcelona standings",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "나는 solo, 그 후 사랑은 계속된다",
+      "keyword": "우이밍",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "코스닥",
-      "traffic": "200+"
+      "keyword": "크리스티안 문지우",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "발전",
-      "traffic": "100+"
+      "keyword": "킬리안 음바페",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "la liga",
-      "traffic": "100+"
+      "keyword": "육상 경기",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "국립백두대간수목원",
+      "keyword": "배우",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "수소 자동차",
-      "traffic": "100+"
+      "keyword": "버스",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "임지연의 멋진 신세계 인생",
+      "keyword": "임지연 멋진 신세계 꿈과 패션",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "신하균 오십프로 존재감 가득",
+      "keyword": "허성태 오십프로 카리스마 코미디",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "트럼프 이란과 합의할지 50대50",
+      "keyword": "트럼프 이란 협정 최종 논의 중",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "나홍진 칸 수상 실패",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
       "keyword": "연합뉴스와 인터뷰하는 김재현-장하정",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "은밀한 감사",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "이재명 대통령, 북 내고향 우승 축하",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "다영 우주소녀 시절 2주에 1통",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "2026년 5월 24일 운세",
-      "state": "-",
+      "rank": 5,
+      "keyword": "은밀한 감사",
+      "state": "+",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "백악관 근처 총성 기자 대피",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "북 내고향 우승 축하합니다",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "나홍진 호프 수상 불발",
+      "state": "-",
+      "change": "4"
+    },
+    {
+      "rank": 9,
+      "keyword": "1225회 로또 당첨 지역",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "이창섭 직원 월급도",
+      "keyword": "오세훈 정원오, 재개발 기초 미비",
       "state": "n",
       "change": "0"
     }
