@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-23T14:18:16.760Z",
+  "updatedAt": "2026-05-23T15:34:14.684Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "남도형",
-      "traffic": "100+"
+      "keyword": "조말례",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "모자무싸",
-      "traffic": "500+"
+      "keyword": "그것이 알고싶다",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "운동",
-      "traffic": "5000+"
+      "keyword": "다영",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "이수현",
+      "keyword": "lsg vs pbks",
       "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "뱀",
-      "traffic": "100+"
+      "keyword": "헐시티",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "소유진",
+      "keyword": "미국증시",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "이승엽",
+      "keyword": "임지연",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "로또1225회당첨번호",
-      "traffic": "2000+"
+      "keyword": "로베르토 데 제르비",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "하나로마트",
-      "traffic": "1000+"
+      "keyword": "이현중",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "황영웅",
-      "traffic": "1000+"
+      "keyword": "jtbc",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "오세훈 재개발 기초 모른다",
-      "state": "s",
+      "keyword": "해남 경비행기 추락 중상",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "잠정합의안 투표율 80%",
-      "state": "+",
-      "change": "6"
+      "keyword": "북한 내고향, 아시아 클럽 우승",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "은밀한 감사",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "한동훈 지지 보수 승리",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "신지♥문원 CCTV 설치 해명",
+      "keyword": "임지연의 멋진 신세계 인생",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 4,
+      "keyword": "은밀한 감사",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "정원오 후보 유세 중",
+      "state": "+",
+      "change": "36"
+    },
+    {
       "rank": 6,
-      "keyword": "동료 말다툼 후 살해",
+      "keyword": "우승한 내고향여자축구단",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김민혁 3안타 KT 승리",
-      "state": "s",
-      "change": "0"
+      "keyword": "신지 문원 CCTV 논란 해명",
+      "state": "-",
+      "change": "6"
     },
     {
       "rank": 8,
-      "keyword": "1225회 로또 1등 13명 각 22억3천",
-      "state": "n",
-      "change": "0"
+      "keyword": "잠정합의안 투표율 80%",
+      "state": "+",
+      "change": "9"
     },
     {
       "rank": 9,
-      "keyword": "오십프로 첫방 존재감",
+      "keyword": "남도형 매니저 결혼 소식",
       "state": "+",
-      "change": "24"
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "그것이 알고 싶다",
-      "state": "+",
-      "change": "4"
+      "keyword": "이재명 묘소 참배",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
