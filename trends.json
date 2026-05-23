@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-23T19:52:15.302Z",
+  "updatedAt": "2026-05-23T20:40:16.596Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "real madrid vs athletic club",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
+      "keyword": "바이에른 뮌헨",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "valencia vs barcelona",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "바둑",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
       "keyword": "레알 마드리드 대 아틀레틱",
       "traffic": "2000+"
     },
     {
-      "rank": 2,
-      "keyword": "발렌시아 대 바르셀로나",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "영월군",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "세리에 a",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "바이에른 대 슈투트가르트",
-      "traffic": "5000+"
-    },
-    {
       "rank": 6,
+      "keyword": "발렌시아 대 바르셀로나",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "영월군",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "바이에른 대 슈투트가르트",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 9,
       "keyword": "나성범",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "keyword": "챔피언십",
       "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "원자력",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "이준호",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "전국소년체육대회",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "임지연의 멋진 신세계",
-      "state": "s",
+      "keyword": "이재명 대통령과 대화 나누다",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이재명 대통령, 노무현 묘소 참배",
+      "keyword": "임지연의 멋진 신세계 인생",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "오십프로 존재감 가득",
+      "keyword": "오십프로 강렬한 존재감",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이주연, 검사 소개팅 거절하고 결혼 원해",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "대한민국 한류연예대상 포토월",
+      "keyword": "무빙데이 밝은 손인사",
       "state": "+",
       "change": "3"
     },
     {
-      "rank": 6,
-      "keyword": "은밀한 감사",
+      "rank": 5,
+      "keyword": "대한민국 한류연예대상 포토월",
       "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "트럼프 이란과 합의할지",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "로또 1등 13명, 각 22.3억",
-      "state": "s",
-      "change": "0"
+      "keyword": "은밀한 감사",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "차분한 미소 손인사들",
-      "state": "n",
-      "change": "0"
+      "keyword": "이란 합의 진전돼가나",
+      "state": "+",
+      "change": "7"
     },
     {
       "rank": 9,
-      "keyword": "트럼프 이란 합의 여부 50대50",
-      "state": "s",
+      "keyword": "HK직캠 베이비몬스터",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "무빙데이 밝은 손인사",
+      "keyword": "오세훈 정원오 재개발 의혹",
       "state": "n",
       "change": "0"
     }
