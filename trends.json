@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-23T09:24:19.366Z",
+  "updatedAt": "2026-05-23T10:49:27.239Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "야구중계",
-      "traffic": "500+"
+      "keyword": "칸 영화제",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "양현종",
-      "traffic": "100+"
+      "keyword": "채연",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "금타는 금요일",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "네이처셀",
+      "keyword": "xsmn",
       "traffic": "100+"
     },
     {
+      "rank": 4,
+      "keyword": "게임",
+      "traffic": "2000+"
+    },
+    {
       "rank": 5,
-      "keyword": "김용건",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "내 고향 여자 축구단",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "에베레스트 산",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "ls전선",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "김소혜",
+      "keyword": "리벨리온",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "이란",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "전국삼성전자노동조합",
+      "traffic": "20000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "이수빈",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "이선민",
+      "traffic": "500+"
+    },
+    {
       "rank": 10,
-      "keyword": "국채",
-      "traffic": "1000+"
+      "keyword": "프로야구 중계",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "해남 경비행기 추락 중상",
-      "state": "+",
-      "change": "1"
+      "keyword": "구포시장 전재수 하정우 합동 유세",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "북한 내고향 아시아 정상 등극",
+      "keyword": "내고향 리유일 감독 우승 이끌다",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "오십프로 존재감 가득",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 3,
-      "keyword": "박근혜 대구 유세",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 4,
-      "keyword": "임지연의 멋진 신세계 인생캐",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "오십프로의 존재감",
+      "keyword": "임지연 멋진 신세계 생애 최고의 순간",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "김규리 자택 강도 구속 위험",
+      "rank": 5,
+      "keyword": "해남 경비행기 추락 중상 2명",
       "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "이선민, 19년차 자취로 공감 얻다",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "6·3 지방선거 유권자 증가",
-      "state": "-",
-      "change": "2"
+      "keyword": "불후의 명곡",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "TASTY JEJU 메밀 경연",
-      "state": "-",
-      "change": "2"
+      "keyword": "서울 스프링 페스티벌",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "故설리 오빠 녹취 저격",
+      "keyword": "화성 빌라 화재 손자 사망",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "합숙맞선2 내달 방송 3MC 그대로",
+      "keyword": "삼성물산 압구정4구역 재건축",
       "state": "-",
       "change": "3"
     }
