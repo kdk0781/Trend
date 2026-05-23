@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-05-23T10:49:27.239Z",
+  "updatedAt": "2026-05-23T11:49:22.873Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "칸 영화제",
-      "traffic": "100+"
+      "keyword": "조갑제",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "채연",
+      "keyword": "폭발",
       "traffic": "500+"
     },
     {
       "rank": 3,
+      "keyword": "칸 영화제",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "채연",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
       "keyword": "xsmn",
       "traffic": "100+"
     },
     {
-      "rank": 4,
-      "keyword": "게임",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "리벨리온",
-      "traffic": "200+"
-    },
-    {
       "rank": 6,
-      "keyword": "이란",
-      "traffic": "2000+"
+      "keyword": "게임",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "전국삼성전자노동조합",
-      "traffic": "20000+"
+      "keyword": "리벨리온",
+      "traffic": "500+"
     },
     {
       "rank": 8,
+      "keyword": "이란",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 9,
       "keyword": "이수빈",
       "traffic": "200+"
     },
     {
-      "rank": 9,
-      "keyword": "이선민",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "프로야구 중계",
-      "traffic": "100+"
+      "keyword": "전국삼성전자노동조합",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "내고향 리유일 감독 우승 이끌다",
+      "keyword": "오십프로 첫방 존재감",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "오십프로 존재감 가득",
+      "keyword": "신지 문원, 신혼집 CCTV 해명",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "서울 스프링 페스티벌",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "임지연 멋진 신세계 생애 최고의 순간",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 5,
-      "keyword": "해남 경비행기 추락 중상 2명",
-      "state": "n",
-      "change": "0"
+      "keyword": "임지연, 멋진 신세계 연기 인생",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "이선민, 19년차 자취로 공감 얻다",
-      "state": "s",
+      "keyword": "채리티 오픈 선두",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
       "keyword": "불후의 명곡",
-      "state": "+",
-      "change": "3"
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "서울 스프링 페스티벌",
-      "state": "n",
-      "change": "0"
+      "keyword": "잠정합의안 투표율 80%",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "화성 빌라 화재 손자 사망",
+      "keyword": "최휘영 장관 내고향 선수 메달 수여",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "삼성물산 압구정4구역 재건축",
-      "state": "-",
-      "change": "3"
+      "keyword": "중국 탄광 폭발 82명 실종",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
