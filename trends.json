@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-23T18:41:10.167Z",
+  "updatedAt": "2026-05-23T19:52:15.302Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "레알 마드리드 대 아틀레틱",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "발렌시아 대 바르셀로나",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
       "keyword": "영월군",
       "traffic": "100+"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "keyword": "세리에 a",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "바이에른 대 슈투트가르트",
       "traffic": "5000+"
     },
     {
-      "rank": 4,
-      "keyword": "챔피언십",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "나성범",
-      "traffic": "100+"
-    },
-    {
       "rank": 6,
-      "keyword": "원자력",
+      "keyword": "나성범",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "이준호",
-      "traffic": "2000+"
+      "keyword": "챔피언십",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "전국소년체육대회",
+      "keyword": "원자력",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "efl",
-      "traffic": "200+"
+      "keyword": "이준호",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "석삼플레이",
+      "keyword": "전국소년체육대회",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "임지연 멋진 신세계 인생캐",
-      "state": "+",
-      "change": "4"
+      "keyword": "임지연의 멋진 신세계",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "신하균 오십프로 첫방 존재감",
-      "state": "+",
-      "change": "4"
+      "keyword": "이재명 대통령, 노무현 묘소 참배",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이재명, 노무현 묘소 참배",
-      "state": "-",
-      "change": "2"
+      "keyword": "오십프로 존재감 가득",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이주연, 검사와 소개팅 거절 후 결혼 욕망",
-      "state": "n",
+      "keyword": "이주연, 검사 소개팅 거절하고 결혼 원해",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "북측 표현에 퇴장한 감독",
-      "state": "-",
-      "change": "2"
+      "keyword": "대한민국 한류연예대상 포토월",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "문원, 신혼집 CCTV 해명",
+      "keyword": "은밀한 감사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "삼성 잠정합의안 투표 80%",
+      "keyword": "로또 1등 13명, 각 22.3억",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "전지현과 군체 관객 셀카 타임",
-      "state": "+",
-      "change": "23"
+      "keyword": "차분한 미소 손인사들",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "KIA SSG 6연패 끊다",
-      "state": "+",
-      "change": "1"
+      "keyword": "트럼프 이란 합의 여부 50대50",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "대한민국 한류대상 포토월 행사",
+      "keyword": "무빙데이 밝은 손인사",
       "state": "n",
       "change": "0"
     }
