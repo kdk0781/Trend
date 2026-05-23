@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-23T15:34:14.684Z",
+  "updatedAt": "2026-05-23T16:35:23.161Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "조말례",
-      "traffic": "200+"
+      "keyword": "이주연",
+      "traffic": "500+"
     },
     {
       "rank": 2,
+      "keyword": "이현이",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "조말례",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
       "keyword": "그것이 알고싶다",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "다영",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "lsg vs pbks",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "헐시티",
-      "traffic": "200+"
+      "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "미국증시",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "임지연",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "keyword": "로베르토 데 제르비",
       "traffic": "5000+"
     },
     {
-      "rank": 9,
-      "keyword": "이현중",
-      "traffic": "100+"
-    },
-    {
       "rank": 10,
-      "keyword": "jtbc",
+      "keyword": "이현중",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "해남 경비행기 추락 중상",
-      "state": "n",
-      "change": "0"
+      "keyword": "신하균 오십프로 첫방 존재감",
+      "state": "+",
+      "change": "29"
     },
     {
       "rank": 2,
-      "keyword": "북한 내고향, 아시아 클럽 우승",
-      "state": "n",
-      "change": "0"
+      "keyword": "이재명 대통령 활동",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "임지연의 멋진 신세계 인생",
-      "state": "-",
-      "change": "1"
+      "keyword": "신지 남편 문원, CCTV 해명",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "은밀한 감사",
-      "state": "-",
-      "change": "1"
+      "keyword": "이주연, 검사와 소개팅 거절 후 결혼 원해",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 5,
-      "keyword": "정원오 후보 유세 중",
+      "keyword": "구포시장 유세 전재수·하정우",
       "state": "+",
-      "change": "36"
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "우승한 내고향여자축구단",
+      "keyword": "잠정합의안 투표율 80%",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "은밀한 감사",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "임지연의 멋진 신세계 인생캐",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 9,
+      "keyword": "해남서 경비행기 추락 중상 2명",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "신지 문원 CCTV 논란 해명",
-      "state": "-",
-      "change": "6"
-    },
-    {
-      "rank": 8,
-      "keyword": "잠정합의안 투표율 80%",
-      "state": "+",
-      "change": "9"
-    },
-    {
-      "rank": 9,
-      "keyword": "남도형 매니저 결혼 소식",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 10,
-      "keyword": "이재명 묘소 참배",
+      "keyword": "주우재 날씨 왜 틀리나?",
       "state": "n",
       "change": "0"
     }
