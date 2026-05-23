@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-23T11:49:22.873Z",
+  "updatedAt": "2026-05-23T12:46:59.255Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "조갑제",
+      "keyword": "딜라이트",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "폭발",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "칸 영화제",
+      "keyword": "kbo 순위",
       "traffic": "200+"
     },
     {
-      "rank": 4,
-      "keyword": "채연",
+      "rank": 3,
+      "keyword": "klasemen persib bandung vs persijap",
       "traffic": "500+"
     },
     {
-      "rank": 5,
-      "keyword": "xsmn",
+      "rank": 4,
+      "keyword": "크리스탈",
       "traffic": "100+"
     },
     {
+      "rank": 5,
+      "keyword": "펄어비스",
+      "traffic": "200+"
+    },
+    {
       "rank": 6,
-      "keyword": "게임",
-      "traffic": "1000+"
+      "keyword": "persib",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "리벨리온",
+      "keyword": "경비행기",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "이란",
-      "traffic": "5000+"
+      "keyword": "허인회",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "이수빈",
+      "keyword": "노경은",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "전국삼성전자노동조합",
-      "traffic": "5000+"
+      "keyword": "조갑제",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "구포시장 전재수 하정우 합동 유세",
+      "keyword": "정원오 서울시장 후보",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "오십프로 첫방 존재감",
-      "state": "s",
-      "change": "0"
+      "keyword": "오십프로로 꽉 찬 첫방",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 3,
-      "keyword": "신지 문원, 신혼집 CCTV 해명",
-      "state": "s",
+      "keyword": "“김민혁 4안타 KT 승리”",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "서울 스프링 페스티벌",
-      "state": "+",
+      "keyword": "신지 문원, CCTV 해명",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "임지연, 멋진 신세계 연기 인생",
+      "keyword": "삼성 잠정합의안 투표율 80%",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "채리티 오픈 선두",
+      "keyword": "내고향축구단 우승 축하",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "불후의 명곡",
-      "state": "-",
+      "keyword": "지누션 서스페 출동",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "잠정합의안 투표율 80%",
+      "keyword": "KIA, SSG 6연패 부활!",
+      "state": "+",
+      "change": "25"
+    },
+    {
+      "rank": 9,
+      "keyword": "주우재 날씨 왜 틀리나?",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 9,
-      "keyword": "최휘영 장관 내고향 선수 메달 수여",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 10,
-      "keyword": "중국 탄광 폭발 82명 실종",
-      "state": "n",
-      "change": "0"
+      "keyword": "박민식 지원유세하는 나경원",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
