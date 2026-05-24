@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-24T01:33:16.768Z",
+  "updatedAt": "2026-05-24T05:43:22.266Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "롯데마트",
-      "traffic": "200+"
+      "keyword": "풍선 효과",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "조태용",
+      "keyword": "문채원",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "시부모",
-      "traffic": "200+"
+      "keyword": "최동원",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "ssc 나폴리",
-      "traffic": "100+"
+      "keyword": "여론",
+      "traffic": "10000+"
     },
     {
       "rank": 5,
-      "keyword": "클리블랜드 대 뉴욕",
-      "traffic": "500+"
+      "keyword": "김풍",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "한화솔루션",
-      "traffic": "500+"
+      "keyword": "이태리",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "klasemen valencia cf vs barcelona",
-      "traffic": "100+"
+      "keyword": "코스피 200",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "나영석",
-      "traffic": "200+"
+      "keyword": "김민규",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "담보 대출",
-      "traffic": "200+"
+      "keyword": "미국 국방부",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "카르바할",
-      "traffic": "100+"
+      "keyword": "홍민기",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "백악관 인근 총성 발생",
-      "state": "n",
-      "change": "0"
+      "keyword": "미-이란, 60일 휴전·호르무즈 개방 근접",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "뮌헨, DFB 포칼 더블 달성",
-      "state": "n",
+      "keyword": "멋진 신세계 주말극 대전",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "나홍진 호프 수상 불발",
-      "state": "n",
-      "change": "0"
+      "keyword": "전지현·구교환 군체 100만 관객 돌파",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "혐오 사이트 폐쇄 검토",
-      "state": "n",
-      "change": "0"
+      "keyword": "울산시장 단일화 중단",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "광주제일고 박찬민 필라델피아",
-      "state": "n",
+      "keyword": "숙소 떠나는 내고향여자축구단",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "레드카펫에 오른 스윈튼",
-      "state": "n",
-      "change": "0"
+      "keyword": "허성태 오십프로 카리스마와 코미디",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "조혜련 아들 자퇴 이유",
-      "state": "n",
+      "keyword": "전재수·박형준 부산시장 후보",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "임지연 허남준 시청률 1위!",
+      "keyword": "합장하는 이재명 대통령",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "문원, CCTV 설치 해명",
-      "state": "n",
-      "change": "0"
+      "keyword": "이회창",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "부처님 오신날 봉행",
-      "state": "+",
-      "change": "5"
+      "keyword": "설종진 감독 승리만 원해",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
