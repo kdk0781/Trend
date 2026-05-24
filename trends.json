@@ -1,56 +1,117 @@
 {
-  "updatedAt": "2026-05-24T14:12:36.190Z",
+  "updatedAt": "2026-05-24T15:35:06.170Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "수표",
-      "traffic": "1000+"
+      "keyword": "man city vs aston villa",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "알렉산더 즈베레프",
-      "traffic": "500+"
+      "keyword": "보아",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "한국기행",
+      "keyword": "liverpool vs brentford",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "러시아",
+      "keyword": "palace vs arsenal",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "신예은",
-      "traffic": "1000+"
+      "keyword": "크리스털 팰리스 대 아스널",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "이세희",
-      "traffic": "200+"
+      "keyword": "리버풀 대 브렌트퍼드",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "당진시",
-      "traffic": "500+"
+      "keyword": "풀럼 대 뉴캐슬",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "thời tiết ngày mai",
-      "traffic": "1000+"
+      "keyword": "brighton vs man united",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "송일국",
-      "traffic": "10000+"
+      "keyword": "토트넘 대 에버턴",
+      "traffic": "20000+"
     },
     {
       "rank": 10,
-      "keyword": "버킨백",
-      "traffic": "1000+"
+      "keyword": "선덜랜드 대 첼시",
+      "traffic": "2000+"
     }
   ],
-  "domestic": []
+  "domestic": [
+    {
+      "rank": 1,
+      "keyword": "류현진 200승 달성",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 2,
+      "keyword": "오세훈 후보 지지 호소",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "짜라위 분짠, KLPGA 정상",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "정용진 26일 사과 발언",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "이재명 대통령 부처님오신날 행사",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "주말극 대전 새 판 짰다",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "임원희 살목지 방문",
+      "state": "-",
+      "change": "5"
+    },
+    {
+      "rank": 8,
+      "keyword": "31기 영숙 법적 대응 검토",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "박해민 끝내기 홈런으로 역전승",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "이란 호르무즈 선박 회복",
+      "state": "n",
+      "change": "0"
+    }
+  ]
 }
