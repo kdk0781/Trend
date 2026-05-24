@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-24T22:41:24.843Z",
+  "updatedAt": "2026-05-24T23:44:25.170Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "3기 신도시",
-      "traffic": "500+"
+      "keyword": "코너 맥그리거",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "스타뉴스",
-      "traffic": "100+"
+      "keyword": "한화솔루션",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "코스피",
-      "traffic": "2000+"
+      "keyword": "로스앤젤레스 fc",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "이예원",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "테일러 프리츠",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "불교",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "전지현",
+      "keyword": "취사병 전설이 되다",
       "traffic": "500+"
     },
     {
+      "rank": 5,
+      "keyword": "수학여행",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "김시우",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "옥순이",
+      "traffic": "1000+"
+    },
+    {
       "rank": 8,
-      "keyword": "thứ hạng của man city gặp aston villa",
+      "keyword": "변동성",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "villarreal vs atlético madrid",
-      "traffic": "100+"
+      "keyword": "금",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "미운 우리 새끼",
-      "traffic": "500+"
+      "keyword": "임영웅",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "토트넘 17위 극적 잔류",
-      "state": "s",
-      "change": "0"
+      "keyword": "구교환 감독상 고윤정 코피 멈춤",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "트럼프, 이란 협상 서두르지 말라",
-      "state": "s",
-      "change": "0"
+      "keyword": "토트넘의 극적 잔류",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "모자무싸 종영 소감",
+      "keyword": "이회창",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이회창",
-      "state": "+",
-      "change": "1"
+      "keyword": "유병호 고발장 공개 소송 패소",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "호르무즈 우라늄 폐기 합의",
+      "keyword": "김시우 바이런 준우승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
       "keyword": "은밀한 감사",
-      "state": "-",
-      "change": "2"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "주말극 대전 새 판 짰다",
+      "keyword": "허성태 오십프로 카리스마와 코미디",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 8,
+      "keyword": "128만 관객 군체 돌파",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "류현진 200승 축하",
-      "state": "n",
+      "rank": 9,
+      "keyword": "정용진 재사과 예고",
+      "state": "s",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "군체 100만 관객 돌파",
-      "state": "-",
-      "change": "2"
-    },
-    {
       "rank": 10,
-      "keyword": "정용진 피의자 입건",
+      "keyword": "멋진 신세계 주말극 대전",
       "state": "-",
-      "change": "2"
+      "change": "4"
     }
   ]
 }
