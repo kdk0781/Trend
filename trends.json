@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-23T23:36:32.444Z",
+  "updatedAt": "2026-05-24T01:33:16.768Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "마늘",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "옥순이",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "김서현",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "valencia cf vs fc barcelona standings",
+      "keyword": "롯데마트",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "조태용",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "시부모",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "ssc 나폴리",
+      "traffic": "100+"
+    },
+    {
       "rank": 5,
-      "keyword": "우이밍",
+      "keyword": "클리블랜드 대 뉴욕",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "크리스티안 문지우",
+      "keyword": "한화솔루션",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "킬리안 음바페",
-      "traffic": "200+"
+      "keyword": "klasemen valencia cf vs barcelona",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "육상 경기",
-      "traffic": "1000+"
+      "keyword": "나영석",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "배우",
-      "traffic": "500+"
+      "keyword": "담보 대출",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "버스",
-      "traffic": "500+"
+      "keyword": "카르바할",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "임지연 멋진 신세계 꿈과 패션",
-      "state": "s",
+      "keyword": "백악관 인근 총성 발생",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "허성태 오십프로 카리스마 코미디",
-      "state": "s",
+      "keyword": "뮌헨, DFB 포칼 더블 달성",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "트럼프 이란 협정 최종 논의 중",
-      "state": "s",
+      "keyword": "나홍진 호프 수상 불발",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "연합뉴스와 인터뷰하는 김재현-장하정",
-      "state": "+",
-      "change": "1"
+      "keyword": "혐오 사이트 폐쇄 검토",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "은밀한 감사",
-      "state": "+",
-      "change": "1"
+      "keyword": "광주제일고 박찬민 필라델피아",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "백악관 근처 총성 기자 대피",
+      "keyword": "레드카펫에 오른 스윈튼",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "북 내고향 우승 축하합니다",
+      "keyword": "조혜련 아들 자퇴 이유",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "나홍진 호프 수상 불발",
-      "state": "-",
-      "change": "4"
+      "keyword": "임지연 허남준 시청률 1위!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "1225회 로또 당첨 지역",
+      "keyword": "문원, CCTV 설치 해명",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "오세훈 정원오, 재개발 기초 미비",
-      "state": "n",
-      "change": "0"
+      "keyword": "부처님 오신날 봉행",
+      "state": "+",
+      "change": "5"
     }
   ]
 }
