@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-05-24T15:35:06.170Z",
+  "updatedAt": "2026-05-24T16:37:53.445Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "man city vs aston villa",
+      "keyword": "웨스트햄 리즈",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "보아",
-      "traffic": "200+"
+      "keyword": "티비",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "liverpool vs brentford",
-      "traffic": "200+"
+      "keyword": "epl",
+      "traffic": "5000+"
     },
     {
       "rank": 4,
-      "keyword": "palace vs arsenal",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "크리스털 팰리스 대 아스널",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "리버풀 대 브렌트퍼드",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "풀럼 대 뉴캐슬",
+      "keyword": "pl",
       "traffic": "1000+"
     },
     {
+      "rank": 5,
+      "keyword": "ดูบอลสด",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "스포츠",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "fotmob",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "brighton vs man united",
+      "keyword": "모자무싸",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "토트넘 대 에버턴",
-      "traffic": "20000+"
+      "keyword": "중계",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "선덜랜드 대 첼시",
-      "traffic": "2000+"
+      "keyword": "헐크",
+      "traffic": "100+"
     }
   ],
   "domestic": [
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "오세훈 후보 지지 호소",
-      "state": "n",
+      "keyword": "정용진 26일 대국민 사과",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "짜라위 분짠, KLPGA 정상",
-      "state": "n",
+      "keyword": "짜라위 분짠, KLPGA 우승!",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "정용진 26일 사과 발언",
+      "keyword": "유정복 지지 호소 장동혁",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이재명 대통령 부처님오신날 행사",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "주말극 대전 새 판 짰다",
+      "keyword": "모자무싸 종영 소감 및 감정 연주",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "임원희 살목지 방문",
+      "rank": 6,
+      "keyword": "이재명 대통령의 부처님오신날 행사 참여",
       "state": "-",
-      "change": "5"
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "홍상수 김민희 유모차 산책",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "31기 영숙 법적 대응 검토",
-      "state": "n",
+      "keyword": "트럼프 이란과 협상 서두르지 말라",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "박해민 끝내기 홈런으로 역전승",
-      "state": "n",
-      "change": "0"
+      "keyword": "신세계 주말극 대전",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "이란 호르무즈 선박 회복",
+      "keyword": "박해민 끝내기 홈런",
       "state": "n",
       "change": "0"
     }
