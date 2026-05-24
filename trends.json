@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-24T10:05:24.449Z",
+  "updatedAt": "2026-05-24T11:37:05.540Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "하지원",
-      "traffic": "200+"
+      "keyword": "석탄",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "메카",
-      "traffic": "200+"
+      "keyword": "이동국",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "추미애",
-      "traffic": "2000+"
+      "keyword": "이집트",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "한화그룹",
-      "traffic": "500+"
+      "keyword": "현대자동차",
+      "traffic": "10000+"
     },
     {
       "rank": 5,
-      "keyword": "박수종",
-      "traffic": "200+"
+      "keyword": "rr vs mi",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "김상식",
+      "keyword": "강소라",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "교부금",
+      "keyword": "심우준",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "홍상수",
-      "traffic": "2000+"
+      "keyword": "이재현",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "김대호",
-      "traffic": "1000+"
+      "keyword": "대구 대 안산 그리너스",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "거제시장",
-      "traffic": "200+"
+      "keyword": "양자 컴퓨터",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "류현진, 한미 통산 200승!",
-      "state": "s",
+      "keyword": "5·18 왜곡 50대 검거",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "장동혁 유정복 지지 호소",
-      "state": "n",
-      "change": "0"
+      "keyword": "허성태, 오십프로 카리스마와 코미디 잡았다",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 3,
-      "keyword": "이종석의 고태용 디자이너 고백",
-      "state": "s",
+      "keyword": "류현진 200승 완성",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "짜라위 분짠, 우승이야!",
-      "state": "s",
-      "change": "0"
+      "keyword": "면목동에서 오세훈 후보",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "주말극 대전 새 판 짜다",
-      "state": "s",
-      "change": "0"
+      "keyword": "고태용과 이종석 특별 인연 공개",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "31기 영숙 법적 대응 예고",
-      "state": "n",
-      "change": "0"
+      "keyword": "신세계 주말극 대전",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "정용진 26일 사과",
-      "state": "s",
-      "change": "0"
+      "keyword": "군체 100만 관객 돌파",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "박해민 끝내기 홈런 폭발",
-      "state": "n",
-      "change": "0"
+      "keyword": "이회창",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "일베 폐쇄 검토",
+      "keyword": "정용진, 26일 대국민 사과",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "국민의힘 울산 단일화 108배",
+      "keyword": "35% 36% 북갑",
       "state": "n",
       "change": "0"
     }
