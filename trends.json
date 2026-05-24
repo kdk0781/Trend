@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-24T05:43:22.266Z",
+  "updatedAt": "2026-05-24T08:07:51.695Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "풍선 효과",
+      "keyword": "팔공산",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "문채원",
+      "keyword": "마이클 캐릭",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "최동원",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "여론",
+      "keyword": "집중호우",
       "traffic": "10000+"
     },
     {
-      "rank": 5,
-      "keyword": "김풍",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "이태리",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "코스피 200",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "김민규",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "미국 국방부",
+      "rank": 4,
+      "keyword": "군산시",
       "traffic": "500+"
     },
     {
+      "rank": 5,
+      "keyword": "양창섭",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "cj enm 스튜디오 센터",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "스타 벅스 사이렌",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "이투데이",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
+      "keyword": "여연희",
+      "traffic": "1000+"
+    },
+    {
       "rank": 10,
-      "keyword": "홍민기",
-      "traffic": "200+"
+      "keyword": "보스턴다이내믹스",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "미-이란, 60일 휴전·호르무즈 개방 근접",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 2,
-      "keyword": "멋진 신세계 주말극 대전",
+      "keyword": "인천서 유세하는 장동혁",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "전지현·구교환 군체 100만 관객 돌파",
+      "rank": 2,
+      "keyword": "찬스 이어가는 1타점 타격",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "울산시장 단일화 중단",
+      "rank": 3,
+      "keyword": "주말극 새 판 짰다",
       "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "봉축법요식 이재명 대통령",
+      "state": "-",
       "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "숙소 떠나는 내고향여자축구단",
-      "state": "s",
-      "change": "0"
+      "keyword": "이회창",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "허성태 오십프로 카리스마와 코미디",
+      "keyword": "지인 살해 40대 영장 출석",
       "state": "+",
-      "change": "2"
+      "change": "5"
     },
     {
       "rank": 7,
-      "keyword": "전재수·박형준 부산시장 후보",
-      "state": "s",
-      "change": "0"
+      "keyword": "허성태, 오십프로 카리스마와 코미디 열연",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "합장하는 이재명 대통령",
+      "keyword": "류현진 200승 도전",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이회창",
-      "state": "+",
-      "change": "1"
+      "keyword": "최준용 스벅 감사 쪽지",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "설종진 감독 승리만 원해",
+      "keyword": "페라자 솔로 홈런",
       "state": "n",
       "change": "0"
     }
