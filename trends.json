@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-24T16:37:53.445Z",
+  "updatedAt": "2026-05-24T17:37:30.625Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "웨스트햄 리즈",
+      "keyword": "챔스 결승",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "티비",
+      "keyword": "sk스퀘어",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "epl",
-      "traffic": "5000+"
+      "keyword": "최시훈",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "pl",
-      "traffic": "1000+"
+      "keyword": "리버풀",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "ดูบอลสด",
+      "keyword": "맨유 브라이튼",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "스포츠",
-      "traffic": "200+"
+      "keyword": "crystal palace đấu với arsenal",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "fotmob",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "모자무싸",
+      "keyword": "재건축",
       "traffic": "500+"
     },
     {
+      "rank": 8,
+      "keyword": "lpl",
+      "traffic": "100+"
+    },
+    {
       "rank": 9,
-      "keyword": "중계",
-      "traffic": "200+"
+      "keyword": "티비",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "헐크",
-      "traffic": "100+"
+      "keyword": "epl",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "류현진 200승 달성",
-      "state": "n",
-      "change": "0"
+      "keyword": "트럼프 서두르지 말라 지시",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "정용진 26일 대국민 사과",
+      "keyword": "류현진 200승 달성",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "짜라위 분짠, KLPGA 우승!",
-      "state": "s",
-      "change": "0"
+      "keyword": "이재명 대통령 행사 참석",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "유정복 지지 호소 장동혁",
+      "keyword": "은밀한 감사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "모자무싸 종영 소감 및 감정 연주",
-      "state": "s",
-      "change": "0"
+      "keyword": "이세희 둘째 언니, 소개팅 불발",
+      "state": "+",
+      "change": "8"
     },
     {
       "rank": 6,
-      "keyword": "이재명 대통령의 부처님오신날 행사 참여",
-      "state": "-",
+      "keyword": "5·18 허위사실 계정 내사",
+      "state": "+",
       "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "홍상수 김민희 유모차 산책",
+      "keyword": "최정 끝내기 4연승",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "트럼프 이란과 협상 서두르지 말라",
-      "state": "s",
-      "change": "0"
+      "keyword": "모자무싸 소감과 감정",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "신세계 주말극 대전",
-      "state": "-",
-      "change": "3"
+      "keyword": "군체 VIP시사회 참석한 스타들",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "박해민 끝내기 홈런",
-      "state": "n",
-      "change": "0"
+      "keyword": "허성태, 카리스마와 코미디 오십프로",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
