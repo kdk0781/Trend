@@ -1,117 +1,56 @@
 {
-  "updatedAt": "2026-05-24T12:43:54.290Z",
+  "updatedAt": "2026-05-24T14:12:36.190Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "thời tiết ngày mai",
+      "keyword": "수표",
       "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "k리그2",
-      "traffic": "100+"
+      "keyword": "알렉산더 즈베레프",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "송일국",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "삼성 갤럭시 z 시리즈",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "버킨백",
+      "keyword": "한국기행",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "러시아",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "신예은",
+      "traffic": "1000+"
+    },
+    {
       "rank": 6,
-      "keyword": "중소기업",
-      "traffic": "500+"
+      "keyword": "이세희",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "xsmb",
+      "keyword": "당진시",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "도경완",
-      "traffic": "200+"
+      "keyword": "thời tiết ngày mai",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "집비둘기",
-      "traffic": "100+"
+      "keyword": "송일국",
+      "traffic": "10000+"
     },
     {
       "rank": 10,
-      "keyword": "박형룡",
-      "traffic": "2000+"
+      "keyword": "버킨백",
+      "traffic": "1000+"
     }
   ],
-  "domestic": [
-    {
-      "rank": 1,
-      "keyword": "경찰 5·18 허위 계정 내사",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "최정 4연승 여자바둑 우승",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "허성태 오십프로 카리스마와 코미디",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "2026 K-브랜드 및 수상",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "포천 백운계곡 방문",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 6,
-      "keyword": "대체공휴일 흐린 비 30도",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "북한TV 내고향팀 보도",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "하정우 35% 한동훈 36% 접전",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "전광훈, 계엄 엉뚱한 날짜",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 10,
-      "keyword": "최시훈, 에일리 시험관 주사 실수",
-      "state": "n",
-      "change": "0"
-    }
-  ]
+  "domestic": []
 }
