@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-24T18:44:16.553Z",
+  "updatedAt": "2026-05-24T19:52:22.013Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "노바크 조코비치",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "비야레알 대 아틀레티코",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
       "keyword": "아스널 fc",
       "traffic": "100+"
     },
     {
-      "rank": 2,
-      "keyword": "알라바",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
+      "rank": 4,
       "keyword": "세리에",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "로버트슨",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "ngoại hạng anh",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "베르나르두 실바",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "살라",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "west ham vs leeds",
       "traffic": "100+"
     },
     {
-      "rank": 9,
-      "keyword": "sk스퀘어",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "챔스 결승",
+      "keyword": "sk스퀘어",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "은밀한 감사",
-      "state": "+",
-      "change": "12"
+      "keyword": "트럼프 지시, 서두르지 말라",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "트럼프 이란 합의 서두르지 말라",
-      "state": "-",
-      "change": "1"
+      "keyword": "토트넘 잔류 축하해",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "토트넘 잔류 축하해!",
+      "keyword": "류현진 200승 달성",
       "state": "+",
-      "change": "2"
+      "change": "5"
     },
     {
       "rank": 4,
-      "keyword": "최정, 끝내기 4연승 달성!",
-      "state": "-",
-      "change": "2"
+      "keyword": "김종민 쌍둥이 아빠 되나?",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 5,
-      "keyword": "이재명 대통령 봉축행사 참석",
+      "keyword": "은밀한 감사",
       "state": "-",
       "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "이세희 둘째 언니 소개팅 실패",
-      "state": "-",
-      "change": "2"
+      "keyword": "군체 VIP시사회 참석",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "허성태, 카리스마·코미디 오십프로 활약",
-      "state": "+",
-      "change": "18"
+      "keyword": "이재명 대통령의 부처님오신날 행사 참석",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "모자무싸 감정과 행복",
+      "keyword": "이란 호르무즈 항행 재개 논의",
       "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 9,
-      "keyword": "군체 VIP시사회 참석자들",
-      "state": "-",
       "change": "1"
     },
     {
+      "rank": 9,
+      "keyword": "허성태, 오십프로 카리스마와 코믹 열연",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "류현진 200승 달성",
+      "keyword": "주말극 대전 멋진 신세계",
       "state": "-",
-      "change": "3"
+      "change": "4"
     }
   ]
 }
