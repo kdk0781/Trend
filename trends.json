@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-24T20:44:13.013Z",
+  "updatedAt": "2026-05-24T21:40:29.592Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "내셔널스 대 브레이브스",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
+      "keyword": "사회 보장",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "골프",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "조상우",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "pga",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "신동",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
       "keyword": "미사일",
       "traffic": "1000+"
     },
     {
-      "rank": 2,
-      "keyword": "tsmc",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "한혜진",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "노바크 조코비치",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "비야레알 대 아틀레티코",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "serie a",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "아스널 fc",
-      "traffic": "100+"
-    },
-    {
       "rank": 8,
-      "keyword": "세리에",
-      "traffic": "200+"
+      "keyword": "tsmc",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "알라바",
-      "traffic": "200+"
+      "keyword": "미세 플라스틱",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "로버트슨",
+      "keyword": "한혜진",
       "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "은밀한 감사",
-      "state": "+",
-      "change": "8"
+      "keyword": "토트넘 잔류 위해 노력해라",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "토트넘, 에버턴 1-0 승리",
+      "keyword": "트럼프 서두르지 말라 지시",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "트럼프 서두르지 말라 지시",
-      "state": "-",
-      "change": "2"
+      "keyword": "은밀한 감사",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "주말극 대전 새 판짜기",
-      "state": "+",
-      "change": "7"
+      "keyword": "멋진 신세계 주말극 대전",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "류현진 200승 달성",
-      "state": "-",
-      "change": "2"
+      "keyword": "김종민 쌍둥이 아빠 되나",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "이세희 둘째 언니 소개팅 무산",
+      "keyword": "허성태 오십프로 카리스마 코미디",
       "state": "-",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "군체 VIP시사회 참석자들",
-      "state": "-",
+      "keyword": "류현진 200승 달성",
+      "state": "+",
       "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "이란·오만 호르무즈 항행 논의",
-      "state": "n",
+      "keyword": "이회창",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이회창",
-      "state": "+",
-      "change": "60"
+      "keyword": "영화 군체 100만 돌파",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "김종민 쌍둥이 아빠 되나?",
+      "keyword": "정용진 대국민 사과 추진",
       "state": "-",
-      "change": "2"
+      "change": "1"
     }
   ]
 }
