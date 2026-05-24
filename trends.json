@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-24T08:07:51.695Z",
+  "updatedAt": "2026-05-24T10:05:24.449Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "팔공산",
-      "traffic": "100+"
+      "keyword": "하지원",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "마이클 캐릭",
+      "keyword": "메카",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "집중호우",
-      "traffic": "10000+"
+      "keyword": "추미애",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "군산시",
+      "keyword": "한화그룹",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "양창섭",
-      "traffic": "1000+"
+      "keyword": "박수종",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "cj enm 스튜디오 센터",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "스타 벅스 사이렌",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "이투데이",
+      "keyword": "김상식",
       "traffic": "500+"
     },
     {
+      "rank": 7,
+      "keyword": "교부금",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "홍상수",
+      "traffic": "2000+"
+    },
+    {
       "rank": 9,
-      "keyword": "여연희",
+      "keyword": "김대호",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "보스턴다이내믹스",
-      "traffic": "500+"
+      "keyword": "거제시장",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "인천서 유세하는 장동혁",
+      "keyword": "류현진, 한미 통산 200승!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "찬스 이어가는 1타점 타격",
-      "state": "+",
-      "change": "1"
+      "keyword": "장동혁 유정복 지지 호소",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "주말극 새 판 짰다",
-      "state": "+",
-      "change": "2"
+      "keyword": "이종석의 고태용 디자이너 고백",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "봉축법요식 이재명 대통령",
-      "state": "-",
-      "change": "2"
+      "keyword": "짜라위 분짠, 우승이야!",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이회창",
-      "state": "-",
-      "change": "1"
+      "keyword": "주말극 대전 새 판 짜다",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "지인 살해 40대 영장 출석",
-      "state": "+",
-      "change": "5"
+      "keyword": "31기 영숙 법적 대응 예고",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "허성태, 오십프로 카리스마와 코미디 열연",
-      "state": "+",
-      "change": "1"
+      "keyword": "정용진 26일 사과",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "류현진 200승 도전",
+      "keyword": "박해민 끝내기 홈런 폭발",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "최준용 스벅 감사 쪽지",
+      "keyword": "일베 폐쇄 검토",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "페라자 솔로 홈런",
+      "keyword": "국민의힘 울산 단일화 108배",
       "state": "n",
       "change": "0"
     }
