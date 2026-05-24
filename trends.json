@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-24T11:37:05.540Z",
+  "updatedAt": "2026-05-24T12:43:54.290Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "석탄",
-      "traffic": "100+"
+      "keyword": "thời tiết ngày mai",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "이동국",
+      "keyword": "k리그2",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "이집트",
-      "traffic": "100+"
+      "keyword": "송일국",
+      "traffic": "5000+"
     },
     {
       "rank": 4,
-      "keyword": "현대자동차",
-      "traffic": "10000+"
+      "keyword": "삼성 갤럭시 z 시리즈",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "rr vs mi",
-      "traffic": "1000+"
+      "keyword": "버킨백",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "강소라",
+      "keyword": "중소기업",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "심우준",
-      "traffic": "200+"
+      "keyword": "xsmb",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "이재현",
+      "keyword": "도경완",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "대구 대 안산 그리너스",
-      "traffic": "2000+"
+      "keyword": "집비둘기",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "양자 컴퓨터",
-      "traffic": "1000+"
+      "keyword": "박형룡",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "5·18 왜곡 50대 검거",
+      "keyword": "경찰 5·18 허위 계정 내사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "허성태, 오십프로 카리스마와 코미디 잡았다",
-      "state": "+",
-      "change": "3"
+      "keyword": "최정 4연승 여자바둑 우승",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "류현진 200승 완성",
-      "state": "n",
-      "change": "0"
+      "keyword": "허성태 오십프로 카리스마와 코미디",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "면목동에서 오세훈 후보",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "고태용과 이종석 특별 인연 공개",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 6,
-      "keyword": "신세계 주말극 대전",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "군체 100만 관객 돌파",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "이회창",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "정용진, 26일 대국민 사과",
+      "keyword": "2026 K-브랜드 및 수상",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "포천 백운계곡 방문",
+      "state": "+",
+      "change": "6"
+    },
+    {
+      "rank": 6,
+      "keyword": "대체공휴일 흐린 비 30도",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "북한TV 내고향팀 보도",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "하정우 35% 한동훈 36% 접전",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "전광훈, 계엄 엉뚱한 날짜",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 10,
-      "keyword": "35% 36% 북갑",
+      "keyword": "최시훈, 에일리 시험관 주사 실수",
       "state": "n",
       "change": "0"
     }
