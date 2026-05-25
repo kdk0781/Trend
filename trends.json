@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-25T22:15:28.491Z",
+  "updatedAt": "2026-05-25T23:33:11.925Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "天气",
+      "keyword": "투수",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "금융감독원",
+      "keyword": "복싱",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "필라델피아 필리스",
-      "traffic": "2000+"
+      "keyword": "이승엽",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "셔츠",
-      "traffic": "500+"
+      "keyword": "차승원",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "에데르송",
-      "traffic": "100+"
+      "keyword": "노수산나",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "퇴직",
-      "traffic": "200+"
+      "keyword": "맨체스터 시티 fc",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "맨체스터 유나이티드 fc",
-      "traffic": "200+"
+      "keyword": "어머니",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "일기예보",
-      "traffic": "200+"
+      "keyword": "모두가 자신의 무가치함과 싸우고 있다",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "금",
-      "traffic": "2000+"
+      "keyword": "다홍이",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "이순실",
-      "traffic": "500+"
+      "keyword": "울산대공원 장미축제",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "허수아비 진실 밝힌다",
+      "keyword": "허수아비 OST 합본 발매",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "군체 VIP시사회 참석",
+      "keyword": "트럼프, 이란 농축우라늄 폐기 가능",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "아베 감독 딸 폭행 체포",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "김동현, 정관수술 날 넷째 임신 소식",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "정용진 오늘 사과합니다",
+      "keyword": "스페인 월드컵 명단 발표",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "군체 200만 관객 돌파",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "김민정, 43세 미모 근황",
+      "state": "+",
+      "change": "4"
+    },
+    {
       "rank": 6,
-      "keyword": "이란 협상 교착 상태",
+      "keyword": "정용진 오늘 대국민 사과",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "배영만 며느리 약사 귀족 가문",
-      "state": "-",
-      "change": "1"
+      "keyword": "김혜성 생존, 에스피날 DFA",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "토트넘 잔류 성공",
+      "keyword": "취사병 전설이 되다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "취사병 전설이 되다",
-      "state": "+",
-      "change": "1"
+      "keyword": "이경규 건강 이상설 해명",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이나연, 연대 축제 MC 논란 해명.",
+      "keyword": "모성애는 낳아야 생긴다",
       "state": "n",
       "change": "0"
     }
