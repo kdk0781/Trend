@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-25T13:56:19.400Z",
+  "updatedAt": "2026-05-25T16:20:33.411Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이규혁",
+      "keyword": "어선",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "산청군",
-      "traffic": "100+"
+      "keyword": "라도 윤보미",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "엘링 홀란드",
-      "traffic": "200+"
+      "keyword": "미장",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "자외선 차단제",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "전주시",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "알테오젠",
+      "keyword": "엘니뇨",
       "traffic": "200+"
     },
     {
+      "rank": 5,
+      "keyword": "위버스",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "memorial day",
+      "traffic": "100+"
+    },
+    {
       "rank": 7,
-      "keyword": "전소영",
+      "keyword": "시바이누코인",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "현충일 대체공휴일",
-      "traffic": "200+"
+      "keyword": "다시보기",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "불펜",
-      "traffic": "200+"
+      "keyword": "티비",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "明天的天氣",
-      "traffic": "100+"
+      "keyword": "수원 삼성 블루윙즈",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 이란 협상 중 공격 강해질 것",
-      "state": "s",
-      "change": "0"
+      "keyword": "지지 호소하는 후보",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "취사병 전설이 되다",
+      "keyword": "허수아비 진실 캔다",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "트럼프 이란 합의 불발 시 공격",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "송건희 허수아비 진실 캔다 30년",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 4,
-      "keyword": "박항서 감독, 태국 2부 복귀",
-      "state": "+",
-      "change": "1"
+      "keyword": "박항서 감독, 태국 2부 리그 복귀",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "토트넘 EPL 잔류!",
-      "state": "+",
-      "change": "1"
+      "keyword": "군체 VIP시사회 참석자들",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "지지 호소하는 후보들",
-      "state": "+",
-      "change": "1"
+      "keyword": "김동현 넷째 임신 이유",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "채정안 김동욱 연락 단절",
-      "state": "n",
+      "keyword": "김재욱, 신혜선 은밀한 감사",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "항상 응급실行 남규리 울컥",
+      "keyword": "서울시 철근 누락",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "카톡 선물 1위 스벅 추락",
+      "keyword": "강훈식 불법 성범죄물 대책 필요",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "저수지에 도고저수지서 시신",
-      "state": "n",
-      "change": "0"
+      "keyword": "김동욱 채정안 연하 폭로",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
