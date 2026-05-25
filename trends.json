@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T18:06:52.990Z",
+  "updatedAt": "2026-05-25T19:56:01.411Z",
   "google": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
     {
       "rank": 2,
       "keyword": "신세계그룹",
-      "traffic": "200+"
+      "traffic": "500+"
     },
     {
       "rank": 3,
@@ -18,100 +18,100 @@
     },
     {
       "rank": 4,
-      "keyword": "어선",
+      "keyword": "나스닥 선물",
       "traffic": "500+"
     },
     {
       "rank": 5,
+      "keyword": "어선",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
       "keyword": "라도 윤보미",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "엘니뇨",
-      "traffic": "200+"
+      "traffic": "500+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "미장",
       "traffic": "100+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "알 테오 젠",
       "traffic": "500+"
     },
     {
-      "rank": 9,
-      "keyword": "위버스",
-      "traffic": "100+"
-    },
-    {
       "rank": 10,
-      "keyword": "memorial day",
+      "keyword": "위버스",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 이란과 합의 추진",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
       "keyword": "군체 VIP시사회 참석",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "아버지 딸 폭행 체포",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 3,
-      "keyword": "아베 감독 딸 폭행 체포",
-      "state": "n",
+      "keyword": "트럼프 합의 불발시 강력 공격",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김동현 넷째 임신 사실",
+      "keyword": "김동현 넷째 임신",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김동욱 채정안 연하 폭로",
+      "keyword": "제17대 송연식 회장",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "이상민 관저 입건",
+      "keyword": "배영만 며느리 약사",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "한국대학육상연맹 송연식 회장",
-      "state": "n",
+      "keyword": "관저 이전 이상민 입건",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "서울시 철근 누락",
-      "state": "+",
-      "change": "2"
+      "keyword": "김재욱 신혜선 은밀한 감사",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "영종도 식중독으로 버스 운행 차질",
-      "state": "n",
-      "change": "0"
+      "keyword": "취사병 전설이 되다",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "배영만 며느리 약사",
-      "state": "+",
-      "change": "1"
+      "keyword": "국토부 GTX 삼성역 철근 누락",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
