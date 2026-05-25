@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-25T10:54:20.342Z",
+  "updatedAt": "2026-05-25T13:56:19.400Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "경기도",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "왕옌청",
+      "keyword": "이규혁",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "산청군",
+      "traffic": "100+"
+    },
+    {
       "rank": 3,
-      "keyword": "미국 휴장",
+      "keyword": "엘링 홀란드",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "박항서",
+      "keyword": "자외선 차단제",
       "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "방탄소년단",
-      "traffic": "1000+"
+      "keyword": "전주시",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "김동준",
-      "traffic": "100+"
+      "keyword": "알테오젠",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "내일날씨",
-      "traffic": "500+"
+      "keyword": "전소영",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "대한광통신",
-      "traffic": "2000+"
+      "keyword": "현충일 대체공휴일",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "고우석",
-      "traffic": "500+"
+      "keyword": "불펜",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "에볼라",
+      "keyword": "明天的天氣",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "지지 호소하는 후보들",
+      "keyword": "트럼프 이란 협상 중 공격 강해질 것",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "박항서 감독, 태국 팀 맡는다",
+      "keyword": "취사병 전설이 되다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "강훈식 불법 스포츠 중계 및 성범죄물 문제",
+      "keyword": "송건희 허수아비 진실 캔다 30년",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "하병진 씨 부친상",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "이란美 합의 불투명",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 6,
-      "keyword": "이태리 비공식 결혼식 포착",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "이회창",
+      "keyword": "박항서 감독, 태국 2부 복귀",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "멋진 신세계가 왔다",
+      "rank": 5,
+      "keyword": "토트넘 EPL 잔류!",
       "state": "+",
-      "change": "14"
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "지지 호소하는 후보들",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "채정안 김동욱 연락 단절",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "항상 응급실行 남규리 울컥",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "이주연 고교 친구 소개팅 거절",
-      "state": "-",
-      "change": "3"
+      "keyword": "카톡 선물 1위 스벅 추락",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "최현석 딸 조리원 퇴소",
+      "keyword": "저수지에 도고저수지서 시신",
       "state": "n",
       "change": "0"
     }
