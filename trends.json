@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-26T01:27:25.017Z",
+  "updatedAt": "2026-05-26T05:37:22.918Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "글로컬대학 30",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "달러환율",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "클리블랜드 대 뉴욕",
+      "keyword": "고성국",
       "traffic": "1000+"
     },
     {
-      "rank": 4,
-      "keyword": "삼성전기 주가",
+      "rank": 2,
+      "keyword": "채무",
       "traffic": "500+"
     },
     {
-      "rank": 5,
-      "keyword": "김성환",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "와우넷",
+      "rank": 3,
+      "keyword": "밀워키 브루어스",
       "traffic": "100+"
     },
     {
+      "rank": 4,
+      "keyword": "김종훈",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "에볼라바이러스",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "아메리칸 뮤직 어워드",
+      "traffic": "2000+"
+    },
+    {
       "rank": 7,
-      "keyword": "cnn",
+      "keyword": "북한",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "지방선거",
-      "traffic": "100+"
+      "keyword": "금융 포용",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "실종자",
-      "traffic": "5000+"
+      "keyword": "장하나",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "스테이블코인",
-      "traffic": "500+"
+      "keyword": "청약홈",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정용진 회장 대국민 사과",
+      "keyword": "유혜주 동생과 열애설",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "코스피 8000선 회복",
+      "keyword": "북, 서해 미상 발사체 발사",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "여의도 인사 정청래 정원오",
+      "keyword": "여주 찾은 정청래",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "군체 5일 만에 200만 돌파",
+      "keyword": "군체 연상호 감독 칸보다 한국 시설 좋다",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "미군 이란 남부 공격",
-      "state": "n",
-      "change": "0"
+      "keyword": "오세훈, 마포 방문",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "아베 감독 딸 폭행 체포",
-      "state": "n",
-      "change": "0"
+      "keyword": "김세의, 김수현 관련 논란",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "케데헌 골든 올해의 노래 수상",
-      "state": "n",
-      "change": "0"
+      "keyword": "하이닉스 주가 상승 기대",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "신고가 경신 순매수",
-      "state": "n",
-      "change": "0"
+      "keyword": "KIA 데일 방출",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "박군♥한영 이혼설 해명",
-      "state": "n",
-      "change": "0"
+      "keyword": "박지훈 취사병 시청률 최고",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "추경호 김부겸 첫 오차범위",
+      "keyword": "삼성전자 투표 D-1",
       "state": "n",
       "change": "0"
     }
