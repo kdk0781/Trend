@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-26T15:21:09.622Z",
+  "updatedAt": "2026-05-26T18:08:05.563Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "임진왜란",
+      "keyword": "이진숙",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "한영",
-      "traffic": "200+"
+      "keyword": "사비뉴",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "사업",
-      "traffic": "200+"
+      "keyword": "심형탁",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "이민정",
+      "keyword": "제니",
       "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "rcb vs gt",
-      "traffic": "1000+"
+      "keyword": "원룸 주택",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "노란우산공제",
+      "keyword": "이창용",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "사무관",
+      "keyword": "유정복",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "김연경",
-      "traffic": "2000+"
+      "keyword": "이승헌",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "슈퍼맨이 돌아왔다",
-      "traffic": "1000+"
+      "keyword": "mu stock",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "정인",
-      "traffic": "500+"
+      "keyword": "임진왜란",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "서소문 고가차도 붕괴 사고 현장 점검",
+      "keyword": "서소문 고가 붕괴 사고 수습 중",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김수현 복귀 청신호? 김세의 구속",
+      "keyword": "김태형 데뷔 첫 승",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이재명, 신채호함 방문",
+      "keyword": "허수아비 종영 마지막 인사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "KIA 김태형, 데뷔 첫 승!",
+      "keyword": "김세의 구속 우려",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "샤넬 행사 참석한 스타들",
-      "state": "n",
-      "change": "0"
+      "keyword": "이시언 서지승 득남",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "허수아비 종영 인사",
+      "keyword": "샤넬 포토콜 참석",
       "state": "-",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "삼성-SSG 우천 취소",
-      "state": "n",
-      "change": "0"
+      "keyword": "이재명 신채호함 방문",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "이시언 서지승 득남 공개",
-      "state": "s",
-      "change": "0"
+      "keyword": "김부겸·추경호 토론회",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "오세득 농장 탈취",
-      "state": "n",
-      "change": "0"
+      "keyword": "이란, 동결자산 해제 요구",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "오세득 10억 사기",
-      "state": "n",
-      "change": "0"
+      "keyword": "박군 한영, 결혼생활 잘해요",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
