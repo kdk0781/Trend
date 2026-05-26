@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-26T08:51:58.484Z",
+  "updatedAt": "2026-05-26T15:21:09.622Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "송가 인",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "장학재단",
+      "keyword": "임진왜란",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "한영",
+      "traffic": "200+"
+    },
+    {
       "rank": 3,
-      "keyword": "정원오",
-      "traffic": "50000+"
+      "keyword": "사업",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "한화오션",
+      "keyword": "이민정",
       "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "정시아",
-      "traffic": "2000+"
+      "keyword": "rcb vs gt",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "김도환",
+      "keyword": "노란우산공제",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "서울시장",
+      "keyword": "사무관",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "국가장학금",
-      "traffic": "1000+"
+      "keyword": "김연경",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "엄영수",
-      "traffic": "200+"
+      "keyword": "슈퍼맨이 돌아왔다",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "mlb",
-      "traffic": "1000+"
+      "keyword": "정인",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "서소문 고가 붕괴 사고 현장",
-      "state": "s",
+      "keyword": "서소문 고가차도 붕괴 사고 현장 점검",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "코스피 8047.51 마감",
-      "state": "+",
-      "change": "1"
+      "keyword": "김수현 복귀 청신호? 김세의 구속",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "스타벅스 카드 환불 완화",
-      "state": "+",
-      "change": "1"
+      "keyword": "이재명, 신채호함 방문",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "샤넬 포토행사 참석한",
-      "state": "+",
-      "change": "6"
+      "keyword": "KIA 김태형, 데뷔 첫 승!",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "설종진 감독 활약 기대한다",
+      "keyword": "샤넬 행사 참석한 스타들",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "오세득 10억 사기 반박",
+      "keyword": "허수아비 종영 인사",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "삼성-SSG 우천 취소",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "허수아비 후속작 부담",
-      "state": "+",
-      "change": "3"
-    },
-    {
       "rank": 8,
-      "keyword": "NC 투수코치 이용훈",
-      "state": "n",
+      "keyword": "이시언 서지승 득남 공개",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "블랙핑크 제니, 샤넬 공주님",
+      "keyword": "오세득 농장 탈취",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "북, 서해로 탄도미사일 발사",
+      "keyword": "오세득 10억 사기",
       "state": "n",
       "change": "0"
     }
