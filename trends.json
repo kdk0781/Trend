@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-25T23:33:11.925Z",
+  "updatedAt": "2026-05-26T01:27:25.017Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "투수",
-      "traffic": "500+"
+      "keyword": "글로컬대학 30",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "복싱",
+      "keyword": "달러환율",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "이승엽",
-      "traffic": "200+"
+      "keyword": "클리블랜드 대 뉴욕",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "차승원",
-      "traffic": "200+"
+      "keyword": "삼성전기 주가",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "노수산나",
-      "traffic": "200+"
+      "keyword": "김성환",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "맨체스터 시티 fc",
+      "keyword": "와우넷",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "어머니",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "모두가 자신의 무가치함과 싸우고 있다",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "다홍이",
+      "keyword": "cnn",
       "traffic": "100+"
     },
     {
+      "rank": 8,
+      "keyword": "지방선거",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
+      "keyword": "실종자",
+      "traffic": "5000+"
+    },
+    {
       "rank": 10,
-      "keyword": "울산대공원 장미축제",
-      "traffic": "200+"
+      "keyword": "스테이블코인",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "허수아비 OST 합본 발매",
+      "keyword": "정용진 회장 대국민 사과",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "트럼프, 이란 농축우라늄 폐기 가능",
+      "keyword": "코스피 8000선 회복",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "스페인 월드컵 명단 발표",
+      "keyword": "여의도 인사 정청래 정원오",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "군체 200만 관객 돌파",
+      "keyword": "군체 5일 만에 200만 돌파",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "미군 이란 남부 공격",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "김민정, 43세 미모 근황",
-      "state": "+",
-      "change": "4"
-    },
-    {
       "rank": 6,
-      "keyword": "정용진 오늘 대국민 사과",
+      "keyword": "아베 감독 딸 폭행 체포",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김혜성 생존, 에스피날 DFA",
+      "keyword": "케데헌 골든 올해의 노래 수상",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "취사병 전설이 되다",
-      "state": "s",
+      "keyword": "신고가 경신 순매수",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이경규 건강 이상설 해명",
+      "keyword": "박군♥한영 이혼설 해명",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "모성애는 낳아야 생긴다",
+      "keyword": "추경호 김부겸 첫 오차범위",
       "state": "n",
       "change": "0"
     }
