@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-26T18:08:05.563Z",
+  "updatedAt": "2026-05-26T20:24:57.692Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이진숙",
+      "keyword": "인천날씨",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "사비뉴",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "심형탁",
+      "keyword": "인천광역시",
       "traffic": "500+"
     },
     {
+      "rank": 3,
+      "keyword": "김태규",
+      "traffic": "200+"
+    },
+    {
       "rank": 4,
+      "keyword": "승무원",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "이진숙",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "보행자",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "심형탁",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
       "keyword": "제니",
       "traffic": "2000+"
     },
     {
-      "rank": 5,
-      "keyword": "원룸 주택",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "이창용",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "유정복",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "이승헌",
-      "traffic": "100+"
-    },
-    {
       "rank": 9,
-      "keyword": "mu stock",
-      "traffic": "100+"
+      "keyword": "원룸 주택",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "임진왜란",
+      "keyword": "이창용",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "서소문 고가 붕괴 사고 수습 중",
-      "state": "n",
-      "change": "0"
+      "keyword": "서소문 고가 붕괴 여파",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "김태형 데뷔 첫 승",
+      "keyword": "김세의 구속 사건",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "허수아비 종영 마지막 인사",
-      "state": "n",
-      "change": "0"
+      "keyword": "KIA 김태형 첫 승축하",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "김세의 구속 우려",
+      "keyword": "허수아비 마지막 인사",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "이시언 서지승 득남",
-      "state": "-",
-      "change": "1"
+      "keyword": "박군♥한영, 2년간 시험관 포기",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "샤넬 포토콜 참석",
-      "state": "-",
-      "change": "1"
+      "keyword": "추경호 이수찬 대구시장",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "이재명 신채호함 방문",
-      "state": "-",
-      "change": "1"
+      "keyword": "오만 앞바다 유조선 폭발",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김부겸·추경호 토론회",
+      "keyword": "이시언 서지승 득남",
       "state": "-",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "이란, 동결자산 해제 요구",
-      "state": "-",
+      "keyword": "이현중, 나가사키 우승 MVP",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "박군 한영, 결혼생활 잘해요",
-      "state": "-",
-      "change": "1"
+      "keyword": "정용진, 스타벅스 논란 사과",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
