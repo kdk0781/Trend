@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-26T23:19:21.251Z",
+  "updatedAt": "2026-05-27T01:29:25.363Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "운세",
-      "traffic": "1000+"
+      "keyword": "오클라호마시티 대 샌안토니오",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "장미",
-      "traffic": "500+"
+      "keyword": "한국외대",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "삼성 갤럭시 z 시리즈",
-      "traffic": "500+"
+      "keyword": "애스트로스 대 레인저스",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "현대모비스",
-      "traffic": "100+"
+      "keyword": "사이드카",
+      "traffic": "20000+"
     },
     {
       "rank": 5,
-      "keyword": "휴림로봇",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "정민찬",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "이코노미스트",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "한온시스템",
+      "keyword": "만달로리안과 그로구",
       "traffic": "100+"
     },
     {
+      "rank": 6,
+      "keyword": "타이거 우즈",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "프레디 프리먼",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "삼화콘덴서",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "제주시",
+      "keyword": "육은아",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "날씨",
-      "traffic": "500000+"
+      "keyword": "전지현",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김세의 명예훼손 구속 우려",
-      "state": "s",
-      "change": "0"
+      "keyword": "서소문 고가 붕괴 사고 발발",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "박해수 허수아비 OST TOP100 진입",
-      "state": "s",
+      "keyword": "김세의 구속에 오열",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "전지현 군체 관객 돌파지사",
+      "keyword": "코스피 8400선 돌파",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김정철 서울시장 후보",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "HERE WE GO",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "서소문 고가 붕괴 사고",
+      "keyword": "범죄도시5 크랭크인 김재영",
       "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "트럼프 건강 정상론",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "도운, 유혜주 동생과 열애?",
-      "state": "+",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "43세에 자연임신 기적",
+      "rank": 5,
+      "keyword": "아르테타 EPL 감독상",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "하이닉스 주가 상승 가능성",
+      "state": "-",
+      "change": "5"
+    },
+    {
+      "rank": 7,
+      "keyword": "여신협회장 후보 박경훈 윤창환 이동철",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "헬스걸 이희경 자연임신",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "출근길 지지 호소 대구 후보",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 10,
-      "keyword": "삼성전자 오늘 투표 마감",
-      "state": "n",
-      "change": "0"
+      "keyword": "훈련 시작한 축구 대표팀",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
