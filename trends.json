@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-05-27T05:53:57.182Z",
+  "updatedAt": "2026-05-27T09:32:35.524Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "모델",
-      "traffic": "200+"
+      "keyword": "김호령",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "지진",
+      "keyword": "d&d파마텍",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "김종인",
+      "keyword": "시바이누코인",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "박해수",
+      "keyword": "국가대표팀",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "순천대학교",
-      "traffic": "200+"
+      "keyword": "항소",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "마곡",
-      "traffic": "2000+"
+      "keyword": "이혜원",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "tiger 미국우주테크",
-      "traffic": "200+"
+      "keyword": "내일 날씨 예보",
+      "traffic": "500000+"
     },
     {
       "rank": 8,
-      "keyword": "마동석",
-      "traffic": "2000+"
+      "keyword": "크래프톤",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "잠수함",
-      "traffic": "2000+"
+      "keyword": "근로장려금",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "황영묵",
-      "traffic": "1000+"
+      "keyword": "병무청",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "LG전자 칼부림 2명 부상",
+      "keyword": "정부 나무호 이란 미사일 가능성",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "김종훈 울산시장 단일화",
-      "state": "+",
-      "change": "6"
+      "keyword": "서소문 사고 희생자 빈소 찾은 정원오",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "진주 찾은 박근혜 전 대통령",
-      "state": "n",
-      "change": "0"
+      "keyword": "정청래, 박찬대 지지호소",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 4,
-      "keyword": "삼전·닉스 ETF로 금융투자교육원 마비",
-      "state": "-",
-      "change": "1"
+      "keyword": "이숭용 감독, 연패 탈출 결의",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "허수아비 허母 오열 반응",
-      "state": "-",
-      "change": "1"
+      "keyword": "박근혜 전 대통령 인사 나눔",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 6,
-      "keyword": "이재명, 유네스코 준비 회의",
+      "keyword": "하이닉스 주가 상승 기대",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "하트오브우먼 지현의 데뷔",
-      "state": "s",
-      "change": "0"
+      "keyword": "28일 후보자 토론회 결방",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "김세의 구속 소식",
-      "state": "s",
-      "change": "0"
+      "keyword": "롯데손보 조건부 승인",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "서소문 고가 붕괴 사고 점검",
-      "state": "-",
-      "change": "3"
+      "keyword": "한국-캐나다 군악대 공연",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "이정후 30일 복귀 예정",
-      "state": "s",
+      "keyword": "박윤주 나무호 미사일 피격",
+      "state": "n",
       "change": "0"
     }
   ]
