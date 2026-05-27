@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-05-27T16:28:01.674Z",
+  "updatedAt": "2026-05-27T18:38:20.945Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "나는솔로 31기",
+      "keyword": "아틀레티코 마드리드",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "한국도로공사",
+      "keyword": "제니",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "잔나비",
-      "traffic": "100+"
+      "keyword": "앤서니 고든",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "원자력 잠수함",
-      "traffic": "10000+"
+      "keyword": "벌금",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "당근마켓",
+      "keyword": "샤오미",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "mu stock",
-      "traffic": "100+"
+      "keyword": "나는솔로 31기",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "기사",
+      "keyword": "한국도로공사",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "데이터 센터",
-      "traffic": "500+"
+      "keyword": "잔나비",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "rr vs srh",
-      "traffic": "500+"
+      "keyword": "원자력 잠수함",
+      "traffic": "10000+"
     },
     {
       "rank": 10,
-      "keyword": "rajasthan royals vs sunrisers hyderabad match scorecard",
+      "keyword": "당근마켓",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "박근혜 부산 방문",
+      "keyword": "카카오 노사 결렬, 파업 임박",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "아데를린의 솔로홈런과 나성범의 솔로포",
+      "keyword": "두산 벤자민 무실점 투혼",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "나무호 사건 대사 초치",
+      "keyword": "순자 옥순 커플 결별",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "두산 벤자민 완벽투",
-      "state": "+",
-      "change": "1"
+      "keyword": "청계천 패션쇼 시민모델 18세~81세",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "카카오 노사, 2차 조정 결렬",
+      "keyword": "박승규 역전 투런포",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "서소문 고가 붕괴 사건",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "삼성, SSG 8연패 확정!",
+      "keyword": "정부 나무호 이란 미사일 의혹",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "후보 토론회 경합",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "청계천 패션쇼 모델 100명",
+      "keyword": "서소문 고가 붕괴 안전 관리 미비",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "첫 번째 남자",
+      "keyword": "1타점 적시타 윤준호",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "1타점 적시타 윤준호",
-      "state": "n",
+      "keyword": "역투하는 후라도",
+      "state": "s",
       "change": "0"
     }
   ]
