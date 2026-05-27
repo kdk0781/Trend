@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-27T20:52:20.434Z",
+  "updatedAt": "2026-05-27T22:26:25.043Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "롤",
-      "traffic": "100+"
+      "keyword": "보스턴다이내믹스",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "기초노령연금",
-      "traffic": "2000+"
+      "keyword": "양평군",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "여자 축구",
-      "traffic": "1000+"
+      "keyword": "vix",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "31 기 옥순",
+      "keyword": "다우 존스 산업평균지수",
       "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "이주빈",
-      "traffic": "200+"
+      "keyword": "이예원",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "미사일",
-      "traffic": "2000+"
+      "keyword": "삼성 갤럭시 z 시리즈",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "폴리마켓",
-      "traffic": "100+"
+      "keyword": "lg에너지솔루션",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "블라디미르 푸틴",
-      "traffic": "100+"
+      "keyword": "김포시",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "크리스털 팰리스 대 라요",
-      "traffic": "2000+"
+      "keyword": "schd",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "아틀레티코 마드리드",
-      "traffic": "1000+"
+      "keyword": "mu",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "나성범 솔로포로 점수 추가",
-      "state": "+",
-      "change": "2"
+      "keyword": "카카오 노사 조정 결렬",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "카카오 노사 결렬, 내달 파업",
-      "state": "-",
-      "change": "1"
+      "keyword": "옥순, 경수 차지한 순자와 갈등",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "SSG, 8연패 늪",
+      "keyword": "트럼프 이란 협상 불만족",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "허수아비 보던 아내가 질문했다",
-      "state": "+",
-      "change": "16"
+      "keyword": "고지대 적응 수석주치의 인터뷰",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "트럼프 이란 협상 만족도 낮아",
-      "state": "s",
+      "keyword": "서소문 고가 붕괴 사고 왜 일어났나",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "유퀴즈 이준의 힘든 삶 회상",
+      "keyword": "박지현 동방신기 와일드씽",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "골 때리는 그녀들",
+      "keyword": "나무호 피격 이란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김세의 교도소 저격 글",
+      "keyword": "최고령 산모의 찰떡 공개",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "서소문 고가 붕괴 사건",
+      "keyword": "아베 감독 복귀 청원 7만 넘겨",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "위암 투병 가족",
+      "keyword": "김세의 과거 MBC 음성 조작",
       "state": "n",
       "change": "0"
     }
