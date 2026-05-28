@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-28T19:27:58.470Z",
+  "updatedAt": "2026-05-28T21:31:07.416Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김선빈",
-      "traffic": "200+"
+      "keyword": "예금",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "opus 4.8",
-      "traffic": "200+"
+      "keyword": "브레이브스 대 레드삭스",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "도시",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "통화 정책",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "충전소",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "이준",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "연금복권720+",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "ls전선",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "agi",
+      "keyword": "백종원",
       "traffic": "100+"
     },
     {
+      "rank": 4,
+      "keyword": "황유민",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "원자력 잠수함",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "최원태",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "김가영",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "경찰",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "부모",
+      "traffic": "1000+"
+    },
+    {
       "rank": 10,
-      "keyword": "정혜성",
-      "traffic": "5000+"
+      "keyword": "유조선",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "오세훈 심판 정원오 서울 정상화",
+      "keyword": "오세훈 정원오 갈등 심화",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "서소문 고가 철거 재개",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "SSG 9연패 수렁에 빠지다",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 4,
       "keyword": "김성수 박소윤 집 방문",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "이범호 감독 황동하 5승 축하해요",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "미국 4월 PCE 3.8% 최고",
-      "state": "s",
+      "rank": 3,
+      "keyword": "강백호 김태연 8타점 대승",
+      "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
+      "rank": 4,
       "keyword": "강예원",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "하정우 북구갑 후보 지지 호소",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "손태진 6억 전세이사",
+      "rank": 5,
+      "keyword": "트럼프 승인 남아",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "이란 휴전 합의 트럼프 승인 남아",
-      "state": "s",
+      "rank": 6,
+      "keyword": "김요한 이주연과 좀 들고",
+      "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "김세의 300억원 배상 청구",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "SSG 인수 후 위기",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "이솔이 근황 전해요",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 10,
+      "keyword": "순자 뒷담화 논란, 나솔 31기",
+      "state": "+",
+      "change": "3"
     }
   ]
 }
