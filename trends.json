@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-28T05:43:42.796Z",
+  "updatedAt": "2026-05-28T09:05:04.963Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "선거법",
-      "traffic": "1000+"
+      "keyword": "태풍 장미 경로",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "국민 연금 리 밸런싱",
+      "keyword": "풍자",
       "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "정유라",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "일본항공",
+      "keyword": "오선우",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "황신혜",
+      "traffic": "5000+"
+    },
+    {
       "rank": 5,
-      "keyword": "경비원",
+      "keyword": "근로장려금",
       "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "휴머노이드",
-      "traffic": "200+"
+      "keyword": "009150",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "동탄신도시",
-      "traffic": "100+"
+      "keyword": "에이피알",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "wti",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "위증",
+      "keyword": "공무원 노동조합",
       "traffic": "2000+"
     },
     {
+      "rank": 9,
+      "keyword": "오늘 주가 하락 이유",
+      "traffic": "1000+"
+    },
+    {
       "rank": 10,
-      "keyword": "이지아",
-      "traffic": "200+"
+      "keyword": "나성범",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "신현송 총재 발언 정리",
+      "keyword": "2026 합동화력훈련 실시",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "정청래, 김종무 지지 호소",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "원주 방문 박근혜 전 대통령",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "와일드 씽 감독 강동원 노래방 실력 발휘",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 5,
-      "keyword": "이재명 대통령 수석보좌관회의",
+      "keyword": "문경 찾은 박근혜 전 대통령",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "계엄 선포문 강의구 1심 출석",
+      "rank": 3,
+      "keyword": "LIV 골프 코리아 앤소니 킴",
       "state": "-",
-      "change": "3"
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "유재석 캠프 1위",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "정은경 장관 국민연금 주재",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "코스피 하락 마감",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "카카오 대표 송구함 표현",
+      "keyword": "레슨하는 김가연 프로",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "오타니 6이닝 노히트",
-      "state": "-",
-      "change": "4"
+      "keyword": "김태연, 토탈셋 전속계약",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "소중한 한표 준비 철저히",
+      "keyword": "정청래 이재명 말실수",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "서울 아파트값 숨고르기",
+      "keyword": "중국 반체제 인사 영장 기각",
       "state": "n",
       "change": "0"
     }
