@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-28T12:41:18.755Z",
+  "updatedAt": "2026-05-28T16:44:02.580Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "시흥시",
-      "traffic": "100+"
+      "keyword": "이준",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "문정빈",
+      "keyword": "연금복권720+",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "lg유플러스",
-      "traffic": "1000+"
+      "keyword": "김정철",
+      "traffic": "20000+"
     },
     {
       "rank": 4,
-      "keyword": "브로민 가스",
+      "keyword": "ls전선",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "크리스티아누 호날두",
-      "traffic": "1000+"
+      "keyword": "정혜성",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "김가은",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "송영재",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "사회 양극화",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "안민석",
+      "keyword": "nc",
       "traffic": "100+"
     },
     {
+      "rank": 7,
+      "keyword": "lg 유플러스",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "한정수",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "강미나",
+      "traffic": "1000+"
+    },
+    {
       "rank": 10,
-      "keyword": "남규리",
+      "keyword": "모던워페어4",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "서소문 고가 철거 재개",
+      "keyword": "국민연금 주식 비중 확대",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "카메론 1타점 적시타",
-      "state": "s",
-      "change": "0"
+      "keyword": "서소문 고가 철거 재개",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "서동주 유산 후 건강 고백",
-      "state": "n",
-      "change": "0"
+      "keyword": "이재명 대통령 수여",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "첫 번째 남자",
+      "keyword": "삼성 선발 최원태 역투",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "구포시장 유세 한동훈 후보",
-      "state": "-",
-      "change": "1"
+      "keyword": "울산시장 김상욱으로 단일화",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "삼성 이재현 멀티홈런",
-      "state": "n",
+      "keyword": "순자 경수 빠진 감사",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "울산시장 여론조사",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "문정빈 3점 홈런",
-      "state": "-",
+      "keyword": "LG전자 직원 구속영장",
+      "state": "+",
       "change": "2"
     },
     {
+      "rank": 8,
+      "keyword": "오세훈 정원오 책임 회피 여부",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "이선정 저격 영상 수정 으로 바꿔보았습니다.",
+      "keyword": "이석희 SK온 사임",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "나는 솔로, 커플 탄생",
+      "keyword": "카메론 적시타 1타점",
       "state": "s",
       "change": "0"
     }
