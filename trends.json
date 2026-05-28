@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-28T16:44:02.580Z",
+  "updatedAt": "2026-05-28T19:27:58.470Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이준",
+      "keyword": "김선빈",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "연금복권720+",
+      "keyword": "opus 4.8",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "김정철",
-      "traffic": "20000+"
+      "keyword": "도시",
+      "traffic": "500+"
     },
     {
       "rank": 4,
+      "keyword": "통화 정책",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "충전소",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "이준",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "연금복권720+",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
       "keyword": "ls전선",
       "traffic": "500+"
     },
     {
-      "rank": 5,
-      "keyword": "정혜성",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "nc",
+      "rank": 9,
+      "keyword": "agi",
       "traffic": "100+"
     },
     {
-      "rank": 7,
-      "keyword": "lg 유플러스",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "한정수",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "강미나",
-      "traffic": "1000+"
-    },
-    {
       "rank": 10,
-      "keyword": "모던워페어4",
-      "traffic": "500+"
+      "keyword": "정혜성",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "국민연금 주식 비중 확대",
+      "keyword": "오세훈 심판 정원오 서울 정상화",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
       "keyword": "서소문 고가 철거 재개",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이재명 대통령 수여",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "삼성 선발 최원태 역투",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "울산시장 김상욱으로 단일화",
+      "keyword": "SSG 9연패 수렁에 빠지다",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 4,
+      "keyword": "김성수 박소윤 집 방문",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "이범호 감독 황동하 5승 축하해요",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 6,
-      "keyword": "순자 경수 빠진 감사",
+      "keyword": "미국 4월 PCE 3.8% 최고",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "LG전자 직원 구속영장",
-      "state": "+",
-      "change": "2"
+      "keyword": "강예원",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "오세훈 정원오 책임 회피 여부",
-      "state": "n",
+      "keyword": "하정우 북구갑 후보 지지 호소",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이석희 SK온 사임",
+      "keyword": "손태진 6억 전세이사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "카메론 적시타 1타점",
+      "keyword": "이란 휴전 합의 트럼프 승인 남아",
       "state": "s",
       "change": "0"
     }
