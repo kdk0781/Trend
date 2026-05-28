@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-05-28T09:05:04.963Z",
+  "updatedAt": "2026-05-28T12:41:18.755Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "태풍 장미 경로",
-      "traffic": "200+"
+      "keyword": "시흥시",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "풍자",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "오선우",
+      "keyword": "문정빈",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "lg유플러스",
+      "traffic": "1000+"
+    },
+    {
       "rank": 4,
-      "keyword": "황신혜",
-      "traffic": "5000+"
+      "keyword": "브로민 가스",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "근로장려금",
+      "keyword": "크리스티아누 호날두",
       "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "009150",
-      "traffic": "500+"
+      "keyword": "김가은",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "에이피알",
+      "keyword": "송영재",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "공무원 노동조합",
-      "traffic": "2000+"
+      "keyword": "사회 양극화",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "오늘 주가 하락 이유",
-      "traffic": "1000+"
+      "keyword": "안민석",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "나성범",
-      "traffic": "2000+"
+      "keyword": "남규리",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "2026 합동화력훈련 실시",
+      "keyword": "서소문 고가 철거 재개",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "문경 찾은 박근혜 전 대통령",
-      "state": "n",
+      "keyword": "카메론 1타점 적시타",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "LIV 골프 코리아 앤소니 킴",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "유재석 캠프 1위",
+      "keyword": "서동주 유산 후 건강 고백",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "정은경 장관 국민연금 주재",
+      "rank": 4,
+      "keyword": "첫 번째 남자",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 5,
+      "keyword": "구포시장 유세 한동훈 후보",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 6,
-      "keyword": "코스피 하락 마감",
+      "keyword": "삼성 이재현 멀티홈런",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "울산시장 여론조사",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "문정빈 3점 홈런",
       "state": "-",
       "change": "2"
     },
     {
-      "rank": 7,
-      "keyword": "레슨하는 김가연 프로",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "김태연, 토탈셋 전속계약",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 9,
-      "keyword": "정청래 이재명 말실수",
+      "keyword": "이선정 저격 영상 수정 으로 바꿔보았습니다.",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "중국 반체제 인사 영장 기각",
-      "state": "n",
+      "keyword": "나는 솔로, 커플 탄생",
+      "state": "s",
       "change": "0"
     }
   ]
