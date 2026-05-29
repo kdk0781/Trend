@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-29T17:57:14.957Z",
+  "updatedAt": "2026-05-29T20:22:56.109Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "pba 팀리그",
-      "traffic": "1000+"
+      "keyword": "외국인",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "원이",
+      "keyword": "기아 ev9",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "지드래곤",
-      "traffic": "200+"
+      "keyword": "보건복지부",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "모두가 자신의 무가치함과 싸우고 있다",
+      "keyword": "도박",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "압구정 현대아파트",
-      "traffic": "500+"
+      "keyword": "만달로리안",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "roland garros",
+      "keyword": "artificial intelligence news",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "뉴질랜드",
-      "traffic": "500+"
+      "keyword": "pba 팀리그",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "트리피어",
-      "traffic": "100+"
+      "keyword": "원이",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "사우디 아라비아",
-      "traffic": "100+"
+      "keyword": "모두가 자신의 무가치함과 싸우고 있다",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "신상출시 편스토랑",
-      "traffic": "1000+"
+      "keyword": "지드래곤",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "사전투표 첫날 11.6% 최고치",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
       "keyword": "서소문 고가 철거 완료",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "KIA 선발 이의리의 연승 도전",
-      "state": "+",
-      "change": "7"
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "keyword": "트럼프 종전협상 회의",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "조정석과 거미의 특별한 가정 이야기",
+      "rank": 3,
+      "keyword": "한화, SSG 10연패 시켜 5할 복귀",
       "state": "+",
-      "change": "4"
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "멋진 신세계 사랑 이야기",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "최지수 청소 요정 등극",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "LG전자 직원 구속 도주 우려",
+      "keyword": "관외 사전투표지 현장점검",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "손태진 아버지 해외 45년",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "최지수 청소 요정 등극",
-      "state": "-",
-      "change": "4"
-    },
-    {
       "rank": 8,
-      "keyword": "아이오아이 콘서트 서사 1위",
+      "keyword": "호카 전대표 폭행 사건",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "오상진 김소영 둘째 출산 공개",
+      "keyword": "박건우 동점 솔로포",
       "state": "+",
-      "change": "1"
+      "change": "54"
     },
     {
       "rank": 10,
-      "keyword": "싸이 흠뻑쇼 대관",
-      "state": "-",
-      "change": "2"
+      "keyword": "5개층 방화 주민 체포",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
