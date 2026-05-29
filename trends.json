@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-29T04:44:17.280Z",
+  "updatedAt": "2026-05-29T08:32:17.239Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "농업",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "리브 골프",
+      "keyword": "상하이",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "덕산하이메탈",
+      "traffic": "100+"
+    },
+    {
       "rank": 3,
-      "keyword": "모바일 신분증",
+      "keyword": "한국지엠",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "빅토르 웸바냐마",
-      "traffic": "500+"
+      "keyword": "대한민국 금융위원회",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "경기도지사 후보",
-      "traffic": "100+"
+      "keyword": "skt 요금제 개편",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "육군특수전학교",
-      "traffic": "500+"
+      "keyword": "정승일",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "현대엔지니어링",
-      "traffic": "500+"
+      "keyword": "광주신세계",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "시내버스",
+      "keyword": "병역",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "딜로이트",
-      "traffic": "200+"
+      "keyword": "twitch",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "삼성전자 배당금",
-      "traffic": "200+"
+      "keyword": "소방청",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "사전투표 첫날 투표율",
+      "keyword": "코스피 사상 최고치 마감",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "과학기술관계장관회의 배경훈 부총리",
-      "state": "+",
-      "change": "1"
+      "keyword": "사카구치 켄타로 韓 인기 원인 모름",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "유재석 캠프 비결과 고생",
+      "keyword": "장동혁 부천 공약",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "메시, 6회 월드컵 확정",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "서소문 고가 철거 시작",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "정청래 총괄상임선대위원장",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "제주 만장굴 30일 재개방",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "맹승지 개그우먼 은퇴",
-      "state": "-",
-      "change": "5"
-    },
-    {
-      "rank": 9,
-      "keyword": "국민의힘 특검법 항의 방문",
+      "keyword": "첫날 오후 4시 투표율 9.25%",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "두산 타카다 영입",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "우원식 국회의장 퇴임식",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "HD현대일렉트릭 여한구 통상교섭본부장",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "코인원 영업 중단 정지",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "교육 분야 정상화 회의",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "흉기난동 LG협력사 구속심사",
-      "state": "-",
-      "change": "2"
+      "keyword": "여고생 살해범 스트킹 혐의 추가",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
