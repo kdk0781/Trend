@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-05-29T20:22:56.109Z",
+  "updatedAt": "2026-05-29T22:11:10.478Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "외국인",
-      "traffic": "100+"
+      "keyword": "kia 타이거즈",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "기아 ev9",
-      "traffic": "200+"
+      "keyword": "스페이스x",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "보건복지부",
-      "traffic": "100+"
+      "keyword": "경유",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "도박",
+      "keyword": "pltr",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "만달로리안",
-      "traffic": "100+"
+      "keyword": "반려견",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "artificial intelligence news",
+      "keyword": "박진만",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "pba 팀리그",
+      "keyword": "김태형",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "원이",
-      "traffic": "200+"
+      "keyword": "다이 소",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "모두가 자신의 무가치함과 싸우고 있다",
-      "traffic": "500+"
+      "keyword": "박미선",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "지드래곤",
-      "traffic": "200+"
+      "keyword": "서울특별시",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "서소문 고가 철거 완료",
+      "keyword": "멋진 신세계의 사랑 이야기",
       "state": "s",
       "change": "0"
     },
@@ -67,49 +67,49 @@
     },
     {
       "rank": 3,
-      "keyword": "한화, SSG 10연패 시켜 5할 복귀",
+      "keyword": "관외 사전투표지 현장점검",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "멋진 신세계 사랑 이야기",
-      "state": "-",
+      "keyword": "오상진 김소영, 둘째 출산 공개",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "최지수 청소 요정 등극",
-      "state": "s",
-      "change": "0"
+      "keyword": "오십프로 첫 방송과 김인우 출격",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "관외 사전투표지 현장점검",
+      "keyword": "최지수, 청소 요정 된 날",
       "state": "-",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "손태진 아버지 해외 45년",
+      "keyword": "나 혼자 산다 시청률 1위 3주 연속",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "서소문 고가 붕괴 사건",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "호카 전대표 폭행 사건",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 9,
-      "keyword": "박건우 동점 솔로포",
+      "keyword": "30일 KTX 재개 31일 정상화",
       "state": "+",
-      "change": "54"
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "5개층 방화 주민 체포",
+      "keyword": "셋째 계획 없음",
       "state": "n",
       "change": "0"
     }
