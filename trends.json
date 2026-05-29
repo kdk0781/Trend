@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-29T14:44:47.996Z",
+  "updatedAt": "2026-05-29T17:57:14.957Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "최현욱",
-      "traffic": "100+"
+      "keyword": "pba 팀리그",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "지젤",
+      "keyword": "원이",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "만달로리안과 그로구 쿠키",
-      "traffic": "100+"
+      "keyword": "지드래곤",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "이다희",
+      "keyword": "모두가 자신의 무가치함과 싸우고 있다",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "sbs",
-      "traffic": "200+"
+      "keyword": "압구정 현대아파트",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "문경소방서",
-      "traffic": "500+"
+      "keyword": "roland garros",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "김재윤",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "삼성라이온즈",
+      "keyword": "뉴질랜드",
       "traffic": "500+"
     },
     {
+      "rank": 8,
+      "keyword": "트리피어",
+      "traffic": "100+"
+    },
+    {
       "rank": 9,
-      "keyword": "드라마",
-      "traffic": "10000+"
+      "keyword": "사우디 아라비아",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "주한 미군",
-      "traffic": "200+"
+      "keyword": "신상출시 편스토랑",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "역대 최고 사전투표율 11.6%",
-      "state": "n",
+      "keyword": "사전투표 첫날 11.6% 최고치",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "멋진 신세계의 사랑과 상승",
-      "state": "+",
-      "change": "1"
+      "keyword": "서소문 고가 철거 완료",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "서소문 고가 철거 완료",
-      "state": "-",
-      "change": "1"
+      "keyword": "KIA 선발 이의리의 연승 도전",
+      "state": "+",
+      "change": "7"
     },
     {
       "rank": 4,
-      "keyword": "89억 압구정 현금 매입",
-      "state": "n",
+      "keyword": "트럼프 종전협상 회의",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "웰스 LG KIA",
-      "state": "-",
-      "change": "1"
+      "keyword": "조정석과 거미의 특별한 가정 이야기",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 6,
-      "keyword": "최준희, 6개 캐리어 챙겨 신혼 여행",
+      "keyword": "LG전자 직원 구속 도주 우려",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "매장 닫고 교육 으로 변형하면 매장 닫고 교육 될 수 있습니다.",
-      "state": "n",
-      "change": "0"
+      "keyword": "최지수 청소 요정 등극",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 8,
-      "keyword": "싸이, 잔디 훼손 사과",
-      "state": "n",
-      "change": "0"
+      "keyword": "아이오아이 콘서트 서사 1위",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "반지하 화장실에 물",
-      "state": "n",
-      "change": "0"
+      "keyword": "오상진 김소영 둘째 출산 공개",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "안세영, 4강 진출!",
-      "state": "n",
-      "change": "0"
+      "keyword": "싸이 흠뻑쇼 대관",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
