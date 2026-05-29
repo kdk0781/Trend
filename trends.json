@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-29T11:52:44.685Z",
+  "updatedAt": "2026-05-29T14:44:47.996Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "장생포 고래문화마을 수국정원",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "비디오 판독",
+      "keyword": "최현욱",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "지젤",
+      "traffic": "200+"
+    },
+    {
       "rank": 3,
-      "keyword": "챔스결승",
+      "keyword": "만달로리안과 그로구 쿠키",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "김구라",
+      "keyword": "이다희",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "넷마블",
+      "keyword": "sbs",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "박완수",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "국가채무",
+      "keyword": "문경소방서",
       "traffic": "500+"
     },
     {
+      "rank": 7,
+      "keyword": "김재윤",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "kt 대 키움",
-      "traffic": "2000+"
+      "keyword": "삼성라이온즈",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "삼성sds(주)",
-      "traffic": "2000+"
+      "keyword": "드라마",
+      "traffic": "10000+"
     },
     {
       "rank": 10,
-      "keyword": "현대자동차그룹",
-      "traffic": "2000+"
+      "keyword": "주한 미군",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "첫날 투표율 11.6% 역대 최고",
-      "state": "s",
+      "keyword": "역대 최고 사전투표율 11.6%",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "LG전자 직원 구속",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "KIA 이의리 연승 도전",
+      "keyword": "멋진 신세계의 사랑과 상승",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "싸이, 흠뻑쇼 대관 불허상황",
+      "rank": 3,
+      "keyword": "서소문 고가 철거 완료",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 4,
+      "keyword": "89억 압구정 현금 매입",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "하이닉스 주가 상승 시작",
-      "state": "+",
+      "keyword": "웰스 LG KIA",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "박혜준 단독 선두",
-      "state": "+",
-      "change": "1"
+      "keyword": "최준희, 6개 캐리어 챙겨 신혼 여행",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "잘못 뽑은 사람 하나 기억하죠?",
+      "keyword": "매장 닫고 교육 으로 변형하면 매장 닫고 교육 될 수 있습니다.",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "하정우 韓 여론조사 민심변화",
+      "keyword": "싸이, 잔디 훼손 사과",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "라건아 재계약 보류",
+      "keyword": "반지하 화장실에 물",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "허인서 투런포",
+      "keyword": "안세영, 4강 진출!",
       "state": "n",
       "change": "0"
     }
