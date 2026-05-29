@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-29T08:32:17.239Z",
+  "updatedAt": "2026-05-29T11:52:44.685Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "상하이",
-      "traffic": "200+"
+      "keyword": "장생포 고래문화마을 수국정원",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "덕산하이메탈",
+      "keyword": "비디오 판독",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "한국지엠",
+      "keyword": "챔스결승",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "대한민국 금융위원회",
+      "keyword": "김구라",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "skt 요금제 개편",
-      "traffic": "1000+"
+      "keyword": "넷마블",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "정승일",
+      "keyword": "박완수",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "광주신세계",
-      "traffic": "200+"
+      "keyword": "국가채무",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "병역",
-      "traffic": "200+"
+      "keyword": "kt 대 키움",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "twitch",
-      "traffic": "100+"
+      "keyword": "삼성sds(주)",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "소방청",
-      "traffic": "100+"
+      "keyword": "현대자동차그룹",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "코스피 사상 최고치 마감",
+      "keyword": "첫날 투표율 11.6% 역대 최고",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "사카구치 켄타로 韓 인기 원인 모름",
+      "keyword": "LG전자 직원 구속",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "장동혁 부천 공약",
+      "keyword": "KIA 이의리 연승 도전",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "싸이, 흠뻑쇼 대관 불허상황",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "하이닉스 주가 상승 시작",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "박혜준 단독 선두",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "잘못 뽑은 사람 하나 기억하죠?",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "첫날 오후 4시 투표율 9.25%",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "두산 타카다 영입",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "우원식 국회의장 퇴임식",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "HD현대일렉트릭 여한구 통상교섭본부장",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 8,
-      "keyword": "코인원 영업 중단 정지",
+      "keyword": "하정우 韓 여론조사 민심변화",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "교육 분야 정상화 회의",
+      "keyword": "라건아 재계약 보류",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "여고생 살해범 스트킹 혐의 추가",
+      "keyword": "허인서 투런포",
       "state": "n",
       "change": "0"
     }
