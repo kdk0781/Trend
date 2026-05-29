@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-29T00:12:53.014Z",
+  "updatedAt": "2026-05-29T04:44:17.280Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "dell",
+      "keyword": "농업",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "돈",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "컵스 대 파이리츠",
+      "keyword": "리브 골프",
       "traffic": "200+"
     },
     {
-      "rank": 4,
-      "keyword": "안선영",
-      "traffic": "1000+"
+      "rank": 3,
+      "keyword": "모바일 신분증",
+      "traffic": "100+"
     },
     {
-      "rank": 5,
-      "keyword": "정근식",
+      "rank": 4,
+      "keyword": "빅토르 웸바냐마",
       "traffic": "500+"
     },
     {
+      "rank": 5,
+      "keyword": "경기도지사 후보",
+      "traffic": "100+"
+    },
+    {
       "rank": 6,
-      "keyword": "임태희",
+      "keyword": "육군특수전학교",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "클로봇",
+      "keyword": "현대엔지니어링",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "교육감",
-      "traffic": "100+"
+      "keyword": "시내버스",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "미세먼지",
+      "keyword": "딜로이트",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "홍대입 구역",
-      "traffic": "5000+"
+      "keyword": "삼성전자 배당금",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "사전투표 첫날 한 표 행사",
-      "state": "n",
+      "keyword": "사전투표 첫날 투표율",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "4월 생산·소비·투자 감소",
+      "keyword": "과학기술관계장관회의 배경훈 부총리",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "유재석 캠프 비결과 고생",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "삼성전자 HBM4E 12단 샘플 출하",
-      "state": "+",
-      "change": "2"
-    },
-    {
       "rank": 4,
-      "keyword": "정동원 측 법적 대응",
+      "keyword": "메시, 6회 월드컵 확정",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "태풍 장미 한반도 영향?",
-      "state": "+",
-      "change": "2"
+      "keyword": "서소문 고가 철거 시작",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "미·이란 휴전 기대",
+      "keyword": "정청래 총괄상임선대위원장",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "조규성의 인터뷰",
-      "state": "n",
-      "change": "0"
+      "keyword": "제주 만장굴 30일 재개방",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "이솔이 비키니 파티 초대받다",
+      "keyword": "맹승지 개그우먼 은퇴",
+      "state": "-",
+      "change": "5"
+    },
+    {
+      "rank": 9,
+      "keyword": "국민의힘 특검법 항의 방문",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "최지수, 9년 만에 완납해 빚 없어",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 10,
-      "keyword": "하지원 문자 사건 전말 폭로",
-      "state": "n",
-      "change": "0"
+      "keyword": "흉기난동 LG협력사 구속심사",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
