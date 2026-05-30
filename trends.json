@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-05-30T19:58:49.988Z",
+  "updatedAt": "2026-05-30T21:00:54.819Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "오이",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
+      "keyword": "심정지",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
       "keyword": "재보궐선거",
       "traffic": "5000+"
     },
     {
-      "rank": 2,
-      "keyword": "마두에케",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "하무스",
-      "traffic": "200+"
-    },
-    {
       "rank": 4,
-      "keyword": "스켈리",
+      "keyword": "하무스",
       "traffic": "200+"
     },
     {
@@ -34,84 +34,84 @@
     {
       "rank": 7,
       "keyword": "메시",
-      "traffic": "100+"
+      "traffic": "200+"
     },
     {
       "rank": 8,
+      "keyword": "마일스 루이스스켈리",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
       "keyword": "감스트",
       "traffic": "100+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "欧冠",
       "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "음바페",
-      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "안규백 장관 연설과 악수",
+      "keyword": "임지연과 허남준의 신세계",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "임지연, 허남준과 함께한 멋진 신세계",
-      "state": "-",
+      "keyword": "은밀한 감사",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "SSG 11연패 불명예",
-      "state": "+",
-      "change": "1"
+      "keyword": "신입사원 강회장",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "은밀한 감사",
-      "state": "-",
+      "keyword": "이강인 UCL 결승 출전",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "1226회 로또 1등 10명 각 28억",
-      "state": "+",
-      "change": "2"
+      "keyword": "안규백 장관 연설 및 질문답변",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "신하균, 여객선 사건 진실에 접근",
+      "keyword": "신하균, 여객선 진실 다가섰다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "관내사전투표함 보관장소",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "양상국, 태도 논란 후 걱정받는 근황",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 9,
-      "keyword": "美, 호르무즈 이란 협의 금지",
+      "keyword": "호르무즈 이란 합의 금지",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "리버풀, 슬롯 경질 후임 이라올라",
-      "state": "-",
+      "rank": 8,
+      "keyword": "양상국 근황 걱정",
+      "state": "+",
       "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "정희, 순자 뒷담화 재차 사과",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 10,
+      "keyword": "주민 폭행 SNS 논쟁",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
