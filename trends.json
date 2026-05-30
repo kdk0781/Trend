@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-30T22:09:47.035Z",
+  "updatedAt": "2026-05-30T23:12:56.031Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "음식",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "이의리",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "송승기",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "김선태",
+      "keyword": "라오스",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "주거",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "lg 트윈스",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "전세권",
+      "traffic": "500+"
+    },
+    {
       "rank": 5,
-      "keyword": "이특",
+      "keyword": "전지",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "이찬원",
-      "traffic": "200+"
+      "keyword": "안병훈",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "국민연금공단",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "해협",
+      "keyword": "포스코",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "음식",
+      "traffic": "5000+"
+    },
+    {
       "rank": 9,
-      "keyword": "오이",
-      "traffic": "500+"
+      "keyword": "습관",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "심정지",
-      "traffic": "1000+"
+      "keyword": "이의리",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "멋진 신세계 임지연과 허남준",
+      "keyword": "임지연과 허남준의 멋진 신세계",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
       "keyword": "신입사원 강회장",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이강인 PSG UCL 우승",
-      "state": "n",
+      "keyword": "PSG UCL 2연패 성공",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "은밀한 감사",
-      "state": "-",
-      "change": "2"
+      "keyword": "하이주얼리 제시카 맥코맥",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "양상국, 태도 논란 후 위축된 모습",
-      "state": "+",
-      "change": "1"
+      "keyword": "은밀한 감사",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "신하균, 여객선 사건 진실 다가섰다.",
-      "state": "-",
-      "change": "2"
+      "keyword": "홍경민 父가 돈 관리",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "2026년 5월 31일 운세",
+      "keyword": "신하균, 여객선 사건 진실 접근",
       "state": "-",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "홍경민, 父가 재산 관리 모르고 있어",
-      "state": "s",
-      "change": "0"
+      "keyword": "2026년 5월 31일 운세",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "라오스 동굴 생존 5명 구조",
-      "state": "s",
-      "change": "0"
+      "keyword": "트럼프 250주년 대신한다",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "1억 특전 영화",
-      "state": "-",
-      "change": "3"
+      "keyword": "장윤정 초등남매 한방 이유",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
