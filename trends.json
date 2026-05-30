@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-05-30T15:40:39.671Z",
+  "updatedAt": "2026-05-30T16:44:34.356Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "올리브영",
-      "traffic": "1000+"
+      "keyword": "헐크",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "서승재",
-      "traffic": "500+"
+      "keyword": "유해진",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "김강우",
+      "keyword": "fotmob",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "신입사원 강회장",
+      "keyword": "เปแอ็สเฌ พบ อาร์เซนอล",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "lpl",
+      "keyword": "스포츠토토",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "부산행",
+      "keyword": "파리",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "신혜선",
+      "keyword": "c1",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "만달로리안",
-      "traffic": "200+"
+      "keyword": "psg đấu với arsenal",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "sbs",
+      "keyword": "흐비차",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "하지원",
-      "traffic": "2000+"
+      "keyword": "메이플자이",
+      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -62,54 +62,54 @@
     {
       "rank": 2,
       "keyword": "사전투표율 23.51% 역대 최고",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "더불어민주당 서울시장 후보",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "은밀한 감사",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "군체 300만 돌파",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "더불어민주당 서울시장 후보",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "임지연과 허남준의 신세계",
+      "keyword": "승리한 트로피 수여",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "군체 300만 돌파",
+      "keyword": "SSG 11연패 수렁",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "승리한 트로피 시상",
+      "keyword": "안규백 장관 연설하고 답변하다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "안규백 장관 연설 및 답변",
-      "state": "s",
-      "change": "0"
+      "keyword": "신세계 임지연 허남준 설렘 데이트",
+      "state": "-",
+      "change": "6"
     },
     {
       "rank": 9,
-      "keyword": "SSG 11연패 끌어안다",
-      "state": "s",
+      "keyword": "신하균, 여객선 사건 진실 접근 중",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "최지수, 9년 만에 학자금 대출 상환",
+      "keyword": "1226회 로또 1등 10명 각 28억",
       "state": "n",
       "change": "0"
     }
