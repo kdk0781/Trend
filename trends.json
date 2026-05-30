@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-30T01:30:56.635Z",
+  "updatedAt": "2026-05-30T05:31:36.101Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "적금",
-      "traffic": "2000+"
+      "keyword": "화재",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "이호선",
-      "traffic": "1000+"
+      "keyword": "돼지고기",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "이숭용",
-      "traffic": "200+"
+      "keyword": "용인반도체클러스터",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "순항 미사일",
-      "traffic": "100+"
+      "keyword": "서인영",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "야구 경기장",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "싱가포르오픈",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "봉천역",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "손빈아",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "문재완",
+      "keyword": "올영세일",
       "traffic": "100+"
     },
     {
+      "rank": 6,
+      "keyword": "아파트",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "체포",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "김수현",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "이의 리",
+      "traffic": "1000+"
+    },
+    {
       "rank": 10,
-      "keyword": "친선 경기",
+      "keyword": "서울시교육감",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "둘째날 오전 9시 투표율 13.35%",
+      "keyword": "둘째날 낮 12시 사전투표율",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "경의선 운행 재개",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "다저스 김혜성 마이너 강등",
+      "keyword": "이정후 4안타에도 패배",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "멋진 신세계 시청률 1위 증명",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 4,
-      "keyword": "프리스틴 정은우 성형외과",
-      "state": "s",
+      "keyword": "호소하는 전재수 후보",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "역대급 도파민 시청률 1위",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 6,
-      "keyword": "훈련하는 대한민국 축구대표팀",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "백악관 회의 종료, 결정 미뤄",
+      "keyword": "상주서 3명 숨진 채 발견",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "패션계의 여인 정소미 별세",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "2026 숲속 꿀잠대회",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "공동체 해치고 그들 편드는 것",
+      "keyword": "이특, 수리비 1400만원",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "영자 앞에서 분노",
+      "keyword": "소중한 권리 행사해주세요",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "트럼프 지폐 반대 조폐국장 경질",
+      "keyword": "美 국방비 리더십 찬사",
       "state": "n",
       "change": "0"
     }
