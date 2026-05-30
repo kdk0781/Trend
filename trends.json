@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-30T08:05:19.377Z",
+  "updatedAt": "2026-05-30T10:10:41.028Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "저출산",
-      "traffic": "5000+"
+      "keyword": "아이돌",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "충남 아산 fc 대 수원",
-      "traffic": "2000+"
+      "keyword": "구성환",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "알테오젠",
-      "traffic": "200+"
+      "keyword": "최정",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "공중화장실",
+      "keyword": "배나라",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "석유",
-      "traffic": "500+"
+      "keyword": "한겨레",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "농협",
+      "keyword": "백화점",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "의료",
-      "traffic": "200+"
+      "keyword": "인구 감소",
+      "traffic": "10000+"
     },
     {
       "rank": 8,
-      "keyword": "이원택",
-      "traffic": "100+"
+      "keyword": "mbk 파트너스",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "늑구",
-      "traffic": "500+"
+      "keyword": "로드fc",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "며느리",
-      "traffic": "5000+"
+      "keyword": "sk실트론",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "사전투표율 20.94% 최고치",
-      "state": "n",
-      "change": "0"
+      "keyword": "정원오 서울시장 후보 유세",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 2,
-      "keyword": "모든 열차 운행 정상화",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "김부겸·김관영 지지 호소",
-      "state": "n",
+      "keyword": "승리한 트로피 시상",
+      "state": "s",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "역대급 도파민 시청률 이상",
-      "state": "-",
+      "rank": 3,
+      "keyword": "군체 300만 돌파",
+      "state": "+",
       "change": "1"
     },
     {
+      "rank": 4,
+      "keyword": "안세영 결승 진출",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 5,
-      "keyword": "로드FC 승리 트로피",
+      "keyword": "코레일 모든 열차 정상 운행",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "정소미 69세 별세",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "디아즈 연타석 홈런",
+      "keyword": "2500원만 24세 선물",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "오지환 선취 투런포",
+      "state": "+",
+      "change": "4"
+    },
+    {
       "rank": 8,
-      "keyword": "코르티스 30언더 선정",
+      "keyword": "서건창 외야 선발",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이 대통령 선거법 위반 고발",
-      "state": "-",
-      "change": "1"
+      "keyword": "2일차 역대 최고치",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "숲속 꿀잠대회 열려",
+      "keyword": "직장인 강제 유급",
       "state": "n",
       "change": "0"
     }
