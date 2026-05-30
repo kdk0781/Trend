@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-05-30T17:46:47.230Z",
+  "updatedAt": "2026-05-30T18:49:23.312Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "欧冠",
+      "keyword": "요케레스",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "비티냐",
-      "traffic": "500+"
+      "keyword": "메시",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "음바페",
+      "keyword": "마일스 루이스스켈리",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "псж – арсенал",
+      "keyword": "欧冠",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "psg",
-      "traffic": "1000+"
+      "keyword": "arsenal",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "스포츠 라이브",
-      "traffic": "2000+"
+      "keyword": "비티냐",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "스포츠 실시간",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "구글",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "주소",
+      "keyword": "음바페",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "псж – арсенал",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "psg",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "티비",
-      "traffic": "1000+"
+      "keyword": "스포츠 라이브",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "사전투표율 23.51% 역대",
+      "keyword": "신입사원 강회장",
+      "state": "+",
+      "change": "32"
+    },
+    {
+      "rank": 2,
+      "keyword": "임지연 허남준 멋진 신세계",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 2,
-      "keyword": "SSG, 11연패 부진",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 3,
-      "keyword": "군체 300만 돌파",
-      "state": "+",
-      "change": "1"
+      "keyword": "사전투표율 23.51% 최고치",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "임지연, 허남준과 멋진 신세계",
+      "keyword": "SSG 최다 11연패",
       "state": "-",
       "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "정원오 서울시장 후보",
-      "state": "+",
+      "keyword": "정원오 후보 지지 호소",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "안규백 장관 연설 및 질문 답변",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "도경완 주식 대폭락 고백",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "신하균, 여객선 사건 진실 다가서다",
+      "keyword": "주식 폭락 고백과 장윤정",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "1226회 로또 1등 10명 28억씩",
+      "rank": 7,
+      "keyword": "신하균, 여객선 사건 진실 접근",
       "state": "+",
-      "change": "2"
+      "change": "5"
+    },
+    {
+      "rank": 8,
+      "keyword": "안규백 장관 연설과 악수",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 9,
+      "keyword": "에어월렉스와 아스날 챔피언스리그 파티",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "미소 출발합니다.",
-      "state": "+",
+      "keyword": "1226회 로또 1등 10명 각 28억",
+      "state": "-",
       "change": "3"
     }
   ]
