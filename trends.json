@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-30T05:31:36.101Z",
+  "updatedAt": "2026-05-30T08:05:19.377Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "화재",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "돼지고기",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "용인반도체클러스터",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "서인영",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "올영세일",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "아파트",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "체포",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "김수현",
+      "keyword": "저출산",
       "traffic": "5000+"
     },
     {
+      "rank": 2,
+      "keyword": "충남 아산 fc 대 수원",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "알테오젠",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "공중화장실",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "석유",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "농협",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "의료",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "이원택",
+      "traffic": "100+"
+    },
+    {
       "rank": 9,
-      "keyword": "이의 리",
-      "traffic": "1000+"
+      "keyword": "늑구",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "서울시교육감",
-      "traffic": "200+"
+      "keyword": "며느리",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "둘째날 낮 12시 사전투표율",
-      "state": "s",
+      "keyword": "사전투표율 20.94% 최고치",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이정후 4안타에도 패배",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "멋진 신세계 시청률 1위 증명",
+      "keyword": "모든 열차 운행 정상화",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "호소하는 전재수 후보",
+      "rank": 3,
+      "keyword": "김부겸·김관영 지지 호소",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "역대급 도파민 시청률 이상",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 5,
-      "keyword": "상주서 3명 숨진 채 발견",
+      "keyword": "로드FC 승리 트로피",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "패션계의 여인 정소미 별세",
+      "keyword": "정소미 69세 별세",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "디아즈 연타석 홈런",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "2026 숲속 꿀잠대회",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 8,
-      "keyword": "이특, 수리비 1400만원",
+      "keyword": "코르티스 30언더 선정",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "소중한 권리 행사해주세요",
-      "state": "n",
-      "change": "0"
+      "keyword": "이 대통령 선거법 위반 고발",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "美 국방비 리더십 찬사",
+      "keyword": "숲속 꿀잠대회 열려",
       "state": "n",
       "change": "0"
     }
