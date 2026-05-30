@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-30T12:49:51.014Z",
+  "updatedAt": "2026-05-30T14:20:11.110Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "australia vs pakistan",
-      "traffic": "500+"
+      "keyword": "신혜선",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "ssg",
-      "traffic": "2000+"
+      "keyword": "만달로리안",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "하키",
+      "keyword": "sbs",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "이라올라",
-      "traffic": "1000+"
+      "keyword": "하지원",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "pga 투어",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "쯔양",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "환기미술관",
+      "keyword": "aus vs pak",
       "traffic": "100+"
     },
     {
+      "rank": 6,
+      "keyword": "영화 백룸",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "페이즈",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "ucl",
+      "keyword": "마카오",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "정인",
-      "traffic": "100+"
+      "keyword": "psg vs arsenal",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "현대엘리베이터",
-      "traffic": "5000+"
+      "keyword": "최예나",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "사전투표율 23.51% 최고치",
+      "keyword": "트럼프 고심 종전 결정",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "사랑을 처방해 드립니다",
+      "keyword": "은밀한 감사",
       "state": "+",
-      "change": "3"
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "오지환 KIA 선두",
+      "keyword": "사전투표율 23.51% 역대 최고",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "정원오 서울시장 후보",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 5,
-      "keyword": "한화 이글스",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "신하균, 여객선 사건 진실 접근",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 7,
-      "keyword": "이승기 밴드부 선배였다",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "싸이커스 더쇼 첫방 민재X플레어",
+      "keyword": "사랑을 처방해 드립니다",
       "state": "-",
       "change": "2"
     },
     {
+      "rank": 5,
+      "keyword": "단검 발언 해명",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "국힘 투표지 노출 논란",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "로또 당첨지역",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 8,
+      "keyword": "SSG 11연패 중",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "NRG 문성훈 결혼식 참석",
+      "keyword": "그것이 알고 싶다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "군체 10일만에 300만 돌파",
-      "state": "-",
-      "change": "6"
+      "keyword": "라오스 동굴서 5명 생존 확인",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
