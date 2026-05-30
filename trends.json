@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-30T10:10:41.028Z",
+  "updatedAt": "2026-05-30T11:45:19.462Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "아이돌",
-      "traffic": "100+"
+      "keyword": "머니투데이",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "구성환",
-      "traffic": "100+"
+      "keyword": "치지직",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "최정",
-      "traffic": "1000+"
+      "keyword": "이승기",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "배나라",
-      "traffic": "200+"
+      "keyword": "팔란티어 테크놀로지",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "한겨레",
+      "keyword": "하지원 홈런",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "백화점",
-      "traffic": "500+"
+      "keyword": "인플레이션",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "인구 감소",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "mbk 파트너스",
+      "keyword": "델",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "이준석",
+      "traffic": "2000+"
+    },
+    {
       "rank": 9,
-      "keyword": "로드fc",
-      "traffic": "100+"
+      "keyword": "채무",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "sk실트론",
+      "keyword": "k리그2",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정원오 서울시장 후보 유세",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 2,
-      "keyword": "승리한 트로피 시상",
+      "keyword": "사전투표율 23.51% 역대 최고",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "오지환 홈런 대폭발",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 3,
-      "keyword": "군체 300만 돌파",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "안세영 결승 진출",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 5,
-      "keyword": "코레일 모든 열차 정상 운행",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "2500원만 24세 선물",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "오지환 선취 투런포",
+      "keyword": "이승기, 밴드부 선배였다",
       "state": "+",
       "change": "4"
     },
     {
+      "rank": 4,
+      "keyword": "임지연, 허남준 손잡아 멋진 신세계",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "불후의 명곡",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 6,
+      "keyword": "정원오 서울시장 후보 지지 호소",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 7,
+      "keyword": "NRG 문성훈 결혼식 개최",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "서건창 외야 선발",
+      "keyword": "국힘, 투표지 노출 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "2일차 역대 최고치",
+      "keyword": "도경완 초등남매 취침 이유",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "직장인 강제 유급",
-      "state": "n",
-      "change": "0"
+      "keyword": "신하균, 여객선 사건 진실 접근",
+      "state": "+",
+      "change": "3"
     }
   ]
 }
