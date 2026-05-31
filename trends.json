@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-31T21:52:34.927Z",
+  "updatedAt": "2026-05-31T22:52:44.394Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "프로야구순위",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
       "keyword": "박준금",
       "traffic": "500+"
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "keyword": "이준영",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
       "keyword": "xsmb",
       "traffic": "500+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "싱가포르 오픈",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "농작물",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "1박2일",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "김민석",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "고용",
       "traffic": "100+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "베스킨라빈스",
       "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "이기택",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "삼성sdi",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "신입사원 강회장",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "은밀한 감사",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "이란도 수정안 제시 예정",
+      "keyword": "김정은 신의주온실종합농장 시찰",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "신입사원 강회장",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "송성문, 8일 만에 선발 출장!",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 4,
-      "keyword": "월드컵 우승 도전",
+      "keyword": "르세라핌, 美 빌보드 10위 5작 연속",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "임지연, 멋진 신세계 소화력 화보 케미",
-      "state": "s",
-      "change": "0"
+      "keyword": "은밀한 감사",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
       "keyword": "사랑을 처방해 드립니다",
       "state": "-",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "2026년 6월 운세",
-      "state": "n",
-      "change": "0"
+      "keyword": "이란, 노딜 대비 수정안 제시",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 8,
-      "keyword": "아파트 층에 불 지른 20대 구속",
-      "state": "n",
-      "change": "0"
+      "keyword": "임지연 멋진 신세계 화보 케미",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "페이커 할머니 칼부림 예고",
-      "state": "n",
-      "change": "0"
+      "keyword": "홍명보호 체코 2-1 격파",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 10,
-      "keyword": "홍진경 20CM 킬힐 워킹",
+      "keyword": "빽가 코요태 탈퇴",
       "state": "n",
       "change": "0"
     }
