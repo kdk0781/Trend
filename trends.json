@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-05-31T11:54:32.570Z",
+  "updatedAt": "2026-05-31T13:20:08.399Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "일본 아이슬란드",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
+      "keyword": "xsmb",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "싱가포르 오픈",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
       "keyword": "백화점",
       "traffic": "500+"
     },
     {
-      "rank": 2,
-      "keyword": "일본 축구",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
+      "rank": 5,
       "keyword": "1박2일",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "이용진",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "김민석",
       "traffic": "1000+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "고용",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "베스킨라빈스",
       "traffic": "100+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "이기택",
       "traffic": "1000+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "삼성sdi",
       "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "new york times",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "호아킨 니만 LIV 우승",
-      "state": "s",
-      "change": "0"
+      "keyword": "사랑을 처방해 드립니다",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "지지 호소하는 김부겸",
-      "state": "s",
+      "keyword": "박준금, 탁재훈 집 방문",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이기택 예능 블루칩 변신",
-      "state": "n",
-      "change": "0"
+      "keyword": "유선호, 눈물로 1박 떠났다.",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "이주빈 증명사진 화보 공개",
-      "state": "s",
-      "change": "0"
+      "keyword": "페이커 할머니 살해 예고",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "이영지 빨간 머리 사과",
-      "state": "n",
-      "change": "0"
+      "keyword": "박민지 KLPGA 20승 달성",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "강훈식, 캐나다 출국",
+      "keyword": "임지연의 멋진 케미",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "정민용 등 5명 보석 석방",
+      "keyword": "환영만찬 김창범 부회장",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 8,
+      "keyword": "與양천구청장 뽀뽀 논란 사과",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 9,
+      "keyword": "정원오와 오세훈 허수아비",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "한-아프리카 외교장관회의 환영만찬",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "임지연, 멋진 케미!",
-      "state": "+",
-      "change": "5"
-    },
-    {
       "rank": 10,
-      "keyword": "31기 순자 루머 중단 요청",
-      "state": "+",
-      "change": "17"
+      "keyword": "보은 가스 누출 사고",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
