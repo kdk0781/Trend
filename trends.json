@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-05-31T04:53:36.921Z",
+  "updatedAt": "2026-05-31T08:09:49.596Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이정후",
-      "traffic": "2000+"
+      "keyword": "삼성전자",
+      "traffic": "10000+"
     },
     {
       "rank": 2,
-      "keyword": "추신수",
-      "traffic": "200+"
+      "keyword": "연차",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "잠수함",
-      "traffic": "2000+"
+      "keyword": "오선우",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "택시",
-      "traffic": "500+"
+      "keyword": "한국경제",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "도경완",
+      "keyword": "양현종",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "nepal vs china",
-      "traffic": "200+"
+      "keyword": "cj그룹",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "오정세",
+      "keyword": "이주명",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "men's t20i asian games qualifier",
-      "traffic": "100+"
+      "keyword": "울산 웨일즈",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "fifa 월드컵 2026",
-      "traffic": "2000+"
+      "keyword": "폭발",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "보이콧",
-      "traffic": "500+"
+      "keyword": "회의",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "손흥민 조규성 멀티골 5-0 대승",
+      "keyword": "이명박 전 대통령 부산",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "배경훈, 무료 AI 시대 연다",
-      "state": "s",
-      "change": "0"
+      "keyword": "정소미 별세 추모",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "멋진 신세계 시청률 최고",
-      "state": "s",
-      "change": "0"
+      "keyword": "2026 한-아프리카 고위관리회의",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "신혜선과 공명, 소중한 기억들",
-      "state": "n",
-      "change": "0"
+      "keyword": "정원오 서울시장 유세",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "신입사원 강회장",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 6,
-      "keyword": "정청래 금산 유세",
+      "keyword": "순자 법적 대응 준비중!",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "오스틴 투런 홈런포",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "KCF BMX코리아레이싱컵",
-      "state": "s",
+      "keyword": "대장동 정영학 정민용 보석 석방",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "신하균, 여객선 사건 진실 접근",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "톱티어 비자 확대",
+      "keyword": "투표 독려하는 장동혁",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "안규백 장관 인터뷰",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "직장 동료와 싸움 후 사망",
-      "state": "n",
+      "keyword": "신입사원 강회장",
+      "state": "s",
       "change": "0"
     }
   ]
