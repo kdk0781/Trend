@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-05-31T00:15:29.781Z",
+  "updatedAt": "2026-05-31T04:53:36.921Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이예원",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "비야디",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "남극",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "스페이스x",
+      "keyword": "이정후",
       "traffic": "2000+"
     },
     {
+      "rank": 2,
+      "keyword": "추신수",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "잠수함",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "택시",
+      "traffic": "500+"
+    },
+    {
       "rank": 5,
-      "keyword": "김상식",
-      "traffic": "100+"
+      "keyword": "도경완",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "kg모빌리티",
-      "traffic": "1000+"
+      "keyword": "nepal vs china",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "차지연",
+      "keyword": "오정세",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "이민우",
+      "keyword": "men's t20i asian games qualifier",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "빵",
+      "keyword": "fifa 월드컵 2026",
       "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "라오스",
-      "traffic": "200+"
+      "keyword": "보이콧",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "임지연과 허남준의 멋진 신세계",
-      "state": "s",
+      "keyword": "손흥민 조규성 멀티골 5-0 대승",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "신입사원 강회장",
+      "keyword": "배경훈, 무료 AI 시대 연다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "마체고라 기념판 제막식",
-      "state": "n",
+      "keyword": "멋진 신세계 시청률 최고",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "은밀한 감사",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "PSG, 승부차기 끝에 아스널 꺾고 2연패",
+      "keyword": "신혜선과 공명, 소중한 기억들",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "신입사원 강회장",
+      "state": "+",
+      "change": "4"
+    },
+    {
       "rank": 6,
-      "keyword": "신하균, 여객선 사건 진실 접근",
-      "state": "-",
-      "change": "2"
+      "keyword": "정청래 금산 유세",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김태연 퀸엘리자베스 콩쿠르",
-      "state": "n",
+      "keyword": "KCF BMX코리아레이싱컵",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "손현주 이준영 몸에 뺑소니 썼다",
-      "state": "n",
-      "change": "0"
+      "keyword": "신하균, 여객선 사건 진실 접근",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "리버풀 슬롯 감독 경질",
+      "keyword": "톱티어 비자 확대",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "31기 정희, 순자 재차 사과",
+      "keyword": "직장 동료와 싸움 후 사망",
       "state": "n",
       "change": "0"
     }
