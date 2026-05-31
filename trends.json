@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T19:51:49.758Z",
+  "updatedAt": "2026-05-31T20:51:36.828Z",
   "google": [
     {
       "rank": 1,
@@ -55,61 +55,61 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정원오 신촌 집중유세",
+      "keyword": "신입사원 강회장",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 2,
-      "keyword": "신입사원 강회장",
-      "state": "-",
-      "change": "1"
+      "keyword": "은밀한 감사",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 3,
-      "keyword": "박민지 KLPGA 20승 달성",
+      "keyword": "임지연, 로코의 매력",
+      "state": "+",
+      "change": "11"
+    },
+    {
+      "rank": 4,
+      "keyword": "사랑을 처방해 드립니다",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 5,
+      "keyword": "CNN 이란 미사일 터널 50개 복구",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "제니 박준금 43KG 유지 비결",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "은밀한 감사",
-      "state": "-",
-      "change": "2"
-    },
-    {
       "rank": 6,
-      "keyword": "페이커 할머니 협박 수사",
-      "state": "s",
+      "keyword": "월드컵 우승 1-0",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "임지연 멋진 신세계 케미",
-      "state": "s",
-      "change": "0"
+      "keyword": "60대 제니 박준금, 43KG 유지 비결 공개",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 8,
-      "keyword": "사랑을 처방해 드립니다",
-      "state": "s",
-      "change": "0"
+      "keyword": "PSG 우승 축하 780명 체포",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "양천구청장 후보 사과",
+      "keyword": "오십프로 긴장감 폭발 시청률 6.1%",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "일본, 아이슬란드 1-0 신승",
+      "keyword": "정석용, 아내와 뽀뽀 못해봐서",
       "state": "n",
       "change": "0"
     }
