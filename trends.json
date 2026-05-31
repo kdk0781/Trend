@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-05-31T13:20:08.399Z",
+  "updatedAt": "2026-05-31T14:57:20.613Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "일본 아이슬란드",
-      "traffic": "200+"
+      "keyword": "박준금",
+      "traffic": "500+"
     },
     {
       "rank": 2,
@@ -18,8 +18,8 @@
     },
     {
       "rank": 4,
-      "keyword": "백화점",
-      "traffic": "500+"
+      "keyword": "농작물",
+      "traffic": "200+"
     },
     {
       "rank": 5,
@@ -55,61 +55,61 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "사랑을 처방해 드립니다",
-      "state": "+",
-      "change": "1"
+      "keyword": "60대 박준금, 재혼 의사 솔직 고백",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "박준금, 탁재훈 집 방문",
-      "state": "n",
+      "keyword": "부산 백화점 천장 붕괴 대피",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "유선호, 눈물로 1박 떠났다.",
+      "keyword": "페이커 할머니 살해 협박 경찰 수사",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "페이커 할머니 살해 예고",
+      "keyword": "광주 여중생 4명 폭행",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "박민지 KLPGA 20승 달성",
+      "keyword": "오세훈 서울시장 후보",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "임지연의 멋진 케미",
-      "state": "s",
-      "change": "0"
+      "keyword": "한남대교 사고로 한강버스 지연",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "환영만찬 김창범 부회장",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "與양천구청장 뽀뽀 논란 사과",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 9,
-      "keyword": "정원오와 오세훈 허수아비",
+      "keyword": "우형찬 아기 사과",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "박민지, KLPGA 20승 달성",
+      "state": "+",
+      "change": "9"
+    },
+    {
+      "rank": 9,
+      "keyword": "정석용 뽀뽀 사랑 이야기",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 10,
-      "keyword": "보은 가스 누출 사고",
+      "keyword": "임블리, 전남편과 응원하며 잘 지내기",
       "state": "n",
       "change": "0"
     }
