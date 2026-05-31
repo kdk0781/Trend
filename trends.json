@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-05-30T23:12:56.031Z",
+  "updatedAt": "2026-05-31T00:15:29.781Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "라오스",
+      "keyword": "이예원",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "주거",
+      "keyword": "비야디",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "lg 트윈스",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "전세권",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "전지",
+      "keyword": "남극",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "스페이스x",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "김상식",
+      "traffic": "100+"
+    },
+    {
       "rank": 6,
-      "keyword": "안병훈",
+      "keyword": "kg모빌리티",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "포스코",
-      "traffic": "200+"
+      "keyword": "차지연",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "음식",
-      "traffic": "5000+"
+      "keyword": "이민우",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "습관",
-      "traffic": "1000+"
+      "keyword": "빵",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "이의리",
-      "traffic": "500+"
+      "keyword": "라오스",
+      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -67,49 +67,49 @@
     },
     {
       "rank": 3,
-      "keyword": "PSG UCL 2연패 성공",
-      "state": "s",
+      "keyword": "마체고라 기념판 제막식",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "하이주얼리 제시카 맥코맥",
-      "state": "n",
-      "change": "0"
+      "keyword": "은밀한 감사",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "은밀한 감사",
-      "state": "s",
+      "keyword": "PSG, 승부차기 끝에 아스널 꺾고 2연패",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "홍경민 父가 돈 관리",
+      "keyword": "신하균, 여객선 사건 진실 접근",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "김태연 퀸엘리자베스 콩쿠르",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "신하균, 여객선 사건 진실 접근",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 8,
-      "keyword": "2026년 5월 31일 운세",
-      "state": "-",
-      "change": "1"
+      "keyword": "손현주 이준영 몸에 뺑소니 썼다",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "트럼프 250주년 대신한다",
-      "state": "+",
-      "change": "3"
+      "keyword": "리버풀 슬롯 감독 경질",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "장윤정 초등남매 한방 이유",
+      "keyword": "31기 정희, 순자 재차 사과",
       "state": "n",
       "change": "0"
     }
