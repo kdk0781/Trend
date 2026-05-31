@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T16:06:04.285Z",
+  "updatedAt": "2026-05-31T17:19:31.449Z",
   "google": [
     {
       "rank": 1,
@@ -55,63 +55,63 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "오세훈 후보 지지 호소",
-      "state": "n",
+      "keyword": "후보들의 지지 호소",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "박민지 KLPGA 20승",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "박근혜, 대구 지원 유세",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "SSG 최다 12연패",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "이영지 빨간 머리 정치색",
+      "keyword": "니만 LIV 우승",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "박민지 20승 달성",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "은밀한 감사",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "강훈식 캐나다 출국",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "임지연의 멋진 케미",
-      "state": "+",
-      "change": "3"
+      "keyword": "임지연, 멋진 신세계 로코 화보 케미",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "부산 백화점 대피",
-      "state": "-",
-      "change": "3"
+      "keyword": "페이커 할머니 협박 수사",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "사랑을 처방해 드립니다",
-      "state": "-",
-      "change": "1"
+      "keyword": "마지막 주말 총력전",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "신입사원 강회장",
-      "state": "-",
-      "change": "1"
+      "keyword": "31기 순자 루머 중단 요청",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "임블리와 전남편은 응원 중",
+      "keyword": "사랑을 처방해 드립니다",
       "state": "-",
-      "change": "2"
+      "change": "3"
     }
   ]
 }
