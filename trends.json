@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-06-01T10:30:22.391Z",
+  "updatedAt": "2026-06-01T16:25:34.236Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "kbo",
-      "traffic": "200+"
+      "keyword": "모스탄",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "하이닉스 화재",
+      "keyword": "캐시워크 정답",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "서대문형무소",
-      "traffic": "100+"
+      "keyword": "sxmb",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "한화에어로스페이스",
-      "traffic": "2000+"
+      "keyword": "kbo 올스타 투표",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "classroom",
+      "keyword": "ตรวจหวย",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "경복궁",
-      "traffic": "100+"
+      "keyword": "kbo",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "게임",
-      "traffic": "2000+"
+      "keyword": "경제총조사",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "국가유산",
+      "keyword": "하이닉스 화재",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "국립중앙박물관",
-      "traffic": "500+"
+      "keyword": "네이버 주가",
+      "traffic": "20000+"
     },
     {
       "rank": 10,
-      "keyword": "기상청 날씨누리",
+      "keyword": "서대문형무소",
       "traffic": "100+"
     }
   ],
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "띠로리 미야오 선보여",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "신입사원 강회장 변신 질주",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "윤석열 체포 방해 징역 7년 구형",
+      "keyword": "띠로리 미야오 무대",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 3,
+      "keyword": "젠슨 황, 한국 방문 예정",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "신예은 이재욱 섬에서 만남",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 5,
-      "keyword": "1군 말소 및 2군행",
+      "keyword": "홍명보호 월드컵 만세!",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "이란, 미국과 소통 중단",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "앨리슨 후커 방한",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "12연패 SSG, 엔트리 말소",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "김세의 구속적부심 청구",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "5월 판매 감소",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 7,
-      "keyword": "젠슨 황, AI 스타트업과 만남 추진",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "앨리슨 후커 미국 입국",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "선거 막판 혼탁 의혹 발생",
-      "state": "+",
-      "change": "6"
-    },
-    {
       "rank": 10,
-      "keyword": "은밀한 감사",
-      "state": "-",
-      "change": "1"
+      "keyword": "권경애 유족 헌재 소원 청구",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
