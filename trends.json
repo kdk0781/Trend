@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01T22:52:30.305Z",
+  "updatedAt": "2026-06-02T00:07:43.714Z",
   "google": [
     {
       "rank": 1,
@@ -43,75 +43,75 @@
     },
     {
       "rank": 9,
-      "keyword": "서대문형무소",
-      "traffic": "100+"
+      "keyword": "네이버 주가",
+      "traffic": "20000+"
     },
     {
       "rank": 10,
-      "keyword": "한화에어로스페이스",
-      "traffic": "2000+"
+      "keyword": "서대문형무소",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 호르무즈 합의 예상",
-      "state": "n",
+      "keyword": "트럼프, 호르무즈 합의 예상",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "젠슨 황 한국 방문",
-      "state": "+",
-      "change": "7"
+      "keyword": "5월 물가 3.1% 상승",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "조위제 대체 발탁",
-      "state": "s",
-      "change": "0"
+      "keyword": "정세운, 23일 육군 입대",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "양상국, 태도 논란 심경 고백",
-      "state": "n",
-      "change": "0"
+      "keyword": "이강인 합류 홍명보호 완전체",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "신입사원 강회장 변신 질주",
-      "state": "s",
-      "change": "0"
+      "keyword": "신예은-이재욱 섬에서 만남",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "박민지 세계랭킹 104위 올라",
-      "state": "n",
-      "change": "0"
+      "keyword": "태풍 경보와 더위",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "박수홍♥김다예 둘째 계획",
+      "keyword": "탑 일본 무료 팬미팅 개최",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "한강버스 135억 지원",
+      "keyword": "국민의힘 장동혁 상임선대위원장",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "박지윤, 자녀 국제학교 해명",
+      "keyword": "박명수 가족 3명 암 전이",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이강인 대표팀 합류",
-      "state": "n",
-      "change": "0"
+      "keyword": "취사병 전설이 되다",
+      "state": "+",
+      "change": "6"
     }
   ]
 }
