@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-06-02T04:58:12.810Z",
+  "updatedAt": "2026-06-02T09:06:35.752Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "무인 항공기",
-      "traffic": "200+"
+      "keyword": "한국경제",
+      "traffic": "10000+"
     },
     {
       "rank": 2,
-      "keyword": "레미콘",
+      "keyword": "주거",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "해피투게더",
+      "keyword": "400m 계주",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "현금",
+      "keyword": "바이낸스",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "폴란드",
+      "keyword": "권순표",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "문 도엽",
-      "traffic": "100+"
+      "keyword": "다나와",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "포항시",
-      "traffic": "200+"
+      "keyword": "이봉원",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "제주대학교병원",
-      "traffic": "100+"
+      "keyword": "스타 벅스 환불",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "한국농어촌공사",
-      "traffic": "100+"
+      "keyword": "김효주",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "미스김",
-      "traffic": "100+"
+      "keyword": "퇴직",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "지지호소하는 정원오 후보",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 2,
-      "keyword": "이정후 9경기 연속 타율",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "마동석 오늘 부친상",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "수교 140주년 특별전",
+      "keyword": "코스피 8800선 마감",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "정청래 투표 호소",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 3,
+      "keyword": "젠슨 황, 8일 韓 AI 스타트업 회동",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "김원형 감독의 웃음과 탄식",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 5,
-      "keyword": "박미선, 암 투병 후 복귀",
-      "state": "n",
-      "change": "0"
+      "keyword": "MC몽, PD수첩 1000억 소송 예고",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "싸이, 수면제 대리 수령 송치",
-      "state": "n",
+      "keyword": "김세의 구속 유지 기각",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "신예은-이재욱, 고립된 섬에서 만남",
-      "state": "+",
-      "change": "12"
+      "keyword": "지창욱 세금 추징 의혹",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 8,
-      "keyword": "신입사원 강회장 변신 질주",
-      "state": "s",
+      "keyword": "부상 조유민 불행은",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "발언하는 이재명 대통령",
-      "state": "-",
-      "change": "3"
+      "keyword": "약한영웅3 사칭 주의",
+      "state": "+",
+      "change": "20"
     },
     {
       "rank": 10,
-      "keyword": "SOOP 가입 승인",
-      "state": "n",
+      "keyword": "여고생 살해 장윤기 성폭행 의도",
+      "state": "s",
       "change": "0"
     }
   ]
