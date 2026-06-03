@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-03T10:11:12.750Z",
+  "updatedAt": "2026-06-03T15:05:08.661Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "민형배",
-      "traffic": "500+"
+      "keyword": "지민",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "김경수",
-      "traffic": "500+"
+      "keyword": "wi vs sl",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "강은희",
+      "keyword": "모닝스타",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "mbc",
-      "traffic": "500+"
+      "keyword": "이봉원",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "kbs",
-      "traffic": "500+"
+      "keyword": "여행",
+      "traffic": "10000+"
     },
     {
       "rank": 6,
-      "keyword": "sbs",
-      "traffic": "200+"
+      "keyword": "thời tiết ngày mai",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "xbox",
-      "traffic": "200+"
+      "keyword": "소철",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "퇴직",
-      "traffic": "1000+"
+      "keyword": "cuaca besok",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "포스코",
-      "traffic": "1000+"
+      "keyword": "한동훈",
+      "traffic": "20000+"
     },
     {
       "rank": 10,
-      "keyword": "앤트로픽",
-      "traffic": "1000+"
+      "keyword": "광산구",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "방송3사 출구조사 결과",
+      "keyword": "투표용지 부족 사태에",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 2,
+      "keyword": "한동훈 영향 압도적 투표율 기대",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "후보 당선 유력",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 2,
-      "keyword": "JTBC 조사 결과",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "송파구 투표용지 부족 상황",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 4,
-      "keyword": "왕옌청 승리 위해 던진다",
-      "state": "-",
-      "change": "1"
+      "keyword": "부산 북구갑",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이필립 박현선 수영장行",
-      "state": "-",
-      "change": "1"
+      "keyword": "SSG, 13연패 탈출",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "첫 번째 남자",
+      "keyword": "47세 한다감 임신 비법 공개",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "MC몽 반박 차가원과",
+      "keyword": "나솔 31기 공개",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "신입사원 강회장",
-      "state": "+",
-      "change": "1"
+      "keyword": "KBO리그 500만 관중도",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "달러 강제매각설 수사",
-      "state": "+",
-      "change": "1"
+      "keyword": "연장 혈투 끝에",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "최정 선제 솔로포",
-      "state": "+",
-      "change": "1"
+      "keyword": "지상파 JTBC 출구조사",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
