@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-03T15:05:08.661Z",
+  "updatedAt": "2026-06-03T18:55:07.225Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "지민",
+      "keyword": "안산시장",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "wi vs sl",
-      "traffic": "200+"
+      "keyword": "동작구",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "모닝스타",
+      "keyword": "안귀령",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "이봉원",
+      "keyword": "진은정",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "여행",
-      "traffic": "10000+"
+      "keyword": "조국",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "thời tiết ngày mai",
-      "traffic": "1000+"
+      "keyword": "cnn",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "소철",
-      "traffic": "1000+"
+      "keyword": "korea election",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "cuaca besok",
-      "traffic": "200+"
+      "keyword": "좌파",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "한동훈",
-      "traffic": "20000+"
+      "keyword": "최은경",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "광산구",
+      "keyword": "bbc",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "투표용지 부족 사태에",
+      "keyword": "한동훈 부산 보선 당선",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "한동훈 영향 압도적 투표율 기대",
-      "state": "s",
-      "change": "0"
+      "keyword": "개표현황",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 3,
-      "keyword": "후보 당선 유력",
+      "keyword": "김부겸이 낙선한 이유",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "부산 북구갑",
-      "state": "s",
-      "change": "0"
+      "keyword": "하정우, 고배와 역전",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "SSG, 13연패 탈출",
-      "state": "s",
-      "change": "0"
+      "keyword": "평택 을",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "47세 한다감 임신 비법 공개",
-      "state": "n",
-      "change": "0"
+      "keyword": "장동혁 대표 면담 대기",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "나솔 31기 공개",
+      "keyword": "지방선거 투표율 최고 기록",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "KBO리그 500만 관중도",
+      "keyword": "재선 성공",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "연장 혈투 끝에",
-      "state": "n",
-      "change": "0"
+      "keyword": "SSG 13연패 탈출",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "지상파 JTBC 출구조사",
-      "state": "n",
-      "change": "0"
+      "keyword": "47세 임신 공개",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
