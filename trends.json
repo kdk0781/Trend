@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-03T00:14:57.404Z",
+  "updatedAt": "2026-06-03T05:19:05.164Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "공습",
-      "traffic": "500+"
+      "keyword": "굿파트너",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "프랑스오픈",
-      "traffic": "100+"
+      "keyword": "장교",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "피의 게임",
+      "keyword": "운동회",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "진보당",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "에코프로비엠",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "roblox",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "한화시스템",
+      "keyword": "황제성",
       "traffic": "200+"
     },
     {
-      "rank": 8,
-      "keyword": "동탄 신도시",
+      "rank": 5,
+      "keyword": "라이엇",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "안재석",
       "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "무투표 당선",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "인사혁신처",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "박유천",
-      "traffic": "100+"
+      "keyword": "살인",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "진양곤",
-      "traffic": "100+"
+      "keyword": "조유민",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이다인 이승기, 차가원 전세",
-      "state": "s",
+      "keyword": "오후 1시 투표율 46.0%",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "신예은-이재욱 섬서 만남 AUJOURD HUI",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 3,
-      "keyword": "평가전 앞두고 막바지",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "소중한 한 표 행사",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "첫 번째 남자",
+      "keyword": "마련된 투표소",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "조국·한동훈 여의도 입성 변화",
+      "rank": 3,
+      "keyword": "이정후 10경기 연속 안타",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "취사병 전설이 되다",
-      "state": "+",
-      "change": "12"
-    },
-    {
-      "rank": 8,
-      "keyword": "월드컵 일정",
+      "rank": 4,
+      "keyword": "투표소 간 방탄소년단 진",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "늑구 오월드 재개장!",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "당신들이 불로 한화에어로",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "이민정 대학 시절 비주얼",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "월드컵 일정",
+      "state": "+",
+      "change": "7"
+    },
+    {
       "rank": 9,
-      "keyword": "훈련하는 대한민국 축구대표팀",
+      "keyword": "아내 방치 징역 30년",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "투표소 찾은",
-      "state": "n",
-      "change": "0"
+      "keyword": "LG 리오스 영입!",
+      "state": "-",
+      "change": "8"
     }
   ]
 }
