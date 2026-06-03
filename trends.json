@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-03T18:55:07.225Z",
+  "updatedAt": "2026-06-03T21:43:47.355Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "안산시장",
-      "traffic": "200+"
+      "keyword": "브로드컴",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "동작구",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "안귀령",
+      "keyword": "대한민국 축구 국가대표팀",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "원주시장",
+      "traffic": "100+"
+    },
+    {
       "rank": 4,
-      "keyword": "진은정",
+      "keyword": "권영국",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "조국",
+      "keyword": "손혜원",
       "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "cnn",
+      "keyword": "blackpink",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "korea election",
-      "traffic": "100+"
+      "keyword": "양민혁",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "좌파",
-      "traffic": "100+"
+      "keyword": "박민수",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "최은경",
+      "keyword": "안유진",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "bbc",
-      "traffic": "200+"
+      "keyword": "31 기 옥순 인스 타",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "한동훈 부산 보선 당선",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "개표현황",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 3,
-      "keyword": "김부겸이 낙선한 이유",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "하정우, 고배와 역전",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 5,
-      "keyword": "평택 을",
+      "keyword": "서울 시장",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 2,
+      "keyword": "개표현황",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "평택 을",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "투표용지 부족 사태 발생",
+      "state": "+",
+      "change": "8"
+    },
+    {
+      "rank": 5,
+      "keyword": "지방선거 투표율 1위 64.2%",
+      "state": "+",
+      "change": "12"
+    },
+    {
       "rank": 6,
-      "keyword": "장동혁 대표 면담 대기",
-      "state": "-",
-      "change": "2"
+      "keyword": "장동혁 선대위원장",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "지방선거 투표율 최고 기록",
+      "keyword": "32기 돌싱 특집",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "재선 성공",
+      "keyword": "32기 영철 사별",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 9,
+      "keyword": "징징대지 말고 신입",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "SSG 13연패 탈출",
-      "state": "-",
-      "change": "2"
-    },
-    {
       "rank": 10,
-      "keyword": "47세 임신 공개",
-      "state": "-",
-      "change": "2"
+      "keyword": "지방권력 교체 승리",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
