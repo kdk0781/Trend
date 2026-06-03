@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-03T21:43:47.355Z",
+  "updatedAt": "2026-06-03T23:23:44.965Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "브로드컴",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "대한민국 축구 국가대표팀",
+      "keyword": "김태현",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "남편",
+      "traffic": "100+"
+    },
+    {
       "rank": 3,
-      "keyword": "원주시장",
+      "keyword": "대전 교육감",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "권영국",
-      "traffic": "100+"
+      "keyword": "날씨",
+      "traffic": "200000+"
     },
     {
       "rank": 5,
-      "keyword": "손혜원",
-      "traffic": "2000+"
+      "keyword": "weather",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "blackpink",
+      "keyword": "김해시장",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "양민혁",
-      "traffic": "500+"
+      "keyword": "rgti",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "박민수",
-      "traffic": "200+"
+      "keyword": "오산시장",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "안유진",
-      "traffic": "200+"
+      "keyword": "김포시장",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "31 기 옥순 인스 타",
-      "traffic": "1000+"
+      "keyword": "천안시장",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "서울 시장",
-      "state": "+",
-      "change": "1"
+      "keyword": "오세훈, 정원오에 역전 서울시장",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "개표현황",
+      "keyword": "경남도지사 출구조사 김경수 우세",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "평택 을",
-      "state": "s",
-      "change": "0"
+      "keyword": "개표현황",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "투표용지 부족 사태 발생",
-      "state": "+",
-      "change": "8"
+      "keyword": "평택 을",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "지방선거 투표율 1위 64.2%",
-      "state": "+",
-      "change": "12"
+      "keyword": "투표용지 부족 집회",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "장동혁 선대위원장",
+      "keyword": "김정은 새 공장 시찰",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
       "keyword": "32기 돌싱 특집",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "32기 영철 사별",
-      "state": "-",
-      "change": "3"
+      "keyword": "선관위 항의 집회",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "징징대지 말고 신입",
+      "keyword": "장미인애 다시 시작 사실 배우였다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "지방권력 교체 승리",
+      "keyword": "잠실7동 투표소 투표함",
       "state": "n",
       "change": "0"
     }
