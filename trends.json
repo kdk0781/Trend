@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-03T05:19:05.164Z",
+  "updatedAt": "2026-06-03T10:11:12.750Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "굿파트너",
-      "traffic": "200+"
+      "keyword": "민형배",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "장교",
-      "traffic": "200+"
+      "keyword": "김경수",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "운동회",
-      "traffic": "100+"
+      "keyword": "강은희",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "황제성",
-      "traffic": "200+"
+      "keyword": "mbc",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "라이엇",
-      "traffic": "200+"
+      "keyword": "kbs",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "안재석",
-      "traffic": "100+"
+      "keyword": "sbs",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "무투표 당선",
-      "traffic": "1000+"
+      "keyword": "xbox",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "인사혁신처",
-      "traffic": "500+"
+      "keyword": "퇴직",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "살인",
-      "traffic": "2000+"
+      "keyword": "포스코",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "조유민",
-      "traffic": "500+"
+      "keyword": "앤트로픽",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "오후 1시 투표율 46.0%",
-      "state": "n",
-      "change": "0"
+      "keyword": "방송3사 출구조사 결과",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "마련된 투표소",
-      "state": "+",
+      "keyword": "JTBC 조사 결과",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "이정후 10경기 연속 안타",
-      "state": "+",
+      "keyword": "송파구 투표용지 부족 상황",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "투표소 간 방탄소년단 진",
-      "state": "n",
-      "change": "0"
+      "keyword": "왕옌청 승리 위해 던진다",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "늑구 오월드 재개장!",
-      "state": "n",
-      "change": "0"
+      "keyword": "이필립 박현선 수영장行",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "당신들이 불로 한화에어로",
+      "keyword": "첫 번째 남자",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "이민정 대학 시절 비주얼",
+      "keyword": "MC몽 반박 차가원과",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "월드컵 일정",
+      "keyword": "신입사원 강회장",
       "state": "+",
-      "change": "7"
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "아내 방치 징역 30년",
-      "state": "n",
-      "change": "0"
+      "keyword": "달러 강제매각설 수사",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "LG 리오스 영입!",
-      "state": "-",
-      "change": "8"
+      "keyword": "최정 선제 솔로포",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
