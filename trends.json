@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-04T20:37:34.043Z",
+  "updatedAt": "2026-06-04T22:09:50.636Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "한국형 차기 구축함",
-      "traffic": "500+"
+      "keyword": "김혜경",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "탄핵",
+      "keyword": "투자",
       "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "노란봉투법",
+      "keyword": "미인 대회",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "조 승아",
-      "traffic": "500+"
+      "keyword": "mu",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "커피",
-      "traffic": "2000+"
+      "keyword": "이정후",
+      "traffic": "10000+"
     },
     {
       "rank": 6,
-      "keyword": "영화",
+      "keyword": "선우용여",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "퀀티넘",
-      "traffic": "500+"
+      "keyword": "기아 쏘렌토",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "마야 흐발린스카",
-      "traffic": "200+"
+      "keyword": "캐스팅보트",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "한수민",
-      "traffic": "100+"
+      "keyword": "정동영",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "디아나 슈나이더",
-      "traffic": "100+"
+      "keyword": "노동조합",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "잠실7동 투표소 관계자 병원 이송",
-      "state": "+",
-      "change": "3"
+      "keyword": "젠슨 황, 오늘 삼소 회동",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "KIA 10-0 롯데 완파!",
+      "keyword": "여자 1호 첫인상 인기",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "어도어 손배 330억 청구",
+      "keyword": "두산이 연승!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "젠슨 황, 5일 1시 입국",
-      "state": "-",
-      "change": "3"
+      "keyword": "쿠바 대통령 제재",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "여자 1호, 1기 영호 첫인상 등극",
-      "state": "+",
+      "keyword": "한동훈 당선이란 무엇일까?",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "헤즈볼라 휴전 거부",
+      "keyword": "이스라엘·레바논 휴전 가능성",
       "state": "+",
-      "change": "1"
+      "change": "5"
     },
     {
       "rank": 7,
-      "keyword": "LG, 선두 수성!",
+      "keyword": "투표소 봉쇄 주민들",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "김일성광장 공사 시진핑 방북",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 9,
+      "keyword": "어도어 청구 금액 330억으로 변경",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "한동훈 국회 복당 시사",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "복도서 흉기 휘두른 고교생 체포",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 10,
-      "keyword": "김일성광장 시진핑 방북 준비",
+      "keyword": "장동건 아들 키 185CM 넘었다",
       "state": "n",
       "change": "0"
     }
