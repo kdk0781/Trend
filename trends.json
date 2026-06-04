@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-06-04T06:53:30.234Z",
+  "updatedAt": "2026-06-04T10:34:54.241Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "정찰기",
-      "traffic": "500+"
+      "keyword": "유가증권",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "워렌 버핏",
-      "traffic": "100+"
+      "keyword": "시라카와",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "일기예보",
+      "keyword": "윤보미",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "전희철",
-      "traffic": "1000+"
+      "keyword": "전현무계획",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "은현장",
+      "keyword": "이현중",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "정명근",
-      "traffic": "1000+"
+      "keyword": "퀀 티넘",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "박정수",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "군용기",
+      "keyword": "삼성sdi",
       "traffic": "1000+"
     },
     {
+      "rank": 8,
+      "keyword": "nol 티켓",
+      "traffic": "500+"
+    },
+    {
       "rank": 9,
-      "keyword": "뉴데일리",
-      "traffic": "200+"
+      "keyword": "캐논",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "알렉 감보아",
-      "traffic": "500+"
+      "keyword": "부산일보",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 대통령 수석보좌관회의",
+      "keyword": "한동훈, 보수 재편 핵심 인물",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "한동훈 복귀로 국힘 지형 흔들",
-      "state": "s",
-      "change": "0"
+      "keyword": "서우림 전남편 불륜 급습",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "서울 시장",
-      "state": "s",
-      "change": "0"
+      "keyword": "투표용지 부족 사태 조사 필요",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "이진숙·김태규 국회 과방위 맡나",
-      "state": "s",
-      "change": "0"
+      "keyword": "김혜경 여사, 수교 140주년 참석",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "민생물가 TF 회의 참석하는 구윤철",
-      "state": "n",
-      "change": "0"
+      "keyword": "서울 시장",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "발언하는 송언석 원내대표",
-      "state": "n",
-      "change": "0"
+      "keyword": "SOOP 수퍼스 초대 감독 김세진",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "플레이브 데뷔 첫 월드투어",
-      "state": "n",
-      "change": "0"
+      "keyword": "고레에다 히로카즈 감독",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "브런슨, 뉴욕 파이널 승리!",
+      "keyword": "김부겸 해단식, 대구 정치경쟁",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "젠슨 황 내일 김포공항 입국",
-      "state": "s",
+      "keyword": "도수치료 주 2회·연 24회 제한",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김영훈 장관, 직장인 간담회 주재",
-      "state": "s",
+      "keyword": "조국, 당대표 사퇴 준비하겠다",
+      "state": "n",
       "change": "0"
     }
   ]
