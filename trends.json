@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-04T18:38:17.225Z",
+  "updatedAt": "2026-06-04T20:37:34.043Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "영화",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "퀀티넘",
+      "keyword": "한국형 차기 구축함",
       "traffic": "500+"
     },
     {
+      "rank": 2,
+      "keyword": "탄핵",
+      "traffic": "1000+"
+    },
+    {
       "rank": 3,
-      "keyword": "마야 흐발린스카",
+      "keyword": "노란봉투법",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "한수민",
-      "traffic": "100+"
+      "keyword": "조 승아",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "디아나 슈나이더",
-      "traffic": "100+"
+      "keyword": "커피",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "이상민",
-      "traffic": "200+"
+      "keyword": "영화",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "닌텐도 스위치",
-      "traffic": "200+"
+      "keyword": "퀀티넘",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "이더리움",
+      "keyword": "마야 흐발린스카",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "젠슨 황 방한",
-      "traffic": "2000+"
+      "keyword": "한수민",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "공매도",
-      "traffic": "2000+"
+      "keyword": "디아나 슈나이더",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "젠슨 황, 김포공항 1시 도착",
-      "state": "s",
-      "change": "0"
+      "keyword": "잠실7동 투표소 관계자 병원 이송",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 2,
-      "keyword": "우천 중단 경기",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "잠실7동 투표소 관계자 병원 이송",
+      "keyword": "KIA 10-0 롯데 완파!",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "어도어 손배 330억 청구",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 4,
-      "keyword": "어도어 손해배상 330억",
+      "keyword": "젠슨 황, 5일 1시 입국",
       "state": "-",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "중노위 중흥 사용자성 인정",
+      "keyword": "여자 1호, 1기 영호 첫인상 등극",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "시라카와 복귀 KIA 10-0 롯데",
-      "state": "-",
+      "keyword": "헤즈볼라 휴전 거부",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "여자 1호, 1기 영호 선택 인기녀",
+      "keyword": "LG, 선두 수성!",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "한동훈 국회 복당 시사",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "양의지 솔로포",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 9,
-      "keyword": "손태진 연애 여부 질문",
-      "state": "s",
+      "keyword": "복도서 흉기 휘두른 고교생 체포",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "헤즈볼라 휴전 거부",
+      "keyword": "김일성광장 시진핑 방북 준비",
       "state": "n",
       "change": "0"
     }
