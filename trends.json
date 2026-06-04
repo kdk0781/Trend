@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-03T23:23:44.965Z",
+  "updatedAt": "2026-06-04T02:03:00.212Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김태현",
-      "traffic": "200+"
+      "keyword": "성유리",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "남편",
-      "traffic": "100+"
+      "keyword": "대한광통신 주가",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "대전 교육감",
-      "traffic": "100+"
+      "keyword": "lg전자 주가",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "날씨",
-      "traffic": "200000+"
+      "keyword": "삼성중공업 주가",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "weather",
-      "traffic": "5000+"
+      "keyword": "유치원",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "김해시장",
-      "traffic": "100+"
+      "keyword": "한국 엘살바도르",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "rgti",
-      "traffic": "100+"
+      "keyword": "spurs vs knicks",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "오산시장",
-      "traffic": "100+"
+      "keyword": "한국 대 엘살바도르",
+      "traffic": "100000+"
     },
     {
       "rank": 9,
-      "keyword": "김포시장",
-      "traffic": "100+"
+      "keyword": "샌안토니오 대 뉴욕",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "천안시장",
-      "traffic": "100+"
+      "keyword": "한강버스",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "오세훈, 정원오에 역전 서울시장",
+      "keyword": "5선 서울시장 오세훈 드라마",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "경남도지사 출구조사 김경수 우세",
+      "keyword": "2027학년도 6월 모의평가",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 3,
+      "keyword": "박완수, 경남도지사 재선 성공",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "개표현황",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 4,
-      "keyword": "평택 을",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "투표용지 부족 집회",
+      "keyword": "김민석 총리 드론 회의 주재",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "한화에어로 특별 안전점검 실시",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 6,
-      "keyword": "김정은 새 공장 시찰",
+      "keyword": "투표용지 부족 사태",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "32기 돌싱 특집",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "선관위 항의 집회",
+      "keyword": "정청래 대표 인사",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "군체 400만 돌파, 와일드 씽 2위 출발",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "장미인애 다시 시작 사실 배우였다",
+      "keyword": "코스피 하락, 코스닥 상승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "잠실7동 투표소 투표함",
-      "state": "n",
-      "change": "0"
+      "keyword": "구윤철 즉시 과도한 쏠림 대응",
+      "state": "+",
+      "change": "9"
     }
   ]
 }
