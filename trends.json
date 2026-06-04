@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-04T22:09:50.636Z",
+  "updatedAt": "2026-06-04T23:22:33.933Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김혜경",
-      "traffic": "200+"
+      "keyword": "이탁수",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "투자",
-      "traffic": "1000+"
+      "keyword": "테라파워",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "미인 대회",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "mu",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "이정후",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "선우용여",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "기아 쏘렌토",
+      "keyword": "정성호",
       "traffic": "1000+"
     },
     {
+      "rank": 4,
+      "keyword": "중앙은행",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "로스앤젤레스 다저스",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "메이저 리그 베이스볼",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "vix",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "캐스팅보트",
-      "traffic": "500+"
+      "keyword": "홈플러스",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "정동영",
+      "keyword": "spain vs iraq",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "노동조합",
-      "traffic": "2000+"
+      "keyword": "일본 축구 국가대표팀",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "젠슨 황, 오늘 삼소 회동",
-      "state": "s",
-      "change": "0"
+      "keyword": "쿠바 대통령 제재",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "여자 1호 첫인상 인기",
-      "state": "n",
-      "change": "0"
+      "keyword": "한동훈 승리와 조국 울음",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "두산이 연승!",
-      "state": "s",
+      "keyword": "빌보드 재팬 상반기 1위 앨범",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "쿠바 대통령 제재",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "한동훈 당선이란 무엇일까?",
+      "keyword": "이정후 12경기 연속안타",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "이스라엘·레바논 휴전 가능성",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 7,
-      "keyword": "투표소 봉쇄 주민들",
+      "rank": 5,
+      "keyword": "미8군 우수 병사 경연대회",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "김일성광장 공사 시진핑 방북",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 9,
-      "keyword": "어도어 청구 금액 330억으로 변경",
+      "rank": 6,
+      "keyword": "첫 번째 남자",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 7,
+      "keyword": "젠슨 황과의 협력 많다",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 8,
+      "keyword": "서울 시장",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "투표소 봉쇄 주민 퇴거 요청",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "장동건 아들 키 185CM 넘었다",
+      "keyword": "미셸 스틸 인준안 통과",
       "state": "n",
       "change": "0"
     }
