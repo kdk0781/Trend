@@ -1,117 +1,66 @@
 {
-  "updatedAt": "2026-06-04T13:44:56.353Z",
-  "google": [
-    {
-      "rank": 1,
-      "keyword": "우크라이나",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "고소영",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "australia vs pakistan",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "한지혜",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "폴드 8",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "카리나",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "삼양식품",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "청와대",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "이재현",
-      "traffic": "500+"
-    },
-    {
-      "rank": 10,
-      "keyword": "문화일보",
-      "traffic": "1000+"
-    }
-  ],
+  "updatedAt": "2026-06-04T16:37:17.573Z",
+  "google": [],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "투표지 부족 사태",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "SOOP 수퍼스 김세진",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "젠슨 황, 오후 1시 입국",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "두산-한화전 우천 중단",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "한동훈 국회 입성으로 보수 재편",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "조국 낙선 후폭풍",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "서울 시장",
+      "keyword": "투표용지 부족 헌법소원 접수",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "어도어, 다니엘 민희진 손배 330억으로 변경",
+      "rank": 2,
+      "keyword": "김혜경 여사, 한불수교 140주년 참석",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "젠슨 황, 내일 방한 일정 공개",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "여자배구 SOOP 감독 김세진",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "유준원 새 소속사 무시",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "우천 중단 경기",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "도수치료 주 2회 제한",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "환율 1540원 금융위기",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "스타벅스 결제 107억 감소",
+      "keyword": "조국, 당대표직 사퇴",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "1타점 적시타 대박!",
-      "state": "n",
-      "change": "0"
+      "keyword": "어도어 손해배상 330억",
+      "state": "+",
+      "change": "15"
     }
   ]
 }
