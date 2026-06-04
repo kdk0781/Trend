@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-04T10:34:54.241Z",
+  "updatedAt": "2026-06-04T13:44:56.353Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "유가증권",
-      "traffic": "2000+"
+      "keyword": "우크라이나",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "시라카와",
-      "traffic": "200+"
+      "keyword": "고소영",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "윤보미",
-      "traffic": "200+"
+      "keyword": "australia vs pakistan",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "전현무계획",
-      "traffic": "100+"
+      "keyword": "한지혜",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "이현중",
-      "traffic": "500+"
+      "keyword": "폴드 8",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "퀀 티넘",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "삼성sdi",
+      "keyword": "카리나",
       "traffic": "1000+"
     },
     {
+      "rank": 7,
+      "keyword": "삼양식품",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "nol 티켓",
-      "traffic": "500+"
+      "keyword": "청와대",
+      "traffic": "10000+"
     },
     {
       "rank": 9,
-      "keyword": "캐논",
-      "traffic": "100+"
+      "keyword": "이재현",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "부산일보",
-      "traffic": "200+"
+      "keyword": "문화일보",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "한동훈, 보수 재편 핵심 인물",
-      "state": "s",
+      "keyword": "투표지 부족 사태",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "서우림 전남편 불륜 급습",
-      "state": "+",
-      "change": "1"
+      "keyword": "SOOP 수퍼스 김세진",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "투표용지 부족 사태 조사 필요",
-      "state": "-",
-      "change": "1"
+      "keyword": "젠슨 황, 오후 1시 입국",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김혜경 여사, 수교 140주년 참석",
+      "keyword": "두산-한화전 우천 중단",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "서울 시장",
+      "keyword": "한동훈 국회 입성으로 보수 재편",
       "state": "-",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "SOOP 수퍼스 초대 감독 김세진",
-      "state": "+",
-      "change": "1"
+      "keyword": "조국 낙선 후폭풍",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "고레에다 히로카즈 감독",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "김부겸 해단식, 대구 정치경쟁",
+      "keyword": "서울 시장",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "어도어, 다니엘 민희진 손배 330억으로 변경",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "도수치료 주 2회·연 24회 제한",
+      "keyword": "스타벅스 결제 107억 감소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "조국, 당대표 사퇴 준비하겠다",
+      "keyword": "1타점 적시타 대박!",
       "state": "n",
       "change": "0"
     }
