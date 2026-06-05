@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-05T20:14:01.939Z",
+  "updatedAt": "2026-06-05T21:45:18.029Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "비트코인 시세",
-      "traffic": "200+"
+      "keyword": "tsmc",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "하원",
+      "keyword": "이경규",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "마카오 축구 국가대표팀",
-      "traffic": "100+"
+      "keyword": "김가영",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "레알 마드리드 cf",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "트렌드",
+      "keyword": "마이크론 테크놀로지",
       "traffic": "500+"
     },
     {
-      "rank": 6,
-      "keyword": "고재영",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "현충일 대체공휴일",
+      "rank": 5,
+      "keyword": "서장훈",
       "traffic": "100+"
     },
     {
-      "rank": 8,
-      "keyword": "6월 6일",
+      "rank": 6,
+      "keyword": "잠수함",
       "traffic": "2000+"
     },
     {
-      "rank": 9,
-      "keyword": "마커스 래시퍼드",
+      "rank": 7,
+      "keyword": "이효리",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "우주정거장",
       "traffic": "200+"
     },
     {
+      "rank": 9,
+      "keyword": "비트코인",
+      "traffic": "1000+"
+    },
+    {
       "rank": 10,
-      "keyword": "ioi",
-      "traffic": "100+"
+      "keyword": "이자",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "젠슨 황 CEO의 일상",
+      "keyword": "젠슨 황 삼소 회동",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "역대급 직진 키스",
+      "keyword": "허남준의 직진 키스 엔딩",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "올러 7이닝 KIA 삼성 승리",
+      "keyword": "양정원 수사팀장 룸살롱 접대",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "美 5월 고용 17만 두 배 증가",
-      "state": "+",
-      "change": "2"
+      "keyword": "2026 월드컵 과달라하라 경기장",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "류현진 다승 1위",
-      "state": "+",
-      "change": "2"
+      "keyword": "한동훈 사무실 배정",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "관봉권 띠지 무혐의",
-      "state": "-",
-      "change": "2"
+      "keyword": "현충일 맑고 낮 최고 30도",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "시진핑 8일 방북",
+      "keyword": "지영훈, 오십프로 OST 신곡 공개",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "박봄 전속계약 종료",
-      "state": "-",
-      "change": "3"
+      "keyword": "장근석 0.05% 블랙카드",
+      "state": "+",
+      "change": "8"
     },
     {
       "rank": 9,
-      "keyword": "양정원 사기 의혹 강남서 수사 중",
-      "state": "-",
-      "change": "1"
+      "keyword": "투표용지 모자람 문제",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "두산, 조수행 결승타로 3연승!",
+      "keyword": "첫 번째 남자",
       "state": "-",
-      "change": "2"
+      "change": "3"
     }
   ]
 }
