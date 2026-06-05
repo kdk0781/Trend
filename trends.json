@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-05T22:48:09.320Z",
+  "updatedAt": "2026-06-05T23:53:07.064Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "홍현희",
-      "traffic": "2000+"
+      "keyword": "스페이스x 상장",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "은행",
+      "keyword": "장원영",
       "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "mc몽",
-      "traffic": "2000+"
+      "keyword": "한국개발연구원",
+      "traffic": "100+"
     },
     {
       "rank": 4,
+      "keyword": "교사",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "양정원",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "홍현희",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "은행",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "mc몽",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 9,
       "keyword": "영어",
       "traffic": "500+"
     },
     {
-      "rank": 5,
-      "keyword": "lg유플러스",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "백은혜",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "나스닥 100",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "태양광 발전",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "주식",
-      "traffic": "2000+"
-    },
-    {
       "rank": 10,
-      "keyword": "소방",
-      "traffic": "200+"
+      "keyword": "백은혜",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "젠슨 황 CEO의 다양한 모습",
-      "state": "n",
+      "keyword": "허남준 임지연 역대급 키스",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "허남준 직진 키스 엔딩",
+      "keyword": "젠슨 황, 한국 방문!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "양정원 사건 강남서 수사 중",
+      "keyword": "손흥민 과달라하라 도착",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김대호, 프리 선언 후 2년 불안한 일상",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 5,
       "keyword": "조선소년단 80주년 기념",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "현충일 맑고 낮 30도",
+      "rank": 5,
+      "keyword": "양정원 남편 유흥업소 접대",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "박경혜, 2년 일한 카페 폐업",
+      "rank": 6,
+      "keyword": "지영훈, 오십프로 OST 신곡 공개",
       "state": "+",
-      "change": "5"
+      "change": "2"
     },
     {
-      "rank": 8,
-      "keyword": "원달러 환율 최고치 기록",
+      "rank": 7,
+      "keyword": "오늘 현충일 의미 되짚기",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "신입사원 강회장",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 9,
-      "keyword": "지영훈, 오십프로 OST 신곡 공개",
-      "state": "-",
-      "change": "2"
+      "keyword": "장동혁 한동훈 복귀론 불거져",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "시진핑 방북, 한반도 정세 안정 기여",
+      "keyword": "송파 개표 민주 국힘 1석 변동",
       "state": "+",
-      "change": "8"
+      "change": "3"
     }
   ]
 }
