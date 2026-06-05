@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-05T06:04:21.973Z",
+  "updatedAt": "2026-06-05T10:10:35.524Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "앞산",
+      "keyword": "갈소원",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "마키나락스",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "김다예",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "왕 즈이",
+      "keyword": "키움 대 두산",
       "traffic": "2000+"
     },
     {
-      "rank": 5,
-      "keyword": "광주광역시",
+      "rank": 3,
+      "keyword": "kt 대 ssg",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "주한 미국 대사",
       "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "삼성 대 kia",
+      "traffic": "10000+"
     },
     {
       "rank": 6,
-      "keyword": "패트릭 위즈덤",
-      "traffic": "1000+"
+      "keyword": "한화 대 롯데",
+      "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "abl바이오",
-      "traffic": "200+"
+      "keyword": "메디 프레소 파산",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "백은혜",
-      "traffic": "200+"
+      "keyword": "lg 대 nc",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "맥북",
-      "traffic": "200+"
+      "keyword": "젠슨 황 페이 커",
+      "traffic": "20000+"
     },
     {
       "rank": 10,
-      "keyword": "코트 디부 아르 축구 국가 대표팀",
+      "keyword": "한혜진",
       "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "젠슨 황 CEO",
-      "state": "s",
+      "keyword": "젠슨 황 삼소 회동",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "백은혜 이준우 결혼 소식",
-      "state": "s",
-      "change": "0"
+      "keyword": "성일종 원내대표 출마",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "한동훈 의원 국회 등원",
+      "keyword": "이재명 대통령, 한미 유해 묵념",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이승환, 윤서인 고소 공표",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "송언석 원내대표직 사퇴 필요",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "멕시코 세르비아 5-1 대승",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 7,
-      "keyword": "이 대통령 G7 참석",
+      "keyword": "투표용지 부족 사태에",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "호쾌한 드라이버샷",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "권민아 슈링크 1억 주장",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "개표소 앞 시위대 2천명 집결",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "김세영, US여자오픈 첫날 2위",
-      "state": "-",
-      "change": "3"
+      "keyword": "해군 부사관 사망 사건",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "투표용지 부족, 필요하면 국조해야",
+      "keyword": "조정식 의장 선출",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "권오을 회장과 강호동 참배",
-      "state": "s",
-      "change": "0"
+      "keyword": "미국 환율",
+      "state": "+",
+      "change": "76"
     }
   ]
 }
