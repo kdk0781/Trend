@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-04T23:22:33.933Z",
+  "updatedAt": "2026-06-05T01:35:42.557Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이탁수",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "테라파워",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "정성호",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "중앙은행",
+      "keyword": "브로드컴 실적발표",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "us 여자 오픈 챔피언십",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "원달러환율",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "잠실 투표소",
+      "traffic": "2000+"
+    },
+    {
       "rank": 5,
-      "keyword": "로스앤젤레스 다저스",
+      "keyword": "lpga",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "메이저 리그 베이스볼",
-      "traffic": "200+"
+      "keyword": "빔 벤더스",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "vix",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "홈플러스",
+      "keyword": "박건욱",
       "traffic": "1000+"
     },
     {
+      "rank": 8,
+      "keyword": "젠슨황",
+      "traffic": "10000+"
+    },
+    {
       "rank": 9,
-      "keyword": "spain vs iraq",
-      "traffic": "200+"
+      "keyword": "블루제이스 대 브레이브스",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "일본 축구 국가대표팀",
-      "traffic": "500+"
+      "keyword": "류삼영",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "쿠바 대통령 제재",
-      "state": "+",
-      "change": "1"
+      "keyword": "잠실 시위대 해산",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "한동훈 승리와 조국 울음",
-      "state": "+",
-      "change": "2"
+      "keyword": "코스피 매도 사이드카 발동",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "빌보드 재팬 상반기 1위 앨범",
-      "state": "n",
+      "keyword": "김수현 측 김세의 구속 송치 감사",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이정후 12경기 연속안타",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "미8군 우수 병사 경연대회",
+      "keyword": "박건욱 팬사인회 조작 사과",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "첫 번째 남자",
-      "state": "+",
+      "rank": 5,
+      "keyword": "구윤철 부총리 회의 주재",
+      "state": "-",
       "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "이정후 4안타 12G 연속",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "젠슨 황과의 협력 많다",
-      "state": "-",
-      "change": "3"
+      "keyword": "젠슨 황 홍대 회동",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "서울 시장",
-      "state": "+",
-      "change": "1"
+      "keyword": "차두리 감독 이달의 감독상",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "투표소 봉쇄 주민 퇴거 요청",
+      "keyword": "송백경, 원타임 탈퇴 후 과거 정리",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "미셸 스틸 인준안 통과",
-      "state": "n",
-      "change": "0"
+      "keyword": "한동훈 복당론 논의 활발",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
