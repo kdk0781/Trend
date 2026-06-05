@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-05T01:35:42.557Z",
+  "updatedAt": "2026-06-05T06:04:21.973Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "브로드컴 실적발표",
+      "keyword": "앞산",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "us 여자 오픈 챔피언십",
-      "traffic": "1000+"
+      "keyword": "마키나락스",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "원달러환율",
+      "keyword": "김다예",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "잠실 투표소",
+      "keyword": "왕 즈이",
       "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "lpga",
+      "keyword": "광주광역시",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "빔 벤더스",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "박건욱",
+      "keyword": "패트릭 위즈덤",
       "traffic": "1000+"
     },
     {
+      "rank": 7,
+      "keyword": "abl바이오",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "젠슨황",
-      "traffic": "10000+"
+      "keyword": "백은혜",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "블루제이스 대 브레이브스",
-      "traffic": "2000+"
+      "keyword": "맥북",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "류삼영",
-      "traffic": "100+"
+      "keyword": "코트 디부 아르 축구 국가 대표팀",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "잠실 시위대 해산",
+      "keyword": "젠슨 황 CEO",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "코스피 매도 사이드카 발동",
+      "keyword": "백은혜 이준우 결혼 소식",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김수현 측 김세의 구속 송치 감사",
-      "state": "s",
+      "keyword": "한동훈 의원 국회 등원",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "박건욱 팬사인회 조작 사과",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "구윤철 부총리 회의 주재",
+      "keyword": "이승환, 윤서인 고소 공표",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 5,
+      "keyword": "송언석 원내대표직 사퇴 필요",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 6,
-      "keyword": "이정후 4안타 12G 연속",
-      "state": "n",
-      "change": "0"
+      "keyword": "멕시코 세르비아 5-1 대승",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "젠슨 황 홍대 회동",
+      "keyword": "이 대통령 G7 참석",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "차두리 감독 이달의 감독상",
-      "state": "s",
-      "change": "0"
+      "keyword": "김세영, US여자오픈 첫날 2위",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "송백경, 원타임 탈퇴 후 과거 정리",
+      "keyword": "투표용지 부족, 필요하면 국조해야",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "한동훈 복당론 논의 활발",
-      "state": "+",
-      "change": "2"
+      "keyword": "권오을 회장과 강호동 참배",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
