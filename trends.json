@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-05T18:13:07.488Z",
+  "updatedAt": "2026-06-05T20:14:01.939Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "트렌드",
+      "keyword": "비트코인 시세",
       "traffic": "200+"
     },
     {
       "rank": 2,
+      "keyword": "하원",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "마카오 축구 국가대표팀",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "레알 마드리드 cf",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "트렌드",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
       "keyword": "고재영",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 7,
+      "keyword": "현충일 대체공휴일",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
       "keyword": "6월 6일",
       "traffic": "2000+"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "keyword": "마커스 래시퍼드",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 10,
       "keyword": "ioi",
       "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "아이오아이",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "나스닥",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "올리세",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "박경혜",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "효민",
-      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "젠슨 황의 삼소 회동",
+      "keyword": "젠슨 황 CEO의 일상",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "관봉권 띠지 무혐의 종결",
+      "keyword": "역대급 직진 키스",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "시즌 공동 선두",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "박봄 전속계약 종료",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "5월 고용 증가",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "무실점 KIA 삼성 잡다",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "이해진 의장 네이버페이 결제",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "투표용지 부족 사태",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "시진핑 방북 필요성 증가",
+      "keyword": "올러 7이닝 KIA 삼성 승리",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "허남준, 임지연에 키스",
+      "rank": 4,
+      "keyword": "美 5월 고용 17만 두 배 증가",
       "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "류현진 다승 1위",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "관봉권 띠지 무혐의",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "시진핑 8일 방북",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "박봄 전속계약 종료",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 9,
+      "keyword": "양정원 사기 의혹 강남서 수사 중",
+      "state": "-",
       "change": "1"
+    },
+    {
+      "rank": 10,
+      "keyword": "두산, 조수행 결승타로 3연승!",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
