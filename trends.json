@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-06T20:04:55.026Z",
+  "updatedAt": "2026-06-06T21:14:18.282Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "두코 바니",
+      "keyword": "크리스티아누 호날두",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "portugal vs chile",
+      "keyword": "가격",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "김동현",
+      "keyword": "서울신문",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "포르투갈",
-      "traffic": "100+"
+      "keyword": "유재석",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "하트시그널5",
-      "traffic": "500+"
+      "keyword": "미스 베트남",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "우크라이나 대통령",
+      "keyword": "두코 바니",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "모스 탄",
-      "traffic": "1000+"
+      "keyword": "portugal vs chile",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "f1",
-      "traffic": "200+"
+      "keyword": "김동현",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "모나코 그랑프리",
+      "keyword": "포르투갈",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "김지원",
-      "traffic": "1000+"
+      "keyword": "하비에르 아기레",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "참교육의 씁쓸한 통쾌함",
-      "state": "s",
-      "change": "0"
+      "keyword": "어른을 향한 참교육의 씁쓸함",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "임지연과 허남준의 신세계",
-      "state": "s",
-      "change": "0"
+      "keyword": "멋진 신세계 키스 사건들",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "로또 1등 26억 11명",
-      "state": "s",
+      "keyword": "신입사원 강회장",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "신입사원 강회장",
+      "keyword": "정성호 부정선거 진상규명",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
       "keyword": "훈련 나선 체코 대표팀",
-      "state": "+",
-      "change": "3"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김빈우 미워하는데 에너지 쓸까",
-      "state": "n",
-      "change": "0"
+      "keyword": "김광진 중소형 주식 투자 현직 퇴출 가능성",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "정성호 진상규명 부정선거",
-      "state": "n",
-      "change": "0"
+      "keyword": "윤남노 식당 오픈 준비",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "멕시코 도착한 선수들",
-      "state": "n",
-      "change": "0"
+      "keyword": "김신록 구하기 공조 시작",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "윤남노 압구정 식당 오픈 준비",
-      "state": "n",
-      "change": "0"
+      "keyword": "김연아가 백은혜 결혼식 참석",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "한국 첫 상대 체코팀",
-      "state": "n",
-      "change": "0"
+      "keyword": "젠슨 황, 한국에서 활발한 활동",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
