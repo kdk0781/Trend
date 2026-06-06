@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-06T02:28:26.379Z",
+  "updatedAt": "2026-06-06T06:07:45.001Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이시언",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "현충일 사이렌",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "박봄",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "학생",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "캐나다",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "spurs vs knicks",
+      "keyword": "연합뉴스",
       "traffic": "500+"
     },
     {
+      "rank": 2,
+      "keyword": "전력",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "고윤정",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "박준현",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "백상아리",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "경찰서",
+      "traffic": "1000+"
+    },
+    {
       "rank": 7,
-      "keyword": "나 혼자 산다",
-      "traffic": "100+"
+      "keyword": "u.s. 여자 오픈 챔피언십",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "샌안토니오 대 뉴욕",
-      "traffic": "2000+"
+      "keyword": "mls 올스타전",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "스텔라 블레이드",
-      "traffic": "2000+"
+      "keyword": "india vs afghanistan",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "남편",
-      "traffic": "1000+"
+      "keyword": "실업급여",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 현충일 추념사",
-      "state": "n",
-      "change": "0"
+      "keyword": "개표소 봉쇄 시위 지속",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 2,
-      "keyword": "계엄 정당화 의혹 조사",
-      "state": "-",
-      "change": "1"
+      "keyword": "송성문 3타수 무안타",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "SSG, 화이트 방출 후 해치 영입",
+      "keyword": "팬앤스타 1위 기록",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "아리랑 스포티파이 1위 8회 확보",
-      "state": "-",
-      "change": "2"
+      "keyword": "변협 투표용지 부족 사태",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "젠슨 황, 한국 AI와 K-푸드 사랑",
-      "state": "s",
+      "keyword": "1세대 BJ 난닝구 사망 46세",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김정은 강건호 항해시험 참관",
-      "state": "s",
-      "change": "0"
+      "keyword": "제71회 현충일 추념식",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "오세훈 투표용지 책임",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "여자친구 아들 피습 사망",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "아이온2 9월 글로벌 출시",
+      "keyword": "CU편의점 택배 개인정보 유출",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 8,
+      "keyword": "참교육의 씁쓸함",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "젠슨 황 한국 방문 소식",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 10,
-      "keyword": "테일러 스위프트 결혼식",
+      "keyword": "韓비판 왜곡·동맹 신뢰훼손",
       "state": "n",
       "change": "0"
     }
