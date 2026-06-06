@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-06T10:33:52.325Z",
+  "updatedAt": "2026-06-06T11:58:35.186Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김주애",
-      "traffic": "200+"
+      "keyword": "선우용여",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "코트디부아르 축구 국가대표팀",
-      "traffic": "200+"
+      "keyword": "이병헌",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "안도 미키",
-      "traffic": "200+"
+      "keyword": "윤석열",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "오정세",
+      "keyword": "노시환",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "김민하",
-      "traffic": "1000+"
+      "keyword": "오장한",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "배드민턴",
-      "traffic": "500+"
+      "keyword": "놀리토",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "장찬희",
+      "keyword": "유노윤호",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "안철수",
-      "traffic": "2000+"
+      "keyword": "성동구청장",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "서동주",
-      "traffic": "200+"
+      "keyword": "거미",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "바르샤 리버풀 레전드 매치",
-      "traffic": "1000+"
+      "keyword": "박정민",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "백은혜 이준우 결혼식 열려",
+      "keyword": "이니에스타 마법 바르사 8-3 승리",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "종합특검 조사 마침",
-      "state": "s",
+      "keyword": "체코 원전 보조금 리스크 해소",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "허경민 KT SSG",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "허남준♥임지연의 멋진 키스",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "젠슨 황과 유재석의 유퀴즈 촬영",
+      "keyword": "하시4 김지민 유출",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "체코 원전 리스크 해소",
+      "rank": 4,
+      "keyword": "젠슨 황과 유재석의 특별한 만남",
       "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "허남준의 눈물 키스 엔딩",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 6,
+      "keyword": "신입사원 강회장",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "선관위 대조전표 유출신고",
+      "keyword": "백은혜와 이준우 결혼식 열려",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "잠실 아이유 SNS 테러",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "김지민, 김준호 사랑 내조",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 9,
-      "keyword": "클라위버르트-제라드 1-1 종료",
-      "state": "n",
+      "keyword": "주아민, 투표용지 부족 소신발언",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "난닝구 46세 사망",
-      "state": "-",
-      "change": "2"
+      "keyword": "제라드 동점골",
+      "state": "+",
+      "change": "9"
     }
   ]
 }
