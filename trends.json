@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-06T06:07:45.001Z",
+  "updatedAt": "2026-06-06T08:45:15.942Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "연합뉴스",
-      "traffic": "500+"
+      "keyword": "왕즈이",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "전력",
-      "traffic": "200+"
+      "keyword": "코스피",
+      "traffic": "10000+"
     },
     {
       "rank": 3,
-      "keyword": "고윤정",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "박준현",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "백상아리",
+      "keyword": "결혼의 완성",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "폭염",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "이란 해군",
+      "traffic": "100+"
+    },
+    {
       "rank": 6,
-      "keyword": "경찰서",
-      "traffic": "1000+"
+      "keyword": "최원준",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "u.s. 여자 오픈 챔피언십",
+      "keyword": "우상호",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "mls 올스타전",
-      "traffic": "200+"
+      "keyword": "장근석",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "india vs afghanistan",
-      "traffic": "1000+"
+      "keyword": "한국은행",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "실업급여",
-      "traffic": "10000+"
+      "keyword": "스페이스x 청약",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "개표소 봉쇄 시위 지속",
-      "state": "+",
-      "change": "3"
+      "keyword": "종합특검 첫 피의자 조사",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "송성문 3타수 무안타",
-      "state": "s",
-      "change": "0"
+      "keyword": "젠슨 황 유퀴즈 녹화 완료",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "팬앤스타 1위 기록",
-      "state": "s",
-      "change": "0"
+      "keyword": "멋진 신세계 허남준 임지연 엔딩키스",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "변협 투표용지 부족 사태",
+      "keyword": "첫 홀 향한다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "1세대 BJ 난닝구 사망 46세",
-      "state": "n",
+      "keyword": "안세영 벽 높았다",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "제71회 현충일 추념식",
-      "state": "+",
-      "change": "3"
+      "keyword": "이재명 대통령 시장 방문",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "CU편의점 택배 개인정보 유출",
+      "keyword": "유엔기념공원 참배하는 한동훈",
       "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "참교육의 씁쓸함",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "젠슨 황 한국 방문 소식",
-      "state": "+",
       "change": "3"
     },
     {
+      "rank": 8,
+      "keyword": "2027 수능 모평 설명회",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "아이언 임팩트",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "韓비판 왜곡·동맹 신뢰훼손",
+      "keyword": "안철수 환율 대책 요구",
       "state": "n",
       "change": "0"
     }
