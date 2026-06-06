@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-06T15:01:34.558Z",
+  "updatedAt": "2026-06-06T16:16:30.867Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "김광진",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
       "keyword": "시가총액",
       "traffic": "20000+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "국립 발레단 단장",
       "traffic": "100+"
     },
     {
-      "rank": 3,
-      "keyword": "두코바니",
-      "traffic": "200+"
+      "rank": 4,
+      "keyword": "매불쇼",
+      "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "상장지수펀드",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "keyword": "두코바니",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
       "keyword": "마야 흐발린스카",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "lpl",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "최욱",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "성동구청장.",
       "traffic": "10000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "양민혁",
-      "traffic": "500+"
-    },
-    {
-      "rank": 10,
-      "keyword": "결혼식",
-      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김유정 백아진 다시 만난다",
+      "keyword": "김유정 백아진 친애하는 X 첫방",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "멋진 신세계 1위 갈리다",
+      "keyword": "신입사원 강회장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "음주단속 피해 버스 충돌 사망",
+      "keyword": "이재명 부부 현충탑 방문",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "1227회 로또 1등 26억 당첨자 11명",
-      "state": "-",
+      "keyword": "바르사 레전드 8-3 승리",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "신입사원 강회장",
-      "state": "+",
-      "change": "3"
+      "keyword": "임지연과 허남준의 멋진 신세계",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "선관위 대조전표 유출 확인",
-      "state": "n",
-      "change": "0"
+      "keyword": "김지민 비밀글 유출",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "이스라엘군 총격 아기 사망",
-      "state": "n",
-      "change": "0"
+      "keyword": "체코 원전 리스크 해소",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "바르사 8-3 대승!",
-      "state": "-",
-      "change": "4"
+      "keyword": "1227회 로또 1등 11명 각 26억",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "김연아 백은혜 결혼식 참석",
-      "state": "n",
-      "change": "0"
+      "keyword": "김빈우 운전 중 논란",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "지선 언급 혁신할",
-      "state": "-",
-      "change": "3"
+      "keyword": "정성호 음모론 단호 대응",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
