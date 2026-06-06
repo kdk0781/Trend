@@ -1,117 +1,66 @@
 {
-  "updatedAt": "2026-06-06T17:36:05.105Z",
-  "google": [
-    {
-      "rank": 1,
-      "keyword": "하트시그널5",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "우크라이나 대통령",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "모스 탄",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "f1",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "모나코 그랑프리",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "김지원",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "서울지하철",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "케빈 더 브라위너",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "김광진",
-      "traffic": "500+"
-    },
-    {
-      "rank": 10,
-      "keyword": "시가총액",
-      "traffic": "20000+"
-    }
-  ],
+  "updatedAt": "2026-06-06T18:50:35.712Z",
+  "google": [],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "멋진 신세계 키스와 오열",
-      "state": "n",
-      "change": "0"
+      "keyword": "멋진 신세계의 엔딩 키스",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 2,
-      "keyword": "바르사 레전드 8-3 대승!",
-      "state": "s",
-      "change": "0"
+      "keyword": "참교육의 씁쓸함과 통쾌함",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "1227회 로또 1등 11명 각 26억",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "어른을 위한 참교육의 씁쓸함",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 5,
-      "keyword": "김지민 비밀글 유출",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "김광진은 중소형 주식 투자 현직이다.",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "정성호, 부정선거 음모론 못해!",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "강민호 역전으로 삼성 3연패 탈출!",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 9,
-      "keyword": "체코 원전 리스크 해결",
+      "keyword": "1227회 로또 1등 11명 당첨",
       "state": "-",
       "change": "2"
     },
     {
-      "rank": 10,
-      "keyword": "유노윤호 창민 생일 축하",
+      "rank": 4,
+      "keyword": "바르사 레전드 8-3 대승!",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "김광진 중소형 주식 투자 현직",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "친애하는 X, 오늘 TVN 첫방",
+      "state": "+",
+      "change": "26"
+    },
+    {
+      "rank": 7,
+      "keyword": "정성호 음모론 용납하지 않겠다",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "삼성 3연패 탈출!",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "젠슨 황과 벤처 회동",
       "state": "+",
       "change": "1"
+    },
+    {
+      "rank": 10,
+      "keyword": "유노윤호 창민 생일 축하",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
