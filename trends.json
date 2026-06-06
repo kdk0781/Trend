@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-06-06T22:18:36.258Z",
+  "updatedAt": "2026-06-06T23:31:25.622Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "암호화폐",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "박서진",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "저축",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "무릉별유천지",
+      "keyword": "배준호",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "부산날씨",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "미국 항공 우주국",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "김하성",
+      "traffic": "2000+"
+    },
+    {
       "rank": 5,
-      "keyword": "기상",
-      "traffic": "200+"
+      "keyword": "해리 케인",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "화이트삭스 대 필리스",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "이진숙",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "이정효",
+      "keyword": "brazil vs egypt",
       "traffic": "500+"
     },
     {
+      "rank": 7,
+      "keyword": "스타뉴스",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "sl vs wi",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "사과",
+      "keyword": "육군",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "프로당구 협회",
-      "traffic": "100+"
+      "keyword": "이정후",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "참교육 담긴 기사 제목은 참교육의 씁쓸함 으로 변형할 수 있습니다.",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
       "keyword": "기자회견하는 홍명보 감독",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 3,
-      "keyword": "멋진 신세계 엔딩 키스",
+      "rank": 2,
+      "keyword": "넷플릭스 참교육 공개",
       "state": "-",
       "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "멋진 신세계 1위와 감동 키스",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
@@ -79,39 +79,39 @@
     },
     {
       "rank": 5,
-      "keyword": "젠슨 황, 한국서 광폭 행보",
-      "state": "s",
+      "keyword": "젠슨 황, AI 회동 강화",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "윤남노 식당 오픈 준비",
+      "keyword": "윤남노, 압구정에 6억 오픈",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김지민 비밀글 유출 사건",
-      "state": "+",
-      "change": "1"
+      "keyword": "김지민, SNS 유출 대응 검토",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "2026년 7일 운세",
+      "keyword": "타율 0.606 이정후 14G 연속 안타",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김신록 구출 오십프로 공조 예고",
-      "state": "+",
-      "change": "2"
+      "keyword": "2026년 7일 운세",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "체코 대표팀 훈련 시작",
-      "state": "+",
-      "change": "4"
+      "keyword": "어떤 위협도 용납안해",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
