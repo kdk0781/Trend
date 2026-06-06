@@ -1,65 +1,116 @@
 {
-  "updatedAt": "2026-06-06T18:50:35.712Z",
-  "google": [],
-  "domestic": [
+  "updatedAt": "2026-06-06T20:04:55.026Z",
+  "google": [
     {
       "rank": 1,
-      "keyword": "멋진 신세계의 엔딩 키스",
-      "state": "+",
-      "change": "4"
+      "keyword": "두코 바니",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "참교육의 씁쓸함과 통쾌함",
-      "state": "+",
-      "change": "1"
+      "keyword": "portugal vs chile",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "1227회 로또 1등 11명 당첨",
-      "state": "-",
-      "change": "2"
+      "keyword": "김동현",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "바르사 레전드 8-3 대승!",
-      "state": "-",
-      "change": "2"
+      "keyword": "포르투갈",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "김광진 중소형 주식 투자 현직",
+      "keyword": "하트시그널5",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "우크라이나 대통령",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "모스 탄",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "f1",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "모나코 그랑프리",
+      "traffic": "100+"
+    },
+    {
+      "rank": 10,
+      "keyword": "김지원",
+      "traffic": "1000+"
+    }
+  ],
+  "domestic": [
+    {
+      "rank": 1,
+      "keyword": "참교육의 씁쓸한 통쾌함",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 2,
+      "keyword": "임지연과 허남준의 신세계",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "로또 1등 26억 11명",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "신입사원 강회장",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "훈련 나선 체코 대표팀",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 6,
+      "keyword": "김빈우 미워하는데 에너지 쓸까",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "친애하는 X, 오늘 TVN 첫방",
-      "state": "+",
-      "change": "26"
-    },
-    {
       "rank": 7,
-      "keyword": "정성호 음모론 용납하지 않겠다",
-      "state": "-",
-      "change": "1"
+      "keyword": "정성호 진상규명 부정선거",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "삼성 3연패 탈출!",
-      "state": "-",
-      "change": "1"
+      "keyword": "멕시코 도착한 선수들",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "젠슨 황과 벤처 회동",
-      "state": "+",
-      "change": "1"
+      "keyword": "윤남노 압구정 식당 오픈 준비",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "유노윤호 창민 생일 축하",
-      "state": "s",
+      "keyword": "한국 첫 상대 체코팀",
+      "state": "n",
       "change": "0"
     }
   ]
