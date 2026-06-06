@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-06T16:16:30.867Z",
+  "updatedAt": "2026-06-06T17:36:05.105Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김광진",
-      "traffic": "500+"
+      "keyword": "하트시그널5",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "시가총액",
-      "traffic": "20000+"
+      "keyword": "우크라이나 대통령",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "국립 발레단 단장",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "매불쇼",
+      "keyword": "모스 탄",
       "traffic": "500+"
     },
     {
-      "rank": 5,
-      "keyword": "상장지수펀드",
+      "rank": 4,
+      "keyword": "f1",
       "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "모나코 그랑프리",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "두코바니",
-      "traffic": "200+"
+      "keyword": "김지원",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "마야 흐발린스카",
+      "keyword": "서울지하철",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "lpl",
-      "traffic": "100+"
+      "keyword": "케빈 더 브라위너",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "최욱",
-      "traffic": "1000+"
+      "keyword": "김광진",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "성동구청장.",
-      "traffic": "10000+"
+      "keyword": "시가총액",
+      "traffic": "20000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김유정 백아진 친애하는 X 첫방",
-      "state": "s",
+      "keyword": "멋진 신세계 키스와 오열",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "신입사원 강회장",
+      "keyword": "바르사 레전드 8-3 대승!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이재명 부부 현충탑 방문",
-      "state": "n",
+      "keyword": "1227회 로또 1등 11명 각 26억",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "바르사 레전드 8-3 승리",
-      "state": "+",
-      "change": "1"
+      "keyword": "어른을 위한 참교육의 씁쓸함",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "임지연과 허남준의 멋진 신세계",
+      "keyword": "김지민 비밀글 유출",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "김지민 비밀글 유출",
-      "state": "+",
+      "keyword": "김광진은 중소형 주식 투자 현직이다.",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "체코 원전 리스크 해소",
-      "state": "+",
-      "change": "1"
+      "keyword": "정성호, 부정선거 음모론 못해!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "1227회 로또 1등 11명 각 26억",
+      "keyword": "강민호 역전으로 삼성 3연패 탈출!",
       "state": "+",
-      "change": "1"
+      "change": "5"
     },
     {
       "rank": 9,
-      "keyword": "김빈우 운전 중 논란",
-      "state": "+",
-      "change": "1"
+      "keyword": "체코 원전 리스크 해결",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "정성호 음모론 단호 대응",
-      "state": "n",
-      "change": "0"
+      "keyword": "유노윤호 창민 생일 축하",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
