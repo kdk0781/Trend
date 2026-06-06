@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-05T23:53:07.064Z",
+  "updatedAt": "2026-06-06T02:28:26.379Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "스페이스x 상장",
-      "traffic": "500+"
+      "keyword": "이시언",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "장원영",
-      "traffic": "2000+"
+      "keyword": "현충일 사이렌",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "한국개발연구원",
+      "keyword": "박봄",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "교사",
+      "keyword": "학생",
       "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "양정원",
-      "traffic": "2000+"
+      "keyword": "캐나다",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "홍현희",
-      "traffic": "5000+"
+      "keyword": "spurs vs knicks",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "은행",
-      "traffic": "5000+"
+      "keyword": "나 혼자 산다",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "mc몽",
-      "traffic": "5000+"
+      "keyword": "샌안토니오 대 뉴욕",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "영어",
-      "traffic": "500+"
+      "keyword": "스텔라 블레이드",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "백은혜",
-      "traffic": "500+"
+      "keyword": "남편",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "허남준 임지연 역대급 키스",
-      "state": "s",
+      "keyword": "이재명 현충일 추념사",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "젠슨 황, 한국 방문!",
-      "state": "s",
-      "change": "0"
+      "keyword": "계엄 정당화 의혹 조사",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "손흥민 과달라하라 도착",
+      "keyword": "SSG, 화이트 방출 후 해치 영입",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "조선소년단 80주년 기념",
+      "keyword": "아리랑 스포티파이 1위 8회 확보",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "젠슨 황, 한국 AI와 K-푸드 사랑",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "김정은 강건호 항해시험 참관",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "오세훈 투표용지 책임",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "양정원 남편 유흥업소 접대",
+      "rank": 8,
+      "keyword": "여자친구 아들 피습 사망",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "아이온2 9월 글로벌 출시",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "지영훈, 오십프로 OST 신곡 공개",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "오늘 현충일 의미 되짚기",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "신입사원 강회장",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 9,
-      "keyword": "장동혁 한동훈 복귀론 불거져",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 10,
-      "keyword": "송파 개표 민주 국힘 1석 변동",
-      "state": "+",
-      "change": "3"
+      "keyword": "테일러 스위프트 결혼식",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
