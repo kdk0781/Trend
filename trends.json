@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-07T21:22:37.652Z",
+  "updatedAt": "2026-06-07T22:34:43.696Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김민석",
-      "traffic": "500+"
+      "keyword": "고윤정",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "손현보",
-      "traffic": "500+"
+      "keyword": "오늘의 운세",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "파이리츠 대 브레이브스",
-      "traffic": "10000+"
+      "keyword": "불",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "주차장",
-      "traffic": "100+"
+      "keyword": "부산날씨",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "kf-21 보라매",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "7월 17일",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "박보영",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "외환시장",
+      "keyword": "พยากรณ์อากาศ",
       "traffic": "100+"
     },
     {
+      "rank": 6,
+      "keyword": "이강인",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "매일경제",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "부정승차",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "손예진",
-      "traffic": "2000+"
+      "keyword": "박지훈",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "소이현",
+      "keyword": "월드컵",
       "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "신입사원 강회장",
+      "keyword": "젠슨 황, LG 현대차 출장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "젠슨 황 AI 동맹 강화",
-      "state": "s",
+      "keyword": "트럼프 이란 합의 가능성",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "드라마 참교육 정의구현 했나?",
+      "keyword": "신입사원 강회장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "정규리 박우열 포스터 눈길",
+      "keyword": "훈련하는 대한민국 축구대표팀",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "하트시그널5 박우열 포스터",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "훈련하는 대한민국 축구대표팀",
-      "state": "+",
+      "rank": 6,
+      "keyword": "학교 폭력 드라마가 참교육 했나?",
+      "state": "-",
       "change": "4"
     },
     {
-      "rank": 6,
-      "keyword": "멋진 신세계 연애 시작",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 7,
-      "keyword": "최지훈대표",
+      "keyword": "이란, 이스라엘에 발사",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "47세 최고령 산모 탄생",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "중기부 한성숙 총리 지명",
+      "keyword": "한성숙 총리 후보 선정",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 10,
-      "keyword": "안산 공장 화재 대응 2단계",
+      "rank": 9,
+      "keyword": "47세 한다감 남편 눈물",
       "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "최지훈대표",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
