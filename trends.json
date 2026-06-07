@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-07T18:52:29.464Z",
+  "updatedAt": "2026-06-07T20:07:10.325Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "코볼리",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "차준환",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "cbdc",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "roland garros",
+      "keyword": "소이현",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "손예진",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "상장지수펀드",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "에릭센",
+      "traffic": "500+"
+    },
+    {
       "rank": 5,
-      "keyword": "이주명",
+      "keyword": "비닐하우스",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "cpi",
-      "traffic": "100+"
+      "keyword": "차준환",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "알렉산더 즈베레프",
-      "traffic": "2000+"
+      "keyword": "cbdc",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "서울 이랜드 fc 대 충북 청주 fc 순위",
-      "traffic": "1000+"
+      "keyword": "roland garros",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "상장지수 펀드",
-      "traffic": "1000+"
+      "keyword": "이주명",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "강예원",
-      "traffic": "200+"
+      "keyword": "cpi",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "젠슨 황과 최태원 협력 발표",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "신입사원 강회장",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 3,
-      "keyword": "드라마 참교육 정의구현 했나?",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "하트시그널5 정규리 공식 포스터",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 5,
-      "keyword": "멋진 신세계 연애 시작",
-      "state": "+",
-      "change": "10"
-    },
-    {
-      "rank": 6,
-      "keyword": "투표용지 부족 사태 논의",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 7,
-      "keyword": "린, 이혼 후 화장실 생활 공개",
+      "keyword": "젠슨 황과 최태원 회동",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "참교육 드라마 폭력 문제 해결했나?",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "훈련하는 손흥민과 홍명보",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "린의 화장실 바닥 생활 경악",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "정규리 박우열 포스터 공개",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "안산 화재 대응 2단계 발령",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "신입사원 강회장",
+      "state": "-",
+      "change": "4"
+    },
+    {
       "rank": 8,
-      "keyword": "최지훈대표",
-      "state": "+",
-      "change": "11"
+      "keyword": "대한민국 축구대표팀 훈련 중",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 9,
-      "keyword": "안산 포장지 화재 대응 2단계",
+      "keyword": "최지훈대표",
       "state": "-",
-      "change": "5"
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "한성숙은 네이버 최초 여성 CEO.",
-      "state": "+",
-      "change": "7"
+      "keyword": "멋진 신세계 연애 시작",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
