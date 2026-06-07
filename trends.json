@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-07T16:02:54.218Z",
+  "updatedAt": "2026-06-07T17:37:32.172Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "roland garros",
+      "keyword": "차준환",
       "traffic": "100+"
     },
     {
       "rank": 2,
+      "keyword": "cbdc",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "roland garros",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
       "keyword": "이주명",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "cpi",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "알렉산더 즈베레프",
       "traffic": "2000+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "서울 이랜드 fc 대 충북 청주 fc 순위",
       "traffic": "1000+"
     },
     {
-      "rank": 6,
-      "keyword": "상장지수 펀드",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "keyword": "강예원",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "최용수",
       "traffic": "100+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "도지원",
       "traffic": "500+"
-    },
-    {
-      "rank": 10,
-      "keyword": "f1",
-      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "젠슨 황과 최태원 협력 발표",
+      "keyword": "젠슨 황 최태원 협력 발표",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "투표지 부족 합수본 신속 규명",
-      "state": "n",
+      "keyword": "투표지 부족 합수본 규명",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "드라마 참교육, 학교 폭력 정의했나?",
-      "state": "+",
-      "change": "2"
+      "keyword": "신입사원 강회장",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "현생 연애 멋진 신세계",
-      "state": "+",
-      "change": "2"
+      "keyword": "학교 폭력 드라마 참교육 정의구현 했나?",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "하트시그널5 정규리 포스터 눈길",
-      "state": "+",
-      "change": "3"
+      "keyword": "이혼 후 화장실 바닥 생활 린",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "한다감, 47세 임신 성공해 최고령 산모 등극",
+      "keyword": "정규리 박우열 포스터 눈길",
       "state": "-",
-      "change": "4"
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "문동현 KPGA 최연소 우승",
+      "keyword": "안산 공장 화재 대응 2단계",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "한성숙 총리 지명 환영",
+      "keyword": "멋진 신세계 연애 시작",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "강예원 부친상 눈물 11억 부채",
+      "keyword": "신동엽 딸 서울대 입학",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "안산 화재 대응 2단계 발령",
-      "state": "+",
-      "change": "4"
+      "keyword": "최지훈대표",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
