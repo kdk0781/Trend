@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-07T14:49:21.483Z",
+  "updatedAt": "2026-06-07T16:02:54.218Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "즈베레프",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "최용수",
+      "keyword": "roland garros",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "이주명",
+      "traffic": "200+"
+    },
+    {
       "rank": 3,
-      "keyword": "김준호",
+      "keyword": "cpi",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "도지원",
-      "traffic": "500+"
+      "keyword": "알렉산더 즈베레프",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "f1",
+      "keyword": "서울 이랜드 fc 대 충북 청주 fc 순위",
       "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "이문정",
-      "traffic": "200+"
+      "keyword": "상장지수 펀드",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "소라와 진경",
+      "keyword": "강예원",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "모나코 그랑프리",
-      "traffic": "500+"
+      "keyword": "최용수",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "프로야구 순위",
+      "keyword": "도지원",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "투자",
-      "traffic": "5000+"
+      "keyword": "f1",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "젠슨 황 시구 실패",
+      "keyword": "젠슨 황과 최태원 협력 발표",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "한다감, 김준호와 귀한 아이",
-      "state": "+",
-      "change": "1"
+      "keyword": "투표지 부족 합수본 신속 규명",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "60세 도지원, 국발 유연함 대단해",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "검경 합수본 구성 지시",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "멋진 신세계 연애 시작!",
+      "keyword": "드라마 참교육, 학교 폭력 정의했나?",
       "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "환율 1560원 돌파",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "하트시그널5 완전체 포스터 눈길",
-      "state": "-",
       "change": "2"
     },
     {
-      "rank": 8,
-      "keyword": "이정후 14G 연속 안타",
-      "state": "n",
-      "change": "0"
+      "rank": 4,
+      "keyword": "현생 연애 멋진 신세계",
+      "state": "+",
+      "change": "2"
     },
     {
-      "rank": 9,
-      "keyword": "한성숙의 경력은?",
+      "rank": 5,
+      "keyword": "하트시그널5 정규리 포스터 눈길",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 6,
+      "keyword": "한다감, 47세 임신 성공해 최고령 산모 등극",
+      "state": "-",
+      "change": "4"
+    },
+    {
+      "rank": 7,
+      "keyword": "문동현 KPGA 최연소 우승",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 8,
+      "keyword": "한성숙 총리 지명 환영",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 10,
-      "keyword": "신입사원 강회장",
+      "rank": 9,
+      "keyword": "강예원 부친상 눈물 11억 부채",
       "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "안산 화재 대응 2단계 발령",
+      "state": "+",
+      "change": "4"
     }
   ]
 }
