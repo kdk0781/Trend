@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-07T20:07:10.325Z",
+  "updatedAt": "2026-06-07T21:22:37.652Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "소이현",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "손예진",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "상장지수펀드",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "에릭센",
+      "keyword": "김민석",
       "traffic": "500+"
     },
     {
+      "rank": 2,
+      "keyword": "손현보",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "파이리츠 대 브레이브스",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "주차장",
+      "traffic": "100+"
+    },
+    {
       "rank": 5,
-      "keyword": "비닐하우스",
-      "traffic": "200+"
+      "keyword": "kf-21 보라매",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "차준환",
-      "traffic": "200+"
+      "keyword": "7월 17일",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "cbdc",
-      "traffic": "100+"
+      "keyword": "박보영",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "roland garros",
-      "traffic": "200+"
+      "keyword": "외환시장",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "이주명",
-      "traffic": "200+"
+      "keyword": "손예진",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "cpi",
-      "traffic": "100+"
+      "keyword": "소이현",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "젠슨 황과 최태원 회동",
-      "state": "n",
+      "keyword": "신입사원 강회장",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "참교육 드라마 폭력 문제 해결했나?",
+      "keyword": "젠슨 황 AI 동맹 강화",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "훈련하는 손흥민과 홍명보",
-      "state": "n",
+      "keyword": "드라마 참교육 정의구현 했나?",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "린의 화장실 바닥 생활 경악",
-      "state": "n",
+      "keyword": "정규리 박우열 포스터 눈길",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "정규리 박우열 포스터 공개",
-      "state": "-",
-      "change": "2"
+      "keyword": "훈련하는 대한민국 축구대표팀",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 6,
-      "keyword": "안산 화재 대응 2단계 발령",
+      "keyword": "멋진 신세계 연애 시작",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "신입사원 강회장",
-      "state": "-",
-      "change": "4"
+      "keyword": "최지훈대표",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "대한민국 축구대표팀 훈련 중",
-      "state": "-",
-      "change": "4"
+      "keyword": "47세 최고령 산모 탄생",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "최지훈대표",
+      "keyword": "중기부 한성숙 총리 지명",
       "state": "-",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "멋진 신세계 연애 시작",
-      "state": "-",
-      "change": "2"
+      "keyword": "안산 공장 화재 대응 2단계",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
