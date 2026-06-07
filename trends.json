@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-07T22:34:43.696Z",
+  "updatedAt": "2026-06-07T23:40:55.630Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "고윤정",
-      "traffic": "200+"
+      "keyword": "제이콥 미시오로브스키",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "오늘의 운세",
+      "keyword": "금시세",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "불",
-      "traffic": "200+"
+      "keyword": "제39보병사단",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "부산날씨",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "พยากรณ์อากาศ",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "이강인",
+      "keyword": "us 여자 오픈",
       "traffic": "5000+"
     },
     {
+      "rank": 5,
+      "keyword": "엘링 홀란드",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "코인니스",
+      "traffic": "200+"
+    },
+    {
       "rank": 7,
-      "keyword": "매일경제",
-      "traffic": "100+"
+      "keyword": "교사",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "부정승차",
-      "traffic": "200+"
+      "keyword": "경상남도",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "박지훈",
-      "traffic": "200+"
+      "keyword": "농구",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "월드컵",
-      "traffic": "2000+"
+      "keyword": "나스닥 선물",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "젠슨 황, LG 현대차 출장",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "트럼프 이란 합의 가능성",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
       "keyword": "신입사원 강회장",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "훈련하는 대한민국 축구대표팀",
+      "rank": 2,
+      "keyword": "한성숙 2기 총리 지명",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "젠슨 황, 현대차와 회동",
       "state": "+",
-      "change": "2"
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "이스라엘, 이란 미사일 보복",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "하트시그널5 박우열 포스터",
+      "keyword": "옥진욱, 박지훈과 참교육 트로트",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "학교 폭력 드라마가 참교육 했나?",
-      "state": "-",
-      "change": "4"
+      "keyword": "강예원 부친상 후 부채 11억",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "이란, 이스라엘에 발사",
-      "state": "s",
+      "keyword": "르세라핌 아일릿 캣츠아이 협업 발매",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "한성숙 총리 후보 선정",
-      "state": "-",
-      "change": "1"
+      "keyword": "훈련 중인 홍명보 감독",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "47세 한다감 남편 눈물",
-      "state": "n",
+      "keyword": "멋진 신세계 연애 시작",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
       "keyword": "최지훈대표",
-      "state": "-",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     }
   ]
 }
