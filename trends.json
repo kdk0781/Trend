@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-08T02:02:32.180Z",
+  "updatedAt": "2026-06-08T06:58:13.368Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "에어프레미아",
-      "traffic": "200+"
+      "keyword": "hk vs nep",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "네이버 주가",
+      "keyword": "범죄",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "엘지전자주가",
+      "keyword": "타블로",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "필리핀 지진",
-      "traffic": "500+"
+      "keyword": "강예원",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "삼성전자 주가",
-      "traffic": "5000+"
+      "keyword": "사슴",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "하이닉스 주가",
-      "traffic": "2000+"
+      "keyword": "대왕고래 프로젝트",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "두산로보틱스 주가",
-      "traffic": "200+"
+      "keyword": "국민의힘",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "챗gpt",
-      "traffic": "10000+"
+      "keyword": "곰",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "삼성전자 주식",
-      "traffic": "200+"
+      "keyword": "기소",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "서킷브레이커",
-      "traffic": "20000+"
+      "keyword": "교장",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "한성숙 국무총리 후보자",
+      "keyword": "서울대 찾아온 젠슨 황",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "정규리 박우열 포스터 눈길",
-      "state": "s",
-      "change": "0"
+      "keyword": "투표용지 부족 토론회",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 3,
-      "keyword": "젠슨 황 AI 동맹 강화",
+      "keyword": "신입사원 강회장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이재명 대통령 1주년 기자회견",
+      "keyword": "방지민 5세대 비주얼",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "서킷 브레이커",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "서인영, 최지훈 대표와 재혼합니다",
+      "keyword": "김지석과 이주명 비밀 연애 공개",
       "state": "+",
       "change": "4"
     },
     {
-      "rank": 7,
-      "keyword": "장동혁 최고위 참석",
+      "rank": 6,
+      "keyword": "산다라박, 레이블 설립 새 출발",
       "state": "-",
       "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "김정은 부부 시진핑 영접",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "신입사원 강회장",
-      "state": "-",
-      "change": "1"
+      "keyword": "김수현, 7월 광고 촬영",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김무열 참교육",
-      "state": "-",
-      "change": "1"
+      "keyword": "서킷브레이커 20분간 매매중단",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "전인지 US여자오픈 4위",
-      "state": "-",
-      "change": "1"
+      "keyword": "KBO 2군 외국인 한도 증원",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
