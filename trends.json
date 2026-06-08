@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-08T18:20:11.999Z",
+  "updatedAt": "2026-06-08T20:37:02.723Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "네타냐후",
-      "traffic": "100+"
+      "keyword": "임금체불",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "netherlands vs usa",
-      "traffic": "200+"
+      "keyword": "ios27",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "골드만삭스",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "유학생",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "렉서스",
+      "keyword": "네덜란드 대 우즈베키스탄",
       "traffic": "200+"
     },
     {
-      "rank": 6,
-      "keyword": "신태용",
+      "rank": 4,
+      "keyword": "김민하",
       "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "롤",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "리그오브레전드",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "강기정",
-      "traffic": "100+"
+      "keyword": "이승환",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "송이",
-      "traffic": "500+"
+      "keyword": "시청률",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "설운도",
+      "keyword": "네타냐후",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "포천시",
-      "traffic": "500+"
+      "keyword": "netherlands vs usa",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "젠슨 황, 한국 AI 협력 가능성 높여",
+      "keyword": "젠슨 황 AI 협력",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "투표용지 부족, 노태악 사의",
-      "state": "n",
+      "keyword": "홍명보 감독 선수들 훈련 확인",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "명예영국인 백진경 임신",
+      "keyword": "투표소 용지 부족 91곳",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "서울고 김지우 홈런 우승",
-      "state": "+",
-      "change": "1"
+      "keyword": "김지석 이주명 비밀연애",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "트럼프 이스라엘·이란 중단 촉구",
+      "keyword": "한국축구 교육이 필요하다.",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "이지혜 샵 재결합 가능성",
-      "state": "+",
-      "change": "1"
+      "keyword": "이스라엘, 이란 공습 중단",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "강도현 동점 쓰리런",
+      "keyword": "시진핑 김정은 방북 회담",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김지석의 주작가 비밀연애",
-      "state": "+",
-      "change": "2"
+      "keyword": "이지혜 샵 재결합 고민 중",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 9,
-      "keyword": "고교팀 투수 베스트 하현승",
+      "keyword": "잠실 개표소에서 불법촬영 남성 체포",
       "state": "-",
-      "change": "5"
+      "change": "1"
     },
     {
       "rank": 10,
       "keyword": "신입사원 강회장",
-      "state": "+",
-      "change": "1"
+      "state": "-",
+      "change": "3"
     }
   ]
 }
