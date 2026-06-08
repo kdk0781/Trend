@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-08T22:13:40.351Z",
+  "updatedAt": "2026-06-08T23:38:12.679Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "배드민턴",
-      "traffic": "1000+"
+      "keyword": "추가경정예산",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "킬리안 음바페",
-      "traffic": "500+"
+      "keyword": "밀양시",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "김현욱",
-      "traffic": "500+"
+      "keyword": "발전",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "ionq",
-      "traffic": "500+"
+      "keyword": "mrvl",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "vix",
+      "keyword": "대전광역시",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "wi vs sl",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "tsla",
+      "keyword": "사건반장",
       "traffic": "200+"
     },
     {
-      "rank": 8,
-      "keyword": "에데르송",
+      "rank": 7,
+      "keyword": "최순호",
       "traffic": "100+"
     },
     {
+      "rank": 8,
+      "keyword": "케이조선",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "필라델피아 반도체 지수",
-      "traffic": "2000+"
+      "keyword": "강릉시",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "나스닥 100",
-      "traffic": "5000+"
+      "keyword": "lg cns",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김지석 이주명 비밀연애 공개",
+      "keyword": "이주명 비밀연애 공개",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "젠슨 황 AI 협력 확대",
+      "keyword": "젠슨 황 AI 활동 늘어났다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "홍명보 감독 훈련 관찰",
-      "state": "s",
-      "change": "0"
+      "keyword": "참교육 필요하다",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "참교육 필요하다",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "이스라엘, 이란 공습 중단",
-      "state": "-",
+      "keyword": "월드컵 일정",
+      "state": "+",
       "change": "2"
     },
     {
+      "rank": 5,
+      "keyword": "김영희 4년간 짝사랑 17번 퇴짜",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "이지혜 해체 후 45KG 감량",
+      "keyword": "손흥민 이강인 황희찬 응원",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "월드컵 일정 지장 우려",
-      "state": "-",
-      "change": "2"
+      "keyword": "첫 번째 남자",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 8,
       "keyword": "신입사원 강회장",
-      "state": "-",
-      "change": "4"
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "이영표 해설위원",
-      "state": "+",
-      "change": "2"
+      "keyword": "전세사기 피해자 3.9만 인정",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "닥터 섬보이",
-      "state": "-",
-      "change": "3"
+      "keyword": "홍명보 감독의 모습",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
