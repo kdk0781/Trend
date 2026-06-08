@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-08T20:37:02.723Z",
+  "updatedAt": "2026-06-08T22:13:40.351Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "임금체불",
-      "traffic": "2000+"
+      "keyword": "배드민턴",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "ios27",
-      "traffic": "100+"
+      "keyword": "킬리안 음바페",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "네덜란드 대 우즈베키스탄",
-      "traffic": "200+"
+      "keyword": "김현욱",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "김민하",
+      "keyword": "ionq",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "롤",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "리그오브레전드",
+      "keyword": "vix",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "wi vs sl",
+      "traffic": "100+"
+    },
+    {
       "rank": 7,
-      "keyword": "이승환",
+      "keyword": "tsla",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "시청률",
-      "traffic": "1000+"
+      "keyword": "에데르송",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "네타냐후",
-      "traffic": "200+"
+      "keyword": "필라델피아 반도체 지수",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "netherlands vs usa",
-      "traffic": "200+"
+      "keyword": "나스닥 100",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "젠슨 황 AI 협력",
+      "keyword": "김지석 이주명 비밀연애 공개",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "홍명보 감독 선수들 훈련 확인",
+      "keyword": "젠슨 황 AI 협력 확대",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "투표소 용지 부족 91곳",
+      "keyword": "홍명보 감독 훈련 관찰",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김지석 이주명 비밀연애",
+      "keyword": "참교육 필요하다",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "이스라엘, 이란 공습 중단",
       "state": "-",
       "change": "2"
     },
     {
-      "rank": 5,
-      "keyword": "한국축구 교육이 필요하다.",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 6,
-      "keyword": "이스라엘, 이란 공습 중단",
+      "keyword": "이지혜 해체 후 45KG 감량",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "시진핑 김정은 방북 회담",
-      "state": "n",
-      "change": "0"
+      "keyword": "월드컵 일정 지장 우려",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "이지혜 샵 재결합 고민 중",
+      "keyword": "신입사원 강회장",
       "state": "-",
       "change": "4"
     },
     {
       "rank": 9,
-      "keyword": "잠실 개표소에서 불법촬영 남성 체포",
-      "state": "-",
-      "change": "1"
+      "keyword": "이영표 해설위원",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "신입사원 강회장",
+      "keyword": "닥터 섬보이",
       "state": "-",
       "change": "3"
     }
