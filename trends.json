@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-07T23:40:55.630Z",
+  "updatedAt": "2026-06-08T02:02:32.180Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "제이콥 미시오로브스키",
-      "traffic": "100+"
+      "keyword": "에어프레미아",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "금시세",
-      "traffic": "100+"
+      "keyword": "네이버 주가",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "제39보병사단",
-      "traffic": "500+"
+      "keyword": "엘지전자주가",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "us 여자 오픈",
-      "traffic": "5000+"
+      "keyword": "필리핀 지진",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "엘링 홀란드",
-      "traffic": "200+"
+      "keyword": "삼성전자 주가",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "코인니스",
-      "traffic": "200+"
+      "keyword": "하이닉스 주가",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "교사",
-      "traffic": "1000+"
+      "keyword": "두산로보틱스 주가",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "경상남도",
-      "traffic": "500+"
+      "keyword": "챗gpt",
+      "traffic": "10000+"
     },
     {
       "rank": 9,
-      "keyword": "농구",
-      "traffic": "100+"
+      "keyword": "삼성전자 주식",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "나스닥 선물",
-      "traffic": "500+"
+      "keyword": "서킷브레이커",
+      "traffic": "20000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "신입사원 강회장",
+      "keyword": "한성숙 국무총리 후보자",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "한성숙 2기 총리 지명",
+      "keyword": "정규리 박우열 포스터 눈길",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "젠슨 황, 현대차와 회동",
-      "state": "+",
-      "change": "1"
+      "keyword": "젠슨 황 AI 동맹 강화",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이스라엘, 이란 미사일 보복",
+      "keyword": "이재명 대통령 1주년 기자회견",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "서킷 브레이커",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "옥진욱, 박지훈과 참교육 트로트",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 6,
-      "keyword": "강예원 부친상 후 부채 11억",
-      "state": "n",
-      "change": "0"
+      "keyword": "서인영, 최지훈 대표와 재혼합니다",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "르세라핌 아일릿 캣츠아이 협업 발매",
-      "state": "n",
-      "change": "0"
+      "keyword": "장동혁 최고위 참석",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "훈련 중인 홍명보 감독",
-      "state": "n",
-      "change": "0"
+      "keyword": "신입사원 강회장",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "멋진 신세계 연애 시작",
-      "state": "s",
-      "change": "0"
+      "keyword": "김무열 참교육",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "최지훈대표",
-      "state": "s",
-      "change": "0"
+      "keyword": "전인지 US여자오픈 4위",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
