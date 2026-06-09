@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-09T19:28:49.837Z",
+  "updatedAt": "2026-06-09T21:19:00.485Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "린",
+      "keyword": "김두겸",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "f 35a",
-      "traffic": "500+"
+      "keyword": "김가영",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "전쟁",
+      "keyword": "avc컵 여자 배구 대회",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "jtbc",
-      "traffic": "200+"
+      "keyword": "성호전자",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "오버워치",
-      "traffic": "200+"
+      "keyword": "임영웅",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "트럼프",
-      "traffic": "100+"
+      "keyword": "노동자",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "나스닥",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "코스피 야간선물",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "본사",
+      "keyword": "경상남도",
       "traffic": "100+"
     },
     {
+      "rank": 8,
+      "keyword": "대한민국 축구 국가대표팀",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "며느리",
+      "traffic": "500+"
+    },
+    {
       "rank": 10,
-      "keyword": "유미",
+      "keyword": "서울특별시 날씨",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 벨기에 동포 간담회",
+      "keyword": "이재명 대통령 벨기에 간담회",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "송파서장 사의 서울청 공안차장 지휘",
-      "state": "+",
-      "change": "1"
+      "keyword": "송영규 넷플릭스 참교육 열연",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김도영 시즌 19호 홈런",
-      "state": "-",
-      "change": "1"
+      "keyword": "신예은, 이재욱에게 직진 고백!",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "하트시그널5 출연자 불륜 검토",
+      "keyword": "조훈 윤혜정 신혼 생활 공개",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 5,
+      "keyword": "김도영 19호포 한화 제압",
       "state": "+",
       "change": "8"
     },
     {
-      "rank": 5,
-      "keyword": "송영규 넷플릭스 참교육 열연",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 6,
-      "keyword": "투표용지 부족 사태 조사 시작",
-      "state": "s",
-      "change": "0"
+      "keyword": "월드컵 일정",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "신예은, 이재욱에 직진 고백",
-      "state": "s",
-      "change": "0"
+      "keyword": "트럼프, 이란 헬기 격추 대응",
+      "state": "+",
+      "change": "7"
     },
     {
       "rank": 8,
-      "keyword": "임찬규 LG 탈삼진 신기록",
-      "state": "n",
+      "keyword": "정준현의 정규리 시절 마음",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
       "keyword": "첫 번째 남자",
-      "state": "-",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "월드컵 일정",
-      "state": "+",
-      "change": "1"
+      "keyword": "정경호·수영 결별 충격",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
