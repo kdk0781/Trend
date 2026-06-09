@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-09T05:46:26.738Z",
+  "updatedAt": "2026-06-09T08:50:28.431Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "사기",
-      "traffic": "2000+"
+      "keyword": "000660",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "솔로지옥 5",
-      "traffic": "100+"
+      "keyword": "김명수",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "k패스",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "jung hoo lee",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "배용준",
+      "keyword": "포항시",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "장례",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "정경호",
+      "traffic": "20000+"
+    },
+    {
       "rank": 6,
-      "keyword": "삼육대학교",
+      "keyword": "국가유공자",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "아이오닉 5",
-      "traffic": "200+"
+      "keyword": "펄어비스",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "참교육",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "체포",
+      "keyword": "신용카드",
       "traffic": "200+"
     },
     {
+      "rank": 9,
+      "keyword": "재건축",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "김태완",
+      "keyword": "유승민",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김윤설 사망, 향년 28세",
-      "state": "s",
-      "change": "0"
+      "keyword": "정경호 최수영 결별 소식",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "삼성 모든 업무 AI 도입",
-      "state": "n",
-      "change": "0"
+      "keyword": "코스피 8000선 복귀",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "코스피, 장중 8000 회복",
-      "state": "+",
-      "change": "2"
+      "keyword": "종합특검, 김명수 구속 영장",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "이정후 타율 2위!",
+      "keyword": "황희찬 의전 갑질 무혐의 처리",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "범정부 디지털 성범죄 협의체",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "이준석 윤어게인 정당 문제",
+      "keyword": "펄어비스 자사주 소각 배당",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "나나 자택 침입 7년 선고",
+      "state": "-",
+      "change": "4"
+    },
+    {
       "rank": 7,
-      "keyword": "곽재선 KG회장 주주환원 50%",
+      "keyword": "젠슨 황 방한 후 남긴 영향은?",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "통일교 수사 김도형 특검 출석",
+      "keyword": "여자친구 예린, 라이브 실력 보여줄게요",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 9,
+      "keyword": "신입사원 강회장",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "문가영의 아우라와 청순미",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 10,
-      "keyword": "투표용지 부족 문제 해결 필요해",
-      "state": "+",
-      "change": "6"
+      "keyword": "홍보하려고 이숙캠 의혹",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
