@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-09T14:30:53.066Z",
+  "updatedAt": "2026-06-09T17:09:57.701Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "수출",
-      "traffic": "1000+"
+      "keyword": "nasdaq",
+      "traffic": "10000+"
     },
     {
       "rank": 2,
-      "keyword": "엄정화",
-      "traffic": "200+"
+      "keyword": "유미",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "삼성전자 반도체공장",
-      "traffic": "5000+"
+      "keyword": "야간선물",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "경찰",
-      "traffic": "2000+"
+      "keyword": "조훈",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "indonesia vs mozambik",
-      "traffic": "500+"
+      "keyword": "롯데백화점 인천점",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "매일노동뉴스",
-      "traffic": "100+"
+      "keyword": "gta6",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "시진핑",
-      "traffic": "100+"
+      "keyword": "한국경제tv",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "투표함",
-      "traffic": "5000+"
+      "keyword": "소상공인연합회",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "박정현",
+      "keyword": "관악구",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "lig 디펜스&에어로스페이스",
-      "traffic": "100+"
+      "keyword": "성유리",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "소말리아 심판 입국 금지",
-      "state": "n",
+      "keyword": "투표용지 부족 검경 수사",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "황희찬 무혐의 확인",
-      "state": "n",
+      "keyword": "미야오 안나의 멋진 시구",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "투표용지 7194장 부족",
-      "state": "+",
-      "change": "1"
+      "keyword": "정경호 최수영 14년 결별",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "취사병 전설이 되다",
-      "state": "-",
-      "change": "1"
+      "keyword": "임찬규 LG 탈삼진 신기록",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "임찬규 최다 K 기록",
+      "keyword": "이재명, 벨기에 도착",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "미야오 안나 LG 응원해요",
-      "state": "n",
-      "change": "0"
+      "keyword": "송파경찰서장 사의 공안차장 지휘",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "강원도 낮 30도 비 바람",
-      "state": "n",
-      "change": "0"
+      "keyword": "하트 시그널 5",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "송파서장 사의 서울청 관리",
+      "keyword": "김무열, 백수 되며 아들 육아",
       "state": "-",
-      "change": "6"
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "월드컵 일정",
+      "keyword": "시진핑 방북 마무리",
       "state": "-",
-      "change": "2"
+      "change": "4"
     },
     {
       "rank": 10,
-      "keyword": "부산 다대포 공룡알 발견",
-      "state": "+",
-      "change": "2"
+      "keyword": "염경엽 감독 승리!",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
