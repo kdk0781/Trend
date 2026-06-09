@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-06-08T23:38:12.679Z",
+  "updatedAt": "2026-06-09T01:29:46.270Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "추가경정예산",
+      "keyword": "사직야구장",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "밀양시",
-      "traffic": "100+"
+      "keyword": "산들",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "발전",
-      "traffic": "200+"
+      "keyword": "사이드카",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "mrvl",
-      "traffic": "100+"
+      "keyword": "두산 베어스",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "대전광역시",
-      "traffic": "200+"
+      "keyword": "양민혁",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "사건반장",
-      "traffic": "200+"
+      "keyword": "jtbc",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "최순호",
-      "traffic": "100+"
+      "keyword": "오영훈",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "케이조선",
-      "traffic": "200+"
+      "keyword": "필리스 대 블루제이스",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "강릉시",
-      "traffic": "200+"
+      "keyword": "브래드 피트",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "lg cns",
-      "traffic": "100+"
+      "keyword": "오십 프로",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이주명 비밀연애 공개",
-      "state": "s",
-      "change": "0"
+      "keyword": "매수 사이드카 발동",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "젠슨 황 AI 활동 늘어났다",
-      "state": "s",
+      "keyword": "시진핑 북한 방문공연",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "참교육 필요하다",
+      "keyword": "이 대통령, 유럽 순방 출국",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "월드컵 일정",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "김영희 4년간 짝사랑 17번 퇴짜",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "손흥민 이강인 황희찬 응원",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "첫 번째 남자",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "신입사원 강회장",
+      "keyword": "모태솔로 시즌2 7월 7일 공개",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "전세사기 피해자 3.9만 인정",
+      "rank": 5,
+      "keyword": "월드컵 일정",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "1분기 GDP 1.8% 성장",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "프랑스, 북아일랜드 3-1 승리",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "하트시그널5 정규리 박우열 포스터",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 9,
+      "keyword": "배용준과 박수진 싱가포르 여행",
+      "state": "-",
+      "change": "6"
+    },
+    {
       "rank": 10,
-      "keyword": "홍명보 감독의 모습",
-      "state": "n",
+      "keyword": "출근하는 한성숙 후보자",
+      "state": "s",
       "change": "0"
     }
   ]
