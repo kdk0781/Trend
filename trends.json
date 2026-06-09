@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-09T08:50:28.431Z",
+  "updatedAt": "2026-06-09T11:54:07.269Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "000660",
-      "traffic": "5000+"
+      "keyword": "서울사이버대학교",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "김명수",
-      "traffic": "2000+"
+      "keyword": "김연아",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "포항시",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "장례",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "정경호",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "국가유공자",
+      "keyword": "이자",
       "traffic": "1000+"
     },
     {
+      "rank": 4,
+      "keyword": "파라 타 항공",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "주거",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "김재중",
+      "traffic": "200+"
+    },
+    {
       "rank": 7,
-      "keyword": "펄어비스",
+      "keyword": "주한 미군",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "신용카드",
-      "traffic": "200+"
+      "keyword": "서인영 남편",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "재건축",
-      "traffic": "2000+"
+      "keyword": "경주시",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "유승민",
-      "traffic": "200+"
+      "keyword": "파운드리",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정경호 최수영 결별 소식",
-      "state": "+",
-      "change": "1"
+      "keyword": "미야오 안나 시구 이벤트",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "코스피 8000선 복귀",
+      "keyword": "정경호 결별 수영 SNS 언팔 재조명",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "종합특검, 김명수 구속 영장",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "황희찬 의전 갑질 무혐의 처리",
+      "keyword": "투표용지 부족 문제",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "공명 동생 도영 차 선물 받다",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "펄어비스 자사주 소각 배당",
+      "keyword": "SSG 선발 김민준 1군 데뷔",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "나나 자택 침입 7년 선고",
+      "keyword": "카메론 첫 타석 2점 홈런",
       "state": "-",
-      "change": "4"
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "젠슨 황 방한 후 남긴 영향은?",
+      "keyword": "하이닉스 외국인 순매수 7.48% 상승",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "진선규, 우울한 술자리",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "여자친구 예린, 라이브 실력 보여줄게요",
-      "state": "-",
-      "change": "3"
-    },
-    {
       "rank": 9,
-      "keyword": "신입사원 강회장",
+      "keyword": "BTS 부산 공연 공무원 투입 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "홍보하려고 이숙캠 의혹",
+      "keyword": "김도영 3점 홈런포",
       "state": "n",
       "change": "0"
     }
