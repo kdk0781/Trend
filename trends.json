@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-09T11:54:07.269Z",
+  "updatedAt": "2026-06-09T14:30:53.066Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "서울사이버대학교",
-      "traffic": "100+"
+      "keyword": "수출",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "김연아",
+      "keyword": "엄정화",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "이자",
-      "traffic": "1000+"
+      "keyword": "삼성전자 반도체공장",
+      "traffic": "5000+"
     },
     {
       "rank": 4,
-      "keyword": "파라 타 항공",
-      "traffic": "500+"
+      "keyword": "경찰",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "주거",
-      "traffic": "200+"
+      "keyword": "indonesia vs mozambik",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "김재중",
-      "traffic": "200+"
+      "keyword": "매일노동뉴스",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "주한 미군",
+      "keyword": "시진핑",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "서인영 남편",
-      "traffic": "500+"
+      "keyword": "투표함",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "경주시",
-      "traffic": "100+"
+      "keyword": "박정현",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "파운드리",
-      "traffic": "2000+"
+      "keyword": "lig 디펜스&에어로스페이스",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "미야오 안나 시구 이벤트",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "정경호 결별 수영 SNS 언팔 재조명",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "투표용지 부족 문제",
+      "keyword": "소말리아 심판 입국 금지",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "공명 동생 도영 차 선물 받다",
-      "state": "s",
+      "rank": 2,
+      "keyword": "황희찬 무혐의 확인",
+      "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "투표용지 7194장 부족",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "취사병 전설이 되다",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 5,
-      "keyword": "SSG 선발 김민준 1군 데뷔",
+      "keyword": "임찬규 최다 K 기록",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "카메론 첫 타석 2점 홈런",
-      "state": "-",
-      "change": "1"
+      "keyword": "미야오 안나 LG 응원해요",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "하이닉스 외국인 순매수 7.48% 상승",
-      "state": "-",
-      "change": "1"
+      "keyword": "강원도 낮 30도 비 바람",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "진선규, 우울한 술자리",
-      "state": "n",
-      "change": "0"
+      "keyword": "송파서장 사의 서울청 관리",
+      "state": "-",
+      "change": "6"
     },
     {
       "rank": 9,
-      "keyword": "BTS 부산 공연 공무원 투입 논란",
-      "state": "n",
-      "change": "0"
+      "keyword": "월드컵 일정",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "김도영 3점 홈런포",
-      "state": "n",
-      "change": "0"
+      "keyword": "부산 다대포 공룡알 발견",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
