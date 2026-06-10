@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-10T15:19:36.527Z",
+  "updatedAt": "2026-06-10T18:11:29.816Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "지대공 미사일",
-      "traffic": "1000+"
+      "keyword": "미래에셋",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "김무열 존시나",
-      "traffic": "200+"
+      "keyword": "우크라이나",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "정일영",
+      "keyword": "헤지펀드",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "이준호",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "젠슨황",
+      "keyword": "트럼프",
       "traffic": "1000+"
     },
     {
+      "rank": 5,
+      "keyword": "김원훈",
+      "traffic": "100+"
+    },
+    {
       "rank": 6,
-      "keyword": "jensen huang",
+      "keyword": "월드컵 개막전",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "fomc",
-      "traffic": "100+"
+      "keyword": "극한 직업",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "hd현대일렉트릭",
-      "traffic": "2000+"
+      "keyword": "연료전지",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "gemini 1076 error",
+      "keyword": "다영",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "오라클 실적발표",
-      "traffic": "1000+"
+      "keyword": "훌리안 알바레스",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 이란, 협상 지연 대가 발생",
-      "state": "+",
-      "change": "3"
+      "keyword": "이재명 한-EU 공동언론발표",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "벨기에 정상회담 대통령",
-      "state": "n",
+      "keyword": "트럼프 이란 공습 임박",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "젠슨 황의 K간식 화제",
-      "state": "-",
-      "change": "1"
+      "keyword": "오스틴 홈런 공동 1위",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "정청래, 국민 영원 정권 짧다",
-      "state": "n",
-      "change": "0"
+      "keyword": "김혜경 여사 K-클래식 대화",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "대통령 지지율 급락",
-      "state": "n",
-      "change": "0"
+      "keyword": "유퀴즈 젠슨 황의 한국 사랑",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "청주 화학물질 사고로 2명 이송",
-      "state": "n",
-      "change": "0"
+      "keyword": "美 5월 물가 4.2%↑",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "오스틴 만루포 대폭발!",
+      "keyword": "투표용지 부족 규탄",
       "state": "-",
-      "change": "5"
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "美 5월 물가 4.2%↑ 최고치",
-      "state": "-",
-      "change": "2"
+      "keyword": "위안부 고노 별세",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김혜경 여사 K-클래식 대화",
-      "state": "-",
-      "change": "2"
+      "keyword": "북러 군사협력 규탄",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "투표용지 선관위가 폐기했다",
-      "state": "n",
-      "change": "0"
+      "keyword": "김영옥, 남편상 후 심경 먹먹해요",
+      "state": "+",
+      "change": "4"
     }
   ]
 }
