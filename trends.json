@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-10T11:55:45.568Z",
+  "updatedAt": "2026-06-10T15:19:36.527Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "소송",
-      "traffic": "200+"
+      "keyword": "지대공 미사일",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "서울사이버대학교",
-      "traffic": "100+"
+      "keyword": "김무열 존시나",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "캐시워크 정답",
-      "traffic": "100+"
+      "keyword": "정일영",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "친문",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "팬 클럽",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "cpi 발표 시간",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "배당",
+      "keyword": "이준호",
       "traffic": "500+"
     },
     {
+      "rank": 5,
+      "keyword": "젠슨황",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "jensen huang",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "fomc",
+      "traffic": "100+"
+    },
+    {
       "rank": 8,
-      "keyword": "관광객",
+      "keyword": "hd현대일렉트릭",
       "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "외국인",
-      "traffic": "1000+"
+      "keyword": "gemini 1076 error",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "부사관",
+      "keyword": "오라클 실적발표",
       "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "참정권 침해 반대",
+      "keyword": "트럼프 이란, 협상 지연 대가 발생",
       "state": "+",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 2,
-      "keyword": "최철호, 택배 일용직으로 버텨",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "메기 강 감독, 딸 루미 시구",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "김무열 참교육에 화답했다",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "이재명·벨기에 국왕",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "수영-정경호 14년 열애 결별",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "에레디아 적시타 1타점",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "국민은 영원, 정권은 짧다",
+      "keyword": "벨기에 정상회담 대통령",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "젠슨 황의 K간식 화제",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "정청래, 국민 영원 정권 짧다",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "대통령 지지율 급락",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "청주 화학물질 사고로 2명 이송",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "오스틴 만루포 대폭발!",
+      "state": "-",
+      "change": "5"
+    },
+    {
+      "rank": 8,
+      "keyword": "美 5월 물가 4.2%↑ 최고치",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 9,
-      "keyword": "SK하이닉스 주가 230만원 돌파",
-      "state": "+",
+      "keyword": "김혜경 여사 K-클래식 대화",
+      "state": "-",
       "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "신예은 이재욱 직진 고백",
+      "keyword": "투표용지 선관위가 폐기했다",
       "state": "n",
       "change": "0"
     }
