@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-09T22:53:29.753Z",
+  "updatedAt": "2026-06-10T00:05:42.139Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "영양소",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "schd",
+      "keyword": "기후동행카드 환급",
       "traffic": "200+"
     },
     {
-      "rank": 3,
-      "keyword": "옷",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "축구",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "차상현",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "aapl",
+      "rank": 2,
+      "keyword": "소셜 네트워크 서비스",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "고소영",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "world cup",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "가로림만",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "윙어",
+      "traffic": "2000+"
+    },
+    {
       "rank": 7,
-      "keyword": "중앙일보",
+      "keyword": "미토스",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "홍진영",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "고려대학교",
+      "keyword": "현대모비스",
       "traffic": "100+"
     },
     {
+      "rank": 9,
+      "keyword": "다저스 대 파이리츠",
+      "traffic": "5000+"
+    },
+    {
       "rank": 10,
-      "keyword": "전인지",
+      "keyword": "미국 항공 우주국",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 벨기에 간담회",
-      "state": "s",
+      "keyword": "방북 후 귀국 시진핑",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "트럼프, 이란 헬기 격추 대응",
+      "keyword": "월드컵 일정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "월드컵 일정",
+      "keyword": "정경호 최수영 결혼설 성립",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "리베라시온 광장 팬 페스티벌",
+      "keyword": "하트 시그널 5",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "하트 시그널 5",
-      "state": "-",
-      "change": "2"
+      "keyword": "미군 헬기 격추 대응",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "조훈 윤혜정 싸운다",
+      "keyword": "방탄소년단 SWIM 美 빌보드 역주행",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "정경호 수영 결별 소식",
-      "state": "s",
-      "change": "0"
+      "keyword": "참교육 당한 안선영 사과",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "송영규 유작 참교육",
-      "state": "s",
-      "change": "0"
+      "keyword": "신예은, 이재욱 향한 고백!",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "신예은, 이재욱 직진 고백",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 10,
       "keyword": "첫 번째 남자",
       "state": "-",
       "change": "1"
+    },
+    {
+      "rank": 10,
+      "keyword": "심태윤, 화류계 진입해 공허함 느껴",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
