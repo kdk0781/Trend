@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-10T18:11:29.816Z",
+  "updatedAt": "2026-06-10T20:45:51.168Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "미래에셋",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "우크라이나",
+      "keyword": "전차",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "임영웅",
+      "traffic": "1000+"
+    },
+    {
       "rank": 3,
-      "keyword": "헤지펀드",
+      "keyword": "주거",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "트럼프",
-      "traffic": "1000+"
+      "keyword": "한국 수력 원자력 고리 원자력 본부",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "김원훈",
-      "traffic": "100+"
+      "keyword": "모스 탄",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "월드컵 개막전",
-      "traffic": "100+"
+      "keyword": "대통령",
+      "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "극한 직업",
+      "keyword": "한국 대 체코",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "연료전지",
-      "traffic": "100+"
+      "keyword": "디카페인",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "다영",
-      "traffic": "100+"
+      "keyword": "송파구선거관리위원회",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "훌리안 알바레스",
-      "traffic": "200+"
+      "keyword": "노동 시간",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 한-EU 공동언론발표",
+      "keyword": "대통령 한-EU 공동언론발표",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "트럼프 이란 공습 임박",
-      "state": "s",
-      "change": "0"
+      "keyword": "월드컵 일정",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 3,
-      "keyword": "오스틴 홈런 공동 1위",
-      "state": "s",
-      "change": "0"
+      "keyword": "김혜경 여사 K-클래식 대화",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "김혜경 여사 K-클래식 대화",
-      "state": "+",
+      "keyword": "젊은 성장 이야기",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "유퀴즈 젠슨 황의 한국 사랑",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
       "keyword": "美 5월 물가 4.2%↑",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "투표용지 부족 규탄",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "위안부 고노 별세",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "북러 군사협력 규탄",
+      "rank": 6,
+      "keyword": "김태형 감독 800승 달성",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "학교 교육의 중요성 세계가 인정",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "트럼프 이란 공습 임박",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "김영옥, 남편상 후 심경 먹먹해요",
+      "rank": 9,
+      "keyword": "김무열과 이성민의 기합 비하인드",
       "state": "+",
-      "change": "4"
+      "change": "11"
+    },
+    {
+      "rank": 10,
+      "keyword": "북러 군사협력 강력 규탄",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
