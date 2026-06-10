@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-10T08:37:25.503Z",
+  "updatedAt": "2026-06-10T11:55:45.568Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "lg 트윈스",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "부산 해군기지",
+      "keyword": "소송",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "서울사이버대학교",
+      "traffic": "100+"
+    },
+    {
       "rank": 3,
-      "keyword": "방첩사 해체",
+      "keyword": "캐시워크 정답",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "장슬기",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "디스클로저데이",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "태진아",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "안면도",
+      "keyword": "친문",
       "traffic": "100+"
     },
     {
+      "rank": 5,
+      "keyword": "팬 클럽",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "cpi 발표 시간",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "배당",
+      "traffic": "500+"
+    },
+    {
       "rank": 8,
-      "keyword": "사실혼",
-      "traffic": "200+"
+      "keyword": "관광객",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "국회의원 회관",
-      "traffic": "2000+"
+      "keyword": "외국인",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "코인니스 - 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
-      "traffic": "2000+"
+      "keyword": "부사관",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "투표용지 부족 투표소",
-      "state": "s",
-      "change": "0"
+      "keyword": "참정권 침해 반대",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "방첩사 해체 49년",
+      "keyword": "최철호, 택배 일용직으로 버텨",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "코스피 하락 마감",
-      "state": "n",
+      "keyword": "메기 강 감독, 딸 루미 시구",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "약셀 리오스 LG 새 얼굴",
-      "state": "+",
-      "change": "1"
+      "keyword": "김무열 참교육에 화답했다",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "DMZ 바람길 바꿔볼 수 있습니다.",
-      "state": "+",
-      "change": "3"
+      "keyword": "이재명·벨기에 국왕",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "방탄소년단 日 오리콘 9억 스트리밍",
-      "state": "n",
+      "keyword": "수영-정경호 14년 열애 결별",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "당선인 인수위 출범",
-      "state": "-",
+      "keyword": "에레디아 적시타 1타점",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "카카오 29일 파업 예고",
+      "keyword": "국민은 영원, 정권은 짧다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "6·10만세운동 100주년 기념비",
-      "state": "n",
-      "change": "0"
+      "keyword": "SK하이닉스 주가 230만원 돌파",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "이재명 벨기에 회담",
+      "keyword": "신예은 이재욱 직진 고백",
       "state": "n",
       "change": "0"
     }
