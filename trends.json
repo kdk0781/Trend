@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-11T09:08:19.596Z",
+  "updatedAt": "2026-06-11T12:52:55.228Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김기수",
+      "keyword": "조니 소말리",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "000660",
-      "traffic": "2000+"
+      "keyword": "배트맨",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "류지현",
-      "traffic": "5000+"
+      "keyword": "양희은",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "고래",
+      "keyword": "lịch world cup 2026",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "스페이스x",
-      "traffic": "10000+"
+      "keyword": "가짜뉴스",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "설악산",
+      "keyword": "변우혁",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "크레이지아케이드",
-      "traffic": "2000+"
+      "keyword": "축산",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "괴롭힘",
-      "traffic": "200+"
+      "keyword": "멜론",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "박현경",
+      "keyword": "류현진",
       "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "검사",
-      "traffic": "5000+"
+      "keyword": "백지영",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "손승원, 5번 음주운전 징역 1년 확정",
+      "keyword": "송파구선관위 압수수색 종료",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "코스피 상승 마감",
+      "keyword": "한-이탈리아 공동언론발표 대통령",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "농어촌 기본소득 선정 10곳 확대",
-      "state": "+",
-      "change": "3"
+      "keyword": "한성숙, 테슬라 250억 재산",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "월드컵 거리응원 준비",
+      "keyword": "이도윤 1타점 적시타 터져",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "BTS 부산 공연 앞둔",
+      "keyword": "트와이스 사나, 여신 강림",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "중앙선관위 압수수색",
-      "state": "+",
-      "change": "3"
+      "keyword": "김민석 총리 참정권 회의 주재",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "포스코-현대차 전기강판 개발",
-      "state": "s",
+      "keyword": "인천 생활자원센터 다리 발견",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "최태원 일본, 훌륭한 후보지",
-      "state": "n",
-      "change": "0"
+      "keyword": "손승원 5번째 음주운전 징역 1년",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "EU에 우호적 고려 요청",
-      "state": "n",
+      "keyword": "손오조의 참교육 부탁!",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "지연수 일라이 재혼 발표",
+      "keyword": "박규영",
       "state": "n",
       "change": "0"
     }
