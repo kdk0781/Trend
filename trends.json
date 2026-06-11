@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-06-11T12:52:55.228Z",
+  "updatedAt": "2026-06-11T16:45:05.938Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "조니 소말리",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "배트맨",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "양희은",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "lịch world cup 2026",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "가짜뉴스",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "변우혁",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "축산",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "멜론",
+      "keyword": "기아 pv5",
       "traffic": "500+"
     },
     {
+      "rank": 2,
+      "keyword": "이상화",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "2026 年 fifa 世界杯",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "2026 國際足總世界盃",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "조니소말리",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "주권",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "김고은",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "чемпионат мира по футболу fifa –2026",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "류현진",
-      "traffic": "5000+"
+      "keyword": "홀 인 원",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "백지영",
-      "traffic": "200+"
+      "keyword": "전유성",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "송파구선관위 압수수색 종료",
+      "keyword": "중앙선관위 압수수색 마무리",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "한-이탈리아 공동언론발표 대통령",
+      "keyword": "이재명 대통령 이탈리아",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "한성숙, 테슬라 250억 재산",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "이도윤 1타점 적시타 터져",
+      "keyword": "트럼프 이란 석유 점령하나",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "류현진 다승 1위 달성",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "트와이스 사나, 여신 강림",
+      "keyword": "차가원 임금 미지급 사과",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김민석 총리 참정권 회의 주재",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "인천 생활자원센터 다리 발견",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "손승원 5번째 음주운전 징역 1년",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "손오조의 참교육 부탁!",
+      "keyword": "개표 오류 사과",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "ECB 금리 인상",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "인천 재활용센터 다리 발견",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "쿠팡 과징금 6247억 역대 최대",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 10,
-      "keyword": "박규영",
-      "state": "n",
+      "keyword": "한미 핵협의 회의 진행",
+      "state": "s",
       "change": "0"
     }
   ]
