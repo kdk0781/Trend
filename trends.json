@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-11T19:25:58.966Z",
+  "updatedAt": "2026-06-11T21:33:44.062Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "멕시코 대 남아공",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "여성 소방관",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "샤키라",
+      "keyword": "삼성 갤럭시 z 시리즈",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "나현수",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "하이드레이션 브레이크",
+      "traffic": "100+"
+    },
+    {
       "rank": 4,
-      "keyword": "mexico vs south africa",
+      "keyword": "에코프로",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "chzzk",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "jtbc",
+      "keyword": "데이터 센터",
       "traffic": "500+"
     },
     {
+      "rank": 6,
+      "keyword": "고속철도",
+      "traffic": "200+"
+    },
+    {
       "rank": 7,
-      "keyword": "fifa",
-      "traffic": "100+"
+      "keyword": "치어리더",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "미국",
-      "traffic": "5000+"
+      "keyword": "부부",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "fifa world cup 2026 start date",
+      "keyword": "주성엔지니어링",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "기아 pv5",
-      "traffic": "2000+"
+      "keyword": "시장",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "중앙선관위 압수수색 종료",
+      "keyword": "중앙선관위 압수수색 마침",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이재명 대통령 면담",
-      "state": "n",
+      "keyword": "트럼프 이란 공습 취소",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "한화, 류현진과 함께 4위 도약",
+      "keyword": "이재명, 이탈리아 의장 면담",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "韓-伊 동반자 격상 협력 확대",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "ECB 금리 인상",
+      "keyword": "부부 사업 실패",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "넷플릭스 참교육의 학교폭력 진상",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 6,
-      "keyword": "3천원 남편의 눈물 고백",
-      "state": "n",
-      "change": "0"
+      "keyword": "김무열, 병역기피 의혹 자진 입대",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "트럼프 오늘밤 이란 강타 예고",
+      "keyword": "미국증시",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "참정권 침해 용납 안돼",
+      "keyword": "첫 번째 남자",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김혜수 참교육 의리 빛나다",
-      "state": "-",
-      "change": "3"
+      "keyword": "류현진 8승 4위 도약",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김무열 자진 입대 이유",
-      "state": "-",
-      "change": "1"
+      "keyword": "정혜성, 17기 영수 오해 사건",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
