@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-06-10T22:31:56.156Z",
+  "updatedAt": "2026-06-11T00:02:04.117Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "제일런 브런슨",
-      "traffic": "100+"
+      "keyword": "이정후",
+      "traffic": "20000+"
     },
     {
       "rank": 2,
-      "keyword": "최태원",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "vix",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "qqq",
+      "keyword": "2026 월드컵",
       "traffic": "100+"
     },
     {
-      "rank": 5,
-      "keyword": "bồ đào nha đấu với nigeria",
+      "rank": 3,
+      "keyword": "cristiano ronaldo",
       "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "민희진",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "셀트리온",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "mu",
-      "traffic": "200+"
+      "keyword": "netherlands vs canada",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "tqqq",
+      "keyword": "england vs costa rica",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "avgo",
-      "traffic": "100+"
+      "keyword": "weather",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "tsla",
-      "traffic": "200+"
+      "keyword": "주차",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "금",
-      "traffic": "2000+"
+      "keyword": "수국",
+      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -61,56 +61,56 @@
     },
     {
       "rank": 2,
-      "keyword": "홍명보 감독 질문 답변",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "이재명 한-EU 공동언론발표",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "트럼프 오늘 이란 강하게 공격",
+      "keyword": "호르무즈 해협 통과 선박 위험",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "갓세븐 영재 드림하이2 협의 없음",
+      "rank": 3,
+      "keyword": "이정후, 13G 31안타 타격왕 도전!",
       "state": "+",
-      "change": "7"
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "코우베크 감독 답변",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "5월 취업자 4만명↓",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "이정후, MLB 최고의 타자",
+      "keyword": "체코전 앞두고 홍명보 감독 기자회견",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "젠슨 황, 떠나니 변화 생길까?",
-      "state": "s",
+      "keyword": "스필버그 디스클로저 데이 1위 군체 제압",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김무열 사이다 열광 이유",
-      "state": "+",
-      "change": "1"
+      "keyword": "국민의힘 대안과 미래",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "32기 영숙 데이트 황당 사고",
-      "state": "-",
-      "change": "5"
+      "keyword": "콘셉트 포토 공개",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "두 살 아들 살해 부부",
-      "state": "n",
+      "keyword": "김무열 사이다 열광 이유",
+      "state": "s",
       "change": "0"
     }
   ]
