@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-06-11T04:55:09.112Z",
+  "updatedAt": "2026-06-11T09:08:19.596Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "kf-21 보라매",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "giá vàng hôm nay",
+      "keyword": "김기수",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "000660",
+      "traffic": "2000+"
+    },
+    {
       "rank": 3,
-      "keyword": "볼보 es90",
-      "traffic": "200+"
+      "keyword": "류지현",
+      "traffic": "5000+"
     },
     {
       "rank": 4,
-      "keyword": "선박",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "최성 안",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "kia 타이거즈",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "우재준",
+      "keyword": "고래",
       "traffic": "200+"
     },
     {
-      "rank": 8,
-      "keyword": "권순일",
+      "rank": 5,
+      "keyword": "스페이스x",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "설악산",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "크레이지아케이드",
       "traffic": "2000+"
     },
     {
+      "rank": 8,
+      "keyword": "괴롭힘",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "닌텐도 스위치",
-      "traffic": "500+"
+      "keyword": "박현경",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "광주연구개발 특구 첨단3지구",
-      "traffic": "20000+"
+      "keyword": "검사",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "쿠팡 개인정보 유출 과징금 6246억",
-      "state": "n",
+      "keyword": "손승원, 5번 음주운전 징역 1년 확정",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "정점식 한병도 원내대표",
-      "state": "+",
-      "change": "1"
+      "keyword": "코스피 상승 마감",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "빅뱅 월드투어 18개 도시",
-      "state": "n",
-      "change": "0"
+      "keyword": "농어촌 기본소득 선정 10곳 확대",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 4,
-      "keyword": "투표지 부족 국조 보고",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 5,
-      "keyword": "한국전 준비 체코팀",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "일라이, 동갑내기 재혼 발표",
+      "keyword": "월드컵 거리응원 준비",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "BTS 부산 공연 앞둔",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "중앙선관위 압수수색",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 7,
-      "keyword": "선서하는 김성범 의원",
-      "state": "n",
+      "keyword": "포스코-현대차 전기강판 개발",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "수키진 유튜버 별세",
-      "state": "-",
-      "change": "2"
+      "keyword": "최태원 일본, 훌륭한 후보지",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김학의 허위보고서 이규원 선고유예 확정",
+      "keyword": "EU에 우호적 고려 요청",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "하이닉스 주가 230만원 돌파",
-      "state": "s",
+      "keyword": "지연수 일라이 재혼 발표",
+      "state": "n",
       "change": "0"
     }
   ]
