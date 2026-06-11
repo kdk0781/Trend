@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-11T00:02:04.117Z",
+  "updatedAt": "2026-06-11T04:55:09.112Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이정후",
-      "traffic": "20000+"
+      "keyword": "kf-21 보라매",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "2026 월드컵",
+      "keyword": "giá vàng hôm nay",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "cristiano ronaldo",
+      "keyword": "볼보 es90",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "민희진",
-      "traffic": "1000+"
+      "keyword": "선박",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "셀트리온",
-      "traffic": "1000+"
+      "keyword": "최성 안",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "netherlands vs canada",
-      "traffic": "100+"
+      "keyword": "kia 타이거즈",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "england vs costa rica",
+      "keyword": "우재준",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "weather",
+      "keyword": "권순일",
       "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "주차",
-      "traffic": "100+"
+      "keyword": "닌텐도 스위치",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "수국",
-      "traffic": "200+"
+      "keyword": "광주연구개발 특구 첨단3지구",
+      "traffic": "20000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "월드컵 일정",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "호르무즈 해협 통과 선박 위험",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "이정후, 13G 31안타 타격왕 도전!",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "코우베크 감독 답변",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "5월 취업자 4만명↓",
+      "keyword": "쿠팡 개인정보 유출 과징금 6246억",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "정점식 한병도 원내대표",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "빅뱅 월드투어 18개 도시",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "투표지 부족 국조 보고",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 5,
+      "keyword": "한국전 준비 체코팀",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 6,
-      "keyword": "체코전 앞두고 홍명보 감독 기자회견",
+      "keyword": "일라이, 동갑내기 재혼 발표",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "스필버그 디스클로저 데이 1위 군체 제압",
+      "keyword": "선서하는 김성범 의원",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "국민의힘 대안과 미래",
-      "state": "n",
-      "change": "0"
+      "keyword": "수키진 유튜버 별세",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "콘셉트 포토 공개",
+      "keyword": "김학의 허위보고서 이규원 선고유예 확정",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김무열 사이다 열광 이유",
+      "keyword": "하이닉스 주가 230만원 돌파",
       "state": "s",
       "change": "0"
     }
