@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-11T16:45:05.938Z",
+  "updatedAt": "2026-06-11T19:25:58.966Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "기아 pv5",
-      "traffic": "500+"
+      "keyword": "멕시코 대 남아공",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "이상화",
-      "traffic": "100+"
+      "keyword": "여성 소방관",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "2026 年 fifa 世界杯",
-      "traffic": "100+"
+      "keyword": "샤키라",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "2026 國際足總世界盃",
+      "keyword": "mexico vs south africa",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "조니소말리",
-      "traffic": "500+"
+      "keyword": "chzzk",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "주권",
-      "traffic": "200+"
+      "keyword": "jtbc",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "김고은",
-      "traffic": "1000+"
+      "keyword": "fifa",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "чемпионат мира по футболу fifa –2026",
-      "traffic": "200+"
+      "keyword": "미국",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "홀 인 원",
-      "traffic": "200+"
+      "keyword": "fifa world cup 2026 start date",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "전유성",
-      "traffic": "100+"
+      "keyword": "기아 pv5",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "중앙선관위 압수수색 마무리",
+      "keyword": "중앙선관위 압수수색 종료",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이재명 대통령 이탈리아",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "트럼프 이란 석유 점령하나",
+      "keyword": "이재명 대통령 면담",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "류현진 다승 1위 달성",
+      "rank": 3,
+      "keyword": "한화, 류현진과 함께 4위 도약",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "韓-伊 동반자 격상 협력 확대",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 5,
-      "keyword": "차가원 임금 미지급 사과",
+      "keyword": "ECB 금리 인상",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "개표 오류 사과",
-      "state": "s",
+      "keyword": "3천원 남편의 눈물 고백",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "ECB 금리 인상",
-      "state": "+",
-      "change": "2"
+      "keyword": "트럼프 오늘밤 이란 강타 예고",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "인천 재활용센터 다리 발견",
+      "keyword": "참정권 침해 용납 안돼",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "쿠팡 과징금 6247억 역대 최대",
+      "keyword": "김혜수 참교육 의리 빛나다",
       "state": "-",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "한미 핵협의 회의 진행",
-      "state": "s",
-      "change": "0"
+      "keyword": "김무열 자진 입대 이유",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
