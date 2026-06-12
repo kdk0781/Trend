@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-12T06:16:03.115Z",
+  "updatedAt": "2026-06-12T10:40:39.331Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "성심당",
+      "keyword": "파업",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "윈터",
-      "traffic": "100+"
+      "keyword": "엘앤에프",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "축구 순위",
+      "keyword": "홈플러스 익스프레스",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "롯데자이언츠",
-      "traffic": "500+"
+      "keyword": "장윤정",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "스페인",
-      "traffic": "100+"
+      "keyword": "부산 북항야구장",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "브라질",
-      "traffic": "100+"
+      "keyword": "세종특별자치시",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "퀴라소",
-      "traffic": "200+"
+      "keyword": "이필립",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "광 통신",
-      "traffic": "200+"
+      "keyword": "두산 대 kia",
+      "traffic": "10000+"
     },
     {
       "rank": 9,
-      "keyword": "fifa world cup standings",
-      "traffic": "200+"
+      "keyword": "한화 대 키움",
+      "traffic": "10000+"
     },
     {
       "rank": 10,
-      "keyword": "건설",
-      "traffic": "1000+"
+      "keyword": "롯데 대 lg",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "홍명보 감독 포기하지 말자!",
-      "state": "+",
-      "change": "8"
+      "keyword": "경찰 핸드볼 수사",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "평양 무인기 징역 30년",
+      "keyword": "한화 김경문 감독, 오재원 훈련 확인",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "참교육 김무열, 존 시나 특별출연 희망",
+      "keyword": "이란 MOU 공개",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "손흥민 결정력 아쉬움",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "역전골에 환호하는 시민들",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "이강인 에이스 기세 상승",
-      "state": "+",
-      "change": "12"
-    },
-    {
-      "rank": 7,
-      "keyword": "BTS 정국 비행선",
+      "keyword": "데이비드 호크니 별세",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "이용규 음주사고 사과",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 6,
+      "keyword": "하이닉스 주가 상승",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "이정후 타격감 경이로움",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 8,
-      "keyword": "고양이 살펴보는 관람객들",
-      "state": "s",
+      "keyword": "호남 내륙 소나기 예보",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "재활용센터서 다리 특정",
-      "state": "n",
-      "change": "0"
+      "keyword": "오현규, 행복한 선수로 성장한 아버지의 아들",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 10,
-      "keyword": "소링 이글 훈련",
-      "state": "+",
-      "change": "2"
+      "keyword": "59만전자 500만닉스 간다 전망에",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
