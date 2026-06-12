@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-11T23:07:48.392Z",
+  "updatedAt": "2026-06-12T01:36:46.816Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "sk하이닉스",
-      "traffic": "5000+"
+      "keyword": "avc 컵 여자 배구 대회",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "김봉곤",
-      "traffic": "500+"
+      "keyword": "에스타디오 과달라하라",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "박승규",
-      "traffic": "1000+"
+      "keyword": "월드컵 볼수 있는 곳",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "혼인",
-      "traffic": "200+"
+      "keyword": "도지코인",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "김민석",
+      "keyword": "올림픽",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "fifa world cup games",
+      "keyword": "한효주",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "금시세",
-      "traffic": "100+"
+      "keyword": "브레이브스 대 화이트삭스",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "아틀레티코 마드리드",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "최화정",
+      "keyword": "lpga",
       "traffic": "500+"
     },
     {
-      "rank": 10,
-      "keyword": "과태료",
+      "rank": 9,
+      "keyword": "페라자",
       "traffic": "200+"
+    },
+    {
+      "rank": 10,
+      "keyword": "월드컵 선수",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 이란 공습 취소",
+      "keyword": "코스피 매수 사이드카 발동",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "멕시코, 남아공 2-0 완승",
+      "keyword": "북중미 월드컵 중계 시청 경험",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이재명 대통령 묘소 헌화",
-      "state": "n",
+      "keyword": "구윤철 부총리 비상경제본부회의 참석",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "니가 좋아 챌린지 열풍",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 5,
-      "keyword": "스페이스X, 공모가 135달러 확정",
+      "keyword": "동궁 7월 17일 공개",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "김무열의 입대 사연",
+      "rank": 5,
+      "keyword": "현안 답변 강준현 수석대변인",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "한성숙 국무총리 후보자",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "재회 후 결혼 예언",
+      "keyword": "해병대사령관배 저격수경연대회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "참교육 작품의 옥에 티?",
-      "state": "+",
-      "change": "2"
+      "keyword": "백두산 천지 관람객",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "손승원, 만취 역주행 징역 1년",
-      "state": "+",
-      "change": "1"
+      "keyword": "이정후 올스타 투표 중!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "서울 지하철 781원 손실",
+      "keyword": "방탄소년단 COME OVER 발매",
       "state": "n",
       "change": "0"
     }
