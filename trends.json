@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-12T01:36:46.816Z",
+  "updatedAt": "2026-06-12T06:16:03.115Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "avc 컵 여자 배구 대회",
-      "traffic": "2000+"
+      "keyword": "성심당",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "에스타디오 과달라하라",
-      "traffic": "5000+"
+      "keyword": "윈터",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "월드컵 볼수 있는 곳",
+      "keyword": "축구 순위",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "도지코인",
-      "traffic": "100+"
+      "keyword": "롯데자이언츠",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "올림픽",
-      "traffic": "200+"
+      "keyword": "스페인",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "한효주",
-      "traffic": "200+"
+      "keyword": "브라질",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "브레이브스 대 화이트삭스",
+      "keyword": "퀴라소",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "lpga",
-      "traffic": "500+"
+      "keyword": "광 통신",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "페라자",
+      "keyword": "fifa world cup standings",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "월드컵 선수",
+      "keyword": "건설",
       "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "코스피 매수 사이드카 발동",
-      "state": "s",
-      "change": "0"
+      "keyword": "홍명보 감독 포기하지 말자!",
+      "state": "+",
+      "change": "8"
     },
     {
       "rank": 2,
-      "keyword": "북중미 월드컵 중계 시청 경험",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "구윤철 부총리 비상경제본부회의 참석",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "동궁 7월 17일 공개",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "현안 답변 강준현 수석대변인",
-      "state": "-",
+      "keyword": "평양 무인기 징역 30년",
+      "state": "+",
       "change": "1"
     },
     {
+      "rank": 3,
+      "keyword": "참교육 김무열, 존 시나 특별출연 희망",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "손흥민 결정력 아쉬움",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "역전골에 환호하는 시민들",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 6,
-      "keyword": "한성숙 국무총리 후보자",
-      "state": "s",
-      "change": "0"
+      "keyword": "이강인 에이스 기세 상승",
+      "state": "+",
+      "change": "12"
     },
     {
       "rank": 7,
-      "keyword": "해병대사령관배 저격수경연대회",
+      "keyword": "BTS 정국 비행선",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "백두산 천지 관람객",
-      "state": "n",
+      "keyword": "고양이 살펴보는 관람객들",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이정후 올스타 투표 중!",
+      "keyword": "재활용센터서 다리 특정",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "방탄소년단 COME OVER 발매",
-      "state": "n",
-      "change": "0"
+      "keyword": "소링 이글 훈련",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
