@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-12T18:29:25.062Z",
+  "updatedAt": "2026-06-12T20:36:02.115Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "bet365",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
+      "keyword": "맥도날드",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "보스니아",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
       "keyword": "샌디스크 주가",
       "traffic": "100+"
     },
     {
-      "rank": 2,
-      "keyword": "문화일보",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "테슬라 주가",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "넷플",
-      "traffic": "100+"
-    },
-    {
       "rank": 5,
-      "keyword": "캐나다 축구",
+      "keyword": "문화일보",
       "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "대한민국 교육부",
+      "keyword": "테슬라 주가",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "문채원",
-      "traffic": "200+"
+      "keyword": "tradingview",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "주한 미군",
+      "keyword": "넷플",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "한진만",
+      "keyword": "대한민국 교육부",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "육아",
-      "traffic": "1000+"
+      "keyword": "문채원",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명·멜로니 악수",
+      "keyword": "이재명 비즈니스 라운드테이블",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김혜경 여사 세계청년대회 만남",
+      "keyword": "김혜경 여사 세계청년대회 참석",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "서건창 9회 끝내기 안타",
-      "state": "+",
-      "change": "1"
+      "keyword": "서건창 끝내기 안타",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "호크니 별세, 향년 88세",
-      "state": "-",
-      "change": "1"
+      "keyword": "훈련하는 홍명보 감독",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 5,
-      "keyword": "합수본 노태악 출국금지",
+      "keyword": "제네시스 르망 24시간",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "쥬얼리 완전체 무대",
+      "keyword": "조민아와 서인영이 만났다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김승룡 소방청장 면직 처리",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "제네시스 르망 24시간",
-      "state": "n",
+      "keyword": "이란 종전 MOU 서명 예정",
+      "state": "s",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "이란 14일 서명 추진",
+      "rank": 8,
+      "keyword": "멋진 신세계 돌아온다",
       "state": "-",
-      "change": "3"
+      "change": "4"
+    },
+    {
+      "rank": 9,
+      "keyword": "황성빈 5타점 활약",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "김태형 감독과 황성빈의 활약",
+      "keyword": "이용규 음주운전 사과",
       "state": "+",
-      "change": "1"
+      "change": "13"
     }
   ]
 }
