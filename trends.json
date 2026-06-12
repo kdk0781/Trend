@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-12T22:11:43.321Z",
+  "updatedAt": "2026-06-12T23:53:26.496Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "giải bóng đá thế giới 2026",
+      "keyword": "한복",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "주식",
-      "traffic": "10000+"
+      "keyword": "2026 fifa 월드컵 중계",
+      "traffic": "20000+"
     },
     {
       "rank": 3,
-      "keyword": "송혜교",
-      "traffic": "1000+"
+      "keyword": "lg",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "금",
-      "traffic": "2000+"
+      "keyword": "테슬라 모델 y",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "엘니뇨",
+      "keyword": "과천시",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "여론",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "대한민국 소방청장",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "허남준",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "새만금",
+      "keyword": "rklb",
       "traffic": "100+"
     },
     {
+      "rank": 7,
+      "keyword": "가온전선",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "vix",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
+      "keyword": "재건축",
+      "traffic": "200+"
+    },
+    {
       "rank": 10,
-      "keyword": "정의선",
-      "traffic": "500+"
+      "keyword": "kia 타이거즈",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 비즈니스 라운드테이블",
-      "state": "n",
+      "keyword": "멋진 신세계가 돌아왔다",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "멋진 신세계 돌아왔나?",
-      "state": "s",
-      "change": "0"
+      "keyword": "오현규, 고열 결승골 투혼",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "훈련 보는 홍명보",
-      "state": "s",
-      "change": "0"
+      "keyword": "북중미 하이드레이션 브레이크",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "스페이스 X에 500억 투자",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "전현무 배성재 잡겠다고",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "참교육 비판 현실은?",
+      "keyword": "한미반도체, 스페이스X에 500억 투자",
       "state": "-",
       "change": "2"
     },
     {
-      "rank": 7,
-      "keyword": "이란 종전이 가까워졌다",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "오현규, 부모님 식당 별점 폭발",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "이용규 음주 사고",
+      "rank": 5,
+      "keyword": "이용규 음주운전 논란",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "캐나다, 보스니아와 1-1 무승부",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 7,
+      "keyword": "이정후, 타격왕 경쟁 합류",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "참교육 호평과 우려",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 9,
+      "keyword": "신입사원 강회장",
+      "state": "-",
+      "change": "3"
+    },
+    {
       "rank": 10,
-      "keyword": "김혜경 여사 패션쇼 참석",
-      "state": "n",
-      "change": "0"
+      "keyword": "이강인 PSG 이적 협상 완료",
+      "state": "+",
+      "change": "4"
     }
   ]
 }
