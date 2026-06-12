@@ -1,87 +1,87 @@
 {
-  "updatedAt": "2026-06-12T13:51:36.451Z",
+  "updatedAt": "2026-06-12T16:39:38.450Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "조민아",
+      "keyword": "문채원",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "식중독",
-      "traffic": "1000+"
+      "keyword": "주한 미군",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "뉴스",
-      "traffic": "1000+"
+      "keyword": "한진만",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "서울 경전철 강북횡단선",
+      "keyword": "육아",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "lck",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "서울사이버대학교",
+      "keyword": "성동일",
       "traffic": "100+"
     },
     {
+      "rank": 6,
+      "keyword": "한학자",
+      "traffic": "500+"
+    },
+    {
       "rank": 7,
-      "keyword": "천궁",
+      "keyword": "천궁2",
       "traffic": "10000+"
     },
     {
       "rank": 8,
-      "keyword": "투표용지",
-      "traffic": "2000+"
+      "keyword": "고준희",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "병사",
+      "keyword": "바이낸스",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "삼성전자",
-      "traffic": "50000+"
+      "keyword": "박남정",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "월드컵 일정 공개",
-      "state": "s",
+      "keyword": "이재명 대통령 멜로니",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이재명 멜로니 환영식",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 3,
-      "keyword": "김혜경 여사, 세계청년대회 참석",
+      "keyword": "김혜경 여사, 세계청년대회 만남",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "서건창 끝내기 본선",
+      "rank": 3,
+      "keyword": "이란 종전 MOU 서명 예정",
       "state": "+",
-      "change": "4"
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "서건창 끝내기 안타",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "멋진 신세계 매력과 등장 인물들",
-      "state": "+",
-      "change": "12"
+      "keyword": "멋진 신세계 강제 소환",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 6,
@@ -91,27 +91,27 @@
     },
     {
       "rank": 7,
-      "keyword": "투표지 상자 폐기 조사",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "검찰, 징역 구형",
-      "state": "+",
+      "keyword": "합수본 노태악 출국금지",
+      "state": "-",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "감독이 거액 받는 이유",
+      "rank": 8,
+      "keyword": "쥬얼리 20년 만의 완전체 무대",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "김승룡 소방청장 면직",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 10,
-      "keyword": "김남길 고사 논란 죄송해요",
-      "state": "n",
-      "change": "0"
+      "keyword": "제네시스 르망 첫 출전",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
