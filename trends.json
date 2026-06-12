@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-12T10:40:39.331Z",
+  "updatedAt": "2026-06-12T13:51:36.451Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "파업",
-      "traffic": "500+"
+      "keyword": "조민아",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "엘앤에프",
-      "traffic": "200+"
+      "keyword": "식중독",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "홈플러스 익스프레스",
-      "traffic": "100+"
+      "keyword": "뉴스",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "장윤정",
-      "traffic": "200+"
+      "keyword": "서울 경전철 강북횡단선",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "부산 북항야구장",
-      "traffic": "200+"
+      "keyword": "lck",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "세종특별자치시",
-      "traffic": "500+"
+      "keyword": "서울사이버대학교",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "이필립",
-      "traffic": "500+"
+      "keyword": "천궁",
+      "traffic": "10000+"
     },
     {
       "rank": 8,
-      "keyword": "두산 대 kia",
-      "traffic": "10000+"
+      "keyword": "투표용지",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "한화 대 키움",
-      "traffic": "10000+"
+      "keyword": "병사",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "롯데 대 lg",
-      "traffic": "5000+"
+      "keyword": "삼성전자",
+      "traffic": "50000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "경찰 핸드볼 수사",
-      "state": "n",
+      "keyword": "월드컵 일정 공개",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "한화 김경문 감독, 오재원 훈련 확인",
+      "keyword": "이재명 멜로니 환영식",
       "state": "+",
-      "change": "1"
+      "change": "5"
     },
     {
       "rank": 3,
-      "keyword": "이란 MOU 공개",
+      "keyword": "김혜경 여사, 세계청년대회 참석",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
+      "keyword": "서건창 끝내기 본선",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 5,
+      "keyword": "멋진 신세계 매력과 등장 인물들",
+      "state": "+",
+      "change": "12"
+    },
+    {
+      "rank": 6,
       "keyword": "데이비드 호크니 별세",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "이용규 음주사고 사과",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 6,
-      "keyword": "하이닉스 주가 상승",
-      "state": "+",
-      "change": "2"
-    },
-    {
       "rank": 7,
-      "keyword": "이정후 타격감 경이로움",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "호남 내륙 소나기 예보",
+      "keyword": "투표지 상자 폐기 조사",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "오현규, 행복한 선수로 성장한 아버지의 아들",
+      "rank": 8,
+      "keyword": "검찰, 징역 구형",
       "state": "+",
-      "change": "5"
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "감독이 거액 받는 이유",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "59만전자 500만닉스 간다 전망에",
+      "keyword": "김남길 고사 논란 죄송해요",
       "state": "n",
       "change": "0"
     }
