@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-13T19:43:04.577Z",
+  "updatedAt": "2026-06-13T20:54:00.286Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "대한민국",
+      "keyword": "스위스",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "발롱도르",
+      "keyword": "일기예보",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "열차",
-      "traffic": "500+"
+      "keyword": "민중민주당",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "f1",
+      "keyword": "대한민국",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "정채연",
+      "keyword": "카타르 스위스",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "ioi",
-      "traffic": "100+"
+      "keyword": "발롱도르",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "그릴즈",
+      "keyword": "열차",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "초안산",
-      "traffic": "200+"
+      "keyword": "f1",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "기생충",
-      "traffic": "2000+"
+      "keyword": "사랑을 처방해 드립니다",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "불꽃놀이",
-      "traffic": "100+"
+      "keyword": "정채연",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "신입사원 강회장",
+      "keyword": "멋진 신세계, 허남준의 존재감 강력해",
       "state": "+",
-      "change": "26"
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "트럼프 이란과 14일 서명",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "멋진 신세계 주목받는 로코 남주 허남준",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "파키스탄 미·이란 전자서명 합의",
-      "state": "n",
+      "keyword": "트럼프 이란 합의 서명",
+      "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "방탄소년단 13번째 생일",
+      "rank": 3,
+      "keyword": "참교육 실현 가능할까?",
       "state": "+",
+      "change": "9"
+    },
+    {
+      "rank": 4,
+      "keyword": "한국 여자배구, 베트남 완파",
+      "state": "-",
       "change": "1"
     },
     {
+      "rank": 5,
+      "keyword": "권율의 빌런 쇼맨십",
+      "state": "+",
+      "change": "6"
+    },
+    {
       "rank": 6,
-      "keyword": "이재명 대통령, 우피치미술관 방문",
+      "keyword": "이재명 대통령, 우피치 방문",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "박물관 협약 체결",
-      "state": "+",
-      "change": "1"
+      "keyword": "靑 평화 정책 일관 추진",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "여자배구 베트남 꺾고 결승행",
-      "state": "+",
-      "change": "1"
+      "keyword": "박물관 협력 체결",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "권율, 오십프로 빌런 변신 쇼맨십",
-      "state": "-",
-      "change": "2"
+      "keyword": "방탄소년단 13번째 생일",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "참교육 실현?",
-      "state": "-",
-      "change": "4"
+      "keyword": "유현조 밝은 손인사",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
