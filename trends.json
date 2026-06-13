@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-06-13T16:48:52.110Z",
+  "updatedAt": "2026-06-13T17:59:55.973Z",
   "google": [
     {
       "rank": 1,
       "keyword": "발롱도르",
-      "traffic": "100+"
+      "traffic": "200+"
     },
     {
       "rank": 2,
       "keyword": "열차",
-      "traffic": "200+"
+      "traffic": "500+"
     },
     {
       "rank": 3,
@@ -55,63 +55,63 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "서울 퀴어 퍼레이드 행진",
+      "keyword": "파키스탄, 24시간 내 미·이란 합의",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "박해민 20도루 신기록",
+      "keyword": "LG 리오스 160.8KM 구속",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "신입사원 강회장",
+      "keyword": "허남준, 멋진 신세계 존재감 돋보여",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "최불암 입원 중 근황",
-      "state": "+",
-      "change": "2"
+      "keyword": "이경규 건강 문제 없다",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "이란 종전 MOU 긴장 지속",
-      "state": "+",
-      "change": "3"
+      "keyword": "이재명, 우피치 방문",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "북한, 적대 원칙 변함없다",
-      "state": "-",
-      "change": "2"
+      "keyword": "박물관 양해각서 체결",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "종합특검 조사 9시간 종료",
+      "keyword": "윤석열 조사 9시간 종료",
       "state": "-",
       "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "권율의 빌런 쇼맨십",
-      "state": "n",
-      "change": "0"
+      "keyword": "후쿠시마 방류 이틀 만에 중단",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "이경규 건강 이상설 전혀 멀쩡해",
-      "state": "-",
-      "change": "3"
+      "keyword": "로또 1등 11명 각 27억 당첨",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "후쿠시마 방류 이틀 만에 중단",
-      "state": "-",
-      "change": "1"
+      "keyword": "권율의 빌런 쇼맨십",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
