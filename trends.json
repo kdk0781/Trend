@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-06-13T21:57:13.193Z",
+  "updatedAt": "2026-06-13T23:02:01.844Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "xrp 레저",
-      "traffic": "500+"
+      "keyword": "날씨",
+      "traffic": "200000+"
     },
     {
       "rank": 2,
-      "keyword": "집",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "양자 컴퓨터",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "김민석",
+      "keyword": "weather",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
-      "keyword": "여당",
+      "rank": 3,
+      "keyword": "음악회",
       "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "손아섭",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "골프",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "대한민국 청와대",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "스위스 축구",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "스위스",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "일기예보",
+      "keyword": "avc컵 여자 배구 대회",
       "traffic": "500+"
     },
     {
+      "rank": 7,
+      "keyword": "두산에너빌리티",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "김세의",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
+      "keyword": "브라질 대 모로코",
+      "traffic": "10000+"
+    },
+    {
       "rank": 10,
-      "keyword": "민중민주당",
-      "traffic": "200+"
+      "keyword": "복권",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "멋진 신세계 열연, 시청률 1위!",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "트럼프 이란 서명 호르무즈 개방",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "최지호 충주맨 퇴사 몰랐다",
+      "keyword": "멋진 신세계 최고 시청률 11.6%",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 3,
+      "keyword": "트럼프 이란 합의 서명 14일",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "카타르, 스위스와 1-1 무승부",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "평화공존 정책 추진",
+      "keyword": "이재명 대통령 로마 방문",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "이재명 우피치 방문",
+      "keyword": "최지호, 충주맨 퇴사 몰카였다",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "청와대, 평화공존 정책 일관 추진",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "오십프로 빌런 권율의 쇼맨십",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 8,
-      "keyword": "박물관 협력 MOU 체결",
-      "state": "n",
+      "keyword": "권율, 오십프로의 빌런",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "참교육 실현할까요?",
-      "state": "-",
-      "change": "2"
+      "keyword": "박물관 협력 MOU",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "신현준 뺨 많이 맞아",
-      "state": "n",
-      "change": "0"
+      "keyword": "가해자 패주니 속 시원합니까?",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
