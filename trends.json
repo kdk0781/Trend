@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-06-13T02:39:17.216Z",
+  "updatedAt": "2026-06-13T06:40:57.891Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "하이브",
+      "keyword": "밀워키 브루어스",
       "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "김용빈",
-      "traffic": "500+"
+      "keyword": "조성환",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "대한민국 소방 청장",
+      "keyword": "arirang",
       "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "에르메스",
-      "traffic": "200+"
+      "keyword": "최불암",
+      "traffic": "20000+"
     },
     {
       "rank": 5,
-      "keyword": "한혜진",
-      "traffic": "5000+"
+      "keyword": "이정후",
+      "traffic": "10000+"
     },
     {
       "rank": 6,
-      "keyword": "usa vs paraguay",
-      "traffic": "1000+"
+      "keyword": "이한 범",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "재벌",
+      "keyword": "원자력 잠수함",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "에릭 라우어",
-      "traffic": "200+"
+      "keyword": "외국인",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "초음속 여객기",
-      "traffic": "500+"
+      "keyword": "박규영",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "리사",
-      "traffic": "500+"
+      "keyword": "강소라",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "윤석열 반란 혐의 조사",
+      "keyword": "동성애 퀴어축제 반대",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "파우 동연 부친상 슬픔 중단",
-      "state": "s",
-      "change": "0"
+      "keyword": "이정후 연속 안타 18경기 중단",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "정몽규 회장 박수와 선수들",
+      "keyword": "허남준과 임지연, 멋진 신세계!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "합수본 신천지 구속영장",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "오현규 부모 식당 방문 인증",
+      "keyword": "이용규 음주운전 논란",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "정몽규 징계요구 효력 정지",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "방탄소년단, 75분 지연 사과",
-      "state": "-",
-      "change": "2"
+      "keyword": "스페이스X 공모주 배정",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "군체 500만 관객 돌파",
-      "state": "+",
-      "change": "2"
+      "keyword": "민족민주열사 행진하는 참가자들",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이용규 음주운전, 유하나에 영향",
-      "state": "-",
-      "change": "1"
+      "keyword": "시속 168.2㎞ 미저로우스키 구속 신기록",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "용인 세척업 큰불 1단계",
-      "state": "+",
-      "change": "4"
+      "keyword": "최불암 85세, 병실 파하 웃음",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이란 최고지도자 승인",
-      "state": "s",
+      "keyword": "이준석 무인기든 이적행위",
+      "state": "n",
       "change": "0"
     }
   ]
