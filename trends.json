@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-13T17:59:55.973Z",
+  "updatedAt": "2026-06-13T19:43:04.577Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "발롱도르",
+      "keyword": "대한민국",
       "traffic": "200+"
     },
     {
       "rank": 2,
+      "keyword": "발롱도르",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
       "keyword": "열차",
       "traffic": "500+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "f1",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "정채연",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "ioi",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "그릴즈",
       "traffic": "500+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "초안산",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "기생충",
       "traffic": "2000+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "불꽃놀이",
       "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "한국 영화",
-      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "파키스탄, 24시간 내 미·이란 합의",
-      "state": "s",
-      "change": "0"
+      "keyword": "신입사원 강회장",
+      "state": "+",
+      "change": "26"
     },
     {
       "rank": 2,
-      "keyword": "LG 리오스 160.8KM 구속",
-      "state": "n",
-      "change": "0"
+      "keyword": "트럼프 이란과 14일 서명",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "허남준, 멋진 신세계 존재감 돋보여",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "이경규 건강 문제 없다",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "이재명, 우피치 방문",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "박물관 양해각서 체결",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "윤석열 조사 9시간 종료",
+      "keyword": "멋진 신세계 주목받는 로코 남주 허남준",
       "state": "-",
       "change": "2"
     },
     {
+      "rank": 4,
+      "keyword": "파키스탄 미·이란 전자서명 합의",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "방탄소년단 13번째 생일",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "이재명 대통령, 우피치미술관 방문",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "박물관 협약 체결",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "후쿠시마 방류 이틀 만에 중단",
+      "keyword": "여자배구 베트남 꺾고 결승행",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "로또 1등 11명 각 27억 당첨",
-      "state": "+",
-      "change": "1"
+      "keyword": "권율, 오십프로 빌런 변신 쇼맨십",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "권율의 빌런 쇼맨십",
-      "state": "+",
-      "change": "2"
+      "keyword": "참교육 실현?",
+      "state": "-",
+      "change": "4"
     }
   ]
 }
