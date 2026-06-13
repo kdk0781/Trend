@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-12T23:53:26.496Z",
+  "updatedAt": "2026-06-13T02:39:17.216Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "한복",
-      "traffic": "200+"
+      "keyword": "하이브",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "2026 fifa 월드컵 중계",
-      "traffic": "20000+"
+      "keyword": "김용빈",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "lg",
-      "traffic": "200+"
+      "keyword": "대한민국 소방 청장",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "테슬라 모델 y",
+      "keyword": "에르메스",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "과천시",
-      "traffic": "200+"
+      "keyword": "한혜진",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "rklb",
-      "traffic": "100+"
+      "keyword": "usa vs paraguay",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "가온전선",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "vix",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "재건축",
+      "keyword": "재벌",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "에릭 라우어",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "초음속 여객기",
+      "traffic": "500+"
+    },
+    {
       "rank": 10,
-      "keyword": "kia 타이거즈",
-      "traffic": "5000+"
+      "keyword": "리사",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "멋진 신세계가 돌아왔다",
-      "state": "s",
+      "keyword": "윤석열 반란 혐의 조사",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "오현규, 고열 결승골 투혼",
-      "state": "+",
-      "change": "1"
+      "keyword": "파우 동연 부친상 슬픔 중단",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "북중미 하이드레이션 브레이크",
-      "state": "+",
-      "change": "1"
+      "keyword": "정몽규 회장 박수와 선수들",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "한미반도체, 스페이스X에 500억 투자",
-      "state": "-",
+      "keyword": "합수본 신천지 구속영장",
+      "state": "+",
       "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "이용규 음주운전 논란",
+      "keyword": "오현규 부모 식당 방문 인증",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "캐나다, 보스니아와 1-1 무승부",
+      "keyword": "방탄소년단, 75분 지연 사과",
       "state": "-",
-      "change": "3"
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "이정후, 타격왕 경쟁 합류",
+      "keyword": "군체 500만 관객 돌파",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "참교육 호평과 우려",
-      "state": "+",
-      "change": "4"
+      "keyword": "이용규 음주운전, 유하나에 영향",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "신입사원 강회장",
-      "state": "-",
-      "change": "3"
+      "keyword": "용인 세척업 큰불 1단계",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 10,
-      "keyword": "이강인 PSG 이적 협상 완료",
-      "state": "+",
-      "change": "4"
+      "keyword": "이란 최고지도자 승인",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
