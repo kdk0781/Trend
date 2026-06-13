@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-13T15:12:09.379Z",
+  "updatedAt": "2026-06-13T16:48:52.110Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "불꽃놀이",
+      "keyword": "발롱도르",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "한국 영화",
-      "traffic": "500+"
+      "keyword": "열차",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "르망24",
-      "traffic": "2000+"
+      "keyword": "f1",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "wec",
+      "keyword": "정채연",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "afg vs ind",
-      "traffic": "200+"
+      "keyword": "ioi",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "이안",
-      "traffic": "100+"
+      "keyword": "그릴즈",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "김용임",
-      "traffic": "100+"
+      "keyword": "초안산",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "홀란드",
-      "traffic": "100+"
+      "keyword": "기생충",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "강회장",
-      "traffic": "1000+"
+      "keyword": "불꽃놀이",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "최저임금위원회",
-      "traffic": "200+"
+      "keyword": "한국 영화",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "대전교도소 실탄 100발 분실",
-      "state": "n",
+      "keyword": "서울 퀴어 퍼레이드 행진",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "파키스탄 총리 미·이란 합의 준비",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "신입사원 강회장",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "멋진 신세계, 시청률 1위로 감동을 주다",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "수영·정경호 결별 징후 있었다",
+      "keyword": "박해민 20도루 신기록",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "신입사원 강회장",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "최불암 입원 중 근황",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "이란 종전 MOU 긴장 지속",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 6,
-      "keyword": "로또 당첨지역",
-      "state": "s",
-      "change": "0"
+      "keyword": "북한, 적대 원칙 변함없다",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "그것이 알고 싶다",
-      "state": "s",
-      "change": "0"
+      "keyword": "종합특검 조사 9시간 종료",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "BTS 아리랑 인 부산",
+      "keyword": "권율의 빌런 쇼맨십",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이준석 달러든 이적행위",
-      "state": "n",
-      "change": "0"
+      "keyword": "이경규 건강 이상설 전혀 멀쩡해",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "곽혈수, 택시기사 7년 구형",
-      "state": "n",
-      "change": "0"
+      "keyword": "후쿠시마 방류 이틀 만에 중단",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
