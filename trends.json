@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-13T20:54:00.286Z",
+  "updatedAt": "2026-06-13T21:57:13.193Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "스위스",
-      "traffic": "200+"
+      "keyword": "xrp 레저",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "일기예보",
+      "keyword": "집",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "민중민주당",
-      "traffic": "100+"
+      "keyword": "양자 컴퓨터",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "대한민국",
-      "traffic": "500+"
+      "keyword": "김민석",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "카타르 스위스",
-      "traffic": "200+"
+      "keyword": "여당",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "발롱도르",
-      "traffic": "200+"
+      "keyword": "대한민국 청와대",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "열차",
-      "traffic": "500+"
+      "keyword": "스위스 축구",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "f1",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "사랑을 처방해 드립니다",
+      "keyword": "스위스",
       "traffic": "200+"
     },
     {
+      "rank": 9,
+      "keyword": "일기예보",
+      "traffic": "500+"
+    },
+    {
       "rank": 10,
-      "keyword": "정채연",
+      "keyword": "민중민주당",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "멋진 신세계, 허남준의 존재감 강력해",
-      "state": "+",
-      "change": "1"
+      "keyword": "신입사원 강회장",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "트럼프 이란 합의 서명",
+      "keyword": "멋진 신세계 열연, 시청률 1위!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "참교육 실현 가능할까?",
-      "state": "+",
-      "change": "9"
-    },
-    {
-      "rank": 4,
-      "keyword": "한국 여자배구, 베트남 완파",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "권율의 빌런 쇼맨십",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 6,
-      "keyword": "이재명 대통령, 우피치 방문",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "靑 평화 정책 일관 추진",
+      "keyword": "트럼프 이란 서명 호르무즈 개방",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "최지호 충주맨 퇴사 몰랐다",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "평화공존 정책 추진",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "이재명 우피치 방문",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "오십프로 빌런 권율의 쇼맨십",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "박물관 협력 체결",
+      "keyword": "박물관 협력 MOU 체결",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "방탄소년단 13번째 생일",
-      "state": "n",
-      "change": "0"
+      "keyword": "참교육 실현할까요?",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "유현조 밝은 손인사",
+      "keyword": "신현준 뺨 많이 맞아",
       "state": "n",
       "change": "0"
     }
