@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-13T06:40:57.891Z",
+  "updatedAt": "2026-06-13T09:46:48.480Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "밀워키 브루어스",
-      "traffic": "1000+"
+      "keyword": "황대인",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "조성환",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "arirang",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "최불암",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "이정후",
+      "keyword": "이준석",
       "traffic": "10000+"
     },
     {
-      "rank": 6,
-      "keyword": "이한 범",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "원자력 잠수함",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "외국인",
+      "rank": 3,
+      "keyword": "기상",
       "traffic": "2000+"
     },
     {
-      "rank": 9,
-      "keyword": "박규영",
+      "rank": 4,
+      "keyword": "롯데그룹",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "무명전설",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "삼성전기",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "강재준",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "매매",
       "traffic": "200+"
     },
     {
+      "rank": 9,
+      "keyword": "india vs afghanistan",
+      "traffic": "500+"
+    },
+    {
       "rank": 10,
-      "keyword": "강소라",
-      "traffic": "200+"
+      "keyword": "장승조",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "동성애 퀴어축제 반대",
-      "state": "n",
+      "keyword": "서울 퀴어 퍼레이드 행진",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이정후 연속 안타 18경기 중단",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "허남준과 임지연, 멋진 신세계!",
+      "keyword": "박해민 13년 연속 20도루 달성",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "허남준과 임지연의 멋진 신세계",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 4,
-      "keyword": "이용규 음주운전 논란",
-      "state": "s",
+      "keyword": "최불암 입원 중 웃음",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "정몽규 징계요구 효력 정지",
-      "state": "n",
-      "change": "0"
+      "keyword": "대전교도소 실탄 100발 분실",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "스페이스X 공모주 배정",
-      "state": "n",
-      "change": "0"
+      "keyword": "등장한 무지개 깃발",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "민족민주열사 행진하는 참가자들",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "시속 168.2㎞ 미저로우스키 구속 신기록",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "최불암 85세, 병실 파하 웃음",
+      "keyword": "잉글랜드 훈련 장비 도난",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "경찰 민중민주당 구속영장",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "이용규 이탈 장영석 1군 합류",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 10,
-      "keyword": "이준석 무인기든 이적행위",
+      "keyword": "JTBC 채무불이행 신용등급",
       "state": "n",
       "change": "0"
     }
