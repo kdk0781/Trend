@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-13T09:46:48.480Z",
+  "updatedAt": "2026-06-13T11:32:52.822Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "황대인",
-      "traffic": "100+"
+      "keyword": "승무원",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "이준석",
-      "traffic": "10000+"
+      "keyword": "장도연",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "기상",
-      "traffic": "2000+"
+      "keyword": "리오스",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "롯데그룹",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "무명전설",
+      "keyword": "파산",
       "traffic": "500+"
     },
     {
+      "rank": 5,
+      "keyword": "기성용",
+      "traffic": "1000+"
+    },
+    {
       "rank": 6,
-      "keyword": "삼성전기",
+      "keyword": "이란 종전",
       "traffic": "10000+"
     },
     {
       "rank": 7,
-      "keyword": "강재준",
-      "traffic": "1000+"
+      "keyword": "이윤석",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "매매",
-      "traffic": "200+"
+      "keyword": "박계범",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "india vs afghanistan",
+      "keyword": "선약국 화상연고",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "장승조",
-      "traffic": "500+"
+      "keyword": "아이온2 쇼케이스",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "서울 퀴어 퍼레이드 행진",
-      "state": "s",
-      "change": "0"
+      "keyword": "이윤석 큰 언덕 되겠다 약속",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "박해민 13년 연속 20도루 달성",
-      "state": "s",
+      "keyword": "북한, 적대 원칙 변함 없어",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "허남준과 임지연의 멋진 신세계",
-      "state": "+",
+      "keyword": "만취 이용규 포르쉐 사고 현장",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "최불암 입원 중 웃음",
-      "state": "n",
-      "change": "0"
+      "keyword": "LG 리오스 2이닝 완벽투",
+      "state": "+",
+      "change": "8"
     },
     {
       "rank": 5,
-      "keyword": "대전교도소 실탄 100발 분실",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "등장한 무지개 깃발",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "잉글랜드 훈련 장비 도난",
+      "keyword": "이경규, 건강 이상 없다",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "경찰 민중민주당 구속영장",
-      "state": "+",
+      "rank": 6,
+      "keyword": "윤석열 종합특검 조사 종료",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "멋진 신세계 시청률 1위 달성",
+      "state": "-",
       "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "장유빈 KPGA 클래식 선두 확보",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 9,
-      "keyword": "이용규 이탈 장영석 1군 합류",
-      "state": "+",
-      "change": "1"
+      "keyword": "신입사원 강회장",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "JTBC 채무불이행 신용등급",
-      "state": "n",
-      "change": "0"
+      "keyword": "하이드레이션 브레이크 시행",
+      "state": "+",
+      "change": "4"
     }
   ]
 }
