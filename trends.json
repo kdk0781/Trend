@@ -1,69 +1,69 @@
 {
-  "updatedAt": "2026-06-14T16:49:17.398Z",
+  "updatedAt": "2026-06-14T18:03:25.166Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "germany vs curaçao",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
+      "keyword": "곽혈수",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "쿠쿠렐라",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
       "keyword": "이준영",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 5,
       "keyword": "태연",
-      "traffic": "200+"
+      "traffic": "500+"
     },
     {
-      "rank": 3,
-      "keyword": "페라리",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
+      "rank": 6,
       "keyword": "주유소",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "루이스 해밀턴",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "박인희",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "현대로템",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "미군",
       "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "손태영",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "jtbc 실시간",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 대통령 특별미사",
-      "state": "s",
-      "change": "0"
+      "keyword": "김민솔 한국여자오픈 우승",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "김민솔 한국여자오픈 우승",
-      "state": "s",
-      "change": "0"
+      "keyword": "美-이란 종전 임박",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
@@ -73,45 +73,45 @@
     },
     {
       "rank": 4,
-      "keyword": "주연·단역 열애설",
-      "state": "s",
+      "keyword": "이재명, 화상 회의 주재",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이스라엘 베이루트 공습",
-      "state": "+",
-      "change": "1"
+      "keyword": "퀴라소, 독일과 극적 동점골!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "사랑을 처방해 드립니다",
+      "keyword": "신입사원 강회장",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "李대통령 음모론 반사회적 행태",
-      "state": "+",
-      "change": "1"
+      "keyword": "강예원 부친 빚 눈물",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "강예원 부친 빚 눈물",
-      "state": "-",
-      "change": "4"
+      "keyword": "여자배구 대만 격파 우승",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "여자배구 대만 꺾고 우승",
+      "keyword": "한채아 9세 딸, 차범근 닮아",
       "state": "+",
-      "change": "16"
+      "change": "11"
     },
     {
       "rank": 10,
-      "keyword": "신입사원 강회장",
+      "keyword": "열애설에 찬물 끼얹은 신세계",
       "state": "-",
-      "change": "3"
+      "change": "4"
     }
   ]
 }
