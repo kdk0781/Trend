@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-14T18:03:25.166Z",
+  "updatedAt": "2026-06-14T19:52:57.268Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "germany vs curaçao",
+      "keyword": "ufc",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "곽혈수",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "쿠쿠렐라",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "이준영",
+      "keyword": "2026",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "世界杯",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "世界杯直播",
+      "traffic": "100+"
+    },
+    {
       "rank": 5,
-      "keyword": "태연",
+      "keyword": "germany vs curaçao",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "주유소",
+      "keyword": "curacao",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "루이스 해밀턴",
-      "traffic": "200+"
+      "keyword": "곽혈수",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "박인희",
-      "traffic": "200+"
+      "keyword": "쿠쿠렐라",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "현대로템",
-      "traffic": "200+"
+      "keyword": "축구 감독",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "미군",
-      "traffic": "500+"
+      "keyword": "이준영",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민솔 한국여자오픈 우승",
+      "keyword": "독일, 퀴라소 7-1 완파",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "美-이란 종전 임박",
-      "state": "+",
-      "change": "2"
+      "keyword": "이재명, 유럽 화상회의 주재",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "샤이니 키, 6개월 만에 SNS 재개",
+      "keyword": "김민솔 메이저 대회 우승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이재명, 화상 회의 주재",
-      "state": "n",
-      "change": "0"
+      "keyword": "신입사원 강회장",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "퀴라소, 독일과 극적 동점골!",
-      "state": "n",
-      "change": "0"
+      "keyword": "강예원 부친 빚 11억",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 6,
-      "keyword": "신입사원 강회장",
+      "keyword": "美 이란 종전 협상",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "잘 나가던 신세계 열애설",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "사랑을 처방해 드립니다",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "강예원 부친 빚 눈물",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "여자배구 대만 격파 우승",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 9,
-      "keyword": "한채아 9세 딸, 차범근 닮아",
-      "state": "+",
-      "change": "11"
+      "keyword": "차세찌♥ 한채아 9세 딸, 차범근 DNA",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "열애설에 찬물 끼얹은 신세계",
-      "state": "-",
-      "change": "4"
+      "keyword": "샤이니 키 SNS 재개 감사",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
