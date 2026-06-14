@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-14T05:11:19.877Z",
+  "updatedAt": "2026-06-14T08:50:38.078Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "튀르키예",
+      "keyword": "최화정",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "앤 트로픽",
-      "traffic": "2000+"
+      "keyword": "양희은",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "목성",
+      "keyword": "원종현",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "호주",
+      "keyword": "대전 날씨",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "합계출산율",
-      "traffic": "200+"
+      "keyword": "아스널 fc",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "울리세스 페르난도 베르날 미라몬테스",
-      "traffic": "100+"
+      "keyword": "tsmc",
+      "traffic": "10000+"
     },
     {
       "rank": 7,
-      "keyword": "멕시코 대 한국",
-      "traffic": "100+"
+      "keyword": "하정우",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "허남준",
+      "keyword": "예금",
       "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "제일런 브런슨",
-      "traffic": "10000+"
+      "keyword": "재건축",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "호주 대 터키",
-      "traffic": "1000+"
+      "keyword": "t1 젠지",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "국민성장펀드 운용사 간담회",
-      "state": "+",
-      "change": "3"
+      "keyword": "이재명 특별미사 참석",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "멋진 신세계 최고 시청률 경신",
-      "state": "+",
-      "change": "1"
+      "keyword": "멋진 신세계 시청률 상승",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "스코틀랜드, 아이티 1-0 승리",
-      "state": "-",
-      "change": "1"
+      "keyword": "원성준 1타점 적시타",
+      "state": "+",
+      "change": "7"
     },
     {
       "rank": 4,
-      "keyword": "제시카 헛구역질 해명",
-      "state": "+",
-      "change": "1"
+      "keyword": "서울 강한 소나기, 호우 발령",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "피파 팬 축제 붐비다",
-      "state": "+",
-      "change": "1"
+      "keyword": "이주민 체류권 보장 촉구",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "튀르키예, 사커루 상대로 승점 3점 가능할까",
+      "keyword": "키움, 한화 스윕승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "빚투 신용대출 1.6조 증가",
-      "state": "n",
-      "change": "0"
+      "keyword": "정의선 회장 제네시스",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "트럼프 이란 서명 예정",
-      "state": "n",
-      "change": "0"
+      "keyword": "주식 팔아 강남 집 샀다",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "예능 코치 송치",
+      "keyword": "혜리, 노출사고 막은 프로 모습",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "황신혜 유튜브 해킹 중",
+      "keyword": "호주, 튀르키예 2-0 승리",
       "state": "n",
       "change": "0"
     }
