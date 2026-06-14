@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-14T15:18:28.700Z",
+  "updatedAt": "2026-06-14T16:49:17.398Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "미군",
+      "keyword": "이준영",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "손태영",
-      "traffic": "100+"
+      "keyword": "태연",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "jtbc 실시간",
-      "traffic": "100+"
+      "keyword": "페라리",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "f1",
-      "traffic": "2000+"
+      "keyword": "주유소",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "강회장",
+      "keyword": "루이스 해밀턴",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "혜리",
-      "traffic": "1000+"
+      "keyword": "박인희",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "한채아",
+      "keyword": "현대로템",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "테일러 프리츠",
-      "traffic": "200+"
+      "keyword": "미군",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "강예원",
-      "traffic": "2000+"
+      "keyword": "손태영",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "최용수",
-      "traffic": "1000+"
+      "keyword": "jtbc 실시간",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "강예원 부채 변제",
+      "keyword": "이재명 대통령 특별미사",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김민솔 메이저 우승",
-      "state": "n",
+      "keyword": "김민솔 한국여자오픈 우승",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이재명 유럽수행 회의 주재",
+      "keyword": "샤이니 키, 6개월 만에 SNS 재개",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "신입사원 강회장",
+      "keyword": "주연·단역 열애설",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "이스라엘 베이루트 공습",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "정은경 탈모 건보 확대 추진",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 6,
-      "keyword": "열애설 찬물 멋진 신세계",
-      "state": "+",
-      "change": "2"
+      "keyword": "사랑을 처방해 드립니다",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "스페이스X 0주 투자자 분통",
-      "state": "n",
-      "change": "0"
+      "keyword": "李대통령 음모론 반사회적 행태",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "주사이모 논란 후 샤이니 키 복귀",
-      "state": "n",
-      "change": "0"
+      "keyword": "강예원 부친 빚 눈물",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 9,
-      "keyword": "임찬규 7승 LG, 롯데 꼴찌",
+      "keyword": "여자배구 대만 꺾고 우승",
       "state": "+",
-      "change": "6"
+      "change": "16"
     },
     {
       "rank": 10,
-      "keyword": "이미영 실리콘 입술 시술 문제",
-      "state": "n",
-      "change": "0"
+      "keyword": "신입사원 강회장",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
