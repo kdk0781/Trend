@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-13T23:02:01.844Z",
+  "updatedAt": "2026-06-14T00:18:07.856Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "날씨",
-      "traffic": "200000+"
+      "keyword": "택시",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "weather",
-      "traffic": "1000+"
+      "keyword": "송성문",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "음악회",
-      "traffic": "100+"
+      "keyword": "brasil vs maroko",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "손아섭",
-      "traffic": "200+"
+      "keyword": "구기동 프렌즈",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "골프",
-      "traffic": "200+"
+      "keyword": "네덜란드 축구 국가 대표팀",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "avc컵 여자 배구 대회",
+      "keyword": "오타니 쇼헤이",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "두산에너빌리티",
-      "traffic": "5000+"
+      "keyword": "항공",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "김세의",
-      "traffic": "500+"
+      "keyword": "아유브 부아디",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "브라질 대 모로코",
-      "traffic": "10000+"
+      "keyword": "케이티 페리",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "복권",
-      "traffic": "5000+"
+      "keyword": "김민재",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "신입사원 강회장",
+      "keyword": "멋진 신세계 최고 시청률 기록",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "멋진 신세계 최고 시청률 11.6%",
-      "state": "+",
-      "change": "1"
+      "keyword": "신입사원 강회장",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "트럼프 이란 합의 서명 14일",
-      "state": "-",
-      "change": "1"
+      "keyword": "카타르 스위스 1-1 무승부",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "카타르, 스위스와 1-1 무승부",
-      "state": "s",
-      "change": "0"
+      "keyword": "트럼프 이란 14일 서명",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "이재명 대통령 로마 방문",
-      "state": "n",
-      "change": "0"
+      "keyword": "모로코 선제골",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "최지호, 충주맨 퇴사 몰카였다",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "청와대, 평화공존 정책 일관 추진",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "권율, 오십프로의 빌런",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "박물관 협력 MOU",
+      "keyword": "앞트임 강예원 7번",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "권율, 오십프로 악역 쇼맨십",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "이재명 부부, 우피치 방문",
+      "state": "-",
+      "change": "4"
+    },
+    {
+      "rank": 9,
+      "keyword": "스위스 PK 오프사이드 논란",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 10,
-      "keyword": "가해자 패주니 속 시원합니까?",
-      "state": "+",
-      "change": "1"
+      "keyword": "손흥민 들어보이는 어린이",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
