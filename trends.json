@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-14T08:50:38.078Z",
+  "updatedAt": "2026-06-14T11:25:21.056Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "최화정",
+      "keyword": "에너지",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "양희은",
-      "traffic": "500+"
+      "keyword": "김준호",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "원종현",
+      "keyword": "캐시워크 정답",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "대전 날씨",
-      "traffic": "200+"
+      "keyword": "무신사",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "아스널 fc",
-      "traffic": "100+"
+      "keyword": "딕 아드보카트",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "tsmc",
-      "traffic": "10000+"
+      "keyword": "데이비드 베컴",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "하정우",
-      "traffic": "2000+"
+      "keyword": "코인니스 - 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "예금",
-      "traffic": "2000+"
+      "keyword": "투기",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "재건축",
-      "traffic": "2000+"
+      "keyword": "사나",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "t1 젠지",
+      "keyword": "2028",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 특별미사 참석",
+      "keyword": "이재명 대통령 특별미사",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "멋진 신세계 시청률 상승",
-      "state": "s",
+      "keyword": "신입사원 강회장",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "원성준 1타점 적시타",
-      "state": "+",
-      "change": "7"
+      "keyword": "김민솔 한국여자오픈 첫 우승",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "서울 강한 소나기, 호우 발령",
-      "state": "n",
+      "keyword": "멋진 신세계, 열애설 논란",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이주민 체류권 보장 촉구",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "키움, 한화 스윕승",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "정의선 회장 제네시스",
+      "keyword": "이기택 멤버 감동 순간",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "롯데 비슬리 힘차게 던진다",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "스페이스X 공모주 0 어디?",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "주식 팔아 강남 집 샀다",
+      "keyword": "참교육 통한 가슴축소",
       "state": "+",
-      "change": "3"
+      "change": "7"
     },
     {
       "rank": 9,
-      "keyword": "혜리, 노출사고 막은 프로 모습",
+      "keyword": "디아즈, 역전 만루홈런!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "호주, 튀르키예 2-0 승리",
+      "keyword": "주말 잠실 개표소",
       "state": "n",
       "change": "0"
     }
