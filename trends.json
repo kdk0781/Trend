@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-15T13:35:47.917Z",
+  "updatedAt": "2026-06-15T18:13:03.690Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "조현아",
-      "traffic": "1000+"
+      "keyword": "spain vs cabo verde",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "삼성 갤럭시 s26",
-      "traffic": "200+"
+      "keyword": "아모림",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "이찬원",
-      "traffic": "200+"
+      "keyword": "건설업",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "교도소",
-      "traffic": "2000+"
+      "keyword": "리플",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "창원시",
+      "keyword": "서유석",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "삼성",
-      "traffic": "20000+"
+      "keyword": "울산바위",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "케이씨텍",
-      "traffic": "100+"
+      "keyword": "삼성 갤럭시s26",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "부산터널",
+      "keyword": "초등교사",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "서울우유",
-      "traffic": "200+"
+      "keyword": "장교",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "한동희",
-      "traffic": "1000+"
+      "keyword": "조현아",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "종전 합의 미완",
-      "state": "n",
+      "keyword": "이재명, 레오 14세 교황 면담",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "월드컵 일정",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "이재명, 레오 14세 교황 면담",
+      "keyword": "카보 베르데 공화국",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 3,
+      "keyword": "미·이란 종전 합의 환영",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 4,
-      "keyword": "인천 성인 시신 추정",
-      "state": "n",
+      "keyword": "김명수 구속영장 기각",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "비상계엄 경찰 해임 강등",
-      "state": "n",
+      "keyword": "고우림 ♥김연아, 감기 잘 안 걸려",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "국힘, 6곳 재선거 소청 의결",
-      "state": "n",
-      "change": "0"
+      "keyword": "튀니지 감독 경질",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "신입사원 강회장",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 8,
-      "keyword": "빠니보틀의 돈 냄새 저격",
+      "keyword": "경찰 2명 해임·4명 강등",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "티파니 변요한 신혼 일상",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 9,
-      "keyword": "고우림 김연아, 감기도 안 걸려",
-      "state": "-",
-      "change": "4"
+      "keyword": "김우빈 신민아",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "충주 폐리조트서 대학생 4명 발견",
+      "keyword": "박세리 현역 100억",
       "state": "n",
       "change": "0"
     }
