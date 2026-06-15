@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-14T23:39:44.368Z",
+  "updatedAt": "2026-06-15T02:03:28.123Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "장근석",
-      "traffic": "1000+"
+      "keyword": "풍력 발전",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "코트디부아르 축구",
-      "traffic": "100+"
+      "keyword": "콘텐트리중앙",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "wti",
+      "keyword": "현대건설 주가",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "인베스팅닷컴",
-      "traffic": "100+"
+      "keyword": "금광",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "belanda vs jepang",
+      "keyword": "무인소방로봇",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "얼티밋 파이팅 챔피언십",
+      "keyword": "법제처",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "코트디부아르 대 에콰도르",
-      "traffic": "2000+"
+      "keyword": "동전주",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "시청률",
-      "traffic": "2000+"
+      "keyword": "박계범",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "레바논",
-      "traffic": "500+"
+      "keyword": "tiger 미국우주테크",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "주결경",
-      "traffic": "100+"
+      "keyword": "한미반도체 주가",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "한국-독일 퀴라소 대패",
-      "state": "s",
-      "change": "0"
+      "keyword": "발언하는 정청래 대표",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "강예원, 직원들 월급 지급하며 오열",
-      "state": "s",
-      "change": "0"
+      "keyword": "코스피 매수 사이드카 발동",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "트럼프 이란 협상 타결",
-      "state": "+",
+      "keyword": "홍주 간호 백승일 10KG 감량",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "일본, 네덜란드 2-2 무승부",
-      "state": "+",
-      "change": "1"
+      "keyword": "2주년 오동운 공수처장",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "신입사원 강회장",
-      "state": "+",
-      "change": "1"
+      "keyword": "제3차 국토공간 대전환 회의",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
       "keyword": "이준영 7월 21일 입대",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "열애설로 멋진 신세계 위기",
-      "state": "+",
-      "change": "1"
+      "keyword": "기아 카니발 하이루프 출시",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "멕시코전 구상하는 홍명보",
+      "keyword": "코트디부아르 1-0 승리!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "사랑을 처방해 드립니다",
-      "state": "s",
-      "change": "0"
+      "keyword": "강예원, 부친상 후 11억 빚안고 눈물의 월급봉투",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "이소라, 홍진경 위로 연주",
-      "state": "n",
-      "change": "0"
+      "keyword": "제네시스 르망 24시간 완주 성공",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
