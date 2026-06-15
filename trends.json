@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-15T18:13:03.690Z",
+  "updatedAt": "2026-06-15T21:23:33.711Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "spain vs cabo verde",
-      "traffic": "500+"
+      "keyword": "국민의힘",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "아모림",
-      "traffic": "100+"
+      "keyword": "코트 디부 아르 축구 국가 대표팀",
+      "traffic": "10000+"
     },
     {
       "rank": 3,
-      "keyword": "건설업",
+      "keyword": "한화오션",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "리플",
-      "traffic": "500+"
+      "keyword": "마이크론 주가",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "서유석",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "울산바위",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "삼성 갤럭시s26",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "초등교사",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "장교",
+      "keyword": "구글 번역기",
       "traffic": "500+"
     },
     {
+      "rank": 6,
+      "keyword": "성시경",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "맨체스터 유나이티드 fc",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "아파트",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "belgium vs egypt",
+      "traffic": "200+"
+    },
+    {
       "rank": 10,
-      "keyword": "조현아",
-      "traffic": "5000+"
+      "keyword": "곽튜브",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명, 레오 14세 교황 면담",
+      "keyword": "월드컵 일정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
       "keyword": "카보 베르데 공화국",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "미·이란 종전 합의 환영",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
       "keyword": "김명수 구속영장 기각",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "고우림 ♥김연아, 감기 잘 안 걸려",
+      "rank": 4,
+      "keyword": "훈련하는 축구 대표팀",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "미·이란 종전 환영",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 6,
-      "keyword": "튀니지 감독 경질",
-      "state": "+",
-      "change": "2"
+      "keyword": "티파니 결혼 계획 없는데 변요한",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "경찰 2명 해임·4명 강등",
-      "state": "n",
-      "change": "0"
+      "keyword": "이용식 손녀 돌잔치 눈물",
+      "state": "+",
+      "change": "10"
     },
     {
       "rank": 8,
-      "keyword": "티파니 변요한 신혼 일상",
-      "state": "+",
-      "change": "2"
+      "keyword": "참교육 감독 해석, 학폭 피해자의 교문 바라보기",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김우빈 신민아",
+      "keyword": "신입사원 강회장",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "박세리 현역 100억",
-      "state": "n",
-      "change": "0"
+      "keyword": "닥터 섬보이",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
