@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-15T07:32:26.459Z",
+  "updatedAt": "2026-06-15T13:35:47.917Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "텅스텐",
+      "keyword": "조현아",
       "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "후성",
+      "keyword": "삼성 갤럭시 s26",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "구속",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "이윤지",
+      "keyword": "이찬원",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "교도소",
+      "traffic": "2000+"
+    },
+    {
       "rank": 5,
-      "keyword": "나캠든",
-      "traffic": "100+"
+      "keyword": "창원시",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "남양주시",
-      "traffic": "500+"
+      "keyword": "삼성",
+      "traffic": "20000+"
     },
     {
       "rank": 7,
-      "keyword": "디지털 자산",
+      "keyword": "케이씨텍",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "국립보건연구원",
-      "traffic": "500+"
+      "keyword": "부산터널",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "문동주",
+      "keyword": "서울우유",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "mrbeast",
-      "traffic": "500+"
+      "keyword": "한동희",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "월드컵 일정",
-      "state": "s",
+      "keyword": "종전 합의 미완",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "최태원 재산분할 조정 출석",
-      "state": "s",
-      "change": "0"
+      "keyword": "월드컵 일정",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "박지현 내일도 출근!",
-      "state": "s",
-      "change": "0"
+      "keyword": "이재명, 레오 14세 교황 면담",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "답하는 유승민 대한체육회장",
+      "keyword": "인천 성인 시신 추정",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김민석 총리 임명장 수여",
-      "state": "-",
-      "change": "1"
+      "keyword": "비상계엄 경찰 해임 강등",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "구윤철 부총리 접견한 조정식 의장",
+      "keyword": "국힘, 6곳 재선거 소청 의결",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "홍정도 부회장 기자회견",
+      "keyword": "신입사원 강회장",
+      "state": "-",
+      "change": "4"
+    },
+    {
+      "rank": 8,
+      "keyword": "빠니보틀의 돈 냄새 저격",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "개혁신당, 재선거 소청장 제출",
-      "state": "-",
-      "change": "2"
-    },
-    {
       "rank": 9,
-      "keyword": "입짧은햇님 애견카페 사장 됐다",
-      "state": "s",
-      "change": "0"
+      "keyword": "고우림 김연아, 감기도 안 걸려",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 10,
-      "keyword": "제1연평해전 승전 27주년",
-      "state": "-",
-      "change": "3"
+      "keyword": "충주 폐리조트서 대학생 4명 발견",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
