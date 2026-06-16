@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-16T12:20:43.320Z",
+  "updatedAt": "2026-06-16T17:28:38.887Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "걸 그룹",
-      "traffic": "200+"
+      "keyword": "인천재활용센터",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "地震",
+      "keyword": "화사",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "펍지",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "소희",
+      "keyword": "문희준",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "일베",
+      "traffic": "500+"
+    },
+    {
       "rank": 5,
-      "keyword": "일본은행",
-      "traffic": "10000+"
+      "keyword": "고준희",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "국제선",
-      "traffic": "100+"
+      "keyword": "프랑스 세네갈",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "일본 지진",
+      "keyword": "알렉산더 즈베레프",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "연금",
-      "traffic": "10000+"
+      "keyword": "타블로",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "철도",
+      "keyword": "xrp",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "손태진",
-      "traffic": "500+"
+      "keyword": "g7",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "월드컵 일정",
-      "state": "s",
+      "keyword": "이재명, G7 회의 참석",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "도착한 이재명 대통령",
+      "keyword": "롯데 김태형 감독 이야기",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "롯데 김진욱, 승리의 각오",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 4,
-      "keyword": "김선태, 퇴사 후 친정 복귀",
+      "keyword": "김선태, 유튜브 복귀",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "김도영과 오스틴 홈런 경쟁",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 5,
-      "keyword": "첫 번째 남자",
-      "state": "s",
+      "keyword": "잠실 개표소 폭행 사건",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김민석 송영길 호남행",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "전민재 역전 만루홈런!",
-      "state": "+",
+      "keyword": "하트 시그널 5",
+      "state": "-",
       "change": "3"
     },
     {
-      "rank": 8,
-      "keyword": "경찰, 시위자 폭행 출석 요구",
-      "state": "n",
+      "rank": 7,
+      "keyword": "진영승 합참의장 국군화생방방호사령부",
+      "state": "s",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "신입사원 강회장",
+      "rank": 8,
+      "keyword": "트럼프 이란, 핵무기 재앙",
       "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "법무부 정유미 항소",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "김정관 UAE 방문",
-      "state": "n",
-      "change": "0"
+      "keyword": "이호준 100승 축하",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
