@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-16T01:47:37.974Z",
+  "updatedAt": "2026-06-16T07:08:49.622Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "프로토",
-      "traffic": "100+"
+      "keyword": "엔진",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "대우건설 주가",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "b52",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "잡월드",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "이미주",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "권은빈",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "이란 대 뉴질랜드",
+      "keyword": "대한 광통신",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
-      "keyword": "태양",
-      "traffic": "500+"
+      "rank": 3,
+      "keyword": "tiger 미국 우주 테크 스페이스 x 편입",
+      "traffic": "2000+"
     },
     {
-      "rank": 9,
-      "keyword": "토날리",
+      "rank": 4,
+      "keyword": "lig 디펜스&에어로스페이스",
       "traffic": "200+"
     },
     {
+      "rank": 5,
+      "keyword": "부천아트센터",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "sk이터닉스",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "화재",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "보스턴 다이내믹스",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "엘지트윈스",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "노원구",
-      "traffic": "500+"
+      "keyword": "삼성 갤럭시 z 폴드 6",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "CLC 권은빈, 은퇴 후 일반인으로 살기로",
+      "keyword": "장동혁 개표소 발언",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 2,
+      "keyword": "월드컵 일정",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "모두의 창업 1기 출범",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "김재중 작두 굿 1000만원",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "오리온, 자사주 전량 소각",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "선관위 국정조사 18일 처리",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 2,
-      "keyword": "정청래 민주당 대표",
+      "rank": 7,
+      "keyword": "신입사원 강회장",
       "state": "+",
       "change": "3"
     },
     {
-      "rank": 3,
-      "keyword": "김준형 혁신당 원내대표",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "코스피 8700선 복귀",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "사우디, 우루과이 1-1 무승부",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "출석하는 박상용 검사",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "김가람, 배우로 전속계약 체결",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 8,
-      "keyword": "서해 피격 서훈 무죄",
-      "state": "n",
+      "keyword": "폭염 대비 점검",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "밀양 성폭행 신상 조회 직원 송치",
-      "state": "n",
+      "keyword": "진기주 참교육 논란",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이미주와 이수근 인연 이야기",
-      "state": "+",
-      "change": "2"
+      "keyword": "탈모 건보 확대 반발",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
