@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-16T17:28:38.887Z",
+  "updatedAt": "2026-06-16T20:23:45.589Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "인천재활용센터",
+      "keyword": "무승부",
       "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "화사",
+      "keyword": "france vs senegal",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "문희준",
-      "traffic": "200+"
+      "keyword": "메시",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "일베",
-      "traffic": "500+"
+      "keyword": "프랑스 대 세네갈",
+      "traffic": "5000+"
     },
     {
       "rank": 5,
-      "keyword": "고준희",
-      "traffic": "200+"
+      "keyword": "토트넘",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "프랑스 세네갈",
+      "keyword": "프랑스",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "알렉산더 즈베레프",
-      "traffic": "1000+"
+      "keyword": "google usa",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "타블로",
+      "keyword": "인천재활용센터",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "xrp",
-      "traffic": "100+"
+      "keyword": "화사",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "g7",
+      "keyword": "문희준",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명, G7 회의 참석",
-      "state": "n",
+      "keyword": "이재명 대통령 G7 참석",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "롯데 김태형 감독 이야기",
+      "keyword": "월드컵 일정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김선태, 유튜브 복귀",
-      "state": "n",
+      "keyword": "이호준 감독 100승 축하",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김도영과 오스틴 홈런 경쟁",
-      "state": "+",
-      "change": "1"
+      "keyword": "적재, SNS 중단 선언",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "잠실 개표소 폭행 사건",
-      "state": "n",
+      "keyword": "꺾고 3연승 질주",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "하트 시그널 5",
-      "state": "-",
-      "change": "3"
+      "keyword": "스페이스X, 아마존 추월 시총 5위",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "진영승 합참의장 국군화생방방호사령부",
+      "keyword": "미·이란 종전 MOU 서명식 19일 개최",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "트럼프 이란, 핵무기 재앙",
-      "state": "-",
-      "change": "2"
+      "keyword": "소율 문희준 불만 토로",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "법무부 정유미 항소",
-      "state": "+",
-      "change": "1"
+      "keyword": "음주운전 징역 1년",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이호준 100승 축하",
-      "state": "+",
-      "change": "2"
+      "keyword": "박은영 동안 비결 남편 덕분",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
