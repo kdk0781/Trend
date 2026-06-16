@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-16T20:23:45.589Z",
+  "updatedAt": "2026-06-16T22:27:12.326Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "무승부",
-      "traffic": "2000+"
+      "keyword": "필라델피아 반도체 지수",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "france vs senegal",
-      "traffic": "200+"
+      "keyword": "나스닥 100",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "메시",
-      "traffic": "100+"
+      "keyword": "폴드 8",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "프랑스 대 세네갈",
-      "traffic": "5000+"
+      "keyword": "mu",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "토트넘",
-      "traffic": "2000+"
+      "keyword": "soxx",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "프랑스",
-      "traffic": "200+"
+      "keyword": "신지애",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "google usa",
-      "traffic": "100+"
+      "keyword": "세종특별자치시",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "인천재활용센터",
-      "traffic": "100+"
+      "keyword": "참교육",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "화사",
-      "traffic": "200+"
+      "keyword": "흥덕사지",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "문희준",
-      "traffic": "200+"
+      "keyword": "김고은",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 대통령 G7 참석",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
       "keyword": "월드컵 일정",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "대통령 G7 정상회의",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 3,
-      "keyword": "이호준 감독 100승 축하",
-      "state": "s",
+      "keyword": "음바페 멀티골로 프랑스 승리!",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "적재, SNS 중단 선언",
+      "keyword": "소율 문희준의 갈등과 요리 사고",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "꺾고 3연승 질주",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "스페이스X, 아마존 추월 시총 5위",
+      "keyword": "美 이란 재건 논의",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "스페이스X, 아마존 제치고 5위",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "미·이란 종전 MOU 서명식 19일 개최",
+      "keyword": "첫 번째 남자",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "소율 문희준 불만 토로",
-      "state": "s",
+      "keyword": "파리 팬들과 82메이저",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "음주운전 징역 1년",
-      "state": "n",
-      "change": "0"
+      "keyword": "박찬대 인천시장 당선인",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "박은영 동안 비결 남편 덕분",
-      "state": "n",
-      "change": "0"
+      "keyword": "롯데 최하위 탈출!",
+      "state": "+",
+      "change": "4"
     }
   ]
 }
