@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-15T23:14:45.273Z",
+  "updatedAt": "2026-06-16T01:47:37.974Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "산청군",
+      "keyword": "프로토",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "키움증권",
+      "keyword": "대우건설 주가",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "nvda",
+      "keyword": "b52",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "의료",
+      "keyword": "잡월드",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "붉은 진주",
-      "traffic": "100+"
+      "keyword": "이미주",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "테니스",
-      "traffic": "200+"
+      "keyword": "권은빈",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "fifa world cup",
-      "traffic": "200+"
+      "keyword": "이란 대 뉴질랜드",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "우루과이",
-      "traffic": "200+"
+      "keyword": "태양",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "오유진",
+      "keyword": "토날리",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "식이 섬유",
+      "keyword": "노원구",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "월드컵 일정",
-      "state": "s",
-      "change": "0"
+      "keyword": "CLC 권은빈, 은퇴 후 일반인으로 살기로",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "카보 베르데 공화국",
-      "state": "s",
-      "change": "0"
+      "keyword": "정청래 민주당 대표",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 3,
-      "keyword": "미·이란 종전 협정",
-      "state": "s",
-      "change": "0"
+      "keyword": "김준형 혁신당 원내대표",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "훈련하는 축구 대표팀",
+      "keyword": "코스피 8700선 복귀",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "티파니 결혼 계획 없었는데",
+      "keyword": "사우디, 우루과이 1-1 무승부",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "이용식 손녀 돌잔치 눈물 셀프 폭로",
-      "state": "+",
-      "change": "1"
+      "keyword": "출석하는 박상용 검사",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "벨기에, 이집트 1-1 무승부",
-      "state": "n",
+      "keyword": "김가람, 배우로 전속계약 체결",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "첫 번째 남자",
-      "state": "+",
-      "change": "3"
+      "keyword": "서해 피격 서훈 무죄",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "한덕현 코치 인터뷰",
-      "state": "+",
-      "change": "1"
+      "keyword": "밀양 성폭행 신상 조회 직원 송치",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이정후 올스타 20위 충격",
-      "state": "n",
-      "change": "0"
+      "keyword": "이미주와 이수근 인연 이야기",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
