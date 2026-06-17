@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-17T12:33:55.934Z",
+  "updatedAt": "2026-06-17T16:25:38.893Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "박주미",
+      "keyword": "bồ đào nha",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "멧챠 카멜레온",
+      "keyword": "손흥민 기자",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "공무원",
-      "traffic": "2000+"
+      "keyword": "메이플",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "bgf리테일",
+      "keyword": "공장",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "거점국립대학교",
+      "keyword": "레드카드",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "예금",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "테일러 프리츠",
+      "keyword": "재산",
       "traffic": "100+"
     },
     {
-      "rank": 8,
-      "keyword": "삼성중공업",
+      "rank": 7,
+      "keyword": "엔비디아",
       "traffic": "2000+"
     },
     {
+      "rank": 8,
+      "keyword": "김정은",
+      "traffic": "100+"
+    },
+    {
       "rank": 9,
-      "keyword": "미스트롯 포유",
-      "traffic": "500+"
+      "keyword": "신한금융투자",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "코스닥",
-      "traffic": "500+"
+      "keyword": "전 민재",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "월드컵 일정",
+      "keyword": "이재명 대통령 G7",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "영덕 SMR 부산 기장 설계",
+      "keyword": "경북 영덕 부산 SMR 기장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "롯데 박세웅 선발",
-      "state": "s",
-      "change": "0"
+      "keyword": "트럼프, 한반도 문제 진전 역할 교육",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "트럼프 MOU 최종안 아냐, 공격 재개 가능",
-      "state": "n",
-      "change": "0"
+      "keyword": "롯데 박세웅 선발",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "첫 번째 남자",
-      "state": "+",
+      "keyword": "월드컵 일정",
+      "state": "-",
       "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "서인영 카이스트 시술",
-      "state": "-",
-      "change": "1"
+      "keyword": "영숙 10년간 74KG 감량",
+      "state": "+",
+      "change": "9"
     },
     {
       "rank": 7,
-      "keyword": "투표용지 부족 사태 규탄",
-      "state": "-",
+      "keyword": "구윤철 부총리, 기업혁신 회의 주재",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "전민재 역전 투런포",
-      "state": "s",
-      "change": "0"
+      "keyword": "신천지 간부 3명 구속",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "선관위 항의 대학생들",
-      "state": "s",
+      "keyword": "정이한 음료 테러 자작극 의혹",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "취사병 전설이 되다",
+      "keyword": "전민재 역전 투런포",
       "state": "+",
-      "change": "1"
+      "change": "2"
     }
   ]
 }
