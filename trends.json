@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-06-17T16:25:38.893Z",
+  "updatedAt": "2026-06-17T18:39:31.853Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "bồ đào nha",
-      "traffic": "100+"
+      "keyword": "축구중계",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "손흥민 기자",
+      "keyword": "페페",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "메이플",
-      "traffic": "1000+"
+      "keyword": "世界杯",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "공장",
+      "keyword": "베르나르두 실바",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "레드카드",
-      "traffic": "200+"
+      "keyword": "世界杯直播",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "재산",
-      "traffic": "100+"
+      "keyword": "portugal vs dr congo",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "엔비디아",
-      "traffic": "2000+"
+      "keyword": "포르투갈 대 콩고 민주 공화국",
+      "traffic": "20000+"
     },
     {
       "rank": 8,
-      "keyword": "김정은",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "신한금융투자",
+      "keyword": "감염",
       "traffic": "200+"
     },
     {
-      "rank": 10,
-      "keyword": "전 민재",
+      "rank": 9,
+      "keyword": "bồ đào nha",
       "traffic": "1000+"
+    },
+    {
+      "rank": 10,
+      "keyword": "손흥민 기자",
+      "traffic": "100+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "경북 영덕 부산 SMR 기장",
+      "keyword": "경북 영덕 원전 부산 기장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "트럼프, 한반도 문제 진전 역할 교육",
-      "state": "+",
-      "change": "1"
+      "keyword": "트럼프 이란 MOU 아냐",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "롯데 박세웅 선발",
-      "state": "+",
-      "change": "1"
+      "keyword": "롯데 선발 박세웅",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "월드컵 일정",
-      "state": "-",
-      "change": "2"
+      "keyword": "32기 영숙, 10년 74KG 감량",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "영숙 10년간 74KG 감량",
-      "state": "+",
-      "change": "9"
+      "keyword": "월드컵 일정",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "구윤철 부총리, 기업혁신 회의 주재",
-      "state": "+",
-      "change": "1"
+      "keyword": "신천지 간부 3명 구속",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "신천지 간부 3명 구속",
-      "state": "+",
-      "change": "3"
+      "keyword": "전민재 역전 투런포",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "정이한 음료 테러 자작극 의혹",
+      "keyword": "임지연 인간중독 데뷔독",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "전민재 역전 투런포",
-      "state": "+",
-      "change": "2"
+      "keyword": "잠실 시위 현장 자해 사건",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
