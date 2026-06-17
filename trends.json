@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-16T23:55:00.106Z",
+  "updatedAt": "2026-06-17T02:53:32.095Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "수해",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "김민하",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "iraq vs norway",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "sk스퀘어",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "강남구",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "구교환",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "토마호크",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "영화",
+      "keyword": "호날두",
       "traffic": "500+"
     },
     {
-      "rank": 9,
-      "keyword": "태양 전지",
+      "rank": 2,
+      "keyword": "장인화",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "argentina đấu với algérie",
       "traffic": "100+"
     },
     {
-      "rank": 10,
-      "keyword": "2026",
+      "rank": 4,
+      "keyword": "김재욱",
       "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "브라이언",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "알제리 피파랭킹",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "하이닉스 채용",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "지단",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "청년미래적금",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 10,
+      "keyword": "국립생태원",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "월드컵 일정",
+      "keyword": "발언하는 정청래 대표",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "과달라하라 팬 페스티벌",
-      "state": "n",
+      "keyword": "오세훈 결심공판 출석",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "취사병 한동희 미각보이즈 출연 대견",
+      "keyword": "허영만 활동 중단",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "LG이노텍 반도체 기판 1조 목표",
+      "keyword": "군사시설 규제 개선 발표",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 5,
+      "keyword": "잠실개표소 진입 막은 경찰",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "음바페 프랑스, 세네갈 완파",
-      "state": "-",
-      "change": "3"
-    },
-    {
       "rank": 6,
-      "keyword": "첫 번째 남자",
+      "keyword": "메시 멀티골 폭발",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "방탄소년단 12주 연속 진입",
+      "keyword": "엄준상 애리조나와 계약",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이란 재건기금 논란",
-      "state": "-",
-      "change": "1"
+      "keyword": "건강보험 수가 구조 혁신",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "최고 무더위 소나기",
-      "state": "-",
-      "change": "2"
+      "keyword": "LG전자 히트펌프 유럽 공급",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "뉴욕증시 기술주 혼조",
-      "state": "n",
-      "change": "0"
+      "keyword": "취사병 이상이 특별출연의 추억",
+      "state": "-",
+      "change": "4"
     }
   ]
 }
