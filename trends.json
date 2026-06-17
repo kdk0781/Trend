@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-17T18:39:31.853Z",
+  "updatedAt": "2026-06-17T20:53:49.597Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "축구중계",
-      "traffic": "1000+"
+      "keyword": "소나기",
+      "traffic": "200000+"
     },
     {
       "rank": 2,
-      "keyword": "페페",
-      "traffic": "100+"
+      "keyword": "농지",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "世界杯",
-      "traffic": "100+"
+      "keyword": "뱀",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "베르나르두 실바",
+      "keyword": "배윤정",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "世界杯直播",
+      "keyword": "수익률",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "portugal vs dr congo",
-      "traffic": "1000+"
+      "keyword": "잉글랜드 대 크로아티아",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "포르투갈 대 콩고 민주 공화국",
-      "traffic": "20000+"
+      "keyword": "lịch thi đấu world cup 2026",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "감염",
+      "keyword": "포르투갈 감독",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "bồ đào nha",
-      "traffic": "1000+"
+      "keyword": "조타",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "손흥민 기자",
+      "keyword": "portugal vs congo",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 대통령 G7",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "경북 영덕 원전 부산 기장",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "트럼프 이란 MOU 아냐",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "롯데 선발 박세웅",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "32기 영숙, 10년 74KG 감량",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
       "keyword": "월드컵 일정",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "신천지 간부 3명 구속",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "전민재 역전 투런포",
+      "rank": 2,
+      "keyword": "이재명 대통령 G7",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "포르투갈, 콩고와 1-1 무승부",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "영숙 10년간 74KG 감량",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "신천지 간부 3명 구속",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "이란 MOU 관련 협상",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "롯데 김태형 감독 승리 이끌어",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "연준 금리 동결",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 9,
-      "keyword": "임지연 인간중독 데뷔독",
+      "keyword": "임지연, 인간중독 데뷔 독",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "잠실 시위 현장 자해 사건",
-      "state": "n",
-      "change": "0"
+      "keyword": "잠실 시위 현장 흉기 자해",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
