@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-06-17T20:53:49.597Z",
+  "updatedAt": "2026-06-17T22:41:10.503Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "소나기",
-      "traffic": "200000+"
+      "keyword": "송성문",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "농지",
-      "traffic": "1000+"
+      "keyword": "부산날씨",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "뱀",
+      "keyword": "나스닥 지수",
       "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "배윤정",
+      "keyword": "vix",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "수익률",
-      "traffic": "100+"
+      "keyword": "schd",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "잉글랜드 대 크로아티아",
-      "traffic": "2000+"
+      "keyword": "김혜성",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "lịch thi đấu world cup 2026",
-      "traffic": "200+"
+      "keyword": "골드 바",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "포르투갈 감독",
-      "traffic": "200+"
+      "keyword": "박정은",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "조타",
-      "traffic": "100+"
+      "keyword": "올리세",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "portugal vs congo",
-      "traffic": "100+"
+      "keyword": "젠슨 황",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "이재명 대통령 G7",
-      "state": "s",
+      "keyword": "트럼프, 이란 종전 MOU 서명",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "포르투갈, 콩고와 1-1 무승부",
+      "keyword": "포르투갈 콩고 1-1 무승부",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "영숙 10년간 74KG 감량",
-      "state": "s",
+      "keyword": "이홍내 박지훈 콩나물국",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "신천지 간부 3명 구속",
-      "state": "s",
+      "keyword": "워시 첫 FOMC 금리 동결",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "이란 MOU 관련 협상",
+      "keyword": "홍명보 감독 유감 드론 사건",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "롯데 김태형 감독 승리 이끌어",
-      "state": "s",
-      "change": "0"
+      "keyword": "잉글랜드 4-2 크로아티아",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "연준 금리 동결",
-      "state": "+",
-      "change": "3"
+      "keyword": "잠실 시위 현장 흉기 자해",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "임지연, 인간중독 데뷔 독",
+      "keyword": "영수 무자녀 발언 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "잠실 시위 현장 흉기 자해",
-      "state": "-",
-      "change": "2"
+      "keyword": "이정후, 4호 홈런 터졌다!",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
