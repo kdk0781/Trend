@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-06-17T22:41:10.503Z",
+  "updatedAt": "2026-06-18T00:03:45.525Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "송성문",
-      "traffic": "200+"
+      "keyword": "인벤",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "부산날씨",
+      "keyword": "메이저 리그 베이스볼",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "나스닥 지수",
-      "traffic": "1000+"
+      "keyword": "파나마",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "vix",
-      "traffic": "200+"
+      "keyword": "가로세로연구소",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "schd",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "김혜성",
+      "keyword": "강민경",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "부동산",
+      "traffic": "5000+"
+    },
+    {
       "rank": 7,
-      "keyword": "골드 바",
-      "traffic": "500+"
+      "keyword": "mou",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "박정은",
-      "traffic": "500+"
+      "keyword": "오타니 쇼헤이",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "올리세",
-      "traffic": "500+"
+      "keyword": "2026",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "젠슨 황",
-      "traffic": "5000+"
+      "keyword": "anh vs",
+      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -61,56 +61,56 @@
     },
     {
       "rank": 2,
-      "keyword": "트럼프, 이란 종전 MOU 서명",
-      "state": "n",
+      "keyword": "멕시코전 하루 앞둔 감독 홍명보",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "포르투갈 콩고 1-1 무승부",
+      "keyword": "트럼프, 이란 종전 MOU 서명",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이홍내 박지훈 콩나물국",
-      "state": "n",
+      "keyword": "취사병 이홍내 박지훈의 웃참 기억",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "워시 첫 FOMC 금리 동결",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "홍명보 감독 유감 드론 사건",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "잉글랜드 4-2 크로아티아",
+      "keyword": "구윤철 부총리 확대거시경제금융회의",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "잠실 시위 현장 흉기 자해",
+      "rank": 6,
+      "keyword": "케인 잉글랜드 4-2 크로아티아 꺾다",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "영수 무자녀 발언 논란",
-      "state": "n",
+      "rank": 7,
+      "keyword": "비트코인, FOMC 우려 재시험",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 8,
+      "keyword": "출산 후 러닝 해명",
+      "state": "s",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "질문에 답하는 황인범",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 10,
-      "keyword": "이정후, 4호 홈런 터졌다!",
-      "state": "s",
+      "keyword": "노태악 투표지 축소인쇄 사태 인지",
+      "state": "n",
       "change": "0"
     }
   ]
