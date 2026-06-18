@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-18T04:56:59.931Z",
+  "updatedAt": "2026-06-18T09:11:44.010Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "구자욱",
+      "keyword": "조국혁신당",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "스트라드비젼",
+      "keyword": "백도어",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "제주반도체",
-      "traffic": "100+"
+      "keyword": "남아프리카 공화국 축구 국가대표팀",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "박지현",
-      "traffic": "100+"
+      "keyword": "mlb",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "진아름",
+      "keyword": "황신혜",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "마라톤",
+      "keyword": "토스 행운퀴즈 정답",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "토미 에드먼",
-      "traffic": "500+"
+      "keyword": "민주당",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "전차",
-      "traffic": "200+"
+      "keyword": "클로드",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "파산",
+      "keyword": "claude ai",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "베르나르 두 실바",
-      "traffic": "5000+"
+      "keyword": "인텔",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정청래와 인사하는 이재명",
+      "keyword": "코스피 9000선 돌파",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "하비에르 아기레 기자회견",
+      "keyword": "월드컵 일정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "남궁민 진아름, 부모 된다.",
+      "keyword": "올림픽공원 도시가스 유출",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "코스피 9000 돌파",
+      "keyword": "최준희 인공관절 수술 결심",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "전웅, 브랜뉴뮤직 재계약",
-      "state": "-",
-      "change": "1"
+      "keyword": "상속 재산 통합 지급",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "김성식 국민경제자문회의 부의장",
-      "state": "-",
-      "change": "1"
+      "keyword": "정청래, 이대통령 90도 인사",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "윤상현 위원장 의사봉",
+      "keyword": "브라이언, 건강 이상 검사 중",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "인천서 발견된 사람 다리",
-      "state": "n",
-      "change": "0"
+      "keyword": "국민의힘 강동완 직무대리",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "배민 동의의결 기각",
+      "keyword": "40前 1억 기부 하이닉스 직원",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "취재진 답변하는 인물",
-      "state": "+",
-      "change": "3"
+      "keyword": "올여름 첫 폭염주의보 발령",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
