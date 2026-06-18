@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-06-18T18:32:16.608Z",
+  "updatedAt": "2026-06-18T21:07:28.461Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "디오망데",
-      "traffic": "200+"
+      "keyword": "두산에너 빌리티",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "세균",
-      "traffic": "1000+"
+      "keyword": "김가은",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "체코 대 남아공",
-      "traffic": "50000+"
+      "keyword": "장기 기증",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "czechia vs south africa",
+      "keyword": "스위스 대 보스니아 헤르체고비나",
       "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "정수빈",
-      "traffic": "100+"
+      "keyword": "현행범",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "상동광산",
+      "keyword": "스위스",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "대한민국 공정거래위원회",
-      "traffic": "200+"
+      "keyword": "라이즈",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "imdb",
-      "traffic": "100+"
+      "keyword": "블루제이스 대 레드삭스",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "gta6",
-      "traffic": "500+"
+      "keyword": "디오망데",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "김장훈",
-      "traffic": "100+"
+      "keyword": "세균",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "HD현대오일뱅크 임원 1명 구속",
+      "keyword": "월드컵 일정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
+      "keyword": "담합 임직원 구속",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
       "keyword": "양현종 190승 달성",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "엄마 같은 여자 3호",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 3,
-      "keyword": "월드컵 일정",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "이란 대통령 역사적 MOU",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 5,
-      "keyword": "홍진경 조폭 조세호 우아한 처신",
-      "state": "s",
+      "keyword": "이란 대통령 종전 MOU 공개",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "최저임금 단일 적용 부결",
+      "keyword": "남아공, 체코와 1-1 무승부",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "박찬호 역전타로 두산 승리",
-      "state": "s",
-      "change": "0"
+      "keyword": "최철호 음주 난동 후 회한의 삶",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "김정관 장관 회의 및 방문",
-      "state": "s",
+      "keyword": "최저임금 업종별 차등적용",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "장윤정 개인사우나 설치",
-      "state": "+",
-      "change": "2"
+      "keyword": "인천 다리 요양병원 조사",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "영수, 엄마 같은 여자 3호에게 좋아해",
-      "state": "n",
+      "keyword": "정이한, 테러로 의식 잃어",
+      "state": "s",
       "change": "0"
     }
   ]
