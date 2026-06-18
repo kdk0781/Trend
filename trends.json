@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-18T12:31:39.146Z",
+  "updatedAt": "2026-06-18T16:02:30.314Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "캐시워크 정답",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "부산광역시",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "대전 도시철도 2호선",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "경기장 청소",
+      "keyword": "상동광산",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "대한민국 공정거래위원회",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "imdb",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "gta6",
+      "traffic": "500+"
+    },
+    {
       "rank": 5,
-      "keyword": "양현종",
+      "keyword": "김장훈",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "이경실",
+      "keyword": "明天的天氣",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "테일러 프리츠",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "영턱스클럽",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "조국 혁신당",
+      "keyword": "일리아 토푸리아",
       "traffic": "1000+"
     },
     {
+      "rank": 8,
+      "keyword": "최형우",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "보험",
+      "traffic": "200+"
+    },
+    {
       "rank": 10,
-      "keyword": "시내버스",
-      "traffic": "500+"
+      "keyword": "yeouido",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "월드컵 일정",
-      "state": "s",
-      "change": "0"
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "최저임금 단일 적용 부결",
+      "keyword": "요양병원 사람 다리",
       "state": "+",
-      "change": "7"
+      "change": "4"
     },
     {
       "rank": 3,
-      "keyword": "한동희 역전 투런포",
+      "keyword": "양현종 190승 달성",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "첫 번째 남자",
+      "keyword": "댄포스가 옳았다 장진",
       "state": "+",
-      "change": "4"
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "김정관 장관 두코바니 회의 참석",
+      "keyword": "김정관 장관, 두코바니 회의 등관람",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "이란 대통령의 역사적 종전 MOU",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "김여정 G7 비핵화 반발",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "넥써쓰 원스토어 인수",
       "state": "+",
       "change": "5"
     },
     {
-      "rank": 6,
-      "keyword": "SK하이닉스 주가 급등 효과",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "정설아 치어리더 누가 인형?",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "영국 기준금리 동결",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 9,
-      "keyword": "전진, ♥류이서 2세 유전 확신",
-      "state": "-",
-      "change": "5"
+      "keyword": "최저임금 단일 적용 부결",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "김여정 G7 비핵화 반발",
-      "state": "-",
-      "change": "8"
+      "keyword": "정이한 자작극 의혹 헬스관장",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
