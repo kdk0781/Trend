@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-06-18T21:07:28.461Z",
+  "updatedAt": "2026-06-18T23:01:57.558Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "두산에너 빌리티",
-      "traffic": "2000+"
+      "keyword": "김혜성",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "김가은",
-      "traffic": "100+"
+      "keyword": "날씨",
+      "traffic": "500000+"
     },
     {
       "rank": 3,
-      "keyword": "장기 기증",
-      "traffic": "1000+"
+      "keyword": "남편들",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "스위스 대 보스니아 헤르체고비나",
-      "traffic": "1000+"
+      "keyword": "규제",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "현행범",
-      "traffic": "500+"
+      "keyword": "weather",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "스위스",
-      "traffic": "100+"
+      "keyword": "현대 아반떼",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "라이즈",
-      "traffic": "100+"
+      "keyword": "캐나다 대 카타르",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "블루제이스 대 레드삭스",
+      "keyword": "south korea",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "디오망데",
-      "traffic": "200+"
+      "keyword": "알테오젠",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "세균",
-      "traffic": "1000+"
+      "keyword": "적금",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
@@ -61,56 +61,56 @@
     },
     {
       "rank": 2,
-      "keyword": "담합 임직원 구속",
+      "keyword": "담합 HD오일뱅크 임직원 구속",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "양현종 190승 달성",
-      "state": "s",
-      "change": "0"
+      "keyword": "남아공 1-1 무승부",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "엄마 같은 여자 3호",
+      "keyword": "이란 MOU 승인",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 5,
+      "keyword": "8기 영수의 엄마 같은 여자",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "정이한 처방전 아빠 병원서",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "이란 대통령 종전 MOU 공개",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "남아공, 체코와 1-1 무승부",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 7,
-      "keyword": "최철호 음주 난동 후 회한의 삶",
-      "state": "-",
+      "keyword": "첫 번째 남자",
+      "state": "+",
       "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "최저임금 업종별 차등적용",
-      "state": "n",
-      "change": "0"
+      "keyword": "최철호, 음주 난동 후 근황",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "인천 다리 요양병원 조사",
+      "keyword": "스위스 보스니아 4-1 승리",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "정이한, 테러로 의식 잃어",
-      "state": "s",
+      "keyword": "이수연 할머니 우울증 극복",
+      "state": "n",
       "change": "0"
     }
   ]
