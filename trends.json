@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-18T00:03:45.525Z",
+  "updatedAt": "2026-06-18T04:56:59.931Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "인벤",
-      "traffic": "100+"
+      "keyword": "구자욱",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "메이저 리그 베이스볼",
+      "keyword": "스트라드비젼",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "파나마",
-      "traffic": "500+"
+      "keyword": "제주반도체",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "가로세로연구소",
+      "keyword": "박지현",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "강민경",
+      "keyword": "진아름",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "부동산",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "mou",
+      "keyword": "마라톤",
       "traffic": "100+"
     },
     {
+      "rank": 7,
+      "keyword": "토미 에드먼",
+      "traffic": "500+"
+    },
+    {
       "rank": 8,
-      "keyword": "오타니 쇼헤이",
-      "traffic": "2000+"
+      "keyword": "전차",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "2026",
-      "traffic": "1000+"
+      "keyword": "파산",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "anh vs",
-      "traffic": "200+"
+      "keyword": "베르나르 두 실바",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "월드컵 일정",
+      "keyword": "정청래와 인사하는 이재명",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "멕시코전 하루 앞둔 감독 홍명보",
+      "keyword": "하비에르 아기레 기자회견",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "트럼프, 이란 종전 MOU 서명",
+      "keyword": "남궁민 진아름, 부모 된다.",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "취사병 이홍내 박지훈의 웃참 기억",
-      "state": "s",
-      "change": "0"
+      "keyword": "코스피 9000 돌파",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "구윤철 부총리 확대거시경제금융회의",
-      "state": "+",
+      "keyword": "전웅, 브랜뉴뮤직 재계약",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "케인 잉글랜드 4-2 크로아티아 꺾다",
+      "keyword": "김성식 국민경제자문회의 부의장",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "비트코인, FOMC 우려 재시험",
-      "state": "+",
-      "change": "3"
+      "keyword": "윤상현 위원장 의사봉",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "출산 후 러닝 해명",
-      "state": "s",
+      "keyword": "인천서 발견된 사람 다리",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "질문에 답하는 황인범",
-      "state": "+",
-      "change": "1"
+      "keyword": "배민 동의의결 기각",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "노태악 투표지 축소인쇄 사태 인지",
-      "state": "n",
-      "change": "0"
+      "keyword": "취재진 답변하는 인물",
+      "state": "+",
+      "change": "3"
     }
   ]
 }
