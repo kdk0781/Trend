@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-18T16:02:30.314Z",
+  "updatedAt": "2026-06-18T18:32:16.608Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "상동광산",
-      "traffic": "100+"
+      "keyword": "디오망데",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "대한민국 공정거래위원회",
-      "traffic": "100+"
+      "keyword": "세균",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "imdb",
-      "traffic": "100+"
+      "keyword": "체코 대 남아공",
+      "traffic": "50000+"
     },
     {
       "rank": 4,
-      "keyword": "gta6",
-      "traffic": "500+"
+      "keyword": "czechia vs south africa",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "김장훈",
+      "keyword": "정수빈",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "明天的天氣",
+      "keyword": "상동광산",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "일리아 토푸리아",
-      "traffic": "1000+"
+      "keyword": "대한민국 공정거래위원회",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "최형우",
-      "traffic": "200+"
+      "keyword": "imdb",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "보험",
-      "traffic": "200+"
+      "keyword": "gta6",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "yeouido",
-      "traffic": "2000+"
+      "keyword": "김장훈",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "월드컵 일정",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "요양병원 사람 다리",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 3,
-      "keyword": "양현종 190승 달성",
+      "keyword": "HD현대오일뱅크 임원 1명 구속",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "댄포스가 옳았다 장진",
+      "rank": 2,
+      "keyword": "양현종 190승 달성",
       "state": "+",
       "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "월드컵 일정",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "이란 대통령 역사적 MOU",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김정관 장관, 두코바니 회의 등관람",
-      "state": "+",
-      "change": "2"
+      "keyword": "홍진경 조폭 조세호 우아한 처신",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "이란 대통령의 역사적 종전 MOU",
-      "state": "-",
-      "change": "2"
+      "keyword": "최저임금 단일 적용 부결",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김여정 G7 비핵화 반발",
-      "state": "+",
-      "change": "1"
+      "keyword": "박찬호 역전타로 두산 승리",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "넥써쓰 원스토어 인수",
-      "state": "+",
-      "change": "5"
+      "keyword": "김정관 장관 회의 및 방문",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "최저임금 단일 적용 부결",
+      "keyword": "장윤정 개인사우나 설치",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "정이한 자작극 의혹 헬스관장",
+      "keyword": "영수, 엄마 같은 여자 3호에게 좋아해",
       "state": "n",
       "change": "0"
     }
