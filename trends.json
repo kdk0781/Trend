@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-19T18:50:26.059Z",
+  "updatedAt": "2026-06-19T20:23:30.419Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "best amazon deals",
+      "keyword": "연합뉴스",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "ps",
+      "keyword": "usa vs australia",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "anne hathaway",
-      "traffic": "100+"
+      "keyword": "블루제이스 대 컵스",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "리그오브레전드",
-      "traffic": "100+"
+      "keyword": "op",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "남아프리카공화국 축구 국가 대표팀",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "안정환",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "라이엇게임즈",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "권순표",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "박명수",
+      "keyword": "미국 대 호주",
       "traffic": "2000+"
     },
     {
+      "rank": 6,
+      "keyword": "드론 스트라이크",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "best amazon deals",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "ps",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "anne hathaway",
+      "traffic": "200+"
+    },
+    {
       "rank": 10,
-      "keyword": "류혜영",
-      "traffic": "1000+"
+      "keyword": "리그오브레전드",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "류혜영, 불안감 극복 이야기",
-      "state": "+",
-      "change": "2"
+      "keyword": "훈련 중인 홍명보 감독",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
       "keyword": "월드컵 일정",
-      "state": "+",
-      "change": "3"
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "이스라엘-헤즈볼라 휴전",
+      "keyword": "이스라엘 헤즈볼라 휴전 합의",
       "state": "-",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "송찬의 폭발적 활약!",
-      "state": "-",
-      "change": "2"
+      "keyword": "류혜영, 응팔 이후 불안해져",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "신민아 결혼 늦게 할수록 좋아",
+      "keyword": "멕시코전 다음날 회복",
       "state": "-",
       "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "선관위 원포인트 개헌",
-      "state": "s",
-      "change": "0"
+      "keyword": "신민아 결혼 늦을수록 좋아",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "신입사원 강회장",
-      "state": "+",
-      "change": "26"
+      "keyword": "이화영 연어 술파티 선고 및 위증",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "호르무즈 해협 선박 25척 통과",
+      "keyword": "멋진 신세계 종영 소감과 행복",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이강인, WC 패스왕 등극!",
-      "state": "+",
-      "change": "67"
+      "keyword": "성시경 BTS 정국 만남 떨림",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
       "keyword": "주가조작 증권사 압수수색",
-      "state": "n",
-      "change": "0"
+      "state": "+",
+      "change": "1"
     }
   ]
 }
