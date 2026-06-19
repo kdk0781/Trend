@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-06-19T20:23:30.419Z",
+  "updatedAt": "2026-06-19T21:41:31.058Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "연합뉴스",
-      "traffic": "500+"
+      "keyword": "부모",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "usa vs australia",
-      "traffic": "200+"
+      "keyword": "주가조작",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "블루제이스 대 컵스",
+      "keyword": "단발",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "op",
+      "keyword": "trip",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "미국 대 호주",
+      "keyword": "연합뉴스",
       "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "드론 스트라이크",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "best amazon deals",
+      "keyword": "usa vs australia",
       "traffic": "500+"
     },
     {
+      "rank": 7,
+      "keyword": "블루제이스 대 컵스",
+      "traffic": "1000+"
+    },
+    {
       "rank": 8,
-      "keyword": "ps",
-      "traffic": "200+"
+      "keyword": "동궁",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "anne hathaway",
-      "traffic": "200+"
+      "keyword": "미국 대 호주",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "리그오브레전드",
-      "traffic": "100+"
+      "keyword": "드론 스트라이크",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "훈련 중인 홍명보 감독",
-      "state": "n",
+      "keyword": "월드컵 일정",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "월드컵 일정",
-      "state": "-",
+      "keyword": "이화영 징역 4개월 선고",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "이스라엘 헤즈볼라 휴전 합의",
-      "state": "-",
+      "keyword": "멋진 신세계 종영 소감",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "류혜영, 응팔 이후 불안해져",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "멕시코전 다음날 회복",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "신민아 결혼 늦을수록 좋아",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 7,
-      "keyword": "이화영 연어 술파티 선고 및 위증",
+      "keyword": "응팔 후 류혜영 불안해져",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "이스라엘·헤즈볼라 휴전 발효",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "성시경 BTS 정국 떨림",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "신입사원 강회장",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "멋진 신세계 종영 소감과 행복",
-      "state": "s",
+      "keyword": "김우빈, 카우보이 모자 쓴 저승사자",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "성시경 BTS 정국 만남 떨림",
-      "state": "s",
+      "keyword": "현숙, 결혼 2년 만에 아들 출산",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "주가조작 증권사 압수수색",
-      "state": "+",
+      "keyword": "오십프로",
+      "state": "-",
       "change": "1"
     }
   ]
