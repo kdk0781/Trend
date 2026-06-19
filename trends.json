@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-19T01:50:04.859Z",
+  "updatedAt": "2026-06-19T06:51:36.817Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "네이버",
-      "traffic": "50000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "낙상",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "백승호",
+      "keyword": "김병주",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "재경부",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "샘김",
+      "traffic": "100+"
+    },
+    {
       "rank": 4,
-      "keyword": "치지직",
-      "traffic": "100000+"
+      "keyword": "msci 선진국 지수 편입",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "두산베어스",
+      "keyword": "톰 홀랜드",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "옌스 카스트로프",
-      "traffic": "500+"
+      "keyword": "션",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "라울 히메네스",
-      "traffic": "20000+"
+      "keyword": "전국 삼성 전자 노동 조합",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "경상일보",
-      "traffic": "500+"
+      "keyword": "조국",
+      "traffic": "10000+"
     },
     {
       "rank": 9,
-      "keyword": "fotmob",
-      "traffic": "500+"
+      "keyword": "은현 장",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "중앙일보 부도",
-      "traffic": "2000+"
+      "keyword": "사업",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "월드컵 중계 시청률 1위",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "발언하는 정점식 원내대표",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "칠리즈 체인, 네이버페이 100만 가입 돌파",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "트와이스 사나, 하의 실종 속상해",
+      "keyword": "이재명 유럽 순방 브리핑",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "이노냥, FIFA 초청 경기장 방문",
-      "state": "+",
-      "change": "2"
+      "rank": 2,
+      "keyword": "월드컵 일정",
+      "state": "s",
+      "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "캐나다, 카타르에 6-0 대승",
+      "rank": 3,
+      "keyword": "홍명보 작전 지시",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "기관장 해임 건의",
       "state": "+",
       "change": "4"
     },
     {
+      "rank": 5,
+      "keyword": "李대통령 트럼프, 북미 대화 희망",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "유재석 소속사 악플러 벌금형",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 7,
-      "keyword": "LG CNS 두산 협력",
-      "state": "n",
+      "keyword": "조정식 국회의장 조현",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "중앙일보 220억 1차 부도",
+      "keyword": "한국, 멕시코에 졌다",
       "state": "-",
-      "change": "5"
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "김건희 디올백 수수 송치",
-      "state": "-",
-      "change": "1"
+      "keyword": "공공기관운영위원회 구윤철 부총리",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "현대로템 모로코 유지보수 수주",
+      "keyword": "김용현 정보사 명단 누설 징역 3년",
       "state": "n",
       "change": "0"
     }
