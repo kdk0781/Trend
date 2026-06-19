@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-06-19T22:38:45.179Z",
+  "updatedAt": "2026-06-19T23:44:48.560Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "scotland vs morocco",
-      "traffic": "500+"
+      "keyword": "마카오 오픈",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "lịch thi đấu world cup 2026",
-      "traffic": "500+"
+      "keyword": "모로코",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "스코틀랜드 대 모로코",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "임신",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "최저임금",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "노태악",
+      "keyword": "성빈",
       "traffic": "500+"
     },
     {
-      "rank": 7,
-      "keyword": "박현경",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "한국기행",
+      "rank": 4,
+      "keyword": "天氣",
       "traffic": "100+"
     },
     {
+      "rank": 5,
+      "keyword": "jadwal piala dunia 2026",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "날씨",
+      "traffic": "200000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "스포티비뉴스",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "weather",
+      "traffic": "2000+"
+    },
+    {
       "rank": 9,
-      "keyword": "삼성전기",
-      "traffic": "5000+"
+      "keyword": "농협은행",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "강백호",
-      "traffic": "200+"
+      "keyword": "아이폰",
+      "traffic": "100+"
     }
   ],
   "domestic": [
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "훈련 위에 홍명보 감독",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "이화영 술파티 위증 징역 4개월",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "류혜영 암막커튼 이유",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "멋진 신세계 종영 소감",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "멕시코전 다음날 회복",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "성시경 BTS 정국 만남 설렘",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "미국, 호주 2-0 승리",
+      "keyword": "멋진 신세계, 최고 시청률 경신",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 9,
+      "rank": 3,
+      "keyword": "트럼프 60일 내 합의 요구",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "이화영 술 파티 위증 징역 4개월",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
       "keyword": "신입사원 강회장",
-      "state": "s",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "김신영 주사 논란",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "이기혁 SNS 악플 세례",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "신민아 10년 결혼관",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "멕시코 유망주 이강인 좋은 선수",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "트럼프 60일 이란 관찰",
+      "keyword": "경찰 잘못 버린 사람 다리",
       "state": "n",
       "change": "0"
     }
