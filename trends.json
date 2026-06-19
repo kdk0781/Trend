@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-19T11:14:46.476Z",
+  "updatedAt": "2026-06-19T14:21:49.773Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "테일러 프리츠",
-      "traffic": "100+"
+      "keyword": "아부다비 국영 석유회사",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "최유정",
+      "keyword": "이원석",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "지하철",
-      "traffic": "500+"
+      "keyword": "수소",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "크래프톤",
-      "traffic": "200+"
+      "keyword": "분리수거",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "비자금",
-      "traffic": "500+"
+      "keyword": "내일 날씨",
+      "traffic": "500000+"
     },
     {
       "rank": 6,
-      "keyword": "일본인",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "얀 르쿤",
+      "keyword": "cuaca besok",
       "traffic": "200+"
     },
     {
+      "rank": 7,
+      "keyword": "유인영",
+      "traffic": "1000+"
+    },
+    {
       "rank": 8,
-      "keyword": "박지훈",
-      "traffic": "2000+"
+      "keyword": "안선영",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "국민신문고",
-      "traffic": "500+"
+      "keyword": "이병규",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "나는 solo, 그 후 사랑은 계속된다",
-      "traffic": "100+"
+      "keyword": "옥희",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "월드컵 일정",
+      "keyword": "조 1위 확정팀 성숙해졌다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "무단침입 3명 조사",
-      "state": "s",
-      "change": "0"
+      "keyword": "멋진 신세계의 소감과 행복",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "LG 레전드 이병규",
-      "state": "s",
-      "change": "0"
+      "keyword": "월드컵 일정",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "방탄소년단 MERRY GO ROUND 공개",
-      "state": "s",
-      "change": "0"
+      "keyword": "워크아웃 공식 신청",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 5,
       "keyword": "선양 오크소맥 출시",
-      "state": "s",
-      "change": "0"
+      "state": "+",
+      "change": "8"
     },
     {
       "rank": 6,
-      "keyword": "조웅래 회장 시구 포즈",
+      "keyword": "갤럭시와 현대차의 교황 사랑",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "서산 여중생 2명 심정지",
+      "keyword": "딸 살해 시도한 부부 선처 호소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "중앙일보 워크아웃 방안 마련",
-      "state": "n",
-      "change": "0"
+      "keyword": "송찬의 역전포 2타점",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 9,
-      "keyword": "성동일 딸 성빈 근황 공개",
-      "state": "+",
-      "change": "1"
+      "keyword": "부사관 장기 복무 모집",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "멕시코전 패배 뒤",
-      "state": "-",
-      "change": "1"
+      "keyword": "신민아 결혼 늦게 할수록 좋아",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
