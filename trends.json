@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-20T22:19:47.580Z",
+  "updatedAt": "2026-06-20T23:38:32.896Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "sk하이닉스",
-      "traffic": "10000+"
+      "keyword": "네덜란드 축구 국가대표팀",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "손예진",
+      "keyword": "러시아",
       "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "독일",
+      "keyword": "삼성물산",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "이동국",
-      "traffic": "500+"
+      "keyword": "2026 fifa 월드컵 순위",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "고윤정",
+      "keyword": "요나단 페라자",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "경상남도",
-      "traffic": "200+"
+      "keyword": "기상",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "건강보험",
-      "traffic": "200+"
+      "keyword": "나는 solo",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "셀트리온",
-      "traffic": "500+"
+      "keyword": "튀르키예 축구 국가대표팀",
+      "traffic": "10000+"
     },
     {
       "rank": 9,
-      "keyword": "germany vs ivory coast",
-      "traffic": "500+"
+      "keyword": "2026 fifa 월드컵 일본",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "구속영장",
-      "traffic": "1000+"
+      "keyword": "축제",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "멋진 신세계의 해피엔딩",
-      "state": "+",
-      "change": "1"
+      "keyword": "신입사원 강회장",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "신입사원 강회장",
-      "state": "-",
-      "change": "1"
+      "keyword": "멋진 신세계 해피엔딩을 향해",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이란, 호르무즈 재봉쇄 카드 꺼내다",
-      "state": "s",
-      "change": "0"
+      "keyword": "코트디부아르 4-0 격파",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "네덜란드, 스웨덴 5-1 대박!",
-      "state": "s",
-      "change": "0"
+      "keyword": "강남점 주얼리 전문관",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 5,
-      "keyword": "박은영 의사 남편 자랑",
-      "state": "s",
-      "change": "0"
+      "keyword": "옥희, 신장암 투병 끝 사망 73세",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "오십프로 김채은의 극과 극 활약",
-      "state": "s",
-      "change": "0"
+      "keyword": "오십프로 김채은 신스틸러 활약",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "코트디부아르 4-0 전반 선제골!",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "가수 옥희, 신장암 투병 끝 별세",
-      "state": "s",
+      "keyword": "조현욱 진상규명위원장 인터뷰",
+      "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "keyword": "사랑을 처방해 드립니다",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "이란 호르무즈 재봉쇄 시사",
       "state": "-",
-      "change": "2"
+      "change": "4"
     },
     {
       "rank": 10,
-      "keyword": "강남점 주얼리 전문관 확대",
+      "keyword": "운다브 멀티골 2-1 역전승",
       "state": "n",
       "change": "0"
     }
