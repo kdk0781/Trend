@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-20T18:06:00.364Z",
+  "updatedAt": "2026-06-20T19:51:58.692Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "네덜란드 축구",
-      "traffic": "200+"
+      "keyword": "아시아",
+      "traffic": "100+"
     },
     {
       "rank": 2,
+      "keyword": "홀란드",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "호르 무즈 해협 봉쇄",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "즐라탄",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "grok",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
       "keyword": "netherlands vs sweden",
       "traffic": "500+"
     },
     {
-      "rank": 3,
-      "keyword": "스웨덴",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "농협",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
+      "rank": 7,
       "keyword": "일본 튀니지",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 8,
+      "keyword": "농협",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
       "keyword": "박은영",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "keyword": "원희",
       "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "신입사원 강회장",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "네덜란드 스웨덴",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "미사일",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이란 호르무즈 재봉쇄 카드",
+      "keyword": "멋진 신세계 운명 결말은 해피엔딩",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "멋진 신세계의 운명 최종화",
-      "state": "s",
-      "change": "0"
+      "keyword": "신입사원 강회장",
+      "state": "+",
+      "change": "78"
     },
     {
       "rank": 3,
-      "keyword": "김재환 3연타석 홈런 SSG 5연패 탈출",
-      "state": "n",
-      "change": "0"
+      "keyword": "이란 호르무즈 봉쇄 계속",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "박은영 의사 남편 자랑",
-      "state": "s",
-      "change": "0"
+      "keyword": "한화, 삼성 상대로 6연패 탈출",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "신입사원 강회장",
-      "state": "+",
-      "change": "34"
+      "keyword": "박은영 의사 남편 자랑",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "1229회 로또 1등 35억 8명",
-      "state": "s",
-      "change": "0"
+      "keyword": "오십프로 김채은 활약",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "로빈♥서연, 유산 딛고 임신 태명 깐느",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "문보경 역전 3점 LG, 두산에 승리",
+      "keyword": "가수 옥희, 암 투병 끝 별세",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "옥희, 신장암 투병 끝 별세",
+      "rank": 8,
+      "keyword": "1229회 로또 1등 35억 당첨 8명",
       "state": "-",
       "change": "2"
     },
     {
-      "rank": 10,
-      "keyword": "서울가요대상 본상 수상자들",
+      "rank": 9,
+      "keyword": "사랑을 처방해 드립니다",
       "state": "-",
       "change": "1"
+    },
+    {
+      "rank": 10,
+      "keyword": "네덜란드, 스웨덴 5-1 대승!",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
