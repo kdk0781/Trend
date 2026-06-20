@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-20T01:53:18.717Z",
+  "updatedAt": "2026-06-20T06:13:31.936Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "대한민국 과학기술정보통신부",
-      "traffic": "100+"
+      "keyword": "경비원",
+      "traffic": "10000+"
     },
     {
       "rank": 2,
-      "keyword": "삼성sdi",
-      "traffic": "200+"
+      "keyword": "임성재",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "기은세",
+      "keyword": "정부",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "두산베어스",
-      "traffic": "200+"
+      "keyword": "양의지",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "brasil đấu với haiti",
-      "traffic": "200+"
+      "keyword": "전투기",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "네이마르",
-      "traffic": "200+"
+      "keyword": "박성현",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "수영장",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "퇴직",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "아랍에미리트",
+      "keyword": "튀르키예 축구",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "이동국",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "기뢰",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "브라질 대 아이티",
-      "traffic": "10000+"
+      "keyword": "신현송",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "모로코, 스코틀랜드 1-0 제압",
+      "keyword": "개표소 시위 지속",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "트럼프 특사 스위스 출발",
+      "keyword": "알미론 입 가리기 첫 퇴장",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "순순희 지환, 오늘 결혼합니다!",
-      "state": "s",
-      "change": "0"
+      "keyword": "임지연 허남준 해피엔딩?",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "BTS RM 국립박물관 홍보대사",
+      "keyword": "김용범 부동산 조정 필요",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "JTBC 멕시코전 KBS 앞섰다",
-      "state": "n",
-      "change": "0"
+      "keyword": "강예원 아버지 책임",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "경북 산사태 주의보",
-      "state": "n",
-      "change": "0"
+      "keyword": "네이즈 턴, 화보 같은 일상",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "앤 해서웨이 셋째 임신 발표",
+      "keyword": "이화영 술파티 위증 유죄",
       "state": "+",
-      "change": "3"
+      "change": "14"
     },
     {
       "rank": 8,
-      "keyword": "기름값 5주 연속 하락",
+      "keyword": "타구 바라보는 선수들",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "첫사랑과 아이, 남편 재회",
+      "keyword": "화사, 젠슨 황 샤라웃 감사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "태풍 동해안 장마 변수?",
+      "keyword": "이란 동결자금 해제 협의",
       "state": "-",
-      "change": "4"
+      "change": "1"
     }
   ]
 }
