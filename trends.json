@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-20T06:13:31.936Z",
+  "updatedAt": "2026-06-20T09:43:23.455Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "경비원",
-      "traffic": "10000+"
+      "keyword": "강성연",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "임성재",
-      "traffic": "100+"
+      "keyword": "mlb",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "정부",
+      "keyword": "대전 날씨",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "양의지",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "전투기",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "박성현",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "튀르키예 축구",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "이동국",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "기뢰",
+      "keyword": "러브버그",
       "traffic": "100+"
     },
     {
+      "rank": 5,
+      "keyword": "afghanistan vs india",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "스마트폰",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "이대형",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "퇴거",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
+      "keyword": "사치품",
+      "traffic": "500+"
+    },
+    {
       "rank": 10,
-      "keyword": "신현송",
-      "traffic": "200+"
+      "keyword": "김동관",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "개표소 시위 지속",
+      "keyword": "월드컵 일정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "알미론 입 가리기 첫 퇴장",
-      "state": "n",
+      "keyword": "깐부 회장 징역 확정",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "임지연 허남준 해피엔딩?",
-      "state": "-",
-      "change": "1"
+      "keyword": "홈런 김재환 반가운 정준재",
+      "state": "+",
+      "change": "16"
     },
     {
       "rank": 4,
-      "keyword": "김용범 부동산 조정 필요",
-      "state": "n",
+      "keyword": "임지연과 허남준, 최종화 앞둔 운명",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "강예원 아버지 책임",
-      "state": "+",
-      "change": "2"
+      "keyword": "볼리비아 국가비상사태 선포",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "네이즈 턴, 화보 같은 일상",
+      "keyword": "회복 훈련 나선 이강인",
       "state": "-",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "이화영 술파티 위증 유죄",
-      "state": "+",
-      "change": "14"
-    },
-    {
-      "rank": 8,
-      "keyword": "타구 바라보는 선수들",
+      "keyword": "이스라엘 레바논 사망 18명",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "국힘 장동혁 주말 병원 입원",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "화사, 젠슨 황 샤라웃 감사",
+      "keyword": "노태악, 40분 전 용지 부족",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이란 동결자금 해제 협의",
+      "keyword": "박효신 팬덤 혼선 우려",
       "state": "-",
       "change": "1"
     }
