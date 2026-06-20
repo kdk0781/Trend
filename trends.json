@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-20T15:15:12.418Z",
+  "updatedAt": "2026-06-20T16:52:13.330Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "호르무즈",
-      "traffic": "200+"
+      "keyword": "농협",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "미사일",
+      "keyword": "일본 튀니지",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "심수봉",
-      "traffic": "500+"
+      "keyword": "박은영",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "이도현",
+      "keyword": "원희",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "박지현",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "이옥섭",
+      "keyword": "신입사원 강회장",
       "traffic": "1000+"
     },
     {
+      "rank": 6,
+      "keyword": "네덜란드 스웨덴",
+      "traffic": "200+"
+    },
+    {
       "rank": 7,
-      "keyword": "강회장",
+      "keyword": "미사일",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "기아타이거즈",
-      "traffic": "500+"
+      "keyword": "이도현",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "성영탁",
+      "keyword": "심수봉",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "클로봇",
-      "traffic": "100+"
+      "keyword": "이옥섭",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "80대 경찰 개표소 봉쇄 시위 적발",
-      "state": "n",
+      "keyword": "신입사원 강회장",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "임지연과 허남준의 멋진 해피엔딩",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "호르무즈 다시 봉쇄 이스라엘",
-      "state": "n",
+      "keyword": "이란, 호르무즈 재봉쇄 카드 꺼내다",
+      "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "김재환 3연타석 홈런 폭발",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 4,
-      "keyword": "신입사원 강회장",
+      "keyword": "가수 옥희 별세",
       "state": "-",
       "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "월드컵 일정",
-      "state": "-",
-      "change": "2"
+      "keyword": "박은영 의사 남편 자랑",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "가수 옥희 별세",
-      "state": "n",
-      "change": "0"
+      "keyword": "한일 핸드볼 슈퍼매치",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "그것이 알고 싶다",
-      "state": "s",
-      "change": "0"
+      "keyword": "1229회 로또 1등 35억 당첨자",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "파라과이 퇴장 불명예",
+      "keyword": "로빈, 유산 딛고 임신",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "한화, 삼성 꺾고 6연패 탈출!",
-      "state": "-",
-      "change": "1"
+      "keyword": "소이, 변호사와 8월 결혼",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "로빈♥김서연, 유산 아픔 딛고 임신 발표",
+      "keyword": "멋진 신세계 결말은 해피엔딩",
       "state": "-",
-      "change": "9"
+      "change": "7"
     }
   ]
 }
