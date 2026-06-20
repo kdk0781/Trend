@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-19T23:44:48.560Z",
+  "updatedAt": "2026-06-20T01:53:18.717Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "마카오 오픈",
-      "traffic": "200+"
+      "keyword": "대한민국 과학기술정보통신부",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "모로코",
+      "keyword": "삼성sdi",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "성빈",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "天氣",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "jadwal piala dunia 2026",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "날씨",
-      "traffic": "200000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "스포티비뉴스",
+      "keyword": "기은세",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "두산베어스",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "brasil đấu với haiti",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "네이마르",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "수영장",
+      "traffic": "2000+"
+    },
+    {
       "rank": 8,
-      "keyword": "weather",
+      "keyword": "퇴직",
       "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "농협은행",
-      "traffic": "100+"
+      "keyword": "아랍에미리트",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "아이폰",
-      "traffic": "100+"
+      "keyword": "브라질 대 아이티",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "월드컵 일정",
+      "keyword": "모로코, 스코틀랜드 1-0 제압",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "멋진 신세계, 최고 시청률 경신",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 3,
-      "keyword": "트럼프 60일 내 합의 요구",
+      "keyword": "트럼프 특사 스위스 출발",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "순순희 지환, 오늘 결혼합니다!",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 4,
-      "keyword": "이화영 술 파티 위증 징역 4개월",
-      "state": "+",
-      "change": "1"
+      "keyword": "BTS RM 국립박물관 홍보대사",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "신입사원 강회장",
-      "state": "+",
-      "change": "1"
+      "keyword": "JTBC 멕시코전 KBS 앞섰다",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김신영 주사 논란",
+      "keyword": "경북 산사태 주의보",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "이기혁 SNS 악플 세례",
-      "state": "n",
-      "change": "0"
+      "keyword": "앤 해서웨이 셋째 임신 발표",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "신민아 10년 결혼관",
+      "keyword": "기름값 5주 연속 하락",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "멕시코 유망주 이강인 좋은 선수",
+      "keyword": "첫사랑과 아이, 남편 재회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "경찰 잘못 버린 사람 다리",
-      "state": "n",
-      "change": "0"
+      "keyword": "태풍 동해안 장마 변수?",
+      "state": "-",
+      "change": "4"
     }
   ]
 }
