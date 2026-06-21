@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-20T23:38:32.896Z",
+  "updatedAt": "2026-06-21T02:02:45.584Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "네덜란드 축구 국가대표팀",
-      "traffic": "1000+"
+      "keyword": "죽음 의 조",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "러시아",
-      "traffic": "1000+"
+      "keyword": "다시보기",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "삼성물산",
+      "keyword": "두산베어스",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "2026 fifa 월드컵 순위",
+      "keyword": "마이어 lpga 클래식",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "요나단 페라자",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "기상",
+      "keyword": "ecuador vs curaçao",
       "traffic": "500+"
     },
     {
-      "rank": 7,
-      "keyword": "나는 solo",
+      "rank": 6,
+      "keyword": "퀴라소",
       "traffic": "5000+"
     },
     {
-      "rank": 8,
-      "keyword": "튀르키예 축구 국가대표팀",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "2026 fifa 월드컵 일본",
+      "rank": 7,
+      "keyword": "홍수환",
       "traffic": "100+"
     },
     {
+      "rank": 8,
+      "keyword": "아버지",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "튀니지 축구 국가대표팀",
+      "traffic": "1000+"
+    },
+    {
       "rank": 10,
-      "keyword": "축제",
-      "traffic": "200+"
+      "keyword": "이정후",
+      "traffic": "20000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "신입사원 강회장",
-      "state": "s",
-      "change": "0"
+      "keyword": "성기홍 민정수석 한찬식",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "멋진 신세계 해피엔딩을 향해",
+      "keyword": "옥희 암 투병 끝 별세",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "이정후 2루타 타율 0.331",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "코트디부아르 4-0 격파",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 4,
-      "keyword": "강남점 주얼리 전문관",
-      "state": "+",
-      "change": "6"
+      "keyword": "임지연♥허남준 멋진 신세계 최고 14.1%",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "옥희, 신장암 투병 끝 사망 73세",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "오십프로 김채은 신스틸러 활약",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "조현욱 진상규명위원장 인터뷰",
+      "keyword": "르노코리아 미래 모빌리티",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "선관위 개혁 시민토론회",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "부천 유니콘스 활약 소식",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "사랑을 처방해 드립니다",
-      "state": "+",
-      "change": "1"
+      "keyword": "LG전자 AI 세탁기 출시",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이란 호르무즈 재봉쇄 시사",
-      "state": "-",
+      "keyword": "사적 복수 대행 검거",
+      "state": "+",
       "change": "4"
     },
     {
       "rank": 10,
-      "keyword": "운다브 멀티골 2-1 역전승",
+      "keyword": "박혜경 가짜 뉴스 신고",
       "state": "n",
       "change": "0"
     }
