@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-06-21T22:36:42.962Z",
+  "updatedAt": "2026-06-21T23:53:58.054Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "수영",
+      "keyword": "중국",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "박진만",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "조세",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "우루과이 대 카보베르데",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "부산날씨",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "이민영",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "복권",
+      "keyword": "홈런",
       "traffic": "1000+"
     },
     {
+      "rank": 3,
+      "keyword": "옌스 카스트로프",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "모두 의 창업",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "pga",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "양산시",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "대구날씨",
+      "traffic": "100+"
+    },
+    {
       "rank": 8,
-      "keyword": "ket qua bong da",
-      "traffic": "200+"
+      "keyword": "식객 허영만의 백반기행",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "삼성",
-      "traffic": "20000+"
+      "keyword": "지효",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "이정후",
-      "traffic": "10000+"
+      "keyword": "양파",
+      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -61,32 +61,32 @@
     },
     {
       "rank": 2,
-      "keyword": "이란, 트럼프 위협에 협상 이탈",
+      "keyword": "카보 베르데 공화국",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "박정수, 25년 사실혼 이유",
-      "state": "s",
-      "change": "0"
+      "keyword": "고 옥희 별세 애도합니다",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "고 옥희의 별세",
-      "state": "s",
+      "keyword": "허남준과 임지연, 다시는 못 만날 사람",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "멋진 신세계, 욕먹는 재벌녀 서욕",
-      "state": "s",
+      "keyword": "이란, 벨기에 0-0 무승부",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "빌라 옥상에서 뛰다 추락한 여중생",
-      "state": "n",
+      "keyword": "박정수와 정을영 사실혼 이유",
+      "state": "s",
       "change": "0"
     },
     {
@@ -97,19 +97,19 @@
     },
     {
       "rank": 8,
-      "keyword": "타율 추락과 삼진 18타석",
-      "state": "s",
+      "keyword": "3분기 전기요금 동결 유지",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "오산 주한미군 사드 복귀",
+      "keyword": "배용준의 다정함 포착",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "박은영 신혼여행 연기 이유",
+      "keyword": "이시안 소속사 거짓말",
       "state": "n",
       "change": "0"
     }
