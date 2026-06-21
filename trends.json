@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-21T07:02:07.666Z",
+  "updatedAt": "2026-06-21T10:40:08.457Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "옌스 카스트로프",
-      "traffic": "500+"
+      "keyword": "임광현",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "nhật bản vs",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "함익병",
+      "keyword": "전차",
       "traffic": "2000+"
     },
     {
+      "rank": 3,
+      "keyword": "대한민국 해양수산부",
+      "traffic": "200+"
+    },
+    {
       "rank": 4,
-      "keyword": "롯데백화점",
+      "keyword": "glm 5.2",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "우원식",
-      "traffic": "1000+"
+      "keyword": "경북대학교병원",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "세종",
+      "keyword": "lg 트롬",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "야마모토 요시노부",
-      "traffic": "200+"
+      "keyword": "강예원",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "아들",
-      "traffic": "2000+"
+      "keyword": "보안",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "편의점",
-      "traffic": "2000+"
+      "keyword": "쯔양",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "애플",
+      "keyword": "수익률",
       "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "고 옥희 별세 애도합니다",
+      "keyword": "옥희, 신장암 전 당뇨 앓았다.",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "해수부 차관 남재헌 임명",
+      "keyword": "이란 협상 시작",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 3,
+      "keyword": "신입사원 강회장",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "트와이스 지효의 시구",
+      "rank": 4,
+      "keyword": "서교림, 2주 만에 마스터즈 우승",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "강예원 아버지 채무 책임감",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "멋진 신세계 글로벌 흥행",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "멋진 신세계 연기와 흥행",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "튀니지 압도 경기력 극찬",
+      "rank": 7,
+      "keyword": "한미우호 평화 행사 김민석 이사장",
       "state": "-",
       "change": "2"
     },
     {
-      "rank": 6,
-      "keyword": "단체장 당선자 워크숍",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "강남 의사 소득세 포탈 기소",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 8,
-      "keyword": "5대 은행 가계대출 6조 증가",
-      "state": "n",
-      "change": "0"
+      "keyword": "롯데 김태형 감독 5연승 이끌다",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "사랑을 처방해 드립니다",
-      "state": "+",
-      "change": "1"
+      "keyword": "고성 해변 고교생 실종",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "탕웨이 출산 임박?",
-      "state": "n",
-      "change": "0"
+      "keyword": "모두의 창업 정보 유출",
+      "state": "-",
+      "change": "7"
     }
   ]
 }
