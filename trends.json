@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-21T10:40:08.457Z",
+  "updatedAt": "2026-06-21T12:28:31.867Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "임광현",
-      "traffic": "200+"
+      "keyword": "마이크론 테크놀로지",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "전차",
-      "traffic": "2000+"
+      "keyword": "kbo 리그",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "대한민국 해양수산부",
+      "keyword": "대한민국 우주항공청",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "glm 5.2",
-      "traffic": "100+"
+      "keyword": "위르겐 클린스만",
+      "traffic": "20000+"
     },
     {
       "rank": 5,
-      "keyword": "경북대학교병원",
-      "traffic": "100+"
+      "keyword": "송영길",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "lg 트롬",
+      "keyword": "일본 엔",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "강예원",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "보안",
+      "keyword": "신천지",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "보행자",
+      "traffic": "2000+"
+    },
+    {
       "rank": 9,
-      "keyword": "쯔양",
-      "traffic": "1000+"
+      "keyword": "김양",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "수익률",
-      "traffic": "1000+"
+      "keyword": "신장식",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "옥희, 신장암 전 당뇨 앓았다.",
+      "keyword": "故 옥희 별세 소식",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이란 협상 시작",
+      "keyword": "이란 레바논 종전 없이 협상 불가",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "신입사원 강회장",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "서교림, 2주 만에 마스터즈 우승",
+      "keyword": "LG, 두산 홈런 5방으로 완파",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "멋진 신세계의 매력",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "강예원 아버지 채무 책임감",
-      "state": "-",
-      "change": "1"
+      "keyword": "허영만, 2609일 도전 끝 낙상 사고",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "멋진 신세계 글로벌 흥행",
+      "keyword": "소지섭 조은정 결혼 후 변화",
       "state": "+",
-      "change": "1"
+      "change": "6"
     },
     {
       "rank": 7,
-      "keyword": "한미우호 평화 행사 김민석 이사장",
-      "state": "-",
-      "change": "2"
+      "keyword": "오산 공사장 포탄 추정",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "롯데 김태형 감독 5연승 이끌다",
-      "state": "-",
-      "change": "2"
+      "keyword": "고윤정과 김도훈 훈훈한 모습",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "고성 해변 고교생 실종",
+      "keyword": "부정선거 재선거 외치는 시민들",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "모두의 창업 정보 유출",
+      "keyword": "역전 3점 홈런",
       "state": "-",
-      "change": "7"
+      "change": "5"
     }
   ]
 }
