@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-06-21T16:21:34.283Z",
+  "updatedAt": "2026-06-21T18:02:14.318Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "spain vs saudi arabia",
-      "traffic": "500+"
+      "keyword": "스페인 축구 국가대표팀",
+      "traffic": "100+"
     },
     {
       "rank": 2,
+      "keyword": "스페인 축구",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "동궁",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "스페인 사우디",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "spain vs saudi arabia",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "김용범",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
       "keyword": "agi",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 8,
       "keyword": "신입사원 강회장",
       "traffic": "1000+"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "keyword": "양효진",
       "traffic": "200+"
     },
     {
-      "rank": 5,
-      "keyword": "테일러 프리츠",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "재난",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "초안산 수국 동산",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "정을영",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "공무원시험",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "심수봉",
+      "keyword": "테일러 프리츠",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이란, 레바논 종전 협상 불가",
+      "keyword": "이란 레바논 종전 필요",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "장유빈 2주 연속 우승",
-      "state": "+",
-      "change": "3"
+      "keyword": "신입사원 강회장",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "신입사원 강회장",
-      "state": "-",
-      "change": "1"
+      "keyword": "LG, 3연전 싹쓸이!",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "가수 옥희 별세",
+      "keyword": "신동엽, 소지섭 날라리 오해",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "멋진 신세계 주인공 이목 집중",
+      "keyword": "박정수, 정경호 父 정을영과 25년 사실혼",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "LG 1회 4홈런",
-      "state": "+",
-      "change": "2"
+      "keyword": "KIA 미쳤다 끝내기 대참사",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "모두의 창업 유출 해킹 사고",
-      "state": "-",
-      "change": "1"
+      "keyword": "슬기, 수키진 비보 후 근황",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "사랑을 처방해 드립니다",
-      "state": "+",
-      "change": "3"
+      "keyword": "멋진 신세계 재벌녀와 캐릭터",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "소지섭 조은정과 결혼 후 변화",
+      "keyword": "구자욱 결승타로 삼성 승리!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "연어 술파티 위증 논란",
-      "state": "s",
+      "keyword": "주식 8조 증발하나?",
+      "state": "n",
       "change": "0"
     }
   ]
