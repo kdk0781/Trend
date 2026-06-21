@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-06-21T21:15:10.628Z",
+  "updatedAt": "2026-06-21T22:36:42.962Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "잠수함",
-      "traffic": "1000+"
+      "keyword": "수영",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "종합부동산세",
-      "traffic": "200+"
+      "keyword": "박진만",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "폭스바겐 그룹",
-      "traffic": "200+"
+      "keyword": "조세",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "พยากรณ์อากาศ",
-      "traffic": "200+"
+      "keyword": "우루과이 대 카보베르데",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "대한민국 우주 항공청",
+      "keyword": "부산날씨",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "구광모",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "브루어스 대 브레이브스",
+      "keyword": "이민영",
       "traffic": "200+"
     },
     {
+      "rank": 7,
+      "keyword": "복권",
+      "traffic": "1000+"
+    },
+    {
       "rank": 8,
-      "keyword": "사랑을 처방해 드립니다",
+      "keyword": "ket qua bong da",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "가디언즈 대 애스트로스",
-      "traffic": "100+"
+      "keyword": "삼성",
+      "traffic": "20000+"
     },
     {
       "rank": 10,
-      "keyword": "벨기에",
-      "traffic": "200+"
+      "keyword": "이정후",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "이란 협상 파행",
+      "keyword": "이란, 트럼프 위협에 협상 이탈",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "스페인, 사우디 4-0 승리",
-      "state": "+",
-      "change": "15"
+      "keyword": "박정수, 25년 사실혼 이유",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "멋진 신세계 흥행 신드롬",
-      "state": "-",
-      "change": "1"
+      "keyword": "고 옥희의 별세",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "신동엽 소지섭 날라리 오해",
-      "state": "-",
-      "change": "2"
+      "keyword": "멋진 신세계, 욕먹는 재벌녀 서욕",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "故 옥희, 당뇨 투병 중신장암",
-      "state": "s",
+      "keyword": "빌라 옥상에서 뛰다 추락한 여중생",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "트럼프 이란 막지 않으면 타격",
-      "state": "s",
+      "keyword": "스타벅스 오후 3시 종료",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "사랑을 처방해 드립니다",
-      "state": "-",
-      "change": "2"
+      "keyword": "타율 추락과 삼진 18타석",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "박정수, 정경호와 정을영 포착",
+      "keyword": "오산 주한미군 사드 복귀",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "태풍",
-      "state": "-",
-      "change": "2"
+      "keyword": "박은영 신혼여행 연기 이유",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
