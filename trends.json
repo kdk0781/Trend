@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-22T14:33:16.355Z",
+  "updatedAt": "2026-06-22T18:33:28.848Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "심야괴담회",
+      "keyword": "argentina",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "지연수",
-      "traffic": "2000+"
+      "keyword": "kone",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "군인",
+      "keyword": "김선근",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "삼성 갤럭시",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "고민정",
+      "keyword": "학생",
       "traffic": "200+"
     },
     {
+      "rank": 5,
+      "keyword": "아르헨티나 대 오스트리아",
+      "traffic": "10000+"
+    },
+    {
       "rank": 6,
-      "keyword": "카리나",
+      "keyword": "argentina vs austria",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "송가 인",
-      "traffic": "5000+"
+      "keyword": "새마을 금고",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "한채아",
+      "keyword": "초콜릿",
       "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "인요한",
-      "traffic": "500+"
+      "keyword": "황치열",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "광명시",
-      "traffic": "1000+"
+      "keyword": "트위터",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "박성재 내란 가담 25년 형",
-      "state": "n",
+      "keyword": "그린스펀 타계 100세",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "내일도 출근",
-      "state": "-",
-      "change": "1"
+      "keyword": "IAEA 핵사찰단 이란 복귀",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "지하철 무임 70세 상향",
+      "keyword": "지연수 일라이 재혼 걱정돼",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "20대 남성 구속된 살해 사건",
-      "state": "n",
+      "keyword": "버디 퍼트 들어가렴",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "박서진 콘서트 취소",
-      "state": "n",
-      "change": "0"
+      "keyword": "박성재 내란 징역 25년",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "그린스펀 타계 100세",
+      "keyword": "월드컵 일정",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "월드컵 일정",
-      "state": "-",
-      "change": "3"
+      "keyword": "심수창 이혼 이유",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "브라질 여성 스토킹 사건",
+      "keyword": "스타머 총리 사임 결정",
+      "state": "+",
+      "change": "6"
+    },
+    {
+      "rank": 9,
+      "keyword": "김민석 총리, 중국 기업인 간담회",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "드러누워서라도 막았어야 레버리지에",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 10,
-      "keyword": "IAEA 핵사찰단 이란 복귀",
-      "state": "n",
-      "change": "0"
+      "keyword": "정국 브라질 여성 집행유예",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
