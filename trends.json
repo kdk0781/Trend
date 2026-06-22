@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-21T23:53:58.054Z",
+  "updatedAt": "2026-06-22T02:57:10.689Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "중국",
-      "traffic": "500+"
+      "keyword": "파기환송",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "홈런",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "옌스 카스트로프",
+      "keyword": "전영현",
       "traffic": "2000+"
     },
     {
+      "rank": 3,
+      "keyword": "라파엘 데버스",
+      "traffic": "1000+"
+    },
+    {
       "rank": 4,
-      "keyword": "모두 의 창업",
+      "keyword": "김주형",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "pga",
+      "keyword": "sk스퀘어 주가",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "양산시",
-      "traffic": "100+"
+      "keyword": "리니지",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "대구날씨",
-      "traffic": "100+"
+      "keyword": "두산그룹",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "식객 허영만의 백반기행",
+      "keyword": "특허로",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "지효",
-      "traffic": "100+"
+      "keyword": "파크 골프",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "양파",
+      "keyword": "뉴질랜드",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "신입사원 강회장",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "카보 베르데 공화국",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "고 옥희 별세 애도합니다",
+      "keyword": "SK하이닉스 주가 상승",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 2,
+      "keyword": "한성숙, 창업 정보유출 책임 통감",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "발언하는 정청래 대표",
+      "state": "+",
+      "change": "6"
+    },
+    {
       "rank": 4,
-      "keyword": "허남준과 임지연, 다시는 못 만날 사람",
-      "state": "n",
-      "change": "0"
+      "keyword": "신입사원 강회장",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "이란, 벨기에 0-0 무승부",
-      "state": "n",
-      "change": "0"
+      "keyword": "이억원 위원장 청년미래적금 홍보",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "박정수와 정을영 사실혼 이유",
-      "state": "s",
+      "keyword": "남아공전 몬테레이 도착",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "스타벅스 오후 3시 종료",
-      "state": "n",
-      "change": "0"
+      "keyword": "최여진♥김재욱 재산 8000억 루머 해명",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "3분기 전기요금 동결 유지",
-      "state": "n",
-      "change": "0"
+      "keyword": "미·이란, 60일 합의 로드맵 마련",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "배용준의 다정함 포착",
+      "keyword": "오혜수, 결혼과 출산 고백",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이시안 소속사 거짓말",
+      "keyword": "합수본 이만희 구속영장",
       "state": "n",
       "change": "0"
     }
