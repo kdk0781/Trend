@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-22T02:57:10.689Z",
+  "updatedAt": "2026-06-22T08:56:20.833Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "파기환송",
-      "traffic": "200+"
+      "keyword": "kf-21 보라매",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "전영현",
-      "traffic": "2000+"
+      "keyword": "000660",
+      "traffic": "20000+"
     },
     {
       "rank": 3,
-      "keyword": "라파엘 데버스",
-      "traffic": "1000+"
+      "keyword": "박지성",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "김주형",
+      "keyword": "전청조",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "sk스퀘어 주가",
-      "traffic": "100+"
+      "keyword": "저스틴 게이치",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "리니지",
-      "traffic": "200+"
+      "keyword": "최지만",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "두산그룹",
-      "traffic": "200+"
+      "keyword": "이완규",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "특허로",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "파크 골프",
+      "keyword": "연애",
       "traffic": "1000+"
     },
     {
+      "rank": 9,
+      "keyword": "홍장원",
+      "traffic": "200+"
+    },
+    {
       "rank": 10,
-      "keyword": "뉴질랜드",
+      "keyword": "퓨리오사ai",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "SK하이닉스 주가 상승",
+      "keyword": "하이닉스 시총 1위 등극",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "한성숙, 창업 정보유출 책임 통감",
+      "keyword": "박성재 징역 25년",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "발언하는 정청래 대표",
-      "state": "+",
-      "change": "6"
+      "keyword": "신입사원 강회장",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "신입사원 강회장",
-      "state": "-",
-      "change": "1"
+      "keyword": "故옥희 별세 애도",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이억원 위원장 청년미래적금 홍보",
+      "keyword": "연애의 재발견 촬영 중단",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "착한 주유소 선정",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 6,
-      "keyword": "남아공전 몬테레이 도착",
+      "rank": 7,
+      "keyword": "정설아의 매력 가득",
       "state": "n",
       "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "최여진♥김재욱 재산 8000억 루머 해명",
-      "state": "+",
-      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "미·이란, 60일 합의 로드맵 마련",
-      "state": "+",
-      "change": "1"
+      "keyword": "조정식 박홍근 접견",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "오혜수, 결혼과 출산 고백",
-      "state": "n",
-      "change": "0"
+      "keyword": "정동영 장관, 하원부의장 면담",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "합수본 이만희 구속영장",
-      "state": "n",
-      "change": "0"
+      "keyword": "조기 영업 종료한 스타벅스",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
