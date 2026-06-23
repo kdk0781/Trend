@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-23T04:18:13.945Z",
+  "updatedAt": "2026-06-23T07:59:44.455Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "황 유민",
-      "traffic": "1000+"
+      "keyword": "김혜성",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "며느리",
-      "traffic": "10000+"
+      "keyword": "김호중",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "설 영우",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "안규백",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "사이드카",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "jordan vs algeria",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "포수",
+      "keyword": "약국",
       "traffic": "200+"
     },
     {
-      "rank": 8,
-      "keyword": "요르단 대 알제리",
+      "rank": 4,
+      "keyword": "롯데렌탈",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "미실현 수익 과세",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "변동성",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "위철환",
       "traffic": "5000+"
     },
     {
+      "rank": 8,
+      "keyword": "msci 선진국 지수 편입",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "금투세",
-      "traffic": "100+"
+      "keyword": "홈플러스",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "밈 코인",
-      "traffic": "100+"
+      "keyword": "신지",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "발언하는 이재명 대통령",
-      "state": "s",
-      "change": "0"
+      "keyword": "코스피 8%대 급락 서킷브레이커 발동",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "매도 사이드카 발동",
-      "state": "n",
-      "change": "0"
+      "keyword": "이강인 월드컵 일정",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "한동훈, 선거제도 개혁 토론회 참석",
+      "keyword": "김호중, 30일 가석방 출소",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "SK하이닉스 주가 상승세",
-      "state": "+",
-      "change": "1"
+      "keyword": "김정관 장관 한미투자회의 주재",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "아이비 브로드웨이 진출",
+      "keyword": "모태펀드-국민성장펀드 이어달리기 간담회",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "홀란 멀티골 노르웨이 32강!",
-      "state": "s",
-      "change": "0"
+      "keyword": "SK하이닉스 주가 상승 예상",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "다니엘 린데만 3년 만에 아빠",
-      "state": "-",
-      "change": "2"
+      "keyword": "롯데 이이무라 첫 훈련",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "사건에 최악 갑질",
+      "keyword": "이재용 천안 HBM 점검",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김희철 연애전쟁 합류?",
+      "keyword": "구윤철 에이전틱 교육현장",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "2025년 성폭력 안전실태조사",
-      "state": "n",
-      "change": "0"
+      "keyword": "김지석♥이주명 공개열애",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
