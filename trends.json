@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-23T07:59:44.455Z",
+  "updatedAt": "2026-06-23T11:22:22.100Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김혜성",
+      "keyword": "청년",
       "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "김호중",
+      "keyword": "신동",
       "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "약국",
-      "traffic": "200+"
+      "keyword": "용인 반도체 클러스터",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "롯데렌탈",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "미실현 수익 과세",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "변동성",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "위철환",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "msci 선진국 지수 편입",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "홈플러스",
+      "keyword": "메르세데스-벤츠 s클래스",
       "traffic": "2000+"
     },
     {
-      "rank": 10,
-      "keyword": "신지",
+      "rank": 5,
+      "keyword": "산업 재해",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "항공모함",
       "traffic": "1000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "pga 챔피언십",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "노홍철",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
+      "keyword": "안락사",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 10,
+      "keyword": "멕시코 축구 국가대표팀",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "코스피 8%대 급락 서킷브레이커 발동",
-      "state": "+",
-      "change": "1"
+      "keyword": "이강인 월드컵 다음 일정",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이강인 월드컵 일정",
-      "state": "-",
-      "change": "1"
+      "keyword": "김수현 명예훼손 김세의 구속",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김호중, 30일 가석방 출소",
-      "state": "+",
-      "change": "1"
+      "keyword": "LG 박해민 솔로포",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김정관 장관 한미투자회의 주재",
-      "state": "n",
+      "keyword": "하이닉스 주가 하락 항의",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "모태펀드-국민성장펀드 이어달리기 간담회",
+      "keyword": "나성범 선취 투런포",
       "state": "+",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "SK하이닉스 주가 상승 예상",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "롯데 이이무라 첫 훈련",
+      "keyword": "하나은행 만 40세 특별퇴직",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "김영웅 복귀 안타",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "이재용 천안 HBM 점검",
+      "keyword": "김원훈, 선배에게 폭행 당함",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "구윤철 에이전틱 교육현장",
-      "state": "n",
-      "change": "0"
+      "keyword": "인요한 회장 선출되자",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "김지석♥이주명 공개열애",
-      "state": "-",
-      "change": "1"
+      "keyword": "김포 물류창고 화재 발생",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
