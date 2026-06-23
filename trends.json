@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-23T11:22:22.100Z",
+  "updatedAt": "2026-06-23T13:57:38.661Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "청년",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "신동",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "용인 반도체 클러스터",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "메르세데스-벤츠 s클래스",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "산업 재해",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "항공모함",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "pga 챔피언십",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "노홍철",
+      "keyword": "교장",
       "traffic": "500+"
     },
     {
-      "rank": 9,
-      "keyword": "안락사",
+      "rank": 2,
+      "keyword": "손주영",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "슈퍼걸",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "모두의 창업",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "cuaca besok",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "김세의",
       "traffic": "5000+"
     },
     {
+      "rank": 7,
+      "keyword": "주식 미실현 이익 과세",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "장원영",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "김오랑",
+      "traffic": "200+"
+    },
+    {
       "rank": 10,
-      "keyword": "멕시코 축구 국가대표팀",
-      "traffic": "10000+"
+      "keyword": "젠슨 황",
+      "traffic": "20000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이강인 월드컵 다음 일정",
-      "state": "s",
-      "change": "0"
+      "keyword": "이강인 월드컵 일정",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "김수현 명예훼손 김세의 구속",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "LG 박해민 솔로포",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "하이닉스 주가 하락 항의",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "나성범 선취 투런포",
+      "keyword": "감사의 정원 참전국 기게양",
       "state": "+",
       "change": "3"
     },
     {
+      "rank": 3,
+      "keyword": "KIA 양현종 가족 스토킹 50대 검거",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "산골총각 영웅",
+      "state": "+",
+      "change": "9"
+    },
+    {
+      "rank": 5,
+      "keyword": "코스피 역대급 폭락",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "하나은행 만 40세 특별퇴직",
+      "keyword": "장현식 4연승 선발승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김영웅 복귀 안타",
-      "state": "-",
-      "change": "1"
+      "keyword": "안정환 논란 계속된다",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김원훈, 선배에게 폭행 당함",
+      "keyword": "유리, 전 남친 김희철 욕無",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "인요한 회장 선출되자",
-      "state": "-",
-      "change": "2"
+      "keyword": "이민우 부동산 계약서 공개",
+      "state": "+",
+      "change": "43"
     },
     {
       "rank": 10,
-      "keyword": "김포 물류창고 화재 발생",
+      "keyword": "오세훈, 6.25 기념식 참석",
       "state": "n",
       "change": "0"
     }
