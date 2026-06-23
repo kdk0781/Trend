@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-23T20:26:03.314Z",
+  "updatedAt": "2026-06-23T21:54:44.318Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "페페",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "португалия – узбекистан",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "bồ đào nha đấu với uzbekistan",
+      "keyword": "잉글랜드 대 가나",
       "traffic": "1000+"
     },
     {
-      "rank": 4,
-      "keyword": "포르투갈 대 우즈베키스탄",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "portugal vs uzbekistan",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "이재 시",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "김정관",
+      "rank": 2,
+      "keyword": "테슬라 주가",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "치어리더",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "잉글랜드 축구",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "사고",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "lịch thi đấu world cup 2026",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "이효리",
+      "traffic": "2000+"
+    },
+    {
       "rank": 8,
-      "keyword": "하트시그널5",
+      "keyword": "추미애",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "t1 스킨",
-      "traffic": "1000+"
+      "keyword": "후사노프",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "근력 트레이닝",
-      "traffic": "200+"
+      "keyword": "world cup 2026",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "휴고 브로스 기자회견",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
       "keyword": "이강인 월드컵 일정",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "이재명 주한외교단 만찬",
+      "rank": 2,
+      "keyword": "홍명보 감독 질문에 답변",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "MSCI 선진국지수 관찰대상국",
+      "state": "+",
+      "change": "4"
+    },
+    {
       "rank": 4,
-      "keyword": "최여진 김재욱 3층 핫핑크 집",
+      "keyword": "최여진 김재욱 3층 저택 공개",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "트럼프 IAEA 이란 투입",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "감사의 정원에서 국기 게양",
-      "state": "-",
-      "change": "2"
-    },
-    {
       "rank": 6,
-      "keyword": "장현식 9년 만 선발승 LG 4연승",
+      "keyword": "호날두 6개 대회 득점",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "이란 오만 통항료 검토",
-      "state": "s",
-      "change": "0"
+      "keyword": "고준희 9살 연하 펀드매니저 만남",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 8,
-      "keyword": "오세훈, 6.25 기념식 참석",
+      "keyword": "기술주 약세 나스닥 하락",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "대한민국 축구 대표팀",
-      "state": "n",
-      "change": "0"
+      "keyword": "내일도 출근",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "고준희 9살 연하 맞선 이야기",
+      "keyword": "이란·오만 호르무즈 통항 요금 검토",
       "state": "+",
-      "change": "5"
+      "change": "2"
     }
   ]
 }
