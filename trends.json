@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-23T00:09:11.539Z",
+  "updatedAt": "2026-06-23T04:18:13.945Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "한그루",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "주성엔지니어링",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "운동",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "f-35b",
+      "keyword": "황 유민",
       "traffic": "1000+"
     },
     {
+      "rank": 2,
+      "keyword": "며느리",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "설 영우",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "안규백",
+      "traffic": "500+"
+    },
+    {
       "rank": 5,
-      "keyword": "prancis vs irak",
-      "traffic": "200+"
+      "keyword": "사이드카",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "франция – ирак",
-      "traffic": "100+"
+      "keyword": "jordan vs algeria",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "fifa world cup games",
-      "traffic": "100+"
+      "keyword": "포수",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "2026",
+      "keyword": "요르단 대 알제리",
       "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "테슬라",
-      "traffic": "1000+"
+      "keyword": "금투세",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "pháp vs",
-      "traffic": "200+"
+      "keyword": "밈 코인",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이강인 다음 일정",
+      "keyword": "발언하는 이재명 대통령",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "북한, 2차 확대회의 개최",
-      "state": "s",
+      "keyword": "매도 사이드카 발동",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "북중미 월드컵 첫 승과 날씨",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "BTS 아리랑, 2026년 최고 앨범",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "삼성전자, 업계 최초 AI 최적화 UFS 5.0",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "심재원, 우월한 DNA",
-      "state": "-",
+      "keyword": "한동훈, 선거제도 개혁 토론회 참석",
+      "state": "+",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "김선근 아나운서",
-      "state": "n",
+      "rank": 4,
+      "keyword": "SK하이닉스 주가 상승세",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "아이비 브로드웨이 진출",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "홀란 멀티골 노르웨이 32강!",
+      "state": "s",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "다니엘 린데만 3년 만에 아빠",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 8,
-      "keyword": "하이닉스 주가 상승 기대",
+      "keyword": "사건에 최악 갑질",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "닥터 섬보이",
-      "state": "-",
-      "change": "2"
+      "keyword": "김희철 연애전쟁 합류?",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "7월 개봉 확정",
+      "keyword": "2025년 성폭력 안전실태조사",
       "state": "n",
       "change": "0"
     }
