@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-23T16:26:14.281Z",
+  "updatedAt": "2026-06-23T18:19:04.505Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "하트시그널5",
+      "keyword": "portugal",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "t1 스킨",
-      "traffic": "500+"
+      "keyword": "португалия – узбекистан",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "근력 트레이닝",
-      "traffic": "200+"
+      "keyword": "bồ đào nha đấu với uzbekistan",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "류혜영",
-      "traffic": "100+"
+      "keyword": "포르투갈 대 우즈베키스탄",
+      "traffic": "10000+"
     },
     {
       "rank": 5,
-      "keyword": "채원아",
-      "traffic": "200+"
+      "keyword": "portugal vs uzbekistan",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "한국배구연맹",
+      "keyword": "이재 시",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "시청률",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "신문선",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "순위",
+      "keyword": "김정관",
       "traffic": "100+"
     },
     {
-      "rank": 10,
-      "keyword": "교장",
+      "rank": 8,
+      "keyword": "하트시그널5",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
+      "keyword": "t1 스킨",
       "traffic": "500+"
+    },
+    {
+      "rank": 10,
+      "keyword": "근력 트레이닝",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "감사의 정원 행사",
+      "keyword": "감사의 정원 6·25 기념식",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이범호 감독 축하와 하이파이브",
-      "state": "s",
+      "keyword": "장현식 9년 만의 승리 LG 4연승",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "최저임금 1만2000원 대 동결",
-      "state": "+",
-      "change": "2"
+      "keyword": "최여진 김재욱 3층 집 공개",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "하트 시그널 5",
-      "state": "-",
-      "change": "1"
+      "keyword": "이재명 대통령 주한외교단",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김포 물류창고 화재 발생",
-      "state": "-",
-      "change": "1"
+      "keyword": "이범호 감독과 하이파이브!",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "최여진 김재욱 3층 대저택 공개",
+      "keyword": "이강인 다음 일정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "장현식 선발승 LG 4연승",
-      "state": "n",
+      "keyword": "이란·오만 호르무즈 요금 검토",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이강인 월드컵 일정",
-      "state": "-",
-      "change": "1"
+      "keyword": "이민우 부동산 계약서 공개",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김수현 명예훼손 김세의",
+      "keyword": "위철환 재선거 무책임 발언",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "기희현 이상윤 열애 발표",
+      "keyword": "나성범 투런포!",
       "state": "s",
       "change": "0"
     }
