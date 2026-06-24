@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-24T00:07:00.902Z",
+  "updatedAt": "2026-06-24T04:21:13.399Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "피의 게임",
-      "traffic": "100+"
+      "keyword": "박하나",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "연비",
-      "traffic": "100+"
+      "keyword": "퇴직금",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "대한민국 남아공",
-      "traffic": "100+"
+      "keyword": "멕시코 축구 국가대표팀",
+      "traffic": "10000+"
     },
     {
       "rank": 4,
-      "keyword": "박지성",
-      "traffic": "5000+"
+      "keyword": "지나",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "panama vs croatia",
-      "traffic": "500+"
+      "keyword": "시부모",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "정유공장",
-      "traffic": "500+"
+      "keyword": "에버랜드 판다월드",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "현대백화점 울산점",
+      "keyword": "hd현대삼호",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "파나마 대 크로아티아",
-      "traffic": "2000+"
+      "keyword": "이강인",
+      "traffic": "20000+"
     },
     {
       "rank": 9,
-      "keyword": "스팀",
-      "traffic": "200+"
+      "keyword": "삼성전자 자사주 매입",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "첫 번째 남자",
+      "keyword": "정청래 사퇴",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이강인 월드컵 일정 조정",
+      "keyword": "맨 끝줄 소년 최민식과 최현욱",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "5천T급 구축함 최현호",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "MSCI 편입 실패",
+      "keyword": "합수본 선관위 압수수색",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 3,
+      "keyword": "아리셀 참사 2주기 추모식",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 4,
-      "keyword": "잉글랜드 가나 0-0 무승부",
+      "keyword": "북한군 1명 귀순 확보",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "기희현 이상윤 열애 공개",
+      "keyword": "김호철 감사원장 기자간담회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "제주 태풍 변수",
-      "state": "s",
+      "keyword": "이정후 5호 홈런 폭발!",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "임영웅 산골총각 시청률 1위",
-      "state": "s",
-      "change": "0"
+      "keyword": "송옥주 무죄 확정",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "홍명보 감독 남아공전 승리 다짐",
+      "keyword": "최저임금 결정 촉구",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "홍수환 배웅 속 영면",
+      "keyword": "홍수환 배웅 속 영면한 故옥희",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "세미나 나선 오세훈 서울시장",
+      "keyword": "성평등위원회 협의체",
       "state": "n",
       "change": "0"
     }
