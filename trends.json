@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-24T04:21:13.399Z",
+  "updatedAt": "2026-06-24T07:57:52.190Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "박하나",
+      "keyword": "캐나다 잠수함",
       "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "퇴직금",
-      "traffic": "500+"
+      "keyword": "마이크론 실적발표 시간",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "멕시코 축구 국가대표팀",
-      "traffic": "10000+"
+      "keyword": "kbo 올스타전",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "지나",
-      "traffic": "100+"
+      "keyword": "냉장고",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "시부모",
+      "keyword": "벨라루스",
       "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "에버랜드 판다월드",
-      "traffic": "1000+"
+      "keyword": "뉴스 속보",
+      "traffic": "10000+"
     },
     {
       "rank": 7,
-      "keyword": "hd현대삼호",
-      "traffic": "200+"
+      "keyword": "정부",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "이강인",
-      "traffic": "20000+"
+      "keyword": "하이닉스 채용",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "삼성전자 자사주 매입",
-      "traffic": "1000+"
+      "keyword": "하현승",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "정청래 사퇴",
-      "traffic": "200+"
+      "keyword": "송옥주",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "맨 끝줄 소년 최민식과 최현욱",
-      "state": "s",
-      "change": "0"
+      "keyword": "문재인 전 대통령과 정청래",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "합수본 선관위 압수수색",
+      "keyword": "장동혁 대표 기자회견",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "아리셀 참사 2주기 추모식",
-      "state": "n",
-      "change": "0"
+      "keyword": "70세 이상 버스 무임승차 통과",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "북한군 1명 귀순 확보",
-      "state": "n",
-      "change": "0"
+      "keyword": "이강인 월드컵 일정",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "김호철 감사원장 기자간담회",
-      "state": "n",
-      "change": "0"
+      "keyword": "코스피 상승 마감",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "이정후 5호 홈런 폭발!",
+      "keyword": "윤창렬 실장, 마약 대책 회의",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "송옥주 무죄 확정",
+      "keyword": "경찰, 올다르크 출석 요구",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "최저임금 결정 촉구",
-      "state": "n",
-      "change": "0"
+      "keyword": "정연, 언니와 미팅?",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "홍수환 배웅 속 영면한 故옥희",
+      "keyword": "김범수 카카오 미래이니셔티브센터장",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "성평등위원회 협의체",
-      "state": "n",
-      "change": "0"
+      "keyword": "4월 출생아 18% 증가",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
