@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-24T07:57:52.190Z",
+  "updatedAt": "2026-06-24T10:49:35.126Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "캐나다 잠수함",
-      "traffic": "2000+"
+      "keyword": "lg이노텍",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "마이크론 실적발표 시간",
-      "traffic": "2000+"
+      "keyword": "차승원",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "kbo 올스타전",
-      "traffic": "2000+"
+      "keyword": "의정부시",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "냉장고",
-      "traffic": "2000+"
+      "keyword": "서울양평고속도로",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "벨라루스",
-      "traffic": "2000+"
+      "keyword": "인천국제공항",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "뉴스 속보",
-      "traffic": "10000+"
+      "keyword": "버스",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "정부",
-      "traffic": "2000+"
+      "keyword": "여에스더",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "하이닉스 채용",
-      "traffic": "500+"
+      "keyword": "금양",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "하현승",
-      "traffic": "500+"
+      "keyword": "유상증자",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "송옥주",
-      "traffic": "500+"
+      "keyword": "연합뉴스tv",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "문재인 전 대통령과 정청래",
-      "state": "+",
-      "change": "1"
+      "keyword": "이강인 다음 일정",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "장동혁 대표 기자회견",
+      "keyword": "현대차 노조 파업 가결",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "70세 이상 버스 무임승차 통과",
-      "state": "+",
-      "change": "1"
+      "keyword": "방문한 김민석 국무총리",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이강인 월드컵 일정",
+      "keyword": "LG 앤더스 힘내라",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "지효의 강렬한 가을 패션",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "수원 마약 의심 남성 석방",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "코스피 상승 마감",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "윤창렬 실장, 마약 대책 회의",
+      "rank": 7,
+      "keyword": "출산 6개월 이혼",
       "state": "n",
       "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "경찰, 올다르크 출석 요구",
-      "state": "+",
-      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "정연, 언니와 미팅?",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "김범수 카카오 미래이니셔티브센터장",
+      "keyword": "전남친이 뭐하는 짓입니까",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "4월 출생아 18% 증가",
+      "rank": 9,
+      "keyword": "양의지 최다 득표",
       "state": "-",
-      "change": "2"
+      "change": "5"
+    },
+    {
+      "rank": 10,
+      "keyword": "한그루, 슬림핏 민소매 자태",
+      "state": "-",
+      "change": "4"
     }
   ]
 }
