@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-24T22:16:19.789Z",
+  "updatedAt": "2026-06-24T23:35:21.316Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "나스닥 100",
-      "traffic": "1000+"
+      "keyword": "옌스 카스트로프",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "스코틀랜드 대 브라질",
-      "traffic": "5000+"
+      "keyword": "체코 멕시코",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "정년",
-      "traffic": "200+"
+      "keyword": "fifaワールドカップ 2026 順位表",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "한화솔루션",
+      "keyword": "오늘의 운세",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "백진희",
-      "traffic": "200+"
+      "keyword": "푸바오",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "성리",
+      "keyword": "김병주",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "마이크론 테크놀로지",
-      "traffic": "2000+"
+      "keyword": "그랜드 테프트 오토 vi",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "일본",
-      "traffic": "2000+"
+      "keyword": "다우 존스 산업평균지수",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "미스트롯 포유",
-      "traffic": "1000+"
+      "keyword": "날씨",
+      "traffic": "500000+"
     },
     {
       "rank": 10,
-      "keyword": "장마",
-      "traffic": "10000+"
+      "keyword": "morocco vs haiti",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "월드컵 일정",
-      "state": "s",
-      "change": "0"
+      "keyword": "북중미 월드컵 영광을 위하여",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "이만희 신천지 구속",
+      "keyword": "홍명보호, A조 2위로 캐나다 만난다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "LG 염경엽 700승 감독",
-      "state": "s",
+      "keyword": "일본 아오모리 6.9 지진",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "영수의 옥순 선택",
-      "state": "s",
+      "keyword": "방탄소년단 아리랑 상반기 2관왕",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "원유 분리막 기술 개발",
-      "state": "s",
+      "keyword": "국토부, AI 26개 지원",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "부득이한 한국 32강 캐나다",
+      "keyword": "청소 알바의 흉기 위협",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "트럼프 이란 통행료 안 받을 것",
-      "state": "-",
-      "change": "1"
+      "keyword": "현대차 노조 파업 시작",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김대호 경수진 사랑 고백",
+      "keyword": "샘 해밍턴, 주사 맞고 홀쭉해졌어",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "현대청운중 여왕기 중등부 우승!",
+      "keyword": "김민경 오빠 약대 인증",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "순이익 30% 성과급 요구",
+      "keyword": "국힘 신천지 가입 압력",
       "state": "n",
       "change": "0"
     }
