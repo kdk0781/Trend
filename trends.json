@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-24T10:49:35.126Z",
+  "updatedAt": "2026-06-24T13:08:20.251Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "lg이노텍",
-      "traffic": "500+"
+      "keyword": "80달러",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "차승원",
-      "traffic": "500+"
+      "keyword": "내일 날씨",
+      "traffic": "200000+"
     },
     {
       "rank": 3,
-      "keyword": "의정부시",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "서울양평고속도로",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "인천국제공항",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "버스",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "여에스더",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "금양",
+      "keyword": "thời tiết ngày mai",
       "traffic": "2000+"
     },
     {
+      "rank": 4,
+      "keyword": "погода завтра",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "방화",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "weather tomorrow",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "성과급",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "이성미",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "유상증자",
+      "keyword": "원자력",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "연합뉴스tv",
-      "traffic": "200+"
+      "keyword": "모스탄",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이강인 다음 일정",
-      "state": "s",
+      "keyword": "염경엽 감독 700승 달성",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "현대차 노조 파업 가결",
+      "keyword": "세월호 생존자 애도 바꿀 수 있습니다.",
       "state": "+",
-      "change": "1"
+      "change": "7"
     },
     {
       "rank": 3,
-      "keyword": "방문한 김민석 국무총리",
+      "keyword": "벤, 출산 후 6개월 만 이혼",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "LG 앤더스 힘내라",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "지효의 강렬한 가을 패션",
+      "keyword": "모스 탄 교수 기자회견",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "수원 마약 의심 남성 석방",
+      "rank": 5,
+      "keyword": "첫 번째 남자",
       "state": "+",
-      "change": "1"
+      "change": "6"
+    },
+    {
+      "rank": 6,
+      "keyword": "샘 해밍턴, 다이어트 주사 맞고 있다",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "출산 6개월 이혼",
+      "keyword": "청소 알바 흉기 위협 30대 검거",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "전남친이 뭐하는 짓입니까",
+      "keyword": "붉은 진주",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "양의지 최다 득표",
-      "state": "-",
-      "change": "5"
+      "keyword": "환율 17년 1540원대",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "한그루, 슬림핏 민소매 자태",
-      "state": "-",
-      "change": "4"
+      "keyword": "최광제 아빠 됐다 고맙고 대단해",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
