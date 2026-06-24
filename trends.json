@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-24T20:57:30.363Z",
+  "updatedAt": "2026-06-24T22:16:19.789Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김동관",
-      "traffic": "100+"
+      "keyword": "나스닥 100",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "산삼",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "개",
+      "keyword": "스코틀랜드 대 브라질",
       "traffic": "5000+"
     },
     {
+      "rank": 3,
+      "keyword": "정년",
+      "traffic": "200+"
+    },
+    {
       "rank": 4,
-      "keyword": "히 혼의 수치",
+      "keyword": "한화솔루션",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "근로장려금",
+      "keyword": "백진희",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "스마트글래스",
-      "traffic": "100+"
+      "keyword": "성리",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "책",
+      "keyword": "마이크론 테크놀로지",
       "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "영화",
-      "traffic": "500+"
+      "keyword": "일본",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "이가 시비옹테크",
-      "traffic": "100+"
+      "keyword": "미스트롯 포유",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "micron",
-      "traffic": "100+"
+      "keyword": "장마",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이강인 다음 일정",
+      "keyword": "월드컵 일정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
       "keyword": "이만희 신천지 구속",
-      "state": "+",
-      "change": "1"
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "LG 염경엽 감독 700승",
-      "state": "-",
-      "change": "1"
+      "keyword": "LG 염경엽 700승 감독",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "옥순 선택한 영수",
+      "keyword": "영수의 옥순 선택",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "트럼프 이란, 호르무즈 통행료 안 받는다",
+      "keyword": "원유 분리막 기술 개발",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "분리막 기술 개발",
-      "state": "s",
+      "keyword": "부득이한 한국 32강 캐나다",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김대호, 경수진 사랑 고백",
-      "state": "+",
-      "change": "15"
+      "keyword": "트럼프 이란 통행료 안 받을 것",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "허남준 주 7일 아르바이트 91만 원",
+      "keyword": "김대호 경수진 사랑 고백",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "성과급 요구 현대차 노조",
+      "keyword": "현대청운중 여왕기 중등부 우승!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "윤마치 출근 OST 발매",
+      "keyword": "순이익 30% 성과급 요구",
       "state": "n",
       "change": "0"
     }
