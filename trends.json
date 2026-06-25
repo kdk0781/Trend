@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-25T16:06:03.900Z",
+  "updatedAt": "2026-06-25T18:22:21.214Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "나스닥",
-      "traffic": "2000+"
+      "keyword": "태극기",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
+      "keyword": "최지만",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "빗썸",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
       "keyword": "서울특별시교육청",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "수국",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "팔란티어",
       "traffic": "100+"
     },
     {
-      "rank": 5,
-      "keyword": "윤선우",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "애플",
-      "traffic": "1000+"
-    },
-    {
       "rank": 7,
-      "keyword": "아는 형님",
-      "traffic": "5000+"
+      "keyword": "윤선우",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "권순우",
-      "traffic": "500+"
+      "keyword": "요즘 육아 금쪽같은 내새끼",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "윤경호",
-      "traffic": "100+"
+      "keyword": "애플",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "장기 기증",
+      "keyword": "아는 형님",
       "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "현대차 노조, 파업권 확보",
-      "state": "+",
-      "change": "6"
+      "keyword": "김도영 홈런 공동 선두",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김도영 홈런 공동 1위",
+      "keyword": "경찰에 침 뱉고 구속",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "경찰에 침 뱉은 40대 여성 구속",
-      "state": "-",
-      "change": "2"
+      "keyword": "여자 5호 혼자 도시락 먹기",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "여자 5호, 혼자 도시락 먹어.",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 5,
-      "keyword": "이용규 2년 실격 처분",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "월드컵 일정",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "베네수엘라 강진 사망 164명",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 8,
       "keyword": "美 5월 PCE 4.1%↑",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "한국 32강 확률 94%",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "이혜영 15년 의붓딸",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "영주 가스 누출 확인 중",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "월드컵 일정",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "이혜영 의붓딸 첫 공개",
+      "keyword": "베네수엘라 강진 사망자 164명",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "영주 가스 누출 신고",
-      "state": "n",
-      "change": "0"
+      "keyword": "보완수사권 폐지 논란",
+      "state": "-",
+      "change": "5"
     }
   ]
 }
