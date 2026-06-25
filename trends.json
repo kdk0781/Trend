@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-06-25T20:28:22.385Z",
+  "updatedAt": "2026-06-25T22:04:01.955Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "박미선",
-      "traffic": "100+"
+      "keyword": "우연이",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "태극기",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "최지만",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "빗썸",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "나스닥",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "서울특별시교육청",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "수국",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "팔란티어",
+      "keyword": "curaçao vs côte d'ivoire",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "폐교",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "샌디스크",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "현대자동차",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "독일 에콰도르",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "sk하이닉스",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "비트코인",
+      "traffic": "2000+"
+    },
+    {
       "rank": 9,
-      "keyword": "윤선우",
-      "traffic": "200+"
+      "keyword": "경찰",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "요즘 육아 금쪽같은 내새끼",
-      "traffic": "2000+"
+      "keyword": "ecuador vs germany",
+      "traffic": "500+"
     }
   ],
   "domestic": [
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "美 5월 PCE 4.1%↑",
-      "state": "s",
+      "keyword": "여자 5호 선택 포기 후 회한",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "여자 5호, 도시락 혼자 먹기",
-      "state": "s",
-      "change": "0"
+      "keyword": "외국인 5월 47조 매도",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 4,
-      "keyword": "디아즈 5타점 삼성 완승!",
+      "keyword": "홍명보 감독 책임은?",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "베네수엘라 강진 피해 증가",
-      "state": "-",
-      "change": "1"
+      "keyword": "설영우 강경 대응 예고",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "이혜영 의붓딸 첫 공개",
+      "keyword": "매관매직 김건희 선고",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김도영 폭발 KIA 4연승!",
-      "state": "+",
-      "change": "2"
+      "keyword": "남강초 채준우 수상",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "설영우 측, 남아공전 패에 강경 대응",
-      "state": "+",
-      "change": "2"
+      "keyword": "호르무즈 화물선 피격",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "넷째 아이 계획 김동현",
-      "state": "+",
-      "change": "2"
+      "keyword": "잠실 경찰 침 뱉은 여성 구속",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "보완수사권 폐지 논란",
+      "keyword": "1분기 건설공사 계약액",
       "state": "n",
       "change": "0"
     }
