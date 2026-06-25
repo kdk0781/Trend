@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-25T18:22:21.214Z",
+  "updatedAt": "2026-06-25T20:28:22.385Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "박미선",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
       "keyword": "태극기",
       "traffic": "1000+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "최지만",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "빗썸",
       "traffic": "200+"
     },
     {
-      "rank": 4,
-      "keyword": "서울특별시교육청",
-      "traffic": "200+"
-    },
-    {
       "rank": 5,
-      "keyword": "수국",
+      "keyword": "나스닥",
       "traffic": "500+"
     },
     {
       "rank": 6,
+      "keyword": "서울특별시교육청",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "수국",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
       "keyword": "팔란티어",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "윤선우",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "요즘 육아 금쪽같은 내새끼",
       "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "애플",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "아는 형님",
-      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김도영 홈런 공동 선두",
+      "keyword": "월드컵 일정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "경찰에 침 뱉고 구속",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "여자 5호 혼자 도시락 먹기",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
       "keyword": "美 5월 PCE 4.1%↑",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "한국 32강 확률 94%",
+      "rank": 3,
+      "keyword": "여자 5호, 도시락 혼자 먹기",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "디아즈 5타점 삼성 완승!",
       "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "베네수엘라 강진 피해 증가",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "이혜영 15년 의붓딸",
-      "state": "+",
-      "change": "1"
+      "keyword": "이혜영 의붓딸 첫 공개",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "영주 가스 누출 확인 중",
+      "keyword": "김도영 폭발 KIA 4연승!",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "월드컵 일정",
+      "keyword": "설영우 측, 남아공전 패에 강경 대응",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "베네수엘라 강진 사망자 164명",
-      "state": "n",
-      "change": "0"
+      "keyword": "넷째 아이 계획 김동현",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 10,
       "keyword": "보완수사권 폐지 논란",
-      "state": "-",
-      "change": "5"
+      "state": "n",
+      "change": "0"
     }
   ]
 }
