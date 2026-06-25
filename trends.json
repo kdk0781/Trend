@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-25T01:34:27.164Z",
+  "updatedAt": "2026-06-25T05:48:06.601Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "south africa vs south korea",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "차범근",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "옌스",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "czechia vs mexico",
+      "keyword": "레이디 제인",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
-      "keyword": "같이 삽시다",
+      "rank": 2,
+      "keyword": "앤트로픽",
       "traffic": "500+"
     },
     {
-      "rank": 6,
-      "keyword": "해군사관학교",
+      "rank": 3,
+      "keyword": "뉴데일리",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "나성범",
       "traffic": "200+"
     },
     {
+      "rank": 5,
+      "keyword": "부천국제판타스틱영화제",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "아리아나 그란데",
+      "traffic": "100+"
+    },
+    {
       "rank": 7,
-      "keyword": "6.25 전쟁",
+      "keyword": "김원형",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "맨 끝줄 소년",
-      "traffic": "5000+"
+      "keyword": "정몽규",
+      "traffic": "10000+"
     },
     {
       "rank": 9,
-      "keyword": "축구 시간",
-      "traffic": "200+"
+      "keyword": "박지성",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "샘 해밍턴",
-      "traffic": "10000+"
+      "keyword": "아오모리현",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "월드컵 일정",
-      "state": "s",
-      "change": "0"
+      "keyword": "설영우, 악플 강경 대응",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "코스피 매수 사이드카 발동",
-      "state": "s",
-      "change": "0"
+      "keyword": "홍명보 감독 책임",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "손흥민 선발 빠짐",
+      "keyword": "정은경 장관 건강보험 발표",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "이 대통령 1일 오찬",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "대안과 미래 모임",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 5,
-      "keyword": "김건모, 10년 만에 신곡 발표",
-      "state": "s",
+      "keyword": "김민석 총리 브리핑",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "경찰 사랑제일교회 압수수색",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "장동혁 대표 발언",
-      "state": "+",
+      "keyword": "월드컵 조별순위",
+      "state": "-",
       "change": "3"
     },
     {
+      "rank": 7,
+      "keyword": "부산 바다 2명 실종",
+      "state": "-",
+      "change": "4"
+    },
+    {
       "rank": 8,
-      "keyword": "국가서비스대상 연속 수상",
+      "keyword": "패배에 아쉬워하는 손흥민",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "티파니 영 변요한 비밀연애",
-      "state": "-",
-      "change": "1"
+      "keyword": "한성숙 국무총리 후보자",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "베네수엘라 강진 발생",
+      "keyword": "송하윤 학폭 불송치 결정",
       "state": "n",
       "change": "0"
     }
