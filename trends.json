@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-06-25T08:40:16.321Z",
+  "updatedAt": "2026-06-25T11:26:29.959Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "대한민국 국무총리",
+      "keyword": "빅뱅 콘서트",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "소방청",
-      "traffic": "200+"
+      "keyword": "규제",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "기후동행카드",
-      "traffic": "1000+"
+      "keyword": "kia 대 키움",
+      "traffic": "10000+"
     },
     {
       "rank": 4,
-      "keyword": "박정수",
-      "traffic": "5000+"
+      "keyword": "임우재",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "sk그룹",
-      "traffic": "2000+"
+      "keyword": "노주현",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "유조선",
-      "traffic": "5000+"
+      "keyword": "교사",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "신원철",
-      "traffic": "1000+"
+      "keyword": "모듈러 주택",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "앤 트로픽",
-      "traffic": "2000+"
+      "keyword": "혼슈",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "뇌사",
-      "traffic": "1000+"
+      "keyword": "이만희 구속",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "신한카드",
-      "traffic": "1000+"
+      "keyword": "한국수력원자력",
+      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "이재명 대통령 수석보좌관회의",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "그림자 아이 박소이와 유나",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "코스피 5% 상승 마감",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "현대차 노조 파업권 확보",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "용평 오픈 SBS",
+      "keyword": "베네수엘라 강진 사망 최소 164명",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "김도영 투런포 폭발!",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 4,
+      "keyword": "혜리·지수·정호연 첫 여행 민낯 셀카",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "방문한 이재명 대통령",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "하이닉스 주가 상승 기대",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "한성숙 후보자 질문 듣는 모습",
+      "keyword": "삼성 선발 아리엘, 승리 이끈다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김희철, 남아공전 패배 분노 폭발",
+      "keyword": "손흥민 빠진 선발 명단",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "임우재, 노인 감금 집유 석방",
+      "keyword": "장경태 성추행 의혹 수사 착수",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "소지섭, 부성애 김부장",
-      "state": "+",
-      "change": "2"
+      "keyword": "현빈 시크릿가든 남주였다",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
