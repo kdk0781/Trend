@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-25T13:33:57.978Z",
+  "updatedAt": "2026-06-25T16:06:03.900Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "장기 기증",
-      "traffic": "5000+"
+      "keyword": "나스닥",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "new zealand vs england",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "황희찬",
-      "traffic": "500000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "구자철",
+      "keyword": "서울특별시교육청",
       "traffic": "200+"
     },
     {
-      "rank": 5,
-      "keyword": "오은영",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "빅뱅 콘서트",
+      "rank": 3,
+      "keyword": "수국",
       "traffic": "500+"
     },
     {
-      "rank": 7,
-      "keyword": "규제",
+      "rank": 4,
+      "keyword": "팔란티어",
       "traffic": "100+"
     },
     {
-      "rank": 8,
-      "keyword": "kia 대 키움",
-      "traffic": "20000+"
+      "rank": 5,
+      "keyword": "윤선우",
+      "traffic": "100+"
     },
     {
-      "rank": 9,
-      "keyword": "임우재",
+      "rank": 6,
+      "keyword": "애플",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "아는 형님",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "권순우",
       "traffic": "500+"
     },
     {
+      "rank": 9,
+      "keyword": "윤경호",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "노주현",
-      "traffic": "1000+"
+      "keyword": "장기 기증",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "손흥민 선발 제외 충격",
+      "keyword": "현대차 노조, 파업권 확보",
       "state": "+",
-      "change": "15"
+      "change": "6"
     },
     {
       "rank": 2,
-      "keyword": "월드컵 일정",
-      "state": "-",
-      "change": "1"
+      "keyword": "김도영 홈런 공동 1위",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "임우재 징역형 집행유예",
-      "state": "n",
-      "change": "0"
+      "keyword": "경찰에 침 뱉은 40대 여성 구속",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "이용규 전 코치 2년",
-      "state": "n",
-      "change": "0"
+      "keyword": "여자 5호, 혼자 도시락 먹어.",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 5,
-      "keyword": "경찰에 침 뱉은 40대 여성 구속",
-      "state": "-",
-      "change": "3"
+      "keyword": "이용규 2년 실격 처분",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김도영 홈런 공동 1위",
-      "state": "n",
+      "keyword": "월드컵 일정",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "형수 동거설 유포 징역 10월 구형",
-      "state": "n",
-      "change": "0"
+      "keyword": "베네수엘라 강진 사망 164명",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "혜리·지수·정호연 첫 여행 민낯 예쁨",
-      "state": "n",
+      "keyword": "美 5월 PCE 4.1%↑",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "장혁, 현빈 시크릿가든 남주",
+      "keyword": "이혜영 의붓딸 첫 공개",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "베네수엘라 강진 사망자 164명",
+      "keyword": "영주 가스 누출 신고",
       "state": "n",
       "change": "0"
     }
