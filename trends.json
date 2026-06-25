@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-06-25T22:04:01.955Z",
+  "updatedAt": "2026-06-25T23:39:50.444Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "우연이",
-      "traffic": "200+"
+      "keyword": "japan vs sweden",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "curaçao vs côte d'ivoire",
-      "traffic": "100+"
+      "keyword": "파운드리",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "폐교",
-      "traffic": "500+"
+      "keyword": "일본 대 스웨덴",
+      "traffic": "20000+"
     },
     {
       "rank": 4,
-      "keyword": "샌디스크",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "현대자동차",
+      "keyword": "튀니지 대 네덜란드",
       "traffic": "2000+"
     },
     {
+      "rank": 5,
+      "keyword": "한학자",
+      "traffic": "5000+"
+    },
+    {
       "rank": 6,
-      "keyword": "독일 에콰도르",
-      "traffic": "500+"
+      "keyword": "스타필드 수원",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "sk하이닉스",
-      "traffic": "10000+"
+      "keyword": "sndk",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "비트코인",
+      "keyword": "조국",
       "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "경찰",
-      "traffic": "2000+"
+      "keyword": "호주 파라과이",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "ecuador vs germany",
-      "traffic": "500+"
+      "keyword": "송은이",
+      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -61,49 +61,49 @@
     },
     {
       "rank": 2,
-      "keyword": "여자 5호 선택 포기 후 회한",
+      "keyword": "김정은 무기시험 참관",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "외국인 5월 47조 매도",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 4,
-      "keyword": "홍명보 감독 책임은?",
+      "keyword": "에콰도르, 독일에 역전승",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "설영우에 대한 논란",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 5,
-      "keyword": "설영우 강경 대응 예고",
-      "state": "s",
-      "change": "0"
+      "keyword": "외국인 5월 47조 순매도",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "매관매직 김건희 선고",
+      "keyword": "이정후 3타점 3루타!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "남강초 채준우 수상",
-      "state": "n",
-      "change": "0"
+      "keyword": "첫 번째 남자",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "호르무즈 화물선 피격",
+      "keyword": "호르무즈서 화물선 피격",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "잠실 경찰 침 뱉은 여성 구속",
+      "keyword": "여자 5호 선택 포기",
       "state": "n",
       "change": "0"
     },
