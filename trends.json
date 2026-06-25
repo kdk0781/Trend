@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-24T23:35:21.316Z",
+  "updatedAt": "2026-06-25T01:34:27.164Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "옌스 카스트로프",
+      "keyword": "south africa vs south korea",
       "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "체코 멕시코",
+      "keyword": "차범근",
       "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "fifaワールドカップ 2026 順位表",
-      "traffic": "100+"
+      "keyword": "옌스",
+      "traffic": "10000+"
     },
     {
       "rank": 4,
-      "keyword": "오늘의 운세",
-      "traffic": "100+"
+      "keyword": "czechia vs mexico",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "푸바오",
-      "traffic": "2000+"
+      "keyword": "같이 삽시다",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "김병주",
+      "keyword": "해군사관학교",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "그랜드 테프트 오토 vi",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "다우 존스 산업평균지수",
+      "keyword": "6.25 전쟁",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "맨 끝줄 소년",
+      "traffic": "5000+"
+    },
+    {
       "rank": 9,
-      "keyword": "날씨",
-      "traffic": "500000+"
+      "keyword": "축구 시간",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "morocco vs haiti",
-      "traffic": "1000+"
+      "keyword": "샘 해밍턴",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "북중미 월드컵 영광을 위하여",
-      "state": "+",
-      "change": "2"
+      "keyword": "월드컵 일정",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "홍명보호, A조 2위로 캐나다 만난다",
-      "state": "n",
+      "keyword": "코스피 매수 사이드카 발동",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "일본 아오모리 6.9 지진",
+      "keyword": "손흥민 선발 빠짐",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "방탄소년단 아리랑 상반기 2관왕",
-      "state": "n",
-      "change": "0"
+      "keyword": "대안과 미래 모임",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "국토부, AI 26개 지원",
-      "state": "n",
+      "keyword": "김건모, 10년 만에 신곡 발표",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "청소 알바의 흉기 위협",
-      "state": "n",
-      "change": "0"
+      "keyword": "경찰 사랑제일교회 압수수색",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "현대차 노조 파업 시작",
-      "state": "n",
-      "change": "0"
+      "keyword": "장동혁 대표 발언",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "샘 해밍턴, 주사 맞고 홀쭉해졌어",
+      "keyword": "국가서비스대상 연속 수상",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김민경 오빠 약대 인증",
-      "state": "n",
-      "change": "0"
+      "keyword": "티파니 영 변요한 비밀연애",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "국힘 신천지 가입 압력",
+      "keyword": "베네수엘라 강진 발생",
       "state": "n",
       "change": "0"
     }
