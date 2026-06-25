@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-25T11:26:29.959Z",
+  "updatedAt": "2026-06-25T13:33:57.978Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "빅뱅 콘서트",
-      "traffic": "500+"
+      "keyword": "장기 기증",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "규제",
+      "keyword": "new zealand vs england",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "kia 대 키움",
-      "traffic": "10000+"
+      "keyword": "황희찬",
+      "traffic": "500000+"
     },
     {
       "rank": 4,
-      "keyword": "임우재",
-      "traffic": "500+"
+      "keyword": "구자철",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "노주현",
+      "keyword": "오은영",
       "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "교사",
-      "traffic": "1000+"
+      "keyword": "빅뱅 콘서트",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "모듈러 주택",
-      "traffic": "500+"
+      "keyword": "규제",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "혼슈",
-      "traffic": "500+"
+      "keyword": "kia 대 키움",
+      "traffic": "20000+"
     },
     {
       "rank": 9,
-      "keyword": "이만희 구속",
-      "traffic": "200+"
+      "keyword": "임우재",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "한국수력원자력",
-      "traffic": "200+"
+      "keyword": "노주현",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "월드컵 일정",
-      "state": "s",
-      "change": "0"
+      "keyword": "손흥민 선발 제외 충격",
+      "state": "+",
+      "change": "15"
     },
     {
       "rank": 2,
-      "keyword": "베네수엘라 강진 사망 최소 164명",
+      "keyword": "월드컵 일정",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "임우재 징역형 집행유예",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "김도영 투런포 폭발!",
-      "state": "+",
-      "change": "4"
-    },
-    {
       "rank": 4,
-      "keyword": "혜리·지수·정호연 첫 여행 민낯 셀카",
+      "keyword": "이용규 전 코치 2년",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "방문한 이재명 대통령",
+      "keyword": "경찰에 침 뱉은 40대 여성 구속",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 6,
+      "keyword": "김도영 홈런 공동 1위",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "하이닉스 주가 상승 기대",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 7,
-      "keyword": "삼성 선발 아리엘, 승리 이끈다",
+      "keyword": "형수 동거설 유포 징역 10월 구형",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "손흥민 빠진 선발 명단",
-      "state": "+",
-      "change": "1"
+      "keyword": "혜리·지수·정호연 첫 여행 민낯 예쁨",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "장경태 성추행 의혹 수사 착수",
+      "keyword": "장혁, 현빈 시크릿가든 남주",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "현빈 시크릿가든 남주였다",
+      "keyword": "베네수엘라 강진 사망자 164명",
       "state": "n",
       "change": "0"
     }
