@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-06-26T06:03:12.552Z",
+  "updatedAt": "2026-06-26T09:48:18.705Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "엘지트윈스",
-      "traffic": "200+"
+      "keyword": "골드만삭스",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "김민형",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "스페인 우루과이",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "옌스 카스트로 프",
+      "keyword": "금",
       "traffic": "20000+"
     },
     {
-      "rank": 5,
-      "keyword": "압수수색",
-      "traffic": "500+"
+      "rank": 3,
+      "keyword": "아반떼 8세대",
+      "traffic": "10000+"
     },
     {
-      "rank": 6,
-      "keyword": "일본 태풍",
+      "rank": 4,
+      "keyword": "도시 철도",
       "traffic": "1000+"
     },
     {
+      "rank": 5,
+      "keyword": "케이조선",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "원빈",
+      "traffic": "200+"
+    },
+    {
       "rank": 7,
-      "keyword": "기쁜 우리 좋은 날",
-      "traffic": "2000+"
+      "keyword": "김건희 선고",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "일본 지진",
-      "traffic": "500+"
+      "keyword": "네이처셀",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "박서진",
-      "traffic": "5000+"
+      "keyword": "김대호",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "수애",
+      "keyword": "ok저축은행",
       "traffic": "1000+"
     }
   ],
@@ -61,56 +61,56 @@
     },
     {
       "rank": 2,
-      "keyword": "발언하는 이재명 대통령",
-      "state": "n",
+      "keyword": "김건희 매관매직 징역 7년",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "법원 김건희, 귀걸이와 브로치 수수",
-      "state": "n",
+      "keyword": "하나 코리아 김민하 캐스팅 특권",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "올 뉴 아반떼 공개",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "트와이스 나연, 귀여움 폭발!",
+      "keyword": "하이닉스 주가 상승 기대",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "한국 32강 희망↓",
+      "rank": 5,
+      "keyword": "KB증권 1조원 유상증자",
       "state": "+",
-      "change": "9"
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "오영수 강제추행 무죄",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "동거녀 살해 20대 구속 송치",
+      "keyword": "홍명보호 32강 진출 확률",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "백범 77주기 추모식",
+      "keyword": "설영우 운동하라!",
       "state": "-",
-      "change": "4"
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "코스피 8% 급락 서킷브레이커",
+      "keyword": "공문 정점식 원내대표",
       "state": "-",
-      "change": "4"
+      "change": "5"
     },
     {
       "rank": 10,
-      "keyword": "여름 농축수산물 할인행사",
-      "state": "n",
+      "keyword": "신임 감사위원 이진국 임명",
+      "state": "s",
       "change": "0"
     }
   ]
