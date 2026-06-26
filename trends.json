@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-26T18:24:23.340Z",
+  "updatedAt": "2026-06-26T20:15:51.879Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "베이징",
-      "traffic": "200+"
+      "keyword": "senegal vs iraq",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "강선우",
-      "traffic": "200+"
+      "keyword": "조선",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "노르웨이 프랑스",
-      "traffic": "200+"
+      "keyword": "노르웨이",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "박지현",
-      "traffic": "200+"
+      "keyword": "세네갈 대 이라크",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "김연아",
-      "traffic": "2000+"
+      "keyword": "norway vs france",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "백화점",
-      "traffic": "500+"
+      "keyword": "노르웨이 대 프랑스",
+      "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "고준희",
-      "traffic": "200+"
+      "keyword": "우루과이 축구 국가대표팀",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "사우디 아람코",
-      "traffic": "200+"
+      "keyword": "베이징",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "오십프로",
-      "traffic": "200+"
+      "keyword": "강선우",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "hyundai avante",
-      "traffic": "500+"
+      "keyword": "현대 아반떼",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "석유 150원 인하",
+      "keyword": "월드컵 일정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김민석 1타점 적시타",
-      "state": "s",
+      "keyword": "베네수엘라 지진 사망 589명",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이진호, 음주운전 불구속 기소",
-      "state": "+",
-      "change": "7"
-    },
-    {
-      "rank": 4,
-      "keyword": "베네수엘라 지진 사망자 589명",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "노시환 4G 연속 홈런!",
+      "keyword": "곽빈 KIA 3연승",
       "state": "+",
       "change": "3"
     },
     {
-      "rank": 6,
-      "keyword": "김건희 매관매직 징역 7년",
+      "rank": 4,
+      "keyword": "장항준, 내가 원한 삶 아냐",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "한화 왕옌청 승리 가자",
-      "state": "-",
-      "change": "2"
+      "rank": 5,
+      "keyword": "트럼프 이란 호르무즈 휴전 위반",
+      "state": "n",
+      "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "월드컵 일정",
-      "state": "-",
+      "rank": 6,
+      "keyword": "일본 규모 5.6 지진",
+      "state": "+",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "야마나시 5.6 지진",
+      "rank": 7,
+      "keyword": "노시환 4G 홈런",
+      "state": "-",
+      "change": "4"
+    },
+    {
+      "rank": 8,
+      "keyword": "오십프로 종영 소감",
       "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "전민재 3타점 롯데 승리!",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "장항준, 내가 원하는 삶 아냐",
-      "state": "-",
-      "change": "7"
+      "keyword": "폭스바겐 10만명 감원 추진",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
