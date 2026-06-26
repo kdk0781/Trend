@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-06-26T22:52:19.952Z",
+  "updatedAt": "2026-06-26T23:57:16.604Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "전진",
-      "traffic": "500+"
+      "keyword": "윤가이",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "senegal national football team vs iraq national football team standings",
+      "keyword": "경제",
       "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "fifa world cup 2026™",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "석유",
+      "keyword": "닷컴 버블",
       "traffic": "2000+"
     },
     {
-      "rank": 5,
-      "keyword": "현대건설",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "종합 부동산 세",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "남편들",
+      "rank": 4,
+      "keyword": "금융위기",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
-      "keyword": "에콰도르 축구 국가대표팀",
+      "rank": 5,
+      "keyword": "기쁜 우리 좋은 날",
       "traffic": "5000+"
     },
     {
+      "rank": 6,
+      "keyword": "세네갈 축구 국가대표팀",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "르윈 디아즈",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "기부",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "퇴직금",
-      "traffic": "500+"
+      "keyword": "손예진",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "배성재",
+      "keyword": "송하윤",
       "traffic": "100+"
     }
   ],
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "여보 김부장, 이동하 내조",
+      "keyword": "김부장 첫방 성공 9.5%",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이란 선박 공격은 휴전 위반",
-      "state": "n",
+      "keyword": "장기하와 윤가이 열애설",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "홍명보호 세네갈 5-0",
-      "state": "n",
-      "change": "0"
+      "keyword": "일본, 북중미 32강 진출",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "장항준 김은희 수입 초과",
+      "keyword": "세네갈 이라크 5-0 대승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "오십프로의 강한 생존 본능",
+      "keyword": "이란 호르무즈 보복공습",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 7,
+      "keyword": "오십프로, 최고로 뭉친다",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "신입사원 강회장",
-      "state": "+",
-      "change": "2"
-    },
-    {
       "rank": 8,
       "keyword": "설영우, 악플러 고소 선언",
-      "state": "-",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "베네수엘라 지진 사망자 920명 부상자 3360명",
-      "state": "n",
-      "change": "0"
+      "keyword": "베네수엘라 사망자 920명",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 10,
-      "keyword": "이진호 음주운전과 도박 기소",
-      "state": "n",
-      "change": "0"
+      "keyword": "신입사원 강회장",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
