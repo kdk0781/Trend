@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-26T14:43:04.095Z",
+  "updatedAt": "2026-06-26T16:50:59.498Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "hyundai avante",
-      "traffic": "200+"
+      "keyword": "김연아",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "커피",
-      "traffic": "1000+"
+      "keyword": "백화점",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "맥스 할로 웨이",
-      "traffic": "100+"
+      "keyword": "고준희",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "ireland vs india",
-      "traffic": "500+"
+      "keyword": "사우디 아람코",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "다스뵈이다",
+      "keyword": "오십프로",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "김무열",
-      "traffic": "2000+"
+      "keyword": "hyundai avante",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "현대 아이오닉",
+      "keyword": "커피",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "용인세무서",
-      "traffic": "1000+"
+      "keyword": "맥스 할로 웨이",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "김부장",
-      "traffic": "5000+"
+      "keyword": "ireland vs india",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "키움 대 nc",
-      "traffic": "10000+"
+      "keyword": "김무열",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "소지섭 김부장 등장!",
+      "keyword": "여보 김부장 내조해요",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
       "keyword": "석유 가격 150원 인하",
-      "state": "n",
-      "change": "0"
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "깐부 오영수 강제추행 무죄 확정",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "베네수엘라 사망자 589명 늘어",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "월드컵 일정",
+      "keyword": "김건희 매관매직 1심 징역 7년",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "정원오 칸쿤 감사 착수",
-      "state": "n",
+      "rank": 4,
+      "keyword": "김민석 1타점 적시타",
+      "state": "s",
       "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "광화문 70대 검거",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "베네수엘라 강진 사망자 증가",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "노시환 4G 연속 홈런",
-      "state": "-",
-      "change": "4"
+      "keyword": "오영수 강제추행 무죄 확정",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "한성숙 청문회 여야 공방",
-      "state": "n",
-      "change": "0"
+      "keyword": "공문 정점식 원내대표",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "음주운전 이진호 불구속 기소",
-      "state": "n",
-      "change": "0"
+      "keyword": "한화 왕옌청 선발",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "서울 미술관에서 흉기 휘두른 70대",
-      "state": "n",
-      "change": "0"
+      "keyword": "노시환 홈런 4연속",
+      "state": "+",
+      "change": "4"
     }
   ]
 }
