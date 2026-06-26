@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-06-26T20:15:51.879Z",
+  "updatedAt": "2026-06-26T21:41:42.989Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "senegal vs iraq",
-      "traffic": "100+"
+      "keyword": "유시민",
+      "traffic": "50000+"
     },
     {
       "rank": 2,
-      "keyword": "조선",
-      "traffic": "100+"
+      "keyword": "택시",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "노르웨이",
-      "traffic": "100+"
+      "keyword": "강주 해바라기축제",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "세네갈 대 이라크",
-      "traffic": "1000+"
+      "keyword": "마이클세일러",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "norway vs france",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "노르웨이 대 프랑스",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "우루과이 축구 국가대표팀",
+      "keyword": "장윤정",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
-      "keyword": "베이징",
+      "rank": 6,
+      "keyword": "대전지하철",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "김건희",
       "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "파울루 벤투",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "강선우",
-      "traffic": "500+"
+      "keyword": "김민석",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "현대 아반떼",
-      "traffic": "10000+"
+      "keyword": "미사일",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "베네수엘라 지진 사망 589명",
+      "keyword": "트럼프 이란 휴전 위반",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "곽빈 KIA 3연승",
-      "state": "+",
-      "change": "3"
+      "keyword": "뎀벨레 해트트릭 프랑스 4-1 승리",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "장항준, 내가 원한 삶 아냐",
+      "keyword": "장항준, 원하는 삶 아니야",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "트럼프 이란 호르무즈 휴전 위반",
+      "keyword": "오십프로 강한 생존 본능에 대한 이야기",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "일본 규모 5.6 지진",
-      "state": "+",
+      "keyword": "일본 야마나시 5.6 지진",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "노시환 4G 홈런",
-      "state": "-",
-      "change": "4"
+      "keyword": "신입사원 강회장",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "오십프로 종영 소감",
+      "keyword": "홍명보호 세네갈 이라크 5-0 승리",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "전민재 3타점 롯데 승리!",
-      "state": "s",
+      "keyword": "베네수엘라 지진 사망자 920명",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "폭스바겐 10만명 감원 추진",
-      "state": "n",
-      "change": "0"
+      "keyword": "첫 번째 남자",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
