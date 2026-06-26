@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-26T09:48:18.705Z",
+  "updatedAt": "2026-06-26T12:03:18.803Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "골드만삭스",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "금",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "아반떼 8세대",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "도시 철도",
+      "keyword": "김무열",
       "traffic": "1000+"
     },
     {
+      "rank": 2,
+      "keyword": "현대 아이오닉",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "용인세무서",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "키움 대 nc",
+      "traffic": "5000+"
+    },
+    {
       "rank": 5,
-      "keyword": "케이조선",
+      "keyword": "김현준",
       "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "원빈",
-      "traffic": "200+"
+      "keyword": "김부장",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "김건희 선고",
-      "traffic": "100+"
+      "keyword": "kt 대 삼성",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "네이처셀",
-      "traffic": "200+"
+      "keyword": "한화 대 ssg",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "김대호",
-      "traffic": "2000+"
+      "keyword": "kia 대 두산",
+      "traffic": "10000+"
     },
     {
       "rank": 10,
-      "keyword": "ok저축은행",
-      "traffic": "1000+"
+      "keyword": "lg 대 롯데",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
+      "keyword": "석유 150원 인하",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 2,
       "keyword": "월드컵 일정",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 2,
-      "keyword": "김건희 매관매직 징역 7년",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 3,
-      "keyword": "하나 코리아 김민하 캐스팅 특권",
-      "state": "s",
-      "change": "0"
+      "keyword": "김민석 1타점 적시타",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 4,
-      "keyword": "하이닉스 주가 상승 기대",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "KB증권 1조원 유상증자",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "오영수 강제추행 무죄",
+      "keyword": "광화문 70대 검거 10시간 소요",
       "state": "-",
       "change": "3"
     },
     {
+      "rank": 5,
+      "keyword": "오영수 강제추행 무죄 확정",
+      "state": "+",
+      "change": "7"
+    },
+    {
+      "rank": 6,
+      "keyword": "왕옌청, 승리를 향해",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 7,
-      "keyword": "홍명보호 32강 진출 확률",
-      "state": "n",
-      "change": "0"
+      "keyword": "첫 번째 남자",
+      "state": "+",
+      "change": "21"
     },
     {
       "rank": 8,
-      "keyword": "설영우 운동하라!",
-      "state": "-",
+      "keyword": "운동에 집중해라, 설영우",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "공문 정점식 원내대표",
-      "state": "-",
-      "change": "5"
+      "keyword": "대성 허영지 열애설 해명",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "신임 감사위원 이진국 임명",
-      "state": "s",
-      "change": "0"
+      "keyword": "하이닉스 주가 상승 기대",
+      "state": "+",
+      "change": "4"
     }
   ]
 }
