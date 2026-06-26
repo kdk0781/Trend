@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-06-26T21:41:42.989Z",
+  "updatedAt": "2026-06-26T22:52:19.952Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "유시민",
-      "traffic": "50000+"
+      "keyword": "전진",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "택시",
-      "traffic": "500+"
+      "keyword": "senegal national football team vs iraq national football team standings",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "강주 해바라기축제",
-      "traffic": "200+"
+      "keyword": "fifa world cup 2026™",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "마이클세일러",
-      "traffic": "200+"
+      "keyword": "석유",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "장윤정",
-      "traffic": "1000+"
+      "keyword": "현대건설",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "대전지하철",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "김건희",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "파울루 벤투",
+      "keyword": "종합 부동산 세",
       "traffic": "200+"
     },
     {
-      "rank": 9,
-      "keyword": "김민석",
+      "rank": 7,
+      "keyword": "남편들",
       "traffic": "1000+"
     },
     {
+      "rank": 8,
+      "keyword": "에콰도르 축구 국가대표팀",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "퇴직금",
+      "traffic": "500+"
+    },
+    {
       "rank": 10,
-      "keyword": "미사일",
-      "traffic": "1000+"
+      "keyword": "배성재",
+      "traffic": "100+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "트럼프 이란 휴전 위반",
-      "state": "n",
+      "keyword": "여보 김부장, 이동하 내조",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "뎀벨레 해트트릭 프랑스 4-1 승리",
+      "keyword": "이란 선박 공격은 휴전 위반",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "장항준, 원하는 삶 아니야",
+      "keyword": "홍명보호 세네갈 5-0",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "오십프로 강한 생존 본능에 대한 이야기",
+      "keyword": "장항준 김은희 수입 초과",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "일본 야마나시 5.6 지진",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "신입사원 강회장",
+      "keyword": "오십프로의 강한 생존 본능",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "신입사원 강회장",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 8,
-      "keyword": "홍명보호 세네갈 이라크 5-0 승리",
-      "state": "n",
-      "change": "0"
+      "keyword": "설영우, 악플러 고소 선언",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "베네수엘라 지진 사망자 920명",
+      "keyword": "베네수엘라 지진 사망자 920명 부상자 3360명",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "첫 번째 남자",
-      "state": "-",
-      "change": "2"
+      "keyword": "이진호 음주운전과 도박 기소",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
