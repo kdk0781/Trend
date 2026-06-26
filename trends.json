@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-06-25T23:39:50.444Z",
+  "updatedAt": "2026-06-26T01:51:22.495Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "japan vs sweden",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "파운드리",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "일본 대 스웨덴",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "튀니지 대 네덜란드",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "한학자",
+      "keyword": "옌스 카스트로프",
       "traffic": "5000+"
     },
     {
+      "rank": 2,
+      "keyword": "음식",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "유니클로",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "레인저스 대 블루제이스",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "전시 작전통제권",
+      "traffic": "500+"
+    },
+    {
       "rank": 6,
-      "keyword": "스타필드 수원",
+      "keyword": "화물선",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "sndk",
-      "traffic": "100+"
+      "keyword": "김용범",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "조국",
-      "traffic": "2000+"
+      "keyword": "日本 対 スウェーデン",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "호주 파라과이",
-      "traffic": "200+"
+      "keyword": "윤이나",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "송은이",
-      "traffic": "200+"
+      "keyword": "뇌",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "김정은 무기시험 참관",
-      "state": "n",
+      "keyword": "홍명보 감독 기자 질문 듣다",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "에콰도르, 독일에 역전승",
-      "state": "n",
+      "keyword": "발언하는 정점식 원내대표",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "설영우에 대한 논란",
+      "keyword": "일본 스웨덴 무승부",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "외국인 5월 47조 순매도",
+      "keyword": "이주희 사망 슬픔",
       "state": "+",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "이정후 3타점 3루타!",
+      "keyword": "한병도 직무대행 회의 참석",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "첫 번째 남자",
-      "state": "+",
+      "keyword": "안영미 둘째 출산 건강해",
+      "state": "-",
       "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "호르무즈서 화물선 피격",
+      "keyword": "안규백 장관 드론 정책 브리핑",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "여자 5호 선택 포기",
-      "state": "n",
-      "change": "0"
+      "keyword": "코스피 하락 출발",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "1분기 건설공사 계약액",
-      "state": "n",
-      "change": "0"
+      "keyword": "구윤철 부총리 비상회의 주재",
+      "state": "-",
+      "change": "5"
     }
   ]
 }
