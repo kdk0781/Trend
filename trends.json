@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-06-26T01:51:22.495Z",
+  "updatedAt": "2026-06-26T06:03:12.552Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "옌스 카스트로프",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "음식",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "유니클로",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "레인저스 대 블루제이스",
+      "keyword": "엘지트윈스",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "김민형",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "스페인 우루과이",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "옌스 카스트로 프",
+      "traffic": "20000+"
+    },
+    {
       "rank": 5,
-      "keyword": "전시 작전통제권",
+      "keyword": "압수수색",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "화물선",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "김용범",
+      "keyword": "일본 태풍",
       "traffic": "1000+"
     },
     {
+      "rank": 7,
+      "keyword": "기쁜 우리 좋은 날",
+      "traffic": "2000+"
+    },
+    {
       "rank": 8,
-      "keyword": "日本 対 スウェーデン",
+      "keyword": "일본 지진",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "윤이나",
-      "traffic": "2000+"
+      "keyword": "박서진",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "뇌",
+      "keyword": "수애",
       "traffic": "1000+"
     }
   ],
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "홍명보 감독 기자 질문 듣다",
-      "state": "s",
+      "keyword": "발언하는 이재명 대통령",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "발언하는 정점식 원내대표",
-      "state": "s",
+      "keyword": "법원 김건희, 귀걸이와 브로치 수수",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "일본 스웨덴 무승부",
-      "state": "+",
+      "keyword": "올 뉴 아반떼 공개",
+      "state": "-",
       "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "이주희 사망 슬픔",
-      "state": "+",
-      "change": "3"
+      "keyword": "트와이스 나연, 귀여움 폭발!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "한병도 직무대행 회의 참석",
-      "state": "n",
-      "change": "0"
+      "keyword": "한국 32강 희망↓",
+      "state": "+",
+      "change": "9"
     },
     {
       "rank": 7,
-      "keyword": "안영미 둘째 출산 건강해",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "안규백 장관 드론 정책 브리핑",
+      "keyword": "동거녀 살해 20대 구속 송치",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "코스피 하락 출발",
+      "rank": 8,
+      "keyword": "백범 77주기 추모식",
       "state": "-",
-      "change": "2"
+      "change": "4"
+    },
+    {
+      "rank": 9,
+      "keyword": "코스피 8% 급락 서킷브레이커",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 10,
-      "keyword": "구윤철 부총리 비상회의 주재",
-      "state": "-",
-      "change": "5"
+      "keyword": "여름 농축수산물 할인행사",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
