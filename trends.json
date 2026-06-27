@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-06-27T20:04:23.310Z",
+  "updatedAt": "2026-06-27T21:16:20.260Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "아성다이소",
+      "keyword": "파나마 대 잉글랜드",
       "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "결혼의 완성",
-      "traffic": "500+"
+      "keyword": "승부차기",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "로또 1230",
-      "traffic": "5000+"
+      "keyword": "크로아티아 대 가나",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "투자가",
+      "keyword": "1230 회 로또",
       "traffic": "5000+"
     },
     {
       "rank": 5,
-      "keyword": "개그콘서트",
-      "traffic": "100+"
+      "keyword": "부산 도시철도",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "오십프로",
-      "traffic": "200+"
+      "keyword": "오마이뉴스",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "후지 산",
-      "traffic": "2000+"
+      "keyword": "안철수",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "농구",
-      "traffic": "200+"
+      "keyword": "아성다이소",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "류승민",
-      "traffic": "100+"
+      "keyword": "결혼의 완성",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "오스틴 딘",
-      "traffic": "2000+"
+      "keyword": "투자가",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "신입사원 강회장",
+      "keyword": "훈련 보는 홍명보",
       "state": "+",
-      "change": "26"
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "최휘영 장관 양자 회의",
-      "state": "n",
-      "change": "0"
+      "keyword": "전현무, 원진아에게 호감 표시",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "결정 훈련하는 축구대표팀",
+      "keyword": "사랑 감사 오십프로 종영 소감",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "티파니와 변요한 결혼 앞둬",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "호남 반도체 위축 우려",
+      "keyword": "오늘 훈련하는 축구대표팀",
       "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "전현무, 원진아 스타일에 호감",
-      "state": "-",
       "change": "2"
     },
     {
-      "rank": 8,
-      "keyword": "1230회 로또 1등 16명 당첨",
+      "rank": 6,
+      "keyword": "호남 반도체 위축 금지",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 7,
+      "keyword": "무거운 분위기 속 훈련",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "사랑 감사 오십프로 종영 소감",
+      "rank": 8,
+      "keyword": "신입사원 강회장",
       "state": "-",
-      "change": "5"
+      "change": "6"
+    },
+    {
+      "rank": 9,
+      "keyword": "맨 끝줄 소년",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "베이징 경비행기 충돌 사망",
+      "keyword": "장기하와 윤가이 소개팅 성공",
       "state": "n",
       "change": "0"
     }
