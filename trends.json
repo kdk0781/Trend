@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-06-27T15:35:34.402Z",
+  "updatedAt": "2026-06-27T16:42:20.600Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "투자가",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 2,
       "keyword": "개그콘서트",
       "traffic": "100+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "오십프로",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "후지 산",
-      "traffic": "1000+"
+      "traffic": "2000+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "농구",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "류승민",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "로또1230",
       "traffic": "5000+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "오스틴 딘",
       "traffic": "2000+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "비야디",
       "traffic": "500+"
     },
     {
-      "rank": 9,
-      "keyword": "신상진",
-      "traffic": "100+"
-    },
-    {
       "rank": 10,
-      "keyword": "박영진",
+      "keyword": "신상진",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 금토극 OST 출연",
-      "state": "s",
-      "change": "0"
+      "keyword": "김부장 금토극 출연",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 2,
       "keyword": "신입사원 강회장",
-      "state": "+",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "최휘영 장관 회의",
-      "state": "n",
+      "keyword": "귀국하는 송영길 의원",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "귀국하는 송영길 의원",
+      "keyword": "최휘영 장관 양자 회의",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "첫 홀 버디 성공!",
-      "state": "n",
-      "change": "0"
+      "keyword": "노시환 5G 홈런 기록",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "호남 반도체 물 문제 해결 가능",
-      "state": "n",
+      "keyword": "호남 반도체 위축 안 돼",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "강다니엘, 군대 가더니 벌크업 성공",
-      "state": "n",
+      "keyword": "변요한, 섬세한 내 편",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "홍명보호 경우의 수 최악 상황",
-      "state": "n",
-      "change": "0"
+      "keyword": "70대 흉기난동 구속영장",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "70대 구속영장 신청",
-      "state": "n",
-      "change": "0"
+      "keyword": "32강 혼돈의 날",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 10,
-      "keyword": "고이즈미 방위상 방한",
-      "state": "n",
+      "keyword": "호르무즈 해협 선박 피격",
+      "state": "s",
       "change": "0"
     }
   ]
