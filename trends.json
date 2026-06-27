@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-27T02:54:01.046Z",
+  "updatedAt": "2026-06-27T06:24:20.358Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "르브론 제임스",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "남편",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "uruguay – tây ban nha",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "대형주",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "cabo verde vs saudi arabia",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "크리스 플렉센",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "건강보험",
+      "keyword": "항공모함",
       "traffic": "500+"
     },
     {
+      "rank": 2,
+      "keyword": "세종특별자치시",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "오타니 쇼헤이",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "카보 베르데",
+      "traffic": "20000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "석유화학",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "주식시장",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "송성문",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "미셸 강",
+      "keyword": "국세청 본청",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "샌디스크",
-      "traffic": "200+"
+      "keyword": "오스트리아 알제리",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "부산 도시철도",
-      "traffic": "500+"
+      "keyword": "egypt vs iran",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "장기하♥윤가이, 18살 차이 열애",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
       "keyword": "월드컵 일정",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "중·러 군용기 KADIZ 진입",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 3,
-      "keyword": "회동 취임 직후 추진",
+      "keyword": "고이즈미 방위상 현충탑 참배",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "스페인, 우루과이 1-0 승리!",
+      "keyword": "장기하, 윤가이 母와 5살 차이",
       "state": "+",
-      "change": "4"
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "정성호 김건희 심판",
-      "state": "+",
-      "change": "1"
+      "keyword": "호남 반도체 물 충분 주장",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "소지섭과 김부장",
+      "keyword": "신장암 보너스로 주어진 삶",
       "state": "-",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "호르무즈 선박 2척 통과, 3척 남아",
-      "state": "-",
-      "change": "5"
+      "keyword": "라민 야말 돌파하기",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "카보 베르데 공화국",
+      "keyword": "김하성 이정후 안타 가로챘다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "韓 축구 탈락 우려",
-      "state": "n",
-      "change": "0"
+      "keyword": "서울국제도서전 대담하는",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "과속 택시사고 아기 사망",
+      "keyword": "전동킥보드로 6세 치고 벌금 300만원",
       "state": "n",
       "change": "0"
     }
