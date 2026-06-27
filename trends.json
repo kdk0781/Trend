@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-26T23:57:16.604Z",
+  "updatedAt": "2026-06-27T02:54:01.046Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "윤가이",
-      "traffic": "1000+"
+      "keyword": "르브론 제임스",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "경제",
-      "traffic": "1000+"
+      "keyword": "남편",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "닷컴 버블",
-      "traffic": "2000+"
+      "keyword": "uruguay – tây ban nha",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "금융위기",
-      "traffic": "1000+"
+      "keyword": "대형주",
+      "traffic": "5000+"
     },
     {
       "rank": 5,
-      "keyword": "기쁜 우리 좋은 날",
-      "traffic": "5000+"
+      "keyword": "cabo verde vs saudi arabia",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "세네갈 축구 국가대표팀",
-      "traffic": "5000+"
+      "keyword": "크리스 플렉센",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "르윈 디아즈",
-      "traffic": "10000+"
+      "keyword": "건강보험",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "기부",
+      "keyword": "미셸 강",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "손예진",
-      "traffic": "1000+"
+      "keyword": "샌디스크",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "송하윤",
-      "traffic": "100+"
+      "keyword": "부산 도시철도",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "월드컵 일정",
+      "keyword": "장기하♥윤가이, 18살 차이 열애",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김부장 첫방 성공 9.5%",
+      "keyword": "월드컵 일정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "장기하와 윤가이 열애설",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "일본, 북중미 32강 진출",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "세네갈 이라크 5-0 대승",
+      "keyword": "회동 취임 직후 추진",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "이란 호르무즈 보복공습",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 7,
-      "keyword": "오십프로, 최고로 뭉친다",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "설영우, 악플러 고소 선언",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "베네수엘라 사망자 920명",
+      "rank": 4,
+      "keyword": "스페인, 우루과이 1-0 승리!",
       "state": "+",
       "change": "4"
     },
     {
-      "rank": 10,
-      "keyword": "신입사원 강회장",
+      "rank": 5,
+      "keyword": "정성호 김건희 심판",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "소지섭과 김부장",
       "state": "-",
       "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "호르무즈 선박 2척 통과, 3척 남아",
+      "state": "-",
+      "change": "5"
+    },
+    {
+      "rank": 8,
+      "keyword": "카보 베르데 공화국",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "韓 축구 탈락 우려",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "과속 택시사고 아기 사망",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
