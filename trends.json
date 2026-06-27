@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-27T14:07:21.060Z",
+  "updatedAt": "2026-06-27T15:35:34.402Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "개그콘서트",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
+      "keyword": "오십프로",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "후지 산",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
       "keyword": "농구",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 5,
       "keyword": "류승민",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "keyword": "로또1230",
-      "traffic": "2000+"
+      "traffic": "5000+"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "keyword": "오스틴 딘",
       "traffic": "2000+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "비야디",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "신상진",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "keyword": "박영진",
       "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "이승우",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "항공",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "경비행기",
-      "traffic": "20000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 흑화 본능",
+      "keyword": "김부장 금토극 OST 출연",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "혼돈의 한국 32강 경우수",
+      "keyword": "신입사원 강회장",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "최휘영 장관 회의",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "월드컵 일정",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 4,
-      "keyword": "호르무즈서 또 상선 불상",
+      "keyword": "귀국하는 송영길 의원",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "귀국하는 송영길 의원",
-      "state": "-",
-      "change": "2"
+      "keyword": "첫 홀 버디 성공!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김민석, 자신감 절제 필요",
+      "keyword": "호남 반도체 물 문제 해결 가능",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "노시환 5G 홈런 폭발",
-      "state": "-",
-      "change": "2"
+      "keyword": "강다니엘, 군대 가더니 벌크업 성공",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "홍명보호 3위 이란",
+      "keyword": "홍명보호 경우의 수 최악 상황",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "신장암 투병 후 삶",
+      "keyword": "70대 구속영장 신청",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "신입사원 강회장",
+      "keyword": "고이즈미 방위상 방한",
       "state": "n",
       "change": "0"
     }
