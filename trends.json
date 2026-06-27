@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-27T16:42:20.600Z",
+  "updatedAt": "2026-06-27T17:46:39.937Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "결혼의 완성",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
+      "keyword": "로또 1230",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 3,
       "keyword": "투자가",
       "traffic": "5000+"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "keyword": "개그콘서트",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "오십프로",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "후지 산",
       "traffic": "2000+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "농구",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "류승민",
       "traffic": "100+"
     },
     {
-      "rank": 7,
-      "keyword": "로또1230",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "keyword": "오스틴 딘",
       "traffic": "2000+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "비야디",
       "traffic": "500+"
-    },
-    {
-      "rank": 10,
-      "keyword": "신상진",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 금토극 출연",
-      "state": "+",
-      "change": "5"
+      "keyword": "김부장 OST 출연 활발",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "신입사원 강회장",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
       "keyword": "귀국하는 송영길 의원",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "노시환 5G 연속 홈런!",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 4,
-      "keyword": "최휘영 장관 양자 회의",
-      "state": "n",
+      "keyword": "호남 반도체 투자 위축 금지",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "노시환 5G 홈런 기록",
+      "keyword": "싸이 흠뻑쇼 시작",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "32강 진출 가능성",
       "state": "+",
       "change": "3"
     },
     {
-      "rank": 6,
-      "keyword": "호남 반도체 위축 안 돼",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 7,
-      "keyword": "변요한, 섬세한 내 편",
-      "state": "s",
-      "change": "0"
+      "keyword": "호르무즈 해협 상선 피격",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "70대 흉기난동 구속영장",
+      "keyword": "전현무, 원진아 귀여워!",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "32강 혼돈의 날",
-      "state": "-",
-      "change": "4"
+      "keyword": "1230회 로또 1등 17억명 16명",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "호르무즈 해협 선박 피격",
-      "state": "s",
-      "change": "0"
+      "keyword": "신입사원 강회장",
+      "state": "-",
+      "change": "5"
     }
   ]
 }
