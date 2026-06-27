@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-06-27T06:24:20.358Z",
+  "updatedAt": "2026-06-27T09:09:48.115Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "항공모함",
-      "traffic": "500+"
+      "keyword": "kf-21 보라매",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "세종특별자치시",
+      "keyword": "필리조선소",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "오타니 쇼헤이",
-      "traffic": "500+"
+      "keyword": "철도",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "카보 베르데",
+      "keyword": "한화 대 ssg",
       "traffic": "20000+"
     },
     {
       "rank": 5,
-      "keyword": "석유화학",
-      "traffic": "200+"
+      "keyword": "사고",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "주식시장",
-      "traffic": "2000+"
+      "keyword": "기은세",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "송성문",
-      "traffic": "200+"
+      "keyword": "수사",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "국세청 본청",
+      "keyword": "사하구",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "오스트리아 알제리",
-      "traffic": "1000+"
+      "keyword": "서든어택",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "egypt vs iran",
-      "traffic": "1000+"
+      "keyword": "lng선",
+      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "중·러 군용기 KADIZ 진입",
+      "keyword": "윤가이와 장기하의 나이 차 화제",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "고이즈미 방위상 현충탑 참배",
-      "state": "n",
+      "keyword": "첫 홀 버디 성공!",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "장기하, 윤가이 母와 5살 차이",
-      "state": "+",
-      "change": "3"
+      "keyword": "박성재 항소 25년 징역",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "호남 반도체 물 충분 주장",
+      "keyword": "강다니엘 벌크업 성공",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "신장암 보너스로 주어진 삶",
-      "state": "-",
-      "change": "2"
+      "keyword": "민주콩고 에볼라 1203명",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "라민 야말 돌파하기",
+      "keyword": "5만명 실종, 구조 골든타임 임박",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김하성 이정후 안타 가로챘다",
+      "keyword": "장윤주 다리 기도했다고",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "서울국제도서전 대담하는",
-      "state": "-",
-      "change": "1"
+      "keyword": "최휘영 장관 대화 및 회의",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "전동킥보드로 6세 치고 벌금 300만원",
+      "keyword": "장용원 3년 연인 결혼",
       "state": "n",
       "change": "0"
     }
