@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-06-27T17:46:39.937Z",
+  "updatedAt": "2026-06-27T18:54:40.559Z",
   "google": [
     {
       "rank": 1,
       "keyword": "결혼의 완성",
-      "traffic": "200+"
+      "traffic": "500+"
     },
     {
       "rank": 2,
@@ -55,63 +55,63 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 OST 출연 활발",
+      "keyword": "김부장 신세계 OST 열일",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "귀국하는 송영길 의원",
-      "state": "s",
+      "keyword": "신입사원 강회장",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "노시환 5G 연속 홈런!",
-      "state": "s",
-      "change": "0"
+      "keyword": "호남 반도체 투자 위축 금지",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "호남 반도체 투자 위축 금지",
-      "state": "s",
+      "keyword": "노시환 5G 홈런 폭발!",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "싸이 흠뻑쇼 시작",
+      "keyword": "최휘영 장관 양자 회의",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "32강 진출 가능성",
+      "keyword": "전현무, 원진아 귀여워 해요",
       "state": "+",
-      "change": "3"
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "호르무즈 해협 상선 피격",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "전현무, 원진아 귀여워!",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 9,
-      "keyword": "1230회 로또 1등 17억명 16명",
+      "keyword": "티파니 영과 변요한, 든든한 내 편",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "1230회 로또 1등 17억 16명",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "맨 끝줄 소년",
+      "state": "+",
+      "change": "8"
+    },
+    {
       "rank": 10,
-      "keyword": "신입사원 강회장",
+      "keyword": "32강 희망의 가능성",
       "state": "-",
-      "change": "5"
+      "change": "3"
     }
   ]
 }
