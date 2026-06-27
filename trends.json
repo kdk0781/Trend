@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-27T09:09:48.115Z",
+  "updatedAt": "2026-06-27T11:02:40.578Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "kf-21 보라매",
-      "traffic": "2000+"
+      "keyword": "전광훈",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "필리조선소",
-      "traffic": "200+"
+      "keyword": "마이데일리",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "철도",
-      "traffic": "100+"
+      "keyword": "정점식",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "한화 대 ssg",
-      "traffic": "20000+"
+      "keyword": "군사작전",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "사고",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "기은세",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "수사",
+      "keyword": "이효리",
       "traffic": "2000+"
     },
     {
+      "rank": 6,
+      "keyword": "문정빈",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "시라카와",
+      "traffic": "100+"
+    },
+    {
       "rank": 8,
-      "keyword": "사하구",
-      "traffic": "200+"
+      "keyword": "손흥민",
+      "traffic": "20000+"
     },
     {
       "rank": 9,
-      "keyword": "서든어택",
-      "traffic": "200+"
+      "keyword": "kf-21 보라매",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "lng선",
+      "keyword": "필리조선소",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "월드컵 일정",
+      "keyword": "김부장, 열연 펼친 윤경호",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "윤가이와 장기하의 나이 차 화제",
+      "keyword": "월드컵 일정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "첫 홀 버디 성공!",
+      "keyword": "귀국하는 송영길 의원",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "박성재 항소 25년 징역",
+      "keyword": "KIA 시라카와 활약",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "강다니엘 벌크업 성공",
+      "keyword": "장기하 윤가이 열애중 만남 경위",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "민주콩고 에볼라 1203명",
+      "keyword": "70대 남성 구속영장",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "5만명 실종, 구조 골든타임 임박",
+      "keyword": "허경환 박영진 돈 빌려달라 차단",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "장윤주 다리 기도했다고",
+      "keyword": "호르무즈서 상선 피격",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "최휘영 장관 대화 및 회의",
+      "keyword": "노시환 5경기 연속 홈런",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "장용원 3년 연인 결혼",
-      "state": "n",
-      "change": "0"
+      "keyword": "일본, 북중미 32강 진출",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
