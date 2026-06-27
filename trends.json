@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-27T18:54:40.559Z",
+  "updatedAt": "2026-06-27T20:04:23.310Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "아성다이소",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 2,
       "keyword": "결혼의 완성",
       "traffic": "500+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "로또 1230",
       "traffic": "5000+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "투자가",
       "traffic": "5000+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "개그콘서트",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "오십프로",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "후지 산",
       "traffic": "2000+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "농구",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "류승민",
       "traffic": "100+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "오스틴 딘",
       "traffic": "2000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "비야디",
-      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 신세계 OST 열일",
+      "keyword": "김부장 금토극 OST 출연",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
       "keyword": "신입사원 강회장",
-      "state": "n",
-      "change": "0"
+      "state": "+",
+      "change": "26"
     },
     {
       "rank": 3,
-      "keyword": "호남 반도체 투자 위축 금지",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "노시환 5G 홈런 폭발!",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
       "keyword": "최휘영 장관 양자 회의",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "전현무, 원진아 귀여워 해요",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 7,
-      "keyword": "티파니 영과 변요한, 든든한 내 편",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "1230회 로또 1등 17억 16명",
+      "rank": 4,
+      "keyword": "결정 훈련하는 축구대표팀",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "맨 끝줄 소년",
+      "rank": 5,
+      "keyword": "티파니와 변요한 결혼 앞둬",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "호남 반도체 위축 우려",
       "state": "+",
-      "change": "8"
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "전현무, 원진아 스타일에 호감",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "1230회 로또 1등 16명 당첨",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "사랑 감사 오십프로 종영 소감",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 10,
-      "keyword": "32강 희망의 가능성",
-      "state": "-",
-      "change": "3"
+      "keyword": "베이징 경비행기 충돌 사망",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
