@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-27T12:14:57.601Z",
+  "updatedAt": "2026-06-27T14:07:21.060Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "오스틴",
+      "keyword": "농구",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "박영진",
+      "keyword": "류승민",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "이승우",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "항공",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "전광훈",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "마이데일리",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "이효리",
+      "keyword": "로또1230",
       "traffic": "2000+"
     },
     {
+      "rank": 4,
+      "keyword": "오스틴 딘",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "비야디",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "신상진",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "박영진",
+      "traffic": "100+"
+    },
+    {
       "rank": 8,
-      "keyword": "군사작전",
-      "traffic": "200+"
+      "keyword": "이승우",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "문정빈",
-      "traffic": "100+"
+      "keyword": "항공",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "시라카와",
-      "traffic": "100+"
+      "keyword": "경비행기",
+      "traffic": "20000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "소지섭 김부장 미니시리즈 1위",
+      "keyword": "김부장 흑화 본능",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "월드컵 일정",
-      "state": "s",
+      "keyword": "혼돈의 한국 32강 경우수",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "귀국하는 송영길 의원",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "노시환 5G 연속 홈런",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "김범룡",
+      "keyword": "월드컵 일정",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 4,
+      "keyword": "호르무즈서 또 상선 불상",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "귀국하는 송영길 의원",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 6,
-      "keyword": "박영진 돈 부탁 폭로",
+      "keyword": "김민석, 자신감 절제 필요",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "호르무즈 상선 피격 사건",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "장기하와 윤가이 SNL 인연",
+      "keyword": "노시환 5G 홈런 폭발",
       "state": "-",
       "change": "2"
     },
     {
+      "rank": 8,
+      "keyword": "홍명보호 3위 이란",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "70대 흉기난동 구속영장",
+      "keyword": "신장암 투병 후 삶",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "하영민 10연패 탈출!",
-      "state": "+",
-      "change": "1"
+      "keyword": "신입사원 강회장",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
