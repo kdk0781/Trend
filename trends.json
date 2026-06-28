@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-27T23:30:18.488Z",
+  "updatedAt": "2026-06-28T01:36:20.540Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "1박 2일",
-      "traffic": "1000+"
+      "keyword": "음식",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "빅테크",
-      "traffic": "100+"
+      "keyword": "공무원",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "panama đấu với anh",
+      "keyword": "чемпионат мира по футболу fifa 2026™",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "교사",
-      "traffic": "200+"
+      "keyword": "며느리",
+      "traffic": "5000+"
     },
     {
       "rank": 5,
-      "keyword": "상장지수 펀드",
-      "traffic": "1000+"
+      "keyword": "김종필",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "김미현",
-      "traffic": "1000+"
+      "keyword": "колумбия – португалия",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "croatia vs ghana",
-      "traffic": "500+"
+      "keyword": "조명우",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "극한 직업",
+      "keyword": "truc tiep bong da",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "창신메모리테크놀로지",
-      "traffic": "100+"
+      "keyword": "dr congo vs uzbekistan",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "우크라이나",
-      "traffic": "2000+"
+      "keyword": "colombia đấu với bồ đào nha",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "소지섭의 김부장 안방 장악",
+      "keyword": "이태구 결혼식 주인공 누구?",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "신입사원 강회장",
-      "state": "s",
-      "change": "0"
+      "keyword": "크로아티아 2-1 가나 승리",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 3,
-      "keyword": "전현무, 원진아 호감 표현",
-      "state": "+",
-      "change": "1"
+      "keyword": "소지섭 김부장 시청률 15% 돌파",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "대가리 박고 뛰겠다",
+      "keyword": "쿠웨이트 미사일 드론 대응",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "문채원 오늘 비공개 결혼식",
-      "state": "n",
-      "change": "0"
+      "keyword": "신한금융 AI 통제 강화",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "가나 크로아티아 패배",
+      "keyword": "젠슨 가족 K-치안 감사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "인생 반만 왔다 오십프로 피날레",
+      "keyword": "KT 5G 슬라이싱 실증",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "장기하와 윤가이 오징어 소개팅",
-      "state": "s",
-      "change": "0"
+      "keyword": "김규리 악플러 징역 1년",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "G마켓, 라자다 상품 확대",
+      "keyword": "빚투 마통잔액 최대 43조",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "그리 집 여친 위해 제모까지",
+      "keyword": "마이크론 삼전 닉스 실적 급등",
       "state": "n",
       "change": "0"
     }
