@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-28T01:36:20.540Z",
+  "updatedAt": "2026-06-28T05:59:12.065Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "음식",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "공무원",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "чемпионат мира по футболу fifa 2026™",
+      "keyword": "류현진",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "스티브 클라크",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "우루과이",
+      "traffic": "1000+"
+    },
+    {
       "rank": 4,
-      "keyword": "며느리",
-      "traffic": "5000+"
+      "keyword": "기사",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "김종필",
+      "keyword": "알제리 축구 국가대표팀 대 오스트리아 축구 국가대표팀 순위",
       "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "колумбия – португалия",
-      "traffic": "200+"
+      "keyword": "고우석",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "조명우",
-      "traffic": "200+"
+      "keyword": "algeria national football team vs austria national football team standings",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "truc tiep bong da",
-      "traffic": "200+"
+      "keyword": "lionel messi",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "dr congo vs uzbekistan",
-      "traffic": "1000+"
+      "keyword": "초과 근무",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "colombia đấu với bồ đào nha",
-      "traffic": "500+"
+      "keyword": "이혼",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이태구 결혼식 주인공 누구?",
-      "state": "s",
+      "keyword": "청년 당선인 워크숍 참석",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "크로아티아 2-1 가나 승리",
-      "state": "+",
-      "change": "3"
+      "keyword": "신입사원 강회장",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "소지섭 김부장 시청률 15% 돌파",
-      "state": "n",
+      "keyword": "홍명보호 귀국 행사 없음",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "쿠웨이트 미사일 드론 대응",
-      "state": "n",
-      "change": "0"
+      "keyword": "밀리터리 매니아들 모여라",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 5,
-      "keyword": "신한금융 AI 통제 강화",
+      "keyword": "장기하와 윤가이 공개연애",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "젠슨 가족 K-치안 감사",
+      "keyword": "김부장 드라마",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "오십프로를 응원하겠다",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 8,
+      "keyword": "제주 함덕해수욕장 손님맞이",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "KT 5G 슬라이싱 실증",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "김규리 악플러 징역 1년",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 9,
-      "keyword": "빚투 마통잔액 최대 43조",
+      "keyword": "13세 강력범죄 하향",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "마이크론 삼전 닉스 실적 급등",
+      "keyword": "이희진의 충격 고백",
       "state": "n",
       "change": "0"
     }
