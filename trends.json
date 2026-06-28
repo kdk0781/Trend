@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-28T16:48:46.311Z",
+  "updatedAt": "2026-06-28T17:53:46.597Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "홍명보 인터뷰",
-      "traffic": "5000+"
+      "keyword": "스포츠토토",
+      "traffic": "200+"
     },
     {
       "rank": 2,
+      "keyword": "서울지하철",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "브라질 일본",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
       "keyword": "f1",
       "traffic": "500+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "수출",
-      "traffic": "200+"
+      "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "설기현",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "한국경제신문",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "강회장",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "2026 fifa 월드컵 대진표",
       "traffic": "2000+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "fifa world cup 2026 bracket",
       "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "이재명 탄핵 국민청원",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "경찰기동대",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "홍명보 감독 사퇴",
-      "state": "+",
-      "change": "2"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "호남 반도체 투자 논란",
-      "state": "n",
+      "keyword": "신입사원 강회장",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "소지섭 딸 서수민 화려한 데뷔",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "도봉구 창동 아파트 화재 초진",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 5,
-      "keyword": "김민솔 시즌 3승",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "린, 윤종신 이혼 아니면 임신",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "KADIZ 무단 진입 항의",
+      "keyword": "도봉구 창동 아파트 화재 발생",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 4,
+      "keyword": "소지섭 딸 서수민 화려한 데뷔",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "호남 반도체 논란",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "린, 이혼 고백 실패",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "김나영 마이큐 어버이날 편지 오열",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "서산 스윙카 사고",
+      "keyword": "6·25 용사 춘천서",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "한일 국방장관 청년과 탁구 교류",
+      "keyword": "추락 탑승자 사망",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "투어스, 2년 만에 체조 입성",
-      "state": "n",
-      "change": "0"
+      "keyword": "서산 스윙카 사고",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
