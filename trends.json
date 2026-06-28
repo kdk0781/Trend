@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-28T12:19:28.234Z",
+  "updatedAt": "2026-06-28T14:18:21.936Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "맨체스터 시티 fc",
+      "keyword": "경찰기동대",
       "traffic": "100+"
     },
     {
       "rank": 2,
+      "keyword": "이희진",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "대한민국",
+      "traffic": "50000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "이자",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "ireland vs india",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "하지원",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "김남일",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "맨체스터 시티 fc",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
       "keyword": "웹툰",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
-      "keyword": "kt 대 삼성",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "최미나수",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "황동주",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "조원희",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "한혜연",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "대전광역시",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "김원형",
-      "traffic": "100+"
-    },
-    {
       "rank": 10,
-      "keyword": "서수민",
+      "keyword": "kt 대 삼성",
       "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "소지섭 딸 서수민 화려한 데뷔",
+      "keyword": "스윙카 사고로 아이들 부상",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "스윙카 사고로 두 아이 다쳐",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "KIA 이범호 감독, 승리 기원",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "에티오피아 후손 춘천 공연",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "장기하와 윤가이 공개연애 18세차",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 6,
-      "keyword": "이임생 책임론 받아들이겠다",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "오십프로 존재감 보여준 김신록, 허성태의 다짐",
-      "state": "+",
-      "change": "12"
-    },
-    {
-      "rank": 8,
-      "keyword": "13세 범죄 처벌 하향",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "호남 반도체 논란과 공방",
+      "keyword": "김부장 뒤흔든 남파 정체?",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "홍명보호 귀국 행사 취소",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "이희진과 임원희의 핑크빛 사랑",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "13세 촉법소년 조건부 하향",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "도봉구 창동 아파트 화재 40분 초진",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 7,
+      "keyword": "KIA 이범호 감독 승리 기원",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "문채원, 28일 비공식 결혼",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "韓, 충격 탈락.",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 10,
-      "keyword": "한동훈 장동혁, 정몽규 거부 같다",
+      "keyword": "백지영 딸 발 사이즈 똑같아",
       "state": "n",
       "change": "0"
     }
