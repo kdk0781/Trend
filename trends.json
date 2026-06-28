@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-06-28T11:04:30.528Z",
+  "updatedAt": "2026-06-28T12:19:28.234Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "최미나수",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "지예은",
+      "keyword": "맨체스터 시티 fc",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "웹툰",
+      "traffic": "2000+"
+    },
+    {
       "rank": 3,
-      "keyword": "황동주",
+      "keyword": "kt 대 삼성",
       "traffic": "2000+"
     },
     {
       "rank": 4,
+      "keyword": "최미나수",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "황동주",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 6,
       "keyword": "조원희",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "한혜연",
       "traffic": "1000+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "대전광역시",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "김원형",
       "traffic": "100+"
     },
     {
-      "rank": 8,
-      "keyword": "박지성",
-      "traffic": "50000+"
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "keyword": "서수민",
       "traffic": "2000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "한화 대 ssg",
-      "traffic": "10000+"
     }
   ],
   "domestic": [
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "스윙카",
-      "state": "s",
-      "change": "0"
+      "keyword": "스윙카 사고로 두 아이 다쳐",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "신입사원 강회장",
-      "state": "s",
-      "change": "0"
+      "keyword": "KIA 이범호 감독, 승리 기원",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "김민솔 맥콜 시즌 3승",
-      "state": "s",
+      "keyword": "에티오피아 후손 춘천 공연",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "KADIZ 무단 진입 엄중 항의",
-      "state": "s",
-      "change": "0"
+      "keyword": "장기하와 윤가이 공개연애 18세차",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "이임생 책임론 수용하겠다",
+      "keyword": "이임생 책임론 받아들이겠다",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "최우식, 흑인 팬과 시간 부족해 미안",
-      "state": "n",
-      "change": "0"
+      "keyword": "오십프로 존재감 보여준 김신록, 허성태의 다짐",
+      "state": "+",
+      "change": "12"
     },
     {
       "rank": 8,
-      "keyword": "춘천서 평화 합창 공연",
-      "state": "n",
-      "change": "0"
+      "keyword": "13세 범죄 처벌 하향",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "13세 촉법소년 하향",
-      "state": "n",
+      "keyword": "호남 반도체 논란과 공방",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "호남 반도체 투자 논란",
+      "keyword": "한동훈 장동혁, 정몽규 거부 같다",
       "state": "n",
       "change": "0"
     }
