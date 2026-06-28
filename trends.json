@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-28T22:39:38.684Z",
+  "updatedAt": "2026-06-28T23:45:31.725Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "사건",
-      "traffic": "2000+"
+      "keyword": "조명우",
+      "traffic": "200+"
     },
     {
       "rank": 2,
+      "keyword": "삼성그룹",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "안정환",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "오타니 쇼헤이",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "이재명 지지율",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "파리 생제르맹 fc",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "바이 낸스 하이닉스",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "컵스 대 브루어스",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
       "keyword": "잠수함",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
-      "keyword": "미국 해군",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "김병현",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "투자가",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "사우디 아람코",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "k9 자주포",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "무인 항공기",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "상속",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "알폰소 데이비스",
+      "keyword": "미국 해군",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "홍명보 감독 사퇴",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
       "keyword": "신입사원 강회장",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "미국-이란 공격 중단 합의",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 3,
-      "keyword": "김부장 소지섭의 부성애 액션",
+      "keyword": "김부장 묵언 수행 13시간",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "미국·이란, 공격 중단 회담",
-      "state": "+",
-      "change": "5"
+      "keyword": "이임생 책임론 받아들이겠다",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "박항서 단장 사과드립니다",
+      "keyword": "캐나다 남아공 16강 진출",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "전미선 7주기 공연",
-      "state": "+",
-      "change": "1"
+      "keyword": "스윙카 초등생 차량 충돌 크게 다쳐",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "숙소 나서는 대표팀",
-      "state": "n",
+      "keyword": "전미선 7주기 개최",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "호남 반도체 중요성",
-      "state": "-",
-      "change": "4"
+      "keyword": "손흥민과 홍명보 직격",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "정몽규 인사 안 하냐?",
+      "keyword": "정몽규 복당 임박?",
       "state": "+",
-      "change": "6"
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "아스투토 EU대사 인터뷰",
-      "state": "n",
-      "change": "0"
+      "keyword": "이희진 핑크 스킨십",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
