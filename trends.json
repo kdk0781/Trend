@@ -1,105 +1,105 @@
 {
-  "updatedAt": "2026-06-28T19:05:24.755Z",
+  "updatedAt": "2026-06-28T20:20:52.946Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "신분증",
-      "traffic": "100+"
+      "keyword": "south africa vs canada",
+      "traffic": "500+"
     },
     {
       "rank": 2,
+      "keyword": "이재성",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "남아공 대 캐나다",
+      "traffic": "20000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "신분증",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
       "keyword": "스포츠토토",
       "traffic": "500+"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "keyword": "서울지하철",
       "traffic": "2000+"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "keyword": "브라질 일본",
-      "traffic": "100+"
+      "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "f1",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "수출",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "설기현",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
-      "keyword": "한국경제신문",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "강회장",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "2026 fifa 월드컵 대진표",
-      "traffic": "2000+"
+      "keyword": "설기현",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "홍명보 감독 사퇴",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "신입사원 강회장",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "소지섭 딸, 300만 화려한 데뷔",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "신입사원 강회장",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "사우디 헬기 14명 사망",
+      "state": "+",
+      "change": "11"
+    },
+    {
       "rank": 4,
-      "keyword": "도봉구 창동 아파트 화재 발생",
+      "keyword": "소지섭 딸 화려한 데뷔",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이강인, 숙소 나서다",
-      "state": "s",
-      "change": "0"
+      "keyword": "린, 윤종신 이혼 임신 질문",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "박항서 단장 사과합니다",
+      "keyword": "박항서 단장 사과와 반성",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "호남 반도체 논란 지속",
-      "state": "s",
-      "change": "0"
+      "keyword": "이강인 숙소 나서다",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "이임생 책임론 수용하겠다",
-      "state": "+",
-      "change": "1"
+      "keyword": "도봉구 아파트 화재 초진",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
@@ -109,9 +109,9 @@
     },
     {
       "rank": 10,
-      "keyword": "사우디 헬기 14명 사망",
-      "state": "+",
-      "change": "1"
+      "keyword": "호남 반도체 도전",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
