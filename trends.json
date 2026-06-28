@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-28T21:35:18.807Z",
+  "updatedAt": "2026-06-28T22:39:38.684Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "삼성바이오로직스",
-      "traffic": "1000+"
+      "keyword": "사건",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "캐나다",
-      "traffic": "100+"
+      "keyword": "잠수함",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "이재명",
-      "traffic": "2000+"
+      "keyword": "미국 해군",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "양준혁",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "일본 축구 국가대표팀",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "기온",
+      "keyword": "김병현",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "주식",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "south africa vs canada",
+      "rank": 5,
+      "keyword": "투자가",
       "traffic": "1000+"
     },
     {
-      "rank": 9,
-      "keyword": "이재성",
+      "rank": 6,
+      "keyword": "사우디 아람코",
       "traffic": "100+"
     },
     {
+      "rank": 7,
+      "keyword": "k9 자주포",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "무인 항공기",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
+      "keyword": "상속",
+      "traffic": "200+"
+    },
+    {
       "rank": 10,
-      "keyword": "남아공 대 캐나다",
-      "traffic": "20000+"
+      "keyword": "알폰소 데이비스",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "홍명보 감독 사퇴",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
       "keyword": "신입사원 강회장",
-      "state": "-",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김부장 소지섭 부성애 액션",
+      "keyword": "김부장 소지섭의 부성애 액션",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "호남 반도체 클러스터 투자 확대",
-      "state": "n",
-      "change": "0"
+      "keyword": "미국·이란, 공격 중단 회담",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 5,
-      "keyword": "박항서 단장 사과드립니다.",
+      "keyword": "박항서 단장 사과드립니다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "아파트 스윙카 타다 중상",
+      "keyword": "전미선 7주기 공연",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "숙소 나서는 이강인",
-      "state": "+",
-      "change": "1"
+      "keyword": "숙소 나서는 대표팀",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "손흥민의 기적 드라마 종영",
-      "state": "+",
-      "change": "5"
+      "keyword": "호남 반도체 중요성",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 9,
-      "keyword": "추락 탑승자 사망",
+      "keyword": "정몽규 인사 안 하냐?",
       "state": "+",
-      "change": "11"
+      "change": "6"
     },
     {
       "rank": 10,
-      "keyword": "WHO 폭염 사망 1300명",
+      "keyword": "아스투토 EU대사 인터뷰",
       "state": "n",
       "change": "0"
     }
