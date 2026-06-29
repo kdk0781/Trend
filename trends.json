@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-29T15:01:39.228Z",
+  "updatedAt": "2026-06-29T17:46:16.285Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "브라질 대 일본",
+      "traffic": "20000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "brazil vs japan",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 3,
       "keyword": "전북 특별 자치 도지사",
       "traffic": "500+"
     },
     {
-      "rank": 2,
-      "keyword": "권순우",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "wimbledon",
-      "traffic": "100+"
-    },
-    {
       "rank": 4,
-      "keyword": "야닉 시너",
-      "traffic": "2000+"
+      "keyword": "권순우",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "음식",
-      "traffic": "5000+"
+      "keyword": "wimbledon",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "연구소",
+      "keyword": "김남길",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "달",
-      "traffic": "200+"
+      "keyword": "야닉 시너",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "최영섭",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "옌스 카스트로 프",
+      "keyword": "음식",
       "traffic": "10000+"
     },
     {
+      "rank": 9,
+      "keyword": "연구소",
+      "traffic": "1000+"
+    },
+    {
       "rank": 10,
-      "keyword": "fc 바르셀로나",
+      "keyword": "달",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "국힘 가입 강요 구속기소",
+      "keyword": "김혜경, 꿈의 오케스트라 격려",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "트럼프 이란 회담 요청",
-      "state": "s",
-      "change": "0"
+      "keyword": "합수본 이만희 구속기소",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "신입사원 강회장",
+      "keyword": "스타벅스 가야지 논란 발생",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "김부장 미친 존재감",
-      "state": "-",
+      "keyword": "성시경 문가영 극찬 아름다워",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "문가영의 고급 인성",
+      "keyword": "트럼프 이란 회담 요청",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "홍명보 귀국, 경찰 110명 투입!",
+      "keyword": "반도체 800조 투자",
+      "state": "-",
+      "change": "4"
+    },
+    {
+      "rank": 7,
+      "keyword": "트레저 준규, 활동 중단",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 8,
+      "keyword": "한국 축구 위기 지속",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "내일도 출근",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "닥터 섬보이",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 9,
-      "keyword": "백종원 운동회서 줄다리기까지",
+      "keyword": "독일 총격 5명 사망",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "美 소비자, 삼성·하이닉스 소송",
-      "state": "n",
-      "change": "0"
+      "keyword": "일라이 이혼 지연수 양육비 85만원 부족",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
