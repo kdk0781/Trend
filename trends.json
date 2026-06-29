@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-29T01:55:40.504Z",
+  "updatedAt": "2026-06-29T06:39:28.495Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "농민신문",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "땅",
+      "keyword": "소유진",
       "traffic": "2000+"
     },
     {
+      "rank": 2,
+      "keyword": "왕옌청",
+      "traffic": "500+"
+    },
+    {
       "rank": 3,
-      "keyword": "져스텍",
+      "keyword": "올스타전 예매",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "제헌절",
+      "keyword": "lec",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "홍라영",
-      "traffic": "1000+"
+      "keyword": "김우빈",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "손현주",
+      "keyword": "보잉 737",
       "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "전력",
-      "traffic": "200+"
+      "keyword": "남도일보",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "더 글로리",
-      "traffic": "200+"
+      "keyword": "자동차산업",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "조명우",
-      "traffic": "200+"
+      "keyword": "아파트",
+      "traffic": "20000+"
     },
     {
       "rank": 10,
-      "keyword": "삼성그룹",
-      "traffic": "5000+"
+      "keyword": "kc",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "나미애 첫 결혼 웨딩드레스",
+      "keyword": "3대 메가프로젝트 국민보고회",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "코스닥 매수 사이드카",
+      "keyword": "신입사원 강회장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "소지섭 김부장 글로벌 3위 후보",
+      "keyword": "문체위, 축구협회 점검",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "코스피 하락 출발",
+      "keyword": "이억원 위원장 회의 주재",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "최고위원회의 장동혁 대표",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "리센느 경주 홍보대사",
+      "keyword": "배충식 KAIST 총장",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "금강산 최영섭 별세",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "LG전자 로봇청소기 로니 출시",
+      "keyword": "호남 반도체 기자회견",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "6·25 전사자 합동안장식",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "연습용 수류탄 발견",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "변요한 손 없는 날 촬영 시작",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "호남 반도체 투자 논란",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 10,
-      "keyword": "정몽규-이임생은 침묵 왜?",
-      "state": "+",
-      "change": "4"
+      "keyword": "홍명보 감독 사퇴",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
