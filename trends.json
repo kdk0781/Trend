@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-29T22:17:22.827Z",
+  "updatedAt": "2026-06-29T23:18:03.503Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "코스닥",
-      "traffic": "1000+"
+      "keyword": "박재현",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "자산",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "뇌물",
+      "keyword": "rklb",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "strc",
+      "traffic": "200+"
+    },
+    {
       "rank": 4,
-      "keyword": "르윈 디아즈",
-      "traffic": "500+"
+      "keyword": "이찬원",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "박현경",
-      "traffic": "1000+"
+      "keyword": "이천수",
+      "traffic": "20000+"
     },
     {
       "rank": 6,
-      "keyword": "진 양곤",
+      "keyword": "스타얼라이언스",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "송도세브란스병원",
-      "traffic": "100+"
+      "keyword": "운전",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "조선소",
-      "traffic": "100+"
+      "keyword": "조선의 사랑꾼",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "한화 이글스",
-      "traffic": "500+"
+      "keyword": "spcx",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "마이크론 테크놀로지",
-      "traffic": "1000+"
+      "keyword": "tsla",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "홍명보 전 감독 귀국 후 팬들 야유",
+      "keyword": "홍명보 전 감독 침묵 귀국",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "호남 반도체 투자 확산 전략",
+      "keyword": "기술주 반등 다우 최고",
       "state": "+",
-      "change": "4"
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "손흥민 연봉 350억",
+      "keyword": "손흥민 사과문 게시",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "김호중 오늘 가석방",
-      "state": "s",
-      "change": "0"
+      "keyword": "지연수 양육비 85만원 부족",
+      "state": "+",
+      "change": "7"
     },
     {
       "rank": 5,
-      "keyword": "이란 호르무즈 통행 방해",
-      "state": "n",
-      "change": "0"
+      "keyword": "독일 총격 6명 사망",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 6,
-      "keyword": "배재고 사과 및 조사 검토",
+      "keyword": "배재고 논란 확산",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "김부장, 주상욱의 미친 존재감",
-      "state": "s",
-      "change": "0"
+      "keyword": "김부장 미친 존재감",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "독일 총격 6명 사망",
-      "state": "n",
-      "change": "0"
+      "keyword": "김호중 오늘 가석방 출소",
+      "state": "+",
+      "change": "10"
     },
     {
       "rank": 9,
-      "keyword": "지연수 양육비 85만원 부족",
-      "state": "+",
-      "change": "1"
+      "keyword": "호남 반도체 기지 확대",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "내륙 소나기 기승",
-      "state": "n",
-      "change": "0"
+      "keyword": "신입사원 강회장",
+      "state": "+",
+      "change": "3"
     }
   ]
 }
