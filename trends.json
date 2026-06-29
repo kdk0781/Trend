@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-28T23:45:31.725Z",
+  "updatedAt": "2026-06-29T01:55:40.504Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "농민신문",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "땅",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "져스텍",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "제헌절",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "홍라영",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "손현주",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "전력",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "더 글로리",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
       "keyword": "조명우",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 10,
       "keyword": "삼성그룹",
       "traffic": "5000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "안정환",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "오타니 쇼헤이",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "이재명 지지율",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "파리 생제르맹 fc",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "바이 낸스 하이닉스",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "컵스 대 브루어스",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "잠수함",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "미국 해군",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "신입사원 강회장",
+      "keyword": "나미애 첫 결혼 웨딩드레스",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "미국-이란 공격 중단 합의",
+      "keyword": "코스닥 매수 사이드카",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김부장 묵언 수행 13시간",
-      "state": "s",
-      "change": "0"
+      "keyword": "소지섭 김부장 글로벌 3위 후보",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "이임생 책임론 받아들이겠다",
-      "state": "s",
-      "change": "0"
+      "keyword": "코스피 하락 출발",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "캐나다 남아공 16강 진출",
-      "state": "s",
-      "change": "0"
+      "keyword": "최고위원회의 장동혁 대표",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "스윙카 초등생 차량 충돌 크게 다쳐",
+      "keyword": "리센느 경주 홍보대사",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "전미선 7주기 개최",
-      "state": "s",
+      "keyword": "LG전자 로봇청소기 로니 출시",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "손흥민과 홍명보 직격",
-      "state": "s",
-      "change": "0"
+      "keyword": "변요한 손 없는 날 촬영 시작",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "정몽규 복당 임박?",
+      "keyword": "호남 반도체 투자 논란",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "이희진 핑크 스킨십",
+      "keyword": "정몽규-이임생은 침묵 왜?",
       "state": "+",
-      "change": "2"
+      "change": "4"
     }
   ]
 }
