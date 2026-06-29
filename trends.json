@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-29T17:46:16.285Z",
+  "updatedAt": "2026-06-29T19:26:13.267Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "브라질 대 일본",
-      "traffic": "20000+"
+      "keyword": "홍명보 입국",
+      "traffic": "100000+"
     },
     {
       "rank": 2,
-      "keyword": "brazil vs japan",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "전북 특별 자치 도지사",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "권순우",
+      "keyword": "스즈키 자이온",
       "traffic": "1000+"
     },
     {
+      "rank": 3,
+      "keyword": "32강 대진표",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "ブラジル 対 日本",
+      "traffic": "200+"
+    },
+    {
       "rank": 5,
-      "keyword": "wimbledon",
+      "keyword": "오십프로",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "김남길",
+      "keyword": "네이마르",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "야닉 시너",
-      "traffic": "2000+"
+      "keyword": "브라질 대 일본",
+      "traffic": "50000+"
     },
     {
       "rank": 8,
-      "keyword": "음식",
-      "traffic": "10000+"
+      "keyword": "brazil vs japan",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "연구소",
+      "keyword": "전북 특별 자치 도지사",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "달",
-      "traffic": "200+"
+      "keyword": "권순우",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김혜경, 꿈의 오케스트라 격려",
+      "keyword": "스타벅스 가야지 배재고",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 2,
+      "keyword": "일본 브라질 16강 도전",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 3,
+      "keyword": "성시경이 문가영 극찬",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 2,
-      "keyword": "합수본 이만희 구속기소",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "스타벅스 가야지 논란 발생",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 4,
-      "keyword": "성시경 문가영 극찬 아름다워",
+      "keyword": "독일 총격 5명 사망",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "트럼프 이란 회담 요청",
+      "keyword": "김부장의 미친 존재감",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "반도체 800조 투자",
+      "keyword": "다시 죽기 살기로 달리겠다",
       "state": "-",
-      "change": "4"
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "트레저 준규, 활동 중단",
+      "keyword": "이혼 지연수 양육비 부족",
       "state": "+",
-      "change": "4"
+      "change": "9"
     },
     {
       "rank": 8,
-      "keyword": "한국 축구 위기 지속",
-      "state": "n",
-      "change": "0"
+      "keyword": "반도체 800조 투자",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 9,
-      "keyword": "독일 총격 5명 사망",
-      "state": "n",
+      "keyword": "신입사원 강회장",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "일라이 이혼 지연수 양육비 85만원 부족",
+      "keyword": "트레저 준규, 활동 중단 선언",
       "state": "-",
       "change": "2"
     }
