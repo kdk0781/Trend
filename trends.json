@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-29T11:34:14.904Z",
+  "updatedAt": "2026-06-29T15:01:39.228Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "옌스 카스트로프",
-      "traffic": "2000+"
+      "keyword": "전북 특별 자치 도지사",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "김혜수",
-      "traffic": "1000+"
+      "keyword": "권순우",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "덤프 트럭",
-      "traffic": "2000+"
+      "keyword": "wimbledon",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "미사일",
-      "traffic": "5000+"
+      "keyword": "야닉 시너",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "트릭컬 파티마",
-      "traffic": "2000+"
+      "keyword": "음식",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "진양곤",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "김기현",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "법원",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "이영자",
+      "keyword": "연구소",
       "traffic": "1000+"
     },
     {
+      "rank": 7,
+      "keyword": "달",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "최영섭",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "옌스 카스트로 프",
+      "traffic": "10000+"
+    },
+    {
       "rank": 10,
-      "keyword": "배재고",
-      "traffic": "5000+"
+      "keyword": "fc 바르셀로나",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 빌런 존재감",
-      "state": "s",
+      "keyword": "국힘 가입 강요 구속기소",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김혜경 여사 오케스트라 방문",
+      "keyword": "트럼프 이란 회담 요청",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "배재고 응원 논란",
-      "state": "s",
-      "change": "0"
+      "keyword": "신입사원 강회장",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "합수본 이만희 구속기소",
-      "state": "s",
-      "change": "0"
+      "keyword": "김부장 미친 존재감",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "신입사원 강회장",
-      "state": "s",
-      "change": "0"
+      "keyword": "문가영의 고급 인성",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "문체부, 축구협회 특별감사 시행",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "국세청 농협중앙회 특별세무조사",
+      "keyword": "홍명보 귀국, 경찰 110명 투입!",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "내일도 출근",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 8,
-      "keyword": "정몽규 수사 2년째 제자리",
-      "state": "+",
-      "change": "3"
+      "keyword": "닥터 섬보이",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "3대 메가프로젝트 발표",
+      "keyword": "백종원 운동회서 줄다리기까지",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "호남 반도체 투자와 정치 행사",
+      "keyword": "美 소비자, 삼성·하이닉스 소송",
       "state": "n",
       "change": "0"
     }
