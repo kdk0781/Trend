@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-30T13:27:06.796Z",
+  "updatedAt": "2026-06-30T16:02:50.804Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이민정",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "동남아시아",
+      "keyword": "중앙그룹",
       "traffic": "500+"
     },
     {
-      "rank": 3,
-      "keyword": "기성용",
+      "rank": 2,
+      "keyword": "대한민국 과학기술정보통신부",
       "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "kt vs hanwha",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "중소기업은행",
-      "traffic": "200+"
+      "keyword": "테일러 프리츠",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "카라 델레바인",
+      "keyword": "문원",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "cuaca besok",
-      "traffic": "200+"
+      "keyword": "이민정",
+      "traffic": "10000+"
     },
     {
       "rank": 7,
-      "keyword": "이소영",
+      "keyword": "동남아시아",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "6세대 전투기",
-      "traffic": "200+"
+      "keyword": "기성용",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "hlb 파나진",
-      "traffic": "1000+"
+      "keyword": "중소기업은행",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "하와이",
+      "keyword": "카라 델레바인",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "가야지 배재고 교육청도",
-      "state": "n",
+      "keyword": "동탄 기흥 구리 규제 문제",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "제임스 헬러 주한미국대사대리",
-      "state": "-",
-      "change": "1"
+      "keyword": "11개 상임위원장 선출",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "노 1만1900원 VS 사 1만360원 수정안",
-      "state": "n",
+      "keyword": "김도영 홈런 단독 1위 달성",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "네덜란드도 승부차기 끝",
-      "state": "n",
-      "change": "0"
+      "keyword": "제임스 헬러 주한미국대사대리",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "코드 쿤스트, 8년 열애 중 결별설",
-      "state": "n",
-      "change": "0"
+      "keyword": "이재명 대통령 서남권",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "상임위원장 선출 반발 국민의힘",
-      "state": "-",
-      "change": "4"
+      "keyword": "김호중, 출소 후 뉘우치며 행동 할 것",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "코레일 자회사 5곳→3곳 재편",
-      "state": "n",
-      "change": "0"
+      "keyword": "정점식 원내대표 활동",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "공무원 임금 7.1% 인상",
+      "keyword": "코레일 자회사 통합",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "최저임금 2차 수정안",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "김도영 홈런 단독 1위 등극",
-      "state": "-",
-      "change": "6"
-    },
-    {
       "rank": 10,
-      "keyword": "던, 5년 후 은퇴 고민",
+      "keyword": "EU 철강 무관세 19% 감소",
       "state": "n",
       "change": "0"
     }
