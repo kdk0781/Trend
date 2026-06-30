@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-30T08:46:59.909Z",
+  "updatedAt": "2026-06-30T11:34:09.282Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "에코프로비엠",
-      "traffic": "2000+"
+      "keyword": "광주연구개발 특구 첨단3지구",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "005930",
-      "traffic": "5000+"
+      "keyword": "홍수",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "원자력 잠수함",
-      "traffic": "2000+"
+      "keyword": "여에스더",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "kbo 리그",
+      "keyword": "수수료",
       "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "성동구",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "훈련",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "항공",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "연합인포맥스",
+      "keyword": "서울지방국세청",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "임금피크제",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "키움증권",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "뱅크런",
+      "traffic": "500+"
+    },
+    {
       "rank": 9,
-      "keyword": "조 바이든",
-      "traffic": "100+"
+      "keyword": "류준열",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "광역철도",
+      "keyword": "수익",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 대통령 서남권",
+      "keyword": "코레일 자회사 통합 3개로",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "발언하는 장동혁 대표",
+      "keyword": "김호중 출소 후 심경 표명",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "박관호 지분 매각",
-      "state": "+",
-      "change": "6"
+      "keyword": "서영교 법사위 추천",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "시그널2 11월 방영 미확정",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "코스피 상승 마감",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "이다현 일본 임대 이적",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "조은희 불구속 송치",
+      "keyword": "박찬혁 솔로포!",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "동탄·기흥·구리 대출 규제 강화",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "소지섭 김부장 출연 이유",
+      "rank": 5,
+      "keyword": "소지섭, 김부장 출연 이유는?",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "하이닉스 주가",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "던, 5년 내 은퇴 원해",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "KIA 김도영, 전 구단 홈런",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "배재고 사과 의사 밝혀",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 10,
-      "keyword": "삼성 SSAFY 14기 AI 교육 수료",
+      "keyword": "EU 철강 쿼터 19.7% 감소",
       "state": "n",
       "change": "0"
     }
