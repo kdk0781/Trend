@@ -1,117 +1,56 @@
 {
-  "updatedAt": "2026-06-30T18:08:01.902Z",
+  "updatedAt": "2026-06-30T20:15:21.643Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "코트디부아르 대 노르웨이",
+      "keyword": "위르겐 클린스만",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
+      "keyword": "싸워",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "국민의힘",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "최성국",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "김영환",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "장윤정",
       "traffic": "2000+"
     },
     {
-      "rank": 2,
-      "keyword": "중앙그룹",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "대한민국 과학기술정보통신부",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "kt vs hanwha",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "테일러 프리츠",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "문원",
-      "traffic": "200+"
-    },
-    {
       "rank": 7,
-      "keyword": "이민정",
-      "traffic": "10000+"
+      "keyword": "côte d'ivoire vs norway",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "동남아시아",
-      "traffic": "500+"
+      "keyword": "토트넘",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "기성용",
-      "traffic": "500+"
+      "keyword": "코트디부아르 대 노르웨이",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "중소기업은행",
-      "traffic": "200+"
+      "keyword": "ssg 랜더스",
+      "traffic": "1000+"
     }
   ],
-  "domestic": [
-    {
-      "rank": 1,
-      "keyword": "11개 상임위원장 선출",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "김도영 홈런 단독 1위!",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "제임스 헬러 주한미국대사대리",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "당선 인사하는 국회의원들",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 5,
-      "keyword": "5년 내 은퇴 고민",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "정점식 원내대표 활동",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "출생시민권 트럼프 제동",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "국민의힘 국회의장실 방문",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "최저임금 2차 수정안",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 10,
-      "keyword": "프로야구, 최소 700만 관중",
-      "state": "n",
-      "change": "0"
-    }
-  ]
+  "domestic": []
 }
