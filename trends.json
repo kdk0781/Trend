@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-30T05:43:18.442Z",
+  "updatedAt": "2026-06-30T08:46:59.909Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "인사청문회",
-      "traffic": "1000+"
+      "keyword": "에코프로비엠",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "알 테오 젠",
-      "traffic": "200+"
+      "keyword": "005930",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "동전주",
+      "keyword": "원자력 잠수함",
       "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "김일성",
-      "traffic": "2000+"
+      "keyword": "kbo 리그",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "무역",
-      "traffic": "200+"
+      "keyword": "성동구",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "morocco vs netherlands",
+      "keyword": "훈련",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "대통령 지지율",
+      "keyword": "항공",
       "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "구리",
-      "traffic": "2000+"
+      "keyword": "연합인포맥스",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "김희철",
-      "traffic": "2000+"
+      "keyword": "조 바이든",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "belanda vs maroko",
+      "keyword": "광역철도",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "기흥 동탄 구리 토지거래허가",
-      "state": "n",
+      "keyword": "이재명 대통령 서남권",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "모로코, 승부차기 네덜란드 제압!",
-      "state": "+",
-      "change": "1"
+      "keyword": "발언하는 장동혁 대표",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "호남 반도체 투자 비판",
-      "state": "-",
-      "change": "2"
+      "keyword": "박관호 지분 매각",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 4,
-      "keyword": "코드 쿤스트 8년 열애 결별설",
-      "state": "n",
+      "keyword": "시그널2 11월 방영 미확정",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "기념촬영하는 한-우크라이나 외교장관",
+      "keyword": "코스피 상승 마감",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "이다현 일본 임대 이적",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "김부장 성적 심상치 않다",
+      "rank": 7,
+      "keyword": "조은희 불구속 송치",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "AI 정부24 브리핑",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 8,
-      "keyword": "김호중 가석방 출소",
-      "state": "n",
+      "keyword": "동탄·기흥·구리 대출 규제 강화",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이주희 심정지 사망 억측 자제",
-      "state": "n",
-      "change": "0"
+      "keyword": "소지섭 김부장 출연 이유",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "김명수 강민아의 로맨스",
+      "keyword": "삼성 SSAFY 14기 AI 교육 수료",
       "state": "n",
       "change": "0"
     }
