@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-06-30T01:27:28.306Z",
+  "updatedAt": "2026-06-30T05:43:18.442Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "간",
-      "traffic": "5000+"
+      "keyword": "인사청문회",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "스트라드비젼",
+      "keyword": "알 테오 젠",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "과태료",
-      "traffic": "500+"
+      "keyword": "동전주",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "신지애",
+      "keyword": "김일성",
       "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "엔조 마레스카",
-      "traffic": "100+"
+      "keyword": "무역",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "독일",
+      "keyword": "morocco vs netherlands",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "아르헨티나 카보베르데",
-      "traffic": "100+"
+      "keyword": "대통령 지지율",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "파이리츠 대 필리스",
-      "traffic": "500+"
+      "keyword": "구리",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "이원택",
-      "traffic": "1000+"
+      "keyword": "김희철",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "신속통합기획",
-      "traffic": "500+"
+      "keyword": "belanda vs maroko",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "동탄 기흥 구리 규제지역 지정",
-      "state": "s",
+      "keyword": "기흥 동탄 구리 토지거래허가",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "정점식 국민의힘 원내대표",
+      "keyword": "모로코, 승부차기 네덜란드 제압!",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "5월 산업생산 0.3%↓",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "파라과이, 독일 꺾고 16강행",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "코스피 상승 출발",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 6,
-      "keyword": "유해진 박해일, 추석 암살자 개봉",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "37살 김규선, 결혼 9년 만에 임신",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "2026 카만닥 훈련 참가",
+      "keyword": "호남 반도체 투자 비판",
       "state": "-",
       "change": "2"
     },
     {
+      "rank": 4,
+      "keyword": "코드 쿤스트 8년 열애 결별설",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "기념촬영하는 한-우크라이나 외교장관",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "김부장 성적 심상치 않다",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "AI 정부24 브리핑",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "김호중 가석방 출소",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "삼성전기 4500억 MLCC 계약",
+      "keyword": "이주희 심정지 사망 억측 자제",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김연자 출세 못해 무명 고백",
-      "state": "-",
-      "change": "2"
+      "keyword": "김명수 강민아의 로맨스",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
