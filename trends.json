@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-01T04:49:32.704Z",
+  "updatedAt": "2026-07-01T08:41:13.842Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "애슬레틱스",
-      "traffic": "200+"
+      "keyword": "로날트 쿠만",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "산업통상부",
-      "traffic": "200+"
+      "keyword": "동물권",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "모로코 축구 국가대표팀",
-      "traffic": "200+"
+      "keyword": "박정훈",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "투표용지",
-      "traffic": "2000+"
+      "keyword": "박주민",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "윔블던 선수권 대회",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "장서희",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "자이언츠 대 다이아몬드백스",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "에어로케이",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "환율",
+      "keyword": "충전소",
       "traffic": "1000+"
     },
     {
-      "rank": 10,
-      "keyword": "처벌",
+      "rank": 6,
+      "keyword": "앤 해서웨이",
       "traffic": "5000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "반도체",
+      "traffic": "20000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "심정지",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "지명 타자",
+      "traffic": "500+"
+    },
+    {
+      "rank": 10,
+      "keyword": "마이클 버리",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "오세훈 서울시장 취임사",
-      "state": "+",
-      "change": "1"
+      "keyword": "민선 9기 시작",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이재명·문재인 회동",
+      "keyword": "이재명, 민주평통 참석",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "월드컵 일정 따라 이강인 이동",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 3,
-      "keyword": "한성숙 총리 참배 완료",
-      "state": "-",
-      "change": "2"
-    },
-    {
       "rank": 4,
-      "keyword": "국조특위 2차 기관보고",
-      "state": "n",
+      "keyword": "한성숙 총리 첫 회의 주재",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "청소년 하츠투하츠 위촉",
+      "keyword": "6월 판매 감소",
       "state": "+",
-      "change": "1"
+      "change": "5"
     },
     {
       "rank": 6,
-      "keyword": "추경호 대구시장 취임사",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "멕시코, 에콰도르 제압 16강 진출!",
+      "keyword": "남궁민, 결혼의 완성 자신 있습니다!",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "민선 9기 각 지자체 첫 일정",
-      "state": "s",
-      "change": "0"
+      "rank": 7,
+      "keyword": "배재고 6개월 출전 정지",
+      "state": "-",
+      "change": "2"
     },
     {
-      "rank": 9,
-      "keyword": "이억원 위원장과 김정관 장관",
-      "state": "+",
+      "rank": 8,
+      "keyword": "종합특검 김종욱 구속영장",
+      "state": "-",
       "change": "1"
     },
     {
-      "rank": 10,
-      "keyword": "구글 앱마켓 심의 개시",
+      "rank": 9,
+      "keyword": "전반기 의장 부의장 선출",
       "state": "s",
       "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "코스피 2% 하락 마감",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
