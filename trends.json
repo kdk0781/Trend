@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-01T13:55:13.371Z",
+  "updatedAt": "2026-07-01T16:19:32.255Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "야닉 시너",
-      "traffic": "1000+"
+      "keyword": "살인",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
+      "keyword": "이희진",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "다니일 메드베데프",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "홍석천",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "야닉 시너",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "서울경제",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "육소정",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
       "keyword": "박영현",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 9,
       "keyword": "채소",
       "traffic": "10000+"
     },
     {
-      "rank": 4,
-      "keyword": "연기금",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "psg",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "이재성",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "민주당",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "이관희",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "주진우",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "김동연",
+      "keyword": "이재성",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "배재고 전국대회 6개월 정지",
-      "state": "n",
+      "keyword": "민선 9기 출범 시작",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "경기교육감 폰프리스쿨",
-      "state": "n",
+      "keyword": "이재명, 민주평통 회의 참석",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "한성숙 총리 첫 출근",
-      "state": "n",
-      "change": "0"
+      "keyword": "배재고 6개월 출전 정지",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "멕시코, 에콰도르 제압 16강 진출!",
-      "state": "n",
-      "change": "0"
+      "keyword": "오스틴 홈런 선두 복귀",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "히딩크 조언 무시, 감독 사임",
+      "keyword": "참교육 김무열, 글로벌 1위의 눈물 고백",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "민선 9기 시작, 시민주권시대",
-      "state": "-",
-      "change": "3"
+      "keyword": "손흥민 북중미 월드컵 끝",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "염경엽 감독 오스틴 홈런",
-      "state": "n",
-      "change": "0"
+      "keyword": "현대차 6월 판매 5.9%↓",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "테슬라 최대 700만원 인상",
-      "state": "n",
-      "change": "0"
+      "keyword": "지방세 납부 기한 7일 연장",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "국민연금 매도 가능성 제로",
-      "state": "n",
-      "change": "0"
+      "keyword": "주가조작 1호 영장 기각",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "월드컵 일정 관련 소식 전달",
-      "state": "-",
-      "change": "4"
+      "keyword": "지하철 방화 40대 구속",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
