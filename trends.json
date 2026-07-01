@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-30T22:58:41.546Z",
+  "updatedAt": "2026-07-01T00:05:52.894Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "prancis vs swedia",
-      "traffic": "200+"
+      "keyword": "5부제",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "pháp đấu với thụy điển",
+      "keyword": "오늘의 운세",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "정찰기",
-      "traffic": "200+"
+      "keyword": "기흥구",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "오늘날씨",
-      "traffic": "2000+"
+      "keyword": "날씨",
+      "traffic": "100000+"
     },
     {
       "rank": 5,
-      "keyword": "สภาพอากาศ",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "삼성",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "결혼식",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "france vs sweden",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "남편",
+      "keyword": "sonnet 5",
       "traffic": "200+"
     },
     {
-      "rank": 10,
-      "keyword": "연애전쟁",
+      "rank": 6,
+      "keyword": "간호사",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "ฝรั่งเศส พบ สวีเดน",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "франция – швеция",
       "traffic": "100+"
+    },
+    {
+      "rank": 9,
+      "keyword": "감전",
+      "traffic": "500+"
+    },
+    {
+      "rank": 10,
+      "keyword": "로보스타",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "월드컵 일정 변동 가능성",
+      "keyword": "월드컵 일정 발표 예정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "출생시민권 트럼프 제동",
-      "state": "+",
-      "change": "1"
+      "keyword": "출근하는 안민석 경기도교육감",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이 대통령, 한성숙 총리 재가",
+      "keyword": "홀란 결승골로 노르웨이 16강!",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "여에스더와 홍혜걸의 연애 이야기",
-      "state": "s",
+      "keyword": "장윤정 딸 이름 사기",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "민선 9기 출범 시작",
-      "state": "s",
-      "change": "0"
+      "keyword": "닥터 섬보이",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "소지섭, 아빠 연기 이유 궁금해",
+      "keyword": "손흥민 팬들 격려하며 귀국",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "동탄 기흥 구리 규제",
+      "keyword": "이란 호르무즈 무료 60일간만",
+      "state": "-",
+      "change": "4"
+    },
+    {
+      "rank": 8,
+      "keyword": "첫 번째 남자",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "하트 시그널 5",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 9,
-      "keyword": "금수저였네 1000평 아버지까지",
-      "state": "n",
-      "change": "0"
+      "keyword": "조이현",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "장마 본격 시작",
+      "keyword": "임영웅 말잇못",
       "state": "n",
       "change": "0"
     }
