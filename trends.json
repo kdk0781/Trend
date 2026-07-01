@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-01T00:05:52.894Z",
+  "updatedAt": "2026-07-01T04:49:32.704Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "5부제",
-      "traffic": "500+"
+      "keyword": "애슬레틱스",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "오늘의 운세",
+      "keyword": "산업통상부",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "기흥구",
-      "traffic": "2000+"
+      "keyword": "모로코 축구 국가대표팀",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "날씨",
-      "traffic": "100000+"
+      "keyword": "투표용지",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "sonnet 5",
+      "keyword": "윔블던 선수권 대회",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "간호사",
-      "traffic": "200+"
+      "keyword": "장서희",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "ฝรั่งเศส พบ สวีเดน",
-      "traffic": "200+"
+      "keyword": "자이언츠 대 다이아몬드백스",
+      "traffic": "10000+"
     },
     {
       "rank": 8,
-      "keyword": "франция – швеция",
-      "traffic": "100+"
+      "keyword": "에어로케이",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "감전",
-      "traffic": "500+"
+      "keyword": "환율",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "로보스타",
-      "traffic": "200+"
+      "keyword": "처벌",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "월드컵 일정 발표 예정",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "출근하는 안민석 경기도교육감",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "홀란 결승골로 노르웨이 16강!",
-      "state": "-",
+      "keyword": "오세훈 서울시장 취임사",
+      "state": "+",
       "change": "1"
     },
     {
+      "rank": 2,
+      "keyword": "이재명·문재인 회동",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "한성숙 총리 참배 완료",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 4,
-      "keyword": "장윤정 딸 이름 사기",
+      "keyword": "국조특위 2차 기관보고",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "닥터 섬보이",
+      "keyword": "청소년 하츠투하츠 위촉",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "손흥민 팬들 격려하며 귀국",
-      "state": "s",
-      "change": "0"
+      "keyword": "추경호 대구시장 취임사",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "이란 호르무즈 무료 60일간만",
-      "state": "-",
-      "change": "4"
+      "keyword": "멕시코, 에콰도르 제압 16강 진출!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "첫 번째 남자",
+      "keyword": "민선 9기 각 지자체 첫 일정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "조이현",
+      "keyword": "이억원 위원장과 김정관 장관",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "임영웅 말잇못",
-      "state": "n",
+      "keyword": "구글 앱마켓 심의 개시",
+      "state": "s",
       "change": "0"
     }
   ]
