@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-01T18:18:52.694Z",
+  "updatedAt": "2026-07-01T20:17:47.124Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "anh vs",
+      "keyword": "정의선",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "사이바리",
-      "traffic": "100+"
+      "keyword": "india vs england",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "강훈식",
-      "traffic": "5000+"
+      "keyword": "벨기에 세네갈",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "문소리",
+      "keyword": "월드컵 대진",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "잉글랜드 월드컵",
-      "traffic": "100+"
+      "keyword": "토날리",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "england vs dr congo",
+      "keyword": "벨링엄",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "잉글랜드 대 콩고 민주 공화국",
-      "traffic": "5000+"
+      "keyword": "나겔스만",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "살인",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "이희진",
+      "keyword": "래시포드",
       "traffic": "100+"
     },
     {
-      "rank": 10,
-      "keyword": "다니일 메드베데프",
+      "rank": 9,
+      "keyword": "anh vs",
       "traffic": "200+"
+    },
+    {
+      "rank": 10,
+      "keyword": "사이바리",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "민선 9기 시작과 주민 삶 책임",
+      "keyword": "손흥민 북중미 월드컵 일정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "오스틴 홈런 선두 재탈환",
+      "keyword": "민선 9기 각 시군수 취임 인사 진행",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "지방세 납부 기한 연장",
+      "keyword": "오스틴 홈런 선두 복귀",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "조민아 보험왕 대박 터졌다",
-      "state": "n",
+      "keyword": "32기 옥순, 상철 대화 답답해",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "손흥민 월드컵 일정 완료",
+      "keyword": "주가조작 피의자 구속기각",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "주가조작 피의자 4명 구속영장 기각",
-      "state": "s",
-      "change": "0"
+      "keyword": "지방세시스템 정상화 최선",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "4호선 방화 남성 구속",
-      "state": "n",
+      "keyword": "김무열, 참교육 오열",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "스벅 가야지 배재고 징계 6개월",
-      "state": "s",
-      "change": "0"
+      "keyword": "롯데, 두산 5-2 제압",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "32기 옥순, 상철과 답답한 갈등",
-      "state": "+",
-      "change": "4"
+      "keyword": "입법 속도 내달라",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "문성주 선제 투런포!",
-      "state": "n",
+      "keyword": "콩고 민주 공화국",
+      "state": "s",
       "change": "0"
     }
   ]
