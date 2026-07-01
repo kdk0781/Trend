@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-01T21:51:18.090Z",
+  "updatedAt": "2026-07-01T23:04:44.515Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "보험",
-      "traffic": "1000+"
+      "keyword": "코드 쿤스트",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "에코프로",
+      "keyword": "погода",
       "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "광주광역시",
-      "traffic": "200+"
+      "keyword": "天气",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "셀트리온",
-      "traffic": "200+"
+      "keyword": "테니스",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "계엄",
-      "traffic": "100+"
+      "keyword": "kbo 리그",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "포스코",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "김무열",
+      "keyword": "spcx",
       "traffic": "200+"
     },
     {
+      "rank": 7,
+      "keyword": "운전 기사",
+      "traffic": "2000+"
+    },
+    {
       "rank": 8,
-      "keyword": "벨기에 대 세네갈",
+      "keyword": "아시안 게임",
       "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "belgium vs senegal",
-      "traffic": "500+"
+      "keyword": "화재",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "록히드 마틴",
+      "keyword": "삼성중공업",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "손흥민 북중미 월드컵 일정",
-      "state": "s",
-      "change": "0"
+      "keyword": "북중미 월드컵 일정 완료한 손흥민",
+      "state": "+",
+      "change": "12"
     },
     {
       "rank": 2,
-      "keyword": "주가조작 피의자 4명 영장 기각",
+      "keyword": "베네수엘라 강진 사망자 2300명 초과",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "케인 멀티골 잉글랜드",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "옥순, 상철 대화에 답답해",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "첫 번째 남자",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "벨기에도 구했다 루카쿠",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "김무열 유퀴즈 참교육 성공",
+      "rank": 7,
+      "keyword": "민선 9기 출범 시동",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "심형탁 아들 하루 승마 영재",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "여기 시작 으로 바꿔볼 수 있습니다.",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "민선 9기 출범 시작",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "첫 번째 남자",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "옥순 상철 대화 답답",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "지방세시스템 정상화 최선",
-      "state": "-",
-      "change": "2"
-    },
-    {
       "rank": 9,
-      "keyword": "해리 케인, 잉글랜드 구하다!",
-      "state": "+",
-      "change": "1"
+      "keyword": "조민아 양갱 사과",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "콩고 민주 공화국",
+      "keyword": "뉴욕증시 반도체 하락",
       "state": "-",
-      "change": "1"
+      "change": "2"
     }
   ]
 }
