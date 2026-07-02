@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-01T23:04:44.515Z",
+  "updatedAt": "2026-07-02T00:17:48.221Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "코드 쿤스트",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "погода",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "天气",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "테니스",
+      "keyword": "미국 대 보스니아 헤르체고비나",
       "traffic": "2000+"
     },
     {
+      "rank": 2,
+      "keyword": "포스코홀딩스",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "교사",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "투표",
+      "traffic": "10000+"
+    },
+    {
       "rank": 5,
-      "keyword": "kbo 리그",
-      "traffic": "1000+"
+      "keyword": "소방본부",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "spcx",
+      "keyword": "성리",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "운전 기사",
-      "traffic": "2000+"
+      "keyword": "옥순이",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "아시안 게임",
-      "traffic": "2000+"
+      "keyword": "삼천당제약",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "화재",
+      "keyword": "여객기",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "삼성중공업",
-      "traffic": "500+"
+      "keyword": "한화오션",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "북중미 월드컵 일정 완료한 손흥민",
-      "state": "+",
-      "change": "12"
-    },
-    {
-      "rank": 2,
-      "keyword": "베네수엘라 강진 사망자 2300명 초과",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "케인 멀티골 잉글랜드",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "옥순, 상철 대화에 답답해",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "첫 번째 남자",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "벨기에도 구했다 루카쿠",
+      "keyword": "손흥민 북중미 월드컵 일정",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "민선 9기 출범 시동",
-      "state": "-",
-      "change": "2"
+      "rank": 2,
+      "keyword": "6월 소비자물가 3.2%",
+      "state": "s",
+      "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "심형탁 아들 하루 승마 영재",
+      "rank": 3,
+      "keyword": "벨기에의 극적 역전승",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "케인 멀티골로 16강 진출",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "첫 번째 남자",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "한화오션 KDDX 우협 선정",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "르세라핌, 최초 아이하트라디오 출연",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "장윤기 살해 증거 인멸",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "조민아 양갱 사과",
+      "keyword": "한국 쿠팡 차별 주장",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "뉴욕증시 반도체 하락",
-      "state": "-",
-      "change": "2"
+      "keyword": "SK하이닉스 목표가 410만원",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
