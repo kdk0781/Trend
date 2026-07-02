@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-02T20:56:34.297Z",
+  "updatedAt": "2026-07-02T22:03:41.580Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "스페인",
-      "traffic": "100+"
+      "keyword": "schd",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "엄기준",
+      "keyword": "tsla",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "오스트리아",
-      "traffic": "200+"
+      "keyword": "정동원",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "인천 흥국생명 핑크스파이더스",
-      "traffic": "200+"
+      "keyword": "반도체",
+      "traffic": "5000+"
     },
     {
       "rank": 5,
-      "keyword": "spain vs austria",
-      "traffic": "200+"
+      "keyword": "혈당",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "스페인 대 오스트리아",
-      "traffic": "2000+"
+      "keyword": "재벌x형사",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "v",
+      "keyword": "관광객",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "알렉산더 즈베레프",
+      "keyword": "박현경",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "민희진",
-      "traffic": "2000+"
+      "keyword": "국민일보",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "프로당구협회",
-      "traffic": "2000+"
+      "keyword": "이만희",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "월드컵 일정",
-      "state": "+",
-      "change": "2"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
       "keyword": "신임 국가수사본부장에 홍석기",
-      "state": "-",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "LG 키움 50승 선착",
-      "state": "-",
-      "change": "1"
+      "keyword": "영철과 4호의 센스 대처",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "첫 번째 남자",
-      "state": "+",
-      "change": "9"
-    },
-    {
-      "rank": 5,
-      "keyword": "영철, 4호 매너 대처 센스 대박",
+      "keyword": "6이닝 두산 위닝시리즈",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "뉴욕증시 혼조 마감",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 6,
-      "keyword": "美 6월 고용 증가 절반 수준",
-      "state": "-",
+      "keyword": "8기 영수와 여자 2호 연결",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "김부장 특별 출연 소지섭 시청률 돌풍",
-      "state": "+",
-      "change": "18"
+      "keyword": "첫 번째 남자",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "강승호 선제 투런포",
-      "state": "-",
-      "change": "2"
+      "keyword": "6월 외환 보유액 증가",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "8기 영수, 여자 2호·3호 갈등",
-      "state": "-",
-      "change": "2"
+      "keyword": "스페인, 오스트리아 3-0 완승!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이재명 대통령, 시민들과 보냄",
-      "state": "n",
-      "change": "0"
+      "keyword": "소지섭 김부장 15.7% 비결",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
