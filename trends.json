@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-02T07:52:28.310Z",
+  "updatedAt": "2026-07-02T10:30:04.893Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "손연재",
-      "traffic": "1000+"
+      "keyword": "이란 축구 국가대표팀",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "송해 나",
+      "keyword": "경비원",
       "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "자산",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "이재용",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "mbk파트너스",
+      "keyword": "7월 17일",
       "traffic": "500+"
     },
     {
+      "rank": 4,
+      "keyword": "기성용",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "국민 연금 리 밸런싱",
+      "traffic": "10000+"
+    },
+    {
       "rank": 6,
-      "keyword": "삼성 갤럭시 z 폴드 6",
+      "keyword": "마라톤",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "이재명 지지율",
-      "traffic": "10000+"
+      "keyword": "009150",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "태풍",
-      "traffic": "10000+"
+      "keyword": "양도",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "무인 잠수정",
-      "traffic": "200+"
+      "keyword": "왕 옌청",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "창릉역",
+      "keyword": "남양주시",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "잠실 개표소 조사 마친 국조특위",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "발언하는 정점식 원내대표",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
       "keyword": "손흥민 북중미 월드컵 일정",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "NC 다이노스 블레인",
+      "rank": 2,
+      "keyword": "최저임금 격차 1290원",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "코스피 7.9% 폭락 마감",
-      "state": "+",
-      "change": "3"
+      "rank": 3,
+      "keyword": "하이닉스 주가 상승 기대",
+      "state": "n",
+      "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "박세영, 결혼·출산 후 복귀",
-      "state": "-",
+      "rank": 4,
+      "keyword": "두산 롯데 우천 지연",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "종합특검 김명수 기소",
+      "state": "+",
       "change": "4"
     },
     {
+      "rank": 6,
+      "keyword": "허남준 SBS 특별상 수상",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "장윤기 부친 감찰 착수",
-      "state": "+",
-      "change": "3"
+      "keyword": "첫 번째 남자",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "체포방해 9일 선고",
+      "keyword": "다니엘 음원 녹음 위반?",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "안전여행 캠페인",
-      "state": "+",
-      "change": "2"
+      "keyword": "SBS 사장 생존 화두",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "여름철 재난 안전대책 점검",
-      "state": "n",
-      "change": "0"
+      "keyword": "삼성전기 합작법인 설립",
+      "state": "-",
+      "change": "5"
     }
   ]
 }
