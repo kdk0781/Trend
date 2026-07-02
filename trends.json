@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-02T19:53:34.780Z",
+  "updatedAt": "2026-07-02T20:56:34.297Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "spain vs austria",
-      "traffic": "200+"
+      "keyword": "스페인",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "인천 흥국생명 핑크스파이더스",
+      "keyword": "엄기준",
       "traffic": "200+"
     },
     {
       "rank": 3,
+      "keyword": "오스트리아",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "인천 흥국생명 핑크스파이더스",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "spain vs austria",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
       "keyword": "스페인 대 오스트리아",
       "traffic": "2000+"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "keyword": "v",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "알렉산더 즈베레프",
       "traffic": "500+"
     },
     {
-      "rank": 6,
-      "keyword": "다니엘",
+      "rank": 9,
+      "keyword": "민희진",
       "traffic": "2000+"
     },
     {
-      "rank": 7,
-      "keyword": "프로당구협회",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "홍명보 출국",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "lg에너지솔루션",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "박장범",
-      "traffic": "1000+"
+      "keyword": "프로당구협회",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "신임 국가수사본부장에 홍석기",
-      "state": "s",
-      "change": "0"
+      "keyword": "월드컵 일정",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "LG 키움 50승 선착",
-      "state": "s",
-      "change": "0"
+      "keyword": "신임 국가수사본부장에 홍석기",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "손흥민 북중미 월드컵 일정",
-      "state": "s",
-      "change": "0"
+      "keyword": "LG 키움 50승 선착",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "26기 영철 여자 대처 센스 대박",
-      "state": "s",
-      "change": "0"
+      "keyword": "첫 번째 남자",
+      "state": "+",
+      "change": "9"
     },
     {
       "rank": 5,
-      "keyword": "구글, EU 패소 과징금 7조 확정",
+      "keyword": "영철, 4호 매너 대처 센스 대박",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "강승호 선제 투런포",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "배재고 학생 징계 절차 진행",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "첫 번째 남자",
+      "keyword": "美 6월 고용 증가 절반 수준",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "난소암 3기 홍주, 투병 일상 고통",
+      "rank": 7,
+      "keyword": "김부장 특별 출연 소지섭 시청률 돌풍",
       "state": "+",
-      "change": "3"
+      "change": "18"
+    },
+    {
+      "rank": 8,
+      "keyword": "강승호 선제 투런포",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "8기 영수, 여자 2호·3호 갈등",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "금감원, 홈플러스 MBK 제재 종결",
+      "keyword": "이재명 대통령, 시민들과 보냄",
       "state": "n",
       "change": "0"
     }
