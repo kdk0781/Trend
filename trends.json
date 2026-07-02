@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-02T12:29:33.720Z",
+  "updatedAt": "2026-07-02T14:40:33.848Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "시체",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "메타 쇼크",
+      "keyword": "박장범",
       "traffic": "1000+"
     },
     {
+      "rank": 2,
+      "keyword": "홍명보 미국",
+      "traffic": "2000+"
+    },
+    {
       "rank": 3,
-      "keyword": "맨체스터 유나이티드 fc",
-      "traffic": "500+"
+      "keyword": "황희찬",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "뉴진스",
-      "traffic": "500+"
+      "keyword": "가스 터빈",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "대전 날씨",
-      "traffic": "5000+"
+      "keyword": "엔화",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "김대호",
+      "keyword": "호아킨 소로 야",
       "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "조민아",
-      "traffic": "100+"
+      "keyword": "키이우",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "롯데 대 두산",
-      "traffic": "10000+"
+      "keyword": "테일러 프리츠",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "잠실",
-      "traffic": "1000+"
+      "keyword": "ewc",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "호아킨 소로야",
-      "traffic": "500+"
+      "keyword": "메타 ai",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "잠실 경찰폭행 영장 기각",
-      "state": "s",
-      "change": "0"
+      "keyword": "신임 국가수사본부장에 홍석기",
+      "state": "+",
+      "change": "8"
     },
     {
       "rank": 2,
-      "keyword": "북중미 월드컵 마친 손흥민",
+      "keyword": "요리는 남궁민 엉망진창",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "LG 키움 50승 선착",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 3,
-      "keyword": "오스틴 시즌 27호 홈런",
-      "state": "+",
-      "change": "6"
-    },
-    {
       "rank": 4,
-      "keyword": "첫 번째 남자",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 5,
-      "keyword": "부천 방문 이자벨 위페르",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "엄수빈",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 7,
-      "keyword": "붉은 진주",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "하이닉스 주가 상승 기대",
+      "keyword": "잠실 폭행 20대 영장 기각",
       "state": "-",
       "change": "2"
     },
     {
+      "rank": 5,
+      "keyword": "BIFAN 찾은 주역들",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 6,
+      "keyword": "배재고 징계 착수",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "테슬라 차값 기습 인상",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "케데헌, 한복 결혼식",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "김백산 1군 데뷔 무실점",
-      "state": "-",
-      "change": "1"
+      "keyword": "전국 장마 시작!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "우천 지연 경기 재개",
-      "state": "-",
-      "change": "6"
+      "keyword": "6월 고용 5.7만명 증가 예상 하회",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
