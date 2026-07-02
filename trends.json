@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-02T04:33:10.304Z",
+  "updatedAt": "2026-07-02T07:52:28.310Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "대구치맥페스티벌",
-      "traffic": "200+"
+      "keyword": "손연재",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "삼성e&a",
+      "keyword": "송해 나",
       "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "가스인간",
-      "traffic": "1000+"
+      "keyword": "자산",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "안규백",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "김중남",
+      "keyword": "이재용",
       "traffic": "1000+"
     },
     {
-      "rank": 6,
-      "keyword": "뱀",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "다저스 대 애슬레틱스",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "악어",
+      "rank": 5,
+      "keyword": "mbk파트너스",
       "traffic": "500+"
     },
     {
+      "rank": 6,
+      "keyword": "삼성 갤럭시 z 폴드 6",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "이재명 지지율",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "태풍",
+      "traffic": "10000+"
+    },
+    {
       "rank": 9,
-      "keyword": "자이언츠 대 다이아몬드백스",
-      "traffic": "20000+"
+      "keyword": "무인 잠수정",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "스윙카",
-      "traffic": "2000+"
+      "keyword": "창릉역",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "투표용지 부족 사태",
-      "state": "s",
+      "keyword": "잠실 개표소 조사 마친 국조특위",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "미국, 보스니아 2-0 승리",
+      "keyword": "발언하는 정점식 원내대표",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "최현욱, 진경과 부담 없는 베드신",
-      "state": "+",
-      "change": "5"
+      "keyword": "손흥민 북중미 월드컵 일정",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "한화에어로 폭발 진술 확보",
-      "state": "n",
+      "keyword": "NC 다이노스 블레인",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "“국조특위 조사 전 시위 격화”",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "공공생리대 12개 지역 지원",
+      "keyword": "코스피 7.9% 폭락 마감",
       "state": "+",
       "change": "3"
     },
     {
+      "rank": 6,
+      "keyword": "박세영, 결혼·출산 후 복귀",
+      "state": "-",
+      "change": "4"
+    },
+    {
       "rank": 7,
-      "keyword": "유엔군 스미스부대 전몰장병",
+      "keyword": "장윤기 부친 감찰 착수",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 8,
+      "keyword": "체포방해 9일 선고",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "민선 9기 첫 행보와 인수위 설치",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 9,
-      "keyword": "6월 MVP 후보들 경쟁 치열하다",
+      "keyword": "안전여행 캠페인",
       "state": "+",
-      "change": "13"
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "정선희, 홍진경 소개팅 추진",
+      "keyword": "여름철 재난 안전대책 점검",
       "state": "n",
       "change": "0"
     }
