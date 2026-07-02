@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-02T14:40:33.848Z",
+  "updatedAt": "2026-07-02T16:28:47.089Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "박장범",
-      "traffic": "1000+"
+      "keyword": "알렉산더 즈베레프",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "홍명보 미국",
+      "keyword": "다니엘",
       "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "황희찬",
-      "traffic": "2000+"
+      "keyword": "프로당구협회",
+      "traffic": "500+"
     },
     {
       "rank": 4,
+      "keyword": "홍명보 출국",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "lg에너지솔루션",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "박장범",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "황희찬",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 8,
       "keyword": "가스 터빈",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "keyword": "엔화",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 10,
       "keyword": "호아킨 소로 야",
       "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "키이우",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "테일러 프리츠",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "ewc",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "메타 ai",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "신임 국가수사본부장에 홍석기",
-      "state": "+",
-      "change": "8"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "요리는 남궁민 엉망진창",
-      "state": "n",
+      "keyword": "LG 키움 50승 선착",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "LG 키움 50승 선착",
+      "keyword": "김명수 기소된 내란 가담자",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "잠실 폭행 20대 영장 기각",
+      "keyword": "BIFAN 찾은 주역들",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "잠실 시위 경찰폭행 구속영장 기각",
       "state": "-",
       "change": "2"
     },
     {
-      "rank": 5,
-      "keyword": "BIFAN 찾은 주역들",
-      "state": "+",
-      "change": "3"
-    },
-    {
       "rank": 6,
-      "keyword": "배재고 징계 착수",
-      "state": "n",
+      "keyword": "최저임금 4차 수정안 격차 1290원",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "테슬라 차값 기습 인상",
-      "state": "n",
+      "keyword": "손흥민 북중미 월드컵 일정",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "케데헌, 한복 결혼식",
-      "state": "n",
+      "keyword": "두산 롯데 우천 지연",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "전국 장마 시작!",
-      "state": "n",
-      "change": "0"
+      "keyword": "임종훈, 한미사이언스 지분 매각",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "6월 고용 5.7만명 증가 예상 하회",
+      "keyword": "영철과 여자4호 호감 상승",
       "state": "n",
       "change": "0"
     }
