@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-07-02T16:28:47.089Z",
+  "updatedAt": "2026-07-02T18:13:35.947Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "v",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
       "keyword": "알렉산더 즈베레프",
       "traffic": "500+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "다니엘",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "프로당구협회",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "홍명보 출국",
       "traffic": "5000+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "lg에너지솔루션",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "박장범",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "황희찬",
       "traffic": "5000+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "가스 터빈",
       "traffic": "200+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "엔화",
       "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "호아킨 소로 야",
-      "traffic": "2000+"
     }
   ],
   "domestic": [
@@ -67,7 +67,7 @@
     },
     {
       "rank": 3,
-      "keyword": "김명수 기소된 내란 가담자",
+      "keyword": "잠실 경찰 폭행 영장 기각",
       "state": "+",
       "change": "2"
     },
@@ -79,39 +79,39 @@
     },
     {
       "rank": 5,
-      "keyword": "잠실 시위 경찰폭행 구속영장 기각",
-      "state": "-",
-      "change": "2"
+      "keyword": "두산 롯데 우천 지연",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "최저임금 4차 수정안 격차 1290원",
-      "state": "s",
-      "change": "0"
+      "keyword": "美 6월 고용 증가 5.7만명",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "손흥민 북중미 월드컵 일정",
-      "state": "s",
+      "keyword": "26기 영철과 여자 4호",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "두산 롯데 우천 지연",
-      "state": "s",
-      "change": "0"
+      "keyword": "손흥민 월드컵 일정 마쳐",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "임종훈, 한미사이언스 지분 매각",
+      "keyword": "한화오션 하청노조 파업권 확보",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "영철과 여자4호 호감 상승",
-      "state": "n",
-      "change": "0"
+      "keyword": "구글, EU 패소 확정",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
