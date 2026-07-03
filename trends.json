@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-02T23:19:06.950Z",
+  "updatedAt": "2026-07-03T01:05:15.604Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "bồ đào nha đấu với croatia",
+      "keyword": "카디널스 대 브레이브스",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "mrvl",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "이민정",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "홈런",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "수성구",
+      "keyword": "의정부시",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "고려아연",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "전망대",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "일본",
+      "traffic": "10000+"
+    },
+    {
       "rank": 6,
-      "keyword": "허수봉",
-      "traffic": "100+"
+      "keyword": "португалия – хорватия",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "서울날씨",
+      "keyword": "โปรตุเกส พบ โครเอเชีย",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "버크셔 해서웨이",
-      "traffic": "2000+"
+      "keyword": "병역",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "전투기",
-      "traffic": "2000+"
+      "keyword": "키 이우",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "뷔",
-      "traffic": "200+"
+      "keyword": "배재고 논란",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "월드컵 일정",
-      "state": "s",
+      "keyword": "원내대책회의 정점식 원내대표",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "뉴욕증시 혼조 다우 最高",
+      "keyword": "코스피 상승 출발",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "스페인, 오스트리아 3-0 완승!",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "여자 5호, 17기 영수에 마음 열다",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 5,
-      "keyword": "첫 번째 남자",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "6월 외환보유액 증가",
+      "keyword": "스페인, 오스트리아 3-0 제압",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 4,
+      "keyword": "리센느 홍보대사 위촉",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "갤럭시 와이드9 40만원대 출시",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "2026년 해병대 훈련",
+      "state": "-",
+      "change": "5"
+    },
+    {
       "rank": 7,
-      "keyword": "김구라 딸 국제학교 합격",
-      "state": "+",
-      "change": "2"
+      "keyword": "도로에 출동 순찰차",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "홍명보 축구 최악",
-      "state": "n",
-      "change": "0"
+      "keyword": "비상경제본부 경제관계장관회의 부총리",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "앤트로픽과 삼성 AI 칩 생산 논의",
-      "state": "n",
-      "change": "0"
+      "keyword": "안보현과 정은채의 공조 티키타카",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 10,
-      "keyword": "김부장 신의 한수 돌풍 비결",
-      "state": "s",
-      "change": "0"
+      "keyword": "셀트리온 2분기 최대 실적",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
