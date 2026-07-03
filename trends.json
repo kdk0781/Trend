@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-03T10:30:34.596Z",
+  "updatedAt": "2026-07-03T12:28:40.182Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "두산 대 키움",
-      "traffic": "5000+"
+      "keyword": "원자력",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "이언주",
-      "traffic": "2000+"
+      "keyword": "복숭아",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "nc 대 kia",
-      "traffic": "10000+"
+      "keyword": "삼성 라이온즈",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "한화 대 lg",
-      "traffic": "5000+"
+      "keyword": "테슬라",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "삼성 대 ssg",
-      "traffic": "5000+"
+      "keyword": "오윤아",
+      "traffic": "10000+"
     },
     {
       "rank": 6,
-      "keyword": "nato 정상회의",
-      "traffic": "200+"
+      "keyword": "msi",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "은마아파트",
-      "traffic": "200+"
+      "keyword": "이동국",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "대학생",
+      "keyword": "사관학교",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "농협",
-      "traffic": "200+"
+      "keyword": "롯데 대 kt",
+      "traffic": "10000+"
     },
     {
       "rank": 10,
-      "keyword": "무죄",
-      "traffic": "500+"
+      "keyword": "이언주",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "KB금융 회장 후보 6인 확정",
+      "keyword": "김부장 스타병 반성",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
       "keyword": "월드컵 일정",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "하이닉스 주가 변동",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "오윤아 11년 이혼 후 재혼",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "우리은행 고객 정보 유출",
-      "state": "-",
+      "state": "+",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "박서진, 베어크리크배 우승",
-      "state": "n",
+      "rank": 3,
+      "keyword": "니콜라스 마줄스 감독",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "오윤아 재혼 눈물의 순간",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "유승민 딸 교수 특혜 의혹",
+      "state": "s",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "한동희 선제 투런포 폭발",
+      "state": "+",
+      "change": "6"
+    },
+    {
       "rank": 7,
-      "keyword": "유승민 의원, 딸 교수 특혜 의혹",
+      "keyword": "첫 번째 남자",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김부장 가석방 출소",
+      "keyword": "77세 베라왕, 20대처럼 스키니 몸매",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "하이닉스 주가 변동",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "원화평 감독 기자회견",
-      "state": "-",
-      "change": "4"
-    },
-    {
       "rank": 10,
-      "keyword": "김효주 롯데 오픈 공동 2위",
+      "keyword": "위페르의 미소",
       "state": "n",
       "change": "0"
     }
