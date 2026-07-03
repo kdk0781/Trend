@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-07-03T20:10:31.778Z",
+  "updatedAt": "2026-07-03T21:33:04.901Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "서울경제",
-      "traffic": "1000+"
+      "keyword": "별자리",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "australia vs egypt",
-      "traffic": "500+"
+      "keyword": "절벽",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "민생회복 소비쿠폰",
+      "keyword": "인플루언서",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "얼굴",
-      "traffic": "500+"
+      "keyword": "살라",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "이종석",
-      "traffic": "500+"
+      "keyword": "북한이탈주민",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "유조선",
+      "keyword": "서울경제",
       "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "임종훈",
+      "keyword": "australia vs egypt",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "자승",
-      "traffic": "500+"
+      "keyword": "민생회복 소비쿠폰",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "트로트",
-      "traffic": "200+"
+      "keyword": "얼굴",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "탁구",
-      "traffic": "500+"
+      "keyword": "이종석",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 승부수와 시청률 비결",
+      "keyword": "김부장 승부수와 비결",
       "state": "s",
       "change": "0"
     },
@@ -67,51 +67,51 @@
     },
     {
       "rank": 3,
-      "keyword": "강백호 홈런 2개! 한화 LG 완파",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "계엄 가담 의혹 구속영장 기각",
+      "keyword": "가담 구속영장 기각",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "차 대만에 역전패",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "오윤아 이혼 후 재혼 아들 품어줘",
+      "keyword": "오윤아 11년 만에 재혼",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "장윤기 리얼돌 보고서 누락",
+      "keyword": "주말 약속 취소? 태풍 2개 발생!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "한동희 멀티홈런 김진욱 완투 롯데 승리",
+      "keyword": "신입사원 강회장 마세라티 되다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "라이머 이혼 심경 고백",
-      "state": "n",
-      "change": "0"
+      "keyword": "77세 베라왕, 20대 몸매 유지",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "감독 선임 안정 최우선",
+      "keyword": "삼성, SSG 7연패",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "에디 다니엘의 돌파",
-      "state": "+",
-      "change": "4"
+      "keyword": "장항준 왕사남 수락",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
