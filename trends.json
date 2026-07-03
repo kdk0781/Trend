@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-03T17:49:24.432Z",
+  "updatedAt": "2026-07-03T18:53:55.798Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "얼굴",
+      "keyword": "australia vs egypt",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "이종석",
+      "keyword": "민생회복 소비쿠폰",
       "traffic": "200+"
     },
     {
       "rank": 3,
+      "keyword": "얼굴",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "이종석",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
       "keyword": "유조선",
       "traffic": "2000+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "임종훈",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "자승",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "트로트",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "야닉 시너",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
-      "keyword": "킬러들의 쇼핑몰 시즌2",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "탁구",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "lng선",
+      "keyword": "킬러들의 쇼핑몰 시즌2",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "오윤아 이혼 후 재혼",
-      "state": "s",
-      "change": "0"
+      "keyword": "월드컵 일정",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 2,
       "keyword": "니콜라스 마줄스 감독",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "딸 교수 임용 의혹",
-      "state": "n",
+      "keyword": "오윤아, 11년 만에 재혼 후 아들 품어줌",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "월드컵 일정",
-      "state": "+",
-      "change": "2"
+      "keyword": "유승민 딸 교수 의혹",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "강백호 한화 LG",
+      "keyword": "강백호 또 홈런! 한화 LG 완파",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "한동희 선제 투런포 쳐냈다",
-      "state": "+",
-      "change": "1"
+      "keyword": "김부장과 남궁민 승부",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 7,
-      "keyword": "이자벨 위페르 BIFAN 참석",
+      "keyword": "신입사원 강회장, 마세라티 차주 되다",
       "state": "+",
-      "change": "1"
+      "change": "19"
     },
     {
       "rank": 8,
-      "keyword": "서울시 11개구 공공기여율 낮춤",
-      "state": "n",
-      "change": "0"
+      "keyword": "한동희 선제 투런포 발사",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "세븐♥이다해, 2세 공주 탄생",
+      "keyword": "킬러 쇼핑몰 유산 미스터리",
       "state": "+",
-      "change": "1"
+      "change": "18"
     },
     {
       "rank": 10,
-      "keyword": "KB금융 회장 후보 6인 확정",
+      "keyword": "세븐과 이다해, 공주 아빠 맞아!",
       "state": "-",
-      "change": "8"
+      "change": "2"
     }
   ]
 }
