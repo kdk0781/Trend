@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-03T04:52:46.902Z",
+  "updatedAt": "2026-07-03T07:56:15.088Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "암",
-      "traffic": "2000+"
+      "keyword": "롯데콘서트홀",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "도로",
-      "traffic": "1000+"
+      "keyword": "교황",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "포스코홀딩스",
+      "keyword": "클롭",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "알제리",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "mbk",
+      "keyword": "장원영",
       "traffic": "5000+"
     },
     {
+      "rank": 5,
+      "keyword": "나현영",
+      "traffic": "200+"
+    },
+    {
       "rank": 6,
-      "keyword": "경찰",
-      "traffic": "10000+"
+      "keyword": "도로 에 사람 쓰러져 있다",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "홈 플러스 회생 폐지",
-      "traffic": "20000+"
+      "keyword": "돈",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "노시환",
-      "traffic": "500+"
+      "keyword": "미국 독립기념일",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "신유빈",
+      "keyword": "신입 사원 강 회장",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "스위스 대 알제리",
-      "traffic": "2000+"
+      "keyword": "오타니 쇼헤이",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "홈플러스 회생 절차 폐지",
+      "keyword": "발언하는 이재명 대통령",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이호진 신임 총재",
+      "keyword": "민주당 국회의원 워크숍",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "나현영 김대성과 결별",
-      "state": "s",
-      "change": "0"
+      "keyword": "마곡미술길 오세훈 서울시장",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 4,
-      "keyword": "홍석기 신임 국가수사본부장",
-      "state": "s",
-      "change": "0"
+      "keyword": "코스피 8000선 회복",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 5,
-      "keyword": "하나 코리아 김민하, 압도적 배우",
+      "keyword": "한화, 55조원 우주AI 투자",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "최고위원 출마 김형남",
-      "state": "s",
+      "keyword": "박지성 공동위원장 출범",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "배재고 탄원서 제출",
-      "state": "s",
+      "keyword": "유아인 뱀피르 합류? 확정無",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "한성숙 총리, 홍수 대응 점검",
-      "state": "s",
-      "change": "0"
+      "keyword": "배재고 6일 광주 사과",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "SK하이닉스 주가",
-      "state": "-",
-      "change": "2"
+      "keyword": "정청래 김민석 송영길 한자리",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "알제리 32강 도전",
+      "keyword": "민선 9기 첫 인사 단행",
       "state": "n",
       "change": "0"
     }
