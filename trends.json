@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2026-07-03T12:28:40.182Z",
+  "updatedAt": "2026-07-03T14:41:48.272Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "원자력",
-      "traffic": "100+"
+      "keyword": "lng선",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "복숭아",
-      "traffic": "500+"
+      "keyword": "기안84",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "삼성 라이온즈",
-      "traffic": "1000+"
+      "keyword": "sbs",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "테슬라",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "오윤아",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "msi",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "이동국",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "사관학교",
+      "keyword": "한국 대만 농구",
       "traffic": "100+"
     },
     {
+      "rank": 5,
+      "keyword": "김부장",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "정이한",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "정정용",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "아르헨티나 카보베르데",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "롯데 대 kt",
-      "traffic": "10000+"
+      "keyword": "이세영",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "이언주",
-      "traffic": "10000+"
+      "keyword": "srt",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 스타병 반성",
+      "keyword": "김부장 대박, 스타병 우려",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "월드컵 일정",
+      "keyword": "킬러 유산 쇼핑몰",
       "state": "+",
       "change": "1"
     },
@@ -69,47 +69,47 @@
       "rank": 3,
       "keyword": "니콜라스 마줄스 감독",
       "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "오윤아 재혼 눈물의 순간",
-      "state": "-",
       "change": "2"
     },
     {
+      "rank": 4,
+      "keyword": "오윤아, 11년 만에 재혼 소식",
+      "state": "-",
+      "change": "3"
+    },
+    {
       "rank": 5,
+      "keyword": "광주일고 5·18민주묘지 참배",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
       "keyword": "유승민 딸 교수 특혜 의혹",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "한동희 선제 투런포 폭발",
-      "state": "+",
-      "change": "6"
-    },
-    {
       "rank": 7,
-      "keyword": "첫 번째 남자",
-      "state": "n",
+      "keyword": "월드컵 일정",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "77세 베라왕, 20대처럼 스키니 몸매",
-      "state": "-",
-      "change": "1"
+      "keyword": "화이트 7이닝 완벽투",
+      "state": "+",
+      "change": "21"
     },
     {
       "rank": 9,
-      "keyword": "하이닉스 주가 변동",
+      "keyword": "신입사원 강회장, 마세라티 되다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "위페르의 미소",
+      "keyword": "기적의 생존 8일",
       "state": "n",
       "change": "0"
     }
