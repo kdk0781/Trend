@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-03T18:53:55.798Z",
+  "updatedAt": "2026-07-03T20:10:31.778Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "australia vs egypt",
-      "traffic": "200+"
+      "keyword": "서울경제",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
+      "keyword": "australia vs egypt",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
       "keyword": "민생회복 소비쿠폰",
       "traffic": "200+"
     },
     {
-      "rank": 3,
-      "keyword": "얼굴",
-      "traffic": "200+"
-    },
-    {
       "rank": 4,
-      "keyword": "이종석",
+      "keyword": "얼굴",
       "traffic": "500+"
     },
     {
       "rank": 5,
+      "keyword": "이종석",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
       "keyword": "유조선",
       "traffic": "2000+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "임종훈",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "자승",
-      "traffic": "200+"
+      "traffic": "500+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "트로트",
       "traffic": "200+"
     },
     {
-      "rank": 9,
-      "keyword": "야닉 시너",
-      "traffic": "1000+"
-    },
-    {
       "rank": 10,
-      "keyword": "킬러들의 쇼핑몰 시즌2",
-      "traffic": "200+"
+      "keyword": "탁구",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "월드컵 일정",
-      "state": "+",
-      "change": "6"
+      "keyword": "김부장 승부수와 시청률 비결",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "니콜라스 마줄스 감독",
+      "keyword": "월드컵 일정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "오윤아, 11년 만에 재혼 후 아들 품어줌",
+      "keyword": "강백호 홈런 2개! 한화 LG 완파",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "유승민 딸 교수 의혹",
-      "state": "s",
+      "keyword": "계엄 가담 의혹 구속영장 기각",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "강백호 또 홈런! 한화 LG 완파",
-      "state": "s",
+      "keyword": "오윤아 이혼 후 재혼 아들 품어줘",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김부장과 남궁민 승부",
-      "state": "-",
-      "change": "5"
+      "keyword": "장윤기 리얼돌 보고서 누락",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "신입사원 강회장, 마세라티 차주 되다",
-      "state": "+",
-      "change": "19"
+      "keyword": "한동희 멀티홈런 김진욱 완투 롯데 승리",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "한동희 선제 투런포 발사",
-      "state": "-",
-      "change": "2"
+      "keyword": "라이머 이혼 심경 고백",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "킬러 쇼핑몰 유산 미스터리",
-      "state": "+",
-      "change": "18"
+      "keyword": "감독 선임 안정 최우선",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "세븐과 이다해, 공주 아빠 맞아!",
-      "state": "-",
-      "change": "2"
+      "keyword": "에디 다니엘의 돌파",
+      "state": "+",
+      "change": "4"
     }
   ]
 }
