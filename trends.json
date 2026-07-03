@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-03T07:56:15.088Z",
+  "updatedAt": "2026-07-03T10:30:34.596Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "롯데콘서트홀",
-      "traffic": "200+"
+      "keyword": "두산 대 키움",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "교황",
-      "traffic": "200+"
+      "keyword": "이언주",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "클롭",
-      "traffic": "200+"
+      "keyword": "nc 대 kia",
+      "traffic": "10000+"
     },
     {
       "rank": 4,
-      "keyword": "장원영",
+      "keyword": "한화 대 lg",
       "traffic": "5000+"
     },
     {
       "rank": 5,
-      "keyword": "나현영",
-      "traffic": "200+"
+      "keyword": "삼성 대 ssg",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "도로 에 사람 쓰러져 있다",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "돈",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "미국 독립기념일",
+      "keyword": "nato 정상회의",
       "traffic": "200+"
     },
     {
+      "rank": 7,
+      "keyword": "은마아파트",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "대학생",
+      "traffic": "100+"
+    },
+    {
       "rank": 9,
-      "keyword": "신입 사원 강 회장",
+      "keyword": "농협",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "오타니 쇼헤이",
-      "traffic": "1000+"
+      "keyword": "무죄",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "발언하는 이재명 대통령",
+      "keyword": "KB금융 회장 후보 6인 확정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "민주당 국회의원 워크숍",
+      "keyword": "월드컵 일정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "마곡미술길 오세훈 서울시장",
-      "state": "+",
-      "change": "3"
+      "keyword": "하이닉스 주가 변동",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "코스피 8000선 회복",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 5,
-      "keyword": "한화, 55조원 우주AI 투자",
+      "keyword": "오윤아 11년 이혼 후 재혼",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "우리은행 고객 정보 유출",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 6,
-      "keyword": "박지성 공동위원장 출범",
+      "keyword": "박서진, 베어크리크배 우승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "유아인 뱀피르 합류? 확정無",
+      "keyword": "유승민 의원, 딸 교수 특혜 의혹",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "배재고 6일 광주 사과",
-      "state": "-",
-      "change": "3"
+      "keyword": "김부장 가석방 출소",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "정청래 김민석 송영길 한자리",
-      "state": "+",
-      "change": "1"
+      "keyword": "원화평 감독 기자회견",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 10,
-      "keyword": "민선 9기 첫 인사 단행",
+      "keyword": "김효주 롯데 오픈 공동 2위",
       "state": "n",
       "change": "0"
     }
