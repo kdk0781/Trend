@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-03T16:14:44.910Z",
+  "updatedAt": "2026-07-03T17:49:24.432Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "유조선",
-      "traffic": "1000+"
+      "keyword": "얼굴",
+      "traffic": "200+"
     },
     {
       "rank": 2,
+      "keyword": "이종석",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "유조선",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
       "keyword": "임종훈",
       "traffic": "1000+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "자승",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "트로트",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "야닉 시너",
       "traffic": "1000+"
     },
     {
-      "rank": 6,
-      "keyword": "탁구",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "킬러들의 쇼핑몰 시즌2",
-      "traffic": "100+"
-    },
-    {
       "rank": 8,
-      "keyword": "lng선",
+      "keyword": "킬러들의 쇼핑몰 시즌2",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "기안84",
-      "traffic": "200+"
+      "keyword": "탁구",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "피의게임",
+      "keyword": "lng선",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 남궁민 맞대결 승부",
+      "keyword": "오윤아 이혼 후 재혼",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "KB금융 차기 회장 후보 6명",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "오윤아 이혼 후 재혼 발표",
+      "keyword": "니콜라스 마줄스 감독",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 3,
+      "keyword": "딸 교수 임용 의혹",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 4,
-      "keyword": "박수 보내는 마줄스 감독",
+      "keyword": "월드컵 일정",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "우리은행 고객 정보 1.7만건 유출",
+      "keyword": "강백호 한화 LG",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "유승민 전 의원, 딸 교수 임용 특혜 의혹 조사",
+      "keyword": "한동희 선제 투런포 쳐냈다",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "킬러 유산 미스터리",
-      "state": "-",
-      "change": "4"
+      "keyword": "이자벨 위페르 BIFAN 참석",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "강백호 홈런 한화, LG 완파",
-      "state": "+",
-      "change": "2"
+      "keyword": "서울시 11개구 공공기여율 낮춤",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "삼성 영남 투자 확대",
-      "state": "-",
-      "change": "2"
+      "keyword": "세븐♥이다해, 2세 공주 탄생",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "한동희 선제 투런포",
-      "state": "n",
-      "change": "0"
+      "keyword": "KB금융 회장 후보 6인 확정",
+      "state": "-",
+      "change": "8"
     }
   ]
 }
