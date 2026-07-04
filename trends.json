@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-07-04T18:36:46.284Z",
+  "updatedAt": "2026-07-04T19:49:26.986Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "canada vs morocco",
-      "traffic": "1000+"
+      "keyword": "캐나다",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "캐나다 대 모로코",
+      "keyword": "모로코",
       "traffic": "2000+"
     },
     {
       "rank": 3,
+      "keyword": "canada vs morocco",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
       "keyword": "젤리 슈즈",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "슈",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "2026 fifa 월드컵",
       "traffic": "20000+"
     },
     {
-      "rank": 6,
-      "keyword": "fifa world cup 2026",
-      "traffic": "2000+"
-    },
-    {
       "rank": 7,
-      "keyword": "여자친구",
-      "traffic": "2000+"
+      "keyword": "윤후",
+      "traffic": "200+"
     },
     {
       "rank": 8,
+      "keyword": "fifa world cup 2026",
+      "traffic": "20000+"
+    },
+    {
+      "rank": 9,
       "keyword": "김부장",
       "traffic": "2000+"
     },
     {
-      "rank": 9,
-      "keyword": "ind vs eng",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "이가 시비옹테크",
-      "traffic": "1000+"
+      "keyword": "ind vs eng",
+      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "국조특위 60대 구속",
-      "state": "s",
-      "change": "0"
+      "keyword": "신입사원 강회장",
+      "state": "+",
+      "change": "12"
     },
     {
       "rank": 3,
-      "keyword": "장현식 완벽투 LG 한화에 설욕",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "유재석, 남아공전 패배에 분노",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "성조기 점등된 랜드마크",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "남궁민 결혼의 완성 첫방 파국",
-      "state": "+",
-      "change": "10"
-    },
-    {
-      "rank": 7,
-      "keyword": "로또 1등 자동 17명 어디?",
+      "keyword": "성조기 점등 랜드마크",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "롯데 위닝시리즈 달성!",
+      "rank": 4,
+      "keyword": "장현식 무실점 LG 승리",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "공유 김고은 도깨비 재현 징그러워",
       "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "1231회 로또 1등 17명 14곳",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "박소영 아나, 무한도전 런 참여",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "이동휘 품바옷 가격 해명",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "공유와 김고은의 징그러운 명장면",
-      "state": "n",
-      "change": "0"
+      "keyword": "박정희 시대 규모 비견 메가 프로젝트",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 10,
-      "keyword": "박정희 시대 규모",
-      "state": "n",
-      "change": "0"
+      "keyword": "비슬리 호투, 롯데 위닝",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
