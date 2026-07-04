@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-04T14:11:22.571Z",
+  "updatedAt": "2026-07-04T15:32:21.392Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이가 시비옹테크",
-      "traffic": "500+"
+      "keyword": "fifa world cup 2026",
+      "traffic": "10000+"
     },
     {
       "rank": 2,
+      "keyword": "김부장",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "ind vs eng",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "이가 시비옹테크",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
       "keyword": "외환위기",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "keyword": "데이트",
-      "traffic": "1000+"
+      "traffic": "2000+"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "keyword": "로또1231",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "시진핑",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "리오스",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "공유",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "프로야구",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "나 혼자 산다",
-      "traffic": "5000+"
-    },
-    {
       "rank": 10,
-      "keyword": "나 혼렙 극장판",
-      "traffic": "200+"
+      "keyword": "황성빈",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 흥행과 논란",
+      "keyword": "김부장 웃음 콤비 도주로 뚫다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "남궁민 결혼 첫방 파국",
+      "keyword": "남궁민 결혼 첫방 파국인가",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "국조특위 조사 방해 구속",
-      "state": "n",
-      "change": "0"
+      "keyword": "신입사원 강회장",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "파키스탄 버스 40명 사망",
-      "state": "n",
-      "change": "0"
+      "keyword": "국조특위 방해 60대 구속",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 5,
-      "keyword": "로또 1등 17명 각 16억",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "월드컵 일정",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "유인나 아기 진심 놀리기",
+      "keyword": "LG 홈 100만 관중 달성",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "하메네이 장례식 시작",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "도깨비 10주년 여행",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 8,
-      "keyword": "강릉 앞바다 상어 출몰",
+      "keyword": "성조기 점등된 랜드마크",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "강남 새벽 누워 남성 사망",
-      "state": "+",
-      "change": "1"
+      "keyword": "강릉 상어 출몰 주의당부",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "장현식 완벽투와 LG 승리",
-      "state": "n",
-      "change": "0"
+      "keyword": "유재석 남아공전 패배 충격",
+      "state": "+",
+      "change": "23"
     }
   ]
 }
