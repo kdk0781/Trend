@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-04T07:38:30.130Z",
+  "updatedAt": "2026-07-04T09:49:15.776Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "구급차",
-      "traffic": "500+"
+      "keyword": "오세훈",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "서준영",
-      "traffic": "200+"
+      "keyword": "에코프로",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "김경문",
+      "keyword": "장동건",
       "traffic": "20000+"
     },
     {
       "rank": 4,
-      "keyword": "이주승",
-      "traffic": "10000+"
+      "keyword": "xrp 레저",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "오타니 쇼헤이",
-      "traffic": "1000+"
+      "keyword": "기아 쏘렌토",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "넥슨",
+      "keyword": "온도",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "공연",
-      "traffic": "5000+"
+      "keyword": "경기도교육감",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "톱스타뉴스",
-      "traffic": "20000+"
+      "keyword": "물",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "죽음",
-      "traffic": "200+"
+      "keyword": "블루베리",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "르브론 제임스",
-      "traffic": "200+"
+      "keyword": "이영표",
+      "traffic": "20000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "월드컵 일정",
+      "keyword": "김부장 일베 의혹 최대 위기",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "한성숙 총리, 원룸 점검",
+      "keyword": "장동건 붉은 얼굴",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "공공노동자 총력투쟁 결의대회",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "장동건 붉은 얼굴",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 5,
-      "keyword": "김동완, 소속사 없이 SNS 활동",
+      "keyword": "트와이스 나연 시구 4일 개최",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "월드컵 일정",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "호프 예매율 1위",
+      "state": "+",
+      "change": "32"
+    },
+    {
       "rank": 6,
-      "keyword": "김민석 출마 선언",
+      "keyword": "SK하이닉스 ADR 상장 수수료 0.5% 검토",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "광주일고 폭탄 협박 수색",
-      "state": "+",
-      "change": "1"
+      "keyword": "LG, 홈 100만 관중 기록",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "송성문, 오타니 상대로 안타와 도루",
-      "state": "-",
-      "change": "4"
+      "keyword": "서울 아파트 역대 최고가",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "50대 여성 구속 사건",
+      "keyword": "린지, 5일 사업가와 결혼",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "메가프로젝트 지지율 전부터",
-      "state": "n",
-      "change": "0"
+      "keyword": "김경문 감독의 승리 다짐",
+      "state": "-",
+      "change": "6"
     }
   ]
 }
