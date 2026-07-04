@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-04T21:36:51.108Z",
+  "updatedAt": "2026-07-04T22:34:51.734Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "뇌",
-      "traffic": "500+"
+      "keyword": "날씨예보",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "캐나다",
-      "traffic": "100+"
+      "keyword": "로또번호",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "fifa ワールドカップ 2026",
+      "keyword": "프로야구 순위",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "캐나다 모로코",
-      "traffic": "2000+"
+      "keyword": "뇌",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "canada vs morocco",
-      "traffic": "1000+"
+      "keyword": "캐나다",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "젤리 슈즈",
+      "keyword": "fifa ワールドカップ 2026",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "슈",
-      "traffic": "100+"
+      "keyword": "캐나다 모로코",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "2026 fifa 월드컵",
-      "traffic": "20000+"
+      "keyword": "canada vs morocco",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "윤후",
-      "traffic": "200+"
+      "keyword": "젤리 슈즈",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "알렉산드라 이알라",
+      "keyword": "슈",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 소지섭, 웃음과 눈물",
+      "keyword": "김부장과 소지섭의 웃음 콤비",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "성조기 점등된 랜드마크들",
+      "keyword": "신입사원 강회장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "모로코 캐나다 3-0 완파",
-      "state": "n",
+      "keyword": "남궁민 결혼 첫방 파국?",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이동휘 품바옷 가격 해명",
-      "state": "-",
-      "change": "1"
+      "keyword": "모로코, 캐나다 3-0 완파 8강 진출",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "박소영, 김준상과 런 참여",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "이란 협상 11일 재개",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "장동건 얼굴 변화",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "장윤기 원룸 물건 없음",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "강희선 엄마 영원히",
+      "keyword": "이란 11일 협상 재개",
       "state": "-",
       "change": "3"
     },
     {
-      "rank": 10,
-      "keyword": "남궁민 결혼 완성 첫방 파국?",
+      "rank": 6,
+      "keyword": "이동휘 품바옷 해명",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "2026년 7월 5일 운세",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "장동건, 얼굴 변화 재조명",
       "state": "-",
       "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "돌풍 속 민주사회주의",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 10,
+      "keyword": "우리들의 짱구 엄마 강희선 추모",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
