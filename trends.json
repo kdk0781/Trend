@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-04T19:49:26.986Z",
+  "updatedAt": "2026-07-04T20:38:43.652Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "뇌",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
       "keyword": "캐나다",
       "traffic": "100+"
     },
     {
-      "rank": 2,
-      "keyword": "모로코",
+      "rank": 3,
+      "keyword": "fifa ワールドカップ 2026",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "캐나다 대 모로코",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "canada vs morocco",
       "traffic": "1000+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "젤리 슈즈",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "슈",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "2026 fifa 월드컵",
       "traffic": "20000+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "윤후",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "fifa world cup 2026",
       "traffic": "20000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "김부장",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "ind vs eng",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 소지섭과 웃음 콤비",
+      "keyword": "김부장 소지섭과 액션 콤비",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
       "keyword": "신입사원 강회장",
-      "state": "+",
-      "change": "12"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "성조기 점등 랜드마크",
-      "state": "-",
-      "change": "1"
+      "keyword": "성조기 점등된 랜드마크",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "장현식 무실점 LG 승리",
-      "state": "-",
-      "change": "1"
+      "keyword": "장현식 무실점 LG승리",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "공유 김고은 도깨비 재현 징그러워",
-      "state": "n",
+      "keyword": "이동휘 품바옷 100만원 해명",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "1231회 로또 1등 17명 14곳",
-      "state": "s",
+      "keyword": "남궁민 결혼 첫방 파국?",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "박소영 아나, 무한도전 런 참여",
-      "state": "s",
-      "change": "0"
+      "keyword": "로또 1등 17명 각 16억",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "이동휘 품바옷 가격 해명",
-      "state": "-",
-      "change": "3"
+      "keyword": "비슬리 롯데 위닝시리즈",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "박정희 시대 규모 비견 메가 프로젝트",
-      "state": "+",
-      "change": "4"
+      "keyword": "공유와 김고은 우정 10년",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "비슬리 호투, 롯데 위닝",
-      "state": "+",
-      "change": "1"
+      "keyword": "이란 11일 핵 협상 재개",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
