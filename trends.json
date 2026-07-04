@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-07-04T11:12:56.610Z",
+  "updatedAt": "2026-07-04T12:35:36.278Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "안양 대 포항",
-      "traffic": "1000+"
+      "keyword": "blg t1",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "보스턴다이내믹스",
+      "keyword": "도경완",
       "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "김용빈",
-      "traffic": "200+"
+      "keyword": "물가지수",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "전북 대 강원",
+      "keyword": "이란",
       "traffic": "5000+"
     },
     {
       "rank": 5,
-      "keyword": "라이언 와이스",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "투개월",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "신입 사원 강 회장",
+      "keyword": "2026 msi",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "롤인벤",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "수원 대 성남",
+      "traffic": "2000+"
+    },
+    {
       "rank": 8,
-      "keyword": "휘발유",
-      "traffic": "500+"
+      "keyword": "중앙일보",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "두산 대 키움",
+      "keyword": "안양 대 포항",
       "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "하비에르 아기레",
-      "traffic": "200+"
+      "keyword": "보스턴다이내믹스",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "영화 같은 장동건, 고소영과 나들이",
+      "keyword": "월드컵 일정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "트와이스 나연 시구 완료",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "월드컵 일정",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "강릉 상어 출몰",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 6,
-      "keyword": "신입사원 강회장",
+      "keyword": "허인서 1점 차 추격",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 4,
+      "keyword": "유재석, 남아공전 패배 분노",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "장동건 외모 변화",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "클릭비 오디션 봄",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "이지수 등 가창력 대결",
+      "keyword": "카보 베르데 공화국",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "서울 아파트 역대 최고가",
-      "state": "-",
-      "change": "4"
+      "keyword": "전국 제주 장맛비",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김세의 협박 하체사진 공개",
+      "keyword": "상어가 강릉 신고",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "카보 베르데 공화국",
-      "state": "+",
-      "change": "1"
+      "keyword": "청와대 이병태 경고",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
