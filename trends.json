@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-03T23:39:17.307Z",
+  "updatedAt": "2026-07-04T01:14:07.205Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "аргентина – кабо-верде",
-      "traffic": "200+"
+      "keyword": "경제",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "거래량",
-      "traffic": "200+"
+      "keyword": "이현중",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "카보베르데",
-      "traffic": "5000+"
+      "keyword": "교사",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "송해 나",
+      "keyword": "vozinha",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "주성엔지니어링",
+      "keyword": "베컴",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "뉴스",
-      "traffic": "2000+"
+      "keyword": "카보베르데 피파랭킹",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "배우자",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "argentina đấu với cabo verde",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "조민아",
+      "keyword": "장항준",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "한국토지주택공사",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "배준호",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "손흥민",
-      "traffic": "20000+"
+      "keyword": "간호사",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "월드컵 일정",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "소지섭 부성애 최고 23% 돌파",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
       "keyword": "카보 베르데 공화국",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "주말 약속 취소할까? 태풍 2개 발생.",
-      "state": "s",
+      "rank": 2,
+      "keyword": "짱구 엄마 성우 강희선 별세",
+      "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "트럼프 네타냐후 정상회담",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "월드컵 일정",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "이란 하메네이 장례식 개최",
-      "state": "n",
-      "change": "0"
+      "keyword": "호주 패배 아시아 전멸",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "이집트, 호주 꺾고 16강 진출",
+      "keyword": "박태준 논란 재점화",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "말자쇼 출연자 악플",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "77세 베라왕, 20대 몸매 유지",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 8,
-      "keyword": "신입사원 강회장, 마세라티 애마 되다",
-      "state": "+",
-      "change": "1"
+      "keyword": "라포엠 최성훈 리사이틀",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "전진 아내 16년 올백머리 탈모 고백",
+      "keyword": "오윤아 눈물 재혼 발표",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "킬러의 유산 미스터리",
-      "state": "+",
-      "change": "3"
+      "keyword": "조권, 가인과 술 취해 뽀뽀 고백",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
