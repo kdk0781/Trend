@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-04T16:35:13.896Z",
+  "updatedAt": "2026-07-04T17:38:03.866Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "canada vs morocco",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "캐나다 대 모로코",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "젤리 슈즈",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "슈",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
       "keyword": "2026 fifa 월드컵",
       "traffic": "20000+"
     },
     {
-      "rank": 2,
+      "rank": 6,
       "keyword": "fifa world cup 2026",
-      "traffic": "2000+"
+      "traffic": "20000+"
     },
     {
-      "rank": 3,
+      "rank": 7,
       "keyword": "김부장",
       "traffic": "2000+"
     },
     {
-      "rank": 4,
+      "rank": 8,
       "keyword": "ind vs eng",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "keyword": "이가 시비옹테크",
       "traffic": "1000+"
     },
     {
-      "rank": 6,
+      "rank": 10,
       "keyword": "외환위기",
       "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "데이트",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "2026 fifa world cup final date",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "로또1231",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "시진핑",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장과 도주로 뚫는 콤비",
+      "keyword": "김부장 소지섭 도주 웃음 콤비",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "신입사원 강회장",
+      "keyword": "남궁민 결혼 첫방 파국인가",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "남궁민 결혼의 완성 첫방 파국",
-      "state": "-",
-      "change": "1"
+      "keyword": "나연 야구장 방문기",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "국조특위 조사 방해 구속 60대",
-      "state": "-",
-      "change": "1"
+      "keyword": "국조특위 60대 구속",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "나연, 야구장 미소 가득",
-      "state": "+",
-      "change": "3"
+      "keyword": "신입사원 강회장",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "피에스타 린지, 결혼해요!",
+      "keyword": "유재석 남아공전 패배에 분노",
       "state": "+",
-      "change": "1"
+      "change": "4"
     },
     {
       "rank": 7,
       "keyword": "성조기 점등된 랜드마크들",
       "state": "-",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "장윤기의 복잡한 원룸",
-      "state": "-",
-      "change": "2"
+      "keyword": "박소영 아나와 무한도전 런 참여",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "로또 1등 17명 16억",
-      "state": "+",
-      "change": "8"
+      "keyword": "로또 1등 17명 배출 명당 14곳",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "유재석 남아공전 패배 분노",
-      "state": "-",
-      "change": "1"
+      "keyword": "하메네이 장례식 참석 이란 시민들",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
