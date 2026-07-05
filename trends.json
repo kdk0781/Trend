@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-05T05:30:56.056Z",
+  "updatedAt": "2026-07-05T08:28:08.648Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "전소미",
+      "keyword": "슈퍼태풍",
       "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "소진",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "벌금",
+      "keyword": "건강",
       "traffic": "500+"
     },
     {
-      "rank": 4,
-      "keyword": "민생회복 소비쿠폰",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "린",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "이정효",
+      "rank": 3,
+      "keyword": "복권",
       "traffic": "5000+"
     },
     {
+      "rank": 4,
+      "keyword": "거스 히딩크",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "반도체",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "김중남",
+      "traffic": "200+"
+    },
+    {
       "rank": 7,
-      "keyword": "백종원",
+      "keyword": "대한축구협회",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "박소영",
-      "traffic": "100+"
+      "keyword": "kf-21 보라매",
+      "traffic": "10000+"
     },
     {
       "rank": 9,
-      "keyword": "보스턴 다이내믹스",
-      "traffic": "5000+"
+      "keyword": "온도",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "파라 타 항공",
-      "traffic": "1000+"
+      "keyword": "오세훈",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 시청률 폭주",
-      "state": "n",
+      "keyword": "무섭노 리센느, 일베 논란",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "월드컵 일정",
-      "state": "-",
-      "change": "1"
+      "keyword": "이주연",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "신입사원 강회장",
-      "state": "-",
-      "change": "1"
+      "keyword": "강훈식 미래기금 신설 추진",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "4호 7일 발사",
+      "keyword": "김효주 롯데 오픈 우승",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "남궁민 결혼의 완성 파국 첫방",
-      "state": "+",
-      "change": "21"
+      "keyword": "월드컵 일정",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "이정후 시즌 20호 2루타",
-      "state": "-",
+      "keyword": "LG 감독 염경엽 이야기",
+      "state": "+",
       "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "문구전 2026 여름 개막",
-      "state": "-",
+      "keyword": "장동건, 급 동안변화",
+      "state": "+",
       "change": "4"
     },
     {
       "rank": 8,
-      "keyword": "개표소 봉쇄 시위 지속",
-      "state": "-",
-      "change": "3"
+      "keyword": "태영호 장남 8억 배상",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "시흥 코리아 국제서핑대회",
+      "keyword": "호프 예매율 압도적 1위",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "1500원대 원달러 언제까지?",
+      "keyword": "아파트 거주 인증 소개팅",
       "state": "n",
       "change": "0"
     }
