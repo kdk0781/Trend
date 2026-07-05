@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-05T16:31:51.666Z",
+  "updatedAt": "2026-07-05T17:40:16.303Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "다니엘 근황",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
       "keyword": "셰프",
       "traffic": "2000+"
     },
     {
-      "rank": 2,
-      "keyword": "브라질 노르웨이",
-      "traffic": "200+"
-    },
-    {
       "rank": 3,
-      "keyword": "파산",
+      "keyword": "브라질 노르웨이",
       "traffic": "500+"
     },
     {
       "rank": 4,
+      "keyword": "파산",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
       "keyword": "대전 도시철도 2호선",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "이엘",
       "traffic": "1000+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "강회장",
       "traffic": "500+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "이하늘",
       "traffic": "500+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "전국학교비정규직노동조합",
       "traffic": "200+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "신봉선",
       "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "출혈",
-      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "미래대응기금 신설 추진",
+      "keyword": "신입사원 강회장",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 2,
+      "keyword": "당정 미래대응기금 추진",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 2,
-      "keyword": "신입사원 강회장",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 3,
-      "keyword": "남궁민 결혼의 완성 첫방 파국?",
-      "state": "s",
-      "change": "0"
+      "keyword": "남궁민 결혼의 완성 첫방 파국 예고",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "김효주 롯데 오픈 우승!",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "윤경호, 김부장 공약 이행합니다",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "롯데건설 성수4지구 재개발",
+      "keyword": "김기동 감독 도전 의지 있다",
       "state": "+",
       "change": "3"
     },
     {
+      "rank": 5,
+      "keyword": "롯데건설 성수4지구 재개발",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "윤경호, 13일 김부장 공약 이행",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "손흥민 복귀전 일정 공개",
+      "keyword": "손흥민 월드컵 아픔",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "제9차 고위당정협의회",
-      "state": "-",
-      "change": "7"
+      "keyword": "지방발전정책대상 건설사업 현지지도",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "윤정환 감독, 아직 부족해",
-      "state": "+",
-      "change": "3"
+      "keyword": "삼성전자, 주택대출 85㎡ 이하로 제한",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "지방발전정책대상 건설사업 현지지도",
-      "state": "n",
+      "keyword": "그라운드 사정으로 취소",
+      "state": "s",
       "change": "0"
     }
   ]
