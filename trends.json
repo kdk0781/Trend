@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-05T14:02:02.841Z",
+  "updatedAt": "2026-07-05T15:23:12.725Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이하늘",
-      "traffic": "200+"
+      "keyword": "파산",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "전국학교비정규직노동조합",
-      "traffic": "100+"
+      "keyword": "브라질 노르웨이",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "신봉선",
+      "keyword": "대전 도시철도 2호선",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "출혈",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "박은영",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "sk텔레콤",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "погода завтра",
+      "keyword": "이엘",
       "traffic": "1000+"
     },
     {
+      "rank": 5,
+      "keyword": "강회장",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "이하늘",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "전국학교비정규직노동조합",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "지상렬",
-      "traffic": "2000+"
+      "keyword": "신봉선",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "이상민",
+      "keyword": "출혈",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "김효주",
-      "traffic": "5000+"
+      "keyword": "박은영",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김효주 롯데오픈 우승",
-      "state": "n",
-      "change": "0"
+      "keyword": "신입사원 강회장",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "김부장 신드롬 질주 20% 넘겨",
-      "state": "s",
+      "keyword": "강훈식 미래대응기금 추진",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "남궁민 결혼 첫방 파국 어떨까",
-      "state": "+",
-      "change": "9"
+      "keyword": "김효주 롯데 오픈 우승",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "신입사원 강회장",
-      "state": "+",
-      "change": "2"
+      "keyword": "윤경호, 김부장 공약 이행 나선다",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "롯데건설 성수4지구 재개발",
-      "state": "+",
-      "change": "2"
+      "keyword": "제9차 고위당정협의회",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "아이들 민니, 태국 런닝맨 리조트 촬영",
-      "state": "n",
-      "change": "0"
+      "keyword": "롯데건설 성수4지구 수주",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "윤정환 인천 감독, 아직 부족해",
-      "state": "-",
-      "change": "2"
+      "keyword": "손흥민과 월드컵 복귀전 일정",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 8,
-      "keyword": "만취 30대 오토바이 사고",
-      "state": "n",
-      "change": "0"
+      "keyword": "윤정환 인천 감독, 대표팀 언급 아냐",
+      "state": "+",
+      "change": "32"
     },
     {
       "rank": 9,
-      "keyword": "국평 이하 삼성전자 대출",
-      "state": "n",
-      "change": "0"
+      "keyword": "남궁민 결혼 완성 첫방 파국",
+      "state": "-",
+      "change": "6"
     },
     {
       "rank": 10,
-      "keyword": "코스피 8000선 회복, 1조 종목 감소",
+      "keyword": "하메네이 장례식 무산된 한국 정부",
       "state": "n",
       "change": "0"
     }
