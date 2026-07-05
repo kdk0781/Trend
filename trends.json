@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-05T21:15:06.769Z",
+  "updatedAt": "2026-07-05T22:14:16.015Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "음료",
-      "traffic": "2000+"
+      "keyword": "주가",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "대한항공",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "정동원",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "롯데건설",
+      "keyword": "북대서양 조약 기구",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "포르투갈 스페인",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "도경완",
+      "traffic": "100+"
+    },
+    {
       "rank": 5,
-      "keyword": "엑스포츠뉴스",
-      "traffic": "1000+"
+      "keyword": "бразилия – норвегия",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "설악산",
+      "keyword": "fifa world cup",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "brazil vs norway",
-      "traffic": "2000+"
+      "keyword": "윔블던 2026",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "브라질 대 노르웨이",
-      "traffic": "20000+"
+      "keyword": "버스",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "야닉 시너",
-      "traffic": "1000+"
+      "keyword": "롯데 자이언츠",
+      "traffic": "20000+"
     },
     {
       "rank": 10,
-      "keyword": "다니엘 근황",
-      "traffic": "200+"
+      "keyword": "국채",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "신입사원 강회장",
+      "keyword": "손흥민의 월드컵 일정 공개",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "월드컵 기대 이하, 손흥민 아픔 동참",
+      "keyword": "신입사원 강회장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "남궁민 결혼의 완성 첫방 파국 될까",
+      "keyword": "남궁민 결혼 첫방 성패는?",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김부장 관련 소식 전한다",
+      "keyword": "김부장 공약 이행 예고",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "강민호 9연패 SSG 수렁",
-      "state": "+",
-      "change": "2"
+      "keyword": "美 건국 250주년 자축 행사",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "美 건국 250주년 축하 행사",
-      "state": "-",
+      "keyword": "바비 태풍 이동 경로는?",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "린 이수 눈물 응원해",
-      "state": "-",
+      "keyword": "네타냐후 이란 문제, 미국과 균열 없다",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "폭염과 태풍",
-      "state": "+",
-      "change": "1"
+      "keyword": "이수와 이혼, 친한 친구 잃은 느낌",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "백인우월주의 행진과 표현의 자유",
+      "keyword": "백인우월주의 표현의 자유",
       "state": "+",
-      "change": "1"
+      "change": "6"
     },
     {
       "rank": 10,
-      "keyword": "아이들 민니, 런닝맨 리조트서",
+      "keyword": "국방비 증가와 무기 병목",
       "state": "n",
       "change": "0"
     }
