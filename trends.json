@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-05T10:37:13.615Z",
+  "updatedAt": "2026-07-05T12:00:28.645Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "골프",
-      "traffic": "2000+"
+      "keyword": "쿠키뉴스",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "nc 대 kia",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "홍준표",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "kbo",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "정석원",
+      "keyword": "베라 왕",
       "traffic": "100+"
     },
     {
-      "rank": 6,
-      "keyword": "삼성 대 ssg",
+      "rank": 3,
+      "keyword": "클롭",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "광주 대 울산",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "경제",
       "traffic": "10000+"
     },
     {
+      "rank": 6,
+      "keyword": "농구",
+      "traffic": "200+"
+    },
+    {
       "rank": 7,
-      "keyword": "롯데 대 kt",
+      "keyword": "fc 서울 대 인천",
       "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "주식 투자",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "구축함",
+      "keyword": "김용범",
       "traffic": "500+"
     },
     {
+      "rank": 9,
+      "keyword": "골프",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "슈퍼 태풍",
-      "traffic": "20000+"
+      "keyword": "변진섭",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 시청률 공약 시작",
+      "keyword": "김부장 시청률 약속 시작",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "신입사원 강회장",
-      "state": "s",
-      "change": "0"
+      "keyword": "미래대응기금 신설 추진",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "제9차 고위당정협의회",
-      "state": "s",
-      "change": "0"
+      "keyword": "그라운드 사정으로 취소",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "손흥민 복귀전 일정 공개",
+      "keyword": "월드컵 일정 공개",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "미래대응기금 신설 추진",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "김효주 롯데 오픈 우승",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "결혼의 완성 첫방 파국?",
+      "keyword": "롯데건설 성수4지구 수주",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "아이들 민니, 태국 리조트 초대",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "남궁민 결혼의 완성 첫방 파국될까",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 8,
-      "keyword": "이주연 비키니 자태 눈길",
-      "state": "-",
-      "change": "3"
+      "keyword": "김정은 지방발전 건설 현지 지도",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "바비킴, 4년 만에 득녀",
-      "state": "s",
+      "keyword": "임성근 파주 식당 오픈",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김정은 지방발전정책대상 건설사업",
-      "state": "n",
-      "change": "0"
+      "keyword": "이주연의 비키니 자태",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
