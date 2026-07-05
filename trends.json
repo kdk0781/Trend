@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T18:46:52.179Z",
+  "updatedAt": "2026-07-05T20:01:03.883Z",
   "google": [
     {
       "rank": 1,
@@ -55,63 +55,63 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "남궁민 결혼 첫방 파국",
-      "state": "+",
-      "change": "6"
+      "keyword": "신입사원 강회장",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "손흥민과 월드컵 일정",
-      "state": "+",
-      "change": "3"
+      "keyword": "손흥민 월드컵 일정",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "윤경호, 13일 김부장 공약 이행",
-      "state": "+",
-      "change": "8"
+      "keyword": "정승원 결승골 서울 3연승",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "삼성전자 사내 대출 85㎡ 이하 제한",
-      "state": "-",
-      "change": "2"
+      "keyword": "美 건국 250주년 축하 행사",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "김기동 감독 도전 의지 있다",
+      "keyword": "남궁민 결혼 초반 파국",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "반도체 미래대응기금 신설",
-      "state": "n",
+      "keyword": "김부장 묵언수행 시작",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "신입사원 강회장 엔딩",
-      "state": "-",
-      "change": "6"
+      "keyword": "린이수 언급 눈물",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "강민호 연타석 3점포",
+      "keyword": "강민호 SSG 9연패",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "배재고, 6일 광주일고 사과 방문",
-      "state": "s",
+      "keyword": "에스파 윈터 SM상 충격",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "250주년 기념 행사",
-      "state": "-",
-      "change": "4"
+      "keyword": "김효주 롯데 오픈 우승",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
