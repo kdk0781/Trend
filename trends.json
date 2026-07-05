@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-07-05T20:01:03.883Z",
+  "updatedAt": "2026-07-05T21:15:06.769Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "다니엘 근황",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "셰프",
+      "keyword": "음료",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
-      "keyword": "안드레이 산투스",
+      "rank": 2,
+      "keyword": "대한항공",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "정동원",
+      "traffic": "2000+"
+    },
+    {
       "rank": 4,
-      "keyword": "브라질 노르웨이",
-      "traffic": "500+"
+      "keyword": "롯데건설",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "파산",
-      "traffic": "500+"
+      "keyword": "엑스포츠뉴스",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "대전 도시철도 2호선",
+      "keyword": "설악산",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "이엘",
-      "traffic": "1000+"
+      "keyword": "brazil vs norway",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "강회장",
-      "traffic": "500+"
+      "keyword": "브라질 대 노르웨이",
+      "traffic": "20000+"
     },
     {
       "rank": 9,
-      "keyword": "이하늘",
+      "keyword": "야닉 시너",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "전국학교비정규직노동조합",
+      "keyword": "다니엘 근황",
       "traffic": "200+"
     }
   ],
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "손흥민 월드컵 일정",
+      "keyword": "월드컵 기대 이하, 손흥민 아픔 동참",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "정승원 결승골 서울 3연승",
+      "keyword": "남궁민 결혼의 완성 첫방 파국 될까",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "美 건국 250주년 축하 행사",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "남궁민 결혼 초반 파국",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "김부장 묵언수행 시작",
+      "keyword": "김부장 관련 소식 전한다",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "린이수 언급 눈물",
+      "rank": 5,
+      "keyword": "강민호 9연패 SSG 수렁",
       "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "美 건국 250주년 축하 행사",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "린 이수 눈물 응원해",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "강민호 SSG 9연패",
-      "state": "n",
-      "change": "0"
+      "keyword": "폭염과 태풍",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "에스파 윈터 SM상 충격",
-      "state": "n",
-      "change": "0"
+      "keyword": "백인우월주의 행진과 표현의 자유",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "김효주 롯데 오픈 우승",
+      "keyword": "아이들 민니, 런닝맨 리조트서",
       "state": "n",
       "change": "0"
     }
