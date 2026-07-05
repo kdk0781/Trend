@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-07-04T23:38:26.766Z",
+  "updatedAt": "2026-07-05T01:21:26.763Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "파라과이",
-      "traffic": "100+"
+      "keyword": "프랑스 파라과이",
+      "traffic": "500+"
     },
     {
       "rank": 2,
       "keyword": "다음",
-      "traffic": "1000+"
+      "traffic": "2000+"
     },
     {
       "rank": 3,
       "keyword": "날씨예보",
-      "traffic": "100000+"
+      "traffic": "100+"
     },
     {
       "rank": 4,
@@ -49,68 +49,68 @@
     {
       "rank": 10,
       "keyword": "canada vs morocco",
-      "traffic": "1000+"
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 시청률 20% 돌파",
-      "state": "s",
-      "change": "0"
+      "keyword": "프랑스, 파라과이 꺾고 8강 진출",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "신입사원 강회장",
-      "state": "s",
-      "change": "0"
+      "keyword": "SKT, 15GW AI 센터 구축",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "신보람 볼뽀뽀 공개 열애",
+      "keyword": "김부장 4회째 20% 돌파",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "구축함 강건호 무기시험",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "남궁민 결혼 완성 파국 첫방",
+      "keyword": "신입사원 강회장",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "모로코, 캐나다 3-0으로 8강 진출",
+      "rank": 5,
+      "keyword": "독립 250주년 축하",
       "state": "-",
-      "change": "2"
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "익시오 로밍콜 출시",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "김준상 동기 성과급 3억 6천",
+      "keyword": "린, 이수 이혼 후 친구 잃은 느낌",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김정은, 낙원군 건설 시찰",
+      "keyword": "기아, 무브투유 시작",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "민주사회주의의 신풍이냐?",
-      "state": "-",
-      "change": "1"
+      "keyword": "장윤기 자취방의 리얼돌 훼손",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "장동건, 달라진 얼굴 근황",
-      "state": "s",
+      "keyword": "백지영 정석원 딸 교육 논쟁",
+      "state": "n",
       "change": "0"
     }
   ]
