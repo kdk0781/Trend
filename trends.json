@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-05T12:00:28.645Z",
+  "updatedAt": "2026-07-05T14:02:02.841Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "쿠키뉴스",
+      "keyword": "이하늘",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "베라 왕",
+      "keyword": "전국학교비정규직노동조합",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "클롭",
+      "keyword": "신봉선",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "광주 대 울산",
-      "traffic": "2000+"
+      "keyword": "출혈",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "경제",
+      "keyword": "박은영",
       "traffic": "10000+"
     },
     {
       "rank": 6,
-      "keyword": "농구",
+      "keyword": "sk텔레콤",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "fc 서울 대 인천",
-      "traffic": "5000+"
+      "keyword": "погода завтра",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "김용범",
-      "traffic": "500+"
+      "keyword": "지상렬",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "골프",
-      "traffic": "2000+"
+      "keyword": "이상민",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "변진섭",
-      "traffic": "2000+"
+      "keyword": "김효주",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 시청률 약속 시작",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "미래대응기금 신설 추진",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "그라운드 사정으로 취소",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "월드컵 일정 공개",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "롯데건설 성수4지구 수주",
+      "keyword": "김효주 롯데오픈 우승",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "아이들 민니, 태국 리조트 초대",
-      "state": "+",
-      "change": "1"
+      "rank": 2,
+      "keyword": "김부장 신드롬 질주 20% 넘겨",
+      "state": "s",
+      "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "남궁민 결혼의 완성 첫방 파국될까",
+      "rank": 3,
+      "keyword": "남궁민 결혼 첫방 파국 어떨까",
+      "state": "+",
+      "change": "9"
+    },
+    {
+      "rank": 4,
+      "keyword": "신입사원 강회장",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 5,
+      "keyword": "롯데건설 성수4지구 재개발",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "아이들 민니, 태국 런닝맨 리조트 촬영",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "윤정환 인천 감독, 아직 부족해",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 8,
-      "keyword": "김정은 지방발전 건설 현지 지도",
+      "keyword": "만취 30대 오토바이 사고",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "임성근 파주 식당 오픈",
+      "keyword": "국평 이하 삼성전자 대출",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이주연의 비키니 자태",
-      "state": "-",
-      "change": "2"
+      "keyword": "코스피 8000선 회복, 1조 종목 감소",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
