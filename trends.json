@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T17:40:16.303Z",
+  "updatedAt": "2026-07-05T18:46:52.179Z",
   "google": [
     {
       "rank": 1,
@@ -13,105 +13,105 @@
     },
     {
       "rank": 3,
+      "keyword": "안드레이 산투스",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
       "keyword": "브라질 노르웨이",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "파산",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "대전 도시철도 2호선",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "이엘",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "강회장",
       "traffic": "500+"
     },
     {
-      "rank": 8,
-      "keyword": "이하늘",
-      "traffic": "500+"
-    },
-    {
       "rank": 9,
-      "keyword": "전국학교비정규직노동조합",
-      "traffic": "200+"
+      "keyword": "이하늘",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "신봉선",
+      "keyword": "전국학교비정규직노동조합",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "신입사원 강회장",
+      "keyword": "남궁민 결혼 첫방 파국",
       "state": "+",
-      "change": "1"
+      "change": "6"
     },
     {
       "rank": 2,
-      "keyword": "당정 미래대응기금 추진",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "남궁민 결혼의 완성 첫방 파국 예고",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "김기동 감독 도전 의지 있다",
+      "keyword": "손흥민과 월드컵 일정",
       "state": "+",
       "change": "3"
     },
     {
+      "rank": 3,
+      "keyword": "윤경호, 13일 김부장 공약 이행",
+      "state": "+",
+      "change": "8"
+    },
+    {
+      "rank": 4,
+      "keyword": "삼성전자 사내 대출 85㎡ 이하 제한",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 5,
-      "keyword": "롯데건설 성수4지구 재개발",
+      "keyword": "김기동 감독 도전 의지 있다",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "윤경호, 13일 김부장 공약 이행",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "손흥민 월드컵 아픔",
-      "state": "s",
+      "keyword": "반도체 미래대응기금 신설",
+      "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "신입사원 강회장 엔딩",
+      "state": "-",
+      "change": "6"
+    },
+    {
       "rank": 8,
-      "keyword": "지방발전정책대상 건설사업 현지지도",
+      "keyword": "강민호 연타석 3점포",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "삼성전자, 주택대출 85㎡ 이하로 제한",
-      "state": "n",
+      "keyword": "배재고, 6일 광주일고 사과 방문",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "그라운드 사정으로 취소",
-      "state": "s",
-      "change": "0"
+      "keyword": "250주년 기념 행사",
+      "state": "-",
+      "change": "4"
     }
   ]
 }
