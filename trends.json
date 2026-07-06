@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-05T23:20:06.258Z",
+  "updatedAt": "2026-07-06T01:11:04.786Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "고우석",
+      "keyword": "레몬헬스케어",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "world cup 2026",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "lịch world cup 2026",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "도시",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "이진숙",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "16강",
+      "keyword": "이규혁",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "마르틴 외데고르",
-      "traffic": "100+"
+      "rank": 3,
+      "keyword": "เม็กซิโก พบ อังกฤษ",
+      "traffic": "200+"
     },
     {
-      "rank": 8,
-      "keyword": "fifa world cup 2026™",
+      "rank": 4,
+      "keyword": "신도",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "은행",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "장동혁 가족상 누구",
       "traffic": "500+"
     },
     {
+      "rank": 7,
+      "keyword": "mexico đấu với anh",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "멕시코 대 잉글랜드",
+      "traffic": "50000+"
+    },
+    {
       "rank": 9,
-      "keyword": "weather",
-      "traffic": "2000+"
+      "keyword": "경기도의회",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "최저임금",
-      "traffic": "1000+"
+      "keyword": "구미시",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "신입사원 강회장",
+      "keyword": "딜링룸 구윤철 부총리",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "월드컵 일정 공개",
-      "state": "+",
-      "change": "8"
+      "keyword": "신입사원 강회장",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "홀란의 멀티골로 노르웨이 8강 진출",
-      "state": "+",
-      "change": "2"
+      "keyword": "월드컵 일정 공개",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김부장 일베 논란 재조명",
-      "state": "-",
+      "keyword": "장동혁 가족상 조문 상황",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "네타냐후 이란 동맹",
+      "keyword": "홀란 노르웨이 8강행",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "제9호 태풍 바비 이동 경로",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "남궁민, 결혼 첫방 파국?",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "국방비 늘었지만 무기 생산 병목",
+      "keyword": "장윤기 수사팀장 긴급체포",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "무섭노 일베 논란 김시덕",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "KCM, 14년 만에 아내와 결혼식",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "친한 친구 잃은 느낌",
-      "state": "-",
-      "change": "5"
+      "keyword": "고우석, 미네소타 트레이드",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "강희선 별세 6일 발인",
-      "state": "n",
+      "keyword": "영케이 27일 솔로 컴백",
+      "state": "s",
       "change": "0"
     }
   ]
