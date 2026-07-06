@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-06T05:36:48.515Z",
+  "updatedAt": "2026-07-06T09:38:32.159Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "폴란드",
-      "traffic": "200+"
+      "keyword": "괴롭힘",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "돌싱글즈",
-      "traffic": "200+"
+      "keyword": "황영조",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "мексика – англия",
-      "traffic": "100+"
+      "keyword": "담보 대출",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "곰팡이",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "옥주현",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "lg그룹",
+      "keyword": "스테이블코인",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
-      "keyword": "맹승지",
+      "rank": 5,
+      "keyword": "김부겸",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "양정원",
       "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "캐나다 잠수함 수주",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "lcs",
-      "traffic": "200+"
+      "keyword": "휴전",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "손담비",
+      "keyword": "cgv",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "미국 축구 국가대표팀",
-      "traffic": "200+"
+      "keyword": "이동건",
+      "traffic": "20000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "월드컵 일정 공개",
-      "state": "s",
+      "keyword": "참배하는 배재고 학생들",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "신입사원 강회장",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "이긴 잉글랜드, 멕시코 8강 진출",
+      "keyword": "손흥민 복귀전 월드컵 일정",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "남궁민 결혼 완성 첫방 파국",
+      "rank": 3,
+      "keyword": "호프 나홍진 감독, 칸서 기분 나쁨",
       "state": "+",
+      "change": "7"
+    },
+    {
+      "rank": 4,
+      "keyword": "K-축구 혁신위원회 출범식",
+      "state": "-",
       "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "명륜당 제재 시작",
+      "keyword": "장윤기 사건 특별수사팀 편성",
       "state": "+",
-      "change": "3"
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "김부장 시즌2 제작 논의",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "혼성그룹 카드, 9년 만에 해체",
+      "keyword": "김부장 앞길 막나?",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "국수본부장 장윤기 유구무언",
+      "rank": 7,
+      "keyword": "신입사원 강회장",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 8,
+      "keyword": "의장 부의장 선출",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "배재고는 사과한다는데 광주부터",
-      "state": "n",
-      "change": "0"
+      "keyword": "이병태 靑 사퇴 권고",
+      "state": "-",
+      "change": "8"
     },
     {
       "rank": 10,
-      "keyword": "개인정보 처리방침 간담회",
-      "state": "n",
-      "change": "0"
+      "keyword": "아이들 소연 기대해주세요!",
+      "state": "-",
+      "change": "6"
     }
   ]
 }
