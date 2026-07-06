@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-06T09:38:32.159Z",
+  "updatedAt": "2026-07-06T13:07:14.475Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "괴롭힘",
-      "traffic": "2000+"
+      "keyword": "tkms",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "황영조",
-      "traffic": "2000+"
+      "keyword": "뇌물",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "담보 대출",
-      "traffic": "200+"
+      "keyword": "아문디",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "스테이블코인",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "김부겸",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "양정원",
+      "keyword": "드론 항공모함",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "캐나다 잠수함 수주",
+      "rank": 5,
+      "keyword": "장인화",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "지연수",
       "traffic": "5000+"
     },
     {
+      "rank": 7,
+      "keyword": "안규백",
+      "traffic": "500+"
+    },
+    {
       "rank": 8,
-      "keyword": "휴전",
+      "keyword": "나승엽",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "cgv",
+      "keyword": "이복현",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "이동건",
-      "traffic": "20000+"
+      "keyword": "이의리",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "참배하는 배재고 학생들",
-      "state": "n",
-      "change": "0"
+      "keyword": "캐나다 잠수함 TKMS 선정",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "손흥민 복귀전 월드컵 일정",
+      "keyword": "손흥민 월드컵 일정",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "니콜라스 마줄스 감독",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 3,
-      "keyword": "호프 나홍진 감독, 칸서 기분 나쁨",
-      "state": "+",
-      "change": "7"
-    },
-    {
       "rank": 4,
-      "keyword": "K-축구 혁신위원회 출범식",
-      "state": "-",
-      "change": "2"
+      "keyword": "김부장 조롱 문화 청구서",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "장윤기 사건 특별수사팀 편성",
-      "state": "+",
-      "change": "2"
+      "keyword": "결혼의 완성",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김부장 앞길 막나?",
+      "keyword": "신입사원 강회장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "신입사원 강회장",
+      "keyword": "백진희, 하이킥 돈 날려",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "붉은 진주",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "의장 부의장 선출",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 9,
-      "keyword": "이병태 靑 사퇴 권고",
-      "state": "-",
-      "change": "8"
+      "keyword": "돌파하는 에디 다니엘",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "아이들 소연 기대해주세요!",
+      "keyword": "MBC 일일극 가족관계증명서 첫방 포인트",
       "state": "-",
-      "change": "6"
+      "change": "9"
     }
   ]
 }
