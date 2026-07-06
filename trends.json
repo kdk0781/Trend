@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-06T13:07:14.475Z",
+  "updatedAt": "2026-07-06T16:27:41.400Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "tkms",
-      "traffic": "200+"
+      "keyword": "이강인, 아틀레티코",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "뇌물",
+      "keyword": "7월7일",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "아문디",
-      "traffic": "500+"
+      "keyword": "이루",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "드론 항공모함",
-      "traffic": "200+"
+      "keyword": "이희구",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "장인화",
-      "traffic": "200+"
+      "keyword": "tvn",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "지연수",
-      "traffic": "5000+"
+      "keyword": "독사",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "안규백",
-      "traffic": "500+"
+      "keyword": "두산로보틱스",
+      "traffic": "20000+"
     },
     {
       "rank": 8,
-      "keyword": "나승엽",
-      "traffic": "500+"
+      "keyword": "7월7일 정보통신망법",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "이복현",
-      "traffic": "1000+"
+      "keyword": "알렉산드라 이알라",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "이의리",
-      "traffic": "1000+"
+      "keyword": "배틀그라운드",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "캐나다 잠수함 TKMS 선정",
-      "state": "+",
-      "change": "2"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "손흥민 월드컵 일정",
+      "keyword": "호프 감독 기분 나빴다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "니콜라스 마줄스 감독",
-      "state": "+",
-      "change": "1"
+      "keyword": "이병태 5·18 사퇴",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김부장 조롱 문화 청구서",
-      "state": "+",
-      "change": "3"
+      "keyword": "마줄스 감독의 기쁨과 항의",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "결혼의 완성",
+      "keyword": "배재고 야구부 광주 방문",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "신입사원 강회장",
+      "keyword": "월드컵 기대 아쉬움",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "백진희, 하이킥 돈 날려",
-      "state": "n",
+      "keyword": "닥터 섬보이",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "붉은 진주",
+      "keyword": "홈플러스 3000억 특례보증",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "돌파하는 에디 다니엘",
+      "keyword": "경북 김천 규모 2.1 지진 발생",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "MBC 일일극 가족관계증명서 첫방 포인트",
-      "state": "-",
-      "change": "9"
+      "keyword": "장윤기 사건 수사 확대",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
