@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-07-06T01:11:04.786Z",
+  "updatedAt": "2026-07-06T05:36:48.515Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "레몬헬스케어",
+      "keyword": "폴란드",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "이규혁",
+      "keyword": "돌싱글즈",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "เม็กซิโก พบ อังกฤษ",
-      "traffic": "200+"
+      "keyword": "мексика – англия",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "신도",
-      "traffic": "200+"
+      "keyword": "곰팡이",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "은행",
-      "traffic": "1000+"
+      "keyword": "옥주현",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "장동혁 가족상 누구",
-      "traffic": "500+"
+      "keyword": "lg그룹",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "mexico đấu với anh",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "멕시코 대 잉글랜드",
-      "traffic": "50000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "경기도의회",
+      "keyword": "맹승지",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "lcs",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "손담비",
+      "traffic": "1000+"
+    },
+    {
       "rank": 10,
-      "keyword": "구미시",
-      "traffic": "100+"
+      "keyword": "미국 축구 국가대표팀",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "딜링룸 구윤철 부총리",
+      "keyword": "월드컵 일정 공개",
       "state": "s",
       "change": "0"
     },
@@ -67,50 +67,50 @@
     },
     {
       "rank": 3,
-      "keyword": "월드컵 일정 공개",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "장동혁 가족상 조문 상황",
+      "keyword": "이긴 잉글랜드, 멕시코 8강 진출",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "홀란 노르웨이 8강행",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "장윤기 수사팀장 긴급체포",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "무섭노 일베 논란 김시덕",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "KCM, 14년 만에 아내와 결혼식",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "고우석, 미네소타 트레이드",
+      "rank": 4,
+      "keyword": "남궁민 결혼 완성 첫방 파국",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 10,
-      "keyword": "영케이 27일 솔로 컴백",
+      "rank": 5,
+      "keyword": "명륜당 제재 시작",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 6,
+      "keyword": "김부장 시즌2 제작 논의",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "혼성그룹 카드, 9년 만에 해체",
       "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "국수본부장 장윤기 유구무언",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "배재고는 사과한다는데 광주부터",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "개인정보 처리방침 간담회",
+      "state": "n",
       "change": "0"
     }
   ]
