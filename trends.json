@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-07-06T16:27:41.400Z",
+  "updatedAt": "2026-07-06T18:25:46.611Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이강인, 아틀레티코",
-      "traffic": "1000+"
+      "keyword": "교도관",
+      "traffic": "500+"
     },
     {
       "rank": 2,
+      "keyword": "이강인, 아틀레티코",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 3,
       "keyword": "7월7일",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "이루",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "이희구",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "tvn",
       "traffic": "2000+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "독사",
       "traffic": "500+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "두산로보틱스",
       "traffic": "20000+"
     },
     {
-      "rank": 8,
-      "keyword": "7월7일 정보통신망법",
-      "traffic": "1000+"
-    },
-    {
       "rank": 9,
-      "keyword": "알렉산드라 이알라",
-      "traffic": "500+"
+      "keyword": "7월7일 정보통신망법",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "배틀그라운드",
-      "traffic": "100+"
+      "keyword": "알렉산드라 이알라",
+      "traffic": "500+"
     }
   ],
   "domestic": [
@@ -61,7 +61,7 @@
     },
     {
       "rank": 2,
-      "keyword": "호프 감독 기분 나빴다",
+      "keyword": "니콜라스 마줄스 감독의 다양한 모습",
       "state": "s",
       "change": "0"
     },
@@ -73,43 +73,43 @@
     },
     {
       "rank": 4,
-      "keyword": "마줄스 감독의 기쁨과 항의",
-      "state": "s",
-      "change": "0"
+      "keyword": "심혜진 조카 심재원 화제",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 5,
-      "keyword": "배재고 야구부 광주 방문",
+      "keyword": "하마스, 가자지구 해산",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "월드컵 기대 아쉬움",
-      "state": "s",
+      "keyword": "경북 김천 2.1 지진 발생",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "닥터 섬보이",
+      "keyword": "광주일고·배재고 야구부 오월 추모",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "홈플러스 3000억 특례보증",
+      "keyword": "하이킥 돈으로 위약금 모두 날려",
       "state": "+",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "경북 김천 규모 2.1 지진 발생",
-      "state": "n",
+      "keyword": "김가네 회장 검찰 송치",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "장윤기 사건 수사 확대",
+      "keyword": "닉쿤, 달걀로 충격 다이어트",
       "state": "n",
       "change": "0"
     }
