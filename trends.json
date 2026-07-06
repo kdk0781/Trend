@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-06T21:52:53.527Z",
+  "updatedAt": "2026-07-06T22:59:17.673Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이임생",
-      "traffic": "2000+"
+      "keyword": "넷플릭스",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "전국노래자랑",
-      "traffic": "500+"
+      "keyword": "붉은 진주",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "박항서",
-      "traffic": "2000+"
+      "keyword": "삼성전자 실적발표",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "공무원",
-      "traffic": "5000+"
+      "keyword": "윤후",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "스페인",
+      "keyword": "햄버거",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "지진희",
+      "keyword": "라두 드라구신",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "bồ đào nha đấu với tây ban nha",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "삼성 갤럭시 s26",
+      "keyword": "สภาพอากาศ",
       "traffic": "500+"
     },
     {
+      "rank": 8,
+      "keyword": "jepq",
+      "traffic": "100+"
+    },
+    {
       "rank": 9,
-      "keyword": "португалия – испания",
-      "traffic": "200+"
+      "keyword": "tsla",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "항공기",
+      "keyword": "이상미",
       "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "손흥민 복귀전 월드컵 일정",
+      "keyword": "비운의 월드컵 손흥민 아픔",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "캐나다 잠수함 사업 독일 TKMS 선정",
-      "state": "s",
-      "change": "0"
+      "keyword": "캐나다 잠수함 수주 불발",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 3,
-      "keyword": "심혜진 조카 심재원 화제",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "이강인 700억 이적 확정!",
+      "keyword": "몬스타엑스 기현 보더라인 컴백",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "결혼의 완성",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "닥터 섬보이",
+      "rank": 4,
+      "keyword": "스페인, 포르투갈 꺾고 8강행",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 5,
+      "keyword": "닥터 섬보이",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "MBC 새 일일극 첫방 관전 포인트",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "트럼프 레드카드 재검토 요청",
+      "keyword": "태풍 바비 한반도 영향",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "신입사원 강회장",
-      "state": "-",
-      "change": "2"
+      "keyword": "김부장 속 손나은 발연기",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "2PM 준케이 파트 없어 좌절",
-      "state": "+",
-      "change": "2"
+      "keyword": "이강인 700억 AT마드리드 이적",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김부장 속 빛나는 소녀들",
+      "keyword": "트럼프 레드카드 재검토 요청",
       "state": "-",
       "change": "2"
     }
