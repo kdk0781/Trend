@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-07T00:11:04.583Z",
+  "updatedAt": "2026-07-07T04:17:31.368Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김효주",
-      "traffic": "1000+"
+      "keyword": "황신혜",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "보잉 f-47",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "잠수함 발사 탄도 미사일",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "프로포폴",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "재테크",
+      "keyword": "초복",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "골프장",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "독도",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "사이드카",
+      "traffic": "500+"
+    },
+    {
       "rank": 6,
-      "keyword": "iren",
-      "traffic": "100+"
+      "keyword": "세종문화회관",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "장금상선",
+      "keyword": "집단 소송",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "유성구",
-      "traffic": "200+"
+      "keyword": "보조금",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "하무스",
-      "traffic": "100+"
+      "keyword": "심혜진",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "넷플릭스",
-      "traffic": "2000+"
+      "keyword": "제주항공",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "손흥민 복귀전 일정 공개",
-      "state": "s",
-      "change": "0"
+      "keyword": "한성숙 국무총리의 첫 국무회의",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "삼성전자 2분기 영업익 89조",
-      "state": "s",
-      "change": "0"
+      "keyword": "LG전자 2분기 최대 영업익",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "한화오션 차순위 선정",
-      "state": "+",
-      "change": "1"
+      "keyword": "벨기에, 미국 4-1 대승! 8강 진출.",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "몬스타엑스 기현, 보더라인 컴백",
-      "state": "s",
-      "change": "0"
+      "keyword": "빅뱅 고양 추가 좌석",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "스페인, 포르투갈 꺾고 8강 진출",
-      "state": "s",
-      "change": "0"
+      "keyword": "손흥민 복귀전 일정",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 6,
-      "keyword": "가족관계증명서 1위 고수",
+      "keyword": "최고위원 출마 선언하는",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "국민의힘 대안과 미래",
+      "keyword": "미공개 독도 자료",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "닥터 섬보이",
-      "state": "s",
-      "change": "0"
+      "keyword": "코스피 매도 사이드카",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 9,
-      "keyword": "손나은, 김부장 발연기 탈출?",
-      "state": "+",
+      "keyword": "경찰 의혹 수사 진행",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "프로미스나인 정규 컴백!",
-      "state": "n",
-      "change": "0"
+      "keyword": "위철환 직무대행 현안 보고",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
