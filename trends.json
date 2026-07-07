@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-07T04:17:31.368Z",
+  "updatedAt": "2026-07-07T07:54:24.638Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "황신혜",
-      "traffic": "500+"
+      "keyword": "금호건설",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "초복",
-      "traffic": "200+"
+      "keyword": "진태현",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "골프장",
-      "traffic": "200+"
+      "keyword": "정태영",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "독도",
-      "traffic": "200+"
+      "keyword": "마석 도",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "사이드카",
+      "keyword": "땅집고",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "세종문화회관",
-      "traffic": "200+"
+      "keyword": "서영교",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "집단 소송",
-      "traffic": "1000+"
+      "keyword": "뉴스속보",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "보조금",
-      "traffic": "2000+"
+      "keyword": "최지광",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "심혜진",
-      "traffic": "2000+"
+      "keyword": "여름 폭염",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "제주항공",
-      "traffic": "1000+"
+      "keyword": "이란전쟁",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "한성숙 국무총리의 첫 국무회의",
+      "keyword": "한성숙 총리와 조정식 의장",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 2,
+      "keyword": "월드컵 일정 공개",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 2,
-      "keyword": "LG전자 2분기 최대 영업익",
-      "state": "+",
-      "change": "2"
-    },
-    {
       "rank": 3,
-      "keyword": "벨기에, 미국 4-1 대승! 8강 진출.",
-      "state": "n",
-      "change": "0"
+      "keyword": "인천공항 10억 여객 달성",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "빅뱅 고양 추가 좌석",
+      "keyword": "황인엽 이혜리 그대에게 드림",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "손흥민 복귀전 일정",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 6,
-      "keyword": "최고위원 출마 선언하는",
+      "keyword": "코스피 7600선 하락 마감",
       "state": "+",
       "change": "3"
     },
     {
+      "rank": 6,
+      "keyword": "구윤철 부총리 업무보고 참석",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 7,
-      "keyword": "미공개 독도 자료",
-      "state": "n",
+      "keyword": "항공모함 시어도어 루즈벨트함",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "코스피 매도 사이드카",
-      "state": "-",
-      "change": "5"
-    },
-    {
-      "rank": 9,
-      "keyword": "경찰 의혹 수사 진행",
-      "state": "-",
+      "keyword": "두산 외인타자 세베리노 기대감!",
+      "state": "+",
       "change": "1"
     },
     {
+      "rank": 9,
+      "keyword": "김범진 선관위 보고",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "위철환 직무대행 현안 보고",
-      "state": "-",
-      "change": "3"
+      "keyword": "호프 나홍진 감독 놀라운 작품",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
