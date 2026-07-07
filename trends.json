@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-07T19:26:22.325Z",
+  "updatedAt": "2026-07-07T21:04:00.591Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "월드컵 대진표",
-      "traffic": "2000+"
+      "keyword": "농민",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "goat",
-      "traffic": "100+"
+      "keyword": "대한민국 축구 국가대표팀",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "콜롬비아",
-      "traffic": "100+"
+      "keyword": "switzerland vs colombia",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "lịch world cup 2026",
+      "keyword": "디에고 시메오네",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "로메로",
-      "traffic": "200+"
+      "keyword": "카르 다노",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "อาร์เจนตินา พบ อียิปต์",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "世界杯",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "김태효",
+      "keyword": "홍지윤",
       "traffic": "500+"
     },
     {
-      "rank": 9,
-      "keyword": "유시춘",
+      "rank": 7,
+      "keyword": "england vs india",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "수도권 광역급행철도 c노선",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "월드컵 대진표",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "аргентина – египет",
-      "traffic": "100+"
+      "keyword": "메시",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 대통령 나토",
+      "keyword": "이재명, 나토 참석",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "삼성 최형우 1,800 타점",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 3,
-      "keyword": "계엄 정당화 메시지 발신 혐의",
+      "keyword": "삼성 1위에 올랐다",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "신기루, 모친상 후 미각 상실",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 4,
-      "keyword": "장윤기 사건 대기발령",
+      "keyword": "하트 시그널 5",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "이숭용 감독의 SSG 승리 소감",
-      "state": "-",
-      "change": "3"
+      "keyword": "태풍과 폭염에도 강한 에어돔",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "신기루, 모친상 후 미각 상실",
-      "state": "s",
-      "change": "0"
+      "keyword": "아르헨티나전 분패의 의미",
+      "state": "+",
+      "change": "8"
     },
     {
       "rank": 7,
-      "keyword": "하트 시그널 5",
-      "state": "s",
-      "change": "0"
+      "keyword": "극우 르펜 대선 출마",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "극우 르펜 내년 대선 출마",
+      "keyword": "장윤기 사건 수사팀장 영장실질심사",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "최형우 KBO 첫 1800타점",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "최시원, 침묵 종료 선언",
-      "state": "+",
-      "change": "9"
-    },
-    {
       "rank": 10,
-      "keyword": "태풍과 폭염에도 끄덕없는 K-공간 솔루션",
-      "state": "+",
-      "change": "1"
+      "keyword": "임지연·허남준 푸꾸옥 논라",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
