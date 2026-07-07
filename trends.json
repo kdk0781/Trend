@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-07T07:54:24.638Z",
+  "updatedAt": "2026-07-07T10:48:03.208Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "금호건설",
-      "traffic": "100+"
+      "keyword": "기안84",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "진태현",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "정태영",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "마석 도",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "땅집고",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "서영교",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "뉴스속보",
+      "keyword": "ssg 대 두산",
       "traffic": "5000+"
     },
     {
+      "rank": 3,
+      "keyword": "kia 대 롯데",
+      "traffic": "20000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "nc 대 한화",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "가방",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "키움 대 kt",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "흥아해운",
+      "traffic": "2000+"
+    },
+    {
       "rank": 8,
-      "keyword": "최지광",
-      "traffic": "200+"
+      "keyword": "대한항공",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "여름 폭염",
+      "keyword": "테니스",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "이란전쟁",
-      "traffic": "200+"
+      "keyword": "프리미어리그",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "한성숙 총리와 조정식 의장",
-      "state": "s",
-      "change": "0"
+      "keyword": "월드컵 일정",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "월드컵 일정 공개",
-      "state": "+",
+      "keyword": "출국하는 이재용 회장",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "인천공항 10억 여객 달성",
-      "state": "+",
-      "change": "1"
+      "keyword": "尹 체포방해 선고 생중계",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "황인엽 이혜리 그대에게 드림",
+      "keyword": "정웅인 박해미 소속사 대표별세 폐업",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "코스피 7600선 하락 마감",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 6,
-      "keyword": "구윤철 부총리 업무보고 참석",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "항공모함 시어도어 루즈벨트함",
-      "state": "s",
+      "keyword": "설종진 감독 진지한 논의 필요",
+      "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "두산 외인타자 세베리노 기대감!",
+      "rank": 6,
+      "keyword": "최저임금 노사 격차 990원",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 7,
+      "keyword": "상생협약 체결식",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "모험자본 플랫폼 출범",
+      "state": "-",
+      "change": "4"
+    },
+    {
       "rank": 9,
-      "keyword": "김범진 선관위 보고",
-      "state": "n",
-      "change": "0"
+      "keyword": "하이닉스 주가 하락 반영",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "호프 나홍진 감독 놀라운 작품",
-      "state": "n",
+      "keyword": "유노윤호 콘서트 장소 변경",
+      "state": "s",
       "change": "0"
     }
   ]
