@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-07T17:46:27.022Z",
+  "updatedAt": "2026-07-07T19:26:22.325Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "살라",
-      "traffic": "100+"
+      "keyword": "월드컵 대진표",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "김현지pd",
-      "traffic": "200+"
+      "keyword": "goat",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "argentina vs egypt",
-      "traffic": "500+"
+      "keyword": "콜롬비아",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "월드컵 경기 일정",
+      "keyword": "lịch world cup 2026",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "아르헨티나 대 이집트",
-      "traffic": "10000+"
+      "keyword": "로메로",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "윔블던 2026",
-      "traffic": "200+"
+      "keyword": "อาร์เจนตินา พบ อียิปต์",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "쓸쓸하고 찬란하神 - 도깨비",
-      "traffic": "200+"
+      "keyword": "世界杯",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "매일경제",
-      "traffic": "5000+"
+      "keyword": "김태효",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "kt wiz",
+      "keyword": "유시춘",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "최저 임금 위원회",
-      "traffic": "2000+"
+      "keyword": "аргентина – египет",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 나토 포럼 참석",
+      "keyword": "이재명 대통령 나토",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이숭용 감독 SSG 연패 탈출",
-      "state": "s",
-      "change": "0"
+      "keyword": "삼성 최형우 1,800 타점",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "계엄 정당화 메시지 전파 혐의",
+      "keyword": "계엄 정당화 메시지 발신 혐의",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "차세대 4호, 첫 교신 성공",
-      "state": "s",
-      "change": "0"
+      "keyword": "장윤기 사건 대기발령",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "삼성 최형우 1,800 타점",
-      "state": "s",
-      "change": "0"
+      "keyword": "이숭용 감독의 SSG 승리 소감",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "장윤기 사건 대기발령 6명",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
       "keyword": "신기루, 모친상 후 미각 상실",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "하트 시그널 5",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "재혼 오윤아 면사포 착용",
-      "state": "+",
-      "change": "1"
+      "keyword": "극우 르펜 내년 대선 출마",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "하트 시그널 5",
-      "state": "-",
-      "change": "1"
+      "keyword": "최시원, 침묵 종료 선언",
+      "state": "+",
+      "change": "9"
     },
     {
       "rank": 10,
-      "keyword": "전원주 유서 공개",
-      "state": "n",
-      "change": "0"
+      "keyword": "태풍과 폭염에도 끄덕없는 K-공간 솔루션",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
