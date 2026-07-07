@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-07T15:48:43.427Z",
+  "updatedAt": "2026-07-07T17:46:27.022Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "매일경제",
-      "traffic": "2000+"
+      "keyword": "살라",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "kt wiz",
+      "keyword": "김현지pd",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "최저 임금 위원회",
-      "traffic": "2000+"
+      "keyword": "argentina vs egypt",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "고준희",
-      "traffic": "200+"
+      "keyword": "월드컵 경기 일정",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "전원주",
+      "keyword": "아르헨티나 대 이집트",
       "traffic": "10000+"
     },
     {
       "rank": 6,
-      "keyword": "정웅인",
-      "traffic": "1000+"
+      "keyword": "윔블던 2026",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "아르헨티나 이집트",
-      "traffic": "500+"
+      "keyword": "쓸쓸하고 찬란하神 - 도깨비",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "사기",
-      "traffic": "1000+"
+      "keyword": "매일경제",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "야닉 시너",
-      "traffic": "2000+"
+      "keyword": "kt wiz",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "상장폐지",
-      "traffic": "10000+"
+      "keyword": "최저 임금 위원회",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명, 나토 방산포럼",
+      "keyword": "이재명 나토 포럼 참석",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "모험자본 플랫폼 출범",
+      "keyword": "이숭용 감독 SSG 연패 탈출",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "출국하는 이재용 회장",
+      "keyword": "계엄 정당화 메시지 전파 혐의",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "SSG 이숭용 감독의 연패 탈출",
+      "keyword": "차세대 4호, 첫 교신 성공",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "28기 경수",
+      "keyword": "삼성 최형우 1,800 타점",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "체포방해 선고 생중계",
-      "state": "+",
-      "change": "2"
+      "keyword": "장윤기 사건 대기발령 6명",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "정웅인 박해미 대표 별세",
-      "state": "n",
+      "keyword": "신기루, 모친상 후 미각 상실",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "계엄 정당화 메시지",
+      "keyword": "재혼 오윤아 면사포 착용",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "차세대 위성 4호, 교신 성공",
-      "state": "n",
-      "change": "0"
+      "keyword": "하트 시그널 5",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "삼성 최형우 1800 타점",
-      "state": "+",
-      "change": "1"
+      "keyword": "전원주 유서 공개",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
