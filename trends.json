@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-07T22:19:36.095Z",
+  "updatedAt": "2026-07-07T23:17:16.882Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "수건",
-      "traffic": "2000+"
+      "keyword": "노동조합",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "연애전쟁",
-      "traffic": "100+"
+      "keyword": "금",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "spcx",
+      "keyword": "สภาพอากาศ",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "투표용지",
-      "traffic": "100+"
+      "keyword": "xrp 레저",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "노바크 조코비치",
-      "traffic": "5000+"
+      "keyword": "롯데마트",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "달러",
+      "keyword": "장윤기 사건",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "농민",
-      "traffic": "200+"
+      "keyword": "배재고등학교",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "체중 증가",
+      "keyword": "한강",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "대한민국 축구 국가대표팀",
-      "traffic": "10000+"
+      "keyword": "kf-21 보라매",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "switzerland vs colombia",
-      "traffic": "500+"
+      "keyword": "경기도의회",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명, 나토 참석",
-      "state": "s",
-      "change": "0"
+      "keyword": "미군 이란 공습 개시",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "신기루, 모친상 후 미각 상실.",
-      "state": "s",
-      "change": "0"
+      "keyword": "신예은, 90% 싱크로율 매력 발산",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "메시 활약 아르헨 8강 진출",
+      "keyword": "메시 1골 1도움 대역전승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "미군 이란 공습 시작",
+      "keyword": "아르헨티나 결승골 논란",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "캐나다 총리와 협력 확대",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 6,
+      "keyword": "남경주 성폭행 재판 시작",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "태풍 바비, 수도권 폭우 150㎜ 이상",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 6,
-      "keyword": "허안나, 반려견·묘 잃고 슬픔",
+      "rank": 7,
+      "keyword": "이강인 창의성 높이 평가",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "28기 경수",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 8,
-      "keyword": "김부장 회상과 변화",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "장윤기 사건",
+      "keyword": "옥주현, 4년 옥장판 재언급",
       "state": "-",
       "change": "3"
     },
     {
+      "rank": 9,
+      "keyword": "홍명호 청문회 출석 가겠다",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "조달 기본협정",
+      "keyword": "韓-나토 방산 진출 추진",
       "state": "n",
       "change": "0"
     }
