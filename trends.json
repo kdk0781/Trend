@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-08T03:46:23.732Z",
+  "updatedAt": "2026-07-08T06:16:30.523Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김선빈",
-      "traffic": "200+"
+      "keyword": "진아름",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "수락산 터널",
-      "traffic": "1000+"
+      "keyword": "고용",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "현행범",
-      "traffic": "1000+"
+      "keyword": "코스피 지수",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "르브론 제임스",
+      "keyword": "윤호중",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "조현",
-      "traffic": "200+"
+      "keyword": "제헌절",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "블루제이스 대 자이언츠",
-      "traffic": "10000+"
+      "keyword": "군대",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "마우리시오 포체티노",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "박정숙",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "롯데시네마",
+      "keyword": "재벌x형사 2",
       "traffic": "500+"
     },
     {
+      "rank": 8,
+      "keyword": "lng선",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
+      "keyword": "엔도 와타루",
+      "traffic": "5000+"
+    },
+    {
       "rank": 10,
-      "keyword": "제주항공 특가",
-      "traffic": "200+"
+      "keyword": "뇌물",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "당대표 출마 말한다",
+      "keyword": "코스피·코스닥 매도 사이드카 발동",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "P-8A 해상초계기 훈련",
-      "state": "s",
+      "keyword": "이란 미군시설 타격",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "주가조작 근절 1주년 점검",
-      "state": "s",
+      "keyword": "배재고 재심 신청",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "동궁 조승우 대세 배우들",
-      "state": "s",
-      "change": "0"
+      "keyword": "충주 찰옥수수 버거 출시",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "양경수 민주노총 위원장",
-      "state": "s",
+      "keyword": "아홉, 런 투 유처럼 달리겠다",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "정성호 법무부 장관",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "가정용 에어컨 비교 시연",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "지방교육재정교부금 개편 토론회",
-      "state": "-",
+      "keyword": "세종·충청·전북 중대본 1단계 가동",
+      "state": "+",
       "change": "1"
     },
     {
+      "rank": 7,
+      "keyword": "진우스님 한성숙 총리 예방",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "오타니 300홈런 달성",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "고우석 데뷔전 다음 기회",
+      "keyword": "호프 정호연 나홍진 러브콜",
       "state": "-",
-      "change": "7"
+      "change": "5"
     },
     {
       "rank": 10,
-      "keyword": "1호선 복구 완료",
-      "state": "n",
-      "change": "0"
+      "keyword": "동궁 조승우, 남주혁과 노윤서에 묻어가기로",
+      "state": "-",
+      "change": "4"
     }
   ]
 }
