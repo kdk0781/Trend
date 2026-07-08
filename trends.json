@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-08T08:45:20.750Z",
+  "updatedAt": "2026-07-08T10:49:48.025Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "박지훈",
-      "traffic": "500+"
+      "keyword": "msi",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "매일경제신문",
-      "traffic": "200+"
+      "keyword": "보완수사권",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "윤두준",
-      "traffic": "100+"
+      "keyword": "독사",
+      "traffic": "5000+"
     },
     {
       "rank": 4,
-      "keyword": "암표",
-      "traffic": "100+"
+      "keyword": "이정현",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "t1 g2",
-      "traffic": "500+"
+      "keyword": "한국고속철도",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "씨이랩",
-      "traffic": "200+"
+      "keyword": "lpga",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "중산층",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "세계 청년 대회",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "군산시장",
+      "keyword": "혼다 게이스케",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "아랍에미리트",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "파울루 벤투",
+      "traffic": "50000+"
+    },
+    {
       "rank": 10,
-      "keyword": "신천지예수교 증거장막성전",
+      "keyword": "야구여왕",
       "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "검은 수요일 급락 5%",
+      "keyword": "트럼프 이란 MOU 끝났다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "SSG 아빌라 영입",
-      "state": "+",
-      "change": "2"
+      "keyword": "정이한 자작극 의혹 구속",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "윈윈, SM 전속계약 종료",
-      "state": "n",
-      "change": "0"
+      "keyword": "JTBC 출연료 지급 완료",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 4,
-      "keyword": "이재명 대통령 정상회담",
+      "keyword": "발언하는 장동혁 대표",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "윤준호 역전 투런포",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "조경태 장동혁 제명 요구",
+      "rank": 6,
+      "keyword": "하이닉스 주가 변동성 주목",
       "state": "-",
       "change": "2"
     },
     {
-      "rank": 6,
-      "keyword": "보완수사권 폐지 형소법 상정",
-      "state": "n",
+      "rank": 7,
+      "keyword": "장윤기 사건, 美 출장 조기 귀국",
+      "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "민주당 제1차 중앙당선거관리위원회의",
-      "state": "+",
-      "change": "2"
-    },
-    {
       "rank": 8,
-      "keyword": "LG 오스틴, 6월 MVP 선정",
+      "keyword": "이재명 대통령과 트럼프 대화",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이승기·이다인 둘째 출산",
-      "state": "n",
-      "change": "0"
+      "keyword": "이승기♥이다인, 둘째 득남",
+      "state": "-",
+      "change": "6"
     },
     {
       "rank": 10,
-      "keyword": "김민석 전 총리 목포 방문",
-      "state": "n",
-      "change": "0"
+      "keyword": "현대차 노조 부분파업 예고",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
