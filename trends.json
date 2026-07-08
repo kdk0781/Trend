@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-08T19:10:54.578Z",
+  "updatedAt": "2026-07-08T20:38:15.519Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "안드레이 산투스",
+      "keyword": "티센 크루프 마린시스템",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "맥그리거 할로웨이",
-      "traffic": "100+"
+      "keyword": "일라이",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "부산 날씨",
-      "traffic": "100+"
+      "keyword": "토트넘 홋스퍼 fc",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "아서 페리",
+      "keyword": "광주날씨",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "티비",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "트레이드",
+      "keyword": "안드레이 산투스",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "맥그리거 할로웨이",
+      "traffic": "100+"
+    },
+    {
       "rank": 7,
-      "keyword": "프랑스 모로코",
+      "keyword": "부산 날씨",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "장윤기",
-      "traffic": "1000+"
+      "keyword": "아서 페리",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "테일러 프리츠",
+      "keyword": "티비",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "그리즈만",
-      "traffic": "100+"
+      "keyword": "트레이드",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "장윤기 수사팀장 구속",
-      "state": "s",
-      "change": "0"
+      "keyword": "이재명 나토 일정 마침",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "하루 만에 선두 탈환",
+      "keyword": "LG 하루 만에 선두 탈환",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "영수 영숙 잔소리 폭발",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "김혜경 여사, 나토 프로그램 참석",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "구호 외치는 장동혁",
+      "keyword": "IMF, 올해 한국 성장률 2.6% 상향",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 6,
-      "keyword": "IMF 올해 한국 성장률 2.6% 전망",
+      "rank": 4,
+      "keyword": "32기 영수, 영숙 잔소리에 아이 화",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "트럼프 오늘밤 다시 이란 공격",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "한-루마니아 정상회담",
+      "rank": 5,
+      "keyword": "김혜경 여사, 나토 배우자 프로그램 참석",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "보완수사권 폐지 필요",
+      "rank": 6,
+      "keyword": "트럼프 오늘밤 이란 타격",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 7,
+      "keyword": "장윤기 사건 팀장 구속",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "상철, 광수에 서운함 토로",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "수의 납골당도 미리 준비",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "이숭용 감독 보크 항의",
+      "keyword": "이준영, 유퀴즈 마지막 방송",
       "state": "n",
       "change": "0"
     }
