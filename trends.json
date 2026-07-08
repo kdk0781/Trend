@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-08T20:38:15.519Z",
+  "updatedAt": "2026-07-08T21:46:22.561Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "티센 크루프 마린시스템",
-      "traffic": "200+"
+      "keyword": "육군사관학교",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "일라이",
-      "traffic": "200+"
+      "keyword": "서울 날씨",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "토트넘 홋스퍼 fc",
-      "traffic": "200+"
+      "keyword": "전새얀",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "광주날씨",
-      "traffic": "100+"
+      "keyword": "안철수",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "안드레이 산투스",
-      "traffic": "200+"
+      "keyword": "xrp 레저",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "맥그리거 할로웨이",
-      "traffic": "100+"
+      "keyword": "과일",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "부산 날씨",
-      "traffic": "100+"
+      "keyword": "희토류 원소",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "아서 페리",
-      "traffic": "200+"
+      "keyword": "파업",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "티비",
+      "keyword": "골 때리는 그녀들",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "트레이드",
-      "traffic": "500+"
+      "keyword": "다우지수",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 나토 일정 마침",
+      "keyword": "김혜경 여사, 나토 프로그램 참석",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "LG 하루 만에 선두 탈환",
-      "state": "s",
-      "change": "0"
+      "keyword": "32기 영숙 잔소리에 영수 화 폭발",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "IMF, 올해 한국 성장률 2.6% 상향",
+      "keyword": "트럼프 이란 전쟁 재개 없음",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "32기 영수, 영숙 잔소리에 아이 화",
-      "state": "s",
+      "keyword": "LG, 삼성 잡고 1위 복귀",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김혜경 여사, 나토 배우자 프로그램 참석",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "트럼프 오늘밤 이란 타격",
+      "keyword": "이재명 대통령 정상회의 마무리",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "장윤기 사건 팀장 구속",
+      "rank": 6,
+      "keyword": "상철과 19금 이야기",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "강경화, 쿠팡문제 안정적 관리",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 8,
-      "keyword": "상철, 광수에 서운함 토로",
-      "state": "s",
+      "keyword": "42KG 신지, 충격 몸 상태",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "수의 납골당도 미리 준비",
+      "keyword": "윤 체포방해 대법 선고 오늘 생중계",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이준영, 유퀴즈 마지막 방송",
+      "keyword": "정선희, 재혼 3번? 가짜뉴스 질림",
       "state": "n",
       "change": "0"
     }
