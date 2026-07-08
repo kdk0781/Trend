@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-08T10:49:48.025Z",
+  "updatedAt": "2026-07-08T12:08:46.014Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "msi",
-      "traffic": "2000+"
+      "keyword": "해고",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "보완수사권",
-      "traffic": "500+"
+      "keyword": "dem",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "독사",
-      "traffic": "5000+"
+      "keyword": "화물기",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "이정현",
-      "traffic": "500+"
+      "keyword": "오러클린",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "한국고속철도",
-      "traffic": "1000+"
+      "keyword": "뉴데일리",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "lpga",
-      "traffic": "2000+"
+      "keyword": "이은지",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "혼다 게이스케",
+      "keyword": "영안실",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "아랍에미리트",
-      "traffic": "200+"
+      "keyword": "elle",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "파울루 벤투",
-      "traffic": "50000+"
+      "keyword": "등급컷",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "야구여왕",
-      "traffic": "1000+"
+      "keyword": "가족관계증명서 드라마",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 이란 MOU 끝났다",
+      "keyword": "트럼프와 선박 건조 협의",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "정이한 자작극 의혹 구속",
+      "keyword": "이숭용 감독 보크 항의",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "JTBC 출연료 지급 완료",
-      "state": "+",
-      "change": "5"
+      "keyword": "서인영 아버지 공장 공개",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "발언하는 장동혁 대표",
+      "keyword": "가족관계증명서 파국 시작",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "윤준호 역전 투런포",
+      "keyword": "이언주 음란물 기업인 압수수색",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "하이닉스 주가 변동성 주목",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "장윤기 사건, 美 출장 조기 귀국",
-      "state": "s",
+      "keyword": "윤준호 역전 투런포",
+      "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "구호 외치는 장동혁",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "이재명 대통령과 트럼프 대화",
+      "keyword": "정이한 구속 자작극 의혹",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이승기♥이다인, 둘째 득남",
-      "state": "-",
-      "change": "6"
+      "keyword": "두산 곽빈 선발",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "현대차 노조 부분파업 예고",
-      "state": "-",
-      "change": "1"
+      "keyword": "JTBC 출연료 지급 완료",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
