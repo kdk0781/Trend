@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-08T12:08:46.014Z",
+  "updatedAt": "2026-07-08T14:37:16.524Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "해고",
+      "keyword": "삼성중공업",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "dem",
-      "traffic": "200+"
+      "keyword": "이준영",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "화물기",
+      "keyword": "아들",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "오러클린",
-      "traffic": "100+"
+      "keyword": "홀란드",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "뉴데일리",
-      "traffic": "100+"
+      "keyword": "주택담보대출",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "이은지",
+      "keyword": "류지혁",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "영안실",
+      "keyword": "이규혁",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "elle",
+      "keyword": "맥스 할로웨이",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "등급컷",
-      "traffic": "200+"
+      "keyword": "이다인",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "가족관계증명서 드라마",
-      "traffic": "100+"
+      "keyword": "경주ic",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프와 선박 건조 협의",
-      "state": "s",
+      "keyword": "정이한 피습 자작극 구속",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이숭용 감독 보크 항의",
-      "state": "s",
+      "keyword": "이 대통령, 트럼프와 군함 건조 협의",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "서인영 아버지 공장 공개",
+      "keyword": "이언주 합성물 게시 기업인 압수",
+      "state": "+",
+      "change": "5"
+    },
+    {
+      "rank": 4,
+      "keyword": "두산 곽빈 선발",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "가족관계증명서 파국 시작",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 5,
-      "keyword": "이언주 음란물 기업인 압수수색",
+      "keyword": "최대 200㎜ 물폭탄",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "윤준호 역전 투런포",
-      "state": "n",
+      "keyword": "때리고 송진우 아내",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "구호 외치는 장동혁",
-      "state": "+",
-      "change": "1"
+      "keyword": "‘아파트 사기 18년’",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "정이한 구속 자작극 의혹",
+      "keyword": "남편 살해 시도",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "두산 곽빈 선발",
-      "state": "+",
-      "change": "1"
+      "keyword": "삼성 하루 1위 탈환",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "JTBC 출연료 지급 완료",
-      "state": "n",
+      "keyword": "서인영 父 CEO 공장 운영",
+      "state": "s",
       "change": "0"
     }
   ]
