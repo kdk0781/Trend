@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-08T06:16:30.523Z",
+  "updatedAt": "2026-07-08T08:45:20.750Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "진아름",
+      "keyword": "박지훈",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "고용",
+      "keyword": "매일경제신문",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "코스피 지수",
-      "traffic": "500+"
+      "keyword": "윤두준",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "윤호중",
-      "traffic": "500+"
+      "keyword": "암표",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "제헌절",
-      "traffic": "1000+"
+      "keyword": "t1 g2",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "군대",
+      "keyword": "씨이랩",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "재벌x형사 2",
-      "traffic": "500+"
+      "keyword": "중산층",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "lng선",
+      "keyword": "세계 청년 대회",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "엔도 와타루",
-      "traffic": "5000+"
+      "keyword": "군산시장",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "뇌물",
-      "traffic": "2000+"
+      "keyword": "신천지예수교 증거장막성전",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "코스피·코스닥 매도 사이드카 발동",
+      "keyword": "검은 수요일 급락 5%",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이란 미군시설 타격",
-      "state": "n",
-      "change": "0"
+      "keyword": "SSG 아빌라 영입",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "배재고 재심 신청",
+      "keyword": "윈윈, SM 전속계약 종료",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "충주 찰옥수수 버거 출시",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "아홉, 런 투 유처럼 달리겠다",
+      "keyword": "이재명 대통령 정상회담",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "조경태 장동혁 제명 요구",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 6,
-      "keyword": "세종·충청·전북 중대본 1단계 가동",
-      "state": "+",
-      "change": "1"
+      "keyword": "보완수사권 폐지 형소법 상정",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "진우스님 한성숙 총리 예방",
+      "keyword": "민주당 제1차 중앙당선거관리위원회의",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "오타니 300홈런 달성",
+      "keyword": "LG 오스틴, 6월 MVP 선정",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "호프 정호연 나홍진 러브콜",
-      "state": "-",
-      "change": "5"
+      "keyword": "이승기·이다인 둘째 출산",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "동궁 조승우, 남주혁과 노윤서에 묻어가기로",
-      "state": "-",
-      "change": "4"
+      "keyword": "김민석 전 총리 목포 방문",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
