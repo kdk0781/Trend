@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-08T21:46:22.561Z",
+  "updatedAt": "2026-07-08T22:45:33.926Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "육군사관학교",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "서울 날씨",
+      "keyword": "박영규",
       "traffic": "2000+"
     },
     {
+      "rank": 2,
+      "keyword": "김수현",
+      "traffic": "1000+"
+    },
+    {
       "rank": 3,
-      "keyword": "전새얀",
+      "keyword": "다우 존스 산업평균지수",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "안철수",
+      "keyword": "สภาพอากาศ",
       "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "xrp 레저",
-      "traffic": "500+"
+      "keyword": "tsla",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "과일",
-      "traffic": "2000+"
+      "keyword": "schd",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "희토류 원소",
-      "traffic": "500+"
+      "keyword": "충전기",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "파업",
-      "traffic": "2000+"
+      "keyword": "nvda",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "골 때리는 그녀들",
-      "traffic": "100+"
+      "keyword": "나는 solo",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "다우지수",
-      "traffic": "100+"
+      "keyword": "반도체",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김혜경 여사, 나토 프로그램 참석",
-      "state": "+",
-      "change": "1"
+      "keyword": "트럼프 이란 전쟁 재개 안 해",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "32기 영숙 잔소리에 영수 화 폭발",
-      "state": "+",
-      "change": "1"
+      "keyword": "32기 상철, 19금 사주 논란",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "트럼프 이란 전쟁 재개 없음",
-      "state": "+",
-      "change": "2"
+      "keyword": "정상회의 이재명 대통령",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "LG, 삼성 잡고 1위 복귀",
-      "state": "n",
+      "keyword": "태풍 바비, 충청권 최대 폭우",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이재명 대통령 정상회의 마무리",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "상철과 19금 이야기",
-      "state": "n",
+      "keyword": "강경화 한미 쿠팡 안정적 관리",
+      "state": "s",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "정선희, 최준희 결혼식 오열",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "강경화, 쿠팡문제 안정적 관리",
+      "keyword": "오늘 대법 선고",
       "state": "+",
-      "change": "2"
+      "change": "5"
     },
     {
       "rank": 8,
-      "keyword": "42KG 신지, 충격 몸 상태",
+      "keyword": "리센느, 멜론 1위 오열",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "윤 체포방해 대법 선고 오늘 생중계",
-      "state": "n",
+      "keyword": "뉴욕증시 혼조 다우",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "정선희, 재혼 3번? 가짜뉴스 질림",
+      "keyword": "韓음식 구매력 OECD 3년 2위",
       "state": "n",
       "change": "0"
     }
