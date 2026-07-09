@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-09T14:11:20.568Z",
+  "updatedAt": "2026-07-09T16:42:57.301Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "유혜정",
+      "keyword": "호프",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "아이돌",
-      "traffic": "2000+"
+      "keyword": "배달",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "네이처셀",
-      "traffic": "200+"
+      "keyword": "청주시",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "이민성",
-      "traffic": "1000+"
+      "keyword": "테이큰",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "보니 타일러",
+      "keyword": "유치장",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "이경실",
-      "traffic": "10000+"
+      "keyword": "크루피",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "교사",
-      "traffic": "1000+"
+      "keyword": "팰월드 정식출시",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "세단",
-      "traffic": "1000+"
+      "keyword": "휴게소",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "태진아",
-      "traffic": "5000+"
+      "keyword": "신민아",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "xsmb",
-      "traffic": "1000+"
+      "keyword": "침하",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "윤석열 헛웃음 7년 확정",
-      "state": "n",
+      "keyword": "이재명 대통령 한-몽골",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "초등생 남매 화재 사망",
-      "state": "n",
+      "keyword": "삼성 전반기 1위 달성",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "최저임금 갈등과 격차",
-      "state": "n",
+      "keyword": "최저임금 격차 690원 14일 결정",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "한-몽골, 분야별 협력",
-      "state": "-",
-      "change": "2"
+      "keyword": "윤석열 징역 7년 확정",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "2002년 한국 심판 논란",
-      "state": "n",
+      "keyword": "유미 세포들 시연하라",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "황하나, 마약 투약 벌금형",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "삼성 11년 만의 전반기 1위",
-      "state": "+",
-      "change": "9"
-    },
-    {
-      "rank": 8,
-      "keyword": "참교육 불법 시청한 사건",
+      "keyword": "3기 신도시 신속 공급 중요",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 9,
-      "keyword": "유혜정, 운동선수와 이혼했다",
+      "rank": 7,
+      "keyword": "보완수사권 폐지 발의",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "김도영 1타점 타격",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "서규원, 부친 서용빈과 끈끈한 유대",
+      "state": "-",
+      "change": "3"
+    },
+    {
       "rank": 10,
-      "keyword": "롯데 최항·박시영·정선우 방출",
-      "state": "n",
+      "keyword": "부셰르 원전 피격",
+      "state": "s",
       "change": "0"
     }
   ]
