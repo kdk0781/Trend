@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-09T08:51:01.898Z",
+  "updatedAt": "2026-07-09T11:36:56.340Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "유죄",
-      "traffic": "500+"
+      "keyword": "최대훈",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "채무",
-      "traffic": "1000+"
+      "keyword": "정치선거",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "홍수",
+      "keyword": "투수",
       "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "영동군",
-      "traffic": "1000+"
+      "keyword": "민주당 선거",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "군사작전",
+      "keyword": "삼성 갤럭시 z 시리즈",
       "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "골드만삭스",
-      "traffic": "1000+"
+      "keyword": "서민금융진흥원",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "임찬규",
-      "traffic": "200+"
+      "keyword": "홍영기",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "남구",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "광주대구 고속도로",
+      "keyword": "체포영장",
       "traffic": "2000+"
     },
     {
+      "rank": 9,
+      "keyword": "한화오션",
+      "traffic": "20000+"
+    },
+    {
       "rank": 10,
-      "keyword": "new york times",
-      "traffic": "200+"
+      "keyword": "시부모",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 대통령 몽골",
-      "state": "s",
+      "keyword": "한-몽골, 분야 협력",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "주민등록증 확대 업무협약식",
-      "state": "+",
-      "change": "1"
+      "keyword": "구자욱 1타점 적시타",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "광주 군공항 토지허가 지정",
-      "state": "+",
-      "change": "2"
+      "keyword": "최저임금 격차 690원",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "코스피 상승 마감",
-      "state": "s",
+      "keyword": "문채원 신혼여행 포르투갈 7박8일",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "지드래곤, 조카 생긴다!",
+      "keyword": "가족관계증명서 파국 시작",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "윤석열 징역 7년 확정",
-      "state": "-",
-      "change": "4"
+      "keyword": "안현민의 투런포",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "한-몽골 정상 악수",
-      "state": "+",
-      "change": "1"
+      "keyword": "징역 7년 확정에",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "2026 건설의 날 기념식",
+      "keyword": "하이닉스 주가 오를까?",
       "state": "-",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "민주당 형사소송법 개정안 제출",
-      "state": "+",
-      "change": "1"
+      "keyword": "SSG 토마스 해치 역투",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "눈동자 100만 돌파!",
-      "state": "+",
-      "change": "2"
+      "keyword": "빌라 화재 남매 참변",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
