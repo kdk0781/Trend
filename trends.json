@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-09T16:42:57.301Z",
+  "updatedAt": "2026-07-09T18:28:03.031Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "호프",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "배달",
+      "keyword": "india vs england",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "저축",
+      "traffic": "500+"
+    },
+    {
       "rank": 3,
-      "keyword": "청주시",
+      "keyword": "정혁",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "테이큰",
-      "traffic": "200+"
+      "keyword": "린다 노스코바",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "유치장",
-      "traffic": "200+"
+      "keyword": "호프",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "크루피",
+      "keyword": "배달",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "팰월드 정식출시",
-      "traffic": "200+"
+      "keyword": "청주시",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "휴게소",
-      "traffic": "500+"
+      "keyword": "테이큰",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "신민아",
-      "traffic": "2000+"
+      "keyword": "모로코 프랑스",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "침하",
-      "traffic": "100+"
+      "keyword": "유치장",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 대통령 한-몽골",
+      "keyword": "이재명 대통령 비즈니스",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "삼성 전반기 1위 달성",
+      "keyword": "삼성 전반기 1위 확정!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "최저임금 격차 690원 14일 결정",
-      "state": "s",
-      "change": "0"
+      "keyword": "유혜정 딸 서규원 26세 근무 중",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 4,
-      "keyword": "윤석열 징역 7년 확정",
+      "keyword": "부셰르 원전 피격",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "유미 세포들 시연하라",
-      "state": "s",
+      "keyword": "최형우 적시타 1타점",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "3기 신도시 신속 공급 중요",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "보완수사권 폐지 발의",
+      "keyword": "두산 전반기 마무리",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "김도영 1타점 타격",
+      "rank": 7,
+      "keyword": "CEPA 원칙적 타결",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "서규원, 부친 서용빈과 끈끈한 유대",
+      "rank": 8,
+      "keyword": "김혜경 여사 칭기즈칸 관람",
       "state": "-",
-      "change": "3"
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "부부 남편 외도 논란",
+      "state": "-",
+      "change": "6"
     },
     {
       "rank": 10,
-      "keyword": "부셰르 원전 피격",
-      "state": "s",
-      "change": "0"
+      "keyword": "SK하이닉스 공모가 149달러",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
