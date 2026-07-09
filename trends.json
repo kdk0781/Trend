@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-09T20:18:32.209Z",
+  "updatedAt": "2026-07-09T21:49:58.849Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "프랑스 대 모로코",
-      "traffic": "5000+"
+      "keyword": "음바페",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "부부",
+      "keyword": "그리즈만",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "영주시",
+      "keyword": "붉은 진주",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "gpt 5.6",
-      "traffic": "500+"
+      "keyword": "이재용",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "개",
-      "traffic": "500+"
+      "keyword": "올리세",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "france vs morocco",
-      "traffic": "500+"
+      "keyword": "최저임금",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "codex",
-      "traffic": "200+"
+      "keyword": "실시간스포츠",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "india vs england",
-      "traffic": "200+"
+      "keyword": "축구중계",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "브레이브스 대 파이리츠",
-      "traffic": "200+"
+      "keyword": "고현정",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "저축",
+      "keyword": "고우석",
       "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 대통령 부부 울란바타르 방문",
+      "keyword": "이재명 대통령 부부 방문",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "삼성, 전반기 1위",
+      "keyword": "삼성, 프로야구 전반기 1위",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "영호 발언에 시비?",
+      "state": "+",
+      "change": "13"
+    },
+    {
+      "rank": 4,
+      "keyword": "SK하이닉스 ADR 공모가 149달러",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 3,
-      "keyword": "안현민 홈런 우천 노게임",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "SK하이닉스 공모가 149달러",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 5,
-      "keyword": "진실공방 남편 외도 논란",
+      "keyword": "유재성 경찰청장 직무대행",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "진실공방 부부 남편",
       "state": "-",
       "change": "3"
     },
     {
-      "rank": 6,
-      "keyword": "靑 군함 한국 건조",
-      "state": "+",
-      "change": "4"
-    },
-    {
       "rank": 7,
-      "keyword": "첫 홀 버디 성공",
-      "state": "+",
-      "change": "2"
+      "keyword": "기분 좋은 버디 성공",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "윤석열 징역 7년 확정",
+      "keyword": "장윤정, 명의 도용 억울함 호소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "여자 5호 발언 논란",
+      "keyword": "반도체 강세 뉴욕증시 상승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "미·이란 무력공방 계속",
-      "state": "s",
-      "change": "0"
+      "keyword": "중국 태풍으로 동물과 돼지 피해",
+      "state": "+",
+      "change": "9"
     }
   ]
 }
