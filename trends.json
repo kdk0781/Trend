@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-09T01:19:50.956Z",
+  "updatedAt": "2026-07-09T05:11:31.942Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "adr",
-      "traffic": "100+"
+      "keyword": "건설",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "김혜경",
+      "keyword": "하트시그널",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "산사태",
-      "traffic": "2000+"
+      "keyword": "청주",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "꽃게",
+      "keyword": "고현정",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "황유민",
+      "keyword": "현빈",
       "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "변동성",
-      "traffic": "200+"
+      "keyword": "금호건설",
+      "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "송도역",
+      "keyword": "호우경보",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "openai",
-      "traffic": "100+"
+      "keyword": "안경",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "포켓몬고",
-      "traffic": "100+"
+      "keyword": "신현송",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "김현지",
-      "traffic": "500+"
+      "keyword": "종합 부동산 세",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "홈플러스 회생을 위한 간담회",
-      "state": "s",
+      "keyword": "통일교 징역 확정",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "리센느, 멜론 1위 달성!",
-      "state": "s",
-      "change": "0"
+      "keyword": "용숙부부 채널 종료 이유 이혼",
+      "state": "+",
+      "change": "7"
     },
     {
       "rank": 3,
-      "keyword": "코스피 반등",
+      "keyword": "조인성, 나홍진 응원 도전",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이정후 2G 연속 무안타",
-      "state": "s",
+      "keyword": "MMCA 40주년 상상들",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "발언하는 장동혁 대표",
+      "keyword": "석포제련소 화재 피해 없어",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "윤여정, 美 에미상 후보",
-      "state": "s",
+      "keyword": "우리카드 이란 영입",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "SK하이닉스 ADR 7배 청약",
-      "state": "n",
-      "change": "0"
+      "keyword": "박홍근 장관 질의 답변",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "송중기 박지현 재회 로코",
-      "state": "n",
-      "change": "0"
+      "keyword": "축구협회 청문회 정몽규",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "KT AI 서포터즈 활동 시작",
-      "state": "n",
-      "change": "0"
+      "keyword": "하이닉스 주가 변동성 주목",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "최정상 제네시스 오픈 개막",
+      "keyword": "6월 가계대출 급증",
       "state": "n",
       "change": "0"
     }
