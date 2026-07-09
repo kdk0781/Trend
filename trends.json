@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-08T23:47:42.577Z",
+  "updatedAt": "2026-07-09T01:19:50.956Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "단발",
-      "traffic": "500+"
+      "keyword": "adr",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "김지미",
+      "keyword": "김혜경",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "휴머노이드 로봇",
-      "traffic": "500+"
+      "keyword": "산사태",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "레버리지",
-      "traffic": "100+"
+      "keyword": "꽃게",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "무기",
-      "traffic": "200+"
+      "keyword": "황유민",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "수서고속철도",
+      "keyword": "변동성",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "골든스테이트 워리어스",
-      "traffic": "500+"
+      "keyword": "송도역",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "박영규",
-      "traffic": "2000+"
+      "keyword": "openai",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "김수현",
-      "traffic": "5000+"
+      "keyword": "포켓몬고",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "สภาพอากาศ",
-      "traffic": "1000+"
+      "keyword": "김현지",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 이란 강공 예고",
-      "state": "n",
+      "keyword": "홈플러스 회생을 위한 간담회",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "리센느, 멜론 1위 역주행 성공",
+      "keyword": "리센느, 멜론 1위 달성!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "태풍 바비, 충청권 폭우 150㎜",
-      "state": "+",
-      "change": "1"
+      "keyword": "코스피 반등",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이 대통령 몽골 도착",
-      "state": "+",
-      "change": "4"
+      "keyword": "이정후 2G 연속 무안타",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "하이닉스 주가 변동성 주목",
+      "keyword": "발언하는 장동혁 대표",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "호우 경보 관련 직원들",
-      "state": "n",
+      "keyword": "윤여정, 美 에미상 후보",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "딸 죽음 뒤 남편에 독약 먹인 아내",
+      "keyword": "SK하이닉스 ADR 7배 청약",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "보완수사권 폐지 상정",
+      "keyword": "송중기 박지현 재회 로코",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "장윤기 부친 집 케이블타이 발견",
+      "keyword": "KT AI 서포터즈 활동 시작",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "유권자 실수 1088표",
+      "keyword": "최정상 제네시스 오픈 개막",
       "state": "n",
       "change": "0"
     }
