@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-10T07:48:46.798Z",
+  "updatedAt": "2026-07-10T10:39:16.760Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "스포티비뉴스",
+      "keyword": "샌들",
       "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "노경필",
-      "traffic": "200+"
+      "keyword": "lyon",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "팰 월드 패치 노트",
-      "traffic": "1000+"
+      "keyword": "올다르크",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "손예진 아들",
-      "traffic": "100+"
+      "keyword": "kb국민카드",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "윤세아",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "하이브리드 차량",
+      "keyword": "동거",
       "traffic": "1000+"
     },
     {
+      "rank": 6,
+      "keyword": "황영묵",
+      "traffic": "500+"
+    },
+    {
       "rank": 7,
-      "keyword": "목감천",
-      "traffic": "2000+"
+      "keyword": "모나미",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "대한민국 국세청",
+      "keyword": "지구마불 세계여행",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "농지",
-      "traffic": "5000+"
+      "keyword": "통영시",
+      "traffic": "50000+"
     },
     {
       "rank": 10,
-      "keyword": "이정후",
-      "traffic": "10000+"
+      "keyword": "장영란",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "국무조정실장에 임기근 차관",
+      "keyword": "퓨처스 올스타전 선발 선수들",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 2,
+      "keyword": "이재명 몽골 총리 접견",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 3,
+      "keyword": "국민의힘 경찰청 방문",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "이동국 아내, 새벽 소음 사과",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 2,
-      "keyword": "둘러보는 한성숙 총리",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "임오경 의원, 손흥민 호출 철회",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "아이유 이종석 4년 열애 종료",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 5,
-      "keyword": "코스피 상승 마감",
+      "keyword": "중앙일보 워크아웃 개시",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "배재고 가처분 신청한다",
-      "state": "n",
-      "change": "0"
+      "keyword": "권경하, 지드래곤 담임교사였다.",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "첫 AI 배전망 ESS 선정",
+      "keyword": "32기 영수 발언으로 초토화",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "7개월 아기 방치 20대 부부 구속",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "김건희 16일 선고",
-      "state": "+",
-      "change": "2"
-    },
-    {
       "rank": 9,
-      "keyword": "제3자뇌물 2심서 공소기각",
-      "state": "+",
+      "keyword": "하이닉스 주가オ오를까 내릴까?",
+      "state": "-",
       "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "폭염 위기경보 경계",
-      "state": "n",
+      "keyword": "호반건설, 한진칼 20% 초과",
+      "state": "s",
       "change": "0"
     }
   ]
