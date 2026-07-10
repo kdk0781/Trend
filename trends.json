@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-10T00:05:14.531Z",
+  "updatedAt": "2026-07-10T04:07:52.156Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "군인",
-      "traffic": "500+"
+      "keyword": "조선민주주의인민공화국",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "오늘 날씨",
-      "traffic": "1000+"
+      "keyword": "조원빈",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "잉글랜드 노르웨이",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "노르웨이 잉글랜드",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "경매",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "경로당",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "박문성",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "버스",
+      "keyword": "죽음",
       "traffic": "1000+"
     },
     {
+      "rank": 4,
+      "keyword": "오산시",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "노동조합",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "이스라엘",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "양현종",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "항서제약",
+      "traffic": "2000+"
+    },
+    {
       "rank": 9,
-      "keyword": "저비용 항공사",
-      "traffic": "200+"
+      "keyword": "무소속",
+      "traffic": "50000+"
     },
     {
       "rank": 10,
-      "keyword": "앤트로픽",
-      "traffic": "500+"
+      "keyword": "쯔양",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "SK하이닉스 공모가 149달러 확정",
+      "keyword": "6일 연속 순매수행진",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "프랑스, 모로코 제압 4강 진출",
-      "state": "s",
-      "change": "0"
+      "keyword": "이재명, 이태준 기념관 방문",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 3,
-      "keyword": "이무진, 마운드미디어 계약",
-      "state": "n",
+      "keyword": "23일 부동산 대토론회 개최",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "출항 준비 정조대왕함",
-      "state": "n",
-      "change": "0"
+      "keyword": "내가 만난 사이코패스 사람들",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "가족관계 파국 시작",
-      "state": "s",
-      "change": "0"
+      "keyword": "한병도 대표 직무대행 접견",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "태풍 대비 점검 실시",
-      "state": "s",
-      "change": "0"
+      "keyword": "한학자 통일교 총재 징역 13년 구형",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "김정은 중앙군사위 확대회의",
-      "state": "n",
+      "keyword": "잠실 레전드 시구자 발표",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "세븐틴, 日 밀리언 인증 3번째",
+      "keyword": "지방교육재정교부금 대응 긴급회의",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "고우석 MLB 데뷔 1이닝 1실점",
-      "state": "+",
-      "change": "15"
+      "keyword": "콘라드 아데나워재단",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "잉글랜드 콴사, 2경기 출전 정지",
+      "keyword": "노무현재단 이사, 일베 사과",
       "state": "n",
       "change": "0"
     }
