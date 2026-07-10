@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-10T17:19:17.449Z",
+  "updatedAt": "2026-07-10T18:50:45.742Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "야닉 시너",
-      "traffic": "500+"
+      "keyword": "퇴직금",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "빅터 레이예스",
+      "keyword": "아데예미",
       "traffic": "200+"
     },
     {
       "rank": 3,
+      "keyword": "야닉 시너",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "빅터 레이예스",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
       "keyword": "박나래",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "mbc",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "스파이더맨: 브랜드 뉴 데이",
       "traffic": "2000+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "캐시워크 정답",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "잉글랜드 축구 국가대표팀",
       "traffic": "500+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "옥택연",
       "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "알렉산더 즈베레프",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "이규원",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "함수호 MVP 퓨처스전",
-      "state": "s",
-      "change": "0"
+      "keyword": "강백호 홈런 더비 우승!",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "중앙일보 워크아웃 시작",
+      "keyword": "SK하이닉스 나스닥 입성",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "SK하이닉스 나스닥 진출",
+      "keyword": "김태효 구속으로 계엄 정당화",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "박나래 검찰 송치",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "계엄 정당화 메시지",
-      "state": "+",
-      "change": "4"
-    },
-    {
       "rank": 5,
-      "keyword": "윤호중 장관 빌라 화재 현장 방문",
-      "state": "n",
-      "change": "0"
+      "keyword": "장윤기 사건 논의 필요",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "리센느 원이 고향 거제시 논란 부적절",
+      "keyword": "김부장 역주행 영화 흥행",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "중국 헬륨 수출 금지",
       "state": "+",
       "change": "5"
     },
     {
-      "rank": 7,
-      "keyword": "김태균 감독",
+      "rank": 8,
+      "keyword": "몽골에 스마트워치 선물",
       "state": "n",
       "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "아이유 이종석 결별",
-      "state": "+",
-      "change": "6"
     },
     {
       "rank": 9,
-      "keyword": "KIA 엄준현",
+      "keyword": "트럼프 이란 대화 수용, 휴전 종료",
       "state": "+",
-      "change": "6"
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "유리 집 연세",
-      "state": "n",
-      "change": "0"
+      "keyword": "아이유 이종석 결별",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
