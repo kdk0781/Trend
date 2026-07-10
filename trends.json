@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-10T12:56:23.268Z",
+  "updatedAt": "2026-07-10T15:29:25.184Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "즐라트코 다리치",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "haaland",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "안민석",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "xsmb",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "하비에르 아기 레",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "울진군",
+      "keyword": "mbc",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "캐시워크 정답",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "스파이더맨",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "잉글랜드 축구 국가대표팀",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "옥택연",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "맥스 할로웨이",
+      "traffic": "2000+"
+    },
+    {
       "rank": 7,
-      "keyword": "채이배",
+      "keyword": "이규원",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "한로로 너와 나",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "대한민국의 국방부 장관",
+      "keyword": "아서 페리",
       "traffic": "2000+"
     },
     {
+      "rank": 9,
+      "keyword": "이선민",
+      "traffic": "200+"
+    },
+    {
       "rank": 10,
-      "keyword": "lec",
-      "traffic": "100+"
+      "keyword": "sbs",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 아빠 유니버스",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "퓨처스 올스타전 MVP",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "박나래 갑질 의혹 검찰 송치",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "이시원 구속영장 청구",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "몽골 국궁 세트 선물",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "중국 헬륨 수출 금지",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 7,
-      "keyword": "붉은 진주",
+      "keyword": "김부장 역주행 흥행",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 8,
+      "rank": 2,
+      "keyword": "함수호 MVP 퓨처스 올스타전",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "이재명 몽골 총리 접견",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
       "keyword": "중앙일보 워크아웃 시작",
-      "state": "-",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "장윤기 사건 피의자 입건",
+      "state": "+",
       "change": "4"
     },
     {
+      "rank": 6,
+      "keyword": "SK하이닉스 나스닥 입성",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 7,
+      "keyword": "이동국 아내 층간소음 사과",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "올다르크 경찰 출석",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "장윤기 사건 입건",
+      "keyword": "중국 헬륨 수출 금지",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "가족관계증명서 최고 시청률",
+      "keyword": "김태효 구속, 계엄 정당화",
       "state": "-",
-      "change": "2"
+      "change": "5"
     }
   ]
 }
