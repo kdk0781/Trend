@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-10T21:28:55.894Z",
+  "updatedAt": "2026-07-10T22:32:01.739Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "헬스 트레이너",
-      "traffic": "1000+"
+      "keyword": "대한광통신",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "환희",
+      "keyword": "nvda",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "계산원",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "자동차",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "lịch wc",
+      "keyword": "vix",
       "traffic": "200+"
     },
     {
-      "rank": 6,
-      "keyword": "김태효",
-      "traffic": "2000+"
+      "rank": 4,
+      "keyword": "이영애",
+      "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "spanyol vs belgia",
+      "rank": 5,
+      "keyword": "제니",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "spcx",
       "traffic": "500+"
     },
     {
+      "rank": 7,
+      "keyword": "schd",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "испания – бельгия",
+      "keyword": "lng선",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "축구중계",
+      "keyword": "สเปน พบ เบลเยียม",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "바르셀로나",
-      "traffic": "100+"
+      "keyword": "lịch world cup 2026",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 흥행 중!",
+      "keyword": "김부장 글로벌 흥행 역주행",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "SK하이닉스 나스닥 진입",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "강백호 홈런더비 1위",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "계엄 정당화 메시지",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "트럼프 대화 요청 수용했지만 종료",
+      "keyword": "계엄 정당화 메시지 김태효 증거인멸 염려",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "아시아 축구 북중미 망한 이유",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "결혼의 완성",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "퓨처스 올스타전 결과 요약",
+      "rank": 3,
+      "keyword": "메리노 결승골 스페인 4강 진출",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "유리 제주살이 3년 공개",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "SK하이닉스 나스닥 첫날 급등",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 6,
+      "keyword": "트럼프, 이란 휴전종료 통보",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "퓨처스 올스타전 진갑용 감독",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "이찬혁 K팝스타 편지",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 9,
-      "keyword": "개표소 진입 막은 경찰 출석",
+      "keyword": "올다르크 경찰 출석",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "삼전닉스, 미국서 메모리 생산",
+      "keyword": "주말 폭염 시작",
       "state": "n",
       "change": "0"
     }
