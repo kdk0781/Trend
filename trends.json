@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-10T10:39:16.760Z",
+  "updatedAt": "2026-07-10T12:56:23.268Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "샌들",
+      "keyword": "즐라트코 다리치",
       "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "lyon",
-      "traffic": "500+"
+      "keyword": "haaland",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "올다르크",
+      "keyword": "안민석",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "kb국민카드",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "동거",
+      "keyword": "xsmb",
       "traffic": "1000+"
     },
     {
+      "rank": 5,
+      "keyword": "하비에르 아기 레",
+      "traffic": "5000+"
+    },
+    {
       "rank": 6,
-      "keyword": "황영묵",
-      "traffic": "500+"
+      "keyword": "울진군",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "모나미",
-      "traffic": "200+"
+      "keyword": "채이배",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "지구마불 세계여행",
+      "keyword": "한로로 너와 나",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "통영시",
-      "traffic": "50000+"
+      "keyword": "대한민국의 국방부 장관",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "장영란",
-      "traffic": "2000+"
+      "keyword": "lec",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "퓨처스 올스타전 선발 선수들",
+      "keyword": "김부장 아빠 유니버스",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "이재명 몽골 총리 접견",
-      "state": "+",
-      "change": "4"
+      "keyword": "퓨처스 올스타전 MVP",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "국민의힘 경찰청 방문",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "이동국 아내, 새벽 소음 사과",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "중앙일보 워크아웃 개시",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "권경하, 지드래곤 담임교사였다.",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "32기 영수 발언으로 초토화",
+      "keyword": "박나래 갑질 의혹 검찰 송치",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 4,
+      "keyword": "이시원 구속영장 청구",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "몽골 국궁 세트 선물",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "중국 헬륨 수출 금지",
+      "state": "+",
+      "change": "5"
+    },
+    {
+      "rank": 7,
+      "keyword": "붉은 진주",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "7개월 아기 방치 20대 부부 구속",
+      "keyword": "중앙일보 워크아웃 시작",
+      "state": "-",
+      "change": "4"
+    },
+    {
+      "rank": 9,
+      "keyword": "장윤기 사건 입건",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "하이닉스 주가オ오를까 내릴까?",
+      "rank": 10,
+      "keyword": "가족관계증명서 최고 시청률",
       "state": "-",
       "change": "2"
-    },
-    {
-      "rank": 10,
-      "keyword": "호반건설, 한진칼 20% 초과",
-      "state": "s",
-      "change": "0"
     }
   ]
 }
