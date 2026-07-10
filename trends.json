@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-10T22:32:01.739Z",
+  "updatedAt": "2026-07-10T23:33:12.220Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "대한광통신",
+      "keyword": "삼성 갤럭시",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "nvda",
-      "traffic": "200+"
+      "keyword": "스티븐 체룬돌로",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "vix",
-      "traffic": "200+"
+      "keyword": "대한 광통신",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "이영애",
-      "traffic": "200+"
+      "keyword": "고우석",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "제니",
+      "keyword": "한고은",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "spcx",
-      "traffic": "500+"
+      "keyword": "서울특별시",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "schd",
-      "traffic": "200+"
+      "keyword": "기안84",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "lng선",
-      "traffic": "200+"
+      "keyword": "체중감소",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "สเปน พบ เบลเยียม",
+      "keyword": "폭풍",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "lịch world cup 2026",
-      "traffic": "200+"
+      "keyword": "ionq",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 글로벌 흥행 역주행",
+      "keyword": "“63세 김부장, 월 519만원 벌어”",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "계엄 정당화 메시지 김태효 증거인멸 염려",
+      "keyword": "스페인, 벨기에 제압하고 4강 진출",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "메리노 결승골 스페인 4강 진출",
+      "keyword": "SK하이닉스 나스닥 13% 상승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "유리 제주살이 3년 공개",
-      "state": "+",
-      "change": "1"
+      "keyword": "소녀시대 유리, 제주 행 이유",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "SK하이닉스 나스닥 첫날 급등",
-      "state": "-",
-      "change": "3"
+      "keyword": "태풍으로 판매량 급감",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "트럼프, 이란 휴전종료 통보",
+      "keyword": "박은영 의사 남편 자랑",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "퓨처스 올스타전 진갑용 감독",
+      "keyword": "강백호 홈런더비 우승하고",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이찬혁 K팝스타 편지",
-      "state": "+",
-      "change": "2"
+      "keyword": "김요한 이주연과 정리",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "올다르크 경찰 출석",
+      "keyword": "고우석 꿈의 MLB 데뷔",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "주말 폭염 시작",
+      "keyword": "장윤기 수사 피의자 4명",
       "state": "n",
       "change": "0"
     }
