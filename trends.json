@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-10T04:07:52.156Z",
+  "updatedAt": "2026-07-10T07:48:46.798Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "조선민주주의인민공화국",
-      "traffic": "200+"
+      "keyword": "스포티비뉴스",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "조원빈",
+      "keyword": "노경필",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "죽음",
+      "keyword": "팰 월드 패치 노트",
       "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "오산시",
-      "traffic": "1000+"
+      "keyword": "손예진 아들",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "노동조합",
-      "traffic": "5000+"
+      "keyword": "윤세아",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "이스라엘",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "양현종",
+      "keyword": "하이브리드 차량",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
-      "keyword": "항서제약",
+      "rank": 7,
+      "keyword": "목감천",
       "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "대한민국 국세청",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "무소속",
-      "traffic": "50000+"
+      "keyword": "농지",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "쯔양",
-      "traffic": "2000+"
+      "keyword": "이정후",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "6일 연속 순매수행진",
+      "keyword": "국무조정실장에 임기근 차관",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이재명, 이태준 기념관 방문",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 3,
-      "keyword": "23일 부동산 대토론회 개최",
-      "state": "s",
+      "keyword": "둘러보는 한성숙 총리",
+      "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "임오경 의원, 손흥민 호출 철회",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 4,
-      "keyword": "내가 만난 사이코패스 사람들",
+      "keyword": "아이유 이종석 4년 열애 종료",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "한병도 대표 직무대행 접견",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 6,
-      "keyword": "한학자 통일교 총재 징역 13년 구형",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "잠실 레전드 시구자 발표",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "지방교육재정교부금 대응 긴급회의",
+      "keyword": "코스피 상승 마감",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "콘라드 아데나워재단",
-      "state": "s",
+      "rank": 6,
+      "keyword": "배재고 가처분 신청한다",
+      "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "첫 AI 배전망 ESS 선정",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "김건희 16일 선고",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "제3자뇌물 2심서 공소기각",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 10,
-      "keyword": "노무현재단 이사, 일베 사과",
+      "keyword": "폭염 위기경보 경계",
       "state": "n",
       "change": "0"
     }
