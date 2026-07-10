@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-10T20:15:45.242Z",
+  "updatedAt": "2026-07-10T21:28:55.894Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "야말",
-      "traffic": "200+"
+      "keyword": "헬스 트레이너",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "캐나다",
+      "keyword": "환희",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "라민 야말",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "tây ban nha đấu với bỉ",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "spain vs belgium",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "wimbledon",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "스페인 대 벨기에",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "퇴직금",
+      "keyword": "계산원",
       "traffic": "1000+"
     },
     {
+      "rank": 4,
+      "keyword": "자동차",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "lịch wc",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "김태효",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "spanyol vs belgia",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "испания – бельгия",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "아데예미",
+      "keyword": "축구중계",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "야닉 시너",
-      "traffic": "1000+"
+      "keyword": "바르셀로나",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장, 14년 전 영화 역주행",
+      "keyword": "김부장 흥행 중!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "강백호 홈런 더비 우승",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
       "keyword": "SK하이닉스 나스닥 진입",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "강백호 홈런더비 1위",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 4,
-      "keyword": "계엄 정당화 김태효 구속",
+      "keyword": "계엄 정당화 메시지",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "유리의 제주 집 공개",
-      "state": "s",
-      "change": "0"
+      "keyword": "트럼프 대화 요청 수용했지만 종료",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "트럼프 대화 수용",
+      "keyword": "아시아 축구 북중미 망한 이유",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "결혼의 완성",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "장윤기 사건 조사 강화",
-      "state": "+",
-      "change": "2"
-    },
-    {
       "rank": 8,
-      "keyword": "클릭비 오종혁 노민혁 불화",
-      "state": "+",
-      "change": "1"
+      "keyword": "퓨처스 올스타전 결과 요약",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "무섭노 논쟁과 정치적 해석 부적절",
-      "state": "+",
-      "change": "1"
+      "keyword": "개표소 진입 막은 경찰 출석",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "수원역 킥보드 화재 소동",
+      "keyword": "삼전닉스, 미국서 메모리 생산",
       "state": "n",
       "change": "0"
     }
