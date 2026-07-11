@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-11T08:23:24.513Z",
+  "updatedAt": "2026-07-11T09:55:09.438Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "스톨레 솔바켄",
-      "traffic": "2000+"
+      "keyword": "박철순",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "전지현",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "이효리",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "곽혈수",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "소송",
+      "keyword": "광주경찰청",
       "traffic": "2000+"
     },
     {
-      "rank": 6,
-      "keyword": "하재훈",
-      "traffic": "1000+"
+      "rank": 3,
+      "keyword": "lcs",
+      "traffic": "500+"
     },
     {
-      "rank": 7,
-      "keyword": "서식스 공작 해리",
-      "traffic": "1000+"
+      "rank": 4,
+      "keyword": "화장실",
+      "traffic": "100+"
     },
     {
-      "rank": 8,
-      "keyword": "중동전쟁여파",
+      "rank": 5,
+      "keyword": "zimbabwe vs bangladesh",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "지점장",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "올스타전 2026",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "부동산",
+      "traffic": "10000+"
+    },
+    {
       "rank": 9,
-      "keyword": "민주노총",
+      "keyword": "lyon",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "코너 맥그리거",
-      "traffic": "2000+"
+      "keyword": "이준영",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 소진 응원 기대해!",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "몽골 나담축제 개막식",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "기분 좋은 버디 성공",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "장윤기 사건 수사단 41명 확대",
+      "keyword": "김부장 비하인드 소지섭 옥택연",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "잠실구장 마지막 올스타전",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "세종포천고속도로 추돌 9명 부상",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "김광용 재난안전관리본부장 폭염",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "27기 광수 오늘 결혼",
+      "keyword": "남승민, 비염 치료 코 성형 해명",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "트럼프 미사일 경고",
+      "keyword": "낮 최고 37도 무더위 지속",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "폭염 속 마라톤 사망 병사 사단장 송치",
-      "state": "n",
+      "keyword": "태풍 바비로 15명 사망",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "허경민 팬과 하이파이브",
+      "keyword": "장윤기 수사 지시 의혹",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "80대 할아버지 손녀 살해",
+      "keyword": "정수빈 기분 나쁘면 죄송합니다.",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "경북 경산 40도 육박",
+      "keyword": "통장 깎아먹는다 교사들",
       "state": "n",
       "change": "0"
     }
