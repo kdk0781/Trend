@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-10T23:33:12.220Z",
+  "updatedAt": "2026-07-11T01:03:09.013Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "삼성 갤럭시",
-      "traffic": "500+"
+      "keyword": "남승민",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "스티븐 체룬돌로",
+      "keyword": "허웅",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "대한 광통신",
-      "traffic": "2000+"
+      "keyword": "여객기",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "고우석",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "한고은",
+      "keyword": "모아나",
       "traffic": "100+"
     },
     {
+      "rank": 5,
+      "keyword": "lpga",
+      "traffic": "1000+"
+    },
+    {
       "rank": 6,
-      "keyword": "서울특별시",
-      "traffic": "200+"
+      "keyword": "현대 그랜저",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "기안84",
+      "keyword": "노르웨이 축구 국가대표팀",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "체중감소",
-      "traffic": "500+"
+      "keyword": "하트시그널",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "폭풍",
+      "keyword": "순천시장",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "ionq",
-      "traffic": "100+"
+      "keyword": "암호화폐",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "“63세 김부장, 월 519만원 벌어”",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "스페인, 벨기에 제압하고 4강 진출",
+      "keyword": "스페인, 벨기에 꺾고 프랑스와 4강전",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 2,
+      "keyword": "SK하이닉스 첫날 13% 급등",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 3,
-      "keyword": "SK하이닉스 나스닥 13% 상승",
+      "keyword": "스포티파이 16주 톱5",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "소녀시대 유리, 제주 행 이유",
+      "keyword": "오타니 선발 불참",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "태풍으로 판매량 급감",
-      "state": "s",
-      "change": "0"
+      "keyword": "박태성 총리 방중 및 만남",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "박은영 의사 남편 자랑",
-      "state": "n",
-      "change": "0"
+      "keyword": "김부장 20% 지속",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "강백호 홈런더비 우승하고",
-      "state": "n",
-      "change": "0"
+      "keyword": "리센느 화장실 3개 숙소 공개",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 8,
-      "keyword": "김요한 이주연과 정리",
+      "keyword": "이효리, 휘성 노래에 눈물",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "고우석 꿈의 MLB 데뷔",
+      "keyword": "혼자 다쳤다 형 유죄",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "장윤기 수사 피의자 4명",
+      "keyword": "유해란, 에비앙 2R 공동 3위",
       "state": "n",
       "change": "0"
     }
