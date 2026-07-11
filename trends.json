@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-11T06:32:05.490Z",
+  "updatedAt": "2026-07-11T08:23:24.513Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "중동전쟁",
-      "traffic": "1000+"
+      "keyword": "스톨레 솔바켄",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "현빈",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "손주영",
+      "keyword": "전지현",
       "traffic": "500+"
     },
     {
+      "rank": 3,
+      "keyword": "이효리",
+      "traffic": "5000+"
+    },
+    {
       "rank": 4,
-      "keyword": "오픈ai",
+      "keyword": "곽혈수",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "동탄",
-      "traffic": "100+"
+      "keyword": "소송",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "경찰차",
-      "traffic": "200+"
+      "keyword": "하재훈",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "메가박스",
-      "traffic": "200+"
+      "keyword": "서식스 공작 해리",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "유현조",
+      "keyword": "중동전쟁여파",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "에데르송",
+      "keyword": "민주노총",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "복날",
-      "traffic": "200+"
+      "keyword": "코너 맥그리거",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 놓친 MBC 편성 문제",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "스튜디오 지브리전 제주 개막",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "키키, 8월 컴백 확정!",
+      "keyword": "김부장 소진 응원 기대해!",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "마지막 올스타전을 앞둔 잠실야구장",
+      "rank": 2,
+      "keyword": "몽골 나담축제 개막식",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "기분 좋은 버디 성공",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "장윤기 사건 수사단 41명 확대",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "공무원 교사 노동자대회",
+      "keyword": "27기 광수 오늘 결혼",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "암살 시도 시 철저히 파괴",
-      "state": "-",
-      "change": "1"
+      "keyword": "트럼프 미사일 경고",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "이재명 몽골 활쏘기",
+      "keyword": "폭염 속 마라톤 사망 병사 사단장 송치",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "장윤기 사건 수사단 확대",
+      "keyword": "허경민 팬과 하이파이브",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "맥그리거 계체 통과",
+      "keyword": "80대 할아버지 손녀 살해",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "27기 광수 결혼 예비신부 공개",
+      "keyword": "경북 경산 40도 육박",
       "state": "n",
       "change": "0"
     }
