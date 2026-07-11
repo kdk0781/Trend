@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-11T09:55:09.438Z",
+  "updatedAt": "2026-07-11T10:56:25.624Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "박철순",
-      "traffic": "500+"
+      "keyword": "삼성 엑시노스",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "광주경찰청",
-      "traffic": "2000+"
+      "keyword": "k리그1",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "lcs",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "화장실",
+      "keyword": "goat",
       "traffic": "100+"
     },
     {
-      "rank": 5,
-      "keyword": "zimbabwe vs bangladesh",
-      "traffic": "200+"
+      "rank": 4,
+      "keyword": "울산 대 전북",
+      "traffic": "5000+"
     },
     {
-      "rank": 6,
-      "keyword": "지점장",
+      "rank": 5,
+      "keyword": "김천상무 대 부천",
       "traffic": "500+"
     },
     {
-      "rank": 7,
-      "keyword": "올스타전 2026",
+      "rank": 6,
+      "keyword": "고가도로",
       "traffic": "200+"
     },
     {
+      "rank": 7,
+      "keyword": "박준순",
+      "traffic": "100+"
+    },
+    {
       "rank": 8,
-      "keyword": "부동산",
-      "traffic": "10000+"
+      "keyword": "투수",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "lyon",
+      "keyword": "문현빈",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "이준영",
-      "traffic": "200+"
+      "keyword": "xsmn",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 비하인드 소지섭 옥택연",
+      "keyword": "김부장, 63세 연금부자",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "잠실구장 마지막 올스타전",
+      "keyword": "올스타전 축하 비행 블랙이글스",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "세종포천고속도로 추돌 9명 부상",
+      "keyword": "서울 아파트 최고가 기록",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김광용 재난안전관리본부장 폭염",
+      "keyword": "강승윤, BTS 진 미담 공개",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "남승민, 비염 치료 코 성형 해명",
-      "state": "n",
-      "change": "0"
+      "keyword": "자려고 누웠더니 양의지",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "낮 최고 37도 무더위 지속",
-      "state": "n",
-      "change": "0"
+      "keyword": "전국 낮 최고 37도 무더위",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "태풍 바비로 15명 사망",
-      "state": "s",
+      "keyword": "남승민, 코 성형 악플 해명",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "장윤기 수사 지시 의혹",
+      "keyword": "아이유 다 맞춰주다 폭로한",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "정수빈 기분 나쁘면 죄송합니다.",
+      "keyword": "김광용 재난안전관리본부장 쪽방촌",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "통장 깎아먹는다 교사들",
-      "state": "n",
-      "change": "0"
+      "keyword": "오스틴 텍사스 보안관",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
