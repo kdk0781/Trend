@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-11T18:09:58.539Z",
+  "updatedAt": "2026-07-11T19:29:22.579Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "남아프리카 공화국 축구 국가대표팀",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "이승기",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
       "keyword": "norway vs england",
       "traffic": "100+"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "keyword": "카롤리나 무초바",
       "traffic": "500+"
     },
     {
-      "rank": 3,
-      "keyword": "김이서",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "keyword": "황인범",
       "traffic": "500+"
     },
     {
-      "rank": 5,
-      "keyword": "jayden adams",
-      "traffic": "200+"
-    },
-    {
       "rank": 6,
-      "keyword": "아파트 드라마",
+      "keyword": "김이서",
       "traffic": "500+"
     },
     {
       "rank": 7,
+      "keyword": "jayden adams",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "아파트 드라마",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
       "keyword": "김지영",
       "traffic": "100+"
     },
     {
-      "rank": 8,
-      "keyword": "지상작전사령부",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "배지현",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "혜은이",
-      "traffic": "200+"
+      "keyword": "지상작전사령부",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "미스터 올스타 허인서 축하해!",
+      "keyword": "김부장과 남편의 멋진 내조",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이재명 대통령 귀국",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "남편 이동하 김부장 내조 중",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "강호필 구속영장 심사",
+      "keyword": "미스터 올스타 허인서 축하해!",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "1232회 로또 1등 11명 25억",
+      "rank": 3,
+      "keyword": "강호필 구속영장 심사",
       "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 4,
+      "keyword": "1232회 로또 1등 12, 15, 19, 22, 24, 36 25억씩 11명",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 5,
+      "keyword": "리센느 67평 숙소 입성",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "김고은 도깨비 촬영 비하인드",
+      "keyword": "김고은·공유 도깨비 키스신",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "장윤기 수사 의혹",
-      "state": "+",
-      "change": "1"
+      "keyword": "오태곤 9시의 남자",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "유병재 안유정 브랜드 론칭",
+      "keyword": "열대야 피해 바닷가행",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이란 최고지도자 복수 실행",
+      "keyword": "태풍 바비, 39명 사망",
       "state": "+",
-      "change": "1"
+      "change": "4"
     },
     {
       "rank": 10,
-      "keyword": "살해 심신미약 주장",
+      "keyword": "서울공항 도착",
       "state": "n",
       "change": "0"
     }
