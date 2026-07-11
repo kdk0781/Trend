@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-11T10:56:25.624Z",
+  "updatedAt": "2026-07-11T11:49:03.445Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "삼성 엑시노스",
-      "traffic": "200+"
+      "keyword": "전국공무원노동조합",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "k리그1",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "goat",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "울산 대 전북",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "김천상무 대 부천",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "고가도로",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "박준순",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "투수",
+      "keyword": "k리그2",
       "traffic": "2000+"
     },
     {
-      "rank": 9,
-      "keyword": "문현빈",
+      "rank": 3,
+      "keyword": "냄새",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "공유",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "공매도",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "서학 개미",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "김신의",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "삼성 엑시노스",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
+      "keyword": "k리그1",
+      "traffic": "500+"
+    },
+    {
       "rank": 10,
-      "keyword": "xsmn",
-      "traffic": "1000+"
+      "keyword": "goat",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장, 63세 연금부자",
+      "keyword": "현금부자 김부장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "올스타전 축하 비행 블랙이글스",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "서울 아파트 최고가 기록",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "강승윤, BTS 진 미담 공개",
+      "keyword": "잠실 마지막 올스타전",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "자려고 누웠더니 양의지",
+      "rank": 3,
+      "keyword": "몽골 순방 마치고 귀국",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "이선민 고향 구미서",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 5,
+      "keyword": "유병재 안유정 공개 응원",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "전국 낮 최고 37도 무더위",
-      "state": "+",
-      "change": "4"
+      "keyword": "자려고 누웠는데 양의지",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "남승민, 코 성형 악플 해명",
+      "keyword": "태풍 바비 15명 사망",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "아이유 다 맞춰주다 폭로한",
-      "state": "n",
-      "change": "0"
+      "keyword": "양상국 자극이 필요해",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "김광용 재난안전관리본부장 쪽방촌",
+      "keyword": "금값 꺾이자 중고 롤렉스 하락",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "오스틴 텍사스 보안관",
-      "state": "-",
-      "change": "3"
+      "keyword": "폭염에 곳곳 열대야주의보",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
