@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-11T16:11:52.153Z",
+  "updatedAt": "2026-07-11T17:17:02.805Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "황인범",
+      "keyword": "린다 노스코바",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "김이서",
-      "traffic": "200+"
+      "keyword": "norway vs england",
+      "traffic": "100+"
     },
     {
       "rank": 3,
+      "keyword": "김이서",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "황인범",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
       "keyword": "jayden adams",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "아파트 드라마",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "김지영",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "지상작전사령부",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "배지현",
       "traffic": "500+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "혜은이",
       "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "특임국",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "결혼의 완성",
-      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "소진 남편 이동하 내조 중",
-      "state": "s",
-      "change": "0"
+      "keyword": "김부장 남편 내조와 걸크러시",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 2,
-      "keyword": "잠실 마지막 올스타전",
-      "state": "s",
-      "change": "0"
+      "keyword": "미스터 올스타 허인서 생일 축하",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
       "keyword": "이재명 대통령 귀국",
-      "state": "s",
-      "change": "0"
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "리센느 미모와 음식 리뷰",
+      "keyword": "리센느, 호화 숙소 입성 꽃길!",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "김고은·공유, 도깨비 첫 키스신",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "강호필 내란 가담 영장 심사",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "장윤기 사건 수사 개입",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "강호필 내란가담 영장 심사",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 7,
-      "keyword": "김성겸 도깨비 10주년 영상편지",
+      "keyword": "1232회 로또 1등 11명 각 25억",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "결혼의 완성",
-      "state": "-",
-      "change": "3"
+      "keyword": "장윤기 수사 의혹",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "유병재 안유정 브랜드 론칭",
-      "state": "s",
+      "keyword": "유해란, 에비앙 3라운드 선두",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "1232회 로또 1등 11명 각 25억",
-      "state": "s",
-      "change": "0"
+      "keyword": "결혼의 완성",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
