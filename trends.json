@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-11T11:49:03.445Z",
+  "updatedAt": "2026-07-11T12:41:42.774Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "전국공무원노동조합",
-      "traffic": "1000+"
+      "keyword": "중구",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "k리그2",
-      "traffic": "2000+"
+      "keyword": "최홍만",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "냄새",
-      "traffic": "500+"
+      "keyword": "나영석",
+      "traffic": "10000+"
     },
     {
       "rank": 4,
-      "keyword": "공유",
-      "traffic": "2000+"
+      "keyword": "전국교직원노동조합",
+      "traffic": "5000+"
     },
     {
       "rank": 5,
-      "keyword": "공매도",
+      "keyword": "lck",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "서학 개미",
+      "keyword": "정혁",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "김신의",
-      "traffic": "200+"
+      "keyword": "쓸쓸 하고 찬란 하神 도깨비",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "삼성 엑시노스",
-      "traffic": "500+"
+      "keyword": "손승원",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "k리그1",
-      "traffic": "500+"
+      "keyword": "k리그2",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "goat",
-      "traffic": "100+"
+      "keyword": "냄새",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "현금부자 김부장",
+      "keyword": "김부장 비하인드 소지섭 옥택연",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "잠실 마지막 올스타전",
-      "state": "n",
+      "keyword": "잠실 올스타전 마무리",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "몽골 순방 마치고 귀국",
+      "keyword": "사랑을 처방해 드립니다",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "李대통령 몽골 방문 마치고 귀국",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "이선민 고향 구미서",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 5,
-      "keyword": "유병재 안유정 공개 응원",
+      "keyword": "유병재, 안유정 브랜드 론칭 응원",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "자려고 누웠는데 양의지",
-      "state": "-",
-      "change": "2"
+      "keyword": "오태곤 9시의 남자",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "태풍 바비 15명 사망",
+      "keyword": "내란 강호필 구속영장",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "1232회 로또 1등 11명 당첨금 25억",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "양상국 자극이 필요해",
+      "rank": 9,
+      "keyword": "이도윤 2타점 적시타",
       "state": "-",
       "change": "2"
     },
     {
-      "rank": 9,
-      "keyword": "금값 꺾이자 중고 롤렉스 하락",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 10,
-      "keyword": "폭염에 곳곳 열대야주의보",
-      "state": "n",
-      "change": "0"
+      "keyword": "퍼포먼스하며 입장하는",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
