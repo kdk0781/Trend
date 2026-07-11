@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-07-11T17:17:02.805Z",
+  "updatedAt": "2026-07-11T18:09:58.539Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "린다 노스코바",
-      "traffic": "200+"
+      "keyword": "norway vs england",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "norway vs england",
-      "traffic": "100+"
+      "keyword": "카롤리나 무초바",
+      "traffic": "500+"
     },
     {
       "rank": 3,
@@ -19,7 +19,7 @@
     {
       "rank": 4,
       "keyword": "황인범",
-      "traffic": "200+"
+      "traffic": "500+"
     },
     {
       "rank": 5,
@@ -55,63 +55,63 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 남편 내조와 걸크러시",
-      "state": "+",
-      "change": "5"
+      "keyword": "미스터 올스타 허인서 축하해!",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "미스터 올스타 허인서 생일 축하",
+      "keyword": "이재명 대통령 귀국",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "이재명 대통령 귀국",
+      "keyword": "남편 이동하 김부장 내조 중",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "리센느, 호화 숙소 입성 꽃길!",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "김고은·공유, 도깨비 첫 키스신",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "강호필 내란 가담 영장 심사",
+      "keyword": "강호필 구속영장 심사",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "1232회 로또 1등 11명 각 25억",
+      "rank": 5,
+      "keyword": "1232회 로또 1등 11명 25억",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 8,
+      "rank": 6,
+      "keyword": "김고은 도깨비 촬영 비하인드",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
       "keyword": "장윤기 수사 의혹",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "유해란, 에비앙 3라운드 선두",
+      "rank": 8,
+      "keyword": "유병재 안유정 브랜드 론칭",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "이란 최고지도자 복수 실행",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 10,
-      "keyword": "결혼의 완성",
-      "state": "-",
-      "change": "3"
+      "keyword": "살해 심신미약 주장",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
