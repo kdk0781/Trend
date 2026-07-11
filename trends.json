@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-11T04:22:00.180Z",
+  "updatedAt": "2026-07-11T06:32:05.490Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "축구 감독",
-      "traffic": "10000+"
+      "keyword": "중동전쟁",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "코스트코",
+      "keyword": "현빈",
       "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "초복",
+      "keyword": "손주영",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "excessive heat warning",
-      "traffic": "200+"
+      "keyword": "오픈ai",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "강민호",
-      "traffic": "500+"
+      "keyword": "동탄",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "아틀레티코 마드리드",
-      "traffic": "500+"
+      "keyword": "경찰차",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "페덱",
+      "keyword": "메가박스",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "캐디",
+      "keyword": "유현조",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "형사",
-      "traffic": "1000+"
+      "keyword": "에데르송",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "폭염 경보",
-      "traffic": "1000+"
+      "keyword": "복날",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 20% 돌파 계속",
+      "keyword": "김부장 놓친 MBC 편성 문제",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "조수미 콩쿠르 3위 파울라",
+      "keyword": "스튜디오 지브리전 제주 개막",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "잠실야구장에서 마지막 올스타전",
+      "keyword": "키키, 8월 컴백 확정!",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "연준, 66만 장 판매 커리어 하이",
-      "state": "+",
-      "change": "1"
+      "keyword": "마지막 올스타전을 앞둔 잠실야구장",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "청주 침수 현장 방문한 한성숙 총리",
-      "state": "s",
+      "keyword": "공무원 교사 노동자대회",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "몽골 나담축제 개막",
-      "state": "+",
+      "keyword": "암살 시도 시 철저히 파괴",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "장윤기 수사 압수수색",
-      "state": "-",
-      "change": "4"
+      "keyword": "이재명 몽골 활쏘기",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "서소문고가 차량통행 재개",
+      "keyword": "장윤기 사건 수사단 확대",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "리센느 원이 무섭노 방언 논란",
+      "keyword": "맥그리거 계체 통과",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "협박 콜롬비아 전",
+      "keyword": "27기 광수 결혼 예비신부 공개",
       "state": "n",
       "change": "0"
     }
