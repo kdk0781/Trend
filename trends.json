@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-11T01:03:09.013Z",
+  "updatedAt": "2026-07-11T04:22:00.180Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "남승민",
-      "traffic": "100+"
+      "keyword": "축구 감독",
+      "traffic": "10000+"
     },
     {
       "rank": 2,
-      "keyword": "허웅",
-      "traffic": "100+"
+      "keyword": "코스트코",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "여객기",
+      "keyword": "초복",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "모아나",
-      "traffic": "100+"
+      "keyword": "excessive heat warning",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "lpga",
-      "traffic": "1000+"
+      "keyword": "강민호",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "현대 그랜저",
-      "traffic": "1000+"
+      "keyword": "아틀레티코 마드리드",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "노르웨이 축구 국가대표팀",
-      "traffic": "1000+"
+      "keyword": "페덱",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "하트시그널",
+      "keyword": "캐디",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "순천시장",
-      "traffic": "200+"
+      "keyword": "형사",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "암호화폐",
-      "traffic": "200+"
+      "keyword": "폭염 경보",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "스페인, 벨기에 꺾고 프랑스와 4강전",
-      "state": "+",
-      "change": "1"
+      "keyword": "김부장 20% 돌파 계속",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "SK하이닉스 첫날 13% 급등",
-      "state": "-",
-      "change": "1"
+      "keyword": "조수미 콩쿠르 3위 파울라",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "스포티파이 16주 톱5",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "오타니 선발 불참",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "박태성 총리 방중 및 만남",
-      "state": "-",
+      "keyword": "잠실야구장에서 마지막 올스타전",
+      "state": "+",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "김부장 20% 지속",
+      "rank": 4,
+      "keyword": "연준, 66만 장 판매 커리어 하이",
       "state": "+",
-      "change": "2"
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "청주 침수 현장 방문한 한성숙 총리",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "몽골 나담축제 개막",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "리센느 화장실 3개 숙소 공개",
+      "keyword": "장윤기 수사 압수수색",
       "state": "-",
       "change": "4"
     },
     {
       "rank": 8,
-      "keyword": "이효리, 휘성 노래에 눈물",
+      "keyword": "서소문고가 차량통행 재개",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "혼자 다쳤다 형 유죄",
+      "keyword": "리센느 원이 무섭노 방언 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "유해란, 에비앙 2R 공동 3위",
+      "keyword": "협박 콜롬비아 전",
       "state": "n",
       "change": "0"
     }
