@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-07-11T21:11:43.333Z",
+  "updatedAt": "2026-07-11T22:09:23.237Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "가짜뉴스",
-      "traffic": "200+"
+      "keyword": "하윤경",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "노르웨이 대 잉글랜드",
-      "traffic": "10000+"
+      "keyword": "벨링엄",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "집",
-      "traffic": "500+"
+      "keyword": "นอร์เวย์ พบ อังกฤษ",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "세균",
-      "traffic": "500+"
+      "keyword": "이란",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "england vs norway",
+      "keyword": "kbs",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "ufc",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "louis phạm",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "남아프리카 공화국 축구 국가대표팀",
+      "keyword": "치지직",
       "traffic": "5000+"
     },
     {
-      "rank": 9,
-      "keyword": "이승기",
+      "rank": 7,
+      "keyword": "na uy đấu với anh",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "월드컵 중계",
       "traffic": "500+"
     },
     {
+      "rank": 9,
+      "keyword": "헐크",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "norway vs england",
-      "traffic": "1000+"
+      "keyword": "투자",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "미스터 올스타 허인서 생일 축하",
-      "state": "s",
-      "change": "0"
+      "keyword": "이재명 대통령 귀국",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "이재명 대통령 귀국",
-      "state": "s",
-      "change": "0"
+      "keyword": "마지막 올스타전 허인서",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
       "keyword": "결혼의 완성",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김성겸, 도깨비로 등장",
+      "keyword": "리센느, 광고 문의 100건 이사에 울컥",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "리센느 인기 어마어마하네",
-      "state": "-",
-      "change": "2"
+      "keyword": "김고은 탈모 고백 후 김성겸 등장",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "박서진 父 난청 위험",
-      "state": "-",
+      "keyword": "태풍 바비 中 접근 사망 39명",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "태풍 바비 사망 39명 대피 200만명",
-      "state": "+",
-      "change": "8"
-    },
-    {
-      "rank": 9,
-      "keyword": "면접 본 74세 부족하면",
+      "keyword": "아이유, 이종석 결별 재조명",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "이란 오만 호르무즈 논의",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "주우재 100만원 FLEX",
+      "keyword": "민니, 태국 대저택에서 한국으로",
       "state": "n",
       "change": "0"
     }
