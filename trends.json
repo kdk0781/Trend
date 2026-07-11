@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-07-11T15:17:26.517Z",
+  "updatedAt": "2026-07-11T16:11:52.153Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "jayden adams",
-      "traffic": "100+"
+      "keyword": "황인범",
+      "traffic": "200+"
     },
     {
       "rank": 2,
+      "keyword": "김이서",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "jayden adams",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
       "keyword": "아파트 드라마",
       "traffic": "500+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "김지영",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "지상작전사령부",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "배지현",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "혜은이",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "특임국",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "결혼의 완성",
       "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "실시간tv",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "정준재",
-      "traffic": "100+"
     }
   ],
   "domestic": [
@@ -61,56 +61,56 @@
     },
     {
       "rank": 2,
-      "keyword": "미스터 올스타 허인서 수상",
+      "keyword": "잠실 마지막 올스타전",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "몽골 순방 후 귀국",
-      "state": "+",
-      "change": "1"
+      "keyword": "이재명 대통령 귀국",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "결혼의 완성",
-      "state": "-",
-      "change": "1"
+      "keyword": "리센느 미모와 음식 리뷰",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "그것이 알고 싶다",
-      "state": "s",
-      "change": "0"
+      "keyword": "장윤기 사건 수사 개입",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "육군이 사단장 송치",
-      "state": "s",
-      "change": "0"
+      "keyword": "강호필 내란가담 영장 심사",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "콜롬비아 축구 비극 잊었나?",
-      "state": "n",
-      "change": "0"
+      "keyword": "김성겸 도깨비 10주년 영상편지",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "김고은 도깨비 촬영 중 얼어 죽을 뻔",
-      "state": "+",
-      "change": "2"
+      "keyword": "결혼의 완성",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "장윤기 부친 짐 정리",
-      "state": "n",
+      "keyword": "유병재 안유정 브랜드 론칭",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "남승민, 성형 악플 해명",
-      "state": "n",
+      "keyword": "1232회 로또 1등 11명 각 25억",
+      "state": "s",
       "change": "0"
     }
   ]
