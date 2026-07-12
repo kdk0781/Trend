@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-12T00:06:14.310Z",
+  "updatedAt": "2026-07-12T03:49:54.645Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "항소",
-      "traffic": "100+"
+      "keyword": "메가프로젝트",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "경제",
-      "traffic": "5000+"
+      "keyword": "breel embolo",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "일본 오픈",
+      "keyword": "아르헨티나 경기",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "베컴",
+      "keyword": "디마리아",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "제니",
-      "traffic": "200+"
+      "keyword": "аргентина – швейцария",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "이찬원",
+      "keyword": "อาร์เจนตินา พบ สวิตเซอร์แลนด์",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "엘리엇 앤더슨",
+      "keyword": "마라도나",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "카카",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "음식",
+      "keyword": "2026",
       "traffic": "2000+"
     },
     {
-      "rank": 10,
-      "keyword": "방탄소년단",
+      "rank": 9,
+      "keyword": "용인반도체클러스터",
       "traffic": "500+"
+    },
+    {
+      "rank": 10,
+      "keyword": "ufc 중계",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "소지섭 김부장 비하인드 공개",
+      "keyword": "안철수 한동훈 복당 반대",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이란 혁명수비대 호르무즈 폐쇄",
+      "keyword": "메시, 아르헨 승리 가능성",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "벨링엄 멀티골로 잉글랜드 4강 진출",
-      "state": "+",
-      "change": "7"
-    },
-    {
-      "rank": 4,
-      "keyword": "리센느 광고 문의 100건",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "결혼의 완성",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "2026 롯데 아쿠아슬론 참가자들",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "태풍 바비, 39명 사망",
+      "keyword": "세광고 김동유 투구 활약",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "포항·경산 폭염경보 발령",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "방은희 母 유품 발견",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "결혼의 완성",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "조국, 리센느 겨냥 안 해",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "김성겸 영상편지에 눈물 펑펑",
+      "keyword": "이란, 미국 공격 개시",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "고우석 ML 첫 홀드 감격",
+      "keyword": "리센느 버클리 출신",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "최강희 역할의 좁아져",
+      "keyword": "부동산 토론회 개최",
       "state": "n",
       "change": "0"
     }
