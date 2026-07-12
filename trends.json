@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-12T16:13:24.930Z",
+  "updatedAt": "2026-07-12T17:19:23.344Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "wec",
-      "traffic": "100+"
+      "keyword": "댐",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "심하은",
-      "traffic": "500+"
+      "keyword": "야닉 시너",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
+      "keyword": "wec",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "심하은",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
       "keyword": "송종호",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "졸음 운전",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "철도",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "서남용",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "항서제약",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "k리그1 순위",
       "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "ㅡ냐",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "msi",
-      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "장가 안 간 송종호 51세",
-      "state": "s",
-      "change": "0"
+      "keyword": "서울 전역 열대야주의보",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "부산 방문한 장동혁",
-      "state": "s",
-      "change": "0"
+      "keyword": "장가 안 간 송종호 한심해",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "유해란, 에비앙 우승!",
-      "state": "s",
-      "change": "0"
+      "keyword": "결혼의 완성",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "의정부고 졸업사진 모음",
-      "state": "s",
-      "change": "0"
+      "keyword": "브라이언 300평 집 제로 청소",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "민주당 당권 주자들 모임",
-      "state": "+",
+      "keyword": "의정부고 졸업사진",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "브라이언 300평 집 공개",
-      "state": "+",
+      "keyword": "고지우 하이원리조트 우승",
+      "state": "-",
       "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "서울-강원 0-0 무승부",
-      "state": "s",
+      "keyword": "보완수사권 폐지 우려 확대",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "북측에 실종 병사 협조 요청",
-      "state": "-",
+      "keyword": "이란 최고지도자 중요",
+      "state": "+",
       "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "트럼프 측근 그레이엄 별세",
-      "state": "-",
+      "keyword": "카리나, 데뷔 전 해병대원 사이 유명",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "장윤기 사건 수사 의혹 확산",
+      "keyword": "8살 딸과 순찰차 충돌",
       "state": "n",
       "change": "0"
     }
