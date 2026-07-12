@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-12T21:12:26.777Z",
+  "updatedAt": "2026-07-12T22:08:43.175Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "파울루 벤투",
-      "traffic": "10000+"
+      "keyword": "일본",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "알렉산더 즈베레프",
-      "traffic": "500+"
+      "keyword": "đội tuyển bóng đá quốc gia argentina",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "리플",
-      "traffic": "500+"
+      "keyword": "결혼식",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "로스앤젤레스 다저스",
-      "traffic": "200+"
+      "keyword": "시청률",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "경마",
-      "traffic": "200+"
+      "keyword": "금",
+      "traffic": "10000+"
     },
     {
       "rank": 6,
-      "keyword": "윔블던 2026",
+      "keyword": "대한광통신",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "wimbledon 2026",
-      "traffic": "100+"
+      "keyword": "사랑을 처방해 드립니다",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "김성근",
-      "traffic": "100+"
+      "keyword": "파울루 벤투",
+      "traffic": "10000+"
     },
     {
       "rank": 9,
-      "keyword": "wimbledon",
-      "traffic": "200+"
+      "keyword": "수사",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "야닉 시너",
-      "traffic": "2000+"
+      "keyword": "롯데지주",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 대박 시청률 22.3%",
-      "state": "s",
+      "keyword": "트럼프 호르무즈 열려 이란",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "결혼의 완성",
-      "state": "+",
-      "change": "1"
+      "keyword": "유해란 메이저 2연승!",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이란 호르무즈 항행 보장",
-      "state": "+",
-      "change": "1"
+      "keyword": "결혼의 완성",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "유해란, 에비앙 챔피언십 연속 우승",
-      "state": "+",
-      "change": "3"
+      "keyword": "김부장 시청률 대박",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "유인나 이동욱 이혼한 부부 느낌",
+      "keyword": "태풍의 영향과 난민 발생",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "51세 송종호, 장가 안 가서 한심해",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 7,
-      "keyword": "브라이언 300평 하우스 공개",
+      "keyword": "박세미, 전남친 용서하고 재결합",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "보완수사권 폐지 우려 증대",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "태풍과 난민 문제",
-      "state": "s",
+      "keyword": "넉살 누나 폭행당한 노숙자",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "서울 강원 0-0 무승부",
+      "keyword": "이동욱 가방, 이혼한 부부 느낌",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "보완수사권 폐지 우려 커진다",
-      "state": "s",
+      "keyword": "2026년 7월 13일 운세",
+      "state": "n",
       "change": "0"
     }
   ]
