@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-12T20:23:24.253Z",
+  "updatedAt": "2026-07-12T21:12:26.777Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "윔블던 2026",
-      "traffic": "100+"
+      "keyword": "파울루 벤투",
+      "traffic": "10000+"
     },
     {
       "rank": 2,
-      "keyword": "wimbledon 2026",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "wimbledon",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "야닉 시너",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "댐",
+      "keyword": "알렉산더 즈베레프",
       "traffic": "500+"
     },
     {
+      "rank": 3,
+      "keyword": "리플",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "로스앤젤레스 다저스",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "경마",
+      "traffic": "200+"
+    },
+    {
       "rank": 6,
-      "keyword": "wec",
+      "keyword": "윔블던 2026",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "포포투",
-      "traffic": "1000+"
+      "keyword": "wimbledon 2026",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "심하은",
-      "traffic": "2000+"
+      "keyword": "김성근",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "송종호",
-      "traffic": "500+"
+      "keyword": "wimbledon",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "졸음 운전",
-      "traffic": "1000+"
+      "keyword": "야닉 시너",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "호르무즈 안전 보장",
+      "keyword": "김부장 대박 시청률 22.3%",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "서울-강원 0-0 무승부",
-      "state": "s",
-      "change": "0"
+      "keyword": "결혼의 완성",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "유인나 이동욱 이혼한 부부",
+      "keyword": "이란 호르무즈 항행 보장",
       "state": "+",
-      "change": "4"
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "유해란, 에비앙 2연승",
-      "state": "s",
-      "change": "0"
+      "keyword": "유해란, 에비앙 챔피언십 연속 우승",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "김부장 시청률 대박!",
+      "keyword": "유인나 이동욱 이혼한 부부 느낌",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "결혼의 완성",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "브라이언 300평 전원주택 공개",
+      "keyword": "51세 송종호, 장가 안 가서 한심해",
       "state": "-",
       "change": "4"
     },
     {
-      "rank": 8,
-      "keyword": "트럼프 측근 그레이엄 별세",
+      "rank": 7,
+      "keyword": "브라이언 300평 하우스 공개",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "태풍과 난민 문제",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "순찰차 충돌 응급입원",
-      "state": "-",
-      "change": "1"
+      "keyword": "서울 강원 0-0 무승부",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "카리나, 해병대원 사이 유명 인물",
-      "state": "n",
+      "keyword": "보완수사권 폐지 우려 커진다",
+      "state": "s",
       "change": "0"
     }
   ]
