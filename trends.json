@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-12T03:49:54.645Z",
+  "updatedAt": "2026-07-12T06:21:58.908Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "메가프로젝트",
+      "keyword": "달러",
       "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "breel embolo",
-      "traffic": "200+"
+      "keyword": "르브론 제임스",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "아르헨티나 경기",
-      "traffic": "200+"
+      "keyword": "조국 리센느",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "디마리아",
+      "keyword": "야마모토 요시노부",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "аргентина – швейцария",
-      "traffic": "500+"
+      "keyword": "김미수",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "อาร์เจนตินา พบ สวิตเซอร์แลนด์",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "마라도나",
+      "keyword": "피철인",
       "traffic": "200+"
     },
     {
+      "rank": 7,
+      "keyword": "송성문",
+      "traffic": "500+"
+    },
+    {
       "rank": 8,
-      "keyword": "2026",
-      "traffic": "2000+"
+      "keyword": "세광고",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "용인반도체클러스터",
+      "keyword": "경산시",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "ufc 중계",
+      "keyword": "구자욱",
       "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "안철수 한동훈 복당 반대",
-      "state": "s",
+      "keyword": "청룡기 우승 세광고",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "메시, 아르헨 승리 가능성",
-      "state": "s",
+      "keyword": "동해 해군 승조원 실종",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "세광고 김동유 투구 활약",
-      "state": "s",
-      "change": "0"
+      "keyword": "양준혁 박현선 극대노 이유는?",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "포항·경산 폭염경보 발령",
-      "state": "s",
-      "change": "0"
+      "keyword": "포항에 첫 폭염중대경보",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 5,
-      "keyword": "방은희 母 유품 발견",
+      "keyword": "아르헨티나, 스위스 꺾고 4강행",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "결혼의 완성",
-      "state": "s",
-      "change": "0"
+      "keyword": "아파트 드라마",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "조국, 리센느 겨냥 안 해",
-      "state": "n",
-      "change": "0"
+      "keyword": "맥그리거 할로웨이 대결",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "이란, 미국 공격 개시",
-      "state": "n",
-      "change": "0"
+      "keyword": "월드컵 중계 사고",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 9,
-      "keyword": "리센느 버클리 출신",
-      "state": "n",
-      "change": "0"
+      "keyword": "리센느 논란 야호 태세전환?",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "부동산 토론회 개최",
+      "keyword": "가계대출 80% 소진",
       "state": "n",
       "change": "0"
     }
