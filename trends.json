@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-12T11:32:23.365Z",
+  "updatedAt": "2026-07-12T12:32:00.106Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "캐시워크 정답",
+      "keyword": "임이자",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "지예은",
-      "traffic": "100+"
+      "keyword": "충남 아산 fc 대 경남",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "홈플러스 성서점",
+      "keyword": "테더",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "혜은이",
+      "keyword": "편의점",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "소비",
-      "traffic": "200+"
+      "keyword": "이기택",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "fc 서울 대 강원",
-      "traffic": "5000+"
+      "keyword": "찰리 반즈",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "제주 대 대전",
-      "traffic": "2000+"
+      "keyword": "최우수산",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "초복",
+      "keyword": "캐시워크 정답",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "태풍 바비 경로",
-      "traffic": "2000+"
+      "keyword": "지예은",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "소이현",
-      "traffic": "200+"
+      "keyword": "홈플러스 성서점",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장, OTT 사기",
+      "keyword": "의정부고 졸업사진",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "첫 홀 버디 성공",
-      "state": "+",
-      "change": "4"
+      "keyword": "서울 전역 열대야주의보",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "통일부 북 협조 요청",
-      "state": "n",
-      "change": "0"
+      "keyword": "정경호 감독, 목표 하나씩 달성중",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
       "keyword": "결혼의 완성",
-      "state": "s",
-      "change": "0"
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "리센느 관련 논란",
-      "state": "s",
-      "change": "0"
+      "keyword": "부산 방문한 장동혁 대표",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "포레스텔라",
-      "state": "+",
+      "keyword": "리센느 관련 유감 표명",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "의정부고등학교 졸업사진",
-      "state": "n",
-      "change": "0"
+      "keyword": "아파트 드라마",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "배다해 100세 합가 소식",
+      "keyword": "아들 잘못 낳은 죄 용서",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "상장폐지 어림없다!",
-      "state": "n",
-      "change": "0"
+      "keyword": "박승원 민주당 최고위원 출마",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "장례 후 이란 대담해짐",
+      "keyword": "선관위, 예결산 없이 사용",
       "state": "n",
       "change": "0"
     }
