@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-11T23:07:30.868Z",
+  "updatedAt": "2026-07-12T00:06:14.310Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "사건",
-      "traffic": "2000+"
+      "keyword": "항소",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "норвегия – англия",
-      "traffic": "200+"
+      "keyword": "경제",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "고우석",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "주드 벨링엄",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "김도영",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "앤서니 고든",
+      "keyword": "일본 오픈",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "베컴",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "제니",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "이찬원",
+      "traffic": "500+"
+    },
+    {
       "rank": 7,
-      "keyword": "노르웨이 월드컵",
+      "keyword": "엘리엇 앤더슨",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "잉글랜드 축구 국가대표팀",
-      "traffic": "200+"
+      "keyword": "카카",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "시청률",
+      "keyword": "음식",
       "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "홀란드",
-      "traffic": "1000+"
+      "keyword": "방탄소년단",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 큰일났다 1위 시청률",
+      "keyword": "소지섭 김부장 비하인드 공개",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이란 오만 호르무즈 논의",
+      "keyword": "이란 혁명수비대 호르무즈 폐쇄",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "마지막 잠실구장 올스타전",
-      "state": "s",
-      "change": "0"
+      "keyword": "벨링엄 멀티골로 잉글랜드 4강 진출",
+      "state": "+",
+      "change": "7"
     },
     {
       "rank": 4,
-      "keyword": "리센느 67평 호화숙소 입성",
-      "state": "n",
-      "change": "0"
+      "keyword": "리센느 광고 문의 100건",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
       "keyword": "결혼의 완성",
-      "state": "s",
-      "change": "0"
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "2026년 7월 12일 운세",
-      "state": "+",
-      "change": "4"
+      "keyword": "2026 롯데 아쿠아슬론 참가자들",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "태풍 바비 사망 39명 대피 200만명",
+      "keyword": "태풍 바비, 39명 사망",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "노르웨이 잉글랜드 1-1 균형",
+      "keyword": "김성겸 영상편지에 눈물 펑펑",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김성겸 영상편지에 김고은 눈물",
-      "state": "-",
-      "change": "1"
+      "keyword": "고우석 ML 첫 홀드 감격",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "급변풍 인천공항 불만",
+      "keyword": "최강희 역할의 좁아져",
       "state": "n",
       "change": "0"
     }
