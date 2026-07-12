@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-12T10:11:45.905Z",
+  "updatedAt": "2026-07-12T11:32:23.365Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "소이현",
-      "traffic": "200+"
+      "keyword": "캐시워크 정답",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "수도권 광역급행철도",
-      "traffic": "500+"
+      "keyword": "지예은",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "이석연",
-      "traffic": "1000+"
+      "keyword": "홈플러스 성서점",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "더불어민주당",
+      "keyword": "혜은이",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "에코프로 비엠",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "ewc",
+      "keyword": "소비",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "fc 서울 대 강원",
+      "traffic": "5000+"
+    },
+    {
       "rank": 7,
-      "keyword": "축구 감독",
+      "keyword": "제주 대 대전",
       "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "유병재",
+      "keyword": "초복",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "롯데그룹",
-      "traffic": "500+"
+      "keyword": "태풍 바비 경로",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "통화 스와프",
+      "keyword": "소이현",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 보려다 사기 피해 발생",
+      "keyword": "김부장, OTT 사기",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "고지우 하이원리조트 우승",
-      "state": "s",
-      "change": "0"
+      "keyword": "첫 홀 버디 성공",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 3,
-      "keyword": "부산 찾은 장동혁",
+      "keyword": "통일부 북 협조 요청",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "민주당 당권 주자들 한자리 모임",
+      "keyword": "결혼의 완성",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "첫 홀 버디 성공",
+      "keyword": "리센느 관련 논란",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "포레스텔라",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "폭염에 온열환자 99명",
+      "rank": 7,
+      "keyword": "의정부고등학교 졸업사진",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "트럼프 측근 그레이엄 별세",
-      "state": "-",
-      "change": "2"
-    },
-    {
       "rank": 8,
-      "keyword": "박준형 부정맥 진단",
+      "keyword": "배다해 100세 합가 소식",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "“택배기사 산재 3배 증가”",
+      "keyword": "상장폐지 어림없다!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "투헬 어쩌라고 불화설",
+      "keyword": "장례 후 이란 대담해짐",
       "state": "n",
       "change": "0"
     }
