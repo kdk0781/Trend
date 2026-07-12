@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-12T12:32:00.106Z",
+  "updatedAt": "2026-07-12T14:09:24.747Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "임이자",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "충남 아산 fc 대 경남",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "테더",
+      "keyword": "졸음 운전",
       "traffic": "500+"
     },
     {
-      "rank": 4,
-      "keyword": "편의점",
+      "rank": 2,
+      "keyword": "철도",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "서남용",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "항서제약",
+      "traffic": "500+"
+    },
+    {
       "rank": 5,
-      "keyword": "이기택",
+      "keyword": "k리그1 순위",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "찰리 반즈",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "최우수산",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "캐시워크 정답",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "지예은",
+      "keyword": "ㅡ냐",
       "traffic": "100+"
     },
     {
+      "rank": 7,
+      "keyword": "msi",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "이소라",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
+      "keyword": "lck",
+      "traffic": "500+"
+    },
+    {
       "rank": 10,
-      "keyword": "홈플러스 성서점",
+      "keyword": "캐디",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "의정부고 졸업사진",
+      "keyword": "의정부고 졸업사진 이야기",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
       "keyword": "서울 전역 열대야주의보",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "정경호 감독, 목표 하나씩 달성중",
+      "keyword": "결혼의 완성",
       "state": "+",
-      "change": "2"
+      "change": "20"
     },
     {
       "rank": 4,
-      "keyword": "결혼의 완성",
-      "state": "-",
-      "change": "1"
+      "keyword": "양준혁, 아내 몰래 포차 창업",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "부산 방문한 장동혁 대표",
+      "keyword": "브라이언, 2억 청소 단독주택 자랑",
       "state": "-",
-      "change": "3"
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "리센느 관련 유감 표명",
-      "state": "-",
-      "change": "1"
+      "keyword": "택배기사 산재 3배 증가",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "아파트 드라마",
-      "state": "-",
-      "change": "1"
+      "keyword": "계엄 불참 처방전 공개",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "아들 잘못 낳은 죄 용서",
+      "keyword": "열대야 한강 시민들",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "박승원 민주당 최고위원 출마",
-      "state": "-",
-      "change": "1"
+      "keyword": "손태영, 이서진 언급에 발끈",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "선관위, 예결산 없이 사용",
+      "keyword": "방시혁 성수동 목격담",
       "state": "n",
       "change": "0"
     }
