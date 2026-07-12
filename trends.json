@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-12T19:32:41.934Z",
+  "updatedAt": "2026-07-12T20:23:24.253Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "wimbledon",
+      "keyword": "윔블던 2026",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "야닉 시너",
-      "traffic": "1000+"
+      "keyword": "wimbledon 2026",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "댐",
+      "keyword": "wimbledon",
       "traffic": "200+"
     },
     {
       "rank": 4,
+      "keyword": "야닉 시너",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "댐",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
       "keyword": "wec",
       "traffic": "200+"
     },
     {
-      "rank": 5,
-      "keyword": "심하은",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "송종호",
-      "traffic": "500+"
-    },
-    {
       "rank": 7,
-      "keyword": "졸음 운전",
+      "keyword": "포포투",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "철도",
-      "traffic": "500+"
+      "keyword": "심하은",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "서남용",
-      "traffic": "200+"
+      "keyword": "송종호",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "항서제약",
+      "keyword": "졸음 운전",
       "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이란 호르무즈 보장",
+      "keyword": "호르무즈 안전 보장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "서울 강원 0-0 무승부",
-      "state": "n",
+      "keyword": "서울-강원 0-0 무승부",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "결혼의 완성",
-      "state": "-",
-      "change": "1"
+      "keyword": "유인나 이동욱 이혼한 부부",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 4,
-      "keyword": "김부장 대박 시청률 22.3%",
+      "keyword": "유해란, 에비앙 2연승",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "브라이언 300평 제로 집",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "유인나 이동욱 이혼 부부 느낌",
+      "keyword": "김부장 시청률 대박!",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "결혼의 완성",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "열대야 한강 시민들",
-      "state": "n",
-      "change": "0"
+      "keyword": "브라이언 300평 전원주택 공개",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 8,
-      "keyword": "순찰차 사고 여성 응급입원",
-      "state": "s",
+      "keyword": "트럼프 측근 그레이엄 별세",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "택배기사 산재 3배 증가",
-      "state": "n",
-      "change": "0"
+      "keyword": "순찰차 충돌 응급입원",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "잠 못 드는 열대야",
+      "keyword": "카리나, 해병대원 사이 유명 인물",
       "state": "n",
       "change": "0"
     }
