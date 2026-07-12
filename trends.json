@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-12T22:08:43.175Z",
+  "updatedAt": "2026-07-12T23:06:07.660Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "일본",
+      "keyword": "투자",
       "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "đội tuyển bóng đá quốc gia argentina",
-      "traffic": "2000+"
+      "keyword": "하비에르 아기레",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "결혼식",
-      "traffic": "2000+"
+      "keyword": "조상우",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "시청률",
-      "traffic": "2000+"
+      "keyword": "용연교",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "금",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "대한광통신",
+      "keyword": "최준희",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "삼성",
+      "traffic": "10000+"
+    },
+    {
       "rank": 7,
-      "keyword": "사랑을 처방해 드립니다",
+      "keyword": "영화",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "파울루 벤투",
-      "traffic": "10000+"
+      "keyword": "lng선",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "수사",
-      "traffic": "5000+"
+      "keyword": "이찬원",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "롯데지주",
-      "traffic": "100+"
+      "keyword": "일본",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 호르무즈 열려 이란",
+      "keyword": "미군 이란 공습 시작",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 2,
+      "keyword": "김주형 스코틀랜드 오픈 우승",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 2,
-      "keyword": "유해란 메이저 2연승!",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 3,
-      "keyword": "결혼의 완성",
-      "state": "s",
+      "keyword": "해군 실종 병사 시신 발견",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김부장 시청률 대박",
+      "keyword": "김부장 22.3% 대박!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "태풍의 영향과 난민 발생",
+      "keyword": "태풍과 난민, 폭스바겐 감원",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "박세미, 전남친 용서하고 재결합",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "보완수사권 폐지 우려 증대",
-      "state": "+",
+      "keyword": "결혼의 완성",
+      "state": "-",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "넉살 누나 폭행당한 노숙자",
+      "rank": 7,
+      "keyword": "FIFA는 징계 FIFA",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "이동욱, 공유 양말 내가 다 빨았다",
+      "state": "-",
+      "change": "4"
+    },
+    {
       "rank": 9,
-      "keyword": "이동욱 가방, 이혼한 부부 느낌",
+      "keyword": "방콕 술집 화재 27명 사망",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "2026년 7월 13일 운세",
-      "state": "n",
-      "change": "0"
+      "keyword": "보완수사권 폐지 우려 확산",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
