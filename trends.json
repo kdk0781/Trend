@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-12T14:09:24.747Z",
+  "updatedAt": "2026-07-12T15:12:56.089Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "졸음 운전",
+      "keyword": "심하은",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "철도",
+      "keyword": "송종호",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "서남용",
-      "traffic": "200+"
+      "keyword": "졸음 운전",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "항서제약",
+      "keyword": "철도",
       "traffic": "500+"
     },
     {
       "rank": 5,
+      "keyword": "서남용",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "항서제약",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
       "keyword": "k리그1 순위",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "ㅡ냐",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "msi",
       "traffic": "2000+"
     },
     {
-      "rank": 8,
-      "keyword": "이소라",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "lck",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "캐디",
+      "keyword": "이소라",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "의정부고 졸업사진 이야기",
+      "keyword": "다작배우 송종호, 고깃집 운영 중",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "서울 전역 열대야주의보",
+      "keyword": "의정부고 졸업사진 여러 인물",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "결혼의 완성",
+      "keyword": "유해란 에비앙 제패",
       "state": "+",
-      "change": "20"
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "양준혁, 아내 몰래 포차 창업",
-      "state": "n",
+      "keyword": "서울 전역 열대야주의보",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "브라이언, 2억 청소 단독주택 자랑",
+      "keyword": "결혼의 완성",
       "state": "-",
       "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "택배기사 산재 3배 증가",
+      "keyword": "호르무즈가 수십개 원자폭탄보다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "계엄 불참 처방전 공개",
+      "keyword": "택배기사 산재 3배 증가",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "열대야 한강 시민들",
-      "state": "n",
-      "change": "0"
+      "keyword": "브라이언 300평 하우스 공개",
+      "state": "-",
+      "change": "7"
     },
     {
       "rank": 9,
-      "keyword": "손태영, 이서진 언급에 발끈",
+      "keyword": "김민석, 계엄 불참 해명",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "방시혁 성수동 목격담",
+      "keyword": "오심 논란 케이블",
       "state": "n",
       "change": "0"
     }
