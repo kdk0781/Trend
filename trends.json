@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-13T10:00:53.017Z",
+  "updatedAt": "2026-07-13T12:38:57.097Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "안유진 청약",
+      "keyword": "투표용지",
       "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "양준혁",
-      "traffic": "1000+"
+      "keyword": "폴드 8",
+      "traffic": "10000+"
     },
     {
       "rank": 3,
-      "keyword": "사관학교",
+      "keyword": "샤헤드 드론",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "코레일톡",
-      "traffic": "200+"
+      "keyword": "한동훈",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "벌금",
+      "keyword": "석유",
       "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "민생지원금",
-      "traffic": "20000+"
+      "keyword": "보령머드축제",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "코스피",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "하이닉스 실적",
+      "keyword": "gpt-5.6",
       "traffic": "2000+"
     },
     {
+      "rank": 8,
+      "keyword": "토토",
+      "traffic": "1000+"
+    },
+    {
       "rank": 9,
-      "keyword": "000660",
+      "keyword": "코스피 폭락",
       "traffic": "10000+"
     },
     {
       "rank": 10,
-      "keyword": "장동민",
+      "keyword": "틸레만스",
       "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "윤석열 여론조사 징역 2년",
+      "keyword": "국힘 당원 가입 강요 이만희 기소",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "샤키라 월드컵 결승 앞 다이 다이 재점화",
+      "keyword": "박솔라, 가족관계증명서로 악녀 변신",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "폭염 점검 중인 한성숙 총리",
+      "keyword": "축구협회장 선거 기한 연장",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "박지성 위원장 미소짓다",
+      "keyword": "소지섭 제작사 판타지오",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "이상윤, 13년 만에 서울대 졸업",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "아이덴티티 잇츠낫오버 신인상",
+      "rank": 6,
+      "keyword": "샤키라 월드컵 결승 다이 다이 신드롬",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "결혼의 완성",
       "state": "-",
       "change": "2"
     },
     {
-      "rank": 6,
-      "keyword": "소지섭 김부장 제작사 판타지오",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "삼성전자 자사주 지급",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 8,
-      "keyword": "샘 닐 별세 78세",
-      "state": "n",
-      "change": "0"
+      "keyword": "하이닉스 주가 급락",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "농구대표팀 예선훈련 명단",
-      "state": "n",
-      "change": "0"
+      "keyword": "이재황 송종호 복귀 근황",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "대한항공 영업익 34% 감소",
+      "keyword": "밤 열대야를 이기는",
       "state": "n",
       "change": "0"
     }
