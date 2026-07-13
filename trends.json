@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-13T12:38:57.097Z",
+  "updatedAt": "2026-07-13T15:32:38.342Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "투표용지",
-      "traffic": "1000+"
+      "keyword": "2002년 fifa 월드컵",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "폴드 8",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "샤헤드 드론",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "한동훈",
+      "keyword": "미군",
       "traffic": "1000+"
     },
     {
+      "rank": 3,
+      "keyword": "skhy",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "아시아나항공",
+      "traffic": "500+"
+    },
+    {
       "rank": 5,
-      "keyword": "석유",
-      "traffic": "2000+"
+      "keyword": "건강",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "보령머드축제",
-      "traffic": "200+"
+      "keyword": "법관",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "gpt-5.6",
-      "traffic": "2000+"
+      "keyword": "안성재",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "토토",
+      "keyword": "강풍",
       "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "코스피 폭락",
-      "traffic": "10000+"
+      "keyword": "앤더스 톨허스트",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "틸레만스",
-      "traffic": "1000+"
+      "keyword": "김연아",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "국힘 당원 가입 강요 이만희 기소",
-      "state": "s",
-      "change": "0"
+      "keyword": "여론조사 징역 2년",
+      "state": "+",
+      "change": "40"
     },
     {
       "rank": 2,
-      "keyword": "박솔라, 가족관계증명서로 악녀 변신",
+      "keyword": "차정원과 정용화 친구",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "축구협회장 선거 기한 연장",
+      "keyword": "브리핑하는 박지성 공동위원장",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "소지섭 제작사 판타지오",
-      "state": "+",
-      "change": "2"
+      "keyword": "폭염 대응 점검",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이상윤, 13년 만에 서울대 졸업",
+      "keyword": "샘 닐 별세 78세",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "샤키라 월드컵 결승 다이 다이 신드롬",
+      "keyword": "트럼프 호르무즈 20% 비용",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "결혼의 완성",
-      "state": "-",
-      "change": "2"
+      "keyword": "대한항공 2분기 영업익 34%↓",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "하이닉스 주가 급락",
-      "state": "-",
-      "change": "1"
+      "keyword": "모두의 AI 무료 서비스",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이재황 송종호 복귀 근황",
+      "keyword": "국힘 이만희 기소",
       "state": "-",
-      "change": "1"
+      "change": "7"
     },
     {
       "rank": 10,
-      "keyword": "밤 열대야를 이기는",
-      "state": "n",
-      "change": "0"
+      "keyword": "내일도 출근",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
