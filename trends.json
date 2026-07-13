@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-13T06:46:11.152Z",
+  "updatedAt": "2026-07-13T10:00:53.017Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "tsmc 실적 발표",
-      "traffic": "100+"
+      "keyword": "안유진 청약",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "매매",
-      "traffic": "2000+"
+      "keyword": "양준혁",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "영장 집행",
-      "traffic": "1000+"
+      "keyword": "사관학교",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "티센크루프 마린 시스템",
-      "traffic": "5000+"
+      "keyword": "코레일톡",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "별자리",
-      "traffic": "1000+"
+      "keyword": "벌금",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "긴급 체포",
-      "traffic": "500+"
+      "keyword": "민생지원금",
+      "traffic": "20000+"
     },
     {
       "rank": 7,
-      "keyword": "조선의 사랑꾼",
-      "traffic": "5000+"
+      "keyword": "코스피",
+      "traffic": "20000+"
     },
     {
       "rank": 8,
-      "keyword": "new york times",
-      "traffic": "100+"
+      "keyword": "하이닉스 실적",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "소유권",
-      "traffic": "500+"
+      "keyword": "000660",
+      "traffic": "10000+"
     },
     {
       "rank": 10,
-      "keyword": "박지원",
-      "traffic": "5000+"
+      "keyword": "장동민",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 대통령 국가재정전략회의",
+      "keyword": "윤석열 여론조사 징역 2년",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "코스피 8% 급락, 서킷브레이커 발동",
-      "state": "s",
-      "change": "0"
+      "keyword": "샤키라 월드컵 결승 앞 다이 다이 재점화",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "정청래 연임 도전",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 4,
-      "keyword": "세븐틴 두 번째 재계약 완료",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "김부장 감사하고 싶어요!",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "추가세수 미래대응기금 신설",
+      "keyword": "폭염 점검 중인 한성숙 총리",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "법원, 윤석열 여론조사 영향력 행사",
+      "rank": 4,
+      "keyword": "박지성 위원장 미소짓다",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "아이덴티티 잇츠낫오버 신인상",
       "state": "-",
       "change": "2"
     },
     {
+      "rank": 6,
+      "keyword": "소지섭 김부장 제작사 판타지오",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "삼성전자 자사주 지급",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "정부, 부동산 본격화",
+      "keyword": "샘 닐 별세 78세",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김건희 19일 소환 조사",
-      "state": "+",
-      "change": "1"
+      "keyword": "농구대표팀 예선훈련 명단",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "결혼의 완성",
-      "state": "-",
-      "change": "3"
+      "keyword": "대한항공 영업익 34% 감소",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
