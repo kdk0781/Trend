@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-13T15:32:38.342Z",
+  "updatedAt": "2026-07-13T17:33:26.162Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "2002년 fifa 월드컵",
-      "traffic": "200+"
+      "keyword": "참교육",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "미군",
-      "traffic": "1000+"
+      "keyword": "기후",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "skhy",
-      "traffic": "10000+"
+      "keyword": "하나로마트",
+      "traffic": "200+"
     },
     {
       "rank": 4,
+      "keyword": "jtbc",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "2002년 fifa 월드컵",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "미군",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
       "keyword": "아시아나항공",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "건강",
       "traffic": "5000+"
     },
     {
-      "rank": 6,
-      "keyword": "법관",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "안성재",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "강풍",
-      "traffic": "1000+"
-    },
-    {
       "rank": 9,
-      "keyword": "앤더스 톨허스트",
+      "keyword": "법관",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "김연아",
+      "keyword": "안성재",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "여론조사 징역 2년",
-      "state": "+",
-      "change": "40"
+      "keyword": "트럼프 호르무즈 통행료 20%",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "차정원과 정용화 친구",
-      "state": "+",
-      "change": "2"
+      "keyword": "브리핑하는 박지성 공동위원장",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "브리핑하는 박지성 공동위원장",
-      "state": "n",
+      "keyword": "이만희 강요 기소",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "폭염 대응 점검",
+      "keyword": "블랙핑크 지수 호프 화이팅!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "샘 닐 별세 78세",
+      "keyword": "여론조사 유죄 징역 2년",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "트럼프 호르무즈 20% 비용",
+      "keyword": "인천 영종도 대규모 정전",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "보완수사권 제거 논의",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "축구협회장 선거 기한 연장",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "대한항공 2분기 영업익 34%↓",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "모두의 AI 무료 서비스",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 9,
-      "keyword": "국힘 이만희 기소",
-      "state": "-",
-      "change": "7"
+      "keyword": "강호필 구속영장 기각",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "내일도 출근",
-      "state": "-",
-      "change": "2"
+      "keyword": "유아인, 호프 시사회 참석",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
