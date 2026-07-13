@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-13T00:05:48.251Z",
+  "updatedAt": "2026-07-13T03:51:43.402Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "카카오",
-      "traffic": "1000+"
+      "keyword": "초과근무",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "제헌절 공휴일",
+      "keyword": "대한민국 해군",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "이정후",
-      "traffic": "2000+"
+      "keyword": "고영욱",
+      "traffic": "5000+"
     },
     {
       "rank": 4,
-      "keyword": "투자",
-      "traffic": "10000+"
+      "keyword": "fb",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "이동경",
-      "traffic": "100+"
+      "keyword": "사이드카",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "조상우",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "하비에르 아기레",
+      "keyword": "유언",
       "traffic": "2000+"
     },
     {
+      "rank": 7,
+      "keyword": "하영민",
+      "traffic": "1000+"
+    },
+    {
       "rank": 8,
-      "keyword": "조선일보",
-      "traffic": "200+"
+      "keyword": "삼성중공업 주가",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "최준희",
-      "traffic": "200+"
+      "keyword": "초복",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "용연교",
-      "traffic": "100+"
+      "keyword": "티웨이",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "해군 시신 발견 수습",
-      "state": "+",
-      "change": "2"
+      "keyword": "SK하이닉스 주가 하락",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김부장 침묵과 관전 포인트",
+      "keyword": "김영훈 고용노동부 장관",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 3,
-      "keyword": "인판티노 64개국 확대 논의",
+      "keyword": "엄정화의 액션 크루즈",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "모아나 박스오피스 1위 질주",
-      "state": "n",
-      "change": "0"
+      "keyword": "홈플러스 임시 휴업",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "이란에 추가 공습 개시",
-      "state": "-",
-      "change": "4"
+      "keyword": "하영민 8년 80억 비FA 계약",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "태풍 피해와 관련된 소식",
-      "state": "s",
+      "keyword": "이재명 재판취소 저지",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "리센느 도미노 모델 됐다!",
-      "state": "+",
-      "change": "1"
+      "keyword": "국민의힘 중진 간담회 참석",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "결혼의 완성",
+      "keyword": "장윤기 성범죄 목적 살인 인정",
+      "state": "-",
+      "change": "6"
+    },
+    {
+      "rank": 9,
+      "keyword": "김부장 묵언수행 13시간",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "김주형 제네시스 오픈 우승",
+      "rank": 10,
+      "keyword": "맷 데이먼 유퀴즈 출연 확정",
       "state": "n",
       "change": "0"
-    },
-    {
-      "rank": 10,
-      "keyword": "송종호, 생계 위해 고깃집 운영",
-      "state": "+",
-      "change": "11"
     }
   ]
 }
