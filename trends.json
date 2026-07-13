@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T17:33:26.162Z",
+  "updatedAt": "2026-07-13T19:01:00.134Z",
   "google": [
     {
       "rank": 1,
@@ -8,12 +8,12 @@
     },
     {
       "rank": 2,
-      "keyword": "기후",
+      "keyword": "하나로마트",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "하나로마트",
+      "keyword": "기후",
       "traffic": "200+"
     },
     {
@@ -33,85 +33,85 @@
     },
     {
       "rank": 7,
+      "keyword": "skhy stock",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "skhy",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
       "keyword": "아시아나항공",
       "traffic": "500+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "건강",
       "traffic": "5000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "법관",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "안성재",
-      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 호르무즈 통행료 20%",
+      "keyword": "트럼프 호르무즈 20% 부과",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "브리핑하는 박지성 공동위원장",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "이만희 강요 기소",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "블랙핑크 지수 호프 화이팅!",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "여론조사 유죄 징역 2년",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "인천 영종도 대규모 정전",
+      "keyword": "블랙핑크 지수 호프",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "보완수사권 제거 논의",
-      "state": "-",
+      "rank": 3,
+      "keyword": "축구협회장 선거 기한 연장",
+      "state": "+",
       "change": "1"
     },
     {
+      "rank": 4,
+      "keyword": "강호필 영장 기각",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "차정원, 하정우 언급에 부끄러운 반응",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "국힘 당원가입 강요 이만희 기소",
+      "state": "-",
+      "change": "4"
+    },
+    {
+      "rank": 7,
+      "keyword": "인천 영종도 정전",
+      "state": "+",
+      "change": "5"
+    },
+    {
       "rank": 8,
-      "keyword": "축구협회장 선거 기한 연장",
-      "state": "s",
-      "change": "0"
+      "keyword": "보완수사권 폐지 논의 중단",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "강호필 구속영장 기각",
-      "state": "s",
-      "change": "0"
+      "keyword": "박지성 청문회 불참 이유 없다",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "유아인, 호프 시사회 참석",
-      "state": "s",
-      "change": "0"
+      "keyword": "결혼의 완성",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
