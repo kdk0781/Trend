@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-12T23:06:07.660Z",
+  "updatedAt": "2026-07-13T00:05:48.251Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "투자",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "하비에르 아기레",
+      "keyword": "카카오",
       "traffic": "1000+"
     },
     {
-      "rank": 3,
-      "keyword": "조상우",
+      "rank": 2,
+      "keyword": "제헌절 공휴일",
       "traffic": "500+"
     },
     {
+      "rank": 3,
+      "keyword": "이정후",
+      "traffic": "2000+"
+    },
+    {
       "rank": 4,
-      "keyword": "용연교",
-      "traffic": "100+"
+      "keyword": "투자",
+      "traffic": "10000+"
     },
     {
       "rank": 5,
+      "keyword": "이동경",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "조상우",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "하비에르 아기레",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "조선일보",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
       "keyword": "최준희",
       "traffic": "200+"
     },
     {
-      "rank": 6,
-      "keyword": "삼성",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "영화",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "lng선",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "이찬원",
-      "traffic": "100+"
-    },
-    {
       "rank": 10,
-      "keyword": "일본",
-      "traffic": "5000+"
+      "keyword": "용연교",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "미군 이란 공습 시작",
+      "keyword": "해군 시신 발견 수습",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 2,
+      "keyword": "김부장 침묵과 관전 포인트",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 2,
-      "keyword": "김주형 스코틀랜드 오픈 우승",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 3,
-      "keyword": "해군 실종 병사 시신 발견",
+      "keyword": "인판티노 64개국 확대 논의",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김부장 22.3% 대박!",
-      "state": "s",
+      "keyword": "모아나 박스오피스 1위 질주",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "태풍과 난민, 폭스바겐 감원",
+      "keyword": "이란에 추가 공습 개시",
+      "state": "-",
+      "change": "4"
+    },
+    {
+      "rank": 6,
+      "keyword": "태풍 피해와 관련된 소식",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "리센느 도미노 모델 됐다!",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "결혼의 완성",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "FIFA는 징계 FIFA",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "이동욱, 공유 양말 내가 다 빨았다",
-      "state": "-",
-      "change": "4"
-    },
-    {
       "rank": 9,
-      "keyword": "방콕 술집 화재 27명 사망",
+      "keyword": "김주형 제네시스 오픈 우승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "보완수사권 폐지 우려 확산",
-      "state": "-",
-      "change": "3"
+      "keyword": "송종호, 생계 위해 고깃집 운영",
+      "state": "+",
+      "change": "11"
     }
   ]
 }
