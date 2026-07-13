@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-13T20:21:59.314Z",
+  "updatedAt": "2026-07-13T21:26:25.433Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "수성구",
-      "traffic": "100+"
+      "keyword": "서울경제",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "넷플릭스",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "무인 항공기",
+      "keyword": "이영자",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "배유나",
+      "traffic": "200+"
+    },
+    {
       "rank": 4,
-      "keyword": "참교육",
-      "traffic": "10000+"
+      "keyword": "พยากรณ์อากาศ",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "하나로마트",
+      "keyword": "스테이블코인",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "기후",
-      "traffic": "200+"
+      "keyword": "한화에어로스페이스",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "jtbc",
-      "traffic": "2000+"
+      "keyword": "오은영",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "2002년 fifa 월드컵",
-      "traffic": "500+"
+      "keyword": "스페인 프랑스",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "미군",
-      "traffic": "2000+"
+      "keyword": "수성구",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "skhy",
-      "traffic": "500+"
+      "keyword": "넷플릭스",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 호르무즈 해상봉쇄 재개 20% 징수",
+      "keyword": "트럼프 호르무즈 통행료 20% 지급",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "차정원, ♥하정우 언급에 부끄러워",
+      "keyword": "차정원, 하정우 언급에 부끄러움",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "강호필 영장 기각",
+      "keyword": "내란 가담 강호필 영장 기각",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이강인 메디컬 방문 확인!",
+      "keyword": "김나희, 남주혁 닮은 IT업계 신랑과 결혼",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "블랙핑크 지수의 사랑스러운 매력",
+      "keyword": "하이닉스 주가 하락 전망",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "영종도 정전",
-      "state": "s",
+      "keyword": "尹 유죄 김건희 무죄",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김나희 8월 결혼, 남주혁 닮은 예비신랑",
-      "state": "+",
-      "change": "2"
+      "keyword": "보완수사권 폐지 논의 필요",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "예멘 후티 사우디",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "보완수사권 폐지 의견 분분",
+      "keyword": "리센느의 진짜 서사",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 9,
+      "keyword": "주현영 탁재훈 힘들고 수치스러워",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "잉글랜드 아르헨 승패 예측",
+      "keyword": "폭염과 비 같은 날",
       "state": "n",
       "change": "0"
     }
