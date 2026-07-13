@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-13T19:01:00.134Z",
+  "updatedAt": "2026-07-13T20:21:59.314Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "참교육",
-      "traffic": "5000+"
+      "keyword": "수성구",
+      "traffic": "100+"
     },
     {
       "rank": 2,
+      "keyword": "넷플릭스",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "무인 항공기",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "참교육",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 5,
       "keyword": "하나로마트",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "keyword": "기후",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "keyword": "jtbc",
       "traffic": "2000+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "2002년 fifa 월드컵",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "미군",
       "traffic": "2000+"
     },
     {
-      "rank": 7,
-      "keyword": "skhy stock",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "skhy",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "아시아나항공",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "건강",
-      "traffic": "5000+"
+      "keyword": "skhy",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 호르무즈 20% 부과",
+      "keyword": "트럼프 호르무즈 해상봉쇄 재개 20% 징수",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "블랙핑크 지수 호프",
-      "state": "+",
-      "change": "1"
+      "keyword": "차정원, ♥하정우 언급에 부끄러워",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "축구협회장 선거 기한 연장",
-      "state": "+",
-      "change": "1"
+      "keyword": "강호필 영장 기각",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "강호필 영장 기각",
-      "state": "+",
-      "change": "1"
+      "keyword": "이강인 메디컬 방문 확인!",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "차정원, 하정우 언급에 부끄러운 반응",
-      "state": "+",
-      "change": "1"
+      "keyword": "블랙핑크 지수의 사랑스러운 매력",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "국힘 당원가입 강요 이만희 기소",
-      "state": "-",
-      "change": "4"
+      "keyword": "영종도 정전",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "인천 영종도 정전",
+      "keyword": "김나희 8월 결혼, 남주혁 닮은 예비신랑",
       "state": "+",
-      "change": "5"
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "보완수사권 폐지 논의 중단",
-      "state": "+",
-      "change": "3"
+      "keyword": "예멘 후티 사우디",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "박지성 청문회 불참 이유 없다",
+      "keyword": "보완수사권 폐지 의견 분분",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "결혼의 완성",
-      "state": "-",
-      "change": "2"
+      "keyword": "잉글랜드 아르헨 승패 예측",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
