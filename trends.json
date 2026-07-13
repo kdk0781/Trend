@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-13T21:26:25.433Z",
+  "updatedAt": "2026-07-13T22:25:20.193Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "서울경제",
-      "traffic": "1000+"
+      "keyword": "박세리",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "이영자",
+      "keyword": "조선일보",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "배유나",
-      "traffic": "200+"
+      "keyword": "로스앤젤레스 다저스",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "พยากรณ์อากาศ",
-      "traffic": "100+"
+      "keyword": "방탄소년단",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "스테이블코인",
-      "traffic": "200+"
+      "keyword": "마이클 올리세",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "한화에어로스페이스",
+      "keyword": "루원시티",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "오은영",
+      "keyword": "신진서",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "스페인 프랑스",
-      "traffic": "100+"
+      "keyword": "홍지윤",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "수성구",
-      "traffic": "500+"
+      "keyword": "날씨예보",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "넷플릭스",
-      "traffic": "5000+"
+      "keyword": "화재",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 호르무즈 통행료 20% 지급",
+      "keyword": "트럼프 호르무즈 통행료 20% 징수",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "차정원, 하정우 언급에 부끄러움",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "내란 가담 강호필 영장 기각",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "김나희, 남주혁 닮은 IT업계 신랑과 결혼",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "하이닉스 주가 하락 전망",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "尹 유죄 김건희 무죄",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "보완수사권 폐지 논의 필요",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "리센느의 진짜 서사",
+      "keyword": "강호필 영장 기각",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "주현영 탁재훈 힘들고 수치스러워",
+      "rank": 3,
+      "keyword": "차정원과 하정우의 부끄러운 열애",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "폭염과 비 같은 날",
+      "rank": 4,
+      "keyword": "주현영 탁재훈 때문에 힘들다.",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 5,
+      "keyword": "하이닉스 주가 하락",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "보완수사권 폐지 반대 의견",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "리센느 숙소 월세 나왔다",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 8,
+      "keyword": "태풍 비구름 온다",
       "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "호프 VIP 시사회 화제",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 10,
+      "keyword": "당원가입 신천지 기소",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
