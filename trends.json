@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-14T21:39:25.313Z",
+  "updatedAt": "2026-07-14T22:37:27.515Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "티모시 샬라메",
-      "traffic": "500+"
+      "keyword": "상륙 작전",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "최항",
+      "keyword": "세종특별자치시",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "이자",
+      "keyword": "쿠바르시",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "페란 토레스",
-      "traffic": "200+"
+      "keyword": "정년",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "lịch world cup 2026",
-      "traffic": "100+"
+      "keyword": "수소충전소",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "천궁",
+      "keyword": "종합 부동산 세",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "3기 신도시",
-      "traffic": "200+"
+      "keyword": "schd",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "대한민국의 국방부 장관",
-      "traffic": "200+"
+      "keyword": "테슬라 모델 3",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "규제",
-      "traffic": "100+"
+      "keyword": "mu",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "чемпионат мира по футболу fifa 2026™",
-      "traffic": "100+"
+      "keyword": "나스닥 지수",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "내년 최저임금 1만700원",
+      "keyword": "내년 최저임금 1만700원 확정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "트럼프, 통행료 20% 번복",
-      "state": "s",
+      "keyword": "스페인, 프랑스 2-0 결승 진출",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "신지 KT 시구 취소",
+      "keyword": "트럼프, 호르무즈 통행료 철회",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "스페인 1-0 앞서",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "비 오는 초복, 최고 37도 무더위",
+      "keyword": "민경욱, 부정선거 강연 중 쓰러져",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 5,
+      "keyword": "송진우 아내와 한일전",
+      "state": "-",
+      "change": "3"
+    },
+    {
       "rank": 6,
-      "keyword": "연준, 높은 인플레 용납 안 해",
+      "keyword": "초복 오후 비 그치면 더위",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "하트 시그널 5",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "송진우 일본인 아내와 한일전",
+      "rank": 8,
+      "keyword": "리센느 첫 음방 1위 축하합니다!",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "내일도 출근",
       "state": "-",
       "change": "2"
     },
     {
-      "rank": 9,
-      "keyword": "與 보완수사 폐지 신중론",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 10,
-      "keyword": "한국 축구 소식 푸짐해!",
-      "state": "-",
-      "change": "1"
+      "keyword": "연준 의장 높은 인플레 용납 안 해",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
