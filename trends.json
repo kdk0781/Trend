@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-14T15:57:26.741Z",
+  "updatedAt": "2026-07-14T17:12:50.718Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "최저시급",
-      "traffic": "2000+"
+      "keyword": "도림천",
+      "traffic": "500+"
     },
     {
       "rank": 2,
+      "keyword": "긴급 체포",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "모태솔로지만 연애는 하고싶어 시즌2",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
       "keyword": "디발라",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "고우림",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "유아인",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "바가지요금",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "하트시그널",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "이성민",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "민경욱",
       "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "ibm 주가",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "야구 선수",
-      "traffic": "20000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "내년 최저임금 1만700원 인상",
+      "keyword": "내년 최저임금 1만700원",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "관저 감사 유병호 구속영장",
-      "state": "s",
+      "keyword": "배재고 야구부 징계 재심 20일 개최",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "신지, KT 시구 거절 논란",
+      "keyword": "신지, KT 시구 취소",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "배재고 징계 재심의 20일 개최",
+      "keyword": "美 6월 물가 둔화 3.5%",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "무역협회 80주년 기념식",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "이 대통령 분당 아파트 매각 완료",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "삼성전자 ADR 상장 검토 안 함",
+      "keyword": "이재명 대통령 앤",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "이재명 앤 공주 접견",
-      "state": "n",
+      "rank": 6,
+      "keyword": "트럼프 통행료 철회 투자로 대체",
+      "state": "s",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "美 6월 물가 둔화 유가 영향",
+      "rank": 7,
+      "keyword": "구속영장 청구",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 8,
+      "keyword": "지효, JYP 재계약 논의 중",
+      "state": "+",
+      "change": "18"
+    },
+    {
+      "rank": 9,
+      "keyword": "단일종목 ETF 규제 강화",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "단일종목 레버리지 예탁금 인상",
+      "keyword": "삼성전자 ADR 상장 검토 안 해",
       "state": "-",
-      "change": "1"
+      "change": "3"
     }
   ]
 }
