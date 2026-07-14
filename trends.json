@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-14T14:28:54.641Z",
+  "updatedAt": "2026-07-14T15:57:26.741Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "바가지요금",
-      "traffic": "100+"
+      "keyword": "최저시급",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "하트시그널",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "이성민",
+      "keyword": "디발라",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "고우림",
+      "traffic": "500+"
+    },
+    {
       "rank": 4,
-      "keyword": "민경욱",
+      "keyword": "유아인",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "ibm 주가",
-      "traffic": "200+"
+      "keyword": "바가지요금",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "cuaca besok",
+      "keyword": "하트시그널",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "cpi 발표",
-      "traffic": "1000+"
+      "keyword": "이성민",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "백운광장",
+      "keyword": "민경욱",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "김승혜",
-      "traffic": "2000+"
+      "keyword": "ibm 주가",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "캄 렐리 주맙",
-      "traffic": "500+"
+      "keyword": "야구 선수",
+      "traffic": "20000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "홍명보 선임 수사 착수",
-      "state": "n",
+      "keyword": "내년 최저임금 1만700원 인상",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "내년 최저임금 공익위원 제안",
-      "state": "-",
-      "change": "1"
+      "keyword": "관저 감사 유병호 구속영장",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "유죄 판결 특검 선고 미뤄달라",
-      "state": "n",
+      "keyword": "신지, KT 시구 거절 논란",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "예원, 술 문제로 결별했다",
-      "state": "+",
-      "change": "4"
+      "keyword": "배재고 징계 재심의 20일 개최",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "리센느 원, 눈물의 기쁨",
+      "keyword": "무역협회 80주년 기념식",
       "state": "+",
-      "change": "7"
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "충돌 오심 아니다",
-      "state": "+",
-      "change": "16"
+      "keyword": "이 대통령 분당 아파트 매각 완료",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "국민소득 5만불 원년 달성",
-      "state": "n",
+      "keyword": "삼성전자 ADR 상장 검토 안 함",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "기장 살해 김동환 공사 범죄 정당화",
+      "keyword": "이재명 앤 공주 접견",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "무면허 20대 바꿔치기",
-      "state": "n",
-      "change": "0"
+      "keyword": "美 6월 물가 둔화 유가 영향",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "주식 유튜버 흉기 사건",
-      "state": "n",
-      "change": "0"
+      "keyword": "단일종목 레버리지 예탁금 인상",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
