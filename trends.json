@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-07-14T19:46:21.813Z",
+  "updatedAt": "2026-07-14T20:44:19.525Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "sk그룹",
-      "traffic": "2000+"
+      "keyword": "우나이 시몬",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "숲",
+      "keyword": "ฝรั่งเศส พบ สเปน",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "france vs spain",
-      "traffic": "500+"
+      "keyword": "франция – испания",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "스마트폰",
-      "traffic": "2000+"
+      "keyword": "prancis vs spanyol",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "풍자",
+      "keyword": "현역가왕3",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "gpt-5.6",
-      "traffic": "200+"
+      "keyword": "fotmob",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "도림천",
-      "traffic": "1000+"
+      "keyword": "치지직",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "압류",
+      "keyword": "뎀벨레",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "긴급 체포",
+      "keyword": "pháp đấu với tây ban nha",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "모태솔로지만 연애는 하고싶어 시즌2",
+      "keyword": "이영자",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "내년 최저임금 1만700원",
+      "keyword": "내년 최저임금 1만700원 확정",
       "state": "s",
       "change": "0"
     },
@@ -73,44 +73,44 @@
     },
     {
       "rank": 4,
-      "keyword": "美 6월 CPI 하락 3.5%",
+      "keyword": "美 6월 CPI 하락 예상",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "송진우 일본인 아내와의 일상",
-      "state": "+",
-      "change": "1"
+      "keyword": "韓 축구 출전 임대 이적",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
       "keyword": "내일도 출근",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "리센느 첫 1위에 눈물 펑펑",
+      "keyword": "리센느 기적의 첫 1위",
       "state": "+",
-      "change": "2"
+      "change": "4"
     },
     {
       "rank": 8,
-      "keyword": "유죄 판결 후 김건희 선고 지연",
-      "state": "n",
-      "change": "0"
+      "keyword": "초복 폭우와 더위 주의하세요",
+      "state": "+",
+      "change": "51"
     },
     {
       "rank": 9,
-      "keyword": "미성년자 성추행 누명 심판 사망",
-      "state": "n",
-      "change": "0"
+      "keyword": "송진우 아내와 일상전쟁",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "초복 폭우와 더위, 보양식 추천",
-      "state": "s",
+      "keyword": "與 보완수사 신중론 태풍의 눈",
+      "state": "n",
       "change": "0"
     }
   ]
