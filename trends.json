@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-14T11:10:29.539Z",
+  "updatedAt": "2026-07-14T12:40:34.132Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "시진핑",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "공격수",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "현빈",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "홍준표",
+      "keyword": "xsmb",
       "traffic": "1000+"
     },
     {
+      "rank": 2,
+      "keyword": "ibm",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "연비",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "배틀그라운드",
+      "traffic": "200+"
+    },
+    {
       "rank": 5,
-      "keyword": "정주영",
-      "traffic": "500+"
+      "keyword": "야구",
+      "traffic": "10000+"
     },
     {
       "rank": 6,
-      "keyword": "소형모듈원자로",
-      "traffic": "500+"
+      "keyword": "김호영",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "조희대",
-      "traffic": "500+"
+      "keyword": "순례",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "서영교",
-      "traffic": "5000+"
+      "keyword": "한미반도체",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "남경필",
+      "keyword": "엘니뇨",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "배준호",
-      "traffic": "500+"
+      "keyword": "트와이스",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "내년 최저임금 1만600원~1만860원 제시",
-      "state": "n",
-      "change": "0"
+      "keyword": "최저임금 격차 130원",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "하이닉스 주가 하락",
+      "keyword": "현대가 더비 충돌 논란",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이재명 영국 앤 공주 대화",
-      "state": "-",
-      "change": "2"
+      "keyword": "지효 JYP 재계약 논의",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 4,
-      "keyword": "배재고 야구부 재심의 진행",
-      "state": "-",
+      "keyword": "붉은 진주",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "서인영 워터밤 출격",
+      "keyword": "하이닉스 주가 하락 반전",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "윤석열 유죄, 김건희 무죄",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "단일종목 레버리지 ETF 논의",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 7,
-      "keyword": "최휘영 장관 K푸드 문화 매개체",
-      "state": "s",
+      "keyword": "주식 손실로 정신과 찾는 고객",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "삼성전자 ADR 상장 불가",
-      "state": "-",
-      "change": "4"
+      "keyword": "친구 살해 나체 요약하면 친구 나체 살해 10글자 이내에 적합한 문장입니다.",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "미요시 아야카",
-      "state": "-",
-      "change": "1"
+      "keyword": "이란 공격 예고",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "커피에 수면제 탄 10대 남매",
+      "keyword": "국민소득 5만불 비전 제시",
       "state": "n",
       "change": "0"
     }
