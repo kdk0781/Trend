@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-14T17:12:50.718Z",
+  "updatedAt": "2026-07-14T18:17:24.427Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "스마트폰",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "풍자",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "gpt-5.6",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
       "keyword": "도림천",
       "traffic": "500+"
     },
     {
-      "rank": 2,
+      "rank": 5,
       "keyword": "긴급 체포",
       "traffic": "500+"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "keyword": "모태솔로지만 연애는 하고싶어 시즌2",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 7,
+      "keyword": "최저시급",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
       "keyword": "디발라",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "keyword": "고우림",
       "traffic": "500+"
     },
     {
-      "rank": 6,
-      "keyword": "유아인",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "바가지요금",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "하트시그널",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "이성민",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "민경욱",
-      "traffic": "500+"
+      "keyword": "유아인",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "내년 최저임금 1만700원",
+      "keyword": "내년 최저임금 1만700원 인상",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "배재고 야구부 징계 재심 20일 개최",
-      "state": "n",
+      "keyword": "트럼프 통행료 하루 만에 대체",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
       "keyword": "신지, KT 시구 취소",
-      "state": "s",
-      "change": "0"
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "美 6월 물가 둔화 3.5%",
-      "state": "s",
-      "change": "0"
+      "keyword": "배재고 징계 재심의 20일",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "이재명 대통령 앤",
+      "keyword": "美 6월 물가 둔화",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "트럼프 통행료 철회 투자로 대체",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "구속영장 청구",
+      "keyword": "충돌 오심 아니다",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 7,
+      "keyword": "리센느, 첫 1위에 눈물 흐르다",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "지효, JYP 재계약 논의 중",
-      "state": "+",
-      "change": "18"
+      "keyword": "송진우 일본인 아내와 한일전",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "단일종목 ETF 규제 강화",
+      "keyword": "유죄 선고 미뤄달라",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "삼성전자 ADR 상장 검토 안 해",
+      "keyword": "트와이스 지효 재계약 논의 중",
       "state": "-",
-      "change": "3"
+      "change": "2"
     }
   ]
 }
