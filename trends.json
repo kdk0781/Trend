@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-14T07:49:27.047Z",
+  "updatedAt": "2026-07-14T09:30:25.877Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "후라도",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "최원준",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "압수수색",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "한성숙",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "사나 국제공항",
+      "keyword": "태풍 바비 현재 위치",
       "traffic": "1000+"
     },
     {
+      "rank": 2,
+      "keyword": "삼성전자 adr",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "소림축구",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "성과급",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "최저임금",
+      "traffic": "2000+"
+    },
+    {
       "rank": 6,
-      "keyword": "고속도로",
+      "keyword": "이스라엘",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "김범석",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "군수산업",
+      "keyword": "k리그",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "불",
+      "traffic": "2000+"
+    },
+    {
       "rank": 9,
-      "keyword": "수국",
-      "traffic": "100+"
+      "keyword": "쌍방울그룹",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "밀수",
-      "traffic": "1000+"
+      "keyword": "버스",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "오싹한 연애 박은빈 양세종 청량로맨스",
+      "keyword": "한성숙 총리의 무역협회 행사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "2026 하반기 경제전략 브리핑",
-      "state": "s",
-      "change": "0"
+      "keyword": "관저 유병호 구속영장",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "신진서 9단 질문 답변",
-      "state": "n",
-      "change": "0"
+      "keyword": "이대통령 집 없다, 분당 아파트 매각 완료",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 4,
-      "keyword": "코스피 0.7% 상승",
+      "keyword": "신지 KT 시구 거절 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "의원총회 참석 민주당 의원들",
+      "keyword": "후라도 어깨 부상 대체 외인 물색",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "HBM 부족 대비 SK하이닉스 팹 발주",
+      "keyword": "조희대 대법원장 차량 사고 3명 부상",
       "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "오세훈 부동산 안정 필요",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "황영웅 OST 제작사 문제없다",
-      "state": "-",
       "change": "2"
     },
     {
-      "rank": 9,
-      "keyword": "김어준 명예훼손 벌금 2000만원",
-      "state": "-",
+      "rank": 7,
+      "keyword": "최저임금 10차 수정안",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "SK하이닉스 주가 기대 상승",
+      "state": "+",
       "change": "1"
     },
     {
-      "rank": 10,
-      "keyword": "홈플러스 노조 조합원들",
+      "rank": 9,
+      "keyword": "송민호 복무 책임 인정",
       "state": "-",
-      "change": "1"
+      "change": "5"
+    },
+    {
+      "rank": 10,
+      "keyword": "문재인 재판 재개",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
