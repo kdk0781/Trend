@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-14T20:44:19.525Z",
+  "updatedAt": "2026-07-14T21:39:25.313Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "우나이 시몬",
-      "traffic": "200+"
+      "keyword": "티모시 샬라메",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "ฝรั่งเศส พบ สเปน",
+      "keyword": "최항",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "франция – испания",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "prancis vs spanyol",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "현역가왕3",
+      "keyword": "이자",
       "traffic": "200+"
     },
     {
-      "rank": 6,
-      "keyword": "fotmob",
+      "rank": 4,
+      "keyword": "페란 토레스",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "lịch world cup 2026",
       "traffic": "100+"
     },
     {
+      "rank": 6,
+      "keyword": "천궁",
+      "traffic": "500+"
+    },
+    {
       "rank": 7,
-      "keyword": "치지직",
-      "traffic": "2000+"
+      "keyword": "3기 신도시",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "뎀벨레",
+      "keyword": "대한민국의 국방부 장관",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "pháp đấu với tây ban nha",
-      "traffic": "500+"
+      "keyword": "규제",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "이영자",
-      "traffic": "200+"
+      "keyword": "чемпионат мира по футболу fifa 2026™",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "내년 최저임금 1만700원 확정",
+      "keyword": "내년 최저임금 1만700원",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "트럼프 통행료 철회",
+      "keyword": "트럼프, 통행료 20% 번복",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "신지, KT 시구 취소",
+      "keyword": "신지 KT 시구 취소",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "美 6월 CPI 하락 예상",
+      "keyword": "스페인 1-0 앞서",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "韓 축구 출전 임대 이적",
-      "state": "n",
-      "change": "0"
+      "keyword": "비 오는 초복, 최고 37도 무더위",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "내일도 출근",
-      "state": "+",
-      "change": "3"
+      "keyword": "연준, 높은 인플레 용납 안 해",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "리센느 기적의 첫 1위",
+      "keyword": "송진우 일본인 아내와 한일전",
       "state": "+",
-      "change": "4"
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "초복 폭우와 더위 주의하세요",
-      "state": "+",
-      "change": "51"
+      "keyword": "내일도 출근",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "송진우 아내와 일상전쟁",
-      "state": "-",
-      "change": "3"
+      "keyword": "與 보완수사 폐지 신중론",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "與 보완수사 신중론 태풍의 눈",
-      "state": "n",
-      "change": "0"
+      "keyword": "한국 축구 소식 푸짐해!",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
