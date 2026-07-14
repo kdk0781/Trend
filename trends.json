@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-14T22:37:27.515Z",
+  "updatedAt": "2026-07-14T23:29:15.413Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "상륙 작전",
-      "traffic": "200+"
+      "keyword": "강원특별자치도청",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "세종특별자치시",
-      "traffic": "200+"
+      "keyword": "이강인",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "쿠바르시",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "정년",
+      "keyword": "이찬원",
       "traffic": "500+"
     },
     {
-      "rank": 5,
-      "keyword": "수소충전소",
+      "rank": 4,
+      "keyword": "축구 선수",
       "traffic": "200+"
     },
     {
+      "rank": 5,
+      "keyword": "지단",
+      "traffic": "100+"
+    },
+    {
       "rank": 6,
-      "keyword": "종합 부동산 세",
+      "keyword": "송도동",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "schd",
-      "traffic": "500+"
+      "keyword": "skhy",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "테슬라 모델 3",
-      "traffic": "100+"
+      "keyword": "상륙 작전",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "mu",
-      "traffic": "200+"
+      "keyword": "세종특별자치시",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "나스닥 지수",
-      "traffic": "200+"
+      "keyword": "종합 부동산 세",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "내년 최저임금 1만700원 확정",
-      "state": "s",
-      "change": "0"
+      "keyword": "스페인, 프랑스 2-0 결승행",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "스페인, 프랑스 2-0 결승 진출",
-      "state": "n",
-      "change": "0"
+      "keyword": "전남광주 흑염소 초복 가격 폭락",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "트럼프, 호르무즈 통행료 철회",
-      "state": "s",
+      "keyword": "트럼프 이란 합의 안되면 공격",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "민경욱, 부정선거 강연 중 쓰러져",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "송진우 아내와 한일전",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 6,
-      "keyword": "초복 오후 비 그치면 더위",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "하트 시그널 5",
+      "keyword": "리센느, 데뷔 2년 첫 1위!",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "리센느 첫 음방 1위 축하합니다!",
+      "rank": 5,
+      "keyword": "하트 시그널 5",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 9,
-      "keyword": "내일도 출근",
-      "state": "-",
+      "rank": 6,
+      "keyword": "SK하이닉스 ADR 27%",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "태풍 바비와 돌풍 주의",
+      "state": "+",
       "change": "2"
     },
     {
+      "rank": 8,
+      "keyword": "평생 못 갚아 김소영",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "대이란 해상봉쇄 시작",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "연준 의장 높은 인플레 용납 안 해",
+      "keyword": "정도 차오른 괜찮다 성인 넘어져",
       "state": "n",
       "change": "0"
     }
