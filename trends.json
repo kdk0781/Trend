@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-14T05:54:41.330Z",
+  "updatedAt": "2026-07-14T07:49:27.047Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "양배차",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "이찬진",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "낙하산",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "쯔위",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "신구",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "스즈키 자이온",
+      "keyword": "후라도",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "최원준",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "압수수색",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "한성숙",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "사나 국제공항",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "고속도로",
+      "traffic": "1000+"
+    },
+    {
       "rank": 7,
-      "keyword": "구준엽",
-      "traffic": "5000+"
+      "keyword": "김범석",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "이성윤",
-      "traffic": "10000+"
+      "keyword": "군수산업",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "신인감독 김연경",
-      "traffic": "2000+"
+      "keyword": "수국",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "피의자",
-      "traffic": "2000+"
+      "keyword": "밀수",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "쿠팡 김범석 동일인 효력정지",
+      "keyword": "오싹한 연애 박은빈 양세종 청량로맨스",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "트와이스 쯔위, JYP 재계약 논의 중",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "구글 AI 포 비즈니스 2026",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "워커, 홈런 더비 우승",
+      "keyword": "2026 하반기 경제전략 브리핑",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "신진서 9단 질문 답변",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "코스피 0.7% 상승",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "초복 삼계탕 체험하는 외국인",
-      "state": "+",
-      "change": "3"
+      "keyword": "의원총회 참석 민주당 의원들",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "하이닉스 주가 동시 상승",
+      "keyword": "HBM 부족 대비 SK하이닉스 팹 발주",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "송영길 호남회 방문",
+      "keyword": "오세훈 부동산 안정 필요",
       "state": "+",
       "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "의료혁신 공론화 결과 브리핑",
-      "state": "+",
-      "change": "1"
+      "keyword": "황영웅 OST 제작사 문제없다",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "DX부문 집회 및 분향소",
-      "state": "n",
-      "change": "0"
+      "keyword": "김어준 명예훼손 벌금 2000만원",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "김가네 회장 6억 횡령 수사 요구",
-      "state": "n",
-      "change": "0"
+      "keyword": "홈플러스 노조 조합원들",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
