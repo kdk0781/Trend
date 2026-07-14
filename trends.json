@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-14T09:30:25.877Z",
+  "updatedAt": "2026-07-14T11:10:29.539Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "태풍 바비 현재 위치",
-      "traffic": "1000+"
+      "keyword": "시진핑",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "삼성전자 adr",
+      "keyword": "공격수",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "소림축구",
-      "traffic": "100+"
+      "keyword": "현빈",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "성과급",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "최저임금",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "이스라엘",
+      "keyword": "홍준표",
       "traffic": "1000+"
     },
     {
+      "rank": 5,
+      "keyword": "정주영",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "소형모듈원자로",
+      "traffic": "500+"
+    },
+    {
       "rank": 7,
-      "keyword": "k리그",
-      "traffic": "200+"
+      "keyword": "조희대",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "불",
-      "traffic": "2000+"
+      "keyword": "서영교",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "쌍방울그룹",
-      "traffic": "2000+"
+      "keyword": "남경필",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "버스",
-      "traffic": "2000+"
+      "keyword": "배준호",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "한성숙 총리의 무역협회 행사",
+      "keyword": "내년 최저임금 1만600원~1만860원 제시",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "관저 유병호 구속영장",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "이대통령 집 없다, 분당 아파트 매각 완료",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 4,
-      "keyword": "신지 KT 시구 거절 논란",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "후라도 어깨 부상 대체 외인 물색",
+      "keyword": "하이닉스 주가 하락",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "조희대 대법원장 차량 사고 3명 부상",
-      "state": "+",
+      "rank": 3,
+      "keyword": "이재명 영국 앤 공주 대화",
+      "state": "-",
       "change": "2"
     },
     {
+      "rank": 4,
+      "keyword": "배재고 야구부 재심의 진행",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "서인영 워터밤 출격",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "단일종목 레버리지 ETF 논의",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "최저임금 10차 수정안",
+      "keyword": "최휘영 장관 K푸드 문화 매개체",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "SK하이닉스 주가 기대 상승",
-      "state": "+",
-      "change": "1"
+      "keyword": "삼성전자 ADR 상장 불가",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 9,
-      "keyword": "송민호 복무 책임 인정",
+      "keyword": "미요시 아야카",
       "state": "-",
-      "change": "5"
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "문재인 재판 재개",
+      "keyword": "커피에 수면제 탄 10대 남매",
       "state": "n",
       "change": "0"
     }
