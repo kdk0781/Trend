@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-14T03:36:20.345Z",
+  "updatedAt": "2026-07-14T05:54:41.330Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이성윤",
-      "traffic": "5000+"
+      "keyword": "양배차",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "피의자",
-      "traffic": "2000+"
+      "keyword": "이찬진",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "신인감독 김연경",
-      "traffic": "1000+"
+      "keyword": "낙하산",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "에어로케이",
+      "keyword": "쯔위",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "아랍에미리트",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "조인성",
+      "keyword": "신구",
       "traffic": "500+"
     },
     {
+      "rank": 6,
+      "keyword": "스즈키 자이온",
+      "traffic": "200+"
+    },
+    {
       "rank": 7,
-      "keyword": "백령도",
-      "traffic": "100+"
+      "keyword": "구준엽",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "심우정",
-      "traffic": "2000+"
+      "keyword": "이성윤",
+      "traffic": "10000+"
     },
     {
       "rank": 9,
-      "keyword": "롯데면세점",
-      "traffic": "100+"
+      "keyword": "신인감독 김연경",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "이스타",
-      "traffic": "200+"
+      "keyword": "피의자",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "국무회의 참석 이재명 대통령",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "노경필 법원행정처장 취임식 참석",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "원통형 CT 도입",
+      "keyword": "쿠팡 김범석 동일인 효력정지",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "트와이스 쯔위, JYP 재계약 논의 중",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "구글 AI 포 비즈니스 2026",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 4,
-      "keyword": "장윤기 수사 권 토론회",
+      "keyword": "워커, 홈런 더비 우승",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "잠재성장률 3% 무역 4강 5만불",
+      "keyword": "초복 삼계탕 체험하는 외국인",
       "state": "+",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "장항준 감독의 역사 예능",
-      "state": "s",
-      "change": "0"
+      "keyword": "하이닉스 주가 동시 상승",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "홍명보 선임 조사",
+      "keyword": "송영길 호남회 방문",
       "state": "+",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "안양, 블레이즈 영입",
-      "state": "n",
-      "change": "0"
+      "keyword": "의료혁신 공론화 결과 브리핑",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "국조특위 청문회 참석자들",
+      "keyword": "DX부문 집회 및 분향소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "SK하이닉스 주가 변동사항",
-      "state": "-",
-      "change": "9"
+      "keyword": "김가네 회장 6억 횡령 수사 요구",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
