@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-14T00:12:57.766Z",
+  "updatedAt": "2026-07-14T03:36:20.345Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "제헌절",
-      "traffic": "500+"
+      "keyword": "이성윤",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "나는 solo",
+      "keyword": "피의자",
       "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "단체교섭",
-      "traffic": "10000+"
+      "keyword": "신인감독 김연경",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "백승호",
-      "traffic": "200+"
+      "keyword": "에어로케이",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "погода",
-      "traffic": "500+"
+      "keyword": "아랍에미리트",
+      "traffic": "10000+"
     },
     {
       "rank": 6,
-      "keyword": "가족관계증명서",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "디지털 자산",
+      "keyword": "조인성",
       "traffic": "500+"
     },
     {
+      "rank": 7,
+      "keyword": "백령도",
+      "traffic": "100+"
+    },
+    {
       "rank": 8,
-      "keyword": "weather",
+      "keyword": "심우정",
       "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "สภาพอากาศ",
-      "traffic": "1000+"
+      "keyword": "롯데면세점",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "김숙",
-      "traffic": "2000+"
+      "keyword": "이스타",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프, 이란 강타 예고",
+      "keyword": "국무회의 참석 이재명 대통령",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이강인, 국내 메디컬 중",
-      "state": "+",
-      "change": "5"
+      "keyword": "노경필 법원행정처장 취임식 참석",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "예원, 술로 인해 결별",
+      "keyword": "원통형 CT 도입",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "신의주 변모 선전",
-      "state": "+",
-      "change": "5"
+      "keyword": "장윤기 수사 권 토론회",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "지연수, 곰탕집 알바 중 수영복 착용",
-      "state": "-",
-      "change": "1"
+      "keyword": "잠재성장률 3% 무역 4강 5만불",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "하이닉스 주가 하락",
+      "keyword": "장항준 감독의 역사 예능",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "태풍 바비 북폭풍 경보",
-      "state": "-",
+      "keyword": "홍명보 선임 조사",
+      "state": "+",
       "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "유해란, 메이저 2연승과 3위 상승",
-      "state": "-",
-      "change": "6"
+      "keyword": "안양, 블레이즈 영입",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "내일도 출근",
-      "state": "+",
-      "change": "3"
+      "keyword": "국조특위 청문회 참석자들",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "소지섭, 배우 브랜드평판 1위",
-      "state": "+",
-      "change": "1"
+      "keyword": "SK하이닉스 주가 변동사항",
+      "state": "-",
+      "change": "9"
     }
   ]
 }
