@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-15T08:32:29.235Z",
+  "updatedAt": "2026-07-15T10:25:19.602Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "해남군",
-      "traffic": "200+"
+      "keyword": "한화 이글스",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "김경",
-      "traffic": "1000+"
+      "keyword": "아틀레티코 마드리드",
+      "traffic": "10000+"
     },
     {
       "rank": 3,
-      "keyword": "권역응급의료센터",
-      "traffic": "500+"
+      "keyword": "이수지",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "이혼",
-      "traffic": "2000+"
+      "keyword": "태백시",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "맹정섭",
-      "traffic": "2000+"
+      "keyword": "과천시",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "현대 캐스퍼 일렉트릭",
-      "traffic": "500+"
+      "keyword": "헥토파이낸셜",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "제니",
-      "traffic": "500+"
+      "keyword": "장항준",
+      "traffic": "20000+"
     },
     {
       "rank": 8,
-      "keyword": "국민성장펀드",
-      "traffic": "200+"
+      "keyword": "삼성",
+      "traffic": "20000+"
     },
     {
       "rank": 9,
-      "keyword": "이소라",
-      "traffic": "200+"
+      "keyword": "이영애",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "안세영",
+      "keyword": "에이치엘비",
       "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "부동산 금융정책 경청 회의",
+      "keyword": "최영중 제명 조치",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "최영중 청주시의원 제명 착수",
-      "state": "+",
-      "change": "6"
+      "keyword": "조정식과 최태원입니다.",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이억원 금융위원장 토론 청취",
-      "state": "-",
-      "change": "1"
+      "keyword": "충주시장 재검표 결과는?",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "코스피 6.24% 상승",
-      "state": "-",
-      "change": "1"
+      "keyword": "SK하이닉스 주가 변동",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "안세영 일본오픈 기권",
-      "state": "-",
-      "change": "1"
+      "keyword": "메리츠 홈플러스 2000억 지원",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "민주노총 조합원 구호 외침",
+      "keyword": "종합특검 원희룡 압수수색",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "노경필 법원행정처장 인사",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "영 호남 토론회",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "김건희 선고 생중계",
+      "keyword": "안세영 일본오픈 기권",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "이수지, 악성 민원 공무원 풍자",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "조현 외교부 장관 인사말",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "자기혐오로 거식증과 폭식증 앓다",
+      "keyword": "초복 후 폭우",
       "state": "s",
       "change": "0"
     }
