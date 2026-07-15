@@ -1,117 +1,56 @@
 {
-  "updatedAt": "2026-07-15T20:16:15.449Z",
+  "updatedAt": "2026-07-15T21:16:20.672Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "스포츠중계",
+      "keyword": "스포츠조선",
       "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "월드컵 중계",
+      "keyword": "신정환",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "모건 로저스",
+      "keyword": "모기",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "kbs",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "치지직",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "anh đấu với argentina",
+      "keyword": "표절",
       "traffic": "500+"
     },
     {
-      "rank": 7,
-      "keyword": "축구중계",
-      "traffic": "1000+"
+      "rank": 5,
+      "keyword": "англия – аргентина",
+      "traffic": "200+"
     },
     {
-      "rank": 8,
-      "keyword": "오디세이",
+      "rank": 6,
+      "keyword": "통장",
       "traffic": "100+"
     },
     {
+      "rank": 7,
+      "keyword": "k9 자주포",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "베컴",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "배준호",
+      "keyword": "숲",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "fifa world cup 2026 final date",
-      "traffic": "100+"
+      "keyword": "อังกฤษ พบ อาร์เจนตินา",
+      "traffic": "500+"
     }
   ],
-  "domestic": [
-    {
-      "rank": 1,
-      "keyword": "젠슨 황 ADR 대성공",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "이수지 재선거 시위 논란",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "이시원 구속영장 기각",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "수원, K3 부산에 충격패",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "최영중 청주시의원 제명 수순",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "6월 생산자물가 0.3%↓",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "곽튜브 아들 100일 잔치",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "쿠팡, 25만달러 백악관 로비",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "김세연 아나운서 밝은 인사",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 10,
-      "keyword": "K-드론 페스티벌 라이트",
-      "state": "+",
-      "change": "1"
-    }
-  ]
+  "domestic": []
 }
