@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-15T06:08:12.267Z",
+  "updatedAt": "2026-07-15T08:32:29.235Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "mbk파트너스",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "game",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "원태인",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "asml 실적 발표",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "성수대교",
+      "keyword": "해남군",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "김경",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "권역응급의료센터",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "이혼",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "맹정섭",
+      "traffic": "2000+"
+    },
+    {
       "rank": 6,
-      "keyword": "충주시장",
-      "traffic": "100+"
+      "keyword": "현대 캐스퍼 일렉트릭",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "김소현",
+      "keyword": "제니",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "장원영",
-      "traffic": "5000+"
+      "keyword": "국민성장펀드",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "에코프로 비엠",
-      "traffic": "5000+"
+      "keyword": "이소라",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "한국은행 기준금리",
-      "traffic": "2000+"
+      "keyword": "안세영",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "강경화 대사 귀국",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "롯데월드 아쿠아리움 물빛정원",
+      "keyword": "부동산 금융정책 경청 회의",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "최영중 청주시의원 제명 착수",
+      "state": "+",
+      "change": "6"
+    },
+    {
       "rank": 3,
-      "keyword": "정점식 원내대표 빗물터널 현장 방문",
-      "state": "n",
-      "change": "0"
+      "keyword": "이억원 금융위원장 토론 청취",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "선우, 멕시코 공연 불참",
-      "state": "n",
-      "change": "0"
+      "keyword": "코스피 6.24% 상승",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "이재명 춘추관 간담회",
-      "state": "n",
-      "change": "0"
+      "keyword": "안세영 일본오픈 기권",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "벨린저 올스타 MVP",
+      "keyword": "민주노총 조합원 구호 외침",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "드론 UAM 박람회 개최",
-      "state": "n",
-      "change": "0"
+      "keyword": "노경필 법원행정처장 인사",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "프로배구 코치 부적절 행위",
-      "state": "n",
-      "change": "0"
+      "keyword": "영 호남 토론회",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "레버리지 ETF 보완 대책 마련 필요",
+      "keyword": "김건희 선고 생중계",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "강릉항 돌고래 구조 완료",
-      "state": "n",
+      "keyword": "자기혐오로 거식증과 폭식증 앓다",
+      "state": "s",
       "change": "0"
     }
   ]
