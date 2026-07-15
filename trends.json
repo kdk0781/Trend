@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-15T22:15:10.870Z",
+  "updatedAt": "2026-07-15T23:13:14.005Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "lionel messi",
-      "traffic": "1000+"
+      "keyword": "디 오픈 챔피언십",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "발롱도르",
-      "traffic": "200+"
+      "keyword": "대한축구협회",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "kylian mbappé",
-      "traffic": "200+"
+      "keyword": "충전소",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "폴리마켓",
+      "keyword": "고기압",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "giải bóng đá thế giới 2026",
+      "keyword": "전국민주노동조합총연맹",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "구속영장",
+      "keyword": "개",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "월드컵 일정",
-      "traffic": "5000+"
+      "keyword": "kbo 리그",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "월드컵 통계",
-      "traffic": "500+"
+      "keyword": "삼성 갤럭시 z 시리즈",
+      "traffic": "20000+"
     },
     {
       "rank": 9,
-      "keyword": "셀트리온",
-      "traffic": "200+"
+      "keyword": "나스닥 지수",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "연합뉴스",
-      "traffic": "200+"
+      "keyword": "영종대교",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "최영중 제명 수순",
+      "keyword": "최영중, 성관계 혐의로 당선",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이시원 구속영장 기각",
+      "keyword": "메시와 아르헨티나 결승행",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "트럼프 한국 기업 살펴볼 것",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "김성령 30억 주얼리 착용",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 5,
+      "keyword": "오늘 대법 선고",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "충주시장 재검표 결과 변경",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "스페이스X 공모가 하락",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 8,
+      "keyword": "이란, 美와 협상 계획 없음",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "김부장 비밀 공개와 부담감 토로",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "아르헨티나 2-1 역전승",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "33KG 감량 풍자 이야기",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "미군 이란 공습 재개",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "쿠팡 2분기 로비",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "충주시장 재검표 소동",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "상철, 고독한 선택과 눈물",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "오늘 대법 선고",
-      "state": "-",
-      "change": "4"
-    },
-    {
       "rank": 10,
-      "keyword": "김부장 비밀 공개와 부담감 토로",
-      "state": "-",
-      "change": "4"
+      "keyword": "상철, 옥순에 눈물 고독해",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
