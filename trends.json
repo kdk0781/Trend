@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-14T23:29:15.413Z",
+  "updatedAt": "2026-07-15T00:51:22.917Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "강원특별자치도청",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "이강인",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "이찬원",
+      "keyword": "윤현숙",
       "traffic": "500+"
     },
     {
-      "rank": 4,
-      "keyword": "축구 선수",
+      "rank": 2,
+      "keyword": "홍기원",
       "traffic": "200+"
     },
     {
-      "rank": 5,
-      "keyword": "지단",
+      "rank": 3,
+      "keyword": "리그 오브 레전드",
       "traffic": "100+"
     },
     {
+      "rank": 4,
+      "keyword": "한소희",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "인도",
+      "traffic": "1000+"
+    },
+    {
       "rank": 6,
-      "keyword": "송도동",
+      "keyword": "카를로스 알카라스",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "skhy",
+      "keyword": "윤종훈",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "상륙 작전",
-      "traffic": "500+"
+      "keyword": "추신수",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "세종특별자치시",
+      "keyword": "argentina vs england",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "종합 부동산 세",
-      "traffic": "1000+"
+      "keyword": "강원특별자치도청",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "스페인, 프랑스 2-0 결승행",
-      "state": "+",
-      "change": "1"
+      "keyword": "6월 취업자 증가",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "전남광주 흑염소 초복 가격 폭락",
+      "keyword": "비상경제점검회의 한성숙 총리",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 3,
-      "keyword": "트럼프 이란 합의 안되면 공격",
+      "keyword": "트럼프 다음 주 발전소 공격",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "리센느, 데뷔 2년 첫 1위!",
-      "state": "n",
+      "keyword": "최강희 스토킹 피해 호소",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "하트 시그널 5",
-      "state": "+",
-      "change": "2"
+      "keyword": "민경욱, 강연 중 쓰러져",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "SK하이닉스 ADR 27%",
+      "keyword": "코스피 코스닥 매수 발동",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "태풍 바비와 돌풍 주의",
-      "state": "+",
-      "change": "2"
+      "keyword": "스페인 결승행 확정",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 8,
-      "keyword": "평생 못 갚아 김소영",
+      "keyword": "황정민·정호연 첫 게스트",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "대이란 해상봉쇄 시작",
+      "keyword": "시구 거절에 공연 취소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "정도 차오른 괜찮다 성인 넘어져",
-      "state": "n",
+      "keyword": "내년 최저임금 결정 아쉬워",
+      "state": "s",
       "change": "0"
     }
   ]
