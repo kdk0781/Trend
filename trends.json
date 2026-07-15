@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-15T11:55:45.988Z",
+  "updatedAt": "2026-07-15T13:21:56.154Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이하정",
-      "traffic": "500+"
+      "keyword": "zimbabwe vs bangladesh",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "펩 과르디올라",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "쇼챔피언",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "강예빈",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "항공기",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "백지헌",
+      "keyword": "어쌔신 크리드",
       "traffic": "100+"
     },
     {
-      "rank": 7,
-      "keyword": "하이닉스 성과급",
+      "rank": 3,
+      "keyword": "ppi",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "하비에르 아기레",
       "traffic": "2000+"
     },
     {
+      "rank": 5,
+      "keyword": "al",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "아버지",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "유시민",
+      "traffic": "1000+"
+    },
+    {
       "rank": 8,
-      "keyword": "카페",
+      "keyword": "넥슨",
       "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "중흥건설",
-      "traffic": "500+"
+      "keyword": "xsmb",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "송가인",
-      "traffic": "200+"
+      "keyword": "사고",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "최태원 대한상의 회장",
-      "state": "s",
+      "keyword": "안세영 일본 오픈 기권",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "재검표 맹정섭 쫓겨나다",
-      "state": "+",
-      "change": "1"
+      "keyword": "피해자 보완수사 반대",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "오송참사 3주기 헌화하는",
-      "state": "s",
+      "keyword": "최태원 대한상의 회장",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "황광희, 서인영 후배 잡도리 안 해",
-      "state": "s",
-      "change": "0"
+      "keyword": "임영호 별세 49세",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "우규정 골키퍼 승부차기",
-      "state": "s",
+      "keyword": "올스타 AL 4-0 완승",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "SK하이닉스 주가 급변",
-      "state": "+",
-      "change": "1"
+      "keyword": "젠슨 황, 하이닉스 성공적",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "임영호 여자친구 부고",
+      "keyword": "28기 영자 이혼설",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "초복 행사와 치킨",
-      "state": "+",
-      "change": "1"
+      "keyword": "충주시장 재검표 결과 변동 없음",
+      "state": "-",
+      "change": "6"
     },
     {
       "rank": 9,
-      "keyword": "신동빈 본원적 경쟁력 강화 필요",
-      "state": "-",
-      "change": "3"
+      "keyword": "유시민, 필연적 실패 길로",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "스페인 감독 홍명보 연봉 낮다",
+      "keyword": "우규정 골키퍼 승부차기",
       "state": "n",
       "change": "0"
     }
