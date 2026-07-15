@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-15T15:06:20.354Z",
+  "updatedAt": "2026-07-15T16:41:31.312Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "부고",
-      "traffic": "500+"
+      "keyword": "약",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
+      "keyword": "자외선 차단제",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "김성령",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "부고",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
       "keyword": "레이더",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "keyword": "캐시워크 정답",
       "traffic": "100+"
     },
     {
-      "rank": 4,
-      "keyword": "택배",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "배용준",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "법원",
-      "traffic": "1000+"
-    },
-    {
       "rank": 7,
-      "keyword": "ppi 발표",
+      "keyword": "택배",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "zimbabwe vs bangladesh",
+      "keyword": "배용준",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "어쌔신 크리드",
-      "traffic": "200+"
+      "keyword": "법원",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "ppi",
-      "traffic": "500+"
+      "keyword": "대한민국 fa컵",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "최영중 의원 제명 수순",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "벨린저 AL MVP 빛났다!",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "젠슨 황 하이닉스 ADR 성공적",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "유시민, 필연적 실패 가고 있다",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "재난 대비 과하다",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "이수지 재선거 사과",
+      "keyword": "홈플러스 2000억 회생",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "충주시장 재검표 완료",
+      "rank": 2,
+      "keyword": "최태원 회장과 조정식 의장",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "이수지 재선거 결국 사과",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "양평 의혹 원희룡 압수수색",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "오송참사 3주기 추모 행사",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "젠슨 황 일본 방문",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "김세연 아나운서 밝은 인사",
+      "rank": 7,
+      "keyword": "외통위 당정협의에서 인사말",
       "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "충주시장 재검표 마무리",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
       "keyword": "이시원 구속영장 기각",
-      "state": "n",
-      "change": "0"
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "스페인 감독 연봉 낮다",
+      "keyword": "황광희 서인영 후배 잡도리 안 해",
       "state": "n",
       "change": "0"
     }
