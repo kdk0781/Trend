@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-15T03:53:13.521Z",
+  "updatedAt": "2026-07-15T06:08:12.267Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "일본 축구 국가대표팀",
-      "traffic": "2000+"
+      "keyword": "mbk파트너스",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "채림",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "초복 중복 말복",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "박준형",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "윤석민",
+      "keyword": "game",
       "traffic": "100+"
     },
     {
-      "rank": 6,
-      "keyword": "지효",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "맷 랜들",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "머더클럽",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "수비수",
+      "rank": 3,
+      "keyword": "원태인",
       "traffic": "1000+"
     },
     {
-      "rank": 10,
-      "keyword": "로켓",
+      "rank": 4,
+      "keyword": "asml 실적 발표",
       "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "성수대교",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "충주시장",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "김소현",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "장원영",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "에코프로 비엠",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 10,
+      "keyword": "한국은행 기준금리",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 대통령 업무보고",
-      "state": "s",
+      "keyword": "강경화 대사 귀국",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김민석 4대 혁신안 발표",
-      "state": "+",
-      "change": "3"
+      "keyword": "롯데월드 아쿠아리움 물빛정원",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김건희 선고 24일 연기",
-      "state": "-",
-      "change": "1"
+      "keyword": "정점식 원내대표 빗물터널 현장 방문",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "기관 순매수 5일 이상",
-      "state": "+",
-      "change": "5"
+      "keyword": "선우, 멕시코 공연 불참",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "추경호 대구시장 법원 출석",
-      "state": "-",
-      "change": "1"
+      "keyword": "이재명 춘추관 간담회",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "이소라, 100KG혈압190 6년 칩거 끝",
+      "keyword": "벨린저 올스타 MVP",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "정점식 원내대표 대심도 현장 방문",
+      "keyword": "드론 UAM 박람회 개최",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "데샹, 심판 문제 폭발",
-      "state": "-",
-      "change": "1"
+      "keyword": "프로배구 코치 부적절 행위",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "아동학대 법개정 촉구",
-      "state": "s",
+      "keyword": "레버리지 ETF 보완 대책 마련 필요",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "양정중 경제금융교육",
-      "state": "s",
+      "keyword": "강릉항 돌고래 구조 완료",
+      "state": "n",
       "change": "0"
     }
   ]
