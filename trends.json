@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-15T10:25:19.602Z",
+  "updatedAt": "2026-07-15T11:55:45.988Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "한화 이글스",
-      "traffic": "2000+"
+      "keyword": "이하정",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "아틀레티코 마드리드",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "이수지",
+      "keyword": "펩 과르디올라",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "쇼챔피언",
+      "traffic": "1000+"
+    },
+    {
       "rank": 4,
-      "keyword": "태백시",
-      "traffic": "100+"
+      "keyword": "강예빈",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "과천시",
-      "traffic": "100+"
+      "keyword": "항공기",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "헥토파이낸셜",
+      "keyword": "백지헌",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "장항준",
-      "traffic": "20000+"
+      "keyword": "하이닉스 성과급",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "삼성",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "이영애",
+      "keyword": "카페",
       "traffic": "1000+"
     },
     {
+      "rank": 9,
+      "keyword": "중흥건설",
+      "traffic": "500+"
+    },
+    {
       "rank": 10,
-      "keyword": "에이치엘비",
-      "traffic": "5000+"
+      "keyword": "송가인",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "최영중 제명 조치",
+      "keyword": "최태원 대한상의 회장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "조정식과 최태원입니다.",
-      "state": "n",
-      "change": "0"
+      "keyword": "재검표 맹정섭 쫓겨나다",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "충주시장 재검표 결과는?",
+      "keyword": "오송참사 3주기 헌화하는",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "SK하이닉스 주가 변동",
+      "keyword": "황광희, 서인영 후배 잡도리 안 해",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "메리츠 홈플러스 2000억 지원",
+      "keyword": "우규정 골키퍼 승부차기",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "종합특검 원희룡 압수수색",
-      "state": "n",
-      "change": "0"
+      "keyword": "SK하이닉스 주가 급변",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "안세영 일본오픈 기권",
+      "keyword": "임영호 여자친구 부고",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이수지, 악성 민원 공무원 풍자",
-      "state": "n",
-      "change": "0"
+      "keyword": "초복 행사와 치킨",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "조현 외교부 장관 인사말",
-      "state": "s",
-      "change": "0"
+      "keyword": "신동빈 본원적 경쟁력 강화 필요",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "초복 후 폭우",
-      "state": "s",
+      "keyword": "스페인 감독 홍명보 연봉 낮다",
+      "state": "n",
       "change": "0"
     }
   ]
