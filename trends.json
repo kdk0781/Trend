@@ -1,56 +1,117 @@
 {
-  "updatedAt": "2026-07-15T21:16:20.672Z",
+  "updatedAt": "2026-07-15T22:15:10.870Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "스포츠조선",
-      "traffic": "2000+"
+      "keyword": "lionel messi",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "신정환",
-      "traffic": "500+"
+      "keyword": "발롱도르",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "모기",
+      "keyword": "kylian mbappé",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "표절",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "англия – аргентина",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "통장",
+      "keyword": "폴리마켓",
       "traffic": "100+"
     },
     {
+      "rank": 5,
+      "keyword": "giải bóng đá thế giới 2026",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "구속영장",
+      "traffic": "500+"
+    },
+    {
       "rank": 7,
-      "keyword": "k9 자주포",
-      "traffic": "2000+"
+      "keyword": "월드컵 일정",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "베컴",
-      "traffic": "200+"
+      "keyword": "월드컵 통계",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "숲",
+      "keyword": "셀트리온",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "อังกฤษ พบ อาร์เจนตินา",
-      "traffic": "500+"
+      "keyword": "연합뉴스",
+      "traffic": "200+"
     }
   ],
-  "domestic": []
+  "domestic": [
+    {
+      "rank": 1,
+      "keyword": "최영중 제명 수순",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 2,
+      "keyword": "이시원 구속영장 기각",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "아르헨티나 2-1 역전승",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "33KG 감량 풍자 이야기",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "미군 이란 공습 재개",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "쿠팡 2분기 로비",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "충주시장 재검표 소동",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "상철, 고독한 선택과 눈물",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "오늘 대법 선고",
+      "state": "-",
+      "change": "4"
+    },
+    {
+      "rank": 10,
+      "keyword": "김부장 비밀 공개와 부담감 토로",
+      "state": "-",
+      "change": "4"
+    }
+  ]
 }
