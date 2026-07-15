@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-15T16:41:31.312Z",
+  "updatedAt": "2026-07-15T17:55:52.547Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "약",
-      "traffic": "1000+"
+      "keyword": "인벤",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "자외선 차단제",
+      "keyword": "tsmc 실적 발표",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "김성령",
+      "keyword": "하프타임 쇼",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "부고",
+      "keyword": "약",
       "traffic": "1000+"
     },
     {
       "rank": 5,
+      "keyword": "자외선 차단제",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "김성령",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "부고",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
       "keyword": "레이더",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "캐시워크 정답",
       "traffic": "100+"
     },
     {
-      "rank": 7,
-      "keyword": "택배",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "배용준",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "법원",
-      "traffic": "1000+"
-    },
-    {
       "rank": 10,
-      "keyword": "대한민국 fa컵",
+      "keyword": "택배",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "홈플러스 2000억 회생",
+      "keyword": "최태원 대한상의 회장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "최태원 회장과 조정식 의장",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "이수지 재선거 결국 사과",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "양평 의혹 원희룡 압수수색",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
       "keyword": "오송참사 3주기 추모 행사",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "젠슨 황 일본 방문",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "외통위 당정협의에서 인사말",
+      "rank": 3,
+      "keyword": "이수지 재선거 영상 악플 논란",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "충주시장 재검표 마무리",
-      "state": "+",
-      "change": "1"
+      "rank": 4,
+      "keyword": "젠슨 황 ADR 성공적",
+      "state": "n",
+      "change": "0"
     },
     {
-      "rank": 9,
+      "rank": 5,
+      "keyword": "우규정 골키퍼 승부차기",
+      "state": "+",
+      "change": "7"
+    },
+    {
+      "rank": 6,
       "keyword": "이시원 구속영장 기각",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 10,
-      "keyword": "황광희 서인영 후배 잡도리 안 해",
+      "rank": 7,
+      "keyword": "충주시장 재검표 결과 변동 없어",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "서인영 후배 신경 안 써",
       "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "최영중 제명 수순",
+      "state": "-",
+      "change": "7"
+    },
+    {
+      "rank": 10,
+      "keyword": "수원 K3 부산교통공사에 충격패",
+      "state": "+",
+      "change": "6"
     }
   ]
 }
