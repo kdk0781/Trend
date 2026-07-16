@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-16T10:26:55.973Z",
+  "updatedAt": "2026-07-16T11:59:47.791Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "아빌라",
-      "traffic": "2000+"
+      "keyword": "연금",
+      "traffic": "20000+"
     },
     {
       "rank": 2,
-      "keyword": "이소라",
+      "keyword": "토론",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "딜리버리 히어로",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "หวย",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "잭 델라 마달레나",
+      "keyword": "텐배거",
       "traffic": "100+"
     },
     {
+      "rank": 4,
+      "keyword": "김상식",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "tving",
+      "traffic": "500+"
+    },
+    {
       "rank": 6,
-      "keyword": "kia 대 ssg",
-      "traffic": "20000+"
+      "keyword": "문천식",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "키움 대 한화",
-      "traffic": "10000+"
+      "keyword": "kia vs ssg",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "롯데 대 삼성",
-      "traffic": "10000+"
+      "keyword": "임영웅 콘서트",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "부양",
-      "traffic": "5000+"
+      "keyword": "영주시",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "kt 대 lg",
-      "traffic": "5000+"
+      "keyword": "ewc일정",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "외치는 삼성전자 동행노조",
-      "state": "+",
-      "change": "2"
+      "keyword": "공수처 서해 위증 압수수색",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "메이저 2연승 유해란",
+      "keyword": "KT 선발 로건 포효",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "공수처 위증 압수수색",
-      "state": "n",
-      "change": "0"
+      "keyword": "하반기 업무보고 브리핑",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "아이들, 마카오 전석 매진",
+      "keyword": "배나라 한재아 결혼",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
       "keyword": "하이닉스 주가 움직임 주목",
-      "state": "-",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "강훈식, 카타르 조문 후 귀국",
-      "state": "+",
-      "change": "3"
+      "keyword": "레버리지 3000만원 투자 가능",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "2026년 하반기 업무보고 브리핑",
+      "keyword": "홈플러스 메리츠 2000억 지원",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김태효 구속적부심 기각",
+      "keyword": "친구 살해 정재환 신상 공개",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "하지원 18년 만에 시구",
+      "keyword": "박지성 이영표가 뭘 안다고 전북축구협회장에",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "중학교 근현대사 확대",
+      "keyword": "장윤기 사건 수사 유감, 썩은 부분 도려내겠다.",
       "state": "n",
       "change": "0"
     }
