@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-16T00:10:37.999Z",
+  "updatedAt": "2026-07-16T03:39:16.821Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "투자",
-      "traffic": "2000+"
+      "keyword": "맘스터치",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "비혼모",
+      "keyword": "서울신문",
       "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "제헌절",
-      "traffic": "1000+"
+      "keyword": "기쁜 우리 좋은 날",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "gpt-5.6",
+      "keyword": "sk실트론",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "장한별",
-      "traffic": "100+"
+      "keyword": "심형탁",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "cxmt",
-      "traffic": "100+"
+      "keyword": "정몽규",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "자운대",
-      "traffic": "100+"
+      "keyword": "권성동",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "sk하이닉스",
-      "traffic": "10000+"
+      "keyword": "lg이노텍",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "인천일보",
-      "traffic": "500+"
+      "keyword": "학원",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "택배기사",
-      "traffic": "100+"
+      "keyword": "정재환",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "아르헨티나전 케인 역전패 아쉬움",
-      "state": "s",
+      "keyword": "구윤철 부총리, 부동산 세제 토론회",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "최영중 중학생 성매수 사건",
-      "state": "s",
+      "keyword": "권성동 징역 2년 확정",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "충주시장 재검표 결과 변화",
+      "keyword": "윤채경 제주 비키니 휴가",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "호프 최고 오프닝 33만 관객",
+      "keyword": "대법 포스코 불법파견 인정",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "트럼프 한국 기업 살펴볼 것",
-      "state": "-",
-      "change": "2"
+      "keyword": "하이닉스 주가 변동",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "박지훈 9월 앙코르 공연",
-      "state": "-",
-      "change": "2"
+      "keyword": "한은 금리 인상 여부 판단",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "도미노피자 리센느 협업 출시",
+      "keyword": "이재명 지지율 55% 하락",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "SK하이닉스 주가 상승과 하락",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "김부장 비밀 공개",
-      "state": "+",
+      "keyword": "오세훈 시장 간담회",
+      "state": "-",
       "change": "1"
     },
     {
+      "rank": 9,
+      "keyword": "국군사관학교 창설 추진",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "데샹 감독 전술이",
+      "keyword": "서예지, 홍은희·토니안과 새 출발",
       "state": "n",
       "change": "0"
     }
