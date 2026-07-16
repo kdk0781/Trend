@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T17:59:03.711Z",
+  "updatedAt": "2026-07-16T19:15:00.995Z",
   "google": [
     {
       "rank": 1,
@@ -18,38 +18,38 @@
     },
     {
       "rank": 4,
-      "keyword": "신혼여행",
+      "keyword": "심으뜸",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "롤",
+      "keyword": "신혼여행",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "반품",
-      "traffic": "500+"
+      "keyword": "오라클",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "랜스 맥컬러스 주니어",
+      "keyword": "롤",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "india vs england",
-      "traffic": "200+"
+      "keyword": "반품",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "이동국",
-      "traffic": "1000+"
+      "keyword": "랜스 맥컬러스 주니어",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "배 나라",
-      "traffic": "500+"
+      "keyword": "india vs england",
+      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -61,56 +61,56 @@
     },
     {
       "rank": 2,
-      "keyword": "심우정 전 검찰총장 기각",
+      "keyword": "심우정 구속영장 기각",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "KT 감독 박영현 격려",
-      "state": "-",
-      "change": "1"
+      "keyword": "KT 이강철 감독의 격려와 승리",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "배나라♥한재아 결혼!",
-      "state": "-",
-      "change": "1"
+      "keyword": "배나라♥한재아, 결혼 시기 미정",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "하반기 업무보고 브리핑",
+      "keyword": "트럼프 비자 4년 제한",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "장윤기 사건 2차 가해 엄중 처벌",
-      "state": "-",
-      "change": "2"
+      "keyword": "8기 영수 여자 3호 거절",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "단일종목 레버리지 제동",
+      "keyword": "장윤기 사건 2차 가해 대응",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "8기 영수와 여자들 불편",
-      "state": "-",
+      "keyword": "정재환 신상 공개",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "트럼프 유학생 비자 4년 제한",
-      "state": "s",
-      "change": "0"
+      "keyword": "송영길 김용 출마 자격 논의",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "진태현 하차, 이동건 합류",
-      "state": "n",
+      "keyword": "최영중 시의원 증거인멸",
+      "state": "s",
       "change": "0"
     }
   ]
