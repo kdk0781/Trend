@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-16T06:02:18.195Z",
+  "updatedAt": "2026-07-16T08:28:35.953Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "투신",
+      "keyword": "돌고래",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "징역형",
-      "traffic": "200+"
+      "keyword": "공대공 미사일",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "프로야구 스피리츠 2026",
-      "traffic": "100+"
+      "keyword": "알테오젠",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "손빈아",
+      "keyword": "데이터 센터",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "하이닉스",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "창신 메모리 테크놀로지",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "대구백화점",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "필리조선소",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "가덕도 테러",
+      "keyword": "돔 경기장",
       "traffic": "100+"
     },
     {
+      "rank": 6,
+      "keyword": "문현빈",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "페덱",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "입원",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
+      "keyword": "유강남",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "서강일 전북 축구 협회장",
-      "traffic": "20000+"
+      "keyword": "현대자동차그룹",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "신현송 총재 기자간담회",
+      "keyword": "단일종목 레버리지 예탁금 3000만원",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "법원 나서는 심우정 전 총장",
+      "keyword": "삼성 외국인 투수 페덱 첫 선",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "행안장관 장윤기 사건 유감",
+      "keyword": "장동혁 국민특검 서명받아",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "3년 만 금리 인상",
+      "keyword": "아이브 장원영 메츠 시구",
+      "state": "+",
+      "change": "6"
+    },
+    {
+      "rank": 5,
+      "keyword": "경찰 개표소 구속영장",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "하는 유승민 대한체육회장",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "캐릭터 페어 2026",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 6,
-      "keyword": "퓨처스팀 코칭스태프 개편",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 7,
-      "keyword": "신안우이 해상풍력 착공",
-      "state": "-",
-      "change": "1"
+      "keyword": "김현영 치어리더 매력 발산",
+      "state": "+",
+      "change": "9"
     },
     {
       "rank": 8,
-      "keyword": "제주서 비키니 입은 윤채경",
-      "state": "-",
-      "change": "4"
+      "keyword": "유재환 강제추행 항소심 기각",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "기내식 20번 먹방 유튜버 사과",
+      "keyword": "알테오젠 코스피 유보",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "오준성이 연출한 빈칸 채우기",
-      "state": "-",
-      "change": "1"
+      "keyword": "티메프 집단 환불 승소",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
