@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-16T22:17:12.442Z",
+  "updatedAt": "2026-07-16T23:12:54.217Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "영화",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "에코프로비엠",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "무인 항공기",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "일기예보",
+      "keyword": "비트코인",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "모욕",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "석유",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "สภาพอากาศ",
+      "traffic": "500+"
+    },
+    {
       "rank": 5,
-      "keyword": "임영웅",
+      "keyword": "김호령",
       "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "기자",
-      "traffic": "200+"
+      "keyword": "시장",
+      "traffic": "10000+"
     },
     {
       "rank": 7,
-      "keyword": "혈당",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "임창정",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "손담비",
+      "keyword": "schd",
       "traffic": "200+"
     },
     {
-      "rank": 10,
-      "keyword": "대우건설",
+      "rank": 8,
+      "keyword": "파업",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "정호영",
       "traffic": "100+"
+    },
+    {
+      "rank": 10,
+      "keyword": "주식",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "심우정 전 검찰총장 기각",
+      "keyword": "엿새째 이란 공습 계속",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "8기 영수 여자 3호 거절",
-      "state": "s",
-      "change": "0"
+      "keyword": "제헌절 공휴일",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "트럼프 비자 4년 제한",
-      "state": "n",
-      "change": "0"
+      "keyword": "8기 영수, 여자 3호 거절 끝났다",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "최정 11년 20홈런 달성",
+      "keyword": "정재환 애도 경산 피해자",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "송영길·김용 자격 논란",
-      "state": "s",
-      "change": "0"
+      "keyword": "유학생 비자 4년 제한",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "정재환 피해자 애도",
+      "keyword": "송영길 김용 자격논의 중",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "심우정 구속영장 기각",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "이혼 선택한 아내, 남편 외도 주장",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "‘이란 야간 공습’",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "경찰은 믿었다, 최영중 증거인멸",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 9,
-      "keyword": "제헌절 공휴일",
-      "state": "+",
-      "change": "1"
+      "keyword": "김정은 왕후닝 접견",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "KT 최원준 역전포 쾅!",
-      "state": "n",
-      "change": "0"
+      "keyword": "임영웅 콘서트 티켓 전쟁",
+      "state": "+",
+      "change": "3"
     }
   ]
 }
