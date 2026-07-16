@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-16T11:59:47.791Z",
+  "updatedAt": "2026-07-16T14:03:37.340Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "연금",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "토론",
+      "keyword": "김성령",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "김나영",
+      "traffic": "100+"
+    },
+    {
       "rank": 3,
-      "keyword": "텐배거",
+      "keyword": "배나라",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "김상식",
-      "traffic": "200+"
+      "keyword": "골재",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "tving",
-      "traffic": "500+"
+      "keyword": "cuaca besok",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "문천식",
+      "keyword": "england vs india",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "kia vs ssg",
-      "traffic": "200+"
+      "keyword": "明天的天氣",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "임영웅 콘서트",
-      "traffic": "1000+"
+      "keyword": "협박",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "영주시",
-      "traffic": "1000+"
+      "keyword": "영주권",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "ewc일정",
-      "traffic": "200+"
+      "keyword": "상장폐지",
+      "traffic": "20000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "공수처 서해 위증 압수수색",
+      "keyword": "최정, 11년 연속 20홈런 달성",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "KT 선발 로건 포효",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "하반기 업무보고 브리핑",
+      "keyword": "14세 미만 SNS 제한",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 3,
+      "keyword": "임혁, 가수 도전과 아내 걱정",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 4,
-      "keyword": "배나라 한재아 결혼",
+      "keyword": "SSG 마드리스 영입",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "하이닉스 주가 움직임 주목",
-      "state": "+",
-      "change": "1"
+      "keyword": "장원영, MLB 시구자로 뉴욕行.",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "레버리지 3000만원 투자 가능",
-      "state": "n",
-      "change": "0"
+      "keyword": "하반기 업무보고 브리핑",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "홈플러스 메리츠 2000억 지원",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "친구 살해 정재환 신상 공개",
+      "keyword": "KT 이강철 감독 선수들 격려",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "박지성 이영표가 뭘 안다고 전북축구협회장에",
+      "rank": 8,
+      "keyword": "이하늬 60억 추징 혐의",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "배나라♥한재아 결혼 소식",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 10,
-      "keyword": "장윤기 사건 수사 유감, 썩은 부분 도려내겠다.",
+      "keyword": "이수지, 재선거 사과 논란",
       "state": "n",
       "change": "0"
     }
