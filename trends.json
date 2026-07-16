@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-07-16T16:53:46.259Z",
+  "updatedAt": "2026-07-16T17:59:03.711Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "신혼여행",
-      "traffic": "200+"
+      "keyword": "애니",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "롤",
+      "keyword": "주주",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "반품",
+      "keyword": "원희룡",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "랜스 맥컬러스 주니어",
-      "traffic": "100+"
+      "keyword": "신혼여행",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "india vs england",
+      "keyword": "롤",
       "traffic": "200+"
     },
     {
       "rank": 6,
+      "keyword": "반품",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "랜스 맥컬러스 주니어",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "india vs england",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
       "keyword": "이동국",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
-      "keyword": "배 나라",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "김재희",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "샘킴",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "김성령",
+      "keyword": "배 나라",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "최정 11시즌 20홈런 기록",
+      "keyword": "최정 11시즌 20홈런",
       "state": "s",
       "change": "0"
     },
@@ -67,50 +67,50 @@
     },
     {
       "rank": 3,
-      "keyword": "KT 이강철 감독 선수 격려",
-      "state": "s",
-      "change": "0"
+      "keyword": "KT 감독 박영현 격려",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "배나라♥한재아 결혼 발표",
-      "state": "+",
+      "keyword": "배나라♥한재아 결혼!",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
       "keyword": "하반기 업무보고 브리핑",
-      "state": "-",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "외치는 삼성전자 동행노조",
-      "state": "+",
+      "keyword": "장윤기 사건 2차 가해 엄중 처벌",
+      "state": "-",
       "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "장윤기 사건 2차 가해 대응",
-      "state": "n",
-      "change": "0"
+      "keyword": "단일종목 레버리지 제동",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "단일종목 레버리지 제한",
+      "keyword": "8기 영수와 여자들 불편",
       "state": "-",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "중학교 근현대사 비중 확대",
-      "state": "n",
+      "keyword": "트럼프 유학생 비자 4년 제한",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "메이저 2연승 유해란 올림픽 도전",
-      "state": "s",
+      "keyword": "진태현 하차, 이동건 합류",
+      "state": "n",
       "change": "0"
     }
   ]
