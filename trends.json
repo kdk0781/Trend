@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-07-16T20:12:28.997Z",
+  "updatedAt": "2026-07-16T21:17:28.248Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "미스 베트남",
-      "traffic": "100+"
+      "keyword": "오세훈",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "극한호우",
+      "keyword": "포스코홀딩스",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "김강우",
-      "traffic": "100+"
+      "keyword": "파운드리",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "애니",
-      "traffic": "100+"
+      "keyword": "아버지",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "주주",
+      "keyword": "천위페이",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "원희룡",
-      "traffic": "500+"
+      "keyword": "부부",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "심으뜸",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "신혼여행",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "오라클",
+      "keyword": "허인회",
       "traffic": "100+"
     },
     {
+      "rank": 8,
+      "keyword": "이정효",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
+      "keyword": "mu stock",
+      "traffic": "500+"
+    },
+    {
       "rank": 10,
-      "keyword": "수도권 광역급행철도",
+      "keyword": "서든어택",
       "traffic": "100+"
     }
   ],
@@ -56,61 +56,61 @@
     {
       "rank": 1,
       "keyword": "심우정 전 검찰총장 기각",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "최정 20홈런 11년째",
-      "state": "-",
-      "change": "1"
+      "keyword": "KT 이강철 감독의 격려와 승리",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "8기 영수 여자 눈물과 불편",
-      "state": "+",
-      "change": "1"
+      "keyword": "8기 영수, 여자가 거절",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "KT 이강철 감독 선수 격려",
-      "state": "-",
-      "change": "1"
+      "keyword": "트럼프 유학생 비자 4년 제한",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "트럼프 유학생 비자 4년 제한",
-      "state": "-",
-      "change": "1"
+      "keyword": "최정 11시즌 20홈런",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "송영길·김용 출마 자격 논의",
-      "state": "s",
-      "change": "0"
+      "keyword": "24살 정재환 신상 공개",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "3천원 부부 분노 중",
+      "keyword": "송영길 김용 자격 논란",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "여중생 성매매 사건",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "3천원 부부 남편이 아까워",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "장윤기 사건 2차 가해 대응",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 9,
-      "keyword": "정재환 신상 공개",
-      "state": "+",
-      "change": "2"
-    },
-    {
       "rank": 10,
-      "keyword": "이진환 오마카세 셰프 됨",
-      "state": "n",
+      "keyword": "제헌절 공휴일",
+      "state": "s",
       "change": "0"
     }
   ]
