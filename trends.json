@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-16T14:03:37.340Z",
+  "updatedAt": "2026-07-16T15:44:17.315Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김성령",
+      "keyword": "롤",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "김나영",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "배나라",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "골재",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "cuaca besok",
+      "keyword": "반품",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "india vs england",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "랜스 맥컬러스 주니어",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "이동국",
+      "traffic": "1000+"
+    },
+    {
       "rank": 6,
-      "keyword": "england vs india",
+      "keyword": "배 나라",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "明天的天氣",
+      "keyword": "김재희",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "협박",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "영주권",
+      "keyword": "샘킴",
       "traffic": "200+"
     },
     {
+      "rank": 9,
+      "keyword": "채널a",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "상장폐지",
-      "traffic": "20000+"
+      "keyword": "김성령",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "최정, 11년 연속 20홈런 달성",
-      "state": "s",
-      "change": "0"
+      "keyword": "최정 11시즌 연속 20홈런",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "14세 미만 SNS 제한",
+      "keyword": "하반기 업무보고 브리핑",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "임혁, 가수 도전과 아내 걱정",
+      "keyword": "심우정 전 검찰총장 기각",
       "state": "+",
       "change": "3"
     },
     {
       "rank": 4,
-      "keyword": "SSG 마드리스 영입",
-      "state": "n",
-      "change": "0"
+      "keyword": "단일종목 레버리지 예탁금 3천만원 상향",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "장원영, MLB 시구자로 뉴욕行.",
-      "state": "n",
+      "keyword": "KT 이강철 감독 격려하다",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "하반기 업무보고 브리핑",
+      "keyword": "장윤기 사건 2차 가해 처벌",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "KT 이강철 감독 선수들 격려",
+      "keyword": "배나라·한재아 결혼 소식",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "이하늬 60억 추징 혐의",
-      "state": "n",
-      "change": "0"
+      "keyword": "외치는 삼성전자 동행노조",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "배나라♥한재아 결혼 소식",
+      "keyword": "유해란 메이저 2연승!",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "이수지, 재선거 사과 논란",
+      "keyword": "개표소 막은 올다르크 구속",
       "state": "n",
       "change": "0"
     }
