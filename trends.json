@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-16T15:44:17.315Z",
+  "updatedAt": "2026-07-16T16:53:46.259Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "롤",
+      "keyword": "신혼여행",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "반품",
+      "keyword": "롤",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "india vs england",
+      "keyword": "반품",
       "traffic": "200+"
     },
     {
@@ -23,28 +23,28 @@
     },
     {
       "rank": 5,
+      "keyword": "india vs england",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
       "keyword": "이동국",
       "traffic": "1000+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "배 나라",
-      "traffic": "200+"
+      "traffic": "500+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "김재희",
       "traffic": "100+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "샘킴",
       "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "채널a",
-      "traffic": "100+"
     },
     {
       "rank": 10,
@@ -55,62 +55,62 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "최정 11시즌 연속 20홈런",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "하반기 업무보고 브리핑",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "심우정 전 검찰총장 기각",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 4,
-      "keyword": "단일종목 레버리지 예탁금 3천만원 상향",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 5,
-      "keyword": "KT 이강철 감독 격려하다",
+      "keyword": "최정 11시즌 20홈런 기록",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "장윤기 사건 2차 가해 처벌",
+      "rank": 2,
+      "keyword": "심우정 전 검찰총장 기각",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "KT 이강철 감독 선수 격려",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "배나라♥한재아 결혼 발표",
       "state": "+",
       "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "하반기 업무보고 브리핑",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "외치는 삼성전자 동행노조",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "배나라·한재아 결혼 소식",
-      "state": "+",
-      "change": "1"
+      "keyword": "장윤기 사건 2차 가해 대응",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "외치는 삼성전자 동행노조",
-      "state": "+",
-      "change": "1"
+      "keyword": "단일종목 레버리지 제한",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "유해란 메이저 2연승!",
-      "state": "+",
-      "change": "1"
+      "keyword": "중학교 근현대사 비중 확대",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "개표소 막은 올다르크 구속",
-      "state": "n",
+      "keyword": "메이저 2연승 유해란 올림픽 도전",
+      "state": "s",
       "change": "0"
     }
   ]
