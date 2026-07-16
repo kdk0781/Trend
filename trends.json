@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-16T08:28:35.953Z",
+  "updatedAt": "2026-07-16T10:26:55.973Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "돌고래",
-      "traffic": "200+"
+      "keyword": "아빌라",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "공대공 미사일",
-      "traffic": "500+"
+      "keyword": "이소라",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "알테오젠",
+      "keyword": "딜리버리 히어로",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "데이터 센터",
+      "keyword": "หวย",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "돔 경기장",
+      "keyword": "잭 델라 마달레나",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "문현빈",
-      "traffic": "500+"
+      "keyword": "kia 대 ssg",
+      "traffic": "20000+"
     },
     {
       "rank": 7,
-      "keyword": "페덱",
-      "traffic": "500+"
+      "keyword": "키움 대 한화",
+      "traffic": "10000+"
     },
     {
       "rank": 8,
-      "keyword": "입원",
-      "traffic": "100+"
+      "keyword": "롯데 대 삼성",
+      "traffic": "10000+"
     },
     {
       "rank": 9,
-      "keyword": "유강남",
-      "traffic": "2000+"
+      "keyword": "부양",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "현대자동차그룹",
-      "traffic": "500+"
+      "keyword": "kt 대 lg",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "단일종목 레버리지 예탁금 3000만원",
-      "state": "s",
-      "change": "0"
+      "keyword": "외치는 삼성전자 동행노조",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "삼성 외국인 투수 페덱 첫 선",
+      "keyword": "메이저 2연승 유해란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "장동혁 국민특검 서명받아",
+      "keyword": "공수처 위증 압수수색",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "아이브 장원영 메츠 시구",
-      "state": "+",
-      "change": "6"
+      "keyword": "아이들, 마카오 전석 매진",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "경찰 개표소 구속영장",
+      "keyword": "하이닉스 주가 움직임 주목",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "강훈식, 카타르 조문 후 귀국",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 7,
+      "keyword": "2026년 하반기 업무보고 브리핑",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "김태효 구속적부심 기각",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 6,
-      "keyword": "하는 유승민 대한체육회장",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "김현영 치어리더 매력 발산",
-      "state": "+",
-      "change": "9"
-    },
-    {
-      "rank": 8,
-      "keyword": "유재환 강제추행 항소심 기각",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 9,
-      "keyword": "알테오젠 코스피 유보",
+      "keyword": "하지원 18년 만에 시구",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "티메프 집단 환불 승소",
+      "keyword": "중학교 근현대사 확대",
       "state": "n",
       "change": "0"
     }
