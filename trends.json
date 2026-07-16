@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-16T03:39:16.821Z",
+  "updatedAt": "2026-07-16T06:02:18.195Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "맘스터치",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "서울신문",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "기쁜 우리 좋은 날",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "sk실트론",
+      "keyword": "투신",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "징역형",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "프로야구 스피리츠 2026",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "손빈아",
+      "traffic": "500+"
+    },
+    {
       "rank": 5,
-      "keyword": "심형탁",
-      "traffic": "2000+"
+      "keyword": "하이닉스",
+      "traffic": "10000+"
     },
     {
       "rank": 6,
-      "keyword": "정몽규",
-      "traffic": "2000+"
+      "keyword": "창신 메모리 테크놀로지",
+      "traffic": "10000+"
     },
     {
       "rank": 7,
-      "keyword": "권성동",
+      "keyword": "대구백화점",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "lg이노텍",
-      "traffic": "5000+"
+      "keyword": "필리조선소",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "학원",
-      "traffic": "2000+"
+      "keyword": "가덕도 테러",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "정재환",
-      "traffic": "1000+"
+      "keyword": "서강일 전북 축구 협회장",
+      "traffic": "20000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "구윤철 부총리, 부동산 세제 토론회",
-      "state": "n",
+      "keyword": "신현송 총재 기자간담회",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "권성동 징역 2년 확정",
+      "keyword": "법원 나서는 심우정 전 총장",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "윤채경 제주 비키니 휴가",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "대법 포스코 불법파견 인정",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "하이닉스 주가 변동",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "한은 금리 인상 여부 판단",
+      "keyword": "행안장관 장윤기 사건 유감",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "이재명 지지율 55% 하락",
-      "state": "+",
-      "change": "1"
+      "rank": 4,
+      "keyword": "3년 만 금리 인상",
+      "state": "n",
+      "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "오세훈 시장 간담회",
+      "rank": 5,
+      "keyword": "캐릭터 페어 2026",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 6,
+      "keyword": "퓨처스팀 코칭스태프 개편",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 7,
+      "keyword": "신안우이 해상풍력 착공",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "제주서 비키니 입은 윤채경",
+      "state": "-",
+      "change": "4"
+    },
+    {
       "rank": 9,
-      "keyword": "국군사관학교 창설 추진",
-      "state": "s",
+      "keyword": "기내식 20번 먹방 유튜버 사과",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "서예지, 홍은희·토니안과 새 출발",
-      "state": "n",
-      "change": "0"
+      "keyword": "오준성이 연출한 빈칸 채우기",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
