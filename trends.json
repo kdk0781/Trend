@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-15T23:13:14.005Z",
+  "updatedAt": "2026-07-16T00:10:37.999Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "디 오픈 챔피언십",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "대한축구협회",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "충전소",
+      "keyword": "투자",
       "traffic": "2000+"
     },
     {
+      "rank": 2,
+      "keyword": "비혼모",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "제헌절",
+      "traffic": "1000+"
+    },
+    {
       "rank": 4,
-      "keyword": "고기압",
-      "traffic": "100+"
+      "keyword": "gpt-5.6",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "전국민주노동조합총연맹",
+      "keyword": "장한별",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "개",
-      "traffic": "500+"
+      "keyword": "cxmt",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "kbo 리그",
-      "traffic": "1000+"
+      "keyword": "자운대",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "삼성 갤럭시 z 시리즈",
-      "traffic": "20000+"
+      "keyword": "sk하이닉스",
+      "traffic": "10000+"
     },
     {
       "rank": 9,
-      "keyword": "나스닥 지수",
+      "keyword": "인천일보",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "영종대교",
+      "keyword": "택배기사",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "최영중, 성관계 혐의로 당선",
+      "keyword": "아르헨티나전 케인 역전패 아쉬움",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "메시와 아르헨티나 결승행",
-      "state": "+",
-      "change": "1"
+      "keyword": "최영중 중학생 성매수 사건",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "트럼프 한국 기업 살펴볼 것",
-      "state": "-",
-      "change": "1"
+      "keyword": "충주시장 재검표 결과 변화",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "김성령 30억 주얼리 착용",
+      "keyword": "호프 최고 오프닝 33만 관객",
       "state": "+",
-      "change": "3"
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "오늘 대법 선고",
+      "keyword": "트럼프 한국 기업 살펴볼 것",
       "state": "-",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "충주시장 재검표 결과 변경",
+      "keyword": "박지훈 9월 앙코르 공연",
       "state": "-",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "스페이스X 공모가 하락",
+      "keyword": "도미노피자 리센느 협업 출시",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "이란, 美와 협상 계획 없음",
+      "keyword": "SK하이닉스 주가 상승과 하락",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김부장 비밀 공개와 부담감 토로",
-      "state": "s",
-      "change": "0"
+      "keyword": "김부장 비밀 공개",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "상철, 옥순에 눈물 고독해",
+      "keyword": "데샹 감독 전술이",
       "state": "n",
       "change": "0"
     }
