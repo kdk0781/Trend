@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-16T23:12:54.217Z",
+  "updatedAt": "2026-07-17T00:13:24.477Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "비트코인",
+      "keyword": "국방부",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "모욕",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "석유",
+      "keyword": "드라마",
       "traffic": "5000+"
     },
     {
+      "rank": 3,
+      "keyword": "유보영",
+      "traffic": "100+"
+    },
+    {
       "rank": 4,
-      "keyword": "สภาพอากาศ",
-      "traffic": "500+"
+      "keyword": "곽튜브",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "김호령",
-      "traffic": "1000+"
+      "keyword": "nba",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "시장",
-      "traffic": "10000+"
+      "keyword": "최원준",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "schd",
+      "keyword": "거제대교",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "파업",
+      "keyword": "스토킹",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "정호영",
-      "traffic": "100+"
+      "keyword": "에이치엘비",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "주식",
-      "traffic": "5000+"
+      "keyword": "mls",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "엿새째 이란 공습 계속",
+      "keyword": "제헌절 공휴일",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "제헌절 공휴일",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 3,
-      "keyword": "8기 영수, 여자 3호 거절 끝났다",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "정재환 애도 경산 피해자",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "유학생 비자 4년 제한",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "송영길 김용 자격논의 중",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "심우정 구속영장 기각",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "이혼 선택한 아내, 남편 외도 주장",
+      "keyword": "김정은 왕후닝 접견",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "정재환 경산 피해자 애도",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "임영웅, 고양 콘서트 전석 매진",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "임성재 공동 2위 출발",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "여중생 성매매 최영중",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "이혜영, 아비뇽 무대 책임감으로 감동적 공연",
+      "state": "+",
+      "change": "8"
+    },
+    {
+      "rank": 8,
+      "keyword": "진태현 하차, 이동건 등장",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "김정은 왕후닝 접견",
+      "keyword": "서강일 회장 인터뷰 파장 확산",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "임영웅 콘서트 티켓 전쟁",
-      "state": "+",
+      "keyword": "합숙맞선2 권예찬 3표 획득",
+      "state": "-",
       "change": "3"
     }
   ]
