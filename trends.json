@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-07-17T22:04:06.641Z",
+  "updatedAt": "2026-07-17T23:00:56.398Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "spcx",
-      "traffic": "500+"
+      "keyword": "thời tiết",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "현대자동차",
-      "traffic": "500+"
+      "keyword": "天気",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "vix",
+      "keyword": "부산날씨",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "타릭 스쿠발",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "민생지원금",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "저축",
+      "keyword": "필라델피아 반도체 지수",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
-      "keyword": "박문성",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "제임스 네일",
+      "rank": 5,
+      "keyword": "중앙일보",
       "traffic": "500+"
     },
     {
+      "rank": 6,
+      "keyword": "tqqq",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "nvda",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "애플 주가",
+      "traffic": "100+"
+    },
+    {
       "rank": 9,
-      "keyword": "화장실",
-      "traffic": "5000+"
+      "keyword": "종합부동산세",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "พยากรณ์อากาศ",
-      "traffic": "100+"
+      "keyword": "현대자동차",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장, TV·OTT 공존 모델",
+      "keyword": "소지섭, 북한 송환 충격 5분",
       "state": "s",
       "change": "0"
     },
@@ -68,50 +68,50 @@
     {
       "rank": 3,
       "keyword": "이주승, 상금 1억 기부",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "애플, 장중 시총 1위 탈환",
+      "keyword": "대구 호우 피해 속출",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "기안84와 배나라 찐런크루 결성",
-      "state": "+",
-      "change": "1"
+      "keyword": "낙산사서 1호 아기 탄생",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "대구 재난성 호우 발생",
-      "state": "-",
-      "change": "1"
+      "keyword": "황현희 100억 자산가로 돈 번 개그맨",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "2026년 7월 18일 운세",
-      "state": "s",
+      "keyword": "1억 포기한 가수",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "박세리 이사한 테라스",
+      "keyword": "정신병원 강제입원 도대윤",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "낙산사 부부 득남!",
+      "keyword": "애플, 엔비디아 제치고 1위 복귀",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "300만원 월세 160만원",
-      "state": "n",
-      "change": "0"
+      "keyword": "호프 백만 돌파 제헌절 122만",
+      "state": "+",
+      "change": "7"
     }
   ]
 }
