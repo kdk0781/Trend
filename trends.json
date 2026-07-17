@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-17T14:19:32.710Z",
+  "updatedAt": "2026-07-17T15:47:26.066Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "t1 한화",
-      "traffic": "500+"
+      "keyword": "더중앙플러스",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "김부장 드라마",
-      "traffic": "2000+"
+      "keyword": "아덴 만",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "김상혁",
+      "keyword": "김송",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "성과급",
-      "traffic": "2000+"
+      "keyword": "백령도",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "문샷",
-      "traffic": "1000+"
+      "keyword": "t1 hle",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "明天的天氣",
-      "traffic": "100+"
+      "keyword": "오은영 리포트 - 결혼지옥",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "페이커",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "동궁 넷플릭스",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "평창대관령음악제",
+      "keyword": "t1 한화",
       "traffic": "500+"
     },
     {
-      "rank": 10,
-      "keyword": "cuaca besok",
+      "rank": 8,
+      "keyword": "김부장 드라마",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "김상혁",
       "traffic": "200+"
+    },
+    {
+      "rank": 10,
+      "keyword": "문샷",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장, TV와 OTT 공존 모델",
+      "keyword": "김부장 공존 모델 20% 시청률",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "버넘 20일 취임 확정",
-      "state": "+",
-      "change": "8"
+      "keyword": "반구대 암각화 관리자들",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "반구대 세계유산 현장관리자들",
-      "state": "-",
-      "change": "1"
+      "keyword": "이태경 중앙대 6회 우승!",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "힐리어드 홈런 폭발!",
-      "state": "+",
-      "change": "1"
+      "keyword": "영국 총리에 버넘 확정",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "권창훈, 페르시자 이적",
-      "state": "+",
-      "change": "1"
+      "keyword": "임창정, 김용빈 노래 극찬",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "투개월 도대윤, 조울증 후 근황",
-      "state": "+",
-      "change": "1"
+      "keyword": "호우 대비 대책회의 개최",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "실종 여성 주차타워 발견",
+      "keyword": "양나래 변호사 예비신랑 공개",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "나성범 통산 300홈런 달성",
-      "state": "s",
-      "change": "0"
+      "keyword": "힐리어드 연타석 홈런!",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "야노시호 결혼과 대저택 공개",
-      "state": "n",
-      "change": "0"
+      "keyword": "송영길·김용 출마 허용",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "낙산사에서 절로 1호 아기",
+      "keyword": "심우정 딸 채용 취소",
       "state": "n",
       "change": "0"
     }
