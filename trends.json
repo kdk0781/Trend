@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-17T21:08:45.857Z",
+  "updatedAt": "2026-07-17T22:04:06.641Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "근육",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "배드민턴",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "배구",
+      "keyword": "spcx",
       "traffic": "500+"
     },
     {
+      "rank": 2,
+      "keyword": "현대자동차",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "vix",
+      "traffic": "200+"
+    },
+    {
       "rank": 4,
-      "keyword": "김종국",
-      "traffic": "5000+"
+      "keyword": "타릭 스쿠발",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "전략폭격기",
-      "traffic": "200+"
+      "keyword": "민생지원금",
+      "traffic": "10000+"
     },
     {
       "rank": 6,
-      "keyword": "진성준",
-      "traffic": "200+"
+      "keyword": "저축",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "여론 조사",
-      "traffic": "100+"
+      "keyword": "박문성",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "배달",
-      "traffic": "100+"
+      "keyword": "제임스 네일",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "신도평화대교",
-      "traffic": "200+"
+      "keyword": "화장실",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "강릉시",
-      "traffic": "200+"
+      "keyword": "พยากรณ์อากาศ",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장, 공존 모델 되다",
-      "state": "n",
+      "keyword": "김부장, TV·OTT 공존 모델",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "멕시코 인근 강진 발생",
-      "state": "n",
+      "keyword": "멕시코 7.4 지진 쓰나미 경고",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "기안84와 배나라 찐런크루 결성",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "이주승 1억 기부",
+      "keyword": "이주승, 상금 1억 기부",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "대구 호우 재난 발생",
-      "state": "+",
-      "change": "5"
+      "rank": 4,
+      "keyword": "애플, 장중 시총 1위 탈환",
+      "state": "s",
+      "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "영화 호프 100만 관객 돌파",
+      "rank": 5,
+      "keyword": "기안84와 배나라 찐런크루 결성",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "대구 재난성 호우 발생",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "소지섭, 딸 서수민 구하다",
-      "state": "+",
-      "change": "5"
+      "keyword": "2026년 7월 18일 운세",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "실종 50대 여성 오피스텔서 발견",
+      "keyword": "박세리 이사한 테라스",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "황인범 포르투 이적 확정",
-      "state": "-",
-      "change": "1"
+      "keyword": "낙산사 부부 득남!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "붉은 진주",
-      "state": "s",
+      "keyword": "300만원 월세 160만원",
+      "state": "n",
       "change": "0"
     }
   ]
