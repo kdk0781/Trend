@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-17T08:24:24.042Z",
+  "updatedAt": "2026-07-17T10:15:50.134Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이다해",
-      "traffic": "200+"
+      "keyword": "유괴",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "구혜선",
-      "traffic": "200+"
+      "keyword": "kia vs ssg",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "수출",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "강승호",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "침몰",
+      "keyword": "이동건",
       "traffic": "10000+"
     },
     {
+      "rank": 4,
+      "keyword": "롯데바이오로직스",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "소방",
+      "traffic": "500+"
+    },
+    {
       "rank": 6,
-      "keyword": "이천수",
-      "traffic": "5000+"
+      "keyword": "뮤직뱅크",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "엔소 페르난데스",
-      "traffic": "5000+"
+      "keyword": "권창훈",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "한화그룹",
-      "traffic": "2000+"
+      "keyword": "정몽규",
+      "traffic": "10000+"
     },
     {
       "rank": 9,
-      "keyword": "흡연",
+      "keyword": "당대표",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "낙태",
+      "keyword": "산사태",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 묘역 참배",
-      "state": "+",
-      "change": "1"
+      "keyword": "장동혁 대표 찾은 시위 현장",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "염경엽 감독 승리예감",
-      "state": "+",
-      "change": "1"
+      "keyword": "이태경 중앙대 6회 우승",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "양나래 변호사 9월 결혼!",
-      "state": "+",
-      "change": "5"
+      "keyword": "대곡리 반구대 암각화 답사",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "아동복지법 촉구하는 전국교사일동",
+      "keyword": "윤호중 장관 호우 대비 회의",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "의정부 부부와 자녀 사망",
-      "state": "n",
+      "keyword": "대구 롯데-삼성전 우천 취소",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "호우 대비 대책회의 주재",
+      "keyword": "의정부 부부와 자녀 숨져",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "이마트 미국산 신선란",
-      "state": "+",
-      "change": "4"
+      "keyword": "양나래 변호사",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 8,
-      "keyword": "이태경, 우승 가자!",
+      "keyword": "송영길·김용 출마 허용",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "비공개 당무위원회 참석하는",
-      "state": "+",
-      "change": "3"
+      "keyword": "김부장, TV·OTT 공존 모델",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "장위안 오랜만 근황",
-      "state": "-",
-      "change": "3"
+      "keyword": "정재환 시체손괴 수사 확대",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
