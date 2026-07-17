@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-17T20:12:55.037Z",
+  "updatedAt": "2026-07-17T21:08:45.857Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김부장 다시보기",
-      "traffic": "2000+"
+      "keyword": "근육",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "강릉시",
-      "traffic": "200+"
+      "keyword": "배드민턴",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "kone",
-      "traffic": "100+"
+      "keyword": "배구",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "포수",
-      "traffic": "500+"
+      "keyword": "김종국",
+      "traffic": "5000+"
     },
     {
       "rank": 5,
-      "keyword": "karmine corp",
-      "traffic": "500+"
+      "keyword": "전략폭격기",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "프랑스 잉글랜드",
-      "traffic": "100+"
+      "keyword": "진성준",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "강수량",
-      "traffic": "2000+"
+      "keyword": "여론 조사",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "김예림",
+      "keyword": "배달",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "al",
-      "traffic": "100+"
+      "keyword": "신도평화대교",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "더중앙플러스",
-      "traffic": "500+"
+      "keyword": "강릉시",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 공존모델 되다",
-      "state": "s",
+      "keyword": "김부장, 공존 모델 되다",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "멕시코 인근 7.4 강진",
+      "keyword": "멕시코 인근 강진 발생",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "나성범 5타점 폭발",
-      "state": "+",
-      "change": "6"
+      "keyword": "기안84와 배나라 찐런크루 결성",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "도대윤 조울증 후 근황",
-      "state": "s",
+      "keyword": "이주승 1억 기부",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "영국 총리 버넘 취임 20일",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 6,
-      "keyword": "호우특보 중대본 가동",
+      "keyword": "대구 호우 재난 발생",
       "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "한강수영장 찾은 시민들",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "힐리어드 5연승 질주",
-      "state": "-",
       "change": "5"
     },
     {
-      "rank": 9,
-      "keyword": "소지섭, 딸 구했다",
-      "state": "s",
+      "rank": 6,
+      "keyword": "영화 호프 100만 관객 돌파",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "소지섭, 딸 서수민 구하다",
+      "state": "+",
+      "change": "5"
+    },
+    {
+      "rank": 8,
+      "keyword": "실종 50대 여성 오피스텔서 발견",
+      "state": "n",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "이주승 1억 기부",
+      "rank": 9,
+      "keyword": "황인범 포르투 이적 확정",
       "state": "-",
-      "change": "4"
+      "change": "1"
+    },
+    {
+      "rank": 10,
+      "keyword": "붉은 진주",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
