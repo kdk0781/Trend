@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-17T03:39:38.872Z",
+  "updatedAt": "2026-07-17T06:03:03.837Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "웨이브",
-      "traffic": "200+"
+      "keyword": "대만",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "마사회",
-      "traffic": "100+"
+      "keyword": "김태형",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "로봇",
-      "traffic": "2000+"
+      "keyword": "한겨레",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "뉴스파이터",
+      "keyword": "김민재",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "cgv",
+      "keyword": "최지만",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "염경엽",
-      "traffic": "100+"
+      "keyword": "차유람",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "동복댐",
-      "traffic": "500+"
+      "keyword": "심유진",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "백악관 대변인",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "제헌절 태극기",
+      "keyword": "롯데자이언츠",
       "traffic": "500+"
     },
     {
+      "rank": 9,
+      "keyword": "wavve",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "두산베어스",
-      "traffic": "200+"
+      "keyword": "최태원",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "환담하는 조정식 국회의장",
-      "state": "s",
-      "change": "0"
+      "keyword": "영동고속도로 4중 추돌 화재",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 2,
-      "keyword": "양나래 변호사",
+      "keyword": "호프, 3일 만에 100만 돌파",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "신진서 카타고 대국",
-      "state": "s",
-      "change": "0"
+      "keyword": "이영애 남편 동안 비주얼 화제",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "트럼프, 중국 유권자 정보 탈취",
+      "keyword": "제헌절 조정식 국회의장",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 5,
+      "keyword": "장위안 2년만 근황 공개",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "최태원 SK하이닉스 주가 우상향 유지하세요",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 6,
-      "keyword": "검찰 보완수사권 61% 유지",
+      "keyword": "결혼의 정체는 누구?",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "나홍진 감독, 샌디에이고 코믹콘 참석",
-      "state": "-",
-      "change": "1"
+      "keyword": "붐비는 케이펫페어 서울",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "나이 들며 400만원",
+      "keyword": "보완수사권 61%, 폐지 23%",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "28기 영자 근황",
+      "keyword": "송영길·김용 출마 허용",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김부장 촬영 현장 변신",
-      "state": "+",
-      "change": "11"
+      "keyword": "주말 약속 물폭탄",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
