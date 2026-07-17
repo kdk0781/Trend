@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-07-17T15:47:26.066Z",
+  "updatedAt": "2026-07-17T16:50:52.133Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "더중앙플러스",
-      "traffic": "200+"
+      "keyword": "al",
+      "traffic": "100+"
     },
     {
       "rank": 2,
+      "keyword": "더중앙플러스",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
       "keyword": "아덴 만",
       "traffic": "1000+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "김송",
       "traffic": "200+"
     },
     {
-      "rank": 4,
-      "keyword": "백령도",
-      "traffic": "100+"
-    },
-    {
       "rank": 5,
-      "keyword": "t1 hle",
+      "keyword": "백령도",
       "traffic": "100+"
     },
     {
@@ -33,84 +33,84 @@
     },
     {
       "rank": 7,
-      "keyword": "t1 한화",
-      "traffic": "500+"
+      "keyword": "젠지",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
+      "keyword": "sbs",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 9,
       "keyword": "김부장 드라마",
       "traffic": "2000+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "김상혁",
       "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "문샷",
-      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 공존 모델 20% 시청률",
-      "state": "s",
-      "change": "0"
+      "keyword": "반구대 암각화 관리자들",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "반구대 암각화 관리자들",
-      "state": "s",
-      "change": "0"
+      "keyword": "김부장 시청률 20% 공존 모델",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "이태경 중앙대 6회 우승!",
+      "keyword": "힐리어드 홈런 폭발!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "영국 총리에 버넘 확정",
-      "state": "n",
+      "keyword": "버넘 총리 취임 예정",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "임창정, 김용빈 노래 극찬",
+      "keyword": "투개월 도대윤, 조울증 후 장범준 매니저로 활동",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "호우 대비 대책회의 개최",
-      "state": "n",
-      "change": "0"
+      "keyword": "이주승, 할아버지 덕분 기부",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "양나래 변호사 예비신랑 공개",
-      "state": "n",
+      "keyword": "대구·경기·충남·경북 호우 중대본 가동",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "힐리어드 연타석 홈런!",
+      "keyword": "나성범 300홈런 달성",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "송영길·김용 출마 허용",
-      "state": "+",
-      "change": "1"
+      "keyword": "소지섭, 딸 서수민 구출!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "심우정 딸 채용 취소",
-      "state": "n",
+      "keyword": "왕후닝 접견 김정은",
+      "state": "s",
       "change": "0"
     }
   ]
