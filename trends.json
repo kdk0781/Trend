@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-17T16:50:52.133Z",
+  "updatedAt": "2026-07-17T17:57:54.689Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "al",
+      "keyword": "프랑스 잉글랜드",
       "traffic": "100+"
     },
     {
       "rank": 2,
+      "keyword": "김예림",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "al",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
       "keyword": "더중앙플러스",
       "traffic": "500+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "아덴 만",
-      "traffic": "1000+"
+      "traffic": "2000+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "김송",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "백령도",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "오은영 리포트 - 결혼지옥",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
-      "keyword": "젠지",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "sbs",
-      "traffic": "1000+"
-    },
-    {
       "rank": 9,
-      "keyword": "김부장 드라마",
-      "traffic": "2000+"
+      "keyword": "도란",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "김상혁",
-      "traffic": "200+"
+      "keyword": "t1 한화",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "반구대 암각화 관리자들",
-      "state": "+",
-      "change": "1"
+      "keyword": "반구대 암각화 세계유산 관리자들",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김부장 시청률 20% 공존 모델",
-      "state": "-",
-      "change": "1"
+      "keyword": "김부장, TV·OTT 공존 모델 되다",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
       "keyword": "힐리어드 홈런 폭발!",
-      "state": "s",
-      "change": "0"
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "버넘 총리 취임 예정",
-      "state": "s",
+      "keyword": "영국 총리 버넘 확정",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "투개월 도대윤, 조울증 후 장범준 매니저로 활동",
-      "state": "s",
-      "change": "0"
+      "keyword": "도대윤 조울증 후 근황",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "이주승, 할아버지 덕분 기부",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "대구·경기·충남·경북 호우 중대본 가동",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
       "keyword": "나성범 300홈런 달성",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 7,
+      "keyword": "이주승, 할아버지 덕분에 기부",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "멕시코 7.4 강진 쓰나미 경고",
+      "state": "+",
+      "change": "4"
+    },
+    {
       "rank": 9,
-      "keyword": "소지섭, 딸 서수민 구출!",
-      "state": "n",
-      "change": "0"
+      "keyword": "한강수영장 찾은 시민들",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "왕후닝 접견 김정은",
-      "state": "s",
-      "change": "0"
+      "keyword": "호우특보 중대본 가동",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
