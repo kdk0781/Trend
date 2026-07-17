@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-17T06:03:03.837Z",
+  "updatedAt": "2026-07-17T08:24:24.042Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "대만",
-      "traffic": "500+"
+      "keyword": "이다해",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "김태형",
-      "traffic": "1000+"
+      "keyword": "구혜선",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "한겨레",
-      "traffic": "100+"
+      "keyword": "수출",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "김민재",
+      "keyword": "강승호",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "최지만",
-      "traffic": "200+"
+      "keyword": "침몰",
+      "traffic": "10000+"
     },
     {
       "rank": 6,
-      "keyword": "차유람",
-      "traffic": "200+"
+      "keyword": "이천수",
+      "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "심유진",
-      "traffic": "2000+"
+      "keyword": "엔소 페르난데스",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "롯데자이언츠",
-      "traffic": "500+"
+      "keyword": "한화그룹",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "wavve",
-      "traffic": "100+"
+      "keyword": "흡연",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "최태원",
-      "traffic": "10000+"
+      "keyword": "낙태",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "영동고속도로 4중 추돌 화재",
+      "keyword": "김민석 묘역 참배",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "호프, 3일 만에 100만 돌파",
-      "state": "s",
-      "change": "0"
+      "keyword": "염경엽 감독 승리예감",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "이영애 남편 동안 비주얼 화제",
+      "keyword": "양나래 변호사 9월 결혼!",
       "state": "+",
-      "change": "2"
+      "change": "5"
     },
     {
       "rank": 4,
-      "keyword": "제헌절 조정식 국회의장",
-      "state": "-",
-      "change": "3"
+      "keyword": "아동복지법 촉구하는 전국교사일동",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "장위안 2년만 근황 공개",
+      "keyword": "의정부 부부와 자녀 사망",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "결혼의 정체는 누구?",
+      "keyword": "호우 대비 대책회의 주재",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "붐비는 케이펫페어 서울",
-      "state": "n",
-      "change": "0"
+      "keyword": "이마트 미국산 신선란",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 8,
-      "keyword": "보완수사권 61%, 폐지 23%",
+      "keyword": "이태경, 우승 가자!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "송영길·김용 출마 허용",
-      "state": "n",
-      "change": "0"
+      "keyword": "비공개 당무위원회 참석하는",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "주말 약속 물폭탄",
-      "state": "n",
-      "change": "0"
+      "keyword": "장위안 오랜만 근황",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
