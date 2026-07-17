@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-17T00:13:24.477Z",
+  "updatedAt": "2026-07-17T03:39:38.872Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "국방부",
+      "keyword": "웨이브",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "드라마",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "유보영",
+      "keyword": "마사회",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "로봇",
+      "traffic": "2000+"
+    },
+    {
       "rank": 4,
-      "keyword": "곽튜브",
+      "keyword": "뉴스파이터",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "nba",
+      "keyword": "cgv",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "최원준",
-      "traffic": "200+"
+      "keyword": "염경엽",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "거제대교",
-      "traffic": "200+"
+      "keyword": "동복댐",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "스토킹",
-      "traffic": "200+"
+      "keyword": "백악관 대변인",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "에이치엘비",
+      "keyword": "제헌절 태극기",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "mls",
-      "traffic": "100+"
+      "keyword": "두산베어스",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "제헌절 공휴일",
+      "keyword": "환담하는 조정식 국회의장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김정은 왕후닝 접견",
+      "keyword": "양나래 변호사",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "정재환 경산 피해자 애도",
+      "keyword": "신진서 카타고 대국",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "임영웅, 고양 콘서트 전석 매진",
+      "keyword": "트럼프, 중국 유권자 정보 탈취",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "임성재 공동 2위 출발",
-      "state": "n",
+      "keyword": "최태원 SK하이닉스 주가 우상향 유지하세요",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "여중생 성매매 최영중",
-      "state": "-",
-      "change": "2"
+      "keyword": "검찰 보완수사권 61% 유지",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "이혜영, 아비뇽 무대 책임감으로 감동적 공연",
-      "state": "+",
-      "change": "8"
+      "keyword": "나홍진 감독, 샌디에이고 코믹콘 참석",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "진태현 하차, 이동건 등장",
+      "keyword": "나이 들며 400만원",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "서강일 회장 인터뷰 파장 확산",
+      "keyword": "28기 영자 근황",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "합숙맞선2 권예찬 3표 획득",
-      "state": "-",
-      "change": "3"
+      "keyword": "김부장 촬영 현장 변신",
+      "state": "+",
+      "change": "11"
     }
   ]
 }
