@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-18T18:04:41.249Z",
+  "updatedAt": "2026-07-18T19:19:18.989Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "man utd đấu với wrexham",
+      "keyword": "모건 로저스",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "폐지",
-      "traffic": "1000+"
+      "keyword": "정은경",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "멸망전",
-      "traffic": "100+"
+      "keyword": "폐지",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "2026 國際足總世界盃",
-      "traffic": "100+"
+      "keyword": "man utd đấu với wrexham",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "일베",
+      "keyword": "멸망전",
       "traffic": "200+"
     },
     {
       "rank": 6,
+      "keyword": "2026 國際足總世界盃",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "일베",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
       "keyword": "로트바이스 오버하우젠 대 도르트문트",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "чемпионат мира по футболу fifa –2026",
       "traffic": "100+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "김소영",
       "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "토트넘",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "แมนยู พบ เร็กซ์แฮม",
-      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "인천 물류센터 화재",
+      "keyword": "김부장 손나은 핫팩 촬영장 기억",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "손나은, 핫팩 들고 김부장 촬영장 추억",
-      "state": "s",
+      "keyword": "쿠팡 인천 화재 사과",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이범호 감독의 기쁜 순간들",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "1233회 로또 1등 31명 8억4000만원",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
       "keyword": "페덱 6이닝 무실점",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "1233회 로또 1등 31명 각 8억",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "사극 오싹한 연애 로맨스로 전환",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "윤주모 서울예대 반전",
+      "keyword": "서울예대 출신 윤주모 반전",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "이란 MOU 중단 선언",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "원산갈마해안관광지구 북한 주민들",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "박나연 34년 만에 1500M 신기록",
+      "keyword": "구혜선, 악플 읽는다",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "KIA SSG 12-2 완승",
+      "rank": 8,
+      "keyword": "첫만남 행복해요!",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "이란, MOU 이행 중단",
       "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 10,
+      "keyword": "KIA SSG 12-2 대승",
+      "state": "-",
       "change": "2"
     }
   ]
