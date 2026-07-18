@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-18T21:02:38.831Z",
+  "updatedAt": "2026-07-18T22:02:05.081Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "스페이스x",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "열차",
+      "keyword": "ฝรั่งเศส พบ อังกฤษ",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "사고",
+      "traffic": "2000+"
+    },
+    {
       "rank": 3,
-      "keyword": "오장섭",
-      "traffic": "100+"
+      "keyword": "집중호우",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "양도",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "현대 넥쏘",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "설영우",
+      "keyword": "포스코홀딩스",
       "traffic": "500+"
     },
     {
+      "rank": 5,
+      "keyword": "차유람",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "식중독",
+      "traffic": "2000+"
+    },
+    {
       "rank": 7,
-      "keyword": "france vs england",
+      "keyword": "pháp đấu với anh",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "오은영 리포트 - 결혼지옥",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "fifa world cup 2026",
+      "keyword": "석유",
       "traffic": "1000+"
     },
     {
+      "rank": 9,
+      "keyword": "에코프로비엠",
+      "traffic": "500+"
+    },
+    {
       "rank": 10,
-      "keyword": "dc",
-      "traffic": "100+"
+      "keyword": "비",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 촬영 추억 대방출",
+      "keyword": "김부장 아닌 김준호 소지섭 닮았네",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "사극 오싹한 연애 로맨스로 확장",
-      "state": "s",
-      "change": "0"
+      "keyword": "이란 공습 미군 2명 사망",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "꺾고 결승 진출",
-      "state": "n",
-      "change": "0"
+      "keyword": "결혼의 완성",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "윤주모 서울예대 출신 래퍼",
+      "keyword": "윤주모 윤나라 식당 운영",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이란 MOU 중단",
-      "state": "n",
+      "keyword": "꺾고 결승 진출",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "욕설 논란의 호프 120만 관객 돌파",
+      "keyword": "인천 쿠팡 물류센터 화재",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "전북 정정용 감독 승리 다짐",
-      "state": "n",
-      "change": "0"
+      "keyword": "사극과 오싹한 연애의 로맨스",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "구혜선 악플 참신하지 않아",
+      "keyword": "LG 4연패 충격, 김현수 기록",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "에르난데스 헤드샷 퇴장",
-      "state": "n",
-      "change": "0"
+      "keyword": "호불호 넘치는 호프 흥행 120만",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "유노윤호 서울역 노숙 고백",
+      "keyword": "2026년 7월 19일 운세",
       "state": "n",
       "change": "0"
     }
