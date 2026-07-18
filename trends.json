@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-18T00:02:32.113Z",
+  "updatedAt": "2026-07-18T03:23:33.795Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "주차",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "김부장",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "축제",
+      "keyword": "북파공작원",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "김영광",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "이동하",
+      "traffic": "10000+"
+    },
+    {
       "rank": 4,
-      "keyword": "수사",
+      "keyword": "키미",
       "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "수성구",
-      "traffic": "2000+"
+      "keyword": "극한호우",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "전시 작전통제권",
-      "traffic": "200+"
+      "keyword": "마사회",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "경기도교육감",
+      "keyword": "크리스티안 로메로",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "2026",
-      "traffic": "2000+"
+      "keyword": "이예빈",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "weather",
-      "traffic": "1000+"
+      "keyword": "무키 베츠",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "tsla",
-      "traffic": "200+"
+      "keyword": "장위안",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 액션 광란의 결말",
+      "keyword": "강연하는 최휘영 장관",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "왕후닝 원산갈마해안관광지구 참관",
-      "state": "n",
+      "keyword": "티파니 영, 아시아 투어 개최",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "브렌다 프리커 별세 81세",
-      "state": "n",
+      "keyword": "손흥민 LA 더비 출격",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "서울 인천 경기 호우경보 발령",
-      "state": "n",
+      "keyword": "집중호우로 침수된 주택가",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "실종 여성 열흘 만에 주차타워서 발견",
+      "keyword": "김부장 드라마 광고 완판!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "호프 120만 관객 돌파",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "호르무즈서 유조선 폭발",
+      "keyword": "서울 동부간선도로 통제 해제",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "옥주현 김호영 공개사과 요구",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 8,
-      "keyword": "외도 불륜 성매매",
+      "keyword": "비둘기 브렌다 별세",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "중국 문화 훔친 한국",
+      "keyword": "미스터킴 순자 소송 준비",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "유재석 눈물, 역사적 재회",
+      "keyword": "고양시 화전동 침수",
       "state": "n",
       "change": "0"
     }
