@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-18T15:07:39.412Z",
+  "updatedAt": "2026-07-18T16:06:55.054Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "2026 fifa 월드컵",
-      "traffic": "20000+"
+      "keyword": "manchester united",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "트레이드",
-      "traffic": "500+"
+      "keyword": "토트넘",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "fifa ワールドカップ 2026",
-      "traffic": "200+"
+      "keyword": "แมนยู พบ เร็กซ์แฮม",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "고현정",
-      "traffic": "2000+"
+      "keyword": "코르티스 콘서트",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "조윤희",
-      "traffic": "200+"
+      "keyword": "man united vs wrexham",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "로또1233회당첨번호",
-      "traffic": "2000+"
+      "keyword": "쵸비",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "주식 병합",
-      "traffic": "1000+"
+      "keyword": "유노윤호",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "t1",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "홍해",
+      "keyword": "고우림",
       "traffic": "200+"
     },
     {
+      "rank": 9,
+      "keyword": "션",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "옥주현",
+      "keyword": "ewc t1",
       "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "손나은, 핫팩 들고 김부장 촬영 추억",
+      "keyword": "손나은, 김부장 촬영장 핫팩 품고 떠올림",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "쿠팡 물류센터 화재",
-      "state": "n",
+      "keyword": "인천 쿠팡 물류센터 화재",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "결혼의 완성",
+      "keyword": "이범호 감독 기분 좋아!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
       "keyword": "페덱 6이닝 무실점",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "1233회 로또 1등 31명 각 8억 지급",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "LG 4연패, KT 6연승",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "30대 사장 턱 핥음",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "로건, KT 6억 계약",
+      "rank": 5,
+      "keyword": "BTS 파리 공연 9만명 관객",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "2000원이라고 유리 품절",
+      "rank": 6,
+      "keyword": "1233회 로또 1등 31명 각 8억4000만원",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "결혼의 완성",
       "state": "-",
-      "change": "2"
+      "change": "3"
+    },
+    {
+      "rank": 8,
+      "keyword": "사극과 로맨스로 확장된 오싹한 연애",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "울산대 첫 우승",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "박은빈의 일탈 고백",
-      "state": "n",
+      "keyword": "퀸즈아이 서빈 완벽한 시선",
+      "state": "s",
       "change": "0"
     }
   ]
