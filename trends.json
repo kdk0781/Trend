@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-18T17:08:45.629Z",
+  "updatedAt": "2026-07-18T18:04:41.249Z",
   "google": [
     {
       "rank": 1,
       "keyword": "man utd đấu với wrexham",
-      "traffic": "200+"
+      "traffic": "500+"
     },
     {
       "rank": 2,
@@ -28,90 +28,90 @@
     },
     {
       "rank": 6,
+      "keyword": "로트바이스 오버하우젠 대 도르트문트",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
       "keyword": "чемпионат мира по футболу fifa –2026",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "김소영",
       "traffic": "100+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "토트넘",
       "traffic": "100+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "แมนยู พบ เร็กซ์แฮม",
       "traffic": "500+"
-    },
-    {
-      "rank": 10,
-      "keyword": "물고기",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "손나은, 핫팩 품고 김부장 촬영장 회상",
+      "keyword": "인천 물류센터 화재",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "인천 쿠팡 물류센터 화재 발생",
+      "keyword": "손나은, 핫팩 들고 김부장 촬영장 추억",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이범호 감독 기쁨 나눠",
+      "keyword": "이범호 감독의 기쁜 순간들",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "1233회 로또 1등 31명 당첨",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "페덱 6이닝 무실점",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "결혼의 완성",
+      "keyword": "1233회 로또 1등 31명 8억4000만원",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "페덱 6이닝 무실점",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "윤주모 서울예대 반전",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "울산대 추계우승",
+      "keyword": "이란 MOU 중단 선언",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "퀸즈아이 서빈 집중하라!",
-      "state": "s",
-      "change": "0"
+      "keyword": "원산갈마해안관광지구 북한 주민들",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "윤주모 서울예대 출신 래퍼",
-      "state": "s",
+      "keyword": "박나연 34년 만에 1500M 신기록",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "호우특보 발효 확대",
-      "state": "n",
-      "change": "0"
+      "keyword": "KIA SSG 12-2 완승",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
