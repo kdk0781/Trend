@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-18T07:19:18.430Z",
+  "updatedAt": "2026-07-18T09:01:56.938Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "쿠팡 화재",
-      "traffic": "2000+"
+      "keyword": "악어",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "염승환",
-      "traffic": "500+"
+      "keyword": "폭력 조직",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "이정후",
-      "traffic": "20000+"
+      "keyword": "주식시장",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "손흥민",
-      "traffic": "100000+"
+      "keyword": "박지영 아나운서",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "며느리",
-      "traffic": "2000+"
+      "keyword": "마르크 쿠쿠레야",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "프레디 프리먼",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "충돌",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "황인범",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "후보",
+      "keyword": "뉴스",
       "traffic": "10000+"
     },
     {
-      "rank": 10,
-      "keyword": "김시우",
+      "rank": 7,
+      "keyword": "인천 쿠팡 화재",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "바다",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "유학",
       "traffic": "200+"
+    },
+    {
+      "rank": 10,
+      "keyword": "염승환",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장과 윤경호의 육탄전",
+      "keyword": "주상욱 비하인드 컷 공개",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "인천 쿠팡 화재 2단계 격상",
+      "keyword": "인천 화재 국가소방동원령 발령",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이정후 후반기 3안타",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "최선희 모스크바 도착",
+      "keyword": "KT 로건 정식 계약",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "양평 의혹 원희룡 23일 소환",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "렛츠런파크 영천 경주마들",
+      "rank": 4,
+      "keyword": "원희룡 23일 특검 출석",
       "state": "-",
       "change": "2"
     },
     {
+      "rank": 5,
+      "keyword": "김성령, 유노윤호 대기실 포착",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "김광원 연장전 골!",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "강연하는 유흥식 추기경",
+      "keyword": "국가공무원 7급 응시율 61.1%",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이건태 보완수사권 토론 취소",
+      "keyword": "조광한 경기도당위원장 출마 철회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "총리 호우 피해 복구에 총력",
+      "keyword": "미국-중국 월드컵 공동개최",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "한국 군함, 아덴만 출동",
+      "keyword": "이정후 3안타 폭발",
       "state": "n",
       "change": "0"
     }
