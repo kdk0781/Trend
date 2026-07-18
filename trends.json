@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-18T16:06:55.054Z",
+  "updatedAt": "2026-07-18T17:08:45.629Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "manchester united",
+      "keyword": "man utd đấu với wrexham",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "토트넘",
-      "traffic": "100+"
+      "keyword": "폐지",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "แมนยู พบ เร็กซ์แฮม",
-      "traffic": "500+"
+      "keyword": "멸망전",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "코르티스 콘서트",
+      "keyword": "2026 國際足總世界盃",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "man united vs wrexham",
-      "traffic": "500+"
+      "keyword": "일베",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "쵸비",
+      "keyword": "чемпионат мира по футболу fifa –2026",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "유노윤호",
+      "keyword": "김소영",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "고우림",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "션",
+      "keyword": "토트넘",
       "traffic": "100+"
     },
     {
+      "rank": 9,
+      "keyword": "แมนยู พบ เร็กซ์แฮม",
+      "traffic": "500+"
+    },
+    {
       "rank": 10,
-      "keyword": "ewc t1",
-      "traffic": "1000+"
+      "keyword": "물고기",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "손나은, 김부장 촬영장 핫팩 품고 떠올림",
+      "keyword": "손나은, 핫팩 품고 김부장 촬영장 회상",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "인천 쿠팡 물류센터 화재",
+      "keyword": "인천 쿠팡 물류센터 화재 발생",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이범호 감독 기분 좋아!",
+      "keyword": "이범호 감독 기쁨 나눠",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
+      "keyword": "1233회 로또 1등 31명 당첨",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
       "keyword": "페덱 6이닝 무실점",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "BTS 파리 공연 9만명 관객",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 6,
-      "keyword": "1233회 로또 1등 31명 각 8억4000만원",
+      "keyword": "결혼의 완성",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "결혼의 완성",
-      "state": "-",
-      "change": "3"
+      "keyword": "울산대 추계우승",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "사극과 로맨스로 확장된 오싹한 연애",
+      "keyword": "퀸즈아이 서빈 집중하라!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "울산대 첫 우승",
+      "keyword": "윤주모 서울예대 출신 래퍼",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "퀸즈아이 서빈 완벽한 시선",
-      "state": "s",
+      "keyword": "호우특보 발효 확대",
+      "state": "n",
       "change": "0"
     }
   ]
