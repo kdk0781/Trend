@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-18T03:23:33.795Z",
+  "updatedAt": "2026-07-18T05:40:40.764Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "북파공작원",
-      "traffic": "200+"
+      "keyword": "손흥민",
+      "traffic": "50000+"
     },
     {
       "rank": 2,
-      "keyword": "김영광",
-      "traffic": "100+"
+      "keyword": "며느리",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "이동하",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "키미",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "극한호우",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "마사회",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "크리스티안 로메로",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "이예빈",
+      "keyword": "프레디 프리먼",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "충돌",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "황인범",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "후보",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "김시우",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "필리조선소",
+      "traffic": "10000+"
+    },
+    {
       "rank": 9,
-      "keyword": "무키 베츠",
-      "traffic": "100+"
+      "keyword": "선글라스",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "장위안",
+      "keyword": "스피킹데드",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "강연하는 최휘영 장관",
+      "keyword": "소진♥ 이동하, 윤경호와 육탄전",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "티파니 영, 아시아 투어 개최",
-      "state": "s",
-      "change": "0"
+      "keyword": "인천 쿠팡 화재 대응 2단계",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "손흥민 LA 더비 출격",
+      "keyword": "손흥민 첫골 LAFC 3-0 승리",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "집중호우로 침수된 주택가",
-      "state": "s",
+      "keyword": "영천 모의경주 준비 완료",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김부장 드라마 광고 완판!",
+      "keyword": "한성숙 총리 호우 복구 현장 점검",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "서울 동부간선도로 통제 해제",
-      "state": "n",
-      "change": "0"
+      "keyword": "최태원 회장 폐회사",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "옥주현 김호영 공개사과 요구",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "비둘기 브렌다 별세",
+      "keyword": "매니저 박명수 형수님",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "서울 아파트 최고가",
+      "state": "+",
+      "change": "4"
+    },
+    {
       "rank": 9,
-      "keyword": "미스터킴 순자 소송 준비",
+      "keyword": "군함 긴급 유조선",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "고양시 화전동 침수",
+      "keyword": "백남준 파우스트 소유 인정",
       "state": "n",
       "change": "0"
     }
