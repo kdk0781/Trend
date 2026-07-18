@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-18T11:31:44.273Z",
+  "updatedAt": "2026-07-18T12:31:26.904Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "송진우",
-      "traffic": "200+"
+      "keyword": "xsmb",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "펩 과르디올라",
-      "traffic": "100+"
+      "keyword": "뷰캐넌",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "대전 대 울산",
-      "traffic": "2000+"
+      "keyword": "전남 대 충남 아산 fc",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "강원 대 김천상무",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "tving",
+      "keyword": "브라이슨 디 섐보",
       "traffic": "500+"
     },
     {
+      "rank": 5,
+      "keyword": "맨유",
+      "traffic": "200+"
+    },
+    {
       "rank": 6,
-      "keyword": "공무원시험",
-      "traffic": "2000+"
+      "keyword": "제헌절",
+      "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "오싹한 연애",
-      "traffic": "200+"
+      "keyword": "s&p 500",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "선우용여",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "브라이슨 디섐보",
+      "keyword": "알테오젠",
       "traffic": "200+"
     },
     {
+      "rank": 9,
+      "keyword": "김희재",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "밤하늘",
+      "keyword": "송진우",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 다시 주목받다",
+      "keyword": "김부장과 반대의 다정한 모습",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "퀸즈아이 서빈 무대에 서다!",
-      "state": "n",
+      "keyword": "인천 물류센터 화재 사과",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "인천 쿠팡 화재 진압 총력",
-      "state": "n",
-      "change": "0"
+      "keyword": "페덱 6이닝 무실점",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 4,
-      "keyword": "에르난데스 헤드샷 퇴장",
-      "state": "+",
-      "change": "2"
+      "keyword": "티파니 영 홍보 성공",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "리베란테 우승하나?",
-      "state": "+",
-      "change": "2"
+      "keyword": "불후의 명곡",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "연평도 북방 중국 어선 침몰",
-      "state": "n",
+      "keyword": "김현수, 17시즌 100안타 달성",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
+      "keyword": "원산갈마해안관광지구 북한 주민들",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "2타점 2루타 폭발",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
       "keyword": "놀면 뭐하니",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 8,
-      "keyword": "이범호 감독 활약 좋아!",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "이주승 조모 레이저 치료",
-      "state": "+",
-      "change": "7"
-    },
-    {
       "rank": 10,
-      "keyword": "허경환 동생 조카 유재석 쾌척",
+      "keyword": "호르무즈와 홍해 봉쇄",
       "state": "n",
       "change": "0"
     }
