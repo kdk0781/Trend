@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-18T12:31:26.904Z",
+  "updatedAt": "2026-07-18T14:02:38.240Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "xsmb",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "뷰캐넌",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "전남 대 충남 아산 fc",
+      "keyword": "동행",
       "traffic": "100+"
     },
     {
-      "rank": 4,
-      "keyword": "브라이슨 디 섐보",
+      "rank": 2,
+      "keyword": "왕즈이",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "sbs",
       "traffic": "500+"
     },
     {
+      "rank": 4,
+      "keyword": "kc 롤",
+      "traffic": "200+"
+    },
+    {
       "rank": 5,
-      "keyword": "맨유",
+      "keyword": "한혜진",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "제헌절",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "s&p 500",
+      "keyword": "1233 회 로또",
       "traffic": "2000+"
     },
     {
-      "rank": 8,
-      "keyword": "알테오젠",
+      "rank": 7,
+      "keyword": "야구 순위",
       "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "동전주",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "김희재",
-      "traffic": "100+"
+      "keyword": "긴급 체포",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "송진우",
-      "traffic": "200+"
+      "keyword": "cuaca besok",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장과 반대의 다정한 모습",
+      "keyword": "김부장과 윤경호 다정한 투샷",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "인천 물류센터 화재 사과",
+      "keyword": "인천 쿠팡 화재 상황",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "페덱 6이닝 무실점",
+      "keyword": "결혼의 완성",
       "state": "+",
-      "change": "4"
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "티파니 영 홍보 성공",
-      "state": "s",
-      "change": "0"
+      "keyword": "이범호 감독, 김호령 활약 좋다",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "불후의 명곡",
-      "state": "s",
+      "keyword": "로또 당첨지역",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김현수, 17시즌 100안타 달성",
+      "keyword": "페덱 6이닝 무실점",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "접객원 손 잡다 추궁당한 30대",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "원산갈마해안관광지구 북한 주민들",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 8,
-      "keyword": "2타점 2루타 폭발",
-      "state": "n",
+      "keyword": "KT와 정식계약 보쉴리는",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "놀면 뭐하니",
-      "state": "+",
-      "change": "2"
+      "keyword": "양식장 여아 의식불명",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "호르무즈와 홍해 봉쇄",
+      "keyword": "박은빈 야자 일탈 영화관행",
       "state": "n",
       "change": "0"
     }
