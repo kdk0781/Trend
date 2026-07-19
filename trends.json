@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-19T06:16:20.792Z",
+  "updatedAt": "2026-07-19T08:34:52.242Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "개인방송",
-      "traffic": "5000+"
+      "keyword": "안동시",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "펜트하우스",
+      "keyword": "오은영",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "이해찬",
-      "traffic": "200+"
+      "keyword": "문샷 ai",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "매매",
-      "traffic": "2000+"
+      "keyword": "덕양구",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "위생",
-      "traffic": "500+"
+      "keyword": "서희제",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "하트시그널",
-      "traffic": "500+"
+      "keyword": "최태원",
+      "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "제이쓴",
-      "traffic": "200+"
+      "keyword": "국내총생산",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "이현이",
+      "keyword": "선수",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "법률저널",
+      "keyword": "찰리 반즈",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "박주호",
-      "traffic": "10000+"
+      "keyword": "두산 베어스",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "폭우에 산불 이재민 임시주택",
-      "state": "+",
-      "change": "1"
+      "keyword": "김부장 SNS 비하인드 풀다",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "호프 5일 200만 돌파",
+      "keyword": "신진서, AI 카타고에 승리",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "윤정호 강남도곡유소년야구단 감독",
-      "state": "n",
-      "change": "0"
+      "keyword": "인천 쿠팡 화재 계속",
+      "state": "+",
+      "change": "7"
     },
     {
       "rank": 4,
-      "keyword": "폭염 속 연꽃 나들이",
-      "state": "n",
+      "keyword": "호프 5일 200만 돌파",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "오싹한 연애",
-      "state": "+",
-      "change": "91"
+      "keyword": "아이브 리즈, 오싹한 연애 OST 이어가다",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "쿠팡 화재 임시 대피소",
+      "keyword": "CJ 제품 가격 상승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "대졸 실업자 최대치",
+      "keyword": "LG 염경엽 감독 승운 부재",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이정후 4타수 무안타",
-      "state": "-",
-      "change": "5"
+      "keyword": "조국혁신당 당대표 후보",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "중국인 우르르 인천공항 새치기",
+      "keyword": "장윤정, 사기 논란 속 홀로 쉬고 싶다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "뉴욕은행서 원화계좌 개설",
+      "keyword": "권상우 아들, 디카프리오급 미모",
       "state": "n",
       "change": "0"
     }
