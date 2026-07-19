@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-19T22:26:27.046Z",
+  "updatedAt": "2026-07-19T23:27:07.831Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "월드컵 통계",
+      "keyword": "와일드 씽",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "월드컵 순위",
-      "traffic": "500+"
+      "keyword": "월드컵 우승 상금",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "world cup schedule",
-      "traffic": "500+"
+      "keyword": "철도",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "민생지원금",
-      "traffic": "20000+"
+      "keyword": "안정환",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "고우석",
-      "traffic": "1000+"
+      "keyword": "카보베르데",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "송성문",
-      "traffic": "500+"
+      "keyword": "天気",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "안세영",
-      "traffic": "2000+"
+      "keyword": "이현이",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "진태현",
-      "traffic": "1000+"
+      "keyword": "ferran torres",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "이강인",
-      "traffic": "2000+"
+      "keyword": "파리 생제르맹 fc",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "월드컵 결과",
-      "traffic": "5000+"
+      "keyword": "육아",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "인천 쿠팡물류센터 붕괴 위험 대피령",
-      "state": "n",
-      "change": "0"
+      "keyword": "양미경 남편 강승식 별세",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "김시우 디오픈 공동 6위",
+      "keyword": "디 오픈 챔피언십",
       "state": "+",
-      "change": "1"
+      "change": "5"
     },
     {
       "rank": 3,
       "keyword": "결혼의 완성",
-      "state": "-",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "김부장 SNS 활발",
+      "keyword": "김부장 흥행으로 SNS 활발",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "스페인, 아르헨티나 1-0 승리",
+      "keyword": "김정은 파리연인 결말 분노",
       "state": "+",
-      "change": "6"
+      "change": "11"
     },
     {
       "rank": 6,
       "keyword": "사랑을 처방해 드립니다",
-      "state": "+",
-      "change": "2"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "가수 양미경 남편 별세",
+      "keyword": "사흘째 쿠팡 물류센터 불길",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이라크서 미군 1명 사망",
-      "state": "+",
-      "change": "2"
+      "keyword": "고우석 만루 위기 탈출 무실점",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "2026년 7월 20일 운세",
+      "keyword": "임민균 위원장 포즈",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "류진 의상 논란 사과",
-      "state": "+",
+      "keyword": "민지영, 갑상선암 시한폭탄 같아.",
+      "state": "-",
       "change": "7"
     }
   ]
