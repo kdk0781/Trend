@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-19T00:03:32.021Z",
+  "updatedAt": "2026-07-19T03:45:05.874Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "구글",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "고가교",
+      "keyword": "항공",
       "traffic": "100+"
     },
     {
-      "rank": 3,
-      "keyword": "월드컵 득점 순위",
+      "rank": 2,
+      "keyword": "볼로디미르 젤렌스키",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "한화이글스",
+      "traffic": "100+"
+    },
+    {
       "rank": 4,
-      "keyword": "3기 신도시",
+      "keyword": "롯데리아",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "다음",
-      "traffic": "1000+"
+      "keyword": "은마아파트",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "배 나라",
-      "traffic": "200+"
+      "keyword": "앤드류 테이트",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "ワールドカップ",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "디오픈",
+      "keyword": "저비용 항공사",
       "traffic": "500+"
     },
     {
-      "rank": 9,
-      "keyword": "세종특별자치시",
+      "rank": 8,
+      "keyword": "대한민국 해양경찰청",
       "traffic": "100+"
     },
     {
+      "rank": 9,
+      "keyword": "벌금",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "올리세",
-      "traffic": "200+"
+      "keyword": "공유",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 송환 위기 최고시청률 26.2%",
+      "keyword": "쿠팡 물류센터 화재",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "잉글랜드, 프랑스 꺾고 3위",
-      "state": "n",
+      "keyword": "김부장 시청률 23% 넘사벽",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이란 공습 미군 2명 사망",
+      "keyword": "세계유산위원회 오늘 개막",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "사극 오싹한 연애 로맨스로 확장",
+      "keyword": "연상호, 장르 개척 감독",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "삼성전자 사우디 모스크 에어컨 공급",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "인천 쿠팡 물류센터 화재 24시간째",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 6,
-      "keyword": "1인당 GDP 3만9000달러",
-      "state": "n",
-      "change": "0"
+      "keyword": "김용범 레버리지 ETF 상폐 어려워",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "마크롱 부부, 아미?",
-      "state": "n",
+      "keyword": "김시우, 디오픈 3R 공동 2위",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김시우 디오픈 2위",
-      "state": "+",
-      "change": "1"
+      "keyword": "기름값 9주 연속 하락",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "최태원 노소영 재산분할",
+      "keyword": "대졸 실업자 5년 만에 최대",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "80억 투입 결렬 넷플릭스행",
-      "state": "n",
-      "change": "0"
+      "keyword": "안동 수해 복구 중",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
