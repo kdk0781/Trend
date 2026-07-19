@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-18T23:03:13.257Z",
+  "updatedAt": "2026-07-19T00:03:32.021Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "음바페",
-      "traffic": "500+"
+      "keyword": "구글",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "이영표",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "파산",
+      "keyword": "고가교",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "월드컵 득점 순위",
+      "traffic": "200+"
+    },
+    {
       "rank": 4,
-      "keyword": "김유정",
+      "keyword": "3기 신도시",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "소지섭",
+      "keyword": "다음",
       "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "신도",
+      "keyword": "배 나라",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "world cup",
-      "traffic": "1000+"
+      "keyword": "ワールドカップ",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "김혜성",
-      "traffic": "1000+"
+      "keyword": "디오픈",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "ufc",
-      "traffic": "2000+"
+      "keyword": "세종특별자치시",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "박명수",
-      "traffic": "500+"
+      "keyword": "올리세",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 시청률 경신 23.1%",
+      "keyword": "김부장 송환 위기 최고시청률 26.2%",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이란 공격 미군 2명 사망",
-      "state": "s",
+      "keyword": "잉글랜드, 프랑스 꺾고 3위",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "결혼의 완성",
-      "state": "+",
-      "change": "1"
+      "keyword": "이란 공습 미군 2명 사망",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "사극과 로맨스가 만난 오싹한 연애",
-      "state": "+",
-      "change": "9"
-    },
-    {
-      "rank": 5,
-      "keyword": "2026년 7월 19일 운세",
+      "keyword": "사극 오싹한 연애 로맨스로 확장",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 5,
+      "keyword": "인천 쿠팡 물류센터 화재 24시간째",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "프랑스 잉글랜드 혈투",
+      "keyword": "1인당 GDP 3만9000달러",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "호우특보 19일 확대",
+      "keyword": "마크롱 부부, 아미?",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "양식장 심폐소생술 했지만",
-      "state": "n",
-      "change": "0"
+      "keyword": "김시우 디오픈 2위",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "광주 어린이집 낮잠 아이 사망",
+      "keyword": "최태원 노소영 재산분할",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "유리 선글라스 완판",
+      "keyword": "80억 투입 결렬 넷플릭스행",
       "state": "n",
       "change": "0"
     }
