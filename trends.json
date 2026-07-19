@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-19T16:37:20.207Z",
+  "updatedAt": "2026-07-19T17:37:48.353Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "남주혁",
-      "traffic": "200+"
+      "keyword": "ewc",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "변우석",
-      "traffic": "500+"
+      "keyword": "담원기아",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "김혜수",
-      "traffic": "500+"
+      "keyword": "공희용",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "현대건설",
+      "keyword": "포헨즈",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "논쟁",
-      "traffic": "500+"
+      "keyword": "디플러스기아",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "케스파컵",
+      "keyword": "남주혁",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "국민일보",
-      "traffic": "100+"
+      "keyword": "변우석",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "김정은",
-      "traffic": "2000+"
+      "keyword": "김혜수",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "운전 기사",
-      "traffic": "200+"
+      "keyword": "현대건설",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "한화",
-      "traffic": "200+"
+      "keyword": "논쟁",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "이재명 세계유산위원회 개회식",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "양미경 남편 별세",
-      "state": "-",
-      "change": "1"
+      "keyword": "쿠팡 물류센터 화재",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "쿠팡 물류센터 화재 장기화",
+      "keyword": "류현진 2500탈삼진 달성",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "류현진, 한미 통산 2500탈삼진 달성",
-      "state": "s",
-      "change": "0"
+      "keyword": "김정은 파리연인 20년 후 만남",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "김정은, 파리의 연인 20년 만의 만남",
+      "keyword": "KT 2위 탈환",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "김부장 흥행 SNS 활발",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "KT 2위 재탈환",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "부산 간담회 김민석 참석",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "美 요르단 아카바 소개령 발동",
+      "keyword": "美 요르단 아카바 소개령 방문 자제",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 10,
-      "keyword": "아이브 리즈, 오싹한 연애 OST",
-      "state": "s",
+      "rank": 7,
+      "keyword": "춤을 강승식 별세",
+      "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "김부장 SNS 비하인드 활발",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "임지연 이도현 골프장 데이트",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "이다해 세븐 임신 소식",
+      "state": "+",
+      "change": "9"
     }
   ]
 }
