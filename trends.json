@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-19T13:55:11.805Z",
+  "updatedAt": "2026-07-19T14:48:00.583Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김정은",
+      "keyword": "논쟁",
       "traffic": "500+"
     },
     {
       "rank": 2,
+      "keyword": "국민일보",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "김정은",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
       "keyword": "운전 기사",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "한화",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "김현준",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "야구 순위",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "수원삼성",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "k리그1 순위",
       "traffic": "100+"
     },
     {
-      "rank": 8,
-      "keyword": "나마디 조엘 진",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "월드컵 결승 시간",
-      "traffic": "2000+"
-    },
-    {
       "rank": 10,
-      "keyword": "최정",
-      "traffic": "200+"
+      "keyword": "나마디 조엘 진",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 세계유산위원회 개회식",
+      "keyword": "결혼의 완성",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김용범 삼전 레버리지 난처하다",
-      "state": "n",
-      "change": "0"
+      "keyword": "강승식 별세 양미경 남편상",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "김부장 SNS 활발한 흥행",
-      "state": "-",
+      "keyword": "김정은과 결혼식 준비 중",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "쿠팡 물류센터 불길 이틀째",
+      "keyword": "쿠팡 물류센터 화재 계속 발생",
       "state": "-",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "류현진 2500탈삼진 달성",
-      "state": "-",
-      "change": "1"
+      "keyword": "김부장 흥행과 비하인드",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김정은 음식점 사장 화났다",
-      "state": "n",
+      "keyword": "이다해 임신 소식에 세븐 오열",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "이란 공격으로 미군 전사 2명",
+      "keyword": "김용범 레버리지 어렵다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이다해 2세 딸 태명 해븐",
-      "state": "s",
+      "keyword": "이란 직접 공격으로 미군 전사",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "결혼의 완성",
-      "state": "+",
-      "change": "31"
+      "keyword": "KT 2위 탈환",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "일본 복식 우승 쾌거!",
+      "keyword": "아이브 리즈, 오싹한 연애 OST 첫 타자",
       "state": "-",
-      "change": "3"
+      "change": "2"
     }
   ]
 }
