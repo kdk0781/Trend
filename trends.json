@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-19T15:40:38.591Z",
+  "updatedAt": "2026-07-19T16:37:20.207Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "변우석",
+      "keyword": "남주혁",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "김혜수",
+      "keyword": "변우석",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "당대표",
+      "keyword": "김혜수",
       "traffic": "500+"
     },
     {
@@ -29,7 +29,7 @@
     {
       "rank": 6,
       "keyword": "케스파컵",
-      "traffic": "100+"
+      "traffic": "200+"
     },
     {
       "rank": 7,
@@ -39,7 +39,7 @@
     {
       "rank": 8,
       "keyword": "김정은",
-      "traffic": "1000+"
+      "traffic": "2000+"
     },
     {
       "rank": 9,
@@ -55,62 +55,62 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "강승식 별세 양미경 남편상",
-      "state": "s",
-      "change": "0"
+      "keyword": "이재명 세계유산위원회 개회식",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "이재명, 세계유산위원회 참석",
-      "state": "s",
-      "change": "0"
+      "keyword": "양미경 남편 별세",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "쿠팡 물류센터 화재 40시간째",
+      "keyword": "쿠팡 물류센터 화재 장기화",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "결혼의 완성",
+      "keyword": "류현진, 한미 통산 2500탈삼진 달성",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "류현진 2500탈삼진 달성",
+      "keyword": "김정은, 파리의 연인 20년 만의 만남",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "김부장 SNS 활발힌 흥행",
-      "state": "+",
+      "keyword": "김부장 흥행 SNS 활발",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "아이브 리즈, 오싹한 연애 OST 런칭",
-      "state": "n",
+      "keyword": "KT 2위 재탈환",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "KT 2위 복귀",
+      "keyword": "부산 간담회 김민석 참석",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "부산 간담회 김민석",
-      "state": "s",
-      "change": "0"
+      "keyword": "美 요르단 아카바 소개령 발동",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "백일섭의 그리움과 외박",
-      "state": "n",
+      "keyword": "아이브 리즈, 오싹한 연애 OST",
+      "state": "s",
       "change": "0"
     }
   ]
