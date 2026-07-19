@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-19T18:33:42.607Z",
+  "updatedAt": "2026-07-19T19:47:33.614Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "나 마디 조엘 진",
-      "traffic": "1000+"
+      "keyword": "kbs",
+      "traffic": "500+"
     },
     {
       "rank": 2,
+      "keyword": "붐",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "jtbc 월드컵 중계",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "tây ban nha đấu với argentina",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "북중미 월드컵 결승",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "월드컵 폐막식",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
       "keyword": "ewc",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
+      "rank": 8,
       "keyword": "담원기아",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "keyword": "공희용",
       "traffic": "2000+"
     },
     {
-      "rank": 5,
-      "keyword": "포헨즈",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "남주혁",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "변우석",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "김혜수",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "당대표",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "현대건설",
+      "keyword": "포헨즈",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "쿠팡 인천 물류센터 화재",
-      "state": "s",
+      "keyword": "인천 쿠팡 대피령",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "KT 7연승 2위 탈환",
+      "keyword": "KT, LG 꺾고 2위 탈환",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "김정은 파리의 연인 논란",
-      "state": "s",
-      "change": "0"
+      "keyword": "결혼의 완성",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "요르단 아카바 방문 자제 권고",
+      "keyword": "김정은과 이동건, 20년 만의 만남",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이재명 대통령과 김혜경 여사",
+      "keyword": "프로야구 800만 관중 달성",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "최소 800만 관중",
-      "state": "+",
-      "change": "5"
+      "keyword": "김부장 흥행 SNS 활발",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "작곡가 강승식 별세",
+      "keyword": "춤을 추어요 강승식 별세",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "이재명 대통령 소식",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "이다해 세븐, 임신 18주 자랑",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "결혼의 완성",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "임지연♥이도현, 골프장 데이트",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 10,
-      "keyword": "이다해 임신 세븐 자랑 2세",
-      "state": "-",
-      "change": "1"
+      "keyword": "스페인 산불 서울 절반 소실",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
