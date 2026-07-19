@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-19T21:28:51.174Z",
+  "updatedAt": "2026-07-19T22:26:27.046Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "미운 우리 새끼",
-      "traffic": "1000+"
+      "keyword": "월드컵 통계",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "jadwal piala dunia 2026",
-      "traffic": "200+"
+      "keyword": "월드컵 순위",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "연금",
-      "traffic": "5000+"
+      "keyword": "world cup schedule",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "홍준표",
-      "traffic": "1000+"
+      "keyword": "민생지원금",
+      "traffic": "20000+"
     },
     {
       "rank": 5,
-      "keyword": "hd현대중공업",
-      "traffic": "200+"
+      "keyword": "고우석",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "류현진",
+      "keyword": "송성문",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "오타니 쇼헤이",
-      "traffic": "200+"
+      "keyword": "안세영",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "리산드로 마르티네스",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "펠레",
+      "keyword": "진태현",
       "traffic": "1000+"
     },
     {
+      "rank": 9,
+      "keyword": "이강인",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "kbs2",
-      "traffic": "100+"
+      "keyword": "월드컵 결과",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "결혼의 완성",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "인천 쿠팡 물류센터 대피령",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "류현진 통산 무승부",
-      "state": "+",
-      "change": "7"
-    },
-    {
-      "rank": 4,
-      "keyword": "춤을 추어요 작곡가 강승식 별세",
+      "keyword": "인천 쿠팡물류센터 붕괴 위험 대피령",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "소지섭 김부장 SNS 활발",
+      "rank": 2,
+      "keyword": "김시우 디오픈 공동 6위",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "결혼의 완성",
       "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "김부장 SNS 활발",
+      "state": "+",
       "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "스페인, 아르헨티나 1-0 승리",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 6,
       "keyword": "사랑을 처방해 드립니다",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "리즈, 오싹한 연애 OST 부른다",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "김시우, 디오픈 공동 6위",
+      "keyword": "가수 양미경 남편 별세",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "김정은 파리 연인 20년 갈등",
+      "rank": 8,
+      "keyword": "이라크서 미군 1명 사망",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 10,
-      "keyword": "이라크서 미군 사망",
+      "rank": 9,
+      "keyword": "2026년 7월 20일 운세",
       "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "류진 의상 논란 사과",
+      "state": "+",
+      "change": "7"
     }
   ]
 }
