@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-19T12:11:30.439Z",
+  "updatedAt": "2026-07-19T13:55:11.805Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "신진 서 카 타고 2 국",
-      "traffic": "2000+"
+      "keyword": "김정은",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "서효림",
+      "keyword": "운전 기사",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "이태양",
-      "traffic": "500+"
+      "keyword": "한화",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "황목 치승",
+      "keyword": "김현준",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "주성치",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "시청률",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "성과급",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "백악관",
+      "keyword": "야구 순위",
       "traffic": "200+"
     },
     {
-      "rank": 9,
-      "keyword": "광역급행철도",
+      "rank": 6,
+      "keyword": "수원삼성",
       "traffic": "100+"
     },
     {
-      "rank": 10,
-      "keyword": "오싹한연애",
+      "rank": 7,
+      "keyword": "k리그1 순위",
       "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "나마디 조엘 진",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
+      "keyword": "월드컵 결승 시간",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 10,
+      "keyword": "최정",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 SNS 흥행 비하인드",
-      "state": "+",
-      "change": "1"
+      "keyword": "이재명 세계유산위원회 개회식",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이재명 대통령 세계유산위원회",
-      "state": "-",
-      "change": "1"
+      "keyword": "김용범 삼전 레버리지 난처하다",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "류현진 2500탈삼진 달성",
-      "state": "s",
-      "change": "0"
+      "keyword": "김부장 SNS 활발한 흥행",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "쿠팡 물류센터 화재 계속 발생",
+      "keyword": "쿠팡 물류센터 불길 이틀째",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "류현진 2500탈삼진 달성",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "김정은 음식점 사장 화났다",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "이란 공격으로 미군 전사 2명",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "이다해 2세 딸 태명 해븐",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "keyword": "결혼의 완성",
       "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "징역 체포방해 재판소원",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 7,
-      "keyword": "美 요르단 아카바 방문 자제 권고",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "육아휴직 따돌림 직장인 절반",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "노시환, 역전 만루!",
-      "state": "+",
-      "change": "1"
+      "change": "31"
     },
     {
       "rank": 10,
-      "keyword": "최자 아내 불화 요리 탓",
-      "state": "n",
-      "change": "0"
+      "keyword": "일본 복식 우승 쾌거!",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
