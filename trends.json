@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-19T19:47:33.614Z",
+  "updatedAt": "2026-07-19T20:31:29.909Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "kbs",
+      "keyword": "하이드레이션 브레이크",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "붐",
+      "keyword": "맷 데이먼",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "jtbc 월드컵 중계",
-      "traffic": "500+"
+      "keyword": "สเปน พบ อาร์เจนตินา",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "tây ban nha đấu với argentina",
-      "traffic": "1000+"
+      "keyword": "世界杯",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "북중미 월드컵 결승",
+      "keyword": "livescore",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "월드컵 폐막식",
-      "traffic": "100+"
+      "keyword": "로드리",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "ewc",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "담원기아",
+      "keyword": "испания – аргентина",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "worldcup",
+      "traffic": "5000+"
+    },
+    {
       "rank": 9,
-      "keyword": "공희용",
-      "traffic": "2000+"
+      "keyword": "네이버",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "포헨즈",
-      "traffic": "500+"
+      "keyword": "jtbc",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "인천 쿠팡 대피령",
-      "state": "n",
+      "keyword": "인천 쿠팡 붕괴 대피령",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "KT, LG 꺾고 2위 탈환",
-      "state": "+",
-      "change": "1"
+      "keyword": "KT 2위 탈환",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "결혼의 완성",
-      "state": "-",
-      "change": "1"
+      "keyword": "임신 18주 이다해 ♥세븐 2세 자랑",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 4,
-      "keyword": "김정은과 이동건, 20년 만의 만남",
+      "keyword": "결혼의 완성",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "프로야구 800만 관중 달성",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "김부장 흥행 SNS 활발",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "춤을 추어요 강승식 별세",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "이재명 대통령 소식",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "이다해 세븐, 임신 18주 자랑",
+      "keyword": "강승식 별세, 양미경 남편상",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 10,
+      "rank": 6,
+      "keyword": "김부장 SNS 활발한 흥행 소식",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
       "keyword": "스페인 산불 서울 절반 소실",
-      "state": "n",
-      "change": "0"
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "류현진 통산 무승부",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "제재 법안에 추가해야",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 10,
+      "keyword": "김정은과 이동건, 20년 만의 만남",
+      "state": "-",
+      "change": "7"
     }
   ]
 }
