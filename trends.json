@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-19T03:45:05.874Z",
+  "updatedAt": "2026-07-19T06:16:20.792Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "항공",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "볼로디미르 젤렌스키",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "한화이글스",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "롯데리아",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "은마아파트",
+      "keyword": "개인방송",
       "traffic": "5000+"
     },
     {
-      "rank": 6,
-      "keyword": "앤드류 테이트",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "저비용 항공사",
+      "rank": 2,
+      "keyword": "펜트하우스",
       "traffic": "500+"
     },
     {
+      "rank": 3,
+      "keyword": "이해찬",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "매매",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "위생",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "하트시그널",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "제이쓴",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "대한민국 해양경찰청",
+      "keyword": "이현이",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "벌금",
-      "traffic": "2000+"
+      "keyword": "법률저널",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "공유",
-      "traffic": "100+"
+      "keyword": "박주호",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "쿠팡 물류센터 화재",
-      "state": "s",
-      "change": "0"
+      "keyword": "폭우에 산불 이재민 임시주택",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "김부장 시청률 23% 넘사벽",
-      "state": "s",
+      "keyword": "호프 5일 200만 돌파",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "세계유산위원회 오늘 개막",
-      "state": "s",
+      "keyword": "윤정호 강남도곡유소년야구단 감독",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "연상호, 장르 개척 감독",
+      "keyword": "폭염 속 연꽃 나들이",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "삼성전자 사우디 모스크 에어컨 공급",
+      "keyword": "오싹한 연애",
       "state": "+",
-      "change": "1"
+      "change": "91"
     },
     {
       "rank": 6,
-      "keyword": "김용범 레버리지 ETF 상폐 어려워",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "김시우, 디오픈 3R 공동 2위",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "기름값 9주 연속 하락",
+      "keyword": "쿠팡 화재 임시 대피소",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "대졸 실업자 최대치",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "이정후 4타수 무안타",
+      "state": "-",
+      "change": "5"
+    },
+    {
       "rank": 9,
-      "keyword": "대졸 실업자 5년 만에 최대",
+      "keyword": "중국인 우르르 인천공항 새치기",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "안동 수해 복구 중",
-      "state": "+",
-      "change": "1"
+      "keyword": "뉴욕은행서 원화계좌 개설",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
