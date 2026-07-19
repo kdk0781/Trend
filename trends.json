@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-19T08:34:52.242Z",
+  "updatedAt": "2026-07-19T10:10:04.171Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "안동시",
+      "keyword": "김하성",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "오은영",
-      "traffic": "500+"
+      "keyword": "삼성 라이온즈",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "문샷 ai",
-      "traffic": "100+"
+      "keyword": "kia 타이거즈",
+      "traffic": "5000+"
     },
     {
       "rank": 4,
-      "keyword": "덕양구",
+      "keyword": "키미 k3",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "서희제",
+      "keyword": "은행",
       "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "최태원",
-      "traffic": "5000+"
+      "keyword": "다이소",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "국내총생산",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "선수",
+      "keyword": "south korea",
       "traffic": "100+"
     },
     {
+      "rank": 8,
+      "keyword": "트레킹",
+      "traffic": "1000+"
+    },
+    {
       "rank": 9,
-      "keyword": "찰리 반즈",
-      "traffic": "200+"
+      "keyword": "조선",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "두산 베어스",
-      "traffic": "1000+"
+      "keyword": "법원",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 SNS 비하인드 풀다",
-      "state": "s",
+      "keyword": "대통령 세계유산위원회 개회식",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "신진서, AI 카타고에 승리",
-      "state": "n",
-      "change": "0"
+      "keyword": "김부장 SNS 흥행 중",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "인천 쿠팡 화재 계속",
-      "state": "+",
-      "change": "7"
+      "keyword": "부산 간담회 김민석",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "호프 5일 200만 돌파",
-      "state": "s",
+      "keyword": "춘천코리아오픈 국제태권도대회 주말",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "아이브 리즈, 오싹한 연애 OST 이어가다",
-      "state": "s",
+      "keyword": "호프 5일 만 200만 돌파",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "CJ 제품 가격 상승",
-      "state": "n",
-      "change": "0"
+      "keyword": "아이브 리즈, 오싹한 연애 OST",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 7,
-      "keyword": "LG 염경엽 감독 승운 부재",
-      "state": "n",
-      "change": "0"
+      "keyword": "결혼의 완성",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "조국혁신당 당대표 후보",
-      "state": "n",
+      "keyword": "해변 여신 한보름 핑크 비키니",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "장윤정, 사기 논란 속 홀로 쉬고 싶다",
+      "keyword": "이강철 감독 AI 예측 3승!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "권상우 아들, 디카프리오급 미모",
+      "keyword": "인천 쿠팡 화재 이틀째",
       "state": "n",
       "change": "0"
     }
