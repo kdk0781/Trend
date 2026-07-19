@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-07-19T17:37:48.353Z",
+  "updatedAt": "2026-07-19T18:33:42.607Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "나 마디 조엘 진",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 2,
       "keyword": "ewc",
       "traffic": "2000+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "담원기아",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "공희용",
       "traffic": "2000+"
     },
     {
-      "rank": 4,
-      "keyword": "포헨즈",
-      "traffic": "200+"
-    },
-    {
       "rank": 5,
-      "keyword": "디플러스기아",
-      "traffic": "1000+"
+      "keyword": "포헨즈",
+      "traffic": "500+"
     },
     {
       "rank": 6,
@@ -34,7 +34,7 @@
     {
       "rank": 7,
       "keyword": "변우석",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
       "rank": 8,
@@ -43,75 +43,75 @@
     },
     {
       "rank": 9,
-      "keyword": "현대건설",
+      "keyword": "당대표",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "논쟁",
+      "keyword": "현대건설",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 세계유산위원회 개회식",
+      "keyword": "쿠팡 인천 물류센터 화재",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "쿠팡 물류센터 화재",
-      "state": "s",
-      "change": "0"
+      "keyword": "KT 7연승 2위 탈환",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 3,
-      "keyword": "류현진 2500탈삼진 달성",
+      "keyword": "김정은 파리의 연인 논란",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김정은 파리연인 20년 후 만남",
-      "state": "+",
-      "change": "1"
+      "keyword": "요르단 아카바 방문 자제 권고",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "KT 2위 탈환",
-      "state": "+",
-      "change": "1"
+      "keyword": "이재명 대통령과 김혜경 여사",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "美 요르단 아카바 소개령 방문 자제",
+      "keyword": "최소 800만 관중",
       "state": "+",
-      "change": "2"
+      "change": "5"
     },
     {
       "rank": 7,
-      "keyword": "춤을 강승식 별세",
-      "state": "n",
+      "keyword": "작곡가 강승식 별세",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김부장 SNS 비하인드 활발",
-      "state": "+",
-      "change": "1"
+      "keyword": "결혼의 완성",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "임지연 이도현 골프장 데이트",
-      "state": "n",
-      "change": "0"
+      "keyword": "임지연♥이도현, 골프장 데이트",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "이다해 세븐 임신 소식",
-      "state": "+",
-      "change": "9"
+      "keyword": "이다해 임신 세븐 자랑 2세",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
