@@ -1,69 +1,69 @@
 {
-  "updatedAt": "2026-07-19T11:21:34.147Z",
+  "updatedAt": "2026-07-19T12:11:30.439Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "주성치",
-      "traffic": "100+"
+      "keyword": "신진 서 카 타고 2 국",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "시청률",
-      "traffic": "10000+"
+      "keyword": "서효림",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "성과급",
-      "traffic": "5000+"
+      "keyword": "이태양",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "백악관",
+      "keyword": "황목 치승",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "광역급행철도",
+      "keyword": "주성치",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "바지",
-      "traffic": "2000+"
+      "keyword": "시청률",
+      "traffic": "10000+"
     },
     {
       "rank": 7,
-      "keyword": "부천 대 fc 서울",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "현대자동차그룹",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "부동산",
+      "keyword": "성과급",
       "traffic": "5000+"
     },
     {
-      "rank": 10,
-      "keyword": "프로야구 중계",
+      "rank": 8,
+      "keyword": "백악관",
       "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "광역급행철도",
+      "traffic": "100+"
+    },
+    {
+      "rank": 10,
+      "keyword": "오싹한연애",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 대통령 세계유산위원회",
-      "state": "s",
-      "change": "0"
+      "keyword": "김부장 SNS 흥행 비하인드",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "김부장 SNS 활발",
-      "state": "s",
-      "change": "0"
+      "keyword": "이재명 대통령 세계유산위원회",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
@@ -73,43 +73,43 @@
     },
     {
       "rank": 4,
-      "keyword": "쿠팡 물류센터 화재 이틀째 초진 예상",
-      "state": "+",
-      "change": "5"
+      "keyword": "쿠팡 물류센터 화재 계속 발생",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
       "keyword": "결혼의 완성",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "美 요르단 방문 자제",
-      "state": "n",
-      "change": "0"
+      "keyword": "징역 체포방해 재판소원",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "육아휴직 따돌림 눈치",
-      "state": "n",
-      "change": "0"
+      "keyword": "美 요르단 아카바 방문 자제 권고",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "LG 선발 송승기, 연패 탈출 변형할 수 있습니다.",
-      "state": "s",
-      "change": "0"
+      "keyword": "육아휴직 따돌림 직장인 절반",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "대졸 실업자 48만 증가",
-      "state": "n",
-      "change": "0"
+      "keyword": "노시환, 역전 만루!",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "민지영, 암 판정 못 받다",
+      "keyword": "최자 아내 불화 요리 탓",
       "state": "n",
       "change": "0"
     }
