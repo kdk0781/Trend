@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-20T21:18:58.177Z",
+  "updatedAt": "2026-07-20T22:15:55.658Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "상장지수 펀드",
-      "traffic": "200+"
+      "keyword": "김숙",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "폴드 8",
-      "traffic": "10000+"
+      "keyword": "음식",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "최준희",
-      "traffic": "500+"
+      "keyword": "박지성",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "พยากรณ์อากาศ",
-      "traffic": "200+"
+      "keyword": "spcx",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "天气",
-      "traffic": "500+"
+      "keyword": "skhy",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "장영란",
-      "traffic": "500+"
+      "keyword": "자동차",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "회사",
+      "keyword": "schd",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "이혼",
-      "traffic": "1000+"
+      "keyword": "교사",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "가요무대",
-      "traffic": "200+"
+      "keyword": "대구백화점",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "후티",
-      "traffic": "200+"
+      "keyword": "안세영",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "유병호 감사위원 구속",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 2,
-      "keyword": "배재고 징계 1개월 감경",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "배그 부부 남편 아내 잃고 슬픔",
+      "keyword": "관저 감사 유병호 구속",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "배그 부부 남편 아내 떠난 슬픔",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "스페인 16년 만에 우승",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 4,
-      "keyword": "쿠팡 물류센터 화재 61시간 초진",
+      "keyword": "트럼프와 네타냐후 체포 불가",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "후티, 사우디 해상 봉쇄",
+      "keyword": "후티, 사우디 해상 봉쇄 선언",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "아이브 리즈, 오싹한 연애 OST",
-      "state": "s",
-      "change": "0"
+      "keyword": "북한 황강댐 방류",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "북한 황강댐 방류",
-      "state": "n",
-      "change": "0"
+      "keyword": "배재고 징계 감경",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 8,
-      "keyword": "미자 母 전성애 욕실 낙상",
+      "keyword": "선미, 취객에 분노하며 술잔 들다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "스페인 축구 우승 기쁨",
-      "state": "+",
-      "change": "4"
+      "keyword": "이 대통령 29억 아파트 17억 근저당",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "결혼의 완성",
+      "keyword": "내일도 출근",
       "state": "s",
       "change": "0"
     }
