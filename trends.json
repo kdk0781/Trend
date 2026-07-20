@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-20T04:46:49.918Z",
+  "updatedAt": "2026-07-20T07:46:26.462Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "kf-21 보라매",
-      "traffic": "1000+"
+      "keyword": "오세훈",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "대우건설",
+      "keyword": "해군사관학교",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "유튜버 음독",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "영주권",
+      "keyword": "사회 양극화",
       "traffic": "100+"
     },
     {
+      "rank": 4,
+      "keyword": "디트로이트 타이거스",
+      "traffic": "1000+"
+    },
+    {
       "rank": 5,
-      "keyword": "흑해",
-      "traffic": "500+"
+      "keyword": "크리스티안 로메로",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "별자리",
+      "keyword": "고지용",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "엘지전자주가",
-      "traffic": "100+"
+      "keyword": "삼성 갤럭시 z 시리즈",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "트레이드",
-      "traffic": "5000+"
+      "keyword": "재건축",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "생계",
-      "traffic": "5000+"
+      "keyword": "이탁수",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "홈런",
-      "traffic": "200+"
+      "keyword": "한국장학재단",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "하이닉스 주가 상승",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "코스피·코스닥 매도 사이드카 발동",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "킬러들의 쇼핑몰2 액션 반격 시작!",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "정은경과 최태원 물품 포장",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "한화, 짐머맨 영입",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "쿠팡 물류센터 화재 50시간째",
+      "keyword": "코스피 급락 마감",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "차관에 조용범 임명",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "이영진 위원장 스포츠공정위원회 입장",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "2차 특검 연장안 규탄",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "배경훈 부총리 취임 1년",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "쿠팡 물류센터 화재로 배송 차질",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "양미경 남편 별세",
-      "state": "s",
+      "keyword": "홈플러스 즉시항고",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "조정식 국회의장 유흥식",
+      "keyword": "키키 8월 10일 신보 컴백 확정",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "결혼의 완성",
-      "state": "+",
-      "change": "1"
+      "keyword": "원민경 장관, 오픈소재단 회장 접견",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "주진우, 선피아 방지 3법 발의",
+      "keyword": "하이닉스 주가 우상향",
       "state": "-",
       "change": "1"
     }
