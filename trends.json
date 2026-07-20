@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-20T22:15:55.658Z",
+  "updatedAt": "2026-07-20T23:16:20.419Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김숙",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "음식",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "박지성",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "spcx",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "skhy",
+      "keyword": "2030년 fifa 월드컵",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "워렌 버핏",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "아시안 게임",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "록히드 마틴",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "weather",
+      "traffic": "1000+"
+    },
+    {
       "rank": 6,
-      "keyword": "자동차",
-      "traffic": "2000+"
+      "keyword": "대학수학능력시험",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "schd",
+      "keyword": "구조조정",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "교사",
-      "traffic": "500+"
+      "keyword": "군수산업",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "대구백화점",
-      "traffic": "100+"
+      "keyword": "다우 존스 산업평균지수",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "안세영",
-      "traffic": "5000+"
+      "keyword": "iren",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "관저 감사 유병호 구속",
-      "state": "s",
+      "keyword": "트럼프, 캐나다 50% 관세",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "배그 부부 남편 아내 떠난 슬픔",
-      "state": "s",
+      "keyword": "이준영 오늘 입대",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "스페인 16년 만에 우승",
+      "keyword": "스페인 월드컵 우승 축하합니다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "트럼프와 네타냐후 체포 불가",
-      "state": "+",
-      "change": "1"
+      "keyword": "유병호 감사위원 구속",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "후티, 사우디 해상 봉쇄 선언",
+      "keyword": "중동 불안으로 하락",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "북한 황강댐 방류",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "배재고 징계 감경",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 8,
-      "keyword": "선미, 취객에 분노하며 술잔 들다",
+      "keyword": "경기 북부 시간당 폭우 80㎜",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "임수향, 작은 집으로 이사",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "내일도 출근",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "이 대통령 29억 아파트 17억 근저당",
+      "keyword": "故 김민기 오늘 2주기",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "내일도 출근",
-      "state": "s",
+      "keyword": "인천 쿠팡 물류센터 화재 진화 완료",
+      "state": "n",
       "change": "0"
     }
   ]
