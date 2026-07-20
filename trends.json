@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-20T18:26:47.153Z",
+  "updatedAt": "2026-07-20T20:05:25.911Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "스파이더맨 브랜드 뉴 데이",
-      "traffic": "200+"
+      "keyword": "영아",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "케빈 키건",
+      "keyword": "요르단",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "유병호",
-      "traffic": "200+"
+      "keyword": "ps",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "은가은",
-      "traffic": "200+"
+      "keyword": "대구광역시",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "이동진",
+      "keyword": "스파이더맨 브랜드 뉴 데이",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "치어리더",
-      "traffic": "2000+"
+      "keyword": "케빈 키건",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "남도일보",
+      "keyword": "요리사",
       "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "둠스데이",
-      "traffic": "2000+"
+      "keyword": "유병호",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "정지선",
-      "traffic": "500+"
+      "keyword": "은가은",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "홍지민",
+      "keyword": "이동진",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "인천 쿠팡 화재, 61시간 초진",
-      "state": "s",
-      "change": "0"
+      "keyword": "후티 해상 봉쇄 선언",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "배재고 징계 1개월 감경",
+      "keyword": "배재고 야구부 1개월 징계 감경",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "예멘 후티 해상 봉쇄 발효",
-      "state": "n",
+      "keyword": "쿠팡 화재 초진 61시간",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "배그 부부 남편 아내 잃고 슬픔",
+      "keyword": "배그 부부 남편, 아내 잃고 우울",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "유병호 감사위원 구속",
+      "keyword": "유병호 관저 감사위원 구속",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "유이 꿀벅지 상처",
-      "state": "s",
+      "keyword": "미자 母 전성애 낙상 사고",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "버넘 총리 취임 국민을 돌본다",
+      "keyword": "버넘 총리 취임 국민 돌보기",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "스페인 우승 트럼프 끼어듦",
-      "state": "+",
-      "change": "1"
+      "keyword": "아파트 17억 근저당",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "북한 황강댐 방류 추정",
-      "state": "+",
-      "change": "1"
+      "keyword": "오산 흉기 난동 사건",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "오산 공장 흉기 난동",
+      "keyword": "북한 황강댐 방류 예상",
       "state": "-",
       "change": "2"
     }
