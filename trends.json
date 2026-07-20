@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-20T20:05:25.911Z",
+  "updatedAt": "2026-07-20T21:18:58.177Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "영아",
-      "traffic": "500+"
+      "keyword": "상장지수 펀드",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "요르단",
-      "traffic": "200+"
+      "keyword": "폴드 8",
+      "traffic": "10000+"
     },
     {
       "rank": 3,
-      "keyword": "ps",
-      "traffic": "100+"
+      "keyword": "최준희",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "대구광역시",
-      "traffic": "100+"
+      "keyword": "พยากรณ์อากาศ",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "스파이더맨 브랜드 뉴 데이",
-      "traffic": "200+"
+      "keyword": "天气",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "케빈 키건",
-      "traffic": "200+"
+      "keyword": "장영란",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "요리사",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "유병호",
+      "keyword": "회사",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "이혼",
+      "traffic": "1000+"
+    },
+    {
       "rank": 9,
-      "keyword": "은가은",
+      "keyword": "가요무대",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "이동진",
+      "keyword": "후티",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "후티 해상 봉쇄 선언",
+      "keyword": "유병호 감사위원 구속",
       "state": "+",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 2,
-      "keyword": "배재고 야구부 1개월 징계 감경",
-      "state": "s",
-      "change": "0"
+      "keyword": "배재고 징계 1개월 감경",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "쿠팡 화재 초진 61시간",
+      "keyword": "배그 부부 남편 아내 잃고 슬픔",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "배그 부부 남편, 아내 잃고 우울",
-      "state": "s",
-      "change": "0"
+      "keyword": "쿠팡 물류센터 화재 61시간 초진",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "유병호 관저 감사위원 구속",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "미자 母 전성애 낙상 사고",
+      "keyword": "후티, 사우디 해상 봉쇄",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "버넘 총리 취임 국민 돌보기",
+      "rank": 6,
+      "keyword": "아이브 리즈, 오싹한 연애 OST",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "북한 황강댐 방류",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "아파트 17억 근저당",
+      "keyword": "미자 母 전성애 욕실 낙상",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "오산 흉기 난동 사건",
-      "state": "s",
-      "change": "0"
+      "keyword": "스페인 축구 우승 기쁨",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 10,
-      "keyword": "북한 황강댐 방류 예상",
-      "state": "-",
-      "change": "2"
+      "keyword": "결혼의 완성",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
