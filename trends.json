@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-20T10:31:38.637Z",
+  "updatedAt": "2026-07-20T12:35:54.154Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "군체",
-      "traffic": "1000+"
+      "keyword": "권상우",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "정년",
+      "keyword": "xsmb",
       "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "토트백",
-      "traffic": "5000+"
+      "keyword": "대한민국 기획예산처",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "환율 달러",
-      "traffic": "100+"
+      "keyword": "파미 콰 디르",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "박서진",
-      "traffic": "5000+"
+      "keyword": "hd 현대 중공업 울산 조선소",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "한화시스템",
-      "traffic": "100+"
+      "keyword": "기초 연금법",
+      "traffic": "10000+"
     },
     {
       "rank": 7,
-      "keyword": "과잉 공급",
+      "keyword": "로봇",
       "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "오스틴 보스",
-      "traffic": "1000+"
+      "keyword": "홍장원",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "주진우",
-      "traffic": "500+"
+      "keyword": "유강남",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "해무",
-      "traffic": "200+"
+      "keyword": "김재원",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "K-축구혁신위원회 3차 회의",
-      "state": "s",
-      "change": "0"
+      "keyword": "인천 화재 61시간 만 초진",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "쿠팡 물류센터 화재 피해 끌어올림",
-      "state": "n",
-      "change": "0"
+      "keyword": "아이유, 이관개방증으로 컴백 연기",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "아이유 콘서트 앨범 연기",
-      "state": "n",
-      "change": "0"
+      "keyword": "붉은 진주",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "김건희 명품백 의혹 수사",
+      "keyword": "결혼의 완성",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "하이닉스 주가 상승 전망",
       "state": "+",
       "change": "3"
     },
     {
-      "rank": 5,
-      "keyword": "삼성, 보스 영입",
-      "state": "+",
+      "rank": 6,
+      "keyword": "김부장 경남 거제 촬영",
+      "state": "-",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "코오롱티슈진 통계적 유의성 미충족",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 7,
-      "keyword": "이 대통령 아파트 29억에 매매 완료",
-      "state": "n",
+      "keyword": "아이브 리즈, 오싹한 OST 행보 지속",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김부장 경남 거제서도 촬영",
-      "state": "+",
+      "keyword": "최미나수의 과감한 비키니 매력",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "결혼의 완성",
+      "keyword": "가족관계증명서",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "더불어민주당 예비경선 합동연설회",
+      "keyword": "수도권 강원 폭우 비상",
       "state": "n",
       "change": "0"
     }
