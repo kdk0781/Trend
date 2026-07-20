@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-20T14:51:56.365Z",
+  "updatedAt": "2026-07-20T16:20:16.641Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "남도일보",
-      "traffic": "500+"
+      "keyword": "유병호",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "정지선",
+      "keyword": "은가은",
       "traffic": "200+"
     },
     {
       "rank": 3,
+      "keyword": "이동진",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "치어리더",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "남도일보",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "둠스데이",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "정지선",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
       "keyword": "톰홀랜드",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "keyword": "홍지민",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 10,
       "keyword": "하주석",
       "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "장민호",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "아이유",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "내일도 출근",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "불꽃야구",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "호프 외계인",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
+      "keyword": "인천 화재 61시간 만 초진",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 2,
+      "keyword": "배재고 징계 1개월 감경",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "아이유 콘서트 앨범 연기",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
       "keyword": "후티 해상 봉쇄 선언",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 2,
-      "keyword": "인천 쿠팡 화재 61시간 만 초진",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "배재고 징계 1개월 감경",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "삼성 후라도 외국인 투수 영입",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 5,
-      "keyword": "중국 AI 키미 충격!",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "유이, 꿀벅지 상처 많아",
+      "keyword": "박지성 위원장 3차 회의 브리핑",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "삼성, 오스틴 보스 영입",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "한동훈 경찰 긴급체포 가능",
+      "keyword": "유병호 감사위원 구속",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "내일도 출근",
-      "state": "-",
-      "change": "3"
+      "keyword": "유이 꿀벅지 상처 많다",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "이찬종 무죄에 반려견보다",
-      "state": "s",
-      "change": "0"
+      "keyword": "아이브 리즈, 오싹한 연애 OST",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "야말, 축구 왕으로 등장",
-      "state": "n",
-      "change": "0"
+      "keyword": "배그 부부 남편 슬픈 근황",
+      "state": "-",
+      "change": "6"
     }
   ]
 }
