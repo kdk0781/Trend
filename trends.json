@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-21T14:28:52.314Z",
+  "updatedAt": "2026-07-21T16:01:26.750Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "원자력",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "한국 영화",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "야구순위",
+      "keyword": "달",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "시리아",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "관세",
+      "traffic": "200+"
+    },
+    {
       "rank": 4,
-      "keyword": "파업",
-      "traffic": "1000+"
+      "keyword": "디아지오",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "장예원",
+      "keyword": "천록 담",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "우원식",
-      "traffic": "500+"
+      "keyword": "국민의힘",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "k리그1 순위",
-      "traffic": "100+"
+      "keyword": "빌라",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "전진",
-      "traffic": "500+"
+      "keyword": "레서판다",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "김현태",
-      "traffic": "500+"
+      "keyword": "배우",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "티웨이항공",
-      "traffic": "100+"
+      "keyword": "원자력",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "쯔양 협박 유튜버 배상금 8000만원",
-      "state": "s",
+      "keyword": "올다르크 구속영장 기각",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "제천영월고속도로 2032년 개통",
-      "state": "n",
-      "change": "0"
+      "keyword": "하트 시그널 5",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "장윤기 형사과장 영장 기각",
-      "state": "s",
-      "change": "0"
+      "keyword": "티파니 영 ♥변요한, 첫공 달려와 눈물",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "삼성 이재현 역전 솔로포",
-      "state": "+",
-      "change": "6"
+      "keyword": "리센느 리브 수원에서 시구",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "김민석 신천지 정청래 가짜뉴스",
-      "state": "n",
-      "change": "0"
+      "keyword": "오세훈 1심 선고 대납 녹화",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "이불 묶은 외국인 추락사",
-      "state": "n",
-      "change": "0"
+      "keyword": "종합특검 연장법 국무회의",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "장윤정 모친 구속 송치",
-      "state": "-",
-      "change": "6"
+      "keyword": "역전 솔로포 이재현",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "검찰 관계자 경찰청 출입",
-      "state": "s",
+      "keyword": "후티, 사우디 항구 이용 금지 경고",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "10% 매출 주면 폭로 안 해",
+      "keyword": "국수본 압수수색 경쟁",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이승우 PK 실축 대전과 0-0 무",
-      "state": "n",
+      "keyword": "김태형 감독의 행복한 순간들",
+      "state": "s",
       "change": "0"
     }
   ]
