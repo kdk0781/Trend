@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-07-21T21:33:38.195Z",
+  "updatedAt": "2026-07-21T22:30:05.695Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이재명",
-      "traffic": "2000+"
+      "keyword": "민지",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "뉴스",
-      "traffic": "2000+"
+      "keyword": "백하나",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "뱀",
-      "traffic": "2000+"
+      "keyword": "공소장",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "김혜성",
+      "keyword": "오늘날씨",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "xrp 레저",
-      "traffic": "500+"
+      "keyword": "커피",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "에코프로 비엠",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "오늘의 날씨",
-      "traffic": "100000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "지드래곤",
+      "keyword": "소유진",
       "traffic": "200+"
     },
     {
+      "rank": 7,
+      "keyword": "박나래",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "재건축",
+      "traffic": "500+"
+    },
+    {
       "rank": 9,
-      "keyword": "레인보우로보틱스",
-      "traffic": "100+"
+      "keyword": "skhy",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "임영웅",
+      "keyword": "보스턴다이내믹스",
       "traffic": "200+"
     }
   ],
@@ -61,7 +61,7 @@
     },
     {
       "rank": 2,
-      "keyword": "하트 시그널 5",
+      "keyword": "이장원♥배다해, 100세 할아버지 몰래 스킨십",
       "state": "s",
       "change": "0"
     },
@@ -73,43 +73,43 @@
     },
     {
       "rank": 4,
-      "keyword": "이장원 배다해, 100세 할아버지 합가",
-      "state": "n",
+      "keyword": "트럼프 후티 홍해 봉쇄 시 미국 개입",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "노바티스 1400억 투자",
-      "state": "s",
-      "change": "0"
+      "keyword": "반도체주 반등으로 상승",
+      "state": "+",
+      "change": "7"
     },
     {
       "rank": 6,
-      "keyword": "백일섭, 졸혼 싫어해",
-      "state": "s",
+      "keyword": "민지 포함 4인 영상 공개",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
       "keyword": "9회 동점 만든 김민석",
-      "state": "s",
-      "change": "0"
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "뇌 노폐물 배출 경로 발견",
-      "state": "s",
-      "change": "0"
+      "keyword": "뇌 노폐물 배출 경로 확인",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "4주년 맞은 뉴진스 활동 청신호",
-      "state": "+",
-      "change": "2"
+      "keyword": "6월 생산자물가 보합",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "삼성과 기쁨 나누기",
+      "keyword": "이승우 PK 실축 무승부",
       "state": "-",
       "change": "1"
     }
