@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-21T08:48:41.022Z",
+  "updatedAt": "2026-07-21T10:52:27.877Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "005930",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "신진 서",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "닛케이 평균주가",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "사이드카",
+      "keyword": "초과근무",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
-      "keyword": "안동선",
-      "traffic": "500+"
+      "rank": 2,
+      "keyword": "mc몽",
+      "traffic": "100+"
     },
     {
-      "rank": 6,
-      "keyword": "새만금",
+      "rank": 3,
+      "keyword": "xổ số miền nam",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "천록담",
       "traffic": "200+"
     },
     {
+      "rank": 5,
+      "keyword": "김예림",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "애플 카드",
+      "traffic": "500+"
+    },
+    {
       "rank": 7,
-      "keyword": "박나래 매니저",
-      "traffic": "2000+"
+      "keyword": "행정",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "농구",
+      "keyword": "메가프로젝트",
       "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "투표",
-      "traffic": "200+"
+      "keyword": "로스앤젤레스 레이커스",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "이재현",
-      "traffic": "200+"
+      "keyword": "삼성 대 키움",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "종합특검 본회의 통과",
-      "state": "s",
-      "change": "0"
+      "keyword": "종합특검 연장법 국무회의",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "섬의 날 홍보대사 위촉식",
-      "state": "s",
-      "change": "0"
+      "keyword": "리센느 리브의 시구",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "코스피 3.6% 반등 마감",
+      "keyword": "선관위 특검 합의 바꿔보세요.",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "민주당 형사소송법 공청회",
-      "state": "+",
-      "change": "2"
+      "keyword": "KT 선발 오원석 역투",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "죽은 시인의 사회 연극",
-      "state": "s",
+      "keyword": "방수 멈춘 고가 사다리차",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "부적절 정부포상 취소 브리핑",
-      "state": "-",
-      "change": "3"
+      "keyword": "죽은 시인의 사회",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "LG 리오스 방출",
-      "state": "s",
+      "keyword": "아내 방치 상태 몰랐다",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "정점식 원내대표의 활동",
-      "state": "s",
+      "keyword": "경찰 강선우 무혐의",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "오세훈 대납 1심 선고",
+      "keyword": "현영 딸 중2, 173㎝",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "쯔양 협박 구제역 8천만 원 배상",
+      "keyword": "장윤정 모친 구속 송치",
       "state": "n",
       "change": "0"
     }
