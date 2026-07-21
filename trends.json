@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-21T17:39:39.458Z",
+  "updatedAt": "2026-07-21T18:52:53.784Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "이자",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
       "keyword": "악어",
       "traffic": "500+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "다이 소",
       "traffic": "5000+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "앤서니 테일러",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "하트시그널5",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "박기량",
       "traffic": "100+"
     },
     {
-      "rank": 6,
-      "keyword": "정철원",
-      "traffic": "100+"
-    },
-    {
       "rank": 7,
-      "keyword": "킬러들의 쇼핑몰 시즌2",
+      "keyword": "정철원",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "코스닥",
+      "keyword": "킬러들의 쇼핑몰 시즌2",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "달",
+      "keyword": "코스닥",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "시리아",
-      "traffic": "500+"
+      "keyword": "달",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "올다르크 구속영장 기각",
-      "state": "s",
-      "change": "0"
+      "keyword": "하트 시그널 5",
+      "state": "+",
+      "change": "44"
     },
     {
       "rank": 2,
-      "keyword": "하트 시그널 5",
-      "state": "s",
-      "change": "0"
+      "keyword": "올다르크 구속영장 기각",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "리센느 리브, 수원서 시구",
-      "state": "s",
-      "change": "0"
+      "keyword": "두산 KT, 2-2 무승부",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "장윤정 모친 구속 송치",
-      "state": "n",
+      "keyword": "후티 항구 표적 경고",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "후티, 사우디 항구 경고",
-      "state": "n",
+      "keyword": "삼성 이재현 솔로포",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "국수본 압수수색 완료",
+      "keyword": "검찰, 경찰청 나서다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "박진만 감독의 멋진 플레이!",
-      "state": "+",
-      "change": "3"
+      "keyword": "이장원♥배다해, 100세 할아버지와 합가",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이재현 역전 솔로포",
-      "state": "-",
-      "change": "1"
+      "keyword": "따라가는 투런포 키움 데이비슨",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이장원♥배다해, 100세와 합가",
-      "state": "+",
-      "change": "5"
+      "keyword": "노바티스 1400억 투자",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "KT-두산, 2-2 연장 무승부",
-      "state": "-",
-      "change": "2"
+      "keyword": "기쁨을 나누는 삼성 으로 바꿔보세요.",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
