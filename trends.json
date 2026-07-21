@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-21T00:12:00.508Z",
+  "updatedAt": "2026-07-21T03:47:08.167Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "습관",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "에코프로비엠",
+      "keyword": "윤이나",
       "traffic": "500+"
     },
     {
-      "rank": 3,
-      "keyword": "오스템임플란트",
-      "traffic": "200+"
+      "rank": 2,
+      "keyword": "이정후",
+      "traffic": "5000+"
     },
     {
-      "rank": 4,
-      "keyword": "2030 년 fifa 월드컵",
+      "rank": 3,
+      "keyword": "교회",
       "traffic": "2000+"
     },
     {
+      "rank": 4,
+      "keyword": "조선소",
+      "traffic": "500+"
+    },
+    {
       "rank": 5,
-      "keyword": "재산세",
+      "keyword": "유혜정",
       "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "카지노",
-      "traffic": "100+"
+      "keyword": "고우석",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "크리스 페덱",
-      "traffic": "500+"
+      "keyword": "관광객",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "한화솔루션",
-      "traffic": "100+"
+      "keyword": "기생충",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "임수향",
-      "traffic": "100+"
+      "keyword": "삼천당제약 주가",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "워렌 버핏",
-      "traffic": "5000+"
+      "keyword": "경제학",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "장윤기 경찰청 압수수색",
+      "keyword": "발언하는 이재명 대통령",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "트럼프, 캐나다 50% 관세",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "이준영 오늘 현역 입대",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "황인범, 포르투와 3+1년 계약",
+      "keyword": "홈플러스 회생절차 재개",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "여야 선관위 특검 합의",
+      "state": "+",
+      "change": "6"
+    },
+    {
+      "rank": 4,
+      "keyword": "오세훈 여의도공원 재조성 발표",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 5,
-      "keyword": "제니 24일 신곡 발매",
-      "state": "n",
+      "keyword": "신진서 9단, 카타고 도전",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "중동 불안에 증시 하락",
-      "state": "+",
-      "change": "2"
+      "keyword": "박나래 전 매니저 구속",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "내일도 출근",
-      "state": "s",
+      "keyword": "일회용 팬티생리대 품질비교",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김민기 위암 오늘 2주기",
-      "state": "n",
-      "change": "0"
+      "keyword": "압구정 화재 발생",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "호프 후기 논란",
-      "state": "n",
-      "change": "0"
+      "keyword": "고우석 1이닝 3실점 동산",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "선미, 취객에 분노 술잔 들다",
+      "keyword": "심규덕, 약혼녀에 분노",
       "state": "n",
       "change": "0"
     }
