@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-07-21T20:14:57.876Z",
+  "updatedAt": "2026-07-21T21:33:38.195Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "오현규",
-      "traffic": "200+"
+      "keyword": "이재명",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "스파이더맨 브랜드 뉴 데이",
-      "traffic": "100+"
+      "keyword": "뉴스",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "이자",
-      "traffic": "500+"
+      "keyword": "뱀",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "악어",
-      "traffic": "1000+"
+      "keyword": "김혜성",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "다이 소",
-      "traffic": "5000+"
+      "keyword": "xrp 레저",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "앤서니 테일러",
-      "traffic": "200+"
+      "keyword": "에코프로 비엠",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "하트시그널5",
-      "traffic": "200+"
+      "keyword": "오늘의 날씨",
+      "traffic": "100000+"
     },
     {
       "rank": 8,
-      "keyword": "박기량",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "정철원",
+      "keyword": "지드래곤",
       "traffic": "200+"
     },
     {
+      "rank": 9,
+      "keyword": "레인보우로보틱스",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "킬러들의 쇼핑몰 시즌2",
+      "keyword": "임영웅",
       "traffic": "200+"
     }
   ],
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "이재현 역전 솔로포",
-      "state": "+",
-      "change": "3"
+      "keyword": "하트 시그널 5",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이장원 배다해, 100세 합가",
-      "state": "+",
-      "change": "1"
+      "keyword": "KT-두산 2-2 무승부",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "KT-두산 2-2 무승부",
-      "state": "-",
-      "change": "2"
+      "keyword": "이장원 배다해, 100세 할아버지 합가",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "후티 항구 이용 금지 경고",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 6,
       "keyword": "노바티스 1400억 투자",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "백일섭, 졸혼 싫어해",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "백일섭, 졸혼 싫어져",
-      "state": "+",
-      "change": "1"
+      "keyword": "9회 동점 만든 김민석",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "삼성과 기쁨 나누기",
-      "state": "+",
-      "change": "3"
+      "keyword": "뇌 노폐물 배출 경로 발견",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "뇌 노폐물 배출 경로 발견",
+      "keyword": "4주년 맞은 뉴진스 활동 청신호",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "한동훈 장예찬 무혐의 이유 있다",
-      "state": "n",
-      "change": "0"
+      "keyword": "삼성과 기쁨 나누기",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
