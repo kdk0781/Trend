@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-21T06:17:14.090Z",
+  "updatedAt": "2026-07-21T08:48:41.022Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "전성애",
-      "traffic": "1000+"
+      "keyword": "005930",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "화재",
-      "traffic": "10000+"
+      "keyword": "신진 서",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "연애",
+      "keyword": "닛케이 평균주가",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "청년문화예술패스",
-      "traffic": "100+"
+      "keyword": "사이드카",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "엘지트윈스",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "신한은행",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "주주",
+      "keyword": "안동선",
       "traffic": "500+"
     },
     {
-      "rank": 8,
-      "keyword": "허경환",
+      "rank": 6,
+      "keyword": "새만금",
       "traffic": "200+"
     },
     {
+      "rank": 7,
+      "keyword": "박나래 매니저",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "농구",
+      "traffic": "1000+"
+    },
+    {
       "rank": 9,
-      "keyword": "유노윤호",
+      "keyword": "투표",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "대한항공",
-      "traffic": "2000+"
+      "keyword": "이재현",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "카카오 노조 점심 피케팅",
+      "keyword": "종합특검 본회의 통과",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "코스피 급등 매수 사이드카",
+      "keyword": "섬의 날 홍보대사 위촉식",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "MC몽, 4년 만에 단독 콘서트 개최",
-      "state": "s",
+      "keyword": "코스피 3.6% 반등 마감",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "신진서, AI 카타고에 2승 1패",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "필승교 수위 상승 상황 점검",
+      "keyword": "민주당 형사소송법 공청회",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 6,
-      "keyword": "박나래 전 매니저 구속",
-      "state": "n",
+      "rank": 5,
+      "keyword": "죽은 시인의 사회 연극",
+      "state": "s",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "부적절 정부포상 취소 브리핑",
+      "state": "-",
+      "change": "3"
+    },
+    {
       "rank": 7,
-      "keyword": "정점식 원내대표 이준석",
-      "state": "+",
-      "change": "1"
+      "keyword": "LG 리오스 방출",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김대호, 병원行 촬영 중단",
-      "state": "n",
+      "keyword": "정점식 원내대표의 활동",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "쿠팡 물류센터 안전 점검 필요",
-      "state": "+",
-      "change": "3"
+      "keyword": "오세훈 대납 1심 선고",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "홈플러스 회생절차 연장",
+      "keyword": "쯔양 협박 구제역 8천만 원 배상",
       "state": "n",
       "change": "0"
     }
