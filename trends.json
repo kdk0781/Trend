@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-21T22:30:05.695Z",
+  "updatedAt": "2026-07-21T23:30:16.931Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "민지",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "백하나",
+      "keyword": "박위",
       "traffic": "500+"
     },
     {
+      "rank": 2,
+      "keyword": "김민재",
+      "traffic": "200+"
+    },
+    {
       "rank": 3,
-      "keyword": "공소장",
+      "keyword": "googl",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "오늘날씨",
+      "keyword": "레오 14세",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "커피",
-      "traffic": "2000+"
+      "keyword": "tsla",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "소유진",
-      "traffic": "200+"
+      "keyword": "줄기세포",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "박나래",
-      "traffic": "5000+"
+      "keyword": "hd현대중공업",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "재건축",
-      "traffic": "500+"
+      "keyword": "기상청 동네예보",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "skhy",
-      "traffic": "500+"
+      "keyword": "나스닥 지수",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "보스턴다이내믹스",
+      "keyword": "윤석열",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "올다르크 구속영장 기각",
+      "keyword": "트럼프 후티 홍해 봉쇄 시 美가 처리",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이장원♥배다해, 100세 할아버지 몰래 스킨십",
-      "state": "s",
+      "keyword": "효린 씨스타 재결합 아직 고민 중",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "KT-두산 2-2 무승부",
-      "state": "s",
+      "keyword": "설영우 풀타임 즈베즈다",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "트럼프 후티 홍해 봉쇄 시 미국 개입",
-      "state": "s",
+      "keyword": "민지 포함 뉴진스 4인 영상 공개",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "반도체주 반등으로 상승",
+      "keyword": "6월 생산자물가 보합",
       "state": "+",
-      "change": "7"
+      "change": "15"
     },
     {
       "rank": 6,
-      "keyword": "민지 포함 4인 영상 공개",
+      "keyword": "출근 서인국 박지현, 사랑 확인",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "9회 동점 만든 김민석",
-      "state": "+",
-      "change": "1"
+      "keyword": "박상영 작가 인터뷰",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "뇌 노폐물 배출 경로 확인",
-      "state": "-",
-      "change": "3"
+      "keyword": "이재용 최태원 이해진, 젠슨 황 만남",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "6월 생산자물가 보합",
+      "keyword": "이혜리 황인엽 우산 키스",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이승우 PK 실축 무승부",
-      "state": "-",
-      "change": "1"
+      "keyword": "SK하이닉스 ADR 14% 급등",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
