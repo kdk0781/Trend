@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-21T12:20:14.697Z",
+  "updatedAt": "2026-07-21T14:28:52.314Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "전북현대",
-      "traffic": "100+"
+      "keyword": "원자력",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "몸매",
-      "traffic": "500+"
+      "keyword": "한국 영화",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "비니시우스 성형",
-      "traffic": "200+"
+      "keyword": "야구순위",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "전국학교비정규직노동조합",
-      "traffic": "200+"
+      "keyword": "파업",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "동물 보호소",
-      "traffic": "200+"
+      "keyword": "장예원",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "부동산 투자",
+      "keyword": "우원식",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "k리그1",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "롯데손해보험",
+      "keyword": "k리그1 순위",
       "traffic": "100+"
     },
     {
+      "rank": 8,
+      "keyword": "전진",
+      "traffic": "500+"
+    },
+    {
       "rank": 9,
-      "keyword": "반도체 메모리",
-      "traffic": "200+"
+      "keyword": "김현태",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "강선우",
-      "traffic": "2000+"
+      "keyword": "티웨이항공",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "국수본 장윤기 수사 분리",
-      "state": "+",
-      "change": "1"
+      "keyword": "쯔양 협박 유튜버 배상금 8000만원",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "리센느 리브, 다양한 시구",
-      "state": "-",
-      "change": "1"
+      "keyword": "제천영월고속도로 2032년 개통",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "장윤정 모친 투자사기 구속",
-      "state": "n",
+      "keyword": "장윤기 형사과장 영장 기각",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "검찰 관계자들 경찰청 나서다",
-      "state": "n",
-      "change": "0"
+      "keyword": "삼성 이재현 역전 솔로포",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 5,
-      "keyword": "따라가는 투런포 키움 데이비슨",
+      "keyword": "김민석 신천지 정청래 가짜뉴스",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "가족관계증명서 도입 및 자동화",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "죽은 시인의 사회, 자유와 선택",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "두산 선발투수 벤자민 역투",
+      "keyword": "이불 묶은 외국인 추락사",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "장윤정 모친 구속 송치",
+      "state": "-",
+      "change": "6"
+    },
+    {
+      "rank": 8,
+      "keyword": "검찰 관계자 경찰청 출입",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "고소영 소변 의리 30년",
+      "keyword": "10% 매출 주면 폭로 안 해",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "생생 정보",
-      "state": "-",
-      "change": "3"
+      "keyword": "이승우 PK 실축 대전과 0-0 무",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
