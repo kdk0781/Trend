@@ -1,87 +1,87 @@
 {
-  "updatedAt": "2026-07-21T03:47:08.167Z",
+  "updatedAt": "2026-07-21T06:17:14.090Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "윤이나",
-      "traffic": "500+"
+      "keyword": "전성애",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "이정후",
-      "traffic": "5000+"
+      "keyword": "화재",
+      "traffic": "10000+"
     },
     {
       "rank": 3,
-      "keyword": "교회",
-      "traffic": "2000+"
+      "keyword": "연애",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "조선소",
-      "traffic": "500+"
+      "keyword": "청년문화예술패스",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "유혜정",
-      "traffic": "2000+"
+      "keyword": "엘지트윈스",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "고우석",
+      "keyword": "신한은행",
       "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "관광객",
-      "traffic": "5000+"
+      "keyword": "주주",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "기생충",
-      "traffic": "500+"
+      "keyword": "허경환",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "삼천당제약 주가",
-      "traffic": "500+"
+      "keyword": "유노윤호",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "경제학",
-      "traffic": "500+"
+      "keyword": "대한항공",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "발언하는 이재명 대통령",
+      "keyword": "카카오 노조 점심 피케팅",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "홈플러스 회생절차 재개",
+      "keyword": "코스피 급등 매수 사이드카",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "여야 선관위 특검 합의",
-      "state": "+",
-      "change": "6"
+      "keyword": "MC몽, 4년 만에 단독 콘서트 개최",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "오세훈 여의도공원 재조성 발표",
-      "state": "-",
-      "change": "1"
+      "keyword": "신진서, AI 카타고에 2승 1패",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "신진서 9단, 카타고 도전",
-      "state": "s",
-      "change": "0"
+      "keyword": "필승교 수위 상승 상황 점검",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
@@ -91,25 +91,25 @@
     },
     {
       "rank": 7,
-      "keyword": "일회용 팬티생리대 품질비교",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "압구정 화재 발생",
+      "keyword": "정점식 원내대표 이준석",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 8,
+      "keyword": "김대호, 병원行 촬영 중단",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "고우석 1이닝 3실점 동산",
+      "keyword": "쿠팡 물류센터 안전 점검 필요",
       "state": "+",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "심규덕, 약혼녀에 분노",
+      "keyword": "홈플러스 회생절차 연장",
       "state": "n",
       "change": "0"
     }
