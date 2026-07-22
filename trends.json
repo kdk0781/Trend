@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-07-22T16:39:35.913Z",
+  "updatedAt": "2026-07-22T17:51:41.645Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "극한 호우",
+      "keyword": "유골함",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "가수",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "홈 플러스 재개 장",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "fx5",
+      "keyword": "dc",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "fm",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "클럽 친선경기",
+      "traffic": "2000+"
+    },
+    {
       "rank": 5,
-      "keyword": "교사",
+      "keyword": "극한 호우",
       "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "이용수",
-      "traffic": "5000+"
+      "keyword": "홈 플러스 재개 장",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "김준상",
-      "traffic": "200+"
+      "keyword": "가수",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "유럽",
-      "traffic": "200+"
+      "keyword": "fx5",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "인스타그램",
-      "traffic": "5000+"
+      "keyword": "교사",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "모스 탄",
-      "traffic": "200+"
+      "keyword": "이용수",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
@@ -61,56 +61,56 @@
     },
     {
       "rank": 2,
-      "keyword": "오세훈 서울시장 자리로 복귀",
-      "state": "n",
+      "keyword": "정승원 서울, 포항 3-1 선두 질주",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "정승원 멀티골 서울 6경기 무패 선두 질주",
-      "state": "-",
+      "keyword": "오세훈 서울시장 자리 복귀",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "쿠팡 물류센터 화재 완진",
+      "keyword": "프렌치 파파와 발달장애 아들 이야기",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "디렉터스 아레나 뷰잉파티 참석",
+      "keyword": "디렉터스 아레나 레진스낵 참석",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "트럼프 이란, 선박 공격 시 폭격",
-      "state": "s",
-      "change": "0"
+      "keyword": "인천 쿠팡 화재 109시간 만에 완진",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "잠실 LG-NC전 우천 노게임",
+      "keyword": "트럼프 이란, 선박 공격시 교량·발전소 파괴",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "프렌치 파파 발달장애 아들과 함께",
+      "keyword": "잠실 LG-NC전 우천 노게임",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김용범 레버리지 신속 보완 검토",
-      "state": "n",
+      "keyword": "32기 영자 영철 냉전 사태",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이승우 탈락 폭탄발언",
-      "state": "n",
+      "keyword": "한국GM 노사 임단협 합의",
+      "state": "s",
       "change": "0"
     }
   ]
