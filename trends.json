@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-22T12:56:33.219Z",
+  "updatedAt": "2026-07-22T15:00:49.442Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "부동산정책",
-      "traffic": "200+"
+      "keyword": "인스타그램",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "농축 우라늄",
-      "traffic": "2000+"
+      "keyword": "모스 탄",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "하사",
-      "traffic": "500+"
+      "keyword": "박동원",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "수출",
-      "traffic": "500+"
+      "keyword": "이승우",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "이란전쟁",
+      "keyword": "토트넘",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "k리그1",
-      "traffic": "500+"
+      "keyword": "한강 벨트",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "iptv",
-      "traffic": "100+"
+      "keyword": "폴드8",
+      "traffic": "10000+"
     },
     {
       "rank": 8,
-      "keyword": "법률저널",
+      "keyword": "잔니 인판티노",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "디즈니",
+      "keyword": "경기도",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "알칸타라",
-      "traffic": "100+"
+      "keyword": "반려견",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "인사말하는 오세훈 시장",
-      "state": "s",
+      "keyword": "쿠팡 화재 나흘 만에 완진",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "잠실 LG-NC전 우천 노게임",
+      "keyword": "삼성전자 갤럭시 공개",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "인천 쿠팡 화재 나흘 만에 진화",
-      "state": "n",
-      "change": "0"
+      "keyword": "정승원 멀티골 서울 6경기 무패 선두",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "서울 정승원 두 번째 골",
+      "keyword": "비 오는 오세훈 시장",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김웅빈 선제포 폭발",
-      "state": "-",
-      "change": "2"
+      "keyword": "더위 남부는 찜통더위",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "붉은 진주",
+      "keyword": "프렌치 파파와 발달장애 아들 이야기",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "손나은, 에이핑크 탈퇴 후 노력 다짐",
+      "keyword": "디렉터스 아레나 뷰잉파티 참석",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "정청래, 유시민 발언 침묵",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "직격탄을 맞고 무릎 꿇었다",
+      "keyword": "김강우와 기성용 사랑꾼 대결",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "트럼프 이란, 선박 공격 시 발전소 파괴",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 10,
-      "keyword": "이혼하자 7년차 53평",
+      "keyword": "배재고 학생 다 잤다",
       "state": "n",
       "change": "0"
     }
