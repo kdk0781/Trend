@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-21T23:30:16.931Z",
+  "updatedAt": "2026-07-22T01:02:06.515Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "박위",
-      "traffic": "500+"
+      "keyword": "모티프3",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "김민재",
-      "traffic": "200+"
+      "keyword": "트레이드",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "googl",
-      "traffic": "100+"
+      "keyword": "김영광",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "레오 14세",
-      "traffic": "200+"
+      "keyword": "탈세",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "tsla",
-      "traffic": "500+"
+      "keyword": "진",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "줄기세포",
-      "traffic": "500+"
+      "keyword": "접바둑",
+      "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "hd현대중공업",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "기상청 동네예보",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "나스닥 지수",
+      "keyword": "고소영",
       "traffic": "100+"
     },
     {
+      "rank": 8,
+      "keyword": "이탈리아 축구 국가대표팀",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
+      "keyword": "세종특별자치시",
+      "traffic": "500+"
+    },
+    {
       "rank": 10,
-      "keyword": "윤석열",
+      "keyword": "김병주",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 후티 홍해 봉쇄 시 美가 처리",
+      "keyword": "코스피 매수 사이드카 발동",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "효린 씨스타 재결합 아직 고민 중",
-      "state": "n",
+      "keyword": "우도환 블리츠웨이와 재계약",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "설영우 풀타임 즈베즈다",
+      "keyword": "AI 레이밴 출시",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "민지 포함 뉴진스 4인 영상 공개",
-      "state": "n",
-      "change": "0"
+      "keyword": "벤투 퇴장한 테일러 은퇴",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "6월 생산자물가 보합",
+      "keyword": "민지 포함 4인 컴백",
       "state": "+",
-      "change": "15"
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "출근 서인국 박지현, 사랑 확인",
+      "keyword": "김민석 유시민 필패 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "박상영 작가 인터뷰",
-      "state": "n",
-      "change": "0"
+      "keyword": "대안과 미래 의원 참석",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "이재용 최태원 이해진, 젠슨 황 만남",
-      "state": "n",
-      "change": "0"
+      "keyword": "기아 황경하 그랜드 마스터",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "이혜리 황인엽 우산 키스",
+      "keyword": "이재용 최태원 미국에서",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "SK하이닉스 ADR 14% 급등",
+      "keyword": "한국 여권 2위 유지",
       "state": "n",
       "change": "0"
     }
