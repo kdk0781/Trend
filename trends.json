@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-22T04:27:40.002Z",
+  "updatedAt": "2026-07-22T07:09:09.339Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "엔화",
-      "traffic": "200+"
+      "keyword": "한국여자프로골프협회",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "군대",
+      "keyword": "천소윤",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "치매",
-      "traffic": "2000+"
+      "keyword": "로스앤젤레스 에인절스",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "대한민국 국세청",
-      "traffic": "500+"
+      "keyword": "신세계면세점",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "가짜뉴스",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "중복",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "염경엽",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "김혜수",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "식이",
+      "keyword": "카라스코",
       "traffic": "1000+"
     },
     {
+      "rank": 6,
+      "keyword": "피오",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "김건희",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "이탁수",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "엘지트윈스",
+      "traffic": "200+"
+    },
+    {
       "rank": 10,
-      "keyword": "유채영",
-      "traffic": "5000+"
+      "keyword": "최정",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "부동산 대책 촉구 기자회견",
+      "keyword": "법원, 오세훈 여론조사 비용대납 5건 인정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "쿠팡 재고 전액 보상",
-      "state": "n",
+      "keyword": "대통령 지역필수공공의료 간담회",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "관세청 마약 단속 시연",
-      "state": "+",
-      "change": "3"
+      "keyword": "3대 메가프로젝트 당정협의",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이정후 3G 연속 안타",
+      "keyword": "안희연 결혼 연기 답변",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "참교육 피오 제주 교통사고",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "정동영 유흥식 간담회 참석",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "식약처, 마약 검출 차단",
+      "keyword": "LG 카라스코 영입",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "경북 공공기관 유치전략",
+      "rank": 6,
+      "keyword": "페이커 사이버도박 예방",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 7,
+      "keyword": "민주당 3대 지원 특위",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "김성환 장관 용인 방문",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 9,
-      "keyword": "특별성과 포상금 우수기관",
+      "keyword": "한성숙 총리의 활동",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "오세훈 1심 선고",
-      "state": "+",
-      "change": "7"
+      "keyword": "호프 호평 욕먹나?",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
