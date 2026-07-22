@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-22T20:12:58.942Z",
+  "updatedAt": "2026-07-22T21:30:41.447Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "케일럽 보쉴리",
+      "keyword": "세종특별자치시",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "홍지민",
+      "keyword": "capex",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "한국지엠",
+      "keyword": "국가수사본부",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "우 서윤",
-      "traffic": "1000+"
+      "keyword": "중앙일보",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "마크 도스 산토스",
+      "keyword": "실종자",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "spurs vs mk dons",
+      "keyword": "일기예보",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "다시보기",
+      "keyword": "테슬라 주가",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "티비",
-      "traffic": "100+"
+      "keyword": "일본 엔",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "도시 재개발",
-      "traffic": "100+"
+      "keyword": "한화오션",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "가르나초",
-      "traffic": "100+"
+      "keyword": "유조선",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "삼성전자, 갤럭시 공개",
+      "keyword": "삼성전자 갤럭시 공개",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "정승원 멀티골 서울, 포항 꺾고 선두 질주",
-      "state": "s",
-      "change": "0"
+      "keyword": "트럼프 이란 발전소 폭격",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "디렉터스 아레나 레진스낵 뷰잉파티 참석",
-      "state": "s",
-      "change": "0"
+      "keyword": "32기 영철 영자, 역대급 언쟁",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "프렌치파파 발달장애 아들 이야기",
-      "state": "s",
+      "keyword": "김기동 감독 선두 질주",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "인천 쿠팡센터 화재 완전 진화",
-      "state": "s",
+      "keyword": "디렉터스 X 레진스낵 참석",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "트럼프 이란, 선박 공격 시 교량·발전소 파괴",
-      "state": "s",
+      "keyword": "기성용, 축구 개혁 필요",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "영자 영철 피신 예고",
-      "state": "s",
+      "keyword": "서울 선두 질주! 정승원 멀티골",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "유퀴즈 기성용 한혜진 출연",
-      "state": "s",
+      "keyword": "서인영, 출연료 다 썼다",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "포항 프란지스카 동점골",
-      "state": "n",
-      "change": "0"
+      "keyword": "킬러들의 쇼핑몰 시즌2",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "심우준 4타점 KIA",
-      "state": "n",
-      "change": "0"
+      "keyword": "하트 시그널 5",
+      "state": "+",
+      "change": "10"
     }
   ]
 }
