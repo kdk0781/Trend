@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-22T21:30:41.447Z",
+  "updatedAt": "2026-07-22T22:37:25.588Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "세종특별자치시",
-      "traffic": "100+"
+      "keyword": "운세",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "capex",
-      "traffic": "200+"
+      "keyword": "군체",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "국가수사본부",
+      "keyword": "휴대 전화",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "중앙일보",
+      "keyword": "googl",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "실종자",
+      "keyword": "nvda",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "일기예보",
-      "traffic": "200+"
+      "keyword": "안세영",
+      "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "테슬라 주가",
+      "keyword": "바이아웃",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "일본 엔",
-      "traffic": "200+"
+      "keyword": "김혜성",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "한화오션",
-      "traffic": "2000+"
+      "keyword": "spcx",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "유조선",
+      "keyword": "skhy",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "삼성전자 갤럭시 공개",
+      "keyword": "미 사우디 원자력 협정 체결",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 2,
+      "keyword": "32기 영철·영자, 100분 언쟁 폭발",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 2,
-      "keyword": "트럼프 이란 발전소 폭격",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 3,
-      "keyword": "32기 영철 영자, 역대급 언쟁",
-      "state": "+",
-      "change": "1"
+      "keyword": "알파벳 2분기 매출 177조원 초과",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "김기동 감독 선두 질주",
+      "keyword": "트럼프 이란 공격 행보",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "디렉터스 X 레진스낵 참석",
-      "state": "n",
-      "change": "0"
+      "keyword": "김정민 첫째 아들 비주얼 공개",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "기성용, 축구 개혁 필요",
+      "keyword": "오늘 부동산 대토론회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "서울 선두 질주! 정승원 멀티골",
-      "state": "n",
+      "keyword": "킬러들의 쇼핑몰 시즌2",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "서인영, 출연료 다 썼다",
+      "keyword": "오세훈 1심 당선무효형",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "킬러들의 쇼핑몰 시즌2",
-      "state": "+",
-      "change": "3"
+      "keyword": "이강인, 8월 한국서 뛴다!",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "하트 시그널 5",
-      "state": "+",
-      "change": "10"
+      "keyword": "사유리 10억 아파트 후회",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
