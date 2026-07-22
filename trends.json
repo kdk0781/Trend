@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-22T09:36:20.370Z",
+  "updatedAt": "2026-07-22T11:27:23.855Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "복권",
-      "traffic": "1000+"
+      "keyword": "다코타 존슨",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "천궁",
-      "traffic": "1000+"
+      "keyword": "차준환",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "송내역",
-      "traffic": "500+"
+      "keyword": "삼성 갤럭시 s26",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "현대엔지니어링",
+      "keyword": "변동성",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "백승호",
-      "traffic": "500+"
+      "keyword": "마드리스",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "ants",
+      "keyword": "new zealand vs west indies",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "mrbeast",
+      "keyword": "소방방재신문",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "파열",
-      "traffic": "500+"
+      "keyword": "hanwha vs kia",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "당대표",
+      "keyword": "허위 광고",
       "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "박시연",
-      "traffic": "1000+"
+      "keyword": "fc 서울 대 포항",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "오세훈 1심 벌금 1000만원",
+      "keyword": "차가원에 구속영장 신청",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "정성호 장관 질의답변",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "디렉터스 아레나 이주승",
-      "state": "+",
-      "change": "7"
-    },
-    {
-      "rank": 4,
-      "keyword": "수원 KT-두산전 취소",
-      "state": "+",
-      "change": "8"
-    },
-    {
-      "rank": 5,
-      "keyword": "정윤경 교수 추천",
+      "keyword": "최형우 5시즌 연속 100안타",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "닝닝, 가족 악플러 고소 준비",
+      "rank": 3,
+      "keyword": "빛나는 주역들 이야기",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 4,
+      "keyword": "LG-NC 경기 우천 중단",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "오세훈 시장 꽃다발 전달",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "김용범 레버리지 신속 이행 우선",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "삼성바이오에피스, 인투셀 ADC 계약",
+      "keyword": "이수지 소주광고 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "하니, 양재웅과 몫 감당",
+      "keyword": "브라질 잡은 한국 배구",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "가수 대마 재배 기소",
+      "keyword": "영베리·이원우·최이수 디렉터스 아레나 참석",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이아영, 심규덕 애정 표출 서툴고 폭력성 지적",
+      "keyword": "공 던지는 허스트",
       "state": "n",
       "change": "0"
     }
