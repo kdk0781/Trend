@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-22T11:27:23.855Z",
+  "updatedAt": "2026-07-22T12:56:33.219Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "다코타 존슨",
+      "keyword": "부동산정책",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "차준환",
-      "traffic": "100+"
+      "keyword": "농축 우라늄",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "삼성 갤럭시 s26",
-      "traffic": "200+"
+      "keyword": "하사",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "변동성",
+      "keyword": "수출",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "마드리스",
+      "keyword": "이란전쟁",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "new zealand vs west indies",
-      "traffic": "200+"
+      "keyword": "k리그1",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "소방방재신문",
+      "keyword": "iptv",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "hanwha vs kia",
-      "traffic": "100+"
+      "keyword": "법률저널",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "허위 광고",
-      "traffic": "2000+"
+      "keyword": "디즈니",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "fc 서울 대 포항",
-      "traffic": "5000+"
+      "keyword": "알칸타라",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "차가원에 구속영장 신청",
+      "keyword": "인사말하는 오세훈 시장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "최형우 5시즌 연속 100안타",
-      "state": "+",
-      "change": "1"
+      "keyword": "잠실 LG-NC전 우천 노게임",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "빛나는 주역들 이야기",
-      "state": "+",
-      "change": "4"
+      "keyword": "인천 쿠팡 화재 나흘 만에 진화",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "LG-NC 경기 우천 중단",
+      "keyword": "서울 정승원 두 번째 골",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "오세훈 시장 꽃다발 전달",
-      "state": "n",
-      "change": "0"
+      "keyword": "김웅빈 선제포 폭발",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "김용범 레버리지 신속 이행 우선",
-      "state": "-",
-      "change": "1"
+      "keyword": "붉은 진주",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "이수지 소주광고 논란",
+      "keyword": "손나은, 에이핑크 탈퇴 후 노력 다짐",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "브라질 잡은 한국 배구",
+      "keyword": "정청래, 유시민 발언 침묵",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "영베리·이원우·최이수 디렉터스 아레나 참석",
-      "state": "n",
+      "keyword": "직격탄을 맞고 무릎 꿇었다",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "공 던지는 허스트",
+      "keyword": "이혼하자 7년차 53평",
       "state": "n",
       "change": "0"
     }
