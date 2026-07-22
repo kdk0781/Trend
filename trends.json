@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-22T07:09:09.339Z",
+  "updatedAt": "2026-07-22T09:36:20.370Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "한국여자프로골프협회",
-      "traffic": "500+"
+      "keyword": "복권",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "천소윤",
-      "traffic": "100+"
+      "keyword": "천궁",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "로스앤젤레스 에인절스",
+      "keyword": "송내역",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "신세계면세점",
-      "traffic": "100+"
+      "keyword": "현대엔지니어링",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "카라스코",
-      "traffic": "1000+"
+      "keyword": "백승호",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "피오",
+      "keyword": "ants",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "김건희",
-      "traffic": "2000+"
+      "keyword": "mrbeast",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "이탁수",
-      "traffic": "200+"
+      "keyword": "파열",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "엘지트윈스",
-      "traffic": "200+"
+      "keyword": "당대표",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "최정",
-      "traffic": "500+"
+      "keyword": "박시연",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "법원, 오세훈 여론조사 비용대납 5건 인정",
+      "keyword": "오세훈 1심 벌금 1000만원",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "대통령 지역필수공공의료 간담회",
+      "keyword": "정성호 장관 질의답변",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "3대 메가프로젝트 당정협의",
-      "state": "s",
-      "change": "0"
+      "keyword": "디렉터스 아레나 이주승",
+      "state": "+",
+      "change": "7"
     },
     {
       "rank": 4,
-      "keyword": "안희연 결혼 연기 답변",
+      "keyword": "수원 KT-두산전 취소",
+      "state": "+",
+      "change": "8"
+    },
+    {
+      "rank": 5,
+      "keyword": "정윤경 교수 추천",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "닝닝, 가족 악플러 고소 준비",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "LG 카라스코 영입",
-      "state": "s",
+      "rank": 7,
+      "keyword": "삼성바이오에피스, 인투셀 ADC 계약",
+      "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "페이커 사이버도박 예방",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "민주당 3대 지원 특위",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 8,
-      "keyword": "김성환 장관 용인 방문",
-      "state": "-",
-      "change": "2"
+      "keyword": "하니, 양재웅과 몫 감당",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "한성숙 총리의 활동",
+      "keyword": "가수 대마 재배 기소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "호프 호평 욕먹나?",
+      "keyword": "이아영, 심규덕 애정 표출 서툴고 폭력성 지적",
       "state": "n",
       "change": "0"
     }
