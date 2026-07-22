@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-22T01:02:06.515Z",
+  "updatedAt": "2026-07-22T04:27:40.002Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "모티프3",
-      "traffic": "100+"
+      "keyword": "엔화",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "트레이드",
-      "traffic": "5000+"
+      "keyword": "군대",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "김영광",
-      "traffic": "500+"
+      "keyword": "치매",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "탈세",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "진",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "접바둑",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "고소영",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "이탈리아 축구 국가대표팀",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "세종특별자치시",
+      "keyword": "대한민국 국세청",
       "traffic": "500+"
     },
     {
-      "rank": 10,
-      "keyword": "김병주",
+      "rank": 5,
+      "keyword": "가짜뉴스",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "중복",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "염경엽",
       "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "김혜수",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "식이",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 10,
+      "keyword": "유채영",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "코스피 매수 사이드카 발동",
+      "keyword": "부동산 대책 촉구 기자회견",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "우도환 블리츠웨이와 재계약",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "AI 레이밴 출시",
+      "keyword": "쿠팡 재고 전액 보상",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "관세청 마약 단속 시연",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 4,
-      "keyword": "벤투 퇴장한 테일러 은퇴",
-      "state": "-",
-      "change": "1"
+      "keyword": "이정후 3G 연속 안타",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "민지 포함 4인 컴백",
-      "state": "+",
-      "change": "2"
+      "keyword": "참교육 피오 제주 교통사고",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김민석 유시민 필패 논란",
+      "keyword": "정동영 유흥식 간담회 참석",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "대안과 미래 의원 참석",
-      "state": "-",
-      "change": "2"
+      "keyword": "식약처, 마약 검출 차단",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "기아 황경하 그랜드 마스터",
+      "keyword": "경북 공공기관 유치전략",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "이재용 최태원 미국에서",
+      "keyword": "특별성과 포상금 우수기관",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "한국 여권 2위 유지",
-      "state": "n",
-      "change": "0"
+      "keyword": "오세훈 1심 선고",
+      "state": "+",
+      "change": "7"
     }
   ]
 }
