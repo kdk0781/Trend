@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-22T18:59:43.348Z",
+  "updatedAt": "2026-07-22T20:12:58.942Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "우 서윤",
-      "traffic": "500+"
+      "keyword": "케일럽 보쉴리",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "마크 도스 산토스",
+      "keyword": "홍지민",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "spurs vs mk dons",
+      "keyword": "한국지엠",
       "traffic": "200+"
     },
     {
       "rank": 4,
+      "keyword": "우 서윤",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "마크 도스 산토스",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "spurs vs mk dons",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "다시보기",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
       "keyword": "티비",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "keyword": "도시 재개발",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 10,
       "keyword": "가르나초",
       "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "유골함",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "dc",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "fm",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "클럽 친선경기",
-      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "삼성전자 갤럭시 공개",
+      "keyword": "삼성전자, 갤럭시 공개",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "정승원 서울 선두 질주",
+      "keyword": "정승원 멀티골 서울, 포항 꺾고 선두 질주",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "오세훈 시장 자리로 돌아가다",
+      "keyword": "디렉터스 아레나 레진스낵 뷰잉파티 참석",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "디렉터스 아레나 X 뷰잉파티 참석",
-      "state": "n",
+      "keyword": "프렌치파파 발달장애 아들 이야기",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "프렌치 파파, 발달장애 아들 이야기",
-      "state": "-",
-      "change": "1"
+      "keyword": "인천 쿠팡센터 화재 완전 진화",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "인천 쿠팡 화재 109시간 만 완진",
-      "state": "+",
-      "change": "2"
+      "keyword": "트럼프 이란, 선박 공격 시 교량·발전소 파괴",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "트럼프 이란, 선박 공격시 발전소 폭격",
-      "state": "+",
-      "change": "2"
+      "keyword": "영자 영철 피신 예고",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "잠실 LG-NC전 우천 노게임",
-      "state": "-",
-      "change": "2"
+      "keyword": "유퀴즈 기성용 한혜진 출연",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "영자, 영철 피신 후 사과",
-      "state": "-",
-      "change": "2"
+      "keyword": "포항 프란지스카 동점골",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "킬러들의 쇼핑몰 시즌2",
-      "state": "+",
-      "change": "58"
+      "keyword": "심우준 4타점 KIA",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
