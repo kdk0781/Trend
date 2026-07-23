@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-23T07:03:49.638Z",
+  "updatedAt": "2026-07-23T09:30:47.720Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이재명",
-      "traffic": "2000+"
+      "keyword": "성과급",
+      "traffic": "10000+"
     },
     {
       "rank": 2,
-      "keyword": "보스턴 레드삭스",
-      "traffic": "500+"
+      "keyword": "지연수",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "흡연",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "삼성sdi",
+      "keyword": "ned vs nep",
       "traffic": "500+"
     },
     {
+      "rank": 4,
+      "keyword": "제이슨 데이",
+      "traffic": "200+"
+    },
+    {
       "rank": 5,
-      "keyword": "군대",
-      "traffic": "100+"
+      "keyword": "은행",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "철도망",
+      "keyword": "윤경호",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "이정재",
-      "traffic": "500+"
+      "keyword": "권한쟁의심판",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "김가은",
-      "traffic": "10000+"
+      "keyword": "손승원",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "농지",
+      "keyword": "규제",
       "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "nh농협은행",
-      "traffic": "1000+"
+      "keyword": "아르헨티나 축구 국가 대표팀",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "현대차 2분기 최대 매출 감소",
-      "state": "s",
+      "keyword": "상반기 순익 최대",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "코스닥 매수 사이드카 발동",
-      "state": "s",
+      "keyword": "국제개발협력위원회 회의 참석한 한성숙 총리",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "장동혁 대표 관련 기사",
+      "keyword": "이센스 신체 접촉 부인",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "손흥민 2경기 연속골",
+      "keyword": "신임 위원장 당선 인사",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "갤럭시 Z 폴드8, 가벼운 폴더블",
-      "state": "-",
-      "change": "1"
+      "keyword": "브루스 짐머맨 합류",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김건희 전원합의체 회부",
+      "keyword": "김건희 상고심 선고 연기",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "다이어트 부당광고 적발",
-      "state": "n",
+      "keyword": "헌재 교수노조 정치활동 위헌",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "박수홍 형수 항소 심벌금 1200만원",
+      "keyword": "36주 낙태 산모 무죄 판결",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "헌재 정치활동 금지 위헌",
-      "state": "-",
-      "change": "1"
+      "keyword": "사우디·카타르와 같은 조",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 10,
-      "keyword": "이민성호, 사우디·카타르와 한 조",
-      "state": "n",
-      "change": "0"
+      "keyword": "손승원, 항소심 4년 구형",
+      "state": "-",
+      "change": "6"
     }
   ]
 }
