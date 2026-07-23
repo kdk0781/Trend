@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-23T01:06:23.703Z",
+  "updatedAt": "2026-07-23T04:27:00.202Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "비니시우스",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "국수본",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "맨체스터 유나이티드 fc",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "서인영",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "구룡마을",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "중복",
+      "keyword": "이현중",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "박지윤",
-      "traffic": "500+"
+      "rank": 2,
+      "keyword": "여성 소방관",
+      "traffic": "100+"
     },
     {
-      "rank": 8,
-      "keyword": "inter miami vs chicago",
-      "traffic": "500+"
+      "rank": 3,
+      "keyword": "피파",
+      "traffic": "2000+"
     },
     {
-      "rank": 9,
-      "keyword": "외계 위성",
+      "rank": 4,
+      "keyword": "채은성",
       "traffic": "1000+"
     },
     {
-      "rank": 10,
-      "keyword": "이만희",
+      "rank": 5,
+      "keyword": "경산아파트",
       "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "운전 기사",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "축구 감독",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "레미콘",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
+      "keyword": "이호재",
+      "traffic": "100+"
+    },
+    {
+      "rank": 10,
+      "keyword": "청소차",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "경산 아파트 관리실 폭발 8명 부상",
+      "keyword": "경산 아파트 방화 8명 부상",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "2분기 GDP 0.6% 성장",
+      "keyword": "김상민 집행유예 확정",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 3,
+      "keyword": "손흥민 2경기 연속골",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "이재명 대통령 발언 경청",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "부동산 대토론회 집중",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "합수본, 중앙선관위 압수수색",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "이준호·홍화연, 주한이국대사관 출연",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "기아 UX 스튜디오 개관",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 6,
-      "keyword": "장동혁 대표 최고위 발언",
-      "state": "n",
+      "keyword": "노윤서 연기력 논란",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "보지냐 월드컵 드림팀 선정",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "박수홍 동거설 형수 오늘 선고",
+      "keyword": "부총리-CEO 간담회",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "삼성전기 3000억 AI MLCC 계약",
+      "rank": 8,
+      "keyword": "남아공 갤럭시 공개",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "이정후 시즌 4호 3루타 폭발",
+      "rank": 9,
+      "keyword": "국세청 관세청 합동 수색",
       "state": "-",
-      "change": "7"
+      "change": "1"
+    },
+    {
+      "rank": 10,
+      "keyword": "상임위원장 후보 선출 완료",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
