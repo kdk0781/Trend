@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-23T09:30:47.720Z",
+  "updatedAt": "2026-07-23T11:27:45.937Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "성과급",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "지연수",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "ned vs nep",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "제이슨 데이",
+      "keyword": "에르베 르나르",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "아옳이",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "조재복",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "hd현대일렉트릭",
+      "traffic": "500+"
+    },
+    {
       "rank": 5,
-      "keyword": "은행",
+      "keyword": "이수연",
       "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "윤경호",
+      "keyword": "임창용",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "권한쟁의심판",
-      "traffic": "1000+"
+      "keyword": "정기예금",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "손승원",
+      "keyword": "캣맘",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "규제",
-      "traffic": "5000+"
+      "keyword": "이강철",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "아르헨티나 축구 국가 대표팀",
+      "keyword": "nepal vs netherlands",
       "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "상반기 순익 최대",
-      "state": "n",
+      "keyword": "김민석 정청래 송영길 3파전",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "국제개발협력위원회 회의 참석한 한성숙 총리",
-      "state": "n",
-      "change": "0"
+      "keyword": "힛지스 혜린 인형 같은 미모",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 3,
-      "keyword": "이센스 신체 접촉 부인",
+      "keyword": "하지원 시구 손목 부상",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "신임 위원장 당선 인사",
+      "keyword": "있지 채령 시구",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "브루스 짐머맨 합류",
-      "state": "s",
+      "keyword": "정동영 先비핵화 북핵",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김건희 상고심 선고 연기",
+      "keyword": "대낮 여고생 흉기 피습 10대 남성 검거",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "헌재 교수노조 정치활동 위헌",
-      "state": "s",
-      "change": "0"
+      "keyword": "당선 소감 전하는 위원장들",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "36주 낙태 산모 무죄 판결",
+      "keyword": "손승원 음주운전 4년 구형",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "KIA 시라카와 투구",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "사우디·카타르와 같은 조",
-      "state": "+",
-      "change": "4"
-    },
-    {
       "rank": 10,
-      "keyword": "손승원, 항소심 4년 구형",
-      "state": "-",
-      "change": "6"
+      "keyword": "36주 산모 무죄로 뒤집힘",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
