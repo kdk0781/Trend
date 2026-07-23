@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-22T23:35:42.989Z",
+  "updatedAt": "2026-07-23T01:06:23.703Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "외계 위성",
-      "traffic": "500+"
+      "keyword": "비니시우스",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "이만희",
+      "keyword": "국수본",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "통화",
-      "traffic": "200+"
+      "keyword": "맨체스터 유나이티드 fc",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "이혜성",
-      "traffic": "200+"
+      "keyword": "서인영",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "발렌시아 대 엘덴세",
+      "keyword": "구룡마을",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "당구",
-      "traffic": "1000+"
+      "keyword": "중복",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "이자",
-      "traffic": "1000+"
+      "keyword": "박지윤",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "대우건설",
-      "traffic": "200+"
+      "keyword": "inter miami vs chicago",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "예산",
-      "traffic": "200+"
+      "keyword": "외계 위성",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "운세",
-      "traffic": "2000+"
+      "keyword": "이만희",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "미국-사우디 원자력 협정",
+      "keyword": "경산 아파트 관리실 폭발 8명 부상",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "갤럭시 언팩 관람객들",
+      "keyword": "2분기 GDP 0.6% 성장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "구글 실적발표",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "32기 영철 영자 언쟁 정리",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 5,
-      "keyword": "KCM, 딸 잔소리 폭발",
+      "keyword": "합수본, 중앙선관위 압수수색",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "이준호·홍화연, 주한이국대사관 출연",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "기아 UX 스튜디오 개관",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 6,
-      "keyword": "박수홍 형수 오늘 선고",
+      "keyword": "장동혁 대표 최고위 발언",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "AI스피커 사랑 사연",
-      "state": "n",
-      "change": "0"
+      "keyword": "보지냐 월드컵 드림팀 선정",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "장윤기, 피해 여고생과 무관해",
-      "state": "n",
+      "keyword": "박수홍 동거설 형수 오늘 선고",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이승우, 흥민 군 면제 내가 해줬다",
+      "keyword": "삼성전기 3000억 AI MLCC 계약",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이정후 시즌 4호 3루타!",
-      "state": "n",
-      "change": "0"
+      "keyword": "이정후 시즌 4호 3루타 폭발",
+      "state": "-",
+      "change": "7"
     }
   ]
 }
