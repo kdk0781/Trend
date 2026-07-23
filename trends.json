@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-23T16:42:02.212Z",
+  "updatedAt": "2026-07-23T18:01:59.337Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "엔비디아",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
+      "keyword": "다시보기",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "인텔 실적발표",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
       "keyword": "신상출시 편스토랑",
       "traffic": "500+"
     },
     {
-      "rank": 2,
+      "rank": 5,
       "keyword": "주거",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "keyword": "박세리",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "keyword": "음문석",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "토네이도",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "댕구알버섯",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "박정수",
       "traffic": "500+"
     },
     {
-      "rank": 8,
-      "keyword": "tesla stock",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "wti",
-      "traffic": "100+"
-    },
-    {
       "rank": 10,
-      "keyword": "자오즈민",
-      "traffic": "1000+"
+      "keyword": "박정수",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "민주당 3파전 김민석 정청래 송영길",
+      "keyword": "김민석 정청래 송영길 본선 진출",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "블레인 LG 7연패",
-      "state": "+",
-      "change": "1"
+      "keyword": "NC, LG 7연패",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "8기 영수 여자 3호에 눈물과 갈등",
-      "state": "n",
+      "keyword": "영수 여자 3호 눈물 거절 끝",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "채령의 귀여운 시구",
-      "state": "+",
-      "change": "1"
+      "keyword": "채령의 수줍은 시구",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "동아쏘시오홀딩스 동아제약 흡수합병",
-      "state": "+",
-      "change": "1"
+      "keyword": "합수본 압수수색 완료",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "중앙선관위 압수수색 마친 합수본",
+      "keyword": "브렌트유 배럴당 100달러",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "SKT, AI 법인 SK하이퍼 설립",
-      "state": "n",
+      "keyword": "최화정 삼전닉스 처분 대박",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "데이비슨 동점포 터졌다",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "최화정 삼전닉스 최고점에",
+      "keyword": "트럼프 군사적 응징",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "데이비슨 동점포 터졌다!",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "안재형 자오즈민 부부 근황",
+      "keyword": "ECB 금리 동결",
       "state": "-",
-      "change": "6"
+      "change": "2"
     }
   ]
 }
