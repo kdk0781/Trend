@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-23T19:40:06.483Z",
+  "updatedAt": "2026-07-23T20:40:28.536Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "유럽",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
+      "keyword": "연금복권720+",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "정몽규",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
       "keyword": "빗썸",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 5,
       "keyword": "정치",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "apple",
       "traffic": "100+"
     },
     {
-      "rank": 4,
-      "keyword": "배정남",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "민주당 예비경선 결과",
-      "traffic": "200+"
-    },
-    {
       "rank": 6,
-      "keyword": "엔비디아",
-      "traffic": "500+"
+      "keyword": "배정남",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
+      "keyword": "엔비디아",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
       "keyword": "민희진",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "다시보기",
       "traffic": "200+"
     },
     {
-      "rank": 9,
-      "keyword": "인텔 실적발표",
-      "traffic": "100+"
-    },
-    {
       "rank": 10,
-      "keyword": "신상출시 편스토랑",
-      "traffic": "500+"
+      "keyword": "인텔 실적발표",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "NC, LG 7연패!",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "중앙선관위 압수수색 완료",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "8기 영수, 여자 3호에 눈물과 갈등",
+      "keyword": "블레인 LG 7연패",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 4,
+      "rank": 2,
       "keyword": "브렌트유 100달러 재돌파",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "데이비슨 동점 솔로포",
-      "state": "+",
-      "change": "2"
+      "rank": 3,
+      "keyword": "여자 3호 눈물 폭발 8기 영수",
+      "state": "n",
+      "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "후티 선박 공격 시 군사적 응징",
+      "rank": 4,
+      "keyword": "트럼프 후티 공격 이란 책임",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "keyword": "ECB 금리 동결 2.25%",
-      "state": "-",
-      "change": "2"
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "김재윤 삼성 연장 승리",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 7,
+      "keyword": "언더커버 셰프",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
       "keyword": "이창동 가능한 사랑 베네치아 초청",
-      "state": "s",
-      "change": "0"
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "왕사남 표절 의혹 기각",
-      "state": "+",
-      "change": "2"
+      "keyword": "한미 조선협력센터 개소",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "AI 투자 확장 조짐",
-      "state": "n",
-      "change": "0"
+      "keyword": "데이비슨 동점포 폭발!",
+      "state": "-",
+      "change": "5"
     }
   ]
 }
