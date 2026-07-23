@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-23T20:40:28.536Z",
+  "updatedAt": "2026-07-23T21:45:17.669Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "유럽",
-      "traffic": "100+"
+      "keyword": "박수홍",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "연금복권720+",
+      "keyword": "이효리",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "정몽규",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "빗썸",
+      "keyword": "오마이뉴스",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "보조금",
+      "traffic": "100+"
+    },
+    {
       "rank": 5,
-      "keyword": "정치",
+      "keyword": "박진만",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "배정남",
-      "traffic": "2000+"
+      "keyword": "알 테오 젠",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "엔비디아",
-      "traffic": "1000+"
+      "keyword": "이란",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "민희진",
-      "traffic": "200+"
+      "keyword": "차상현",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "다시보기",
-      "traffic": "200+"
+      "keyword": "경마",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "인텔 실적발표",
+      "keyword": "농구",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "블레인 LG 7연패",
+      "keyword": "브렌트유 100달러 돌파",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "브렌트유 100달러 재돌파",
+      "keyword": "여자 3호 눈물의 절정",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "여자 3호 눈물 폭발 8기 영수",
+      "keyword": "한국 환율 관찰대상국 유지",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "트럼프 후티 공격 이란 책임",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "ECB 금리 동결 2.25%",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "김재윤 삼성 연장 승리",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 7,
-      "keyword": "언더커버 셰프",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "이창동 가능한 사랑 베네치아 초청",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 9,
-      "keyword": "한미 조선협력센터 개소",
+      "keyword": "NC가 LG 7연패시켰다.",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "데이비슨 동점포 폭발!",
+      "rank": 5,
+      "keyword": "언더커버 셰프",
       "state": "-",
-      "change": "5"
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "AI 투자 확대",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "한미 조선협력센터 출범",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "AMD AI 공개",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "유혜주, 아버지 건강악화로 활동 중단",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "나한일 유혜영 딸 나혜진 여배우 됐다",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
