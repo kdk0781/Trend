@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-23T22:39:03.475Z",
+  "updatedAt": "2026-07-23T23:34:54.382Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "스페이스x 주가",
-      "traffic": "100+"
+      "keyword": "범죄",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "wti 유가",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "빌라",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "tqqq",
+      "keyword": "제주특별자치도",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "현대프리미엄아울렛 송도점",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "연애 전쟁",
+      "traffic": "2000+"
+    },
+    {
       "rank": 5,
-      "keyword": "레미콘",
+      "keyword": "이스라엘",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "골프",
-      "traffic": "200+"
+      "keyword": "1인당 국민소득",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "인텔",
-      "traffic": "500+"
+      "keyword": "주가",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "vix",
-      "traffic": "500+"
+      "keyword": "태안군",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "tsla",
-      "traffic": "1000+"
+      "keyword": "김상욱",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "살인",
-      "traffic": "500+"
+      "keyword": "휴가",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "강제노동 관세 12.5%",
+      "keyword": "한국 강제노동 12.5%",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "여자 3호 눈물 폭발",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "한미 조선협력센터 개소식",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "LG, 7연패 중",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
       "keyword": "언더커버 셰프",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "트럼프 대규모 공격",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "故 유채영 12주기 편지",
+      "rank": 3,
+      "keyword": "신지은 LPGA 공동 1위",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "故 유채영 12주기 추모합니다",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "영국 부자 총리에게 증세 요구",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "트럼프 공격 전 유가 100달러",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "김부장 떠난 소진 남편 이동하",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 8,
-      "keyword": "AMD AI 혁신",
-      "state": "-",
-      "change": "1"
+      "keyword": "이강인 오피셜 지연",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "수도권 38도 찜통",
+      "keyword": "수도권·강원 최고 38도 더위",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이동하 김부장 떠나간 이유",
-      "state": "-",
-      "change": "2"
+      "keyword": "하정우 재산 44억↑ 15억",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
