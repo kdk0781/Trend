@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-23T04:27:00.202Z",
+  "updatedAt": "2026-07-23T07:03:49.638Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이현중",
-      "traffic": "200+"
+      "keyword": "이재명",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "여성 소방관",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "피파",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "채은성",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "경산아파트",
+      "keyword": "보스턴 레드삭스",
       "traffic": "500+"
     },
     {
-      "rank": 6,
-      "keyword": "운전 기사",
+      "rank": 3,
+      "keyword": "흡연",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "삼성sdi",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "군대",
       "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "철도망",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "축구 감독",
-      "traffic": "5000+"
+      "keyword": "이정재",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "레미콘",
-      "traffic": "100+"
+      "keyword": "김가은",
+      "traffic": "10000+"
     },
     {
       "rank": 9,
-      "keyword": "이호재",
-      "traffic": "100+"
+      "keyword": "농지",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "청소차",
-      "traffic": "2000+"
+      "keyword": "nh농협은행",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "경산 아파트 방화 8명 부상",
+      "keyword": "현대차 2분기 최대 매출 감소",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김상민 집행유예 확정",
-      "state": "+",
-      "change": "3"
+      "keyword": "코스닥 매수 사이드카 발동",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "손흥민 2경기 연속골",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "이재명 대통령 발언 경청",
+      "keyword": "장동혁 대표 관련 기사",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "손흥민 2경기 연속골",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 5,
-      "keyword": "부동산 대토론회 집중",
-      "state": "s",
-      "change": "0"
+      "keyword": "갤럭시 Z 폴드8, 가벼운 폴더블",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "노윤서 연기력 논란",
-      "state": "s",
+      "keyword": "김건희 전원합의체 회부",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "부총리-CEO 간담회",
-      "state": "s",
+      "keyword": "다이어트 부당광고 적발",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "남아공 갤럭시 공개",
+      "keyword": "박수홍 형수 항소 심벌금 1200만원",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "국세청 관세청 합동 수색",
+      "keyword": "헌재 정치활동 금지 위헌",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "상임위원장 후보 선출 완료",
+      "keyword": "이민성호, 사우디·카타르와 한 조",
       "state": "n",
       "change": "0"
     }
