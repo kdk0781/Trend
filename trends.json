@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-23T12:58:05.038Z",
+  "updatedAt": "2026-07-23T15:08:06.184Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김예건",
-      "traffic": "2000+"
+      "keyword": "박정수",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "박성준",
-      "traffic": "200+"
+      "keyword": "tesla stock",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "파라타항공",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "녹색경제신문",
+      "keyword": "wti",
       "traffic": "100+"
     },
     {
+      "rank": 4,
+      "keyword": "자오즈민",
+      "traffic": "500+"
+    },
+    {
       "rank": 5,
-      "keyword": "임현식",
-      "traffic": "2000+"
+      "keyword": "노지선",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "zimbabwe vs india",
-      "traffic": "500+"
+      "keyword": "채널a",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "여운계",
-      "traffic": "20000+"
+      "keyword": "야구여왕 시즌2",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "양창섭",
-      "traffic": "200+"
+      "keyword": "크보",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "비트멕스",
-      "traffic": "200+"
+      "keyword": "나한일",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "뇌사",
-      "traffic": "500+"
+      "keyword": "메자닌",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "중앙선관위 압수수색 마친 합수본",
-      "state": "n",
+      "keyword": "하주석 유격수 확인",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "데이비슨 동점포 작렬!",
-      "state": "n",
+      "keyword": "장윤기 수사 진행 미진",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "언더커버 셰프",
-      "state": "+",
-      "change": "1"
+      "keyword": "나한일 유혜영 딸 여배우",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "최화정 삼전닉스 최고점",
+      "keyword": "NC, LG 7연패!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이창동 사랑 베니스 경쟁행",
-      "state": "+",
-      "change": "5"
+      "keyword": "중앙선관위 압수수색 마친 합수본",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김민석 정청래 송영길 3파전",
-      "state": "-",
-      "change": "5"
-    },
-    {
-      "rank": 7,
-      "keyword": "이혜영, 폐암 수술 후 정신과 치료",
+      "keyword": "브렌트유 배럴당 100달러",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "36주 산모 무죄확정",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "김성윤 2루타 선두타자",
+      "keyword": "정동영 북핵 평화 전략",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "붉은 진주",
-      "state": "-",
-      "change": "2"
+      "keyword": "불침번 CCTV 가능한 국방부",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "코스피 7000선 회복",
-      "state": "n",
+      "keyword": "언더커버 셰프",
+      "state": "s",
       "change": "0"
     }
   ]
