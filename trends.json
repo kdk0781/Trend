@@ -1,79 +1,79 @@
 {
-  "updatedAt": "2026-07-23T21:45:17.669Z",
+  "updatedAt": "2026-07-23T22:39:03.475Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "박수홍",
-      "traffic": "1000+"
+      "keyword": "스페이스x 주가",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "이효리",
-      "traffic": "200+"
+      "keyword": "wti 유가",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "오마이뉴스",
-      "traffic": "200+"
+      "keyword": "빌라",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "보조금",
-      "traffic": "100+"
+      "keyword": "tqqq",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "박진만",
-      "traffic": "100+"
+      "keyword": "레미콘",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "알 테오 젠",
-      "traffic": "100+"
+      "keyword": "골프",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "이란",
-      "traffic": "2000+"
+      "keyword": "인텔",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "차상현",
+      "keyword": "vix",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "경마",
-      "traffic": "100+"
+      "keyword": "tsla",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "농구",
-      "traffic": "200+"
+      "keyword": "살인",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "브렌트유 100달러 돌파",
+      "keyword": "강제노동 관세 12.5%",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "여자 3호 눈물의 절정",
+      "keyword": "여자 3호 눈물 폭발",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "한국 환율 관찰대상국 유지",
+      "keyword": "한미 조선협력센터 개소식",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "NC가 LG 7연패시켰다.",
+      "keyword": "LG, 7연패 중",
       "state": "n",
       "change": "0"
     },
@@ -85,33 +85,33 @@
     },
     {
       "rank": 6,
-      "keyword": "AI 투자 확대",
-      "state": "s",
-      "change": "0"
+      "keyword": "트럼프 대규모 공격",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "한미 조선협력센터 출범",
+      "keyword": "故 유채영 12주기 편지",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "AMD AI 공개",
-      "state": "n",
-      "change": "0"
+      "keyword": "AMD AI 혁신",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "유혜주, 아버지 건강악화로 활동 중단",
-      "state": "s",
+      "keyword": "수도권 38도 찜통",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "나한일 유혜영 딸 나혜진 여배우 됐다",
-      "state": "n",
-      "change": "0"
+      "keyword": "이동하 김부장 떠나간 이유",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
