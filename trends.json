@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-24T14:26:24.928Z",
+  "updatedAt": "2026-07-24T15:53:24.852Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "안치홍",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "đông timor đấu với việt nam",
+      "keyword": "안주완",
       "traffic": "1000+"
     },
     {
+      "rank": 2,
+      "keyword": "영화다시보기",
+      "traffic": "200+"
+    },
+    {
       "rank": 3,
-      "keyword": "크보",
-      "traffic": "100+"
+      "keyword": "1박 2일",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "삼성e&a",
-      "traffic": "500+"
+      "keyword": "경기도청",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "원종현",
+      "keyword": "재판",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "동티모르 대 베트남",
-      "traffic": "2000+"
+      "keyword": "빅테크",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "jp모건 체이스",
+      "keyword": "서장훈의 이웃집 백만장자",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "sbs",
-      "traffic": "500+"
+      "keyword": "đông timor đấu với việt nam",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "폭염 경보",
+      "keyword": "크보",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "한국 영화",
-      "traffic": "2000+"
+      "keyword": "삼성e&a",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 최종회 기대돼",
+      "keyword": "김부장의 데뷔작 소감",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "장마 끝 폭염 시작",
+      "keyword": "상반기 순익 최대",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
       "keyword": "최형우 2타점 적시타",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "석유 가격 동결 유지",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "정성호 사의 표명",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "보완수사권 폐지 당론 확정",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "부코페 전유성 추모",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 6,
-      "keyword": "골드바 망본 중학생 구속",
+      "keyword": "석유 최고가격 동결",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김해 병원 직원 추락사",
-      "state": "n",
+      "keyword": "페덱 2승 삼성",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이언주 합성음란물 게시",
-      "state": "n",
-      "change": "0"
+      "keyword": "한가인 키스신 유재석 연정훈은 김숙",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "야노 집값 3배 상승",
-      "state": "n",
+      "keyword": "킬러들 쇼핑몰2",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "LG, 8년 만에 8연패",
+      "keyword": "이만희 조세포탈 기소",
       "state": "n",
       "change": "0"
     }
