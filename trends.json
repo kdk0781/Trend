@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-24T11:12:48.228Z",
+  "updatedAt": "2026-07-24T12:46:17.326Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "대한축구협회",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "한가인",
+      "keyword": "돌싱글즈",
       "traffic": "500+"
     },
     {
+      "rank": 2,
+      "keyword": "정년",
+      "traffic": "2000+"
+    },
+    {
       "rank": 3,
-      "keyword": "경기남부",
+      "keyword": "정성호",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "권아름",
-      "traffic": "500+"
+      "keyword": "xsmb",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "열대야",
+      "keyword": "사우디아라비아",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "황영웅",
-      "traffic": "10000+"
+      "keyword": "공효진",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "폭격기",
-      "traffic": "5000+"
+      "keyword": "임성근",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "서민정",
+      "keyword": "세무서",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "군대",
-      "traffic": "100+"
+      "keyword": "서울e 대 천안시티",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "키움 대 kia",
-      "traffic": "50000+"
+      "keyword": "lpga",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "권아름과 지무비 열애 인정",
-      "state": "s",
-      "change": "0"
+      "keyword": "김부장 출연 아시아 팬미팅",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "석유 최고가 동결 유지",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "최형우 2타점 적시타",
+      "keyword": "강민호 2타점 적시타!",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "임성근 징역 5년 구형",
+      "state": "+",
+      "change": "6"
+    },
+    {
       "rank": 4,
-      "keyword": "이만희 75억 조세포탈 기소",
+      "keyword": "야노시호 집값 3배 상승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "12세 이하 수상했어요",
-      "state": "n",
+      "keyword": "가족관계증명서",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "하이닉스 주가 하락",
-      "state": "+",
-      "change": "1"
+      "keyword": "두산 최민석 조기 강판",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "KIA행 하주석 작별 인사",
+      "keyword": "하주석-김선빈 선발 제외?",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "임성근 징역 5년 구형",
+      "keyword": "검찰 수사관 30억 전세사기 구속",
       "state": "+",
-      "change": "3"
+      "change": "5"
     },
     {
       "rank": 9,
-      "keyword": "오스틴 보스 기대하세요!",
+      "keyword": "이하 여자부 수상자들",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이언주 음란물 게시 송치",
+      "keyword": "클롭, 독일 감독 부임 확정",
       "state": "n",
       "change": "0"
     }
