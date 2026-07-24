@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-24T17:21:42.734Z",
+  "updatedAt": "2026-07-24T18:53:45.583Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "rosenborg vs man united",
-      "traffic": "200+"
+      "keyword": "고윤정",
+      "traffic": "100+"
     },
     {
       "rank": 2,
+      "keyword": "โรเซนบอร์ก พบ แมนยู",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "김선태",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "artificial intelligence news",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "한국마사회",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "mutv",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "rosenborg vs man united",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
       "keyword": "맨유",
       "traffic": "500+"
     },
     {
-      "rank": 3,
+      "rank": 9,
       "keyword": "르브론",
       "traffic": "1000+"
     },
     {
-      "rank": 4,
+      "rank": 10,
       "keyword": "lebron james",
       "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "야구여왕",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "로센보르그 대 맨유",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "1 박 2 일",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "다시보기",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "티비",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "1달러",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "석유 최고가격 동결",
+      "keyword": "이재명 샌프란시스코 도착",
       "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 2,
-      "keyword": "최형우 2타점 적시타",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "대통령 샌프란시스코 도착",
-      "state": "-",
       "change": "2"
     },
     {
+      "rank": 2,
+      "keyword": "LG 8연패 굴욕",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 3,
+      "keyword": "정성호 장관 사직 의사 표명",
+      "state": "+",
+      "change": "5"
+    },
+    {
       "rank": 4,
-      "keyword": "특검, 임성근 5년 구형",
+      "keyword": "2타점 적시타 만세!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "권아름, 지무비와 열애 중",
+      "keyword": "김부장 최종회 소감",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "보완수사권 폐지 당론 확정",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "삼성 페덱 2승 17안타",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "최태원 노소영 이혼 소송",
+      "keyword": "페덱 호투로 삼성 승리",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "이만희 조세포탈 추가 기소",
-      "state": "-",
+      "rank": 7,
+      "keyword": "징역 5년 구형",
+      "state": "+",
       "change": "1"
     },
     {
+      "rank": 8,
+      "keyword": "이강인, 아틀레티코 계약 체결!",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "진보당 대표 김종훈 선출",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "군산 조선소 끼임사고 30대 사망",
+      "keyword": "여자부 수상 소식",
       "state": "n",
       "change": "0"
     }
