@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-24T12:46:17.326Z",
+  "updatedAt": "2026-07-24T14:26:24.928Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "돌싱글즈",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "정년",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "정성호",
+      "keyword": "안치홍",
       "traffic": "200+"
     },
     {
-      "rank": 4,
-      "keyword": "xsmb",
+      "rank": 2,
+      "keyword": "đông timor đấu với việt nam",
       "traffic": "1000+"
     },
     {
+      "rank": 3,
+      "keyword": "크보",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "삼성e&a",
+      "traffic": "500+"
+    },
+    {
       "rank": 5,
-      "keyword": "사우디아라비아",
+      "keyword": "원종현",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "공효진",
-      "traffic": "100+"
+      "keyword": "동티모르 대 베트남",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "임성근",
-      "traffic": "500+"
+      "keyword": "jp모건 체이스",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "세무서",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "서울e 대 천안시티",
+      "keyword": "sbs",
       "traffic": "500+"
     },
     {
+      "rank": 9,
+      "keyword": "폭염 경보",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "lpga",
+      "keyword": "한국 영화",
       "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 출연 아시아 팬미팅",
-      "state": "+",
-      "change": "2"
+      "keyword": "김부장 최종회 기대돼",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "강민호 2타점 적시타!",
+      "keyword": "장마 끝 폭염 시작",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "임성근 징역 5년 구형",
+      "keyword": "최형우 2타점 적시타",
       "state": "+",
-      "change": "6"
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "야노시호 집값 3배 상승",
-      "state": "n",
-      "change": "0"
+      "keyword": "석유 가격 동결 유지",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "가족관계증명서",
-      "state": "s",
+      "keyword": "정성호 사의 표명",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "두산 최민석 조기 강판",
-      "state": "n",
+      "keyword": "골드바 망본 중학생 구속",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "하주석-김선빈 선발 제외?",
-      "state": "-",
-      "change": "1"
+      "keyword": "김해 병원 직원 추락사",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "검찰 수사관 30억 전세사기 구속",
-      "state": "+",
-      "change": "5"
+      "keyword": "이언주 합성음란물 게시",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이하 여자부 수상자들",
+      "keyword": "야노 집값 3배 상승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "클롭, 독일 감독 부임 확정",
+      "keyword": "LG, 8년 만에 8연패",
       "state": "n",
       "change": "0"
     }
