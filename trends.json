@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-24T06:44:28.502Z",
+  "updatedAt": "2026-07-24T09:10:32.243Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "무안군",
-      "traffic": "500+"
+      "keyword": "000660",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "전투기",
-      "traffic": "5000+"
+      "keyword": "스페인 축구 국가대표팀",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "최태원-노소영",
-      "traffic": "20000+"
+      "keyword": "000270",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "김지민",
-      "traffic": "10000+"
+      "keyword": "005930",
+      "traffic": "5000+"
     },
     {
       "rank": 5,
-      "keyword": "휘발유",
+      "keyword": "보통주",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "여론",
-      "traffic": "20000+"
+      "keyword": "교도관",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "태극기",
-      "traffic": "200+"
+      "keyword": "염경엽",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "슈퍼크리에이티브",
+      "keyword": "안민석",
       "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "배찬승",
-      "traffic": "500+"
+      "keyword": "김혜성",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "필리핀",
-      "traffic": "10000+"
+      "keyword": "김가영",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "최태원, 노소영에 9440억 지급",
+      "keyword": "상반기 순익 역대 최대",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이재명 대통령 출국",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "남주혁, 5억원 기부",
+      "keyword": "보완수사권 폐지 당론",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 3,
+      "keyword": "부코페 전유성 기억하자",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 4,
-      "keyword": "SSG 최정 시즌 아웃",
-      "state": "n",
+      "keyword": "최정, 고관절 수술로 시즌 아웃",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "내달 가격 인상",
-      "state": "n",
-      "change": "0"
+      "keyword": "김남준 변호사 경찰 수사 TF 위원장",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "현우진 징역 1년 구형",
-      "state": "s",
+      "keyword": "임시 감독 체제 확정",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "경산 방화 피의자 압수수색",
+      "keyword": "코스피 코스닥 급락",
+      "state": "-",
+      "change": "5"
+    },
+    {
+      "rank": 8,
+      "keyword": "KBS 황영웅 OST 논란",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "의원총회 참석자들",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 9,
-      "keyword": "동궁 곽동연의 일상과 입대 준비",
+      "keyword": "최태원 노소영 이혼 소송 9년",
       "state": "-",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "미야오 안나",
-      "state": "s",
+      "keyword": "장애인 성폭력 징역 20년 구형",
+      "state": "n",
       "change": "0"
     }
   ]
