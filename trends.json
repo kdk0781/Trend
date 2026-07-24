@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-24T15:53:24.852Z",
+  "updatedAt": "2026-07-24T17:21:42.734Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "안주완",
-      "traffic": "1000+"
+      "keyword": "rosenborg vs man united",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "영화다시보기",
-      "traffic": "200+"
+      "keyword": "맨유",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "1박 2일",
-      "traffic": "200+"
+      "keyword": "르브론",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "경기도청",
-      "traffic": "100+"
+      "keyword": "lebron james",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "재판",
+      "keyword": "야구여왕",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "빅테크",
-      "traffic": "1000+"
+      "keyword": "로센보르그 대 맨유",
+      "traffic": "10000+"
     },
     {
       "rank": 7,
-      "keyword": "서장훈의 이웃집 백만장자",
+      "keyword": "1 박 2 일",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "đông timor đấu với việt nam",
-      "traffic": "1000+"
+      "keyword": "다시보기",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "크보",
-      "traffic": "100+"
+      "keyword": "티비",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "삼성e&a",
-      "traffic": "500+"
+      "keyword": "1달러",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장의 데뷔작 소감",
-      "state": "s",
-      "change": "0"
+      "keyword": "석유 최고가격 동결",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 2,
-      "keyword": "상반기 순익 최대",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
       "keyword": "최형우 2타점 적시타",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "보완수사권 폐지 당론 확정",
+      "rank": 3,
+      "keyword": "대통령 샌프란시스코 도착",
       "state": "-",
       "change": "2"
     },
     {
+      "rank": 4,
+      "keyword": "특검, 임성근 5년 구형",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "부코페 전유성 추모",
+      "keyword": "권아름, 지무비와 열애 중",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "석유 최고가격 동결",
+      "keyword": "보완수사권 폐지 당론 확정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "페덱 2승 삼성",
+      "keyword": "삼성 페덱 2승 17안타",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "한가인 키스신 유재석 연정훈은 김숙",
+      "keyword": "최태원 노소영 이혼 소송",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "킬러들 쇼핑몰2",
-      "state": "s",
-      "change": "0"
+      "keyword": "이만희 조세포탈 추가 기소",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "이만희 조세포탈 기소",
+      "keyword": "군산 조선소 끼임사고 30대 사망",
       "state": "n",
       "change": "0"
     }
