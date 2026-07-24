@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-24T04:25:06.204Z",
+  "updatedAt": "2026-07-24T06:44:28.502Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "공동구매",
-      "traffic": "100+"
+      "keyword": "무안군",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "스페이스x",
-      "traffic": "2000+"
+      "keyword": "전투기",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "옌스 카스트로프",
-      "traffic": "2000+"
+      "keyword": "최태원-노소영",
+      "traffic": "20000+"
     },
     {
       "rank": 4,
-      "keyword": "기상",
-      "traffic": "1000+"
+      "keyword": "김지민",
+      "traffic": "10000+"
     },
     {
       "rank": 5,
-      "keyword": "신세계",
+      "keyword": "휘발유",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "범죄자",
-      "traffic": "500+"
+      "keyword": "여론",
+      "traffic": "20000+"
     },
     {
       "rank": 7,
-      "keyword": "사이드카",
-      "traffic": "500+"
+      "keyword": "태극기",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "하나카드",
-      "traffic": "200+"
+      "keyword": "슈퍼크리에이티브",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "이경규",
-      "traffic": "2000+"
+      "keyword": "배찬승",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "레안드로 파레데스",
-      "traffic": "200+"
+      "keyword": "필리핀",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "코스피 매도 사이드카 발동",
+      "keyword": "최태원, 노소영에 9440억 지급",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "윤석열 징역 5년 구형",
+      "keyword": "이재명 대통령 출국",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "어도어 보이그룹 오디션 개최",
+      "keyword": "남주혁, 5억원 기부",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "SSG 최정 시즌 아웃",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "경산 아파트 방화로 50대 여성 사망",
-      "state": "+",
-      "change": "4"
-    },
-    {
       "rank": 5,
-      "keyword": "팀 K리그 맨시티전 명단 발표",
+      "keyword": "내달 가격 인상",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "장동혁 부동산정책 토론회 참석",
-      "state": "-",
-      "change": "2"
+      "keyword": "현우진 징역 1년 구형",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "해군 로봇 조타수 실험",
-      "state": "+",
-      "change": "2"
+      "keyword": "경산 방화 피의자 압수수색",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "하이닉스 주가 하락",
+      "keyword": "의원총회 참석자들",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "이나연 JTBC 에어컨 발언 삭제",
-      "state": "n",
-      "change": "0"
+      "keyword": "동궁 곽동연의 일상과 입대 준비",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "강제노동 관세 부과",
-      "state": "-",
-      "change": "4"
+      "keyword": "미야오 안나",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
