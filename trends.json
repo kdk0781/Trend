@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-24T09:10:32.243Z",
+  "updatedAt": "2026-07-24T11:12:48.228Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "000660",
-      "traffic": "2000+"
+      "keyword": "대한축구협회",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "스페인 축구 국가대표팀",
-      "traffic": "2000+"
+      "keyword": "한가인",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "000270",
+      "keyword": "경기남부",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "005930",
-      "traffic": "5000+"
+      "keyword": "권아름",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "보통주",
+      "keyword": "열대야",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "교도관",
-      "traffic": "1000+"
+      "keyword": "황영웅",
+      "traffic": "10000+"
     },
     {
       "rank": 7,
-      "keyword": "염경엽",
-      "traffic": "1000+"
+      "keyword": "폭격기",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "안민석",
-      "traffic": "1000+"
+      "keyword": "서민정",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "김혜성",
-      "traffic": "2000+"
+      "keyword": "군대",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "김가영",
-      "traffic": "1000+"
+      "keyword": "키움 대 kia",
+      "traffic": "50000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "상반기 순익 역대 최대",
+      "keyword": "권아름과 지무비 열애 인정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "보완수사권 폐지 당론",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "부코페 전유성 기억하자",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "최정, 고관절 수술로 시즌 아웃",
+      "keyword": "석유 최고가 동결 유지",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "최형우 2타점 적시타",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "이만희 75억 조세포탈 기소",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "김남준 변호사 경찰 수사 TF 위원장",
-      "state": "+",
-      "change": "2"
+      "keyword": "12세 이하 수상했어요",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "임시 감독 체제 확정",
-      "state": "n",
-      "change": "0"
+      "keyword": "하이닉스 주가 하락",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "코스피 코스닥 급락",
+      "keyword": "KIA행 하주석 작별 인사",
       "state": "-",
-      "change": "5"
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "KBS 황영웅 OST 논란",
+      "keyword": "임성근 징역 5년 구형",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 9,
+      "keyword": "오스틴 보스 기대하세요!",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "최태원 노소영 이혼 소송 9년",
-      "state": "-",
-      "change": "3"
-    },
-    {
       "rank": 10,
-      "keyword": "장애인 성폭력 징역 20년 구형",
+      "keyword": "이언주 음란물 게시 송치",
       "state": "n",
       "change": "0"
     }
