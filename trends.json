@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-24T18:53:45.583Z",
+  "updatedAt": "2026-07-24T20:12:21.742Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "고윤정",
+      "keyword": "rosenborg đấu với man utd",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "โรเซนบอร์ก พบ แมนยู",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "김선태",
+      "keyword": "twitch",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "피를로",
+      "traffic": "500+"
+    },
+    {
       "rank": 4,
-      "keyword": "artificial intelligence news",
+      "keyword": "고윤정",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "한국마사회",
-      "traffic": "500+"
+      "keyword": "โรเซนบอร์ก พบ แมนยู",
+      "traffic": "200+"
     },
     {
       "rank": 6,
+      "keyword": "김선태",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "artificial intelligence news",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "한국마사회",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
       "keyword": "mutv",
       "traffic": "100+"
     },
     {
-      "rank": 7,
-      "keyword": "rosenborg vs man united",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "맨유",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "르브론",
-      "traffic": "1000+"
-    },
-    {
       "rank": 10,
-      "keyword": "lebron james",
+      "keyword": "rosenborg vs man united",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 샌프란시스코 도착",
-      "state": "+",
-      "change": "2"
+      "keyword": "김부장 소감 떨림과 액션",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "LG 8연패 굴욕",
-      "state": "+",
-      "change": "3"
+      "keyword": "대통령 샌프란시스코 도착",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "정성호 장관 사직 의사 표명",
-      "state": "+",
-      "change": "5"
+      "keyword": "LG 8년 8연패",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "2타점 적시타 만세!",
-      "state": "n",
+      "keyword": "정성호 장관 사의 표명",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김부장 최종회 소감",
-      "state": "-",
-      "change": "1"
+      "keyword": "페덱 2승 삼성 대승",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "페덱 호투로 삼성 승리",
-      "state": "+",
-      "change": "1"
+      "keyword": "트럼프 EU 301조 관세 위협",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "징역 5년 구형",
+      "keyword": "이강인, 아틀레티코와 계약 완료",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "이강인, 아틀레티코 계약 체결!",
-      "state": "n",
-      "change": "0"
+      "keyword": "코르티스 숙소 침입한 여성 2명",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "진보당 대표 김종훈 선출",
-      "state": "s",
+      "keyword": "이나연 대머리 고백",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "여자부 수상 소식",
-      "state": "n",
-      "change": "0"
+      "keyword": "연정훈♥한가인, 21년차에도 여전히 사랑 중",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
