@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-24T01:01:59.699Z",
+  "updatedAt": "2026-07-24T04:25:06.204Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "대한민국 축구 국가대표팀",
-      "traffic": "500+"
+      "keyword": "공동구매",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "펩 과르디올라",
-      "traffic": "10000+"
+      "keyword": "스페이스x",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "김지찬",
-      "traffic": "500+"
+      "keyword": "옌스 카스트로프",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "테슬라",
+      "keyword": "기상",
       "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "로보택시",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "isps 한다 스코틀랜드 여자오픈",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "필즈상",
+      "keyword": "신세계",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "범죄자",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "사이드카",
+      "traffic": "500+"
+    },
+    {
       "rank": 8,
-      "keyword": "최화정",
-      "traffic": "1000+"
+      "keyword": "하나카드",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "슈가",
-      "traffic": "1000+"
+      "keyword": "이경규",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "청년미래적금",
-      "traffic": "1000+"
+      "keyword": "레안드로 파레데스",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "단일종목 레버리지 3000만원 31일 시행",
+      "keyword": "코스피 매도 사이드카 발동",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "민생물가 특별관리 TF",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "22대 후반기 국회 현충원 참배",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "허남준 팬미팅 전석 매진",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "유류세 인하 2개월 연장",
+      "keyword": "윤석열 징역 5년 구형",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "오픈 첫날 공동 1위",
+      "rank": 3,
+      "keyword": "어도어 보이그룹 오디션 개최",
       "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "경산 아파트 방화로 50대 여성 사망",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 5,
+      "keyword": "팀 K리그 맨시티전 명단 발표",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "장동혁 부동산정책 토론회 참석",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "코스피 하락 시작",
-      "state": "n",
-      "change": "0"
+      "keyword": "해군 로봇 조타수 실험",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "김포 아파트서 60대 시신 발견",
+      "keyword": "하이닉스 주가 하락",
       "state": "-",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "해인, 린브랜딩 전속계약 체결",
-      "state": "-",
-      "change": "2"
+      "keyword": "이나연 JTBC 에어컨 발언 삭제",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "발언하는 정희용 사무총장",
-      "state": "n",
-      "change": "0"
+      "keyword": "강제노동 관세 부과",
+      "state": "-",
+      "change": "4"
     }
   ]
 }
