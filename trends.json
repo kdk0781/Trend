@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-23T23:34:54.382Z",
+  "updatedAt": "2026-07-24T01:01:59.699Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "범죄",
-      "traffic": "1000+"
+      "keyword": "대한민국 축구 국가대표팀",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "제주특별자치도",
-      "traffic": "200+"
+      "keyword": "펩 과르디올라",
+      "traffic": "10000+"
     },
     {
       "rank": 3,
-      "keyword": "현대프리미엄아울렛 송도점",
-      "traffic": "100+"
+      "keyword": "김지찬",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "연애 전쟁",
-      "traffic": "2000+"
+      "keyword": "테슬라",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "이스라엘",
-      "traffic": "200+"
+      "keyword": "로보택시",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "1인당 국민소득",
-      "traffic": "100+"
+      "keyword": "isps 한다 스코틀랜드 여자오픈",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "주가",
-      "traffic": "5000+"
+      "keyword": "필즈상",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "태안군",
-      "traffic": "200+"
+      "keyword": "최화정",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "김상욱",
-      "traffic": "200+"
+      "keyword": "슈가",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "휴가",
-      "traffic": "200+"
+      "keyword": "청년미래적금",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "한국 강제노동 12.5%",
+      "keyword": "단일종목 레버리지 3000만원 31일 시행",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "언더커버 셰프",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "신지은 LPGA 공동 1위",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "故 유채영 12주기 추모합니다",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "영국 부자 총리에게 증세 요구",
+      "keyword": "민생물가 특별관리 TF",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "22대 후반기 국회 현충원 참배",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "허남준 팬미팅 전석 매진",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "유류세 인하 2개월 연장",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "트럼프 공격 전 유가 100달러",
+      "keyword": "오픈 첫날 공동 1위",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김부장 떠난 소진 남편 이동하",
-      "state": "+",
-      "change": "3"
+      "keyword": "코스피 하락 시작",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이강인 오피셜 지연",
-      "state": "n",
-      "change": "0"
+      "keyword": "김포 아파트서 60대 시신 발견",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "수도권·강원 최고 38도 더위",
-      "state": "n",
-      "change": "0"
+      "keyword": "해인, 린브랜딩 전속계약 체결",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "하정우 재산 44억↑ 15억",
+      "keyword": "발언하는 정희용 사무총장",
       "state": "n",
       "change": "0"
     }
