@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-07-24T21:29:17.978Z",
+  "updatedAt": "2026-07-24T22:34:50.358Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "붉은 진주",
-      "traffic": "100+"
+      "keyword": "엄지원",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "액화천연가스",
-      "traffic": "500+"
+      "keyword": "mu",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "rosenborg đấu với man utd",
-      "traffic": "200+"
+      "keyword": "브룩스 레일리",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "twitch",
-      "traffic": "100+"
+      "keyword": "skhy",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "피를로",
-      "traffic": "500+"
+      "keyword": "필라델피아 반도체 지수",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "고윤정",
-      "traffic": "200+"
+      "keyword": "혈당",
+      "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "โรเซนบอร์ก พบ แมนยู",
-      "traffic": "500+"
+      "keyword": "schd",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "김선태",
-      "traffic": "500+"
+      "keyword": "수사",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "artificial intelligence news",
-      "traffic": "100+"
+      "keyword": "lng선",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "한국마사회",
-      "traffic": "200+"
+      "keyword": "사이드카",
+      "traffic": "500+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "이재명 앤트로픽 CEO 기념촬영",
+      "keyword": "이재명 앤트로픽 CEO 면담",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "삼성, 두산에 페덱 대승",
+      "keyword": "연정훈 한가인 딸 영어 고3 수준",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "트럼프, EU 구글 과징금 관세 위협",
-      "state": "n",
-      "change": "0"
+      "keyword": "이정후 트레이드 안 한다",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 5,
-      "keyword": "이강인, 아틀레티코 계약 체결",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "류혜영, 고공 시청률 속 탈모 해명",
+      "keyword": "트럼프, EU 구글 과징금 보복 관세 위협",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "연정훈 한가인 사랑 예쁘다",
+      "rank": 6,
+      "keyword": "세기의 이혼 최태원, 노소영에 9440억 지급",
       "state": "+",
       "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "원진서 거절 윤정수",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "코르티스 숙소 침입한 여성 2명",
-      "state": "+",
-      "change": "1"
+      "keyword": "호주 국대 마약 기행",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "최태원, 노소영에 9440억 지급",
-      "state": "+",
-      "change": "1"
+      "keyword": "만성부신증후군 2층 주택 햇빛 중요",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "붉은 진주",
-      "state": "+",
-      "change": "1"
+      "keyword": "2026년 7월 25일 운세",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
