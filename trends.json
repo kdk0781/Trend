@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-24T23:37:27.427Z",
+  "updatedAt": "2026-07-25T01:06:10.236Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "한고은",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "인천광역시",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "погода",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "파리 생제르맹 fc",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "학교 급식",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "엄지원",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "검찰",
+      "keyword": "코스피",
       "traffic": "5000+"
     },
     {
-      "rank": 8,
-      "keyword": "mu",
+      "rank": 2,
+      "keyword": "스페인",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "런닝맨",
       "traffic": "100+"
     },
     {
+      "rank": 4,
+      "keyword": "윤정수",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "유동규",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "opus5",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "오윤아",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "농축 우라늄",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "브룩스 레일리",
-      "traffic": "2000+"
+      "keyword": "휘발유",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "skhy",
-      "traffic": "2000+"
+      "keyword": "헐 시티",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "소지섭 김부장 최대 위기",
+      "keyword": "젠슨 황, 5000억 파트너십",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이재명·브로드컴 CEO",
-      "state": "s",
+      "keyword": "김부장 주상욱 시청률 23.2%",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "최태원, 노소영에 9440억 분할",
-      "state": "s",
-      "change": "0"
+      "keyword": "한지 행사 참석 김혜경 여사",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "연정훈 한가인 딸 미국 고3 영어",
+      "keyword": "신지은 2R 선두",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "호주 선수 마약 환각 질주",
+      "keyword": "이재명 혹 탄 브로드컴 CEO",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "거제왕 거쳐야 개입 의혹도",
+      "keyword": "던, 만성부신증후군 고백 후 건강한 일상 공개",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "BTS 英 차트 재진입",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "붉은 진주",
-      "state": "+",
-      "change": "9"
-    },
-    {
       "rank": 8,
-      "keyword": "호프",
+      "keyword": "여름 끝나기 결단",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "하주석",
+      "keyword": "황정민 아들 입대 전화",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "하이닉스 주가",
+      "keyword": "50대 아동 폭행과 경찰 폭행",
       "state": "n",
       "change": "0"
     }
