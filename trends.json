@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-25T10:12:28.404Z",
+  "updatedAt": "2026-07-25T11:36:21.180Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "뱀",
-      "traffic": "10000+"
+      "keyword": "미얀마 대 말레이시아",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "atletico madrid",
+      "keyword": "두시탈출 컬투쇼",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "대한민국 기후 에너지 환경부 장관",
+      "keyword": "김원훈",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "기술 기업",
-      "traffic": "200+"
+      "keyword": "베트남 u-23 축구 국가대표팀",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "그리즈만",
+      "keyword": "김천상무 대 대전",
       "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "현대",
+      "keyword": "chat gpt",
       "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "코오롱티슈진",
-      "traffic": "200+"
+      "keyword": "xsmn",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "정치",
+      "keyword": "chatgpt",
       "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "자오즈민",
-      "traffic": "500+"
+      "keyword": "gpt",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "조상우",
-      "traffic": "1000+"
+      "keyword": "gpt 서버",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "신장식 조국혁신당 대표",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
       "keyword": "김부장 인생 장면",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "이강인 AT마드리드 입단",
+      "rank": 2,
+      "keyword": "문재인 서해 피격 불기소",
       "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "이강인 아틀레티코 입단",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "사운드 체크 현장",
-      "state": "s",
-      "change": "0"
+      "keyword": "ACON 2026 무대 현장",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 5,
-      "keyword": "안재형과 자오즈민의 세기 사랑",
+      "keyword": "넥스지 이찬원 초빅딜 제안",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "나는 솔로 13기 영수",
+      "keyword": "오스틴, 류현진 상대로 홈런 29호",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "서울 역대 최고가 아파트",
+      "keyword": "놀면 뭐하니 재출연 예고",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "신승용, 폭력 논란 사과",
-      "state": "n",
-      "change": "0"
+      "keyword": "13기 영수 성병 의혹 고소",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 9,
-      "keyword": "이지혜, 도난 세금 문제 해명",
+      "keyword": "회복 연설하는 장동혁",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김보름 방송 하차까지",
+      "keyword": "정형돈, 개콘 인사금지",
       "state": "n",
       "change": "0"
     }
