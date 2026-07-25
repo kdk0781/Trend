@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-25T21:29:34.929Z",
+  "updatedAt": "2026-07-25T22:27:46.753Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "후티",
-      "traffic": "500+"
+      "keyword": "리버풀 대 선덜랜드",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "맨체스터 유나이티드 fc",
-      "traffic": "100+"
+      "keyword": "텐센트",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "택시",
-      "traffic": "1000+"
+      "keyword": "식중독",
+      "traffic": "5000+"
     },
     {
       "rank": 4,
-      "keyword": "피의 게임",
-      "traffic": "100+"
+      "keyword": "중국",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "코스닥",
+      "keyword": "아리엘 후라도",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "청계천",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "what to watch on prime",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "김아영",
+      "keyword": "염경엽",
       "traffic": "200+"
     },
     {
+      "rank": 7,
+      "keyword": "ลำดับของ ฟุตบอลทีมชาติลาว พบ ฟุตบอลทีมชาติไทย",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "고소영",
+      "traffic": "500+"
+    },
+    {
       "rank": 9,
-      "keyword": "que hacer este fin de semana",
-      "traffic": "100+"
+      "keyword": "로또 당첨번호",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "구름",
-      "traffic": "2000+"
+      "keyword": "오현규",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 종방연 참석자들",
+      "keyword": "김부장 시즌2 긍정 검토 중",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이재명 대통령 CEO 회담",
+      "keyword": "이재명 대통령 국민의례",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "LG 8연패 탈출!",
+      "keyword": "결혼의 완성",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "사랑이 온다 첫방 파이팅!",
+      "keyword": "사랑이 온다 첫방!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이강인 음바페 라이벌 됐다",
-      "state": "+",
-      "change": "2"
+      "keyword": "ACON 2026 무대 현장",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
+      "keyword": "젤렌스키, 北병력 배치준비",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
       "keyword": "오싹한 연애",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "커버 등 ACON 2026 무대",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 8,
-      "keyword": "리센느, 1위 감격 폭발",
+      "keyword": "이요원 남편 루머 해프닝",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "은가은 박현호 이혼설 반박 공개",
+      "keyword": "박진영, 딸들과 걸그룹 희망",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "60KG 뼈말라 몸매 가벼워",
+      "keyword": "손담비, 비눗방울 사과 17일 만에",
       "state": "n",
       "change": "0"
     }
