@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-25T08:34:09.673Z",
+  "updatedAt": "2026-07-25T10:12:28.404Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "소유",
-      "traffic": "2000+"
+      "keyword": "뱀",
+      "traffic": "10000+"
     },
     {
       "rank": 2,
-      "keyword": "카지노",
-      "traffic": "500+"
+      "keyword": "atletico madrid",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "대한민국 금융위원회",
+      "keyword": "대한민국 기후 에너지 환경부 장관",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "mlb",
-      "traffic": "1000+"
+      "keyword": "기술 기업",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "손주영",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "군무원",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "최우수산",
+      "keyword": "그리즈만",
       "traffic": "2000+"
     },
     {
-      "rank": 8,
-      "keyword": "국군간호사관학교",
+      "rank": 6,
+      "keyword": "현대",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "코오롱티슈진",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "정치",
+      "traffic": "1000+"
+    },
+    {
       "rank": 9,
-      "keyword": "페이커",
-      "traffic": "100+"
+      "keyword": "자오즈민",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "소지섭",
-      "traffic": "20000+"
+      "keyword": "조상우",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "신장식, 조국혁신당 대표 선출",
-      "state": "+",
-      "change": "5"
+      "keyword": "신장식 조국혁신당 대표",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김부장 인생 장면은?",
-      "state": "-",
-      "change": "1"
+      "keyword": "김부장 인생 장면",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "강연하는 김민석 후보",
-      "state": "-",
-      "change": "1"
+      "keyword": "이강인 AT마드리드 입단",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "40세 보지냐, 칠레 입단",
+      "keyword": "사운드 체크 현장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "신승용 폭력 사과와 치료 책임",
-      "state": "n",
+      "keyword": "안재형과 자오즈민의 세기 사랑",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "KIA 곽도규 부상",
+      "keyword": "나는 솔로 13기 영수",
       "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 7,
-      "keyword": "SK AI 동맹",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 8,
-      "keyword": "결혼의 완성",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "강소휘 16점, 여자배구 3-1 승리",
-      "state": "-",
       "change": "1"
     },
     {
+      "rank": 7,
+      "keyword": "서울 역대 최고가 아파트",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "신승용, 폭력 논란 사과",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "이지혜, 도난 세금 문제 해명",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "도경완, 없는 돈으로 시계 구매",
+      "keyword": "김보름 방송 하차까지",
       "state": "n",
       "change": "0"
     }
