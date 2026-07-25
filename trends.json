@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-07-25T19:41:06.803Z",
+  "updatedAt": "2026-07-25T20:33:32.772Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "코스닥",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 2,
       "keyword": "청계천",
       "traffic": "5000+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "김아영",
       "traffic": "200+"
     },
     {
-      "rank": 3,
-      "keyword": "구름",
-      "traffic": "1000+"
-    },
-    {
       "rank": 4,
-      "keyword": "김부장 시즌2",
-      "traffic": "200+"
+      "keyword": "que hacer este fin de semana",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "cryptocurrency trading",
-      "traffic": "100+"
+      "keyword": "구름",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
@@ -33,85 +33,85 @@
     },
     {
       "rank": 7,
+      "keyword": "cryptocurrency trading",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
       "keyword": "서훈",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "what is bitcoin",
       "traffic": "100+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "나솔사계",
       "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "추경호",
-      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 종방연 참석자들",
-      "state": "s",
-      "change": "0"
+      "keyword": "이재명 대통령 CEO 면담",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "이재명 대통령 CEO",
-      "state": "s",
-      "change": "0"
+      "keyword": "김부장 종방연 참석자들",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
       "keyword": "LG 8연패 탈출!",
-      "state": "s",
-      "change": "0"
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "ACON 2026 무대 현장",
-      "state": "n",
-      "change": "0"
+      "keyword": "결혼의 완성",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "로또 1등 18명 15억",
-      "state": "s",
-      "change": "0"
+      "keyword": "여고생에 흉기 휘두른 구속",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 6,
       "keyword": "수원, 부산 4-1 대승!",
-      "state": "s",
-      "change": "0"
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "여고생에 흉기 휘두른 구속",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "갯벌 유산 확대 등재",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "전북 포항 제압 2위 도약",
+      "keyword": "ACON 2026 무대 커버",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "이강인, 20년 만에 이룬 입단!",
+      "rank": 8,
+      "keyword": "박진영의 두 딸 공개",
       "state": "+",
-      "change": "1"
+      "change": "4"
+    },
+    {
+      "rank": 9,
+      "keyword": "사랑이 온다 안희연 첫방",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 10,
+      "keyword": "장성 화재 1단계 발령",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
