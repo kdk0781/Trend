@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-25T15:29:09.918Z",
+  "updatedAt": "2026-07-25T16:25:57.576Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "나솔사계",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "추경호",
+      "keyword": "구름",
       "traffic": "500+"
     },
     {
-      "rank": 3,
-      "keyword": "twitch",
+      "rank": 2,
+      "keyword": "블리치",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "cryptocurrency trading",
+      "traffic": "100+"
+    },
+    {
       "rank": 4,
-      "keyword": "문재인",
-      "traffic": "2000+"
+      "keyword": "서훈",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "wehen wiesbaden vs bayern",
+      "keyword": "나솔사계",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "라오스 대 태국",
-      "traffic": "200+"
+      "keyword": "추경호",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "wi vs pak",
+      "keyword": "twitch",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "경기도교육감",
-      "traffic": "100+"
+      "keyword": "문재인",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "비니시우스",
+      "keyword": "wehen wiesbaden vs bayern",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "서수민",
-      "traffic": "500+"
+      "keyword": "wi vs pak",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 종영 야호!",
+      "keyword": "김부장 종방연 참석자들",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "조국혁신당 신임 대표 수락",
-      "state": "n",
-      "change": "0"
+      "keyword": "결혼의 완성",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "결혼의 완성",
-      "state": "s",
+      "keyword": "조국혁신당 신장식 수락",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "사운드 체크 무대 여러 곳",
-      "state": "n",
-      "change": "0"
+      "keyword": "이강인 AT마드리드 입단",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "이강인 AT마드리드 입단",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "안희연 사랑이 온다",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 7,
-      "keyword": "이재명 대통령 CEO 면담",
+      "keyword": "ACON 2026 무대 현장",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "LG, 8연패 탈출!",
+      "rank": 6,
+      "keyword": "이재명 대통령 CEO 악수",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "JYP 복지 좋은 이유는 박진영 때문인가?",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "한국의 갯벌 확대",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "한국의 갯벌 확대 등재",
-      "state": "n",
-      "change": "0"
+      "keyword": "LG 8연패 탈출!",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "로또 당첨지역",
+      "keyword": "사랑이 온다 첫방!",
       "state": "-",
       "change": "2"
     }
