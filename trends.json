@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-25T18:26:11.358Z",
+  "updatedAt": "2026-07-25T19:41:06.803Z",
   "google": [
     {
       "rank": 1,
       "keyword": "청계천",
-      "traffic": "2000+"
+      "traffic": "5000+"
     },
     {
       "rank": 2,
@@ -23,18 +23,18 @@
     },
     {
       "rank": 5,
-      "keyword": "블리치",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
       "keyword": "cryptocurrency trading",
       "traffic": "100+"
     },
     {
+      "rank": 6,
+      "keyword": "블리치",
+      "traffic": "200+"
+    },
+    {
       "rank": 7,
       "keyword": "서훈",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
       "rank": 8,
@@ -61,7 +61,7 @@
     },
     {
       "rank": 2,
-      "keyword": "이재명 대통령과 CEO 악수",
+      "keyword": "이재명 대통령 CEO",
       "state": "s",
       "change": "0"
     },
@@ -74,44 +74,44 @@
     {
       "rank": 4,
       "keyword": "ACON 2026 무대 현장",
-      "state": "s",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "서해 피격 사건 불기소",
+      "keyword": "로또 1등 18명 15억",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "1234회 로또 1등 18명 각 15억",
+      "keyword": "수원, 부산 4-1 대승!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "수원, 부산 4-1 대승!",
-      "state": "+",
-      "change": "2"
+      "keyword": "여고생에 흉기 휘두른 구속",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "한국의 갯벌 확대",
+      "keyword": "갯벌 유산 확대 등재",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "전북 포항 2위 도약",
+      "keyword": "전북 포항 제압 2위 도약",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "여고생에 흉기 휘두른 구속",
-      "state": "s",
-      "change": "0"
+      "keyword": "이강인, 20년 만에 이룬 입단!",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
