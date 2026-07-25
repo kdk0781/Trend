@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-25T11:36:21.180Z",
+  "updatedAt": "2026-07-25T14:15:08.009Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "미얀마 대 말레이시아",
-      "traffic": "100+"
+      "keyword": "ลาว พบ ไทย",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "두시탈출 컬투쇼",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "김원훈",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "베트남 u-23 축구 국가대표팀",
+      "keyword": "météo demain",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "베헨 비스바덴 대 바이에른",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "sbs",
+      "traffic": "500+"
+    },
+    {
       "rank": 5,
-      "keyword": "김천상무 대 대전",
-      "traffic": "2000+"
+      "keyword": "괴롭힘",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "chat gpt",
-      "traffic": "2000+"
+      "keyword": "투자",
+      "traffic": "10000+"
     },
     {
       "rank": 7,
-      "keyword": "xsmn",
+      "keyword": "폭발",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "chatgpt",
-      "traffic": "1000+"
+      "keyword": "오싹한 연애 드라마",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "gpt",
-      "traffic": "2000+"
+      "keyword": "울산광역시",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "gpt 서버",
+      "keyword": "마라톤",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 인생 장면",
+      "keyword": "사랑이 온다 첫방하니",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "문재인 서해 피격 불기소",
+      "keyword": "인생 장면 김부장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이강인 아틀레티코 입단",
+      "keyword": "결혼의 완성",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 4,
+      "keyword": "서해 피격 사건 전 대통령 불기소",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "ACON 2026 무대 현장",
-      "state": "+",
-      "change": "6"
-    },
-    {
       "rank": 5,
-      "keyword": "넥스지 이찬원 초빅딜 제안",
-      "state": "s",
-      "change": "0"
+      "keyword": "오싹한 연애",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "오스틴, 류현진 상대로 홈런 29호",
-      "state": "+",
+      "keyword": "이재명 대통령 CEO",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "놀면 뭐하니 재출연 예고",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "13기 영수 성병 의혹 고소",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 9,
-      "keyword": "회복 연설하는 장동혁",
+      "keyword": "화곡동 여고생 흉기 휘두른 남성 구속",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "LG, 8연패 탈출!",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "ACON 2026 무대 현장",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "정형돈, 개콘 인사금지",
+      "keyword": "로또 당첨지역",
       "state": "n",
       "change": "0"
     }
