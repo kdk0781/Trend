@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-25T06:35:39.652Z",
+  "updatedAt": "2026-07-25T08:34:09.673Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "삼성sdi",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "disney plus",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "이해진",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "이수경",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "이예원",
+      "keyword": "소유",
       "traffic": "2000+"
     },
     {
-      "rank": 6,
-      "keyword": "남태희",
-      "traffic": "100+"
+      "rank": 2,
+      "keyword": "카지노",
+      "traffic": "500+"
     },
     {
-      "rank": 7,
-      "keyword": "천소윤",
+      "rank": 3,
+      "keyword": "대한민국 금융위원회",
       "traffic": "200+"
     },
     {
-      "rank": 8,
-      "keyword": "브로드컴",
+      "rank": 4,
+      "keyword": "mlb",
       "traffic": "1000+"
     },
     {
+      "rank": 5,
+      "keyword": "손주영",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "군무원",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "최우수산",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "국군간호사관학교",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "ufc 331",
+      "keyword": "페이커",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "김부장",
+      "keyword": "소지섭",
       "traffic": "20000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "한국 갯벌 2단계 등재",
-      "state": "s",
-      "change": "0"
+      "keyword": "신장식, 조국혁신당 대표 선출",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 2,
-      "keyword": "빅테크 반도체 협력",
-      "state": "n",
-      "change": "0"
+      "keyword": "김부장 인생 장면은?",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "김부장 오늘 종영합니다.",
+      "keyword": "강연하는 김민석 후보",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "호프 300만 관객 돌파",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "고우석 이물질 퇴장",
+      "keyword": "40세 보지냐, 칠레 입단",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "신승용 폭력 사과와 치료 책임",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "최태원 노소영 이혼 판결",
+      "keyword": "KIA 곽도규 부상",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "장동혁 대표 활동",
-      "state": "n",
-      "change": "0"
+      "keyword": "SK AI 동맹",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 8,
-      "keyword": "이지혜 억대 도난",
-      "state": "n",
-      "change": "0"
+      "keyword": "결혼의 완성",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "선관위 직원 영장 기각",
-      "state": "n",
-      "change": "0"
+      "keyword": "강소휘 16점, 여자배구 3-1 승리",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "AI 동맹",
+      "keyword": "도경완, 없는 돈으로 시계 구매",
       "state": "n",
       "change": "0"
     }
