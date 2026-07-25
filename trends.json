@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-07-25T16:25:57.576Z",
+  "updatedAt": "2026-07-25T17:29:32.015Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "구름",
-      "traffic": "500+"
+      "keyword": "청계천",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "블리치",
+      "keyword": "김아영",
       "traffic": "200+"
     },
     {
       "rank": 3,
+      "keyword": "구름",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "블리치",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
       "keyword": "cryptocurrency trading",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "서훈",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 7,
+      "keyword": "what is bitcoin",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
       "keyword": "나솔사계",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "추경호",
       "traffic": "500+"
     },
     {
-      "rank": 7,
-      "keyword": "twitch",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "문재인",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "wehen wiesbaden vs bayern",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "wi vs pak",
+      "keyword": "twitch",
       "traffic": "200+"
     }
   ],
@@ -56,62 +56,62 @@
     {
       "rank": 1,
       "keyword": "김부장 종방연 참석자들",
-      "state": "s",
-      "change": "0"
+      "state": "+",
+      "change": "15"
     },
     {
       "rank": 2,
-      "keyword": "결혼의 완성",
+      "keyword": "이재명 대통령 CEO 면담",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 3,
-      "keyword": "조국혁신당 신장식 수락",
-      "state": "n",
+      "keyword": "LG 8연패 탈출!",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이강인 AT마드리드 입단",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
       "keyword": "ACON 2026 무대 현장",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "이재명 대통령 CEO 악수",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "서해 피격 사건 불기소",
+      "state": "-",
+      "change": "4"
+    },
+    {
+      "rank": 6,
+      "keyword": "이강인 등번호 7번 확정!",
+      "state": "-",
+      "change": "3"
+    },
+    {
       "rank": 7,
-      "keyword": "JYP 복지 좋은 이유는 박진영 때문인가?",
-      "state": "+",
-      "change": "2"
+      "keyword": "결혼의 완성",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 8,
-      "keyword": "한국의 갯벌 확대",
-      "state": "-",
-      "change": "1"
+      "keyword": "김민석 전 총리 광주 방문",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "LG 8연패 탈출!",
-      "state": "+",
-      "change": "1"
+      "keyword": "한국 갯벌 세계유산 확대",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "사랑이 온다 첫방!",
+      "keyword": "1234회 로또 1등 18명 각 15억",
       "state": "-",
-      "change": "2"
+      "change": "1"
     }
   ]
 }
