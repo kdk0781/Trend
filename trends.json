@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T17:29:32.015Z",
+  "updatedAt": "2026-07-25T18:26:11.358Z",
   "google": [
     {
       "rank": 1,
@@ -18,52 +18,52 @@
     },
     {
       "rank": 4,
-      "keyword": "블리치",
+      "keyword": "김부장 시즌2",
       "traffic": "200+"
     },
     {
       "rank": 5,
+      "keyword": "블리치",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
       "keyword": "cryptocurrency trading",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "서훈",
       "traffic": "500+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "what is bitcoin",
       "traffic": "100+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "나솔사계",
       "traffic": "200+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "추경호",
       "traffic": "500+"
-    },
-    {
-      "rank": 10,
-      "keyword": "twitch",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "김부장 종방연 참석자들",
-      "state": "+",
-      "change": "15"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이재명 대통령 CEO 면담",
-      "state": "+",
-      "change": "3"
+      "keyword": "이재명 대통령과 CEO 악수",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
@@ -80,38 +80,38 @@
     {
       "rank": 5,
       "keyword": "서해 피격 사건 불기소",
-      "state": "-",
-      "change": "4"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "이강인 등번호 7번 확정!",
-      "state": "-",
-      "change": "3"
+      "keyword": "1234회 로또 1등 18명 각 15억",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "결혼의 완성",
-      "state": "-",
-      "change": "5"
+      "keyword": "수원, 부산 4-1 대승!",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "김민석 전 총리 광주 방문",
+      "keyword": "한국의 갯벌 확대",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "한국 갯벌 세계유산 확대",
-      "state": "-",
-      "change": "3"
+      "keyword": "전북 포항 2위 도약",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "1234회 로또 1등 18명 각 15억",
-      "state": "-",
-      "change": "1"
+      "keyword": "여고생에 흉기 휘두른 구속",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
