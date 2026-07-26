@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-26T07:14:54.496Z",
+  "updatedAt": "2026-07-26T09:24:53.088Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "정우영",
+      "keyword": "기상 캐스터",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "황인범",
-      "traffic": "2000+"
+      "keyword": "투수",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "신설도로",
-      "traffic": "1000+"
+      "keyword": "윤이나",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "공인중개사",
-      "traffic": "500+"
+      "keyword": "김영희",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "위증",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "환율",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "조명우",
+      "keyword": "폭염",
       "traffic": "5000+"
     },
     {
+      "rank": 6,
+      "keyword": "주상욱",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "창정 로켓",
+      "traffic": "1000+"
+    },
+    {
       "rank": 8,
-      "keyword": "단발",
+      "keyword": "인기가요",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "하트 시그널 5",
-      "traffic": "1000+"
+      "keyword": "애플",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "김상식",
+      "keyword": "정우영",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 신드롬 대방출",
-      "state": "s",
-      "change": "0"
+      "keyword": "하석진, 안희연에 사랑이 온다!",
+      "state": "+",
+      "change": "84"
     },
     {
       "rank": 2,
-      "keyword": "관광수지 3개월 흑자",
-      "state": "+",
-      "change": "5"
+      "keyword": "김부장 훈훈 종영 소감",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "하석진, 안희연 사랑이 온다 설렘↑",
+      "keyword": "여한구 면담 미국 의원",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "손흥민 3경기 연속골",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "폭염 속 도심 물놀이장",
+      "keyword": "김원형 두산 감독의 기대",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "리센느 인기가요 1위 달성",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 6,
-      "keyword": "코르티스, 스포티파이 10억 스트리밍 돌파",
-      "state": "-",
-      "change": "1"
+      "keyword": "김민석 반명 VS 정청래 신천지",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "윤상현 의원 브리핑",
-      "state": "+",
-      "change": "1"
+      "keyword": "평가전 1승 2패 마무리",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "부산 해운대 피서객",
-      "state": "-",
-      "change": "2"
+      "keyword": "광화문 한글 병기 논의 진행",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "노원역 6중 추돌 9명 부상",
+      "keyword": "박은영 유튜브 찍자",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "대한민국 배구팀 기분 좋은 시작",
-      "state": "-",
+      "keyword": "도겸, 오싹한 연애 OST 공개",
+      "state": "+",
       "change": "1"
     }
   ]
