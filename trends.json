@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-07-26T22:13:55.740Z",
+  "updatedAt": "2026-07-26T23:13:04.950Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "west indies vs pakistan",
-      "traffic": "100+"
+      "keyword": "결혼식",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "집중호우",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "화진포해변",
+      "keyword": "이정효",
       "traffic": "200+"
     },
     {
-      "rank": 4,
-      "keyword": "부동산",
+      "rank": 3,
+      "keyword": "관광객",
       "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "퇴장",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "가격",
-      "traffic": "500+"
+      "keyword": "가덕도신공항",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "하지원",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "xrp 레저",
+      "keyword": "샘 해밍턴",
       "traffic": "500+"
     },
     {
-      "rank": 8,
-      "keyword": "이란",
+      "rank": 7,
+      "keyword": "진아름",
       "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "오타니 쇼헤이",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "운동",
-      "traffic": "2000+"
+      "keyword": "테니스",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "예금",
-      "traffic": "1000+"
+      "keyword": "새마을금고",
+      "traffic": "100+"
     }
   ],
   "domestic": [
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "결혼의 완성",
+      "keyword": "주상욱 김부장 인생 전환점",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "페이스 오브 코리아 수상자 발표",
-      "state": "s",
+      "keyword": "김정은, 전승절 열사릉 참배",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "신지은 10년만 우승",
+      "keyword": "결혼의 완성",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김부장 종영 소감",
-      "state": "+",
-      "change": "1"
+      "keyword": "신지은, 10년 만에 2승",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "도겸, 오싹한 연애 OST 공개",
+      "keyword": "베를린 테러 용의자 사살",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "민도희 김성균 첫 키스 후 토했다",
-      "state": "+",
+      "keyword": "도겸, 박은빈X양세종 오싹한 연애 OST 공개",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "공습 중단 보복 중단",
+      "keyword": "최영중 밤샘 조사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "최영중 아동 성매매 조사",
+      "keyword": "100M 40분 걸렸다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "베를린 테러 용의자 사살",
+      "keyword": "호프 최휘영 판단해",
       "state": "n",
       "change": "0"
     }
