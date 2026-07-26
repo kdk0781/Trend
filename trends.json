@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-26T12:00:44.021Z",
+  "updatedAt": "2026-07-26T13:49:13.403Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김승현",
-      "traffic": "5000+"
+      "keyword": "박현빈",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "명예영국인",
+      "keyword": "lg vs hanwha",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "청주시",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "뉴스 속보",
+      "keyword": "한지윤",
       "traffic": "2000+"
     },
     {
+      "rank": 4,
+      "keyword": "배재준",
+      "traffic": "200+"
+    },
+    {
       "rank": 5,
-      "keyword": "안양 대 강원",
+      "keyword": "함덕주",
       "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "나한일",
-      "traffic": "200+"
+      "keyword": "일기예보",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "범죄",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "개혁",
+      "keyword": "번개",
       "traffic": "200+"
     },
     {
-      "rank": 9,
-      "keyword": "지뢰",
+      "rank": 8,
+      "keyword": "윤석열",
       "traffic": "5000+"
     },
     {
-      "rank": 10,
-      "keyword": "강훈",
+      "rank": 9,
+      "keyword": "유격수",
       "traffic": "100+"
+    },
+    {
+      "rank": 10,
+      "keyword": "india vs zimbabwe",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 종영 소감",
-      "state": "+",
-      "change": "2"
+      "keyword": "사랑이 온다, 잘해줘요",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "조선통신사 행렬 재현 행사",
-      "state": "+",
-      "change": "2"
+      "keyword": "삼성 보스 꺾었다!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "한화 짐머맨 첫 등판",
-      "state": "+",
-      "change": "13"
+      "keyword": "김부장 훈훈한 종영 소감",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "강훈 지예은 열애에 이용당함",
-      "state": "+",
-      "change": "1"
+      "keyword": "신천지 의혹 징계 필요",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "결혼의 완성",
-      "state": "+",
-      "change": "1"
+      "keyword": "롯데 4연패 끊어냈다",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "삼성 보스 5이닝 2실점",
+      "keyword": "강훈, 지예은♥바타 열애 기사 반응",
       "state": "+",
       "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "K리그 10대들 눈부셔",
+      "keyword": "황치열 진땀과 감탄",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "정청래 신천지 제기는",
+      "keyword": "짐머맨 4이닝 무실점",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "여친 부모님 뵙고 복권 20억 당첨",
-      "state": "n",
-      "change": "0"
+      "keyword": "박현빈, 결혼 후 母 집 10번 찾았다",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 10,
-      "keyword": "여한구 본부장 미국 의원 만남",
-      "state": "-",
-      "change": "2"
+      "keyword": "소지섭, 김부장 스태프에 금 선물",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
