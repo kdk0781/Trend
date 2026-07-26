@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-26T04:36:28.035Z",
+  "updatedAt": "2026-07-26T07:14:54.496Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "박기량",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "삼전닉스",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "나의 지옥은 나를 죽이지 못했다 - 지옥으로 역주행한 어느 탈북 청년의 22일간의 기록",
+      "keyword": "정우영",
       "traffic": "200+"
     },
     {
-      "rank": 4,
-      "keyword": "밥",
+      "rank": 2,
+      "keyword": "황인범",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "신설도로",
       "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "공인중개사",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "카페인",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "황 유민",
+      "keyword": "위증",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
-      "keyword": "토트넘",
+      "rank": 6,
+      "keyword": "환율",
       "traffic": "500+"
     },
     {
+      "rank": 7,
+      "keyword": "조명우",
+      "traffic": "5000+"
+    },
+    {
       "rank": 8,
-      "keyword": "하트시그널",
+      "keyword": "단발",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "병역",
+      "keyword": "하트 시그널 5",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "살림하는 남자들",
-      "traffic": "200+"
+      "keyword": "김상식",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "손흥민 3경기 연속골!",
+      "keyword": "김부장 신드롬 대방출",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "광화문 현판 한글 병기 토론",
-      "state": "n",
-      "change": "0"
+      "keyword": "관광수지 3개월 흑자",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 3,
-      "keyword": "결혼의 완성",
-      "state": "n",
-      "change": "0"
+      "keyword": "하석진, 안희연 사랑이 온다 설렘↑",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "성수대교 단차 확인",
-      "state": "n",
+      "keyword": "손흥민 3경기 연속골",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "제주 월대천 장어 잡기",
+      "keyword": "폭염 속 도심 물놀이장",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "오상진 김소영 셋째 논란",
-      "state": "+",
-      "change": "8"
+      "keyword": "코르티스, 스포티파이 10억 스트리밍 돌파",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "90도 인사 첫 만남",
-      "state": "n",
-      "change": "0"
+      "keyword": "윤상현 의원 브리핑",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "강북아리수정수센터 위생안전 인증",
+      "keyword": "부산 해운대 피서객",
       "state": "-",
-      "change": "3"
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "소지섭 딸 서수민 청순미 공개",
+      "keyword": "노원역 6중 추돌 9명 부상",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "은가은, 2년 내 이혼 루머",
-      "state": "n",
-      "change": "0"
+      "keyword": "대한민국 배구팀 기분 좋은 시작",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
