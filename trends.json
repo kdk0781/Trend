@@ -1,62 +1,62 @@
 {
-  "updatedAt": "2026-07-26T21:12:37.303Z",
+  "updatedAt": "2026-07-26T22:13:55.740Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "고영욱",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "기뢰",
+      "keyword": "west indies vs pakistan",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "집중호우",
+      "traffic": "1000+"
+    },
+    {
       "rank": 3,
-      "keyword": "백하나",
+      "keyword": "화진포해변",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "육군사관학교",
-      "traffic": "500+"
+      "keyword": "부동산",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "표범",
-      "traffic": "200+"
+      "keyword": "가격",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "디즈니+",
+      "keyword": "하지원",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "영장",
-      "traffic": "2000+"
+      "keyword": "xrp 레저",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "영종도",
-      "traffic": "200+"
+      "keyword": "이란",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "경찰관",
+      "keyword": "운동",
       "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "공효진",
-      "traffic": "100+"
+      "keyword": "예금",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "C-390 수송기 시찰 이재명",
-      "state": "s",
+      "keyword": "C-390 이재명 대통령",
+      "state": "n",
       "change": "0"
     },
     {
@@ -68,48 +68,48 @@
     {
       "rank": 3,
       "keyword": "페이스 오브 코리아 수상자 발표",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김부장 훈훈한 종영 소감",
-      "state": "+",
-      "change": "1"
+      "keyword": "신지은 10년만 우승",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "세븐틴 도겸, 오싹한 연애 OST 공개",
+      "keyword": "김부장 종영 소감",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "신지은 10년 만에 우승",
+      "keyword": "도겸, 오싹한 연애 OST 공개",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "남궁민♥진아름, 득남 소식",
-      "state": "s",
-      "change": "0"
+      "keyword": "민도희 김성균 첫 키스 후 토했다",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "소지섭, 스태프에 금 선물",
-      "state": "+",
-      "change": "1"
+      "keyword": "공습 중단 보복 중단",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "린, 후배 혼낸 적 없어",
-      "state": "+",
-      "change": "1"
+      "keyword": "최영중 아동 성매매 조사",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "하석진이 사랑을 요청해요",
+      "keyword": "베를린 테러 용의자 사살",
       "state": "n",
       "change": "0"
     }
