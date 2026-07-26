@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-26T09:24:53.088Z",
+  "updatedAt": "2026-07-26T10:57:10.412Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "기상 캐스터",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "투수",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "윤이나",
+      "keyword": "지뢰",
       "traffic": "2000+"
     },
     {
+      "rank": 2,
+      "keyword": "강훈",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "권경애",
+      "traffic": "100+"
+    },
+    {
       "rank": 4,
-      "keyword": "김영희",
-      "traffic": "200+"
+      "keyword": "fc 서울 대 울산",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "폭염",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "주상욱",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "창정 로켓",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "인기가요",
+      "keyword": "협박",
       "traffic": "500+"
     },
     {
+      "rank": 6,
+      "keyword": "예산",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "버치 스미스",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "종합 부동산 세",
+      "traffic": "1000+"
+    },
+    {
       "rank": 9,
-      "keyword": "애플",
+      "keyword": "티빙",
       "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "정우영",
-      "traffic": "500+"
+      "keyword": "사이드카",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "하석진, 안희연에 사랑이 온다!",
-      "state": "+",
-      "change": "84"
+      "keyword": "김부장 훈훈한 종영 소감",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김부장 훈훈 종영 소감",
-      "state": "-",
-      "change": "1"
+      "keyword": "삼성 선발 역투 보스",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "여한구 면담 미국 의원",
-      "state": "-",
-      "change": "1"
+      "keyword": "여한구 본부장, 미 의원들과 만남",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김원형 두산 감독의 기대",
-      "state": "n",
+      "keyword": "결혼의 완성",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "리센느 인기가요 1위 달성",
-      "state": "+",
-      "change": "3"
+      "keyword": "현판 한글 병기 토론회",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김민석 반명 VS 정청래 신천지",
-      "state": "n",
-      "change": "0"
+      "keyword": "하석진, 안희연과 설렘↑",
+      "state": "+",
+      "change": "11"
     },
     {
       "rank": 7,
-      "keyword": "평가전 1승 2패 마무리",
-      "state": "n",
-      "change": "0"
+      "keyword": "피프티피프티 키나, 시구 출격!",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "광화문 한글 병기 논의 진행",
+      "keyword": "허성범 폭력 피해자",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "박은영 유튜브 찍자",
+      "keyword": "워터밤 비비, 선 넘은 퍼포먼스",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "도겸, 오싹한 연애 OST 공개",
-      "state": "+",
-      "change": "1"
+      "keyword": "여친 부모님 뵙고 복권 20억 당첨",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
