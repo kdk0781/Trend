@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-26T20:15:34.079Z",
+  "updatedAt": "2026-07-26T21:12:37.303Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "육군사관학교",
-      "traffic": "200+"
+      "keyword": "고영욱",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "디즈니+",
-      "traffic": "500+"
+      "keyword": "기뢰",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "영장",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "영종도",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "경찰관",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "공효진",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "김연경",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "비비 워터 밤",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "정전",
+      "keyword": "백하나",
       "traffic": "200+"
     },
     {
-      "rank": 10,
-      "keyword": "오연수",
+      "rank": 4,
+      "keyword": "육군사관학교",
       "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "표범",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "디즈니+",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "영장",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "영종도",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "경찰관",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 10,
+      "keyword": "공효진",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "C-390 시찰하는 이재명",
-      "state": "n",
+      "keyword": "C-390 수송기 시찰 이재명",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "울산 서울 3-1 완승",
+      "keyword": "결혼의 완성",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "페이스 오브 코리아 수상자들",
-      "state": "s",
-      "change": "0"
+      "keyword": "페이스 오브 코리아 수상자 발표",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "남궁민♥진아름 결혼 4년 만 득남",
+      "keyword": "김부장 훈훈한 종영 소감",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "이란군 보복 중단",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "김부장 훈훈한 소감",
-      "state": "-",
+      "keyword": "세븐틴 도겸, 오싹한 연애 OST 공개",
+      "state": "+",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "신지은 LPGA 우승",
+      "rank": 6,
+      "keyword": "신지은 10년 만에 우승",
       "state": "+",
-      "change": "3"
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "남궁민♥진아름, 득남 소식",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "린, 후배 혼낸 적 없어",
+      "keyword": "소지섭, 스태프에 금 선물",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "롯데 10연승 저지",
-      "state": "-",
+      "keyword": "린, 후배 혼낸 적 없어",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "박현빈, 엄마 주 10회 방문",
+      "keyword": "하석진이 사랑을 요청해요",
       "state": "n",
       "change": "0"
     }
