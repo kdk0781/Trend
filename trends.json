@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-26T01:07:35.020Z",
+  "updatedAt": "2026-07-26T04:36:28.035Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "알리 하메네이",
-      "traffic": "100+"
+      "keyword": "박기량",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "mls",
-      "traffic": "200+"
+      "keyword": "삼전닉스",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "montréal vs inter miami",
-      "traffic": "100+"
+      "keyword": "나의 지옥은 나를 죽이지 못했다 - 지옥으로 역주행한 어느 탈북 청년의 22일간의 기록",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "국가유공자",
-      "traffic": "100+"
+      "keyword": "밥",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "수출",
+      "keyword": "카페인",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "와이어 투 와이어",
-      "traffic": "500+"
+      "keyword": "황 유민",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "구자열",
-      "traffic": "100+"
+      "keyword": "토트넘",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "에어컨",
-      "traffic": "2000+"
+      "keyword": "하트시그널",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "네이마르",
+      "keyword": "병역",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "서울지하철",
+      "keyword": "살림하는 남자들",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 실리콘밸리 투자 발언",
+      "keyword": "손흥민 3경기 연속골!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이정후, 100타점 달성",
-      "state": "+",
-      "change": "1"
+      "keyword": "광화문 현판 한글 병기 토론",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김부장 최고 27.1%",
-      "state": "-",
-      "change": "1"
+      "keyword": "결혼의 완성",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "주한 탄자 대사 인터뷰",
-      "state": "s",
+      "keyword": "성수대교 단차 확인",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "안희연 사랑이 온다 출발",
-      "state": "s",
+      "keyword": "제주 월대천 장어 잡기",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "잠 못드는 부산",
+      "keyword": "오상진 김소영 셋째 논란",
       "state": "+",
-      "change": "1"
+      "change": "8"
     },
     {
       "rank": 7,
-      "keyword": "레알과 재계약 난항",
+      "keyword": "90도 인사 첫 만남",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "국민연금공단-실리콘밸리 MOU 체결",
-      "state": "n",
-      "change": "0"
+      "keyword": "강북아리수정수센터 위생안전 인증",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "은가은, 우울증 고백",
+      "keyword": "소지섭 딸 서수민 청순미 공개",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "경비실 에어컨 설치 반대",
+      "keyword": "은가은, 2년 내 이혼 루머",
       "state": "n",
       "change": "0"
     }
