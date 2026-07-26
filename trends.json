@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-25T23:29:26.780Z",
+  "updatedAt": "2026-07-26T01:07:35.020Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "운세",
-      "traffic": "2000+"
+      "keyword": "알리 하메네이",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "liverpool vs sunderland",
-      "traffic": "500+"
+      "keyword": "mls",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "차두리",
+      "keyword": "montréal vs inter miami",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "ลิเวอร์พูล พบ ซันเดอร์แลนด์",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "박재현",
+      "keyword": "국가유공자",
       "traffic": "100+"
     },
     {
+      "rank": 5,
+      "keyword": "수출",
+      "traffic": "500+"
+    },
+    {
       "rank": 6,
-      "keyword": "weather",
-      "traffic": "1000+"
+      "keyword": "와이어 투 와이어",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "당구",
-      "traffic": "1000+"
+      "keyword": "구자열",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "임영웅",
-      "traffic": "1000+"
+      "keyword": "에어컨",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "리버풀 대 선덜랜드",
-      "traffic": "5000+"
+      "keyword": "네이마르",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "텐센트",
-      "traffic": "500+"
+      "keyword": "서울지하철",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 소지섭, 최고 시청률 27.1% 기록",
+      "keyword": "이재명 실리콘밸리 투자 발언",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "실리콘밸리 벤처투자 밋업",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "결혼의 완성",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "사랑이 온다 첫방!",
+      "keyword": "이정후, 100타점 달성",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 3,
+      "keyword": "김부장 최고 27.1%",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "주한 탄자 대사 인터뷰",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "연합뉴스 인터뷰 정청래",
-      "state": "n",
+      "keyword": "안희연 사랑이 온다 출발",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "오싹한 연애",
+      "keyword": "잠 못드는 부산",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "로또 1234회 15억 당첨 1등 12명",
+      "keyword": "레알과 재계약 난항",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "롯데하이마트 요금제 출시",
+      "keyword": "국민연금공단-실리콘밸리 MOU 체결",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "머리로 소주병 난동",
+      "keyword": "은가은, 우울증 고백",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "李대통령, 韓과 AI 혁신 선도",
+      "keyword": "경비실 에어컨 설치 반대",
       "state": "n",
       "change": "0"
     }
