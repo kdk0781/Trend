@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-27T04:03:34.053Z",
+  "updatedAt": "2026-07-27T07:44:41.260Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "현대로템",
-      "traffic": "100+"
+      "keyword": "안철수",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "배종옥",
-      "traffic": "200+"
+      "keyword": "원현준",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "전북현대",
-      "traffic": "100+"
+      "keyword": "박정수",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "진 아름",
-      "traffic": "2000+"
+      "keyword": "세액공제",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "ssg 랜더스",
-      "traffic": "500+"
+      "keyword": "박소담",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "하나카드",
-      "traffic": "200+"
+      "keyword": "이창훈",
+      "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "nike",
-      "traffic": "200+"
+      "keyword": "삼성중공업",
+      "traffic": "10000+"
     },
     {
       "rank": 8,
-      "keyword": "삼성라이온즈",
-      "traffic": "100+"
+      "keyword": "대통령",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "cxmt",
-      "traffic": "2000+"
+      "keyword": "박찬호",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "캐시워크 정답",
-      "traffic": "200+"
+      "keyword": "통영시장",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정성호 법무부 장관의 출석",
+      "keyword": "장동혁 선거소청 출석",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "접경지역 평화안전 연석회의",
+      "keyword": "윤석열 1심 징역형 집유",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이정은·공효진 여행",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "조정식 의장, 혁신당 대표 만남",
+      "keyword": "코스피 6755.75 마감",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 4,
+      "keyword": "김부장과 괌 포상휴가",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 5,
-      "keyword": "권영진 의원 멱살 사태 사과",
-      "state": "s",
+      "keyword": "축구협회장 선거인단 1만명 확대",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "결혼의 완성",
-      "state": "+",
-      "change": "1"
+      "keyword": "폭염 경보 심각",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "김부장 종영 소감",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "한성숙 총리 기념사 및 훈장 수여",
+      "keyword": "LG이노텍 2Q 영업익 급증",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "결혼의 완성",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "2027 최저임금 이의제기",
-      "state": "s",
+      "keyword": "김진욱 검진 결과 이상 없음",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김민석 후보 만남",
-      "state": "n",
-      "change": "0"
+      "keyword": "박수홍 형수, 벌금 불복 상고",
+      "state": "+",
+      "change": "3"
     }
   ]
 }
