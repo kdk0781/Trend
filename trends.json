@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-27T22:44:20.480Z",
+  "updatedAt": "2026-07-27T23:46:36.043Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "전현무",
-      "traffic": "500+"
+      "keyword": "열린음악회",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "스포 티비 뉴스",
-      "traffic": "500+"
+      "keyword": "아스널 fc",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "심장병",
-      "traffic": "200+"
+      "keyword": "pltr",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "약사",
+      "keyword": "양도소득세",
       "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "ionq",
+      "keyword": "아이폰",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "다우 존스 산업평균지수",
+      "keyword": "워싱턴 내셔널스",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "schd",
-      "traffic": "200+"
+      "keyword": "의과대학",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "종합부동산세",
-      "traffic": "1000+"
+      "keyword": "한국지엠",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "베트남 축구 국가대표팀",
-      "traffic": "200+"
+      "keyword": "노르웨이",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "nvda",
+      "keyword": "nec",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 룰라 대통령",
+      "keyword": "김부장 윤경호의 행복한 날들",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김부장 윤경호 눈물과 금",
-      "state": "n",
+      "keyword": "트럼프 이란 합의 가능성",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "트럼프 이란 합의 가능성",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
       "keyword": "신지은 10년 만의 우승, 세계랭킹 36위",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "태풍 군사적 의미 분석",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 5,
-      "keyword": "태풍 군사적 의미",
-      "state": "s",
+      "keyword": "김정은, 전승절 73주년 참석",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김혜경 여사, 브라질과 가까워져",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "협력 강화",
+      "keyword": "애플, 15개월 만에 시총 1위 복귀",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "전한길 참관, 통영시장 재검표 이변 없어",
+      "rank": 7,
+      "keyword": "싸이가 캐스팅한 여중생 정정",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "애플, 시총 1위 탈환",
+      "rank": 8,
+      "keyword": "결혼의 완성",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 9,
+      "keyword": "저축으로 50억 역풍",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "여교사 아들 경찰 사건",
-      "state": "-",
-      "change": "4"
+      "keyword": "이상화 강남 부부싸움",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
