@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-27T07:44:41.260Z",
+  "updatedAt": "2026-07-27T10:56:31.148Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "안철수",
-      "traffic": "2000+"
+      "keyword": "교통량",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "원현준",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "박정수",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "세액공제",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "박소담",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "이창훈",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "삼성중공업",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "대통령",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "박찬호",
+      "keyword": "엘앤에프",
       "traffic": "500+"
     },
     {
-      "rank": 10,
-      "keyword": "통영시장",
+      "rank": 3,
+      "keyword": "동탄",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "하이닉스 실적 발표",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "인천 유나이티드 fc",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "헌법",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "카카오뱅크",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "스포티파이",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
+      "keyword": "앤서니 조슈아",
       "traffic": "100+"
+    },
+    {
+      "rank": 10,
+      "keyword": "케스파컵",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "장동혁 선거소청 출석",
-      "state": "s",
+      "keyword": "국힘 윤리위 징계 개시",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "윤석열 1심 징역형 집유",
-      "state": "s",
-      "change": "0"
+      "keyword": "히가시노 게이고",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "코스피 6755.75 마감",
+      "keyword": "오케이 마담2 엄정화",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "신태용 감독 자격정지 1년",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "결혼의 완성",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 6,
+      "keyword": "소지섭 딸 서수민 타코야끼 알바",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 4,
-      "keyword": "김부장과 괌 포상휴가",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "축구협회장 선거인단 1만명 확대",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "폭염 경보 심각",
-      "state": "-",
-      "change": "3"
-    },
-    {
       "rank": 7,
-      "keyword": "LG이노텍 2Q 영업익 급증",
-      "state": "n",
-      "change": "0"
+      "keyword": "이동석 시장 상생협약식 인사말",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "결혼의 완성",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "김진욱 검진 결과 이상 없음",
+      "keyword": "이재용·최태원, 구글캠프 시칠리아행",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "한성숙 총리 대토론회",
+      "state": "-",
+      "change": "8"
+    },
+    {
       "rank": 10,
-      "keyword": "박수홍 형수, 벌금 불복 상고",
-      "state": "+",
-      "change": "3"
+      "keyword": "조태용 항소심 징역 7년 구형",
+      "state": "-",
+      "change": "4"
     }
   ]
 }
