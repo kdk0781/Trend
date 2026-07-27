@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-27T17:50:44.575Z",
+  "updatedAt": "2026-07-27T19:15:04.337Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "은행",
-      "traffic": "2000+"
+      "keyword": "klasemen timnas indonesia vs tim nasional sepak bola kamboja",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "정선희",
+      "keyword": "성리",
       "traffic": "100+"
     },
     {
       "rank": 3,
+      "keyword": "ps",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "은행",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "정선희",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
       "keyword": "중국 duv",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "keyword": "duv",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "elle",
       "traffic": "1000+"
     },
     {
-      "rank": 6,
-      "keyword": "한진칼",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "국가기술자격",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "외환시장",
-      "traffic": "1000+"
-    },
-    {
       "rank": 9,
-      "keyword": "고준희",
-      "traffic": "200+"
+      "keyword": "한진칼",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "사랑이 온다",
-      "traffic": "5000+"
+      "keyword": "국가기술자격",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 룰라 대통령",
+      "keyword": "이재명과 룰라 포옹 인사",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "MC몽 콘서트 90초 매진",
-      "state": "+",
-      "change": "1"
+      "keyword": "한-브라질 정상 부부 공식환영",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "신태용 1년 자격정지",
+      "keyword": "강남 이상화 통장 용돈",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "엔비디아 AI 보안 출시",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 5,
-      "keyword": "공개 후 이슈 확산",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 6,
-      "keyword": "윤리위 권영진 징계 개시",
-      "state": "n",
+      "keyword": "신태용, 1년 자격정지",
+      "state": "s",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "공개 후 생일 축하 물결",
+      "state": "+",
+      "change": "10"
+    },
+    {
+      "rank": 6,
+      "keyword": "엔비디아 AI 보안 연합",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 7,
-      "keyword": "대구 금호강서 남성 시신 발견",
+      "keyword": "중미 강제노동 관세 반대",
       "state": "+",
       "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "국힘 397억 반환 위기",
-      "state": "n",
-      "change": "0"
+      "keyword": "재시험 문제 유출",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "강남 금메달 500개 자랑",
+      "keyword": "정선희 父 10년 빚 갚음",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "문제 유출로 재시험",
-      "state": "n",
-      "change": "0"
+      "keyword": "46세 심수창, 19세 여 앞에서 안되겠다",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
