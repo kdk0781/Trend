@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-27T20:43:59.650Z",
+  "updatedAt": "2026-07-27T21:48:44.264Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "별사랑",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "철구",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "스포티비뉴스",
+      "keyword": "고은아",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "롯데 자이언츠",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "엔비디아 주가",
+      "traffic": "100+"
+    },
+    {
       "rank": 4,
-      "keyword": "간",
-      "traffic": "2000+"
+      "keyword": "전지",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "klasemen timnas indonesia vs tim nasional sepak bola kamboja",
+      "keyword": "이동하",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "성리",
+      "keyword": "풍자",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "ps",
-      "traffic": "100+"
+      "keyword": "맨체스터 유나이티드 fc",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "치마",
-      "traffic": "1000+"
+      "keyword": "온도",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "은행",
-      "traffic": "2000+"
+      "keyword": "태풍",
+      "traffic": "10000+"
     },
     {
       "rank": 10,
-      "keyword": "정선희",
-      "traffic": "100+"
+      "keyword": "구준엽",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명과 룰라 인사",
+      "keyword": "이재명·룰라 대통령 만남",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "한-브라질 정상 부부",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "강남 이상화 용돈 통장",
+      "keyword": "강남 이상화 통장 용돈",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "트럼프 이란 협상 실패 시 군사행동",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 4,
-      "keyword": "김혜경 여사, 브라질 영부인과 문화교류",
+      "keyword": "김혜경 여사와 브라질 친교 강화",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "트럼프 이란과 협상 실패 시 군사행동",
+      "keyword": "히가시노 게이고",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "공개 후 첫 생일 축하",
-      "state": "n",
-      "change": "0"
+      "keyword": "핵심광물 협력 확대",
+      "state": "+",
+      "change": "7"
     },
     {
       "rank": 7,
-      "keyword": "김부장 종영 소식",
-      "state": "+",
-      "change": "5"
+      "keyword": "정선희, 아버지 사업 빚 10년 갚고 울다",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "중국 드론, 태풍 진입 의미 크다",
-      "state": "n",
-      "change": "0"
+      "keyword": "내일도 출근",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "심수창 19세 소개팅녀 앞에서 최성국",
-      "state": "n",
-      "change": "0"
+      "keyword": "중 군집 드론, 태풍 진입 의미",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "4050 무주택자-청년 첫 주택",
-      "state": "n",
-      "change": "0"
+      "keyword": "결혼의 완성",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
