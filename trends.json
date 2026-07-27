@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-26T23:13:04.950Z",
+  "updatedAt": "2026-07-27T00:13:15.739Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "결혼식",
-      "traffic": "1000+"
+      "keyword": "최윤아",
+      "traffic": "100+"
     },
     {
       "rank": 2,
+      "keyword": "키움증권",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "휴가",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "댐",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "옥택연",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "결혼식",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
       "keyword": "이정효",
       "traffic": "200+"
     },
     {
-      "rank": 3,
-      "keyword": "관광객",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "퇴장",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "가덕도신공항",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "샘 해밍턴",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "진아름",
-      "traffic": "2000+"
-    },
-    {
       "rank": 8,
-      "keyword": "오타니 쇼헤이",
-      "traffic": "100+"
+      "keyword": "관광객",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "테니스",
-      "traffic": "200+"
+      "keyword": "퇴장",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "새마을금고",
-      "traffic": "100+"
+      "keyword": "가덕도신공항",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "C-390 이재명 대통령",
-      "state": "n",
+      "keyword": "김정은, 전승절 맞아 참배",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "주상욱 김부장 인생 전환점",
+      "keyword": "주상욱 김부장 시즌2 확정?",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김정은, 전승절 열사릉 참배",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
       "keyword": "결혼의 완성",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "신지은, 10년 만에 2승",
-      "state": "n",
+      "rank": 4,
+      "keyword": "신지은 10년 만에 우승",
+      "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "베를린 테러 용의자 사살",
+      "rank": 5,
+      "keyword": "도겸, 오싹한 연애 OST 공개",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "삼성전자 히트펌프 실증",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "도겸, 박은빈X양세종 오싹한 연애 OST 공개",
+      "keyword": "영케이 데이식스 10년 후회 없다",
       "state": "-",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "최영중 밤샘 조사",
-      "state": "n",
-      "change": "0"
+      "keyword": "남궁민 진아름 득남",
+      "state": "-",
+      "change": "6"
     },
     {
       "rank": 9,
-      "keyword": "100M 40분 걸렸다",
-      "state": "n",
-      "change": "0"
+      "keyword": "김여정 ARF 비핵화 반발",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "호프 최휘영 판단해",
-      "state": "n",
-      "change": "0"
+      "keyword": "하석진, 안희연 사랑이 온다",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
