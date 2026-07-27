@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-27T16:00:31.317Z",
+  "updatedAt": "2026-07-27T17:50:44.575Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "duv",
-      "traffic": "200+"
+      "keyword": "은행",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "elle",
-      "traffic": "1000+"
+      "keyword": "정선희",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "한진칼",
+      "keyword": "중국 duv",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "국가기술자격",
-      "traffic": "500+"
+      "keyword": "duv",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "외환시장",
-      "traffic": "500+"
+      "keyword": "elle",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "고준희",
+      "keyword": "한진칼",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "사랑이 온다",
-      "traffic": "2000+"
+      "keyword": "국가기술자격",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "강남구",
-      "traffic": "500+"
+      "keyword": "외환시장",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "지연수",
-      "traffic": "500+"
+      "keyword": "고준희",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "건설근로자공제회",
-      "traffic": "100+"
+      "keyword": "사랑이 온다",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "한성숙 총리 대토론회",
+      "keyword": "이재명 룰라 대통령",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "히가시노 게이고 별세",
-      "state": "s",
-      "change": "0"
+      "keyword": "MC몽 콘서트 90초 매진",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "이재명과 룰라 인사",
-      "state": "+",
-      "change": "2"
+      "keyword": "신태용 1년 자격정지",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "윤리위 권영진 징계",
-      "state": "-",
-      "change": "1"
+      "keyword": "엔비디아 AI 보안 출시",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "신태용 자격정지 1년",
+      "keyword": "공개 후 이슈 확산",
       "state": "+",
-      "change": "1"
+      "change": "4"
     },
     {
       "rank": 6,
-      "keyword": "조태용 징역 7년 구형",
-      "state": "+",
-      "change": "1"
+      "keyword": "윤리위 권영진 징계 개시",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "한-브라질 정상 인사 및 악수",
+      "keyword": "대구 금호강서 남성 시신 발견",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "상반기 순익 4.4% ↓",
-      "state": "+",
-      "change": "1"
+      "keyword": "국힘 397억 반환 위기",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "엄정화, 오케이 마담2 귀환",
-      "state": "-",
-      "change": "5"
+      "keyword": "강남 금메달 500개 자랑",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "윤석열 1심 유죄 항소",
+      "keyword": "문제 유출로 재시험",
       "state": "n",
       "change": "0"
     }
