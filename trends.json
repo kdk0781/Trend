@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-27T13:36:05.933Z",
+  "updatedAt": "2026-07-27T16:00:31.317Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "신태용",
-      "traffic": "500+"
+      "keyword": "duv",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "파크 골프",
-      "traffic": "500+"
+      "keyword": "elle",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "연애 전쟁",
-      "traffic": "1000+"
+      "keyword": "한진칼",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "유턴",
-      "traffic": "200+"
+      "keyword": "국가기술자격",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "이더리움",
-      "traffic": "200+"
+      "keyword": "외환시장",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "악어",
-      "traffic": "5000+"
+      "keyword": "고준희",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "고발",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "이루 네",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "재산세",
+      "keyword": "사랑이 온다",
       "traffic": "2000+"
     },
     {
-      "rank": 10,
-      "keyword": "용인반도체클러스터",
+      "rank": 8,
+      "keyword": "강남구",
       "traffic": "500+"
+    },
+    {
+      "rank": 9,
+      "keyword": "지연수",
+      "traffic": "500+"
+    },
+    {
+      "rank": 10,
+      "keyword": "건설근로자공제회",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "히가시노 게이고 68세로 별세",
-      "state": "n",
+      "keyword": "한성숙 총리 대토론회",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "국힘 윤리위 징계 개시",
-      "state": "n",
+      "keyword": "히가시노 게이고 별세",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "통영시장 재검표 전한길",
-      "state": "n",
-      "change": "0"
+      "keyword": "이재명과 룰라 인사",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "중 CXMT 삼전 추격 강화",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "내일도 출근",
+      "keyword": "윤리위 권영진 징계",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 5,
+      "keyword": "신태용 자격정지 1년",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 6,
-      "keyword": "MC몽, 1분 30초 매진!",
-      "state": "n",
-      "change": "0"
+      "keyword": "조태용 징역 7년 구형",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "신태용 1년 자격정지",
-      "state": "n",
-      "change": "0"
+      "keyword": "한-브라질 정상 인사 및 악수",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "아들 불법촬영 경찰 간부",
-      "state": "n",
-      "change": "0"
+      "keyword": "상반기 순익 4.4% ↓",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "도겸, 오싹한 연애 OST 공개",
+      "keyword": "엄정화, 오케이 마담2 귀환",
       "state": "-",
-      "change": "2"
+      "change": "5"
     },
     {
       "rank": 10,
-      "keyword": "30기 영수 결혼 발표",
+      "keyword": "윤석열 1심 유죄 항소",
       "state": "n",
       "change": "0"
     }
