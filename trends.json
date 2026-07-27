@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-27T10:56:31.148Z",
+  "updatedAt": "2026-07-27T13:36:05.933Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "교통량",
-      "traffic": "1000+"
+      "keyword": "신태용",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "엘앤에프",
+      "keyword": "파크 골프",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "동탄",
-      "traffic": "200+"
+      "keyword": "연애 전쟁",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "하이닉스 실적 발표",
+      "keyword": "유턴",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "인천 유나이티드 fc",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "헌법",
+      "keyword": "이더리움",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "악어",
+      "traffic": "5000+"
+    },
+    {
       "rank": 7,
-      "keyword": "카카오뱅크",
+      "keyword": "고발",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "스포티파이",
-      "traffic": "500+"
+      "keyword": "이루 네",
+      "traffic": "20000+"
     },
     {
       "rank": 9,
-      "keyword": "앤서니 조슈아",
-      "traffic": "100+"
+      "keyword": "재산세",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "케스파컵",
-      "traffic": "2000+"
+      "keyword": "용인반도체클러스터",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "국힘 윤리위 징계 개시",
+      "keyword": "히가시노 게이고 68세로 별세",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "히가시노 게이고",
-      "state": "-",
-      "change": "1"
+      "keyword": "국힘 윤리위 징계 개시",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "오케이 마담2 엄정화",
-      "state": "+",
-      "change": "1"
+      "keyword": "통영시장 재검표 전한길",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "신태용 감독 자격정지 1년",
+      "keyword": "중 CXMT 삼전 추격 강화",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "결혼의 완성",
-      "state": "+",
-      "change": "4"
+      "keyword": "내일도 출근",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "소지섭 딸 서수민 타코야끼 알바",
-      "state": "+",
-      "change": "2"
+      "keyword": "MC몽, 1분 30초 매진!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "이동석 시장 상생협약식 인사말",
-      "state": "+",
-      "change": "3"
+      "keyword": "신태용 1년 자격정지",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이재용·최태원, 구글캠프 시칠리아행",
+      "keyword": "아들 불법촬영 경찰 간부",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "한성숙 총리 대토론회",
+      "keyword": "도겸, 오싹한 연애 OST 공개",
       "state": "-",
-      "change": "8"
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "조태용 항소심 징역 7년 구형",
-      "state": "-",
-      "change": "4"
+      "keyword": "30기 영수 결혼 발표",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
