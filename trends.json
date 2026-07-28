@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-28T01:06:48.604Z",
+  "updatedAt": "2026-07-28T04:22:04.402Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "fomc",
+      "keyword": "하이닉스 하한가",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "원격",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "신발",
+      "keyword": "회사",
       "traffic": "500+"
     },
     {
+      "rank": 3,
+      "keyword": "삼전",
+      "traffic": "100+"
+    },
+    {
       "rank": 4,
-      "keyword": "충청투데이",
+      "keyword": "뉴데일리",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "흥국생명",
+      "keyword": "캐시워크 정답",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "레알 마드리드 cf",
-      "traffic": "200+"
+      "keyword": "쿠키뉴스",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "서울특별시",
-      "traffic": "100+"
+      "keyword": "조혜련",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "임우일",
+      "keyword": "콘 페리 투어",
       "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "아스널 fc",
-      "traffic": "200+"
+      "keyword": "sk하이닉스 주가",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "열린음악회",
-      "traffic": "100+"
+      "keyword": "아이온큐",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "코스피 급락 매도 사이드카",
-      "state": "s",
+      "keyword": "조정식 첫 기자간담회",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "가능한 사랑 9월 극장 개봉",
+      "keyword": "정성호 장관 국무회의 참석",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "정점식 원내대표 원내대책회의 참석",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "삼성전자 녹색상품 16개 선정",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "갤럭시 Z 사전예약 시작",
+      "keyword": "인천 쿠팡 화재 합동감식",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 4,
+      "keyword": "갤럭시 Z8 사전예약 시작",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "불륜 인플루언서 김혜수 변신",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "북 전승절 73주년 행사",
+      "keyword": "신장식 대표 접견",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "공기청정기 호환필터 품질",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "코스피 서킷브레이커 발동",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "이예림 6마리와 이별",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "저 연습생 아닙니다 싸이가 캐스팅한",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 9,
-      "keyword": "가온전선, 미국 빅테크 케이블 수주",
-      "state": "n",
+      "keyword": "이동경 K리그1 MVP 선정",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "정호영, 손님에 폭행당해",
+      "keyword": "공공기관 대구 이전 토론회",
       "state": "n",
       "change": "0"
     }
