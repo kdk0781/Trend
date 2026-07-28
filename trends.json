@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-28T17:06:09.337Z",
+  "updatedAt": "2026-07-28T18:38:19.367Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "싸이",
-      "traffic": "200+"
+      "keyword": "열대야",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "기아 셀토스",
+      "keyword": "레알마드리드",
       "traffic": "100+"
     },
     {
       "rank": 3,
+      "keyword": "롤렉스",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "요시다 슈헤이",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "기아 셀토스",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "싸이",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
       "keyword": "롤",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 8,
       "keyword": "리그오브레전드",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "keyword": "샌디스크 주가",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 10,
       "keyword": "어 도어",
       "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "문희준",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "최권",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "마이크론",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "유해란",
-      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "평택 백린 누출 대피령",
-      "state": "s",
+      "keyword": "이재명 대통령 동포간담회",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "대통령 상파울루 동포간담회",
+      "keyword": "구마모토 쇼핑몰 붕괴, 다수 갇혀",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "6이닝 무실점 SSG 아빌라",
+      "keyword": "아빌라 6이닝 무실점",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "구마모토 쇼핑몰 붕괴",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "차가원 구속영장 청구",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 6,
-      "keyword": "킥플립 동화 LG 승리 기원",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "박찬혁 동점 투런포",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "조정식 대통령 연임 문제",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "리센느가 엄마 소고기 사드림",
+      "keyword": "이동진김지연 쌍둥이 출산",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "보완수사권 폐지 개정안 통과",
+      "rank": 5,
+      "keyword": "박찬혁 동점 투런포",
       "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "보완수사권 폐지 개정안 통과",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "평택 백린 누출 대피령",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "페이스오브코리아 시니어 수상",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "문희준 19KG 감량 도전",
+      "state": "+",
+      "change": "5"
+    },
+    {
+      "rank": 10,
+      "keyword": "김포 의왕 진천서 투표자 수 조작",
+      "state": "n",
       "change": "0"
     }
   ]
