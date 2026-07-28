@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-27T23:46:36.043Z",
+  "updatedAt": "2026-07-28T01:06:48.604Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "열린음악회",
-      "traffic": "100+"
+      "keyword": "fomc",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "아스널 fc",
+      "keyword": "원격",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "pltr",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "양도소득세",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "아이폰",
+      "keyword": "신발",
       "traffic": "500+"
     },
     {
+      "rank": 4,
+      "keyword": "충청투데이",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "흥국생명",
+      "traffic": "100+"
+    },
+    {
       "rank": 6,
-      "keyword": "워싱턴 내셔널스",
+      "keyword": "레알 마드리드 cf",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "의과대학",
+      "keyword": "서울특별시",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "한국지엠",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "노르웨이",
+      "keyword": "임우일",
       "traffic": "1000+"
     },
     {
-      "rank": 10,
-      "keyword": "nec",
+      "rank": 9,
+      "keyword": "아스널 fc",
       "traffic": "200+"
+    },
+    {
+      "rank": 10,
+      "keyword": "열린음악회",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김부장 윤경호의 행복한 날들",
+      "keyword": "코스피 급락 매도 사이드카",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "트럼프 이란 합의 가능성",
+      "keyword": "가능한 사랑 9월 극장 개봉",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "신지은 10년 만의 우승, 세계랭킹 36위",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "태풍 군사적 의미 분석",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "김정은, 전승절 73주년 참석",
+      "keyword": "정점식 원내대표 원내대책회의 참석",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "삼성전자 녹색상품 16개 선정",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "갤럭시 Z 사전예약 시작",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 6,
-      "keyword": "애플, 15개월 만에 시총 1위 복귀",
-      "state": "s",
-      "change": "0"
+      "keyword": "북 전승절 73주년 행사",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "싸이가 캐스팅한 여중생 정정",
+      "keyword": "이예림 6마리와 이별",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "결혼의 완성",
-      "state": "-",
-      "change": "1"
+      "keyword": "저 연습생 아닙니다 싸이가 캐스팅한",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "저축으로 50억 역풍",
+      "keyword": "가온전선, 미국 빅테크 케이블 수주",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이상화 강남 부부싸움",
+      "keyword": "정호영, 손님에 폭행당해",
       "state": "n",
       "change": "0"
     }
