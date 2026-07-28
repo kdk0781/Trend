@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-28T13:19:47.778Z",
+  "updatedAt": "2026-07-28T15:38:33.987Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "로버트 기요사키",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "이임생",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "김정난",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "부동산정책",
+      "keyword": "어 도어",
       "traffic": "500+"
     },
     {
+      "rank": 2,
+      "keyword": "문희준",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "샌디스크",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "최권",
+      "traffic": "200+"
+    },
+    {
       "rank": 5,
-      "keyword": "정호영",
+      "keyword": "마이크론",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "최원태",
-      "traffic": "200+"
+      "keyword": "유해란",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "함양울산고속도로",
-      "traffic": "200+"
+      "keyword": "fear and greed",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "박세웅",
-      "traffic": "200+"
+      "keyword": "나는 solo",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "chelsea đấu với ws wanderers",
-      "traffic": "200+"
+      "keyword": "만치니",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "전준표",
+      "keyword": "qqq",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "박찬혁 동점 투런포",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "페이스오브코리아 시니어 수상",
+      "keyword": "규모 7.1 지진 발생",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "구마모토 지진 24시간 대응",
+      "rank": 2,
+      "keyword": "평택 백린 누출 대피",
       "state": "+",
-      "change": "1"
+      "change": "12"
+    },
+    {
+      "rank": 3,
+      "keyword": "대통령 연임 논란",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "SSG 아빌라 무실점",
-      "state": "s",
+      "keyword": "SSG 아빌라 무실점 호투",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "평택 백린 누출 발생",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "문정빈 솔로포",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "신천지 민주당 가입 진술 왜 묵인했나",
+      "keyword": "차가원 구속영장 청구",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "검은 화요일 증시 폭락",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "염경엽 감독 경기 잘 지켜봐",
+      "state": "+",
+      "change": "42"
+    },
+    {
       "rank": 8,
-      "keyword": "결혼 9년 만에 쌍둥이 부모 됐다",
+      "keyword": "한미약품 2분기 실적 상승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "내년 기준 중위소득 6.7% 인상",
+      "keyword": "리센느 원이 엄마 소고기 사드림",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "차가원 대표 구속영장 청구",
+      "keyword": "문희준",
       "state": "n",
       "change": "0"
     }
