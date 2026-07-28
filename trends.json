@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-07-28T09:43:28.532Z",
+  "updatedAt": "2026-07-28T11:45:52.250Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "kia 대 삼성",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "부부",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "kt 대 nc",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "공중 보건 의사",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "대한민국 해양경찰청",
+      "keyword": "chelsea đấu với ws wanderers",
       "traffic": "100+"
     },
     {
-      "rank": 6,
-      "keyword": "백린",
-      "traffic": "20000+"
+      "rank": 2,
+      "keyword": "이동석",
+      "traffic": "500+"
     },
     {
-      "rank": 7,
-      "keyword": "롯데 대 한화",
-      "traffic": "5000+"
+      "rank": 3,
+      "keyword": "삼성그룹",
+      "traffic": "200+"
     },
     {
-      "rank": 8,
-      "keyword": "두산 대 ssg",
+      "rank": 4,
+      "keyword": "충주시장",
       "traffic": "2000+"
     },
     {
+      "rank": 5,
+      "keyword": "chelsea vs western sydney wanderers fc",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "김성균",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "유격수",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "소문난 칠공주",
+      "traffic": "10000+"
+    },
+    {
       "rank": 9,
-      "keyword": "키움 대 lg",
-      "traffic": "1000+"
+      "keyword": "김현태",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "김호중",
+      "keyword": "핵무기",
       "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "평택 미군기지 백린 누출 대피",
-      "state": "+",
-      "change": "1"
+      "keyword": "평택 백린 누출 비상대응팀 투입",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "부산까지 흔들린 일본 지진",
+      "keyword": "일본 지진으로 부산 신고 폭주",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "킥플립 동화 LG 응원!",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 3,
-      "keyword": "개헌 관련 입장 표명",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 4,
-      "keyword": "허범욱 감독 별세",
-      "state": "+",
+      "keyword": "리센느 원이 소고기 사주고 싶어",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "한일 정기전 부활 논의 활발",
+      "keyword": "솔로포 날린 문정빈",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "포항 보릿돌교 붕괴 사고",
-      "state": "+",
-      "change": "5"
+      "keyword": "SSG 아빌라, 3승 도전!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "한미약품 2분기 영업익 급증",
+      "keyword": "국민 선택 연임 논란",
       "state": "n",
       "change": "0"
     },
@@ -103,14 +103,14 @@
     },
     {
       "rank": 9,
-      "keyword": "관저 이전 의혹 조사",
-      "state": "n",
-      "change": "0"
+      "keyword": "인사하는 설종진 감독",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "호프 나홍진 유병재 반응 궁금해",
-      "state": "n",
+      "keyword": "박솔라 첫 주연 가족관계증명서",
+      "state": "s",
       "change": "0"
     }
   ]
