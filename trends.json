@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-28T11:45:52.250Z",
+  "updatedAt": "2026-07-28T13:19:47.778Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "chelsea đấu với ws wanderers",
-      "traffic": "100+"
+      "keyword": "로버트 기요사키",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "이동석",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "삼성그룹",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "충주시장",
+      "keyword": "이임생",
       "traffic": "2000+"
     },
     {
-      "rank": 5,
-      "keyword": "chelsea vs western sydney wanderers fc",
+      "rank": 3,
+      "keyword": "김정난",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "부동산정책",
       "traffic": "500+"
     },
     {
+      "rank": 5,
+      "keyword": "정호영",
+      "traffic": "200+"
+    },
+    {
       "rank": 6,
-      "keyword": "김성균",
+      "keyword": "최원태",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "유격수",
-      "traffic": "100+"
+      "keyword": "함양울산고속도로",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "소문난 칠공주",
-      "traffic": "10000+"
+      "keyword": "박세웅",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "김현태",
-      "traffic": "2000+"
+      "keyword": "chelsea đấu với ws wanderers",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "핵무기",
-      "traffic": "2000+"
+      "keyword": "전준표",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "평택 백린 누출 비상대응팀 투입",
-      "state": "s",
-      "change": "0"
+      "keyword": "박찬혁 동점 투런포",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "일본 지진으로 부산 신고 폭주",
-      "state": "s",
+      "keyword": "페이스오브코리아 시니어 수상",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "킥플립 동화 LG 응원!",
-      "state": "-",
+      "keyword": "구마모토 지진 24시간 대응",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "리센느 원이 소고기 사주고 싶어",
-      "state": "-",
-      "change": "1"
+      "keyword": "SSG 아빌라 무실점",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "솔로포 날린 문정빈",
-      "state": "n",
+      "keyword": "평택 백린 누출 발생",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "SSG 아빌라, 3승 도전!",
-      "state": "n",
+      "keyword": "문정빈 솔로포",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "국민 선택 연임 논란",
+      "keyword": "신천지 민주당 가입 진술 왜 묵인했나",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "내년 중위소득 6.7% 인상",
+      "keyword": "결혼 9년 만에 쌍둥이 부모 됐다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "인사하는 설종진 감독",
-      "state": "-",
-      "change": "2"
+      "keyword": "내년 기준 중위소득 6.7% 인상",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "박솔라 첫 주연 가족관계증명서",
-      "state": "s",
+      "keyword": "차가원 대표 구속영장 청구",
+      "state": "n",
       "change": "0"
     }
   ]
