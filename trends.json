@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-07-28T18:38:19.367Z",
+  "updatedAt": "2026-07-28T20:04:12.786Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "황재균",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
+      "keyword": "애스턴 빌라 대 레알 소시에다드",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "중국",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "김하성",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
       "keyword": "열대야",
       "traffic": "2000+"
     },
     {
-      "rank": 2,
+      "rank": 6,
       "keyword": "레알마드리드",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 7,
       "keyword": "롤렉스",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 8,
       "keyword": "요시다 슈헤이",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "기아 셀토스",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "싸이",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "롤",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "리그오브레전드",
-      "traffic": "500+"
-    },
-    {
       "rank": 9,
-      "keyword": "샌디스크 주가",
+      "keyword": "기아 셀토스",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "어 도어",
-      "traffic": "1000+"
+      "keyword": "싸이",
+      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "구마모토 쇼핑몰 붕괴, 다수 갇혀",
-      "state": "s",
-      "change": "0"
+      "keyword": "두산 박준순, 역전 홈런!",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "아빌라 6이닝 무실점",
-      "state": "s",
-      "change": "0"
+      "keyword": "보완수사권 폐지 개정안 통과",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "이동진김지연 쌍둥이 출산",
-      "state": "n",
+      "keyword": "문희준 19KG 감량 도전",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "박찬혁 동점 투런포",
-      "state": "s",
-      "change": "0"
+      "keyword": "구마모토 강진 쇼핑몰 붕괴 10명 연락두절",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "보완수사권 폐지 개정안 통과",
+      "keyword": "페이스오브코리아 시니어 수상자",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "평택 백린 누출 대피령",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "페이스오브코리아 시니어 수상",
+      "keyword": "김포 의왕 진천 투표 조작",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 8,
+      "keyword": "현직 대통령 연임 국민 선택 문제",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "문희준 19KG 감량 도전",
+      "keyword": "LG 키움 5-3 승리",
       "state": "+",
-      "change": "5"
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "김포 의왕 진천서 투표자 수 조작",
-      "state": "n",
-      "change": "0"
+      "keyword": "김지연 쌍둥이 출산",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
