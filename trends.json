@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-28T15:38:33.987Z",
+  "updatedAt": "2026-07-28T17:06:09.337Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "어 도어",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "문희준",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "샌디스크",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "최권",
+      "keyword": "싸이",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "기아 셀토스",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "롤",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "리그오브레전드",
+      "traffic": "500+"
+    },
+    {
       "rank": 5,
-      "keyword": "마이크론",
+      "keyword": "샌디스크 주가",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "유해란",
-      "traffic": "2000+"
+      "keyword": "어 도어",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "fear and greed",
-      "traffic": "100+"
+      "keyword": "문희준",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "나는 solo",
-      "traffic": "2000+"
+      "keyword": "최권",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "만치니",
-      "traffic": "100+"
+      "keyword": "마이크론",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "qqq",
-      "traffic": "100+"
+      "keyword": "유해란",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "규모 7.1 지진 발생",
-      "state": "n",
+      "keyword": "평택 백린 누출 대피령",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "평택 백린 누출 대피",
-      "state": "+",
-      "change": "12"
+      "keyword": "대통령 상파울루 동포간담회",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "대통령 연임 논란",
-      "state": "n",
+      "keyword": "6이닝 무실점 SSG 아빌라",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "SSG 아빌라 무실점 호투",
-      "state": "n",
-      "change": "0"
+      "keyword": "구마모토 쇼핑몰 붕괴",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
       "keyword": "차가원 구속영장 청구",
-      "state": "n",
-      "change": "0"
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 6,
-      "keyword": "검은 화요일 증시 폭락",
-      "state": "n",
-      "change": "0"
+      "keyword": "킥플립 동화 LG 승리 기원",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "염경엽 감독 경기 잘 지켜봐",
-      "state": "+",
-      "change": "42"
+      "keyword": "박찬혁 동점 투런포",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "한미약품 2분기 실적 상승",
-      "state": "n",
-      "change": "0"
+      "keyword": "조정식 대통령 연임 문제",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "리센느 원이 엄마 소고기 사드림",
+      "keyword": "리센느가 엄마 소고기 사드림",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "문희준",
-      "state": "n",
+      "keyword": "보완수사권 폐지 개정안 통과",
+      "state": "s",
       "change": "0"
     }
   ]
