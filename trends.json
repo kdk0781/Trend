@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-28T07:08:05.459Z",
+  "updatedAt": "2026-07-28T09:43:28.532Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "트레이드",
-      "traffic": "2000+"
+      "keyword": "kia 대 삼성",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "허범욱",
-      "traffic": "100+"
+      "keyword": "부부",
+      "traffic": "10000+"
     },
     {
       "rank": 3,
-      "keyword": "변기",
-      "traffic": "2000+"
+      "keyword": "kt 대 nc",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "퇴직금",
-      "traffic": "200+"
+      "keyword": "공중 보건 의사",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "aig 여자 오픈",
-      "traffic": "500+"
+      "keyword": "대한민국 해양경찰청",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "박항서",
-      "traffic": "100+"
+      "keyword": "백린",
+      "traffic": "20000+"
     },
     {
       "rank": 7,
-      "keyword": "남보라",
-      "traffic": "500+"
+      "keyword": "롯데 대 한화",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "폴더 블 스마트 폰",
-      "traffic": "200+"
+      "keyword": "두산 대 ssg",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "이적 시장",
-      "traffic": "100+"
+      "keyword": "키움 대 lg",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "그래 이혼 하자",
-      "traffic": "5000+"
+      "keyword": "김호중",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "기자회견하는 조경태 의원",
-      "state": "s",
-      "change": "0"
+      "keyword": "평택 미군기지 백린 누출 대피",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "김혜준 첫 로코 도전 기쁨",
-      "state": "s",
-      "change": "0"
+      "keyword": "부산까지 흔들린 일본 지진",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "포항 보릿돌교 붕괴 구조 17명",
+      "keyword": "개헌 관련 입장 표명",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "인천 쿠팡 물류센터 감식 진행",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "히가시노 게이고 사망 소식",
+      "keyword": "허범욱 감독 별세",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 5,
+      "keyword": "한일 정기전 부활 논의 활발",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "경찰 최영중 구속영장",
-      "state": "-",
-      "change": "1"
+      "keyword": "포항 보릿돌교 붕괴 사고",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 7,
-      "keyword": "허범욱 감독 별세",
-      "state": "s",
+      "keyword": "한미약품 2분기 영업익 급증",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "코스피 6000선 붕괴",
+      "keyword": "내년 중위소득 6.7% 인상",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이동경 K리그1 MVP",
-      "state": "-",
-      "change": "1"
+      "keyword": "관저 이전 의혹 조사",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "한화시스템 영업익 219% 증가",
-      "state": "s",
+      "keyword": "호프 나홍진 유병재 반응 궁금해",
+      "state": "n",
       "change": "0"
     }
   ]
