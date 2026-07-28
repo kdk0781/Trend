@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-28T21:16:54.951Z",
+  "updatedAt": "2026-07-28T22:18:14.163Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "에코프로",
-      "traffic": "200+"
+      "keyword": "tsmc",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "다우지수",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "백승호",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "흥국생명",
+      "keyword": "티엔엔터테인먼트",
       "traffic": "100+"
     },
     {
-      "rank": 5,
-      "keyword": "종합격투기",
+      "rank": 3,
+      "keyword": "브로드컴",
       "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "김경문",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "하이닉스 실적",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "중위소득",
-      "traffic": "5000+"
+      "keyword": "영화",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "대통령",
-      "traffic": "1000+"
+      "keyword": "skhy",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "아틀레티코 마드리드",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "sk그룹",
+      "keyword": "모리야스 하지메",
       "traffic": "200+"
     },
     {
+      "rank": 9,
+      "keyword": "롤 점검",
+      "traffic": "1000+"
+    },
+    {
       "rank": 10,
-      "keyword": "바가지요금",
+      "keyword": "청바지",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 브라질 비즈니스",
+      "keyword": "이재명 한-브라질 비즈니스",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "연합뉴스와 신진서 9단",
-      "state": "+",
-      "change": "3"
+      "keyword": "보완수사권 폐지 개정안 통과",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "보완수사권 폐지 개정안",
-      "state": "s",
+      "keyword": "연합뉴스와 인터뷰하는 신진서",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
       "keyword": "김태우 문희준 결혼생활 잔소리",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "구마모토 강진 쇼핑몰 붕괴 계속",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "최대풍속 55M 태풍 돌핀 한반도 접근",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "삼성 8득점 KIA 완파",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
-      "rank": 8,
+      "rank": 5,
+      "keyword": "태풍 돌핀 한반도 접近 가능성",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
       "keyword": "내일도 출근",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "구마모토 강진 쇼핑몰 붕괴 상황",
+      "state": "+",
+      "change": "9"
+    },
+    {
+      "rank": 8,
+      "keyword": "일본 지진에 부산 신고 760건",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "일본 지진 부산 신고 760건",
-      "state": "-",
-      "change": "2"
+      "keyword": "S스킨십으로 셋째 유혹?",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "내년 중위소득 692만원 인상",
+      "keyword": "AI 투자 불안 확산",
       "state": "n",
       "change": "0"
     }
