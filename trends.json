@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-28T20:04:12.786Z",
+  "updatedAt": "2026-07-28T21:16:54.951Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "황재균",
-      "traffic": "100+"
+      "keyword": "에코프로",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "애스턴 빌라 대 레알 소시에다드",
+      "keyword": "다우지수",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "중국",
-      "traffic": "500+"
+      "keyword": "백승호",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "김하성",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "열대야",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "레알마드리드",
+      "keyword": "흥국생명",
       "traffic": "100+"
     },
     {
-      "rank": 7,
-      "keyword": "롤렉스",
+      "rank": 5,
+      "keyword": "종합격투기",
       "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "중위소득",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "대통령",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "요시다 슈헤이",
-      "traffic": "200+"
+      "keyword": "아틀레티코 마드리드",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "기아 셀토스",
+      "keyword": "sk그룹",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "싸이",
-      "traffic": "200+"
+      "keyword": "바가지요금",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 대통령 동포간담회",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "두산 박준순, 역전 홈런!",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "보완수사권 폐지 개정안 통과",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "문희준 19KG 감량 도전",
+      "keyword": "이재명 브라질 비즈니스",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "구마모토 강진 쇼핑몰 붕괴 10명 연락두절",
+      "rank": 2,
+      "keyword": "연합뉴스와 신진서 9단",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 3,
+      "keyword": "보완수사권 폐지 개정안",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "김태우 문희준 결혼생활 잔소리",
       "state": "-",
       "change": "2"
     },
     {
-      "rank": 6,
-      "keyword": "페이스오브코리아 시니어 수상자",
+      "rank": 5,
+      "keyword": "구마모토 강진 쇼핑몰 붕괴 계속",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "김포 의왕 진천 투표 조작",
+      "rank": 6,
+      "keyword": "최대풍속 55M 태풍 돌핀 한반도 접근",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 7,
+      "keyword": "삼성 8득점 KIA 완파",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "현직 대통령 연임 국민 선택 문제",
+      "keyword": "내일도 출근",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "LG 키움 5-3 승리",
-      "state": "+",
-      "change": "1"
+      "keyword": "일본 지진 부산 신고 760건",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "김지연 쌍둥이 출산",
-      "state": "+",
-      "change": "1"
+      "keyword": "내년 중위소득 692만원 인상",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
