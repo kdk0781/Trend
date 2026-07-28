@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-28T22:18:14.163Z",
+  "updatedAt": "2026-07-28T23:17:49.727Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "tsmc",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "티엔엔터테인먼트",
+      "keyword": "노동자",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "환율",
+      "traffic": "1000+"
+    },
+    {
       "rank": 3,
-      "keyword": "브로드컴",
-      "traffic": "200+"
+      "keyword": "물",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "김경문",
-      "traffic": "500+"
+      "keyword": "aston villa vs real sociedad",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "하이닉스 실적",
-      "traffic": "500+"
+      "keyword": "ionq",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "영화",
-      "traffic": "2000+"
+      "keyword": "voo",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "skhy",
+      "keyword": "schd",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "모리야스 하지메",
-      "traffic": "200+"
+      "keyword": "다우 존스 산업평균지수",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "롤 점검",
-      "traffic": "1000+"
+      "keyword": "mu",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "청바지",
-      "traffic": "500+"
+      "keyword": "박문성",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 한-브라질 비즈니스",
+      "keyword": "이재명 대통령 상파울루",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "보완수사권 폐지 개정안 통과",
+      "keyword": "김혜경·다시우바 여사 행사 참석",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "연합뉴스와 인터뷰하는 신진서",
+      "keyword": "태풍 돌핀 세력 강화 중",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "인터뷰하는 신진서 9단",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "김태우 문희준 결혼생활 잔소리",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 5,
-      "keyword": "태풍 돌핀 한반도 접近 가능성",
-      "state": "s",
-      "change": "0"
+      "keyword": "문희준 19KG 감량 도전",
+      "state": "+",
+      "change": "12"
     },
     {
       "rank": 6,
-      "keyword": "내일도 출근",
-      "state": "s",
-      "change": "0"
+      "keyword": "보완수사권 폐지안 통과",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "구마모토 강진 쇼핑몰 붕괴 상황",
+      "keyword": "한·브라질 협력 기대 커져",
       "state": "+",
-      "change": "9"
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "일본 지진에 부산 신고 760건",
-      "state": "s",
-      "change": "0"
+      "keyword": "만치니 이탈리아 복귀",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "S스킨십으로 셋째 유혹?",
+      "keyword": "구마모토 강진 쇼핑몰 붕괴로 인명 피해",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "AI 투자 불안 확산",
+      "keyword": "홍명보, 자택 근처서 법카 1400만 원 사용",
       "state": "n",
       "change": "0"
     }
