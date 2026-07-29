@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-29T09:15:52.503Z",
+  "updatedAt": "2026-07-29T11:34:26.342Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "여행",
-      "traffic": "5000+"
+      "keyword": "윤경호",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "krx",
-      "traffic": "1000+"
+      "keyword": "어머니",
+      "traffic": "20000+"
     },
     {
       "rank": 3,
-      "keyword": "덤프 트럭",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "정유 라",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "000660",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "이한범",
+      "keyword": "킥보드",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "돈선태",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "파키스탄",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "보이콧",
+      "traffic": "5000+"
+    },
+    {
       "rank": 7,
-      "keyword": "lck",
+      "keyword": "국립목포대학교",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "슈퍼 태풍",
-      "traffic": "10000+"
+      "keyword": "김천상무 대 수원fc",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "르노 콜레오 스",
+      "keyword": "고양이",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "관광",
-      "traffic": "5000+"
+      "keyword": "김호령",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "삼성물산 2분기 영업익 증가",
-      "state": "s",
+      "keyword": "보완수사권 폐지 법사위 통과",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "정평 배우",
-      "state": "+",
-      "change": "2"
+      "keyword": "문근영 정평 결혼",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "디 올 뉴 아반떼 테크 데이",
+      "keyword": "오스틴 3년 연속 30홈런",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이물질 퇴장 김기중",
+      "keyword": "SK하이닉스 주가 급락",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "황정민 사생활 논란 지속",
-      "state": "+",
-      "change": "1"
+      "keyword": "호프 측, 황정민 의도적 가해 법적 조치",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "AIDC 얼라이언스 출범",
-      "state": "-",
-      "change": "1"
+      "keyword": "사격 국가대표, 실탄 보관 적발",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "법원, JTBC 회생 절차 보류 연장",
+      "keyword": "서인영 워터밤 앞두고 부작용 관리",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "부산 122년 만에 최고 기온",
-      "state": "n",
-      "change": "0"
+      "keyword": "고지용 이혼 후 허양임 흔적",
+      "state": "+",
+      "change": "10"
     },
     {
       "rank": 9,
-      "keyword": "법사위 항의 방문",
-      "state": "n",
-      "change": "0"
+      "keyword": "김태효 구속 기소 계엄 메시지",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "레버리지 ETF 폐지 촉구",
-      "state": "-",
-      "change": "1"
+      "keyword": "LG 웰스 투구",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
