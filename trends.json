@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-28T23:17:49.727Z",
+  "updatedAt": "2026-07-29T00:11:43.935Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "노동자",
-      "traffic": "100+"
+      "keyword": "강서구",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "환율",
+      "keyword": "코너 맥그리거",
       "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "물",
-      "traffic": "100+"
+      "keyword": "중국 축구 국가대표팀",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "aston villa vs real sociedad",
+      "keyword": "사업",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "ionq",
-      "traffic": "100+"
+      "keyword": "종합부동산세",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "voo",
+      "keyword": "wti",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "schd",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "다우 존스 산업평균지수",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "mu",
+      "keyword": "배종옥",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "msft",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "롤 패치노트",
+      "traffic": "1000+"
+    },
+    {
       "rank": 10,
-      "keyword": "박문성",
-      "traffic": "10000+"
+      "keyword": "오마이뉴스",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 대통령 상파울루",
+      "keyword": "SK하이닉스 2분기 최대 영업익",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김혜경·다시우바 여사 행사 참석",
+      "keyword": "김혜경·다시우바 여사 활동",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "내일도 출근 박지현!",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "태풍 돌핀 세력 강화 중",
+      "rank": 4,
+      "keyword": "만치니 이탈리아 복귀",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 4,
-      "keyword": "인터뷰하는 신진서 9단",
+      "rank": 5,
+      "keyword": "구마모토 쇼핑몰 2명 사망",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "문희준 19KG 감량 도전",
-      "state": "+",
-      "change": "12"
-    },
-    {
       "rank": 6,
-      "keyword": "보완수사권 폐지안 통과",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "한·브라질 협력 기대 커져",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "만치니 이탈리아 복귀",
+      "keyword": "이선빈 송지효 한솥밥",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 7,
+      "keyword": "일본 지진으로 흔들린 부산",
+      "state": "+",
+      "change": "5"
+    },
+    {
+      "rank": 8,
+      "keyword": "붉은 진주",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "구마모토 강진 쇼핑몰 붕괴로 인명 피해",
+      "keyword": "홍명보 법카 1400만원",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "홍명보, 자택 근처서 법카 1400만 원 사용",
-      "state": "n",
-      "change": "0"
+      "keyword": "24기 옥순",
+      "state": "+",
+      "change": "3"
     }
   ]
 }
