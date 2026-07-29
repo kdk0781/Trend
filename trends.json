@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-29T22:14:09.617Z",
+  "updatedAt": "2026-07-29T23:14:57.440Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "tsmc",
-      "traffic": "1000+"
+      "keyword": "재벌x형사",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "김도영",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "김용건",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "메타",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "허 경민",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "박현주",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "흥국생명",
+      "keyword": "tqqq",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "삼성전자 실적발표",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "msft",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "소방",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "atlético madrid vs getafe",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "파크 골프",
+      "traffic": "500+"
+    },
+    {
       "rank": 8,
-      "keyword": "태양광 발전",
+      "keyword": "메타 주가",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "지네딘 지단",
+      "keyword": "대한민국 과학기술정보통신부",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "한국농어촌공사",
-      "traffic": "200+"
+      "keyword": "오리올스 대 타이거스",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "연준 금리 5동결",
+      "keyword": "연준 5연속 금리 동결",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "성수대교 현장시험 오세훈",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
       "keyword": "정평 배우",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "이재명 대통령 칠레",
+      "rank": 3,
+      "keyword": "이재명, 칠레 방문",
       "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "태풍 돌핀 한반도 영향 분석",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "태풍 돌핀 북상 영향 주목",
-      "state": "+",
-      "change": "1"
+      "keyword": "문정빈 달아나는 솔로",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "LG 18-11 서건창 5안타",
+      "keyword": "韓 축구 큰 호재!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "전승재 뇌출혈로 별세",
+      "keyword": "하이닉스 주가 급락 40조 투자",
       "state": "+",
-      "change": "8"
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "고지용 이혼 뉴스",
-      "state": "n",
+      "keyword": "고지용 이혼 소식",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "구마모토 5.8 지진",
-      "state": "-",
-      "change": "1"
+      "keyword": "설영우, UCL 진출 도움",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "23안타 18득점 타선",
-      "state": "n",
-      "change": "0"
+      "keyword": "보완수사권 폐지 본회의 상정",
+      "state": "+",
+      "change": "3"
     }
   ]
 }
