@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-29T17:57:52.679Z",
+  "updatedAt": "2026-07-29T19:14:43.383Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "차영현",
-      "traffic": "100+"
+      "keyword": "미국 금리",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "허경민",
+      "keyword": "what is a data breach",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "글렌 한사드",
-      "traffic": "500+"
+      "keyword": "cryptocurrency trading",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "glen hansard",
-      "traffic": "200+"
+      "keyword": "best shows on hbo max",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "전북특별자치도지사",
-      "traffic": "500+"
+      "keyword": "when is daylight saving time",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "sadie sink",
+      "keyword": "upcoming meteor showers",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "최정원",
+      "keyword": "차영현",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "donald trump",
+      "keyword": "허경민",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "임금",
-      "traffic": "1000+"
+      "keyword": "mortgage rates today",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "노웨이홈",
-      "traffic": "200+"
+      "keyword": "글렌 한사드",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "보완수사권 법사위 통과",
-      "state": "n",
+      "keyword": "단일종목 레버리지 투자한도 설정",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "단일종목 레버리지 개인한도 설정",
+      "keyword": "김민석 정청래 대립",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "오스틴 3년 연속 30홈런",
+      "keyword": "오세훈 시장, 성수대교 시험",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "47세 임신 한다감 아들 공개",
+      "keyword": "김도영, 좌월 3점 홈런",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "오세훈 시장, 성수대교 점검",
+      "keyword": "47세 임신 한다감",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
       "keyword": "긴급 시장상황점검회의 구윤철",
-      "state": "s",
-      "change": "0"
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "서인영, 워터밤 앞두고 관리 고백",
+      "keyword": "문정빈, 달아나는 솔로",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "토론회 준비 중인 후보들",
+      "keyword": "정평 배우",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "KT 허경민, 헤드샷 병원 이송",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "LG 웰스 선발",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 10,
-      "keyword": "문정빈의 솔로포",
-      "state": "-",
+      "keyword": "토론회 준비하는 후보들",
+      "state": "+",
       "change": "1"
     }
   ]
