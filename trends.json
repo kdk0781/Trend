@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-29T15:22:20.811Z",
+  "updatedAt": "2026-07-29T16:46:42.363Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "차영현",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
+      "keyword": "글렌 한사드",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
       "keyword": "전북특별자치도지사",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 4,
+      "keyword": "sadie sink",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
       "keyword": "최정원",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 6,
+      "keyword": "donald trump",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
       "keyword": "임금",
       "traffic": "1000+"
     },
     {
-      "rank": 4,
-      "keyword": "선거법",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "원자력",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "키움",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "kiro",
-      "traffic": "100+"
-    },
-    {
       "rank": 8,
-      "keyword": "강재준",
+      "keyword": "노웨이홈",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "잠수함",
-      "traffic": "5000+"
+      "keyword": "선거법",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "spurs vs sydney fc",
+      "keyword": "원자력",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "단일종목 레버리지 개인 한도 설정",
-      "state": "+",
-      "change": "1"
+      "keyword": "보완수사권 폐지 법사위 통과",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "보완수사권 폐지 법사위 통과",
-      "state": "n",
+      "keyword": "단일종목 레버리지 한도 설정",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
       "keyword": "오스틴 3년 연속 30홈런",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "디 올 뉴 아반떼 테크 데이",
-      "state": "n",
+      "keyword": "황정민 사생활 의혹 호프 비상",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "오세훈 시장 성수대교 점검",
-      "state": "n",
+      "keyword": "오세훈 시장, 성수대교 점검",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "연임 개헌 파장 계속",
+      "keyword": "긴급 시장상황점검회의 구윤철",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "정평 배우",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "삼성물산 2분기 영업익 증가",
-      "state": "n",
+      "keyword": "김태효 전 구속기소",
+      "state": "s",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "설종진 감독 승리 이끌다",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 9,
-      "keyword": "이물질 퇴장 김기중",
-      "state": "n",
+      "keyword": "문정빈, 솔로포 도주",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "구윤철 부총리, 긴급 회의 주재",
-      "state": "n",
-      "change": "0"
+      "keyword": "47세 임신 아들 얼굴 공개",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
