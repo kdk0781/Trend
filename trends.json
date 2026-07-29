@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T19:14:43.383Z",
+  "updatedAt": "2026-07-29T20:17:52.265Z",
   "google": [
     {
       "rank": 1,
@@ -8,60 +8,60 @@
     },
     {
       "rank": 2,
-      "keyword": "what is a data breach",
+      "keyword": "latest iphone rumors",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "cryptocurrency trading",
+      "keyword": "stock market news today",
       "traffic": "100+"
     },
     {
       "rank": 4,
+      "keyword": "what is a data breach",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
       "keyword": "best shows on hbo max",
       "traffic": "100+"
     },
     {
-      "rank": 5,
-      "keyword": "when is daylight saving time",
-      "traffic": "100+"
-    },
-    {
       "rank": 6,
-      "keyword": "upcoming meteor showers",
+      "keyword": "cryptocurrency trading",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "차영현",
+      "keyword": "when is daylight saving time",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "허경민",
-      "traffic": "100+"
+      "keyword": "upcoming meteor showers",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "mortgage rates today",
+      "keyword": "김규성",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "글렌 한사드",
-      "traffic": "1000+"
+      "keyword": "차영현",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "단일종목 레버리지 투자한도 설정",
+      "keyword": "단일종목 레버리지 개인별 한도 설정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김민석 정청래 대립",
+      "keyword": "김민석 정청래 정치 공방",
       "state": "s",
       "change": "0"
     },
@@ -73,45 +73,45 @@
     },
     {
       "rank": 4,
-      "keyword": "김도영, 좌월 3점 홈런",
+      "keyword": "김도영 좌월 3점 홈런",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "47세 임신 한다감",
+      "keyword": "47세 임신 중 아들 공개",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "긴급 시장상황점검회의 구윤철",
+      "keyword": "이재명 대통령, 칠레 도착",
       "state": "+",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "문정빈, 달아나는 솔로",
-      "state": "s",
-      "change": "0"
+      "keyword": "5연속 금리 동결",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "정평 배우",
-      "state": "-",
-      "change": "2"
+      "keyword": "원스 주인공 오토바이 사고 사망",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "KT 허경민, 헤드샷 병원 이송",
+      "keyword": "서건창 5안타 대폭발",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "토론회 준비하는 후보들",
+      "keyword": "구마모토 5.8 지진",
       "state": "+",
-      "change": "1"
+      "change": "2"
     }
   ]
 }
