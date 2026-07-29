@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-29T00:11:43.935Z",
+  "updatedAt": "2026-07-29T03:42:27.869Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "강서구",
-      "traffic": "2000+"
+      "keyword": "네이마르",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "코너 맥그리거",
-      "traffic": "1000+"
+      "keyword": "kospi",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "중국 축구 국가대표팀",
-      "traffic": "200+"
+      "keyword": "이재명 지지율",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "사업",
-      "traffic": "100+"
+      "keyword": "하이닉스 주가",
+      "traffic": "20000+"
     },
     {
       "rank": 5,
-      "keyword": "종합부동산세",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "wti",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "배종옥",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "msft",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "롤 패치노트",
+      "keyword": "mc몽",
       "traffic": "1000+"
     },
     {
-      "rank": 10,
-      "keyword": "오마이뉴스",
+      "rank": 6,
+      "keyword": "코스피지수",
+      "traffic": "20000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "최준용",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "구자현",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
+      "keyword": "인버스",
       "traffic": "200+"
+    },
+    {
+      "rank": 10,
+      "keyword": "김용범",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "SK하이닉스 2분기 최대 영업익",
+      "keyword": "문근영, 정평과 결혼 후 새로운 삶 시작",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김혜경·다시우바 여사 활동",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "내일도 출근 박지현!",
+      "keyword": "국민의힘 장동혁 대표",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "만치니 이탈리아 복귀",
+      "rank": 3,
+      "keyword": "하이닉스 주가 약세",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 4,
+      "keyword": "기념메달 든 안세영",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 5,
-      "keyword": "구마모토 쇼핑몰 2명 사망",
+      "keyword": "허양임 아들 승재 사진 유지",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "국회 운영위 퇴장 의원",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "이관희 유시은 열애 7개월째",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "이선빈 송지효 한솥밥",
+      "rank": 8,
+      "keyword": "윤석열 변호사 자격 취소",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "일본 지진으로 흔들린 부산",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 8,
-      "keyword": "붉은 진주",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 9,
-      "keyword": "홍명보 법카 1400만원",
+      "keyword": "연임 개헌 불가능",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "24기 옥순",
-      "state": "+",
-      "change": "3"
+      "keyword": "구윤철 재정경제부 장관",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
