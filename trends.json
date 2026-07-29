@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T16:46:42.363Z",
+  "updatedAt": "2026-07-29T17:57:52.679Z",
   "google": [
     {
       "rank": 1,
@@ -8,60 +8,60 @@
     },
     {
       "rank": 2,
+      "keyword": "허경민",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
       "keyword": "글렌 한사드",
       "traffic": "500+"
     },
     {
-      "rank": 3,
-      "keyword": "전북특별자치도지사",
+      "rank": 4,
+      "keyword": "glen hansard",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "keyword": "전북특별자치도지사",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
       "keyword": "sadie sink",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "최정원",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "donald trump",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "임금",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "노웨이홈",
       "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "선거법",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "원자력",
-      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "보완수사권 폐지 법사위 통과",
-      "state": "s",
+      "keyword": "보완수사권 법사위 통과",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "단일종목 레버리지 한도 설정",
+      "keyword": "단일종목 레버리지 개인한도 설정",
       "state": "s",
       "change": "0"
     },
@@ -73,7 +73,7 @@
     },
     {
       "rank": 4,
-      "keyword": "황정민 사생활 의혹 호프 비상",
+      "keyword": "47세 임신 한다감 아들 공개",
       "state": "s",
       "change": "0"
     },
@@ -86,31 +86,31 @@
     {
       "rank": 6,
       "keyword": "긴급 시장상황점검회의 구윤철",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김태효 전 구속기소",
+      "keyword": "서인영, 워터밤 앞두고 관리 고백",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "설종진 감독 승리 이끌다",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "문정빈, 솔로포 도주",
-      "state": "s",
+      "keyword": "토론회 준비 중인 후보들",
+      "state": "n",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "47세 임신 아들 얼굴 공개",
+      "rank": 9,
+      "keyword": "LG 웰스 선발",
       "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 10,
+      "keyword": "문정빈의 솔로포",
+      "state": "-",
       "change": "1"
     }
   ]
