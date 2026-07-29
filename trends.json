@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-29T21:14:14.927Z",
+  "updatedAt": "2026-07-29T22:14:09.617Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "미군",
-      "traffic": "2000+"
+      "keyword": "tsmc",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "주가 대폭락",
+      "keyword": "김도영",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "농성",
+      "keyword": "김용건",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "이한 범",
-      "traffic": "500+"
+      "keyword": "메타",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "금리",
-      "traffic": "200+"
+      "keyword": "허 경민",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "stock market news today",
-      "traffic": "200+"
+      "keyword": "박현주",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "latest iphone rumors",
+      "keyword": "흥국생명",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "what is a data breach",
+      "keyword": "태양광 발전",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "best shows on hbo max",
-      "traffic": "200+"
+      "keyword": "지네딘 지단",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "cryptocurrency trading",
+      "keyword": "한국농어촌공사",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "오세훈 시장, 성수대교 시험",
-      "state": "n",
+      "keyword": "연준 금리 5동결",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "문정빈의 솔로포 도주",
-      "state": "+",
-      "change": "1"
+      "keyword": "성수대교 현장시험 오세훈",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
       "keyword": "정평 배우",
-      "state": "+",
-      "change": "2"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "연준 5연속 금리 동결",
+      "keyword": "이재명 대통령 칠레",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "김도영 좌월 3점 홈런",
-      "state": "-",
+      "keyword": "태풍 돌핀 북상 영향 주목",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "이재명 대통령 칠레",
+      "keyword": "LG 18-11 서건창 5안타",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "단일종목 레버리지 개인별 한도 설정",
-      "state": "-",
-      "change": "6"
+      "keyword": "전승재 뇌출혈로 별세",
+      "state": "+",
+      "change": "8"
     },
     {
       "rank": 8,
-      "keyword": "슈퍼태풍 영향 촉각",
+      "keyword": "고지용 이혼 뉴스",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김민석 정청래 정치 논쟁",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 10,
       "keyword": "구마모토 5.8 지진",
       "state": "-",
       "change": "1"
+    },
+    {
+      "rank": 10,
+      "keyword": "23안타 18득점 타선",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
