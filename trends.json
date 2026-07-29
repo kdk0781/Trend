@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-07-29T03:42:27.869Z",
+  "updatedAt": "2026-07-29T06:19:29.643Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "네이마르",
+      "keyword": "애플",
       "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "kospi",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "이재명 지지율",
+      "keyword": "양정원",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "르노 콜레오스",
+      "traffic": "500+"
+    },
+    {
       "rank": 4,
-      "keyword": "하이닉스 주가",
-      "traffic": "20000+"
+      "keyword": "태국",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "mc몽",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "코스피지수",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "최준용",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "구자현",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "인버스",
+      "keyword": "김나라",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "삼전주가",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "명예훼손",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "고우석",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "중국 반도체",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "김용범",
-      "traffic": "1000+"
+      "keyword": "여에스더",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "문근영, 정평과 결혼 후 새로운 삶 시작",
+      "keyword": "전승재 별세",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "국민의힘 장동혁 대표",
-      "state": "s",
-      "change": "0"
+      "keyword": "황정민 불륜",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "하이닉스 주가 약세",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "기념메달 든 안세영",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "허양임 아들 승재 사진 유지",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "국회 운영위 퇴장 의원",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "이관희 유시은 열애 7개월째",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "윤석열 변호사 자격 취소",
+      "keyword": "정평 배우",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 4,
+      "keyword": "SK하이닉스 주가 하락",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "농구스타 이관희, 유시은과 열애",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "이틀 연속 서킷브레이커",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "조이, 신곡 안무와 매력!",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "이정후 1안타 0.301 유지",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "연임 개헌 불가능",
+      "keyword": "HD한국조선해양 2분기 영업익 72.5%↑",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "구윤철 재정경제부 장관",
-      "state": "s",
+      "keyword": "아내 살해 90대 구속",
+      "state": "n",
       "change": "0"
     }
   ]
