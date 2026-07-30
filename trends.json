@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-07-30T17:50:28.275Z",
+  "updatedAt": "2026-07-30T19:12:23.430Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "microsoft",
-      "traffic": "500+"
+      "keyword": "rottach-egern 대 바이에른",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "rottach-egern 대 바이에른",
-      "traffic": "500+"
+      "keyword": "미확인 비행체",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
@@ -38,78 +38,78 @@
     },
     {
       "rank": 8,
-      "keyword": "마이크로소프트",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
       "keyword": "샌디스크 주가",
       "traffic": "200+"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "keyword": "대한민국 법무부",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 10,
+      "keyword": "비디디",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명과 카스트 정상회담",
+      "keyword": "이재명과 카스트 대통령 악수",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "최태원 SK하이닉스 주식 매수",
+      "keyword": "악수하는 한-칠레 정상",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "악수하는 한-칠레 정상",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
       "keyword": "임찬규 10승 달성",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "여자 2호의 감정폭발",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "2분기 성장률 1.5% 하회",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "이란 F-35 3대 파괴",
-      "state": "-",
-      "change": "6"
-    },
-    {
-      "rank": 8,
-      "keyword": "보완수사권 폐지 논란 남아",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "김도영 솔로 홈런",
+      "rank": 4,
+      "keyword": "여자 2호와 영수 데이트 중",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 5,
+      "keyword": "2분기 성장률 1.5% 하회",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "최태원 SK하이닉스 주식 매수",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 7,
+      "keyword": "첫 홀 버디 들어가라",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 8,
+      "keyword": "양평 식당 천장 붕괴 14명 부상",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "정평 배우",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 10,
-      "keyword": "양평식당 14명 부상",
+      "keyword": "태풍 루사 비극 전해져",
       "state": "n",
       "change": "0"
     }
