@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-30T12:24:37.825Z",
+  "updatedAt": "2026-07-30T14:38:59.332Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "미확인비행체",
-      "traffic": "500+"
+      "keyword": "비디디",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "sk하이닉스 주가 전망",
-      "traffic": "100+"
+      "keyword": "노웨이홈",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "산불",
-      "traffic": "2000+"
+      "keyword": "이도윤",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "간선급행버스체계",
-      "traffic": "100+"
+      "keyword": "치매",
+      "traffic": "5000+"
     },
     {
       "rank": 5,
-      "keyword": "진주남강유등축제",
+      "keyword": "krx",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "박맹우",
-      "traffic": "1000+"
+      "keyword": "언니네 산지직송3",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "페라리",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "허태정",
+      "keyword": "순천향대학교 의과대학",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "광역철도",
+      "traffic": "100+"
+    },
+    {
       "rank": 9,
-      "keyword": "농지",
-      "traffic": "5000+"
+      "keyword": "음료",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "예금",
-      "traffic": "1000+"
+      "keyword": "대한전선",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "최태원, SK하이닉스 주식 48억 매수",
+      "keyword": "홍명보 감독 청문회 논란",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김태군 3점 홈런",
+      "keyword": "최태원, SK하이닉스 주식 48억 매수",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "티파니 영 페스티벌 취소",
-      "state": "s",
+      "keyword": "보완수사권 폐지 법안 상정",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "오스틴 연속 홈런",
+      "keyword": "언니네 산지직송 3",
       "state": "+",
-      "change": "6"
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "전유경母 쇼호스트",
+      "keyword": "혐의 최영중 구속",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "한가인 연정훈 육아 고충 토로",
-      "state": "s",
+      "keyword": "북부 비행체 美 무인기",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "붉은 진주",
-      "state": "+",
-      "change": "2"
+      "keyword": "문근영 정평 결혼 소식",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "정몽규, 윤용근 문자 논란",
-      "state": "-",
-      "change": "3"
+      "keyword": "역전 홈런 송찬의!",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "성매매 혐의 구속",
+      "keyword": "황정민 정서적 착취",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "폭염과 태풍 돌핀",
-      "state": "+",
-      "change": "2"
+      "keyword": "정몽규 청문회 문자",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
