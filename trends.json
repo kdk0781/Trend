@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-30T03:31:09.565Z",
+  "updatedAt": "2026-07-30T06:09:37.635Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "유혜주",
-      "traffic": "200+"
+      "keyword": "sk하이닉스 주가",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "김석기",
+      "keyword": "코오롱그룹",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "손나은",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "신유열",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "배현진",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "인천해양경찰서",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "푸들",
+      "keyword": "리버풀 fc",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
-      "keyword": "레드삭스 대 애슬레틱스",
+      "rank": 4,
+      "keyword": "손 나은",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "의붓딸",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "엘지트윈스",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "국민건강보험공단",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "농협",
+      "traffic": "1000+"
+    },
+    {
       "rank": 9,
-      "keyword": "김민석",
-      "traffic": "5000+"
+      "keyword": "서수민",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "삼성전자 실적 발표",
-      "traffic": "5000+"
+      "keyword": "돌핀 태풍",
+      "traffic": "20000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "KT 개인정보유출 과징금",
-      "state": "+",
-      "change": "1"
+      "keyword": "LG전자 2분기 영업익 최대",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "홍명보 전 축구대표팀 감독",
-      "state": "+",
-      "change": "2"
+      "keyword": "대한축구협회 현안 청문회",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "삼성전자 2분기 영업익 89조",
+      "keyword": "유부녀 킬러 공효진 복귀",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "엑스 더 리그 시작합니다!",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "유혜주, 부친상 극복하고 재활동",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "하이닉스 주가 반등 기대",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "김준호 김지민 임신 발표",
+      "keyword": "여야, 선관위 특검 합의",
       "state": "-",
       "change": "3"
     },
     {
+      "rank": 5,
+      "keyword": "손흥민 MLS MVP 선정",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "김동관 수석부회장 승진",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "고지용, 이혼 후 회복 중",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "현대차그룹 권정현 영입",
-      "state": "s",
+      "keyword": "무섭노 사과 김선태에",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "6일 연속 순매수행진",
-      "state": "s",
-      "change": "0"
+      "keyword": "정평 배우",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "조현범 회장 가석방 출소",
-      "state": "+",
-      "change": "2"
+      "keyword": "KT 과징금 540억 부과",
+      "state": "-",
+      "change": "4"
     }
   ]
 }
