@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-30T00:12:26.348Z",
+  "updatedAt": "2026-07-30T03:31:09.565Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "liverpool vs wrexham",
+      "keyword": "유혜주",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "이정후",
-      "traffic": "5000+"
+      "keyword": "김석기",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "속초시",
+      "keyword": "손나은",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "경기도교육감",
+      "keyword": "신유열",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "군인",
-      "traffic": "2000+"
+      "keyword": "배현진",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "이청아",
+      "keyword": "인천해양경찰서",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "aapl",
-      "traffic": "100+"
+      "keyword": "푸들",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "이윤진",
+      "keyword": "레드삭스 대 애슬레틱스",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "장민호",
-      "traffic": "1000+"
+      "keyword": "김민석",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "서울양양고속도로",
-      "traffic": "200+"
+      "keyword": "삼성전자 실적 발표",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정평 배우",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "이재명 대통령 활동",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "문정빈 솔로포 달아남",
+      "keyword": "KT 개인정보유출 과징금",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 2,
+      "keyword": "홍명보 전 축구대표팀 감독",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 3,
+      "keyword": "삼성전자 2분기 영업익 89조",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 4,
-      "keyword": "최악의 태풍 피해자 애도",
+      "keyword": "엑스 더 리그 시작합니다!",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "유혜주, 부친상 극복하고 재활동",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "하이닉스 주가 반등 기대",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "김부장 손나은 소지섭 금 선물 보관",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "김호영, 문근영 결혼 축하",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 7,
-      "keyword": "FIFA 아르헨 징계 착수",
-      "state": "s",
-      "change": "0"
+      "keyword": "김준호 김지민 임신 발표",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "전승재, 2년 투병 후 별세",
+      "keyword": "현대차그룹 권정현 영입",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "하이닉스 주가 급락",
+      "keyword": "6일 연속 순매수행진",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "고지용 이혼 뭐?",
+      "keyword": "조현범 회장 가석방 출소",
       "state": "+",
-      "change": "3"
+      "change": "2"
     }
   ]
 }
