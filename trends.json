@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-07-30T20:35:40.373Z",
+  "updatedAt": "2026-07-30T21:45:39.818Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "오현규",
-      "traffic": "200+"
+      "keyword": "잠수함",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "김수미",
-      "traffic": "100+"
+      "keyword": "이지혜",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "rottach-egern 대 바이에른",
-      "traffic": "1000+"
+      "keyword": "포스코홀딩스",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "이영애",
-      "traffic": "1000+"
+      "keyword": "전기 자동차",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "sadie sink",
-      "traffic": "100+"
+      "keyword": "제네시스 gv90",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "ramayana trailer 2026",
-      "traffic": "100+"
+      "keyword": "이란",
+      "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "간선 급행 버스 체계",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "톰 홀랜드",
+      "keyword": "김원형",
       "traffic": "100+"
     },
     {
+      "rank": 8,
+      "keyword": "김재중",
+      "traffic": "500+"
+    },
+    {
       "rank": 9,
-      "keyword": "샌디스크 주가",
-      "traffic": "200+"
+      "keyword": "최준희",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "대한민국 법무부",
-      "traffic": "1000+"
+      "keyword": "오현규",
+      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -67,20 +67,20 @@
     },
     {
       "rank": 3,
-      "keyword": "임찬규 10승 선착",
-      "state": "n",
+      "keyword": "여자 2호 최종 커플 됩니다.",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "여자 2호의 눈물과 폭발",
-      "state": "s",
+      "keyword": "FIFA 대회 보이콧",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "2분기 성장률 1.5% 하회",
-      "state": "s",
+      "keyword": "김민석 더불어민주당 후보",
+      "state": "n",
       "change": "0"
     },
     {
@@ -91,25 +91,25 @@
     },
     {
       "rank": 7,
-      "keyword": "이도윤 끝내기 한화 역전승!",
+      "keyword": "청문회 접촉 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "태풍 루사 비극 출격",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "성매매 최영중 구속",
+      "keyword": "문근영, 정평과 결혼 소감",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 9,
+      "keyword": "김준호 김지민 임신 축하해!",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "황정민 A씨 폭로 논란",
+      "keyword": "여중생 성매매 최영중 구속",
       "state": "n",
       "change": "0"
     }
