@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-30T14:38:59.332Z",
+  "updatedAt": "2026-07-30T16:12:40.530Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "비디디",
+      "keyword": "간선 급행 버스 체계",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "노웨이홈",
-      "traffic": "200+"
+      "keyword": "톰 홀랜드",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "이도윤",
-      "traffic": "500+"
+      "keyword": "샌디스크 주가",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "치매",
-      "traffic": "5000+"
+      "keyword": "마이크로소프트",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
+      "keyword": "대한민국 법무부",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "비디디",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "노웨이홈",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "치매",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 9,
       "keyword": "krx",
       "traffic": "200+"
     },
     {
-      "rank": 6,
-      "keyword": "언니네 산지직송3",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "순천향대학교 의과대학",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "광역철도",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "음료",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "대한전선",
+      "keyword": "언니네 산지직송3",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "홍명보 감독 청문회 논란",
+      "keyword": "미셸 스틸 대사 입국 및 성명",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "최태원, SK하이닉스 주식 48억 매수",
+      "keyword": "최태원, SK하이닉스 48억 매수",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "보완수사권 폐지 법안 상정",
+      "keyword": "보완수사권 폐지 문제",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "언니네 산지직송 3",
+      "keyword": "임찬규 10승 달성",
       "state": "+",
-      "change": "2"
+      "change": "4"
     },
     {
       "rank": 5,
-      "keyword": "혐의 최영중 구속",
-      "state": "n",
-      "change": "0"
+      "keyword": "여자 2호, 감정 폭발했다",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "북부 비행체 美 무인기",
-      "state": "n",
-      "change": "0"
+      "keyword": "최영중 미성년자 성매매 구속",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "문근영 정평 결혼 소식",
+      "keyword": "아시안게임 탁구 미디어데이",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "역전 홈런 송찬의!",
-      "state": "s",
-      "change": "0"
+      "keyword": "미국 2분기 성장률 1.5% 하회",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "황정민 정서적 착취",
+      "keyword": "단일종목 레버리지 조치 시행",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "정몽규 청문회 문자",
+      "keyword": "있지 유나 고열로 입원",
       "state": "n",
       "change": "0"
     }
