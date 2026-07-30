@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-30T06:09:37.635Z",
+  "updatedAt": "2026-07-30T08:45:48.328Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "sk하이닉스 주가",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "코오롱그룹",
+      "keyword": "6세대 전투기",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "나는 솔로 32 기",
+      "traffic": "100+"
+    },
+    {
       "rank": 3,
-      "keyword": "리버풀 fc",
+      "keyword": "지붕",
       "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "손 나은",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "의붓딸",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "엘지트윈스",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "국민건강보험공단",
+      "keyword": "lg에너지솔루션",
       "traffic": "500+"
     },
     {
+      "rank": 5,
+      "keyword": "소방차",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "토지",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "남편",
+      "traffic": "20000+"
+    },
+    {
       "rank": 8,
-      "keyword": "농협",
-      "traffic": "1000+"
+      "keyword": "경제 성장",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "서수민",
-      "traffic": "1000+"
+      "keyword": "전투기",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "돌핀 태풍",
-      "traffic": "20000+"
+      "keyword": "원숭이",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "LG전자 2분기 영업익 최대",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "대한축구협회 현안 청문회",
+      "keyword": "미셸 스틸 입국 후 성명",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "선관위 특검법 통과",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 3,
-      "keyword": "유부녀 킬러 공효진 복귀",
+      "keyword": "보완수사권 폐지 법안 상정",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "여야, 선관위 특검 합의",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 5,
-      "keyword": "손흥민 MLS MVP 선정",
+      "keyword": "아시안게임 탁구 대표팀 훈련 공개",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "코스피 또 하락 마감",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "김동관 수석부회장 승진",
+      "keyword": "공효진 유부녀 킬러",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "고지용, 이혼 후 회복 중",
-      "state": "n",
+      "keyword": "케이뱅크 상반기 601억원 순익",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "무섭노 사과 김선태에",
+      "keyword": "미확인 비행체는 미국 무인기",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "정평 배우",
+      "keyword": "레버리지 ETF 아버지",
       "state": "-",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "KT 과징금 540억 부과",
-      "state": "-",
-      "change": "4"
+      "keyword": "2분기 역대 최대",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
