@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-30T16:12:40.530Z",
+  "updatedAt": "2026-07-30T17:50:28.275Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "microsoft",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
+      "keyword": "rottach-egern 대 바이에른",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "이영애",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "sadie sink",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "ramayana trailer 2026",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
       "keyword": "간선 급행 버스 체계",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 7,
       "keyword": "톰 홀랜드",
       "traffic": "100+"
     },
     {
-      "rank": 3,
-      "keyword": "샌디스크 주가",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
+      "rank": 8,
       "keyword": "마이크로소프트",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
-      "keyword": "대한민국 법무부",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "비디디",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "노웨이홈",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "치매",
-      "traffic": "10000+"
-    },
-    {
       "rank": 9,
-      "keyword": "krx",
+      "keyword": "샌디스크 주가",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "언니네 산지직송3",
+      "keyword": "대한민국 법무부",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "미셸 스틸 대사 입국 및 성명",
+      "keyword": "이재명과 카스트 정상회담",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "최태원, SK하이닉스 48억 매수",
-      "state": "+",
-      "change": "2"
+      "keyword": "최태원 SK하이닉스 주식 매수",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "보완수사권 폐지 문제",
-      "state": "n",
-      "change": "0"
+      "keyword": "악수하는 한-칠레 정상",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
       "keyword": "임찬규 10승 달성",
-      "state": "+",
-      "change": "4"
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "여자 2호, 감정 폭발했다",
-      "state": "+",
-      "change": "1"
+      "keyword": "여자 2호의 감정폭발",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "최영중 미성년자 성매매 구속",
-      "state": "+",
-      "change": "1"
+      "keyword": "2분기 성장률 1.5% 하회",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "아시안게임 탁구 미디어데이",
-      "state": "n",
-      "change": "0"
+      "keyword": "이란 F-35 3대 파괴",
+      "state": "-",
+      "change": "6"
     },
     {
       "rank": 8,
-      "keyword": "미국 2분기 성장률 1.5% 하회",
+      "keyword": "보완수사권 폐지 논란 남아",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "김도영 솔로 홈런",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "단일종목 레버리지 조치 시행",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 10,
-      "keyword": "있지 유나 고열로 입원",
+      "keyword": "양평식당 14명 부상",
       "state": "n",
       "change": "0"
     }
