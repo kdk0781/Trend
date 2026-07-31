@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-07-31T21:47:40.952Z",
+  "updatedAt": "2026-07-31T22:43:57.371Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "노소영",
-      "traffic": "1000+"
+      "keyword": "방탄소년단",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "마이클 버리",
+      "keyword": "nvda",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "아성다이소",
-      "traffic": "500+"
+      "keyword": "폴더 블 스마트 폰",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "염정아",
-      "traffic": "100+"
+      "keyword": "s&p 500",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "엔비디아 주가",
-      "traffic": "100+"
+      "keyword": "vix",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "사기",
+      "keyword": "tqqq",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "아틀레티코 마드리드",
-      "traffic": "2000+"
+      "keyword": "서인영",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "대통령",
+      "keyword": "삼성전기",
       "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "주식시장",
-      "traffic": "2000+"
+      "keyword": "전원주",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "birmingham vs barcelona",
-      "traffic": "1000+"
+      "keyword": "mu",
+      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -57,59 +57,59 @@
       "rank": 1,
       "keyword": "청룡 시리즈 어워즈",
       "state": "+",
-      "change": "8"
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "김혜경 국악 탱고 공연",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "이재명 아르헨티나 대통령",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "1위 삼성, 2위 KT",
-      "state": "+",
-      "change": "12"
-    },
-    {
-      "rank": 5,
-      "keyword": "태풍 돌핀 북상 중 폭염 경고",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "스페인 이주민 난입 문제",
+      "keyword": "김혜경 여사, 국악과 탱고 관람",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "트럼프 이란 강타할 것",
+      "rank": 3,
+      "keyword": "내년부터 아르헨 원유 수입",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "태풍 돌핀과 폭염",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "김고은, 대상 품고 눈물",
       "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "김부장과 남실장 이동하",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "호르무즈 기여 방안 검토 중",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "취사병 작품상 박지훈 감사해",
-      "state": "+",
-      "change": "10"
-    },
-    {
-      "rank": 9,
-      "keyword": "최길수 성범죄 변호",
+      "keyword": "신민아 등장에 이광수 민망해!",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "스페인 이주민 모로코 송환",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 10,
-      "keyword": "정몽규 문자 사과 안 해요",
+      "keyword": "특별감찰관 최길수 성범죄 변호",
       "state": "n",
       "change": "0"
     }
