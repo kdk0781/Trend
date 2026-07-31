@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-30T23:43:47.319Z",
+  "updatedAt": "2026-07-31T01:15:17.497Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "나는 solo, 그 후 사랑은 계속된다",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "전지",
+      "keyword": "매수 사이드카",
       "traffic": "1000+"
     },
     {
+      "rank": 2,
+      "keyword": "삼전 주가",
+      "traffic": "200+"
+    },
+    {
       "rank": 3,
-      "keyword": "박서진",
-      "traffic": "2000+"
+      "keyword": "에릭 라우어",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "leopold aschenbrenner",
+      "keyword": "미래에셋증권",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "rottach-egern vs bayern",
-      "traffic": "100+"
+      "keyword": "해고",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "야구",
-      "traffic": "2000+"
+      "keyword": "송강호",
+      "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "최태원 매수",
-      "traffic": "2000+"
+      "keyword": "달러",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "sndk",
+      "keyword": "학교 폭력",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "지역화폐",
-      "traffic": "200+"
+      "keyword": "염정아",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "xrp 레저",
-      "traffic": "1000+"
+      "keyword": "아마존 실적발표",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김세인, 유흥주점 충격 이유",
+      "keyword": "김세인, 생계 위해 연예계 떠남",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "소지섭 김부장 시즌2 기대돼",
-      "state": "s",
-      "change": "0"
+      "keyword": "코스피 매수 사이드카 발동",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 3,
-      "keyword": "한-칠레 비즈니스 라운드테이블",
+      "keyword": "6월 생산·소비·투자 증가",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "태풍 견딘 제주 감귤하우스",
+      "keyword": "폭염·가뭄 점검회의",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 5,
+      "keyword": "구윤철 부총리 회의 발언",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "6월 트리플 증가",
+      "rank": 6,
+      "keyword": "김민하, 부산국제영화제 개막식 단독 MC",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "유해란, AIG 오픈 공동 2위",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "유해란 AIG 공동 2위",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "keyword": "트럼프 하마스 무장해제 합의",
       "state": "-",
       "change": "3"
     },
     {
-      "rank": 8,
-      "keyword": "김준호♥김지민 임신 축하!",
+      "rank": 9,
+      "keyword": "소지섭 조은정 첫 만남 영상",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "나솔사계 26기 영철과 여자 4호",
-      "state": "-",
-      "change": "2"
-    },
-    {
       "rank": 10,
-      "keyword": "정몽규 고개 숙임",
-      "state": "-",
-      "change": "4"
+      "keyword": "현대차 칠레 순찰차 기증",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
