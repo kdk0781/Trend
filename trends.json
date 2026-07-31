@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-31T18:00:11.225Z",
+  "updatedAt": "2026-07-31T19:46:43.961Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "어벤져스",
+      "keyword": "주식시장",
       "traffic": "200+"
     },
     {
       "rank": 2,
+      "keyword": "birmingham vs barcelona",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "버밍엄 대 바르셀로나",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "사극",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
       "keyword": "디즈니",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "keyword": "제주항공",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "keyword": "thứ hạng của đội tuyển bóng đá quốc gia việt nam gặp đội tuyển bóng đá quốc gia singapore",
       "traffic": "2000+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "데드캣",
       "traffic": "1000+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "넥슨",
       "traffic": "500+"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "keyword": "복도",
       "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "덕분",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "이선민",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "코스피 야간선물",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "청룡시리즈어워즈 참석한 대표",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "이재명 대통령과 하비에르",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 3,
-      "keyword": "박진만 300승 달성",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "구자현 검찰총장 직무대행",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 5,
-      "keyword": "제주 허재원 바이에른 임대",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "폭염 속 록의 열기",
+      "keyword": "대통령과 아르헨티나 대통령",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "장윤기 형사과장 영장 기각",
+      "rank": 2,
+      "keyword": "청룡 시리즈 어워즈",
       "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 3,
+      "keyword": "박진만 감독 300승 달성",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "장윤기 사건 구속영장 기각",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "휴가철 음주운전 특별단속",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 6,
+      "keyword": "김대한 두산 승리",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "최악의 폭염 온다, 태풍 불어와",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "한·아르헨 정상 기념촬영",
-      "state": "s",
-      "change": "0"
+      "keyword": "보완수사권 폐지 통과",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "2026 락 페스티벌 개최",
+      "keyword": "박보경 여우조연상 수상, 진선규 눈물",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김대한 홈런 2방으로 승리",
-      "state": "+",
-      "change": "3"
+      "keyword": "스페인 이주민 난입 사태",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
