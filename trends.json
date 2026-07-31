@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-31T14:40:15.584Z",
+  "updatedAt": "2026-07-31T16:21:41.511Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "제이쓴",
-      "traffic": "500+"
+      "keyword": "복도",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "박지현",
+      "keyword": "덕분",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "유칼",
+      "keyword": "이선민",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "마니산",
-      "traffic": "500+"
+      "keyword": "코스피 야간선물",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "테더",
+      "keyword": "김혜준",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "김원훈",
+      "keyword": "은중과 상연",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "장윤기",
-      "traffic": "100+"
+      "keyword": "허수아비",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "주우재",
-      "traffic": "100+"
+      "keyword": "제이쓴",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "입법고시",
+      "keyword": "박지현",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "정유시설",
+      "keyword": "유칼",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "청룡 시리즈 어워즈",
+      "keyword": "구자현 검찰총장 직무대행",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "유부녀 킬러 드라마",
-      "state": "+",
-      "change": "1"
+      "keyword": "청룡 시리즈 어워즈",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "폭염 최고 기록 41.4도",
-      "state": "n",
+      "keyword": "리센느 미나미 시구 성공적!",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "돈선태 김선태 자진하차",
-      "state": "n",
+      "keyword": "이재명 대통령과 하비에르",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "최태원 하이닉스 49억 매수",
-      "state": "-",
+      "keyword": "SK실트론 두산 매각",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "최길수 성범죄 변호",
-      "state": "n",
-      "change": "0"
+      "keyword": "박진만 감독 300승 달성",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "외국인 매수 급증",
-      "state": "n",
-      "change": "0"
+      "keyword": "폭염 속 여러 사건",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "박보경과 진선규 부부",
+      "keyword": "롯데카드 1.5개월 정지",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "경산 아파트 방화 사망자 2명",
-      "state": "n",
-      "change": "0"
+      "keyword": "첫 홀 버디 성공",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "이재명 대통령 방문",
-      "state": "n",
-      "change": "0"
+      "keyword": "제주 허재원 임대",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
