@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-31T07:36:03.834Z",
+  "updatedAt": "2026-07-31T10:10:30.179Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "귀신",
+      "keyword": "괴산군",
       "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "키옥시아",
-      "traffic": "5000+"
+      "keyword": "예금",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "안선영",
+      "keyword": "정념",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "하이닉스 채용",
-      "traffic": "200+"
+      "keyword": "암호화폐",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "죽음",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "구마유시",
+      "keyword": "대학 입시",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "휴림로봇",
+      "traffic": "100+"
+    },
+    {
       "rank": 7,
-      "keyword": "손주",
-      "traffic": "2000+"
+      "keyword": "이소영",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "장동주",
-      "traffic": "2000+"
+      "keyword": "로베르토 데 제르비",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "매머드",
+      "keyword": "비상 착륙",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "프랑코 바레시",
+      "keyword": "제주시장",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "최길수 변호사 특별감찰관 추천",
-      "state": "s",
-      "change": "0"
+      "keyword": "구자현 직무대행 사의 표명",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 2,
-      "keyword": "내 남은 사랑",
-      "state": "s",
-      "change": "0"
+      "keyword": "보완수사권 폐지 통과",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "SK하이닉스 장중 상한가 171만8000원",
-      "state": "+",
+      "keyword": "21기 옥순",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "양산 41.4도 폭염",
-      "state": "+",
+      "keyword": "SK하이닉스 주가 급등과 최태원 매수",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "쿠팡 개인정보 배상 결정",
-      "state": "n",
-      "change": "0"
+      "keyword": "리센느 미나미, 시구 연습 중",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "코스피 폭등 마감",
-      "state": "n",
-      "change": "0"
+      "keyword": "28기 영자 영철 이혼 원치 않아",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "이정후, 통산 300안타 달성",
+      "keyword": "롯데카드 1.5개월 과징금",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "김선태, 돈선태 자진 하차",
-      "state": "+",
-      "change": "3"
+      "keyword": "SK실트론 두산 매각",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "수출되는 삼전닉스 반도체",
-      "state": "-",
-      "change": "2"
+      "keyword": "오세훈 시장의 뚝섬 상인 간담회",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "한온시스템 2분기 영업익 61%↑",
-      "state": "n",
-      "change": "0"
+      "keyword": "김현정 부대표 빌보드 선정",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
