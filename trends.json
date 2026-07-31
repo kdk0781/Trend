@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-07-31T22:43:57.371Z",
+  "updatedAt": "2026-07-31T23:44:03.032Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "방탄소년단",
-      "traffic": "2000+"
+      "keyword": "넬리 코다",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "nvda",
-      "traffic": "100+"
+      "keyword": "복권",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "폴더 블 스마트 폰",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "s&p 500",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "vix",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "tqqq",
+      "keyword": "휴머노이드 로봇",
       "traffic": "100+"
     },
     {
-      "rank": 7,
-      "keyword": "서인영",
+      "rank": 4,
+      "keyword": "대구 도시철도 1호선",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "경제",
       "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "파리 생제르맹 fc",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "화재",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "삼성전기",
-      "traffic": "1000+"
+      "keyword": "인천 도시철도 2호선",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "전원주",
-      "traffic": "1000+"
+      "keyword": "과일",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "mu",
+      "keyword": "농협은행",
       "traffic": "200+"
     }
   ],
@@ -56,60 +56,60 @@
     {
       "rank": 1,
       "keyword": "청룡 시리즈 어워즈",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김혜경 여사, 국악과 탱고 관람",
-      "state": "+",
-      "change": "1"
+      "keyword": "이재명 부에노스아이레스 간담회",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "내년부터 아르헨 원유 수입",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
       "keyword": "태풍 돌핀과 폭염",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "김부장, ♥박소진 내조로 행복해",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "김고은, 대상 품고 눈물",
+      "keyword": "코르티스 美 빌보드 선정",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김부장과 남실장 이동하",
-      "state": "n",
-      "change": "0"
+      "keyword": "김고은 기회 달라 호소와 박보경 오열 소감",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "호르무즈 기여 방안 검토 중",
+      "keyword": "나 혼자 산다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "신민아 등장에 이광수 민망해!",
+      "keyword": "유재석과의 변화",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 9,
+      "keyword": "무드리크 즉시 복귀",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "스페인 이주민 모로코 송환",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 10,
-      "keyword": "특별감찰관 최길수 성범죄 변호",
+      "keyword": "허재원 뮌헨 임대 이적",
       "state": "n",
       "change": "0"
     }
