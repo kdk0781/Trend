@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-31T01:15:17.497Z",
+  "updatedAt": "2026-07-31T04:43:46.591Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "매수 사이드카",
-      "traffic": "1000+"
+      "keyword": "포모",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "삼전 주가",
+      "keyword": "수에즈",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "에릭 라우어",
-      "traffic": "1000+"
+      "keyword": "정우주",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "미래에셋증권",
-      "traffic": "100+"
+      "keyword": "노동 시간",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "해고",
-      "traffic": "200+"
+      "keyword": "의료법",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "송강호",
-      "traffic": "5000+"
+      "keyword": "주차",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "달러",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "학교 폭력",
+      "keyword": "세우타",
       "traffic": "100+"
     },
     {
+      "rank": 8,
+      "keyword": "에릭 라우 어",
+      "traffic": "5000+"
+    },
+    {
       "rank": 9,
-      "keyword": "염정아",
-      "traffic": "500+"
+      "keyword": "고소",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "아마존 실적발표",
-      "traffic": "200+"
+      "keyword": "체포",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김세인, 생계 위해 연예계 떠남",
-      "state": "s",
-      "change": "0"
+      "keyword": "카카오뱅크 노조 파업",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "코스피 매수 사이드카 발동",
-      "state": "+",
-      "change": "4"
+      "keyword": "2Q26 REVIEW 목표가",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "6월 생산·소비·투자 증가",
-      "state": "n",
+      "keyword": "최준용 부상으로 제외",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "폭염·가뭄 점검회의",
+      "keyword": "김민석 후보 활동",
       "state": "+",
-      "change": "4"
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "구윤철 부총리 회의 발언",
-      "state": "-",
+      "keyword": "명예훼손 모스탄 출국정지",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "김민하, 부산국제영화제 개막식 단독 MC",
-      "state": "+",
+      "keyword": "대통령 아르헨티나 도착",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "유해란, AIG 오픈 공동 2위",
-      "state": "n",
-      "change": "0"
+      "keyword": "장윤기 사건 형사과장 구속심사",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "트럼프 하마스 무장해제 합의",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 9,
-      "keyword": "소지섭 조은정 첫 만남 영상",
+      "keyword": "일본 금리",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "현대차 칠레 순찰차 기증",
+      "rank": 9,
+      "keyword": "권유리, SM 떠나도 소녀시대 활동은 계속",
       "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "SK하이닉스 주가 급락 대응",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
