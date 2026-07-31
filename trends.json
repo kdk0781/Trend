@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-31T04:43:46.591Z",
+  "updatedAt": "2026-07-31T07:36:03.834Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "포모",
-      "traffic": "100+"
+      "keyword": "귀신",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "수에즈",
-      "traffic": "200+"
+      "keyword": "키옥시아",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "정우주",
+      "keyword": "안선영",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "노동 시간",
-      "traffic": "1000+"
+      "keyword": "하이닉스 채용",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "의료법",
-      "traffic": "500+"
+      "keyword": "죽음",
+      "traffic": "10000+"
     },
     {
       "rank": 6,
-      "keyword": "주차",
-      "traffic": "1000+"
+      "keyword": "구마유시",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "세우타",
-      "traffic": "100+"
+      "keyword": "손주",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "에릭 라우 어",
-      "traffic": "5000+"
+      "keyword": "장동주",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "고소",
-      "traffic": "1000+"
+      "keyword": "매머드",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "체포",
-      "traffic": "1000+"
+      "keyword": "프랑코 바레시",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "카카오뱅크 노조 파업",
-      "state": "+",
-      "change": "1"
+      "keyword": "최길수 변호사 특별감찰관 추천",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "2Q26 REVIEW 목표가",
-      "state": "n",
+      "keyword": "내 남은 사랑",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "최준용 부상으로 제외",
-      "state": "s",
-      "change": "0"
+      "keyword": "SK하이닉스 장중 상한가 171만8000원",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "김민석 후보 활동",
+      "keyword": "양산 41.4도 폭염",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "명예훼손 모스탄 출국정지",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "대통령 아르헨티나 도착",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "장윤기 사건 형사과장 구속심사",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "일본 금리",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "권유리, SM 떠나도 소녀시대 활동은 계속",
+      "keyword": "쿠팡 개인정보 배상 결정",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "SK하이닉스 주가 급락 대응",
+      "rank": 6,
+      "keyword": "코스피 폭등 마감",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "이정후, 통산 300안타 달성",
       "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "김선태, 돈선태 자진 하차",
+      "state": "+",
       "change": "3"
+    },
+    {
+      "rank": 9,
+      "keyword": "수출되는 삼전닉스 반도체",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 10,
+      "keyword": "한온시스템 2분기 영업익 61%↑",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
