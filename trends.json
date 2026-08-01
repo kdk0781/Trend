@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-01T14:40:31.179Z",
+  "updatedAt": "2026-08-01T15:43:26.588Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "mutv",
+      "keyword": "uap",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "옥수수 버거",
+      "keyword": "아옳이",
       "traffic": "200+"
     },
     {
       "rank": 3,
+      "keyword": "하비에르 아기레",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "mutv",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "맨유 아틀레티코",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "옥수수 버거",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
       "keyword": "당대표",
       "traffic": "10000+"
     },
     {
-      "rank": 4,
+      "rank": 8,
       "keyword": "lck",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "keyword": "시바이누코인",
       "traffic": "100+"
     },
     {
-      "rank": 6,
-      "keyword": "수원삼성",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
+      "rank": 10,
       "keyword": "원자력",
       "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "표승주",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "원이 논란",
-      "traffic": "500+"
-    },
-    {
-      "rank": 10,
-      "keyword": "로또1235",
-      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "결혼의 국면 변화",
-      "state": "s",
-      "change": "0"
+      "keyword": "김민석 정청래 송영길 경선 결과",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "첫 경선 김민석 승리",
+      "keyword": "결혼의 완성 또 다른 국면",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "권영진 탈당 없다",
-      "state": "n",
+      "keyword": "카라스코 7이닝 퍼펙트 무승부",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "유부녀 킬러 드라마",
-      "state": "+",
-      "change": "1"
+      "keyword": "동해 삼화사 화재 발생",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "카라스코 7이닝 완벽투",
+      "keyword": "아옳이 한의사 김형배 공개",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "그것이 알고 싶다",
+      "keyword": "극한 더위와 태풍 돌핀",
       "state": "+",
-      "change": "4"
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "윤한홍 공사 현장 점검 진술",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "아옳이, 한의사 김형배 공개",
+      "keyword": "유부녀 킬러 드라마",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 8,
+      "keyword": "소지섭 눈빛으로 감동",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "충주 찰옥수수버거 판매 종료",
-      "state": "s",
-      "change": "0"
+      "keyword": "항의하는 김원형 감독",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "로또 당첨지역",
-      "state": "-",
-      "change": "2"
+      "keyword": "주상욱 아빠 방식 잘못돼",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
