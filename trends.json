@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-01T09:22:05.212Z",
+  "updatedAt": "2026-08-01T10:54:54.252Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "박현호",
-      "traffic": "5000+"
+      "keyword": "파울루 벤투",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "국채",
-      "traffic": "1000+"
+      "keyword": "문희준",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "이수지",
-      "traffic": "1000+"
+      "keyword": "짐머맨",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "아중저수지",
-      "traffic": "1000+"
+      "keyword": "민주당 전당대회",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "멸망전",
-      "traffic": "500+"
+      "keyword": "보험",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "what is a data breach",
-      "traffic": "100+"
+      "keyword": "재난",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "대한민국 해양수산부",
-      "traffic": "100+"
+      "keyword": "전북 대 fc 서울",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "이언주",
-      "traffic": "10000+"
+      "keyword": "카라스코",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "mlb",
-      "traffic": "500+"
+      "keyword": "첼시 토트넘",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "경상북도",
-      "traffic": "200+"
+      "keyword": "ตรวจหวย",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정견 발표하는 후보",
-      "state": "s",
-      "change": "0"
+      "keyword": "유부녀 킬러 드라마",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "동해 삼화사 화재 발생",
-      "state": "+",
-      "change": "2"
+      "keyword": "더불어민주당 최고위원 후보",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김수지 KLPGA 오로라월드",
+      "keyword": "카라스코 KBO 첫 등판",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이수지 재선거 논란 사과",
+      "keyword": "신효범, 데뷔 39년 되다",
       "state": "+",
-      "change": "3"
+      "change": "6"
     },
     {
       "rank": 5,
-      "keyword": "청룡 시리즈 어워즈",
-      "state": "+",
-      "change": "1"
+      "keyword": "동해 삼화사 템플스테이",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "사랑이 온다",
-      "state": "+",
-      "change": "1"
+      "keyword": "청룡 시리즈 어워즈",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "부산 창원 경기 취소",
-      "state": "-",
-      "change": "4"
+      "keyword": "박미경에 밀린 채연",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "치료제 없는 에볼라 1500명 사망",
+      "keyword": "이주헌, 선취 2루타",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "옥택연 부러지는 소리",
+      "keyword": "불후의 명곡",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "유재석, 세금 최초 납부 공개",
-      "state": "n",
-      "change": "0"
+      "keyword": "사랑이 온다",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
