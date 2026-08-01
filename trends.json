@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-31T23:44:03.032Z",
+  "updatedAt": "2026-08-01T01:16:09.507Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "넬리 코다",
-      "traffic": "1000+"
+      "keyword": "구성환",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "복권",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "휴머노이드 로봇",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "대구 도시철도 1호선",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "경제",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "파리 생제르맹 fc",
+      "keyword": "서울역",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "동맹",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "하주석",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "한국여자바둑리그",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "자오즈민",
+      "traffic": "5000+"
+    },
+    {
       "rank": 7,
-      "keyword": "화재",
+      "keyword": "박미선",
       "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "인천 도시철도 2호선",
+      "keyword": "손태진",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "과일",
-      "traffic": "5000+"
+      "keyword": "기후동행카드",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "농협은행",
-      "traffic": "200+"
+      "keyword": "임신",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "청룡 시리즈 어워즈",
-      "state": "s",
+      "keyword": "7월 수출 역대 2위",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이재명 부에노스아이레스 간담회",
-      "state": "s",
+      "keyword": "청룡 시리즈 어워즈",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "태풍 돌핀과 폭염",
-      "state": "s",
-      "change": "0"
+      "keyword": "유해란 AIG 오픈 2R 단독 선두",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "김부장, ♥박소진 내조로 행복해",
+      "keyword": "무드리크 도핑 징계 종료",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "코르티스 美 빌보드 선정",
+      "keyword": "베트남, 싱가포르 무승부",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김고은 기회 달라 호소와 박보경 오열 소감",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "나 혼자 산다",
-      "state": "s",
+      "keyword": "박현호 축의금 갈등",
+      "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "유재석과의 변화",
+      "rank": 7,
+      "keyword": "이스라엘 이란 공습 계획",
       "state": "-",
-      "change": "3"
+      "change": "4"
+    },
+    {
+      "rank": 8,
+      "keyword": "팔 자르고 산재 1억 보상",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "무드리크 즉시 복귀",
+      "keyword": "박미선 복귀했더니 악플 눈물",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "허재원 뮌헨 임대 이적",
-      "state": "n",
-      "change": "0"
+      "keyword": "태풍 경로 변수",
+      "state": "+",
+      "change": "9"
     }
   ]
 }
