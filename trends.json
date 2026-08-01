@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-01T13:10:28.701Z",
+  "updatedAt": "2026-08-01T14:40:31.179Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "로또1235",
-      "traffic": "10000+"
+      "keyword": "mutv",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "젠지",
+      "keyword": "옥수수 버거",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "짐쌀라비움",
-      "traffic": "100+"
+      "keyword": "당대표",
+      "traffic": "10000+"
     },
     {
       "rank": 4,
-      "keyword": "창원시",
-      "traffic": "500+"
+      "keyword": "lck",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "정해인",
-      "traffic": "200+"
+      "keyword": "시바이누코인",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "문현빈",
+      "keyword": "수원삼성",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "프로 야구",
-      "traffic": "100+"
+      "keyword": "원자력",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "첼시 대 토트넘",
-      "traffic": "10000+"
+      "keyword": "표승주",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "인터뷰",
-      "traffic": "100+"
+      "keyword": "원이 논란",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "tennis scores today",
-      "traffic": "100+"
+      "keyword": "로또1235",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "사랑이 온다",
+      "keyword": "결혼의 국면 변화",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김민석 정청래 송영길 경선 결과",
+      "keyword": "첫 경선 김민석 승리",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "신효범, 39년 데뷔 소감",
-      "state": "s",
+      "keyword": "권영진 탈당 없다",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
       "keyword": "유부녀 킬러 드라마",
-      "state": "s",
-      "change": "0"
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "카라스코 7이닝 퍼펙트",
+      "keyword": "카라스코 7이닝 완벽투",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "옥순, 광수와 프러포즈 럽스타 시작",
-      "state": "n",
-      "change": "0"
+      "keyword": "그것이 알고 싶다",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "박미경 앞 막내 채연 애교",
-      "state": "s",
+      "keyword": "윤한홍 공사 현장 점검 진술",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "항의하는 김원형 감독",
-      "state": "n",
-      "change": "0"
+      "keyword": "아옳이, 한의사 김형배 공개",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "한강에서 밤핑 즐기기",
-      "state": "n",
+      "keyword": "충주 찰옥수수버거 판매 종료",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "뚝도시장 숯불불고기 맛",
-      "state": "+",
-      "change": "1"
+      "keyword": "로또 당첨지역",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
