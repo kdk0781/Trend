@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-08-01T18:36:27.577Z",
+  "updatedAt": "2026-08-01T19:48:58.202Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "한서희",
-      "traffic": "100+"
+      "keyword": "latest iphone rumors",
+      "traffic": "200+"
     },
     {
       "rank": 2,
       "keyword": "아스날",
-      "traffic": "200+"
+      "traffic": "500+"
     },
     {
       "rank": 3,
@@ -48,14 +48,14 @@
     },
     {
       "rank": 10,
-      "keyword": "옥수수 버거",
-      "traffic": "500+"
+      "keyword": "맨유 아틀레티코",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "첫 경선 김민석 승리",
+      "keyword": "유부녀 킬러 드라마",
       "state": "s",
       "change": "0"
     },
@@ -67,51 +67,51 @@
     },
     {
       "rank": 3,
-      "keyword": "아옳이 남친 한의사 김형배",
+      "keyword": "김민석 정청래 고향 충청 승리",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "유부녀 킬러 드라마",
-      "state": "-",
+      "keyword": "아옳이 남친 한의사 김형배",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
+      "keyword": "결혼의 완성 국면 예고",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
       "keyword": "항의하는 김원형 감독",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "윤한홍 9시간 조사",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 7,
-      "keyword": "마크 피터슨 17년 만에 딸 만남",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "1235회 로또 1등",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "이재명 부부 아르헨 방문",
+      "keyword": "이재명 아르헨 방문 마침",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "1235회 로또, 1등 9명",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "극한 더위와 태풍 갈림길",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 10,
-      "keyword": "1타점 2루타 폭발!",
-      "state": "-",
-      "change": "2"
+      "keyword": "도심 한강 밤핑 즐기세요",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
