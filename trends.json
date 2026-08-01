@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T17:38:54.442Z",
+  "updatedAt": "2026-08-01T18:36:27.577Z",
   "google": [
     {
       "rank": 1,
@@ -18,28 +18,28 @@
     },
     {
       "rank": 4,
-      "keyword": "스파이더맨 브랜드 뉴 데이 쿠키영상",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
       "keyword": "uap",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "keyword": "아옳이",
       "traffic": "500+"
     },
     {
+      "rank": 6,
+      "keyword": "세이디싱크",
+      "traffic": "200+"
+    },
+    {
       "rank": 7,
       "keyword": "하비에르 아기레",
-      "traffic": "1000+"
+      "traffic": "2000+"
     },
     {
       "rank": 8,
       "keyword": "맨유",
-      "traffic": "2000+"
+      "traffic": "1000+"
     },
     {
       "rank": 9,
@@ -55,27 +55,27 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 정청래 송영길 경선 결과",
+      "keyword": "첫 경선 김민석 승리",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "카라스코 퍼펙트 7이닝",
+      "keyword": "카라스코 7이닝 퍼펙트 무승부",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "유부녀 킬러 드라마",
-      "state": "s",
-      "change": "0"
+      "keyword": "아옳이 남친 한의사 김형배",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "아옳이 남친 한의사 김형배",
-      "state": "s",
-      "change": "0"
+      "keyword": "유부녀 킬러 드라마",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
@@ -85,32 +85,32 @@
     },
     {
       "rank": 6,
-      "keyword": "이동욱 김고은 대상 인증샷",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "로또 1등 9명 각 31억 받는다",
+      "keyword": "윤한홍 9시간 조사",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 7,
+      "keyword": "마크 피터슨 17년 만에 딸 만남",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "이주헌 1타점 2루타 폭발",
-      "state": "-",
+      "keyword": "1235회 로또 1등",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "마크 피터슨, 17년 만에 딸 만남",
+      "keyword": "이재명 부부 아르헨 방문",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "한강서 밤핑 즐기기",
-      "state": "+",
+      "keyword": "1타점 2루타 폭발!",
+      "state": "-",
       "change": "2"
     }
   ]
