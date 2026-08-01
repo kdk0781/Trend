@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-01T10:54:54.252Z",
+  "updatedAt": "2026-08-01T11:56:39.928Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "파울루 벤투",
-      "traffic": "1000+"
+      "keyword": "인터뷰",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "문희준",
-      "traffic": "200+"
+      "keyword": "tennis scores today",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "짐머맨",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "민주당 전당대회",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "보험",
+      "keyword": "이동석",
       "traffic": "1000+"
     },
     {
+      "rank": 4,
+      "keyword": "나솔사계",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "항공기",
+      "traffic": "200+"
+    },
+    {
       "rank": 6,
-      "keyword": "재난",
+      "keyword": "형사",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "전북 대 fc 서울",
-      "traffic": "5000+"
+      "keyword": "김원희",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "카라스코",
+      "keyword": "토트넘",
       "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "첼시 토트넘",
-      "traffic": "1000+"
+      "keyword": "우선주",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "ตรวจหวย",
-      "traffic": "1000+"
+      "keyword": "맷 데이먼",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "유부녀 킬러 드라마",
+      "keyword": "신효범, 데뷔 39년 충격",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 2,
+      "keyword": "박미경 앞 채연 밀려났다",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 2,
-      "keyword": "더불어민주당 최고위원 후보",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 3,
-      "keyword": "카라스코 KBO 첫 등판",
+      "keyword": "김민석 정청래 송영길 경선 결과",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "신효범, 데뷔 39년 되다",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 5,
-      "keyword": "동해 삼화사 템플스테이",
+      "keyword": "유부녀 킬러 드라마",
       "state": "-",
       "change": "2"
     },
     {
+      "rank": 5,
+      "keyword": "이주헌 선취 2루타",
+      "state": "+",
+      "change": "13"
+    },
+    {
       "rank": 6,
-      "keyword": "청룡 시리즈 어워즈",
-      "state": "s",
+      "keyword": "티파니, 결혼 후 첫 생일 축하",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "박미경에 밀린 채연",
-      "state": "n",
-      "change": "0"
+      "keyword": "김원희, 워니들 정모 하자",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "이주헌, 선취 2루타",
-      "state": "n",
-      "change": "0"
+      "keyword": "청룡 시리즈 어워즈",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "불후의 명곡",
-      "state": "n",
-      "change": "0"
+      "keyword": "윤한홍 9시간 조사",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "사랑이 온다",
-      "state": "-",
-      "change": "1"
+      "keyword": "뚝도시장에서 맛보고 즐기기",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
