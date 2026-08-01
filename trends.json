@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-01T20:35:37.406Z",
+  "updatedAt": "2026-08-01T21:30:04.111Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "고우림",
+      "keyword": "일본인",
       "traffic": "100+"
     },
     {
       "rank": 2,
+      "keyword": "박진만",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "정경호",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "김원형",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "고우림",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
       "keyword": "latest iphone rumors",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 7,
       "keyword": "하비에르 아기 레",
       "traffic": "2000+"
     },
     {
-      "rank": 4,
+      "rank": 8,
       "keyword": "아스날",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "keyword": "lg에너지솔루션",
       "traffic": "1000+"
     },
     {
-      "rank": 6,
+      "rank": 10,
       "keyword": "uap",
       "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "세이디싱크",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "아옳이",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "맨유",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "mutv",
-      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "카라스코 7이닝 완벽력",
+      "keyword": "결혼 완성 국면 변화",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이재명 아르헨티나 방문 마무리",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 4,
-      "keyword": "아옳이 남친 한의사 김형배",
+      "keyword": "이재명, 아르헨 방문 마쳐",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "아옳이 남친 한의사 김형배",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "김민석, 정청래에 박빙 승리",
-      "state": "+",
-      "change": "3"
+      "keyword": "7이닝 퍼펙트 카라스코 교체 이유",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "결혼의 완성 국면 변화 예고",
+      "keyword": "태풍 돌핀 한반도 경로",
       "state": "-",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "아뜰리에 영화관 즐기기",
-      "state": "+",
-      "change": "4"
+      "keyword": "EU 세우타 긴급 회의",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "항의하는 김원형 감독",
-      "state": "+",
-      "change": "1"
+      "keyword": "사랑이 온다",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "극한 더위와 태풍 돌핀 경로",
-      "state": "+",
-      "change": "1"
+      "keyword": "모스크바 카페 폭발 15명 부상",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "다저스를 패전 다저스도",
-      "state": "n",
-      "change": "0"
+      "keyword": "김부장과 여름휴가",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
