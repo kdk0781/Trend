@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-01T22:28:11.631Z",
+  "updatedAt": "2026-08-01T23:28:36.973Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "송혜교",
-      "traffic": "500+"
+      "keyword": "삼성전자",
+      "traffic": "10000+"
     },
     {
       "rank": 2,
-      "keyword": "로스앤젤레스 fc",
+      "keyword": "김희철",
       "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "대한민국 축구 국가대표팀",
-      "traffic": "200+"
+      "keyword": "햄버거",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "이천수",
-      "traffic": "2000+"
+      "keyword": "송혜교",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
+      "keyword": "김요한",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "로스앤젤레스 fc",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "대한민국 축구 국가대표팀",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "이천수",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 9,
       "keyword": "아리아나 그란데",
       "traffic": "200+"
     },
     {
-      "rank": 6,
-      "keyword": "일본인",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "박진만",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "장동민",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "정경호",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "김원형",
-      "traffic": "100+"
+      "keyword": "일본인",
+      "traffic": "500+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "태풍 돌핀 한반도 경로",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 3,
-      "keyword": "이재명 아르헨 방문 완료",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "카라스코 7이닝 퍼펙트",
+      "keyword": "극한 더위 및 태풍 경로",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "결혼의 완성, 새로운 국면 예고",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "박진영, JYP 김치값 2억 2천",
+      "rank": 3,
+      "keyword": "여름 클리어런스 최대 60% 할인",
       "state": "+",
-      "change": "3"
+      "change": "5"
     },
     {
-      "rank": 7,
-      "keyword": "여름 최대 할인",
+      "rank": 4,
+      "keyword": "황인범, 포르투 슈퍼컵 우승",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "결혼 완성의 새로운 국면",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "롯데마트 베트남 17호점 개점",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "사랑이 온다",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "은가은 탈모와 둘째에 대한 고민",
+      "keyword": "두산 감독, 연장 항의",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "맥도날드 찰옥수수 버거 판매 종료",
+      "keyword": "합동연설회 일베 침투?",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "사랑이 온다",
-      "state": "+",
-      "change": "1"
+      "keyword": "전남광주 요양병원 흉기 사건",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
