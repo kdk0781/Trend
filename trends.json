@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-01T01:16:09.507Z",
+  "updatedAt": "2026-08-01T04:38:17.697Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "구성환",
-      "traffic": "500+"
+      "keyword": "김현정",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "서울역",
-      "traffic": "200+"
+      "keyword": "손예진",
+      "traffic": "10000+"
     },
     {
       "rank": 3,
-      "keyword": "동맹",
-      "traffic": "200+"
+      "keyword": "거점국립대학교",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "하주석",
-      "traffic": "2000+"
+      "keyword": "슈퍼태풍",
+      "traffic": "20000+"
     },
     {
       "rank": 5,
-      "keyword": "한국여자바둑리그",
+      "keyword": "이승민",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "자오즈민",
-      "traffic": "5000+"
+      "keyword": "엘지트윈스",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "박미선",
+      "keyword": "경복궁",
       "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "손태진",
-      "traffic": "100+"
+      "keyword": "서정희",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "기후동행카드",
+      "keyword": "인터 마이애미 cf",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "임신",
-      "traffic": "1000+"
+      "keyword": "사마라 위빙",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "7월 수출 역대 2위",
-      "state": "n",
+      "keyword": "청룡 시리즈 어워즈",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "청룡 시리즈 어워즈",
-      "state": "n",
+      "keyword": "2026 림팩 훈련 해병대",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "유해란 AIG 오픈 2R 단독 선두",
+      "keyword": "이수지 재선거 사과",
       "state": "-",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "무드리크 도핑 징계 종료",
+      "keyword": "김라경, 72년 만 개막전 선발",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "베트남, 싱가포르 무승부",
+      "keyword": "한-아르헨, 핵심광물 MOU",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "박현호 축의금 갈등",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "이스라엘 이란 공습 계획",
+      "keyword": "유부녀 킬러 드라마",
       "state": "-",
       "change": "4"
     },
     {
-      "rank": 8,
-      "keyword": "팔 자르고 산재 1억 보상",
+      "rank": 7,
+      "keyword": "충남 합동연설회 민주당 후보 발언",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "진선규, 박보경 수상에 눈물",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 9,
-      "keyword": "박미선 복귀했더니 악플 눈물",
+      "keyword": "관저 이전 의혹 윤한홍 무관",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "태풍 경로 변수",
-      "state": "+",
-      "change": "9"
+      "keyword": "홍천 리조트 여아 사망",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
