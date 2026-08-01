@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-01T15:43:26.588Z",
+  "updatedAt": "2026-08-01T16:38:20.022Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "uap",
-      "traffic": "200+"
+      "keyword": "lg에너지솔루션",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "아옳이",
+      "keyword": "스파이더맨 브랜드 뉴 데이 쿠키영상",
       "traffic": "200+"
     },
     {
       "rank": 3,
+      "keyword": "uap",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "아옳이",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
       "keyword": "하비에르 아기레",
       "traffic": "1000+"
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "keyword": "맨유",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
       "keyword": "mutv",
       "traffic": "200+"
     },
     {
-      "rank": 5,
-      "keyword": "맨유 아틀레티코",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
+      "rank": 8,
       "keyword": "옥수수 버거",
       "traffic": "500+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "당대표",
       "traffic": "10000+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "lck",
       "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "시바이누코인",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "원자력",
-      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "김민석 정청래 송영길 경선 결과",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 2,
+      "keyword": "유부녀 킬러 드라마",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 2,
-      "keyword": "결혼의 완성 또 다른 국면",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 3,
-      "keyword": "카라스코 7이닝 퍼펙트 무승부",
-      "state": "s",
-      "change": "0"
+      "keyword": "카라스코 7이닝 완벽 데뷔",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "동해 삼화사 화재 발생",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "아옳이 한의사 김형배 공개",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "극한 더위와 태풍 돌핀",
+      "keyword": "아옳이 남친 한의사 김형배",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 5,
+      "keyword": "결혼의 완성, 새로운 국면 예고",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "동해 삼화사 화재 발생",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "유부녀 킬러 드라마",
+      "keyword": "태풍과 더위 소용돌이",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "소지섭 눈빛으로 감동",
+      "keyword": "1타점 2루타 폭발!",
       "state": "+",
-      "change": "1"
+      "change": "4"
     },
     {
       "rank": 9,
-      "keyword": "항의하는 김원형 감독",
+      "keyword": "은가은, 박서진 서운함 토로",
       "state": "-",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "주상욱 아빠 방식 잘못돼",
-      "state": "n",
-      "change": "0"
+      "keyword": "1235회 로또 1등 9명 31억씩",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
