@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-01T19:48:58.202Z",
+  "updatedAt": "2026-08-01T20:35:37.406Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "고우림",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
       "keyword": "latest iphone rumors",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "keyword": "하비에르 아기 레",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
       "keyword": "아스날",
       "traffic": "500+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "lg에너지솔루션",
       "traffic": "1000+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "uap",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 7,
+      "keyword": "세이디싱크",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
       "keyword": "아옳이",
       "traffic": "500+"
     },
     {
-      "rank": 6,
-      "keyword": "세이디싱크",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "하비에르 아기레",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "keyword": "맨유",
       "traffic": "1000+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "mutv",
       "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "맨유 아틀레티코",
-      "traffic": "1000+"
     }
   ],
   "domestic": [
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "카라스코 7이닝 퍼펙트 무승부",
+      "keyword": "카라스코 7이닝 완벽력",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김민석 정청래 고향 충청 승리",
+      "keyword": "이재명 아르헨티나 방문 마무리",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 4,
       "keyword": "아옳이 남친 한의사 김형배",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "결혼의 완성 국면 예고",
+      "keyword": "김민석, 정청래에 박빙 승리",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 6,
+      "keyword": "결혼의 완성 국면 변화 예고",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "항의하는 김원형 감독",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 7,
-      "keyword": "이재명 아르헨 방문 마침",
-      "state": "n",
-      "change": "0"
+      "keyword": "아뜰리에 영화관 즐기기",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 8,
-      "keyword": "1235회 로또, 1등 9명",
-      "state": "s",
-      "change": "0"
+      "keyword": "항의하는 김원형 감독",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "극한 더위와 태풍 갈림길",
+      "keyword": "극한 더위와 태풍 돌핀 경로",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "도심 한강 밤핑 즐기세요",
+      "keyword": "다저스를 패전 다저스도",
       "state": "n",
       "change": "0"
     }
