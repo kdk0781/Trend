@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-02T21:40:02.966Z",
+  "updatedAt": "2026-08-02T22:36:39.861Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김다예",
-      "traffic": "100+"
+      "keyword": "폭염",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "전국노래자랑",
-      "traffic": "200+"
+      "keyword": "운세",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "장기 기증",
+      "keyword": "검찰",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "건설",
-      "traffic": "1000+"
+      "keyword": "이효리",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "국민일보",
+      "keyword": "김경문",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "박성광",
-      "traffic": "100+"
+      "keyword": "배당",
+      "traffic": "10000+"
     },
     {
       "rank": 7,
-      "keyword": "사이드카",
-      "traffic": "1000+"
+      "keyword": "건설 회사",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "김중남",
+      "keyword": "한국고속철도",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "리버풀 대 리즈 유나이티드",
-      "traffic": "500+"
+      "keyword": "김다예",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "히 샬리 송",
-      "traffic": "2000+"
+      "keyword": "리버풀",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "결혼의 완성",
-      "state": "s",
-      "change": "0"
+      "keyword": "인사하는 이재명 대통령 부부",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "인사하는 이재명 대통령",
-      "state": "s",
-      "change": "0"
+      "keyword": "결혼의 완성",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "사랑이 온다, 안희연 선택!",
+      "keyword": "사랑이 온다, 재벌 하석진",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "유부녀 킬러 드라마",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "이동경 멀티골로 2위 도약",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "임수향 신기생뎐 재방료 미처 몰라",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "오싹한 연애",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "이란 오만 호르무즈 협의 막바지",
+      "keyword": "메이저 3연승 실패",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "정준원 대화 논란",
+      "rank": 5,
+      "keyword": "임수향 신기생뎐 재방료 못 받아",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 6,
+      "keyword": "이란 오만 호르무즈 협상 막바지",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "유부녀 킬러 드라마",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "세우타 사망자 72명",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "오싹한 연애",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 10,
-      "keyword": "박소현 부모님과 라면 나눠 먹어",
+      "keyword": "강원 충북 소나기 39도 더위",
       "state": "n",
       "change": "0"
     }
