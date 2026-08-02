@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-02T10:56:20.379Z",
+  "updatedAt": "2026-08-02T11:58:00.539Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "시내버스",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
+      "keyword": "산악인",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "맷 데이비슨",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "맥도날드",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "김채현",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
       "keyword": "대전 대 광주",
       "traffic": "1000+"
     },
     {
-      "rank": 2,
+      "rank": 7,
+      "keyword": "경향신문",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
       "keyword": "마이크론 테크놀로지",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 9,
       "keyword": "울산 대 안양",
       "traffic": "2000+"
     },
     {
-      "rank": 4,
-      "keyword": "대한불교조계종 삼화사",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "트럼프 이란",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "정은채",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "경제",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "원이",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "송아지",
-      "traffic": "2000+"
-    },
-    {
       "rank": 10,
-      "keyword": "정지선",
+      "keyword": "대한불교조계종 삼화사",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "유부녀 킬러 드라마",
+      "keyword": "정청래 당대표 승리",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "李대통령 업무보고 재개",
+      "keyword": "이주헌 동점 투런포",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "하하, 정은채 앞에서 유재석 버럭?",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 3,
-      "keyword": "이주헌 동점포 쾅!",
-      "state": "+",
-      "change": "6"
-    },
-    {
       "rank": 4,
-      "keyword": "정은채, 캐스팅과 런닝맨 활약",
-      "state": "+",
-      "change": "4"
+      "keyword": "김도윤 셰프 여친 김서연 공개",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "김도윤 셰프와 김서연 열애 중",
-      "state": "n",
-      "change": "0"
+      "keyword": "정견발표하는 최고위원 후보",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "결혼의 완성",
+      "keyword": "강상준 아내 미스트롯4 우승자",
       "state": "-",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "K-PRINT 2026 인쇄 솔루션",
+      "keyword": "LG 톨허스트 역투",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이다연 통산 10승 달성!",
-      "state": "-",
-      "change": "3"
+      "keyword": "결혼의 완성",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "40대 외국인 여성 흉기 사건",
-      "state": "-",
-      "change": "4"
+      "keyword": "잠실대교서 수문으로 빨려들어가",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "한서희, 외국인 모델과 열애 인정",
+      "keyword": "KTX 운행 통합 및 요금 인하",
       "state": "n",
       "change": "0"
     }
