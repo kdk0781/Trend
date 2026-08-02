@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-02T04:33:03.216Z",
+  "updatedAt": "2026-08-02T07:12:35.547Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "오세훈",
-      "traffic": "5000+"
+      "keyword": "김의겸",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "삼성 갤럭시 z 플립",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "김빈우",
+      "keyword": "집",
       "traffic": "2000+"
     },
     {
+      "rank": 3,
+      "keyword": "코오롱 티슈 진",
+      "traffic": "5000+"
+    },
+    {
       "rank": 4,
-      "keyword": "수원 삼성 블루윙즈",
-      "traffic": "500+"
+      "keyword": "지석진",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "경주기행",
+      "keyword": "태풍 루사",
       "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "네이마르",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "스마트폰",
+      "keyword": "띠별 운세",
       "traffic": "2000+"
     },
     {
+      "rank": 7,
+      "keyword": "차은우",
+      "traffic": "5000+"
+    },
+    {
       "rank": 8,
-      "keyword": "앙투안 그리즈만",
+      "keyword": "양산 날씨",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "박동빈",
-      "traffic": "200+"
+      "keyword": "이준수",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "조카",
-      "traffic": "2000+"
+      "keyword": "지원이",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 이란 공격 취소",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
       "keyword": "유부녀 킬러 드라마",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "송영길 후보 정견 발표",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "손흥민 4경기 연속골",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "코레일-SR 기업결합 승인",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "결혼의 완성",
+      "rank": 2,
+      "keyword": "폭염 중대본 2단계 격상",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "제주 온 바이에른 뮌헨",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "리센느 원이 담임 해명 비난 멈춰달라",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "본격 휴가철 한산한",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "민주당 당권 주자들",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 7,
-      "keyword": "차은우 130억 조세심판",
+      "keyword": "결혼의 완성 시청률 상승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "서영교 법사위원장, 형사소송법 설명",
-      "state": "-",
-      "change": "1"
+      "keyword": "KTX·SRT 통합 운영",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "김라경 4이닝 4실점 기록",
-      "state": "n",
+      "keyword": "오싹한 연애",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "주진우 대선 조작 의혹",
-      "state": "-",
-      "change": "1"
+      "keyword": "AI 외교 귀국",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
