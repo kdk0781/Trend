@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-01T23:28:36.973Z",
+  "updatedAt": "2026-08-02T01:06:25.765Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "삼성전자",
-      "traffic": "10000+"
+      "keyword": "이수현",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "김희철",
-      "traffic": "1000+"
+      "keyword": "aig 여자오픈",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "햄버거",
+      "keyword": "이정효",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "송혜교",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "김요한",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "로스앤젤레스 fc",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "대한민국 축구 국가대표팀",
+      "keyword": "코트디부아르 축구 국가대표팀",
       "traffic": "500+"
     },
     {
+      "rank": 5,
+      "keyword": "mls",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "gq",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "inter miami vs columbus",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "이천수",
-      "traffic": "5000+"
+      "keyword": "투자 전략",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "아리아나 그란데",
+      "keyword": "한국경제tv",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "일본인",
-      "traffic": "500+"
+      "keyword": "화이트캡스 대 엘에이 fc",
+      "traffic": "50000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "유부녀 킬러 드라마",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "극한 더위 및 태풍 경로",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "여름 클리어런스 최대 60% 할인",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 4,
       "keyword": "황인범, 포르투 슈퍼컵 우승",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "결혼 완성의 새로운 국면",
+      "rank": 2,
+      "keyword": "정의선 품질 경영",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "호프 400만 관객 돌파",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "손흥민 4경기 연속골",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "보고 싶어 사랑해",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "롯데마트 베트남 17호점 개점",
+      "keyword": "유해란 AIG 3R 공동 2위",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "사랑이 온다",
-      "state": "s",
-      "change": "0"
+      "keyword": "김빈우, 소음 문제로 발리 이민간다",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 8,
-      "keyword": "두산 감독, 연장 항의",
+      "keyword": "김형배 훈남 누구길래?",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "합동연설회 일베 침투?",
+      "keyword": "초고압변압기 1000대 생산",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "전남광주 요양병원 흉기 사건",
+      "keyword": "최준희 남편 노화 걱정",
       "state": "n",
       "change": "0"
     }
