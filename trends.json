@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-02T20:50:01.993Z",
+  "updatedAt": "2026-08-02T21:40:02.966Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "리버풀 대 리즈 유나이티드",
-      "traffic": "500+"
+      "keyword": "김다예",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "조희대",
-      "traffic": "1000+"
+      "keyword": "전국노래자랑",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "히 샬리 송",
-      "traffic": "2000+"
+      "keyword": "장기 기증",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "기상",
+      "keyword": "건설",
       "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "투기",
+      "keyword": "국민일보",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "태풍 돌핀 경로",
-      "traffic": "500+"
+      "keyword": "박성광",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "여객선",
+      "keyword": "사이드카",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "수영",
-      "traffic": "2000+"
+      "keyword": "김중남",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "잠실대교",
+      "keyword": "리버풀 대 리즈 유나이티드",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "박기량",
-      "traffic": "200+"
+      "keyword": "히 샬리 송",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 대통령 부부",
+      "keyword": "결혼의 완성",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "결혼의 완성",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 3,
-      "keyword": "사랑이 온다, 선택의 갈림길",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 4,
-      "keyword": "유부녀 킬러 드라마",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 5,
-      "keyword": "태풍 돌핀 한반도 폭염 예상",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "이동경 멀티골 울산 2위 도약",
+      "keyword": "인사하는 이재명 대통령",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "임수향 신기생뎐 재방료",
+      "rank": 3,
+      "keyword": "사랑이 온다, 안희연 선택!",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "유부녀 킬러 드라마",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "이동경 멀티골로 2위 도약",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "임수향 신기생뎐 재방료 미처 몰라",
       "state": "-",
-      "change": "4"
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "오싹한 연애",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "귀국 후 부동산 회의",
-      "state": "-",
-      "change": "4"
+      "keyword": "이란 오만 호르무즈 협의 막바지",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
       "keyword": "정준원 대화 논란",
-      "state": "+",
-      "change": "24"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "트럼프 대공습 취소",
+      "keyword": "박소현 부모님과 라면 나눠 먹어",
       "state": "n",
       "change": "0"
     }
