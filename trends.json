@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-02T18:42:42.025Z",
+  "updatedAt": "2026-08-02T19:56:41.532Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "여객선",
+      "keyword": "기상",
       "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "히샬리송",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "잠실대교",
+      "keyword": "투기",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "이흥구",
+      "traffic": "100+"
+    },
+    {
       "rank": 4,
-      "keyword": "박기량",
+      "keyword": "태풍 돌핀 경로",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "달 탐사",
+      "keyword": "여객선",
       "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "서주원",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "lck",
+      "keyword": "히샬리송",
       "traffic": "1000+"
     },
     {
+      "rank": 7,
+      "keyword": "수영",
+      "traffic": "2000+"
+    },
+    {
       "rank": 8,
-      "keyword": "앤드류 가필드",
-      "traffic": "200+"
+      "keyword": "잠실대교",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "마이클세일러",
+      "keyword": "박기량",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "재벌x형사",
-      "traffic": "5000+"
+      "keyword": "달 탐사",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
@@ -62,56 +62,56 @@
     {
       "rank": 2,
       "keyword": "결혼의 완성",
-      "state": "+",
-      "change": "6"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "사랑이 온다, 선택하석진",
-      "state": "+",
-      "change": "68"
+      "keyword": "두산, LG 꺾고 3연승",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "정청래 부울경 1위",
-      "state": "-",
-      "change": "2"
+      "keyword": "임수향 재방료 못 받아",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "유부녀 킬러 드라마",
-      "state": "-",
-      "change": "3"
+      "keyword": "귀국 직후 부동산 회의",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "두산 LG 꺾고 3연승",
+      "keyword": "유부녀 킬러 드라마",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "임수향 신기생뎐 재방료 못 받아",
-      "state": "-",
-      "change": "3"
+      "keyword": "OPEC+ 하루 18.8만 배럴 증산",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "태풍 돌핀 북상과 폭염",
-      "state": "+",
-      "change": "15"
+      "keyword": "인니 여객선 화재 5명 사망 41명 실종",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "오싹한 연애",
+      "keyword": "김민석 정청래 경합중",
       "state": "-",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "귀국 후 부동산 점검",
-      "state": "-",
-      "change": "5"
+      "keyword": "이동경 멀티골 울산 2위 도약",
+      "state": "+",
+      "change": "9"
     }
   ]
 }
