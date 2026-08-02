@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-08-02T07:12:35.547Z",
+  "updatedAt": "2026-08-02T09:23:02.871Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김의겸",
-      "traffic": "1000+"
+      "keyword": "광주광역시",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "집",
+      "keyword": "여론조작",
       "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "코오롱 티슈 진",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "지석진",
+      "keyword": "해군",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "mlb",
+      "traffic": "500+"
+    },
+    {
       "rank": 5,
-      "keyword": "태풍 루사",
+      "keyword": "포 헨즈",
       "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "띠별 운세",
+      "keyword": "종합 부동산 세",
       "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "차은우",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "양산 날씨",
+      "keyword": "레알 마드리드 cf",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "베트남 축구 국가대표팀",
+      "traffic": "100+"
+    },
+    {
       "rank": 9,
-      "keyword": "이준수",
-      "traffic": "5000+"
+      "keyword": "김 라경",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "지원이",
+      "keyword": "의료과실",
       "traffic": "200+"
     }
   ],
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "폭염 중대본 2단계 격상",
-      "state": "n",
+      "keyword": "이다연, 오로라 챔피언십 우승",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "제주 온 바이에른 뮌헨",
-      "state": "s",
-      "change": "0"
+      "keyword": "민주당 당대표 후보들 활동",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 4,
-      "keyword": "리센느 원이 담임 해명 비난 멈춰달라",
-      "state": "n",
-      "change": "0"
+      "keyword": "리센느 원이 일진설 담임 반박",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "본격 휴가철 한산한",
-      "state": "n",
-      "change": "0"
+      "keyword": "한서희, 외국인 모델과 열애 인정",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "민주당 당권 주자들",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "결혼의 완성 시청률 상승",
+      "keyword": "양산 42.5도 뜨거운 태양",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "이재명, 프랑크푸르트 도착",
+      "state": "-",
+      "change": "4"
+    },
+    {
       "rank": 8,
-      "keyword": "KTX·SRT 통합 운영",
-      "state": "+",
-      "change": "2"
+      "keyword": "해운대 물 사람 가득",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "오싹한 연애",
-      "state": "s",
+      "keyword": "손태영 권상우, 대가족 됐다",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "AI 외교 귀국",
+      "keyword": "중인 잠실 올림픽주경기장",
       "state": "n",
       "change": "0"
     }
