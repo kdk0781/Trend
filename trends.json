@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-02T17:41:08.349Z",
+  "updatedAt": "2026-08-02T18:42:42.025Z",
   "google": [
     {
       "rank": 1,
       "keyword": "여객선",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
       "rank": 2,
@@ -24,7 +24,7 @@
     {
       "rank": 5,
       "keyword": "달 탐사",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
       "rank": 6,
@@ -55,63 +55,63 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 대통령 부부 인사",
+      "keyword": "이재명 대통령 부부",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "정청래 부울경 당원투표 1위",
+      "keyword": "결혼의 완성",
       "state": "+",
-      "change": "1"
+      "change": "6"
     },
     {
       "rank": 3,
-      "keyword": "이주헌 동점 투런포",
+      "keyword": "사랑이 온다, 선택하석진",
       "state": "+",
-      "change": "1"
+      "change": "68"
     },
     {
       "rank": 4,
-      "keyword": "결혼의 완성",
+      "keyword": "정청래 부울경 1위",
       "state": "-",
       "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "임수향 재방료 못 받아",
-      "state": "s",
-      "change": "0"
+      "keyword": "유부녀 킬러 드라마",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "4번째 4000루타 김현수",
-      "state": "+",
+      "keyword": "두산 LG 꺾고 3연승",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "정견발표하는 최고위원 후보",
-      "state": "+",
-      "change": "1"
+      "keyword": "임수향 신기생뎐 재방료 못 받아",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "유부녀 킬러 드라마",
-      "state": "-",
-      "change": "2"
+      "keyword": "태풍 돌핀 북상과 폭염",
+      "state": "+",
+      "change": "15"
     },
     {
       "rank": 9,
-      "keyword": "귀국 직후 부동산 점검",
-      "state": "s",
-      "change": "0"
+      "keyword": "오싹한 연애",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "OPEC+ 하루 18.8만배럴 증산",
-      "state": "n",
-      "change": "0"
+      "keyword": "귀국 후 부동산 점검",
+      "state": "-",
+      "change": "5"
     }
   ]
 }
