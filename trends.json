@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-02T16:38:30.668Z",
+  "updatedAt": "2026-08-02T17:41:08.349Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "히샬리송",
-      "traffic": "200+"
+      "keyword": "여객선",
+      "traffic": "500+"
     },
     {
       "rank": 2,
+      "keyword": "히샬리송",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
       "keyword": "잠실대교",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "박기량",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "달 탐사",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "서주원",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "lck",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "앤드류 가필드",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "마이클세일러",
       "traffic": "200+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "재벌x형사",
       "traffic": "5000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "박소현",
-      "traffic": "2000+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "이다연, 우승 기념 인형",
-      "state": "n",
-      "change": "0"
+      "keyword": "정청래 부울경 당원투표 1위",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "김민석 정청래 초박빙 경합",
-      "state": "s",
-      "change": "0"
+      "keyword": "이주헌 동점 투런포",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "유부녀 킬러 공효진의 대반전",
-      "state": "+",
+      "keyword": "결혼의 완성",
+      "state": "-",
       "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "사랑이 온다 하석진 선택",
+      "keyword": "임수향 재방료 못 받아",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "순방 후 업무보고 변형할 수 있습니다.",
+      "keyword": "4번째 4000루타 김현수",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "이주헌 동점 투런포",
+      "keyword": "정견발표하는 최고위원 후보",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "유부녀 킬러 드라마",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "귀국 직후 부동산 점검",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "오싹한 연애",
+      "rank": 10,
+      "keyword": "OPEC+ 하루 18.8만배럴 증산",
       "state": "n",
       "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "정견발표하는 최고위원 후보",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 10,
-      "keyword": "임수향 신기생뎐 재방료 못 받아",
-      "state": "+",
-      "change": "1"
     }
   ]
 }
