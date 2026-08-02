@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-02T01:06:25.765Z",
+  "updatedAt": "2026-08-02T04:33:03.216Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이수현",
-      "traffic": "200+"
+      "keyword": "오세훈",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "aig 여자오픈",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "이정효",
+      "keyword": "삼성 갤럭시 z 플립",
       "traffic": "500+"
     },
     {
+      "rank": 3,
+      "keyword": "김빈우",
+      "traffic": "2000+"
+    },
+    {
       "rank": 4,
-      "keyword": "코트디부아르 축구 국가대표팀",
+      "keyword": "수원 삼성 블루윙즈",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "mls",
-      "traffic": "1000+"
+      "keyword": "경주기행",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "gq",
+      "keyword": "네이마르",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "inter miami vs columbus",
-      "traffic": "200+"
+      "keyword": "스마트폰",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "투자 전략",
-      "traffic": "100+"
+      "keyword": "앙투안 그리즈만",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "한국경제tv",
+      "keyword": "박동빈",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "화이트캡스 대 엘에이 fc",
-      "traffic": "50000+"
+      "keyword": "조카",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "황인범, 포르투 슈퍼컵 우승",
+      "keyword": "트럼프 이란 공격 취소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "정의선 품질 경영",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "호프 400만 관객 돌파",
+      "keyword": "유부녀 킬러 드라마",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "송영길 후보 정견 발표",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 4,
       "keyword": "손흥민 4경기 연속골",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "보고 싶어 사랑해",
-      "state": "n",
+      "keyword": "코레일-SR 기업결합 승인",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "유해란 AIG 3R 공동 2위",
+      "keyword": "결혼의 완성",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김빈우, 소음 문제로 발리 이민간다",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 8,
-      "keyword": "김형배 훈남 누구길래?",
+      "keyword": "차은우 130억 조세심판",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "서영교 법사위원장, 형사소송법 설명",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "초고압변압기 1000대 생산",
+      "keyword": "김라경 4이닝 4실점 기록",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "최준희 남편 노화 걱정",
-      "state": "n",
-      "change": "0"
+      "keyword": "주진우 대선 조작 의혹",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
