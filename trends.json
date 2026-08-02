@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-02T13:19:19.679Z",
+  "updatedAt": "2026-08-02T14:43:50.360Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "연방수사국",
-      "traffic": "500+"
+      "keyword": "앤드류 가필드",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "미군",
-      "traffic": "2000+"
+      "keyword": "허경환",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "조한선",
-      "traffic": "100+"
+      "keyword": "마이클세일러",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "월명공원",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "시내버스",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "산악인",
+      "keyword": "재벌x형사",
       "traffic": "2000+"
     },
     {
+      "rank": 5,
+      "keyword": "박소현",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "제임스 네일",
+      "traffic": "1000+"
+    },
+    {
       "rank": 7,
-      "keyword": "맷 데이비슨",
-      "traffic": "500+"
+      "keyword": "데이터 센터",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "맥도날드",
+      "keyword": "유재석",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "김채현",
-      "traffic": "200+"
+      "keyword": "김서연",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "대전 대 광주",
-      "traffic": "2000+"
+      "keyword": "영탁",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "사랑이 온다 하석진 안희연 선택",
+      "keyword": "박소현",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이재명 대통령의 인사말",
-      "state": "n",
+      "keyword": "양정아 생일파티",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "유부녀 킬러 드라마",
+      "keyword": "KTX·SRT 9월 요금 인하",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "이재명 대통령 인사말",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "두산, LG 꺾고 3연승",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 5,
-      "keyword": "성시경과 조현아 손 맞대다",
-      "state": "n",
-      "change": "0"
+      "keyword": "결혼의 완성",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "귀국 직후 부동산 회의",
+      "keyword": "아옳이 한의사와 연애 시작",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "생후 3일 아기 사망 사건",
-      "state": "n",
-      "change": "0"
+      "keyword": "트럼프 공습 취소",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "KTX·SRT 9월 통합",
-      "state": "n",
-      "change": "0"
+      "keyword": "상반기 마약 5203명 검거",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "고영욱 이번엔 이찬원",
+      "keyword": "김민석 정청래 경합",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "최고위원 박선원 한민수",
+      "keyword": "신림동 상가 화재 대피",
       "state": "n",
       "change": "0"
     }
