@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-02T22:36:39.861Z",
+  "updatedAt": "2026-08-02T23:35:25.493Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "폭염",
-      "traffic": "5000+"
+      "keyword": "진기주",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "운세",
-      "traffic": "5000+"
+      "keyword": "시바이누코인",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "검찰",
-      "traffic": "500+"
+      "keyword": "미켈 아르테타",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "이효리",
-      "traffic": "2000+"
+      "keyword": "당구",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "김경문",
+      "keyword": "태풍경로",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "배당",
-      "traffic": "10000+"
+      "keyword": "사학연금",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "건설 회사",
+      "keyword": "포스코",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "한국고속철도",
+      "keyword": "보조금",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "김다예",
-      "traffic": "200+"
+      "keyword": "아는 형님",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "리버풀",
+      "keyword": "전소미",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "인사하는 이재명 대통령 부부",
-      "state": "+",
-      "change": "1"
+      "keyword": "트럼프 이란과 호르무즈",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
       "keyword": "결혼의 완성",
-      "state": "-",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "사랑이 온다, 재벌 하석진",
+      "keyword": "사랑이 온다 하석진 안희연 선택",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "메이저 3연승 실패",
+      "keyword": "유해란 메이저 3연승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "임수향 신기생뎐 재방료 못 받아",
-      "state": "+",
-      "change": "4"
+      "keyword": "고지용 이혼 허양임, 아들 많이 컸구나",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "이란 오만 호르무즈 협상 막바지",
+      "keyword": "유부녀 킬러 드라마",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "유부녀 킬러 드라마",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "세우타 사망자 72명",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "오싹한 연애",
+      "keyword": "오싹한 약혼 설렘 폭발",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 8,
+      "keyword": "한서희, 남친 논란 해명",
+      "state": "+",
+      "change": "6"
+    },
+    {
+      "rank": 9,
+      "keyword": "차에서 숨진 50대 남성",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "강원 충북 소나기 39도 더위",
+      "keyword": "다이어트 후 연애 시작",
       "state": "n",
       "change": "0"
     }
