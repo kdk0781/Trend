@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-03T01:10:43.344Z",
+  "updatedAt": "2026-08-03T04:48:17.384Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "전장연",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "다슬기",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "암",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "재산",
+      "keyword": "기름",
       "traffic": "200+"
     },
     {
-      "rank": 5,
-      "keyword": "직장갑질119",
+      "rank": 2,
+      "keyword": "최영중",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "김현수",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "수능",
       "traffic": "100+"
     },
     {
+      "rank": 5,
+      "keyword": "오디세이",
+      "traffic": "500+"
+    },
+    {
       "rank": 6,
-      "keyword": "여자 야구",
+      "keyword": "에코프로 비엠",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "pltr",
-      "traffic": "100+"
+      "keyword": "차가원",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "안타",
-      "traffic": "1000+"
+      "keyword": "상속",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "신천지예수교 증거장막성전",
-      "traffic": "500+"
+      "keyword": "windy",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "시바이누코인",
-      "traffic": "200+"
+      "keyword": "뉴데일리",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김도윤 김서연 공개연애 선언",
+      "keyword": "이재명 미국 남미 순방 완료",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 2,
+      "keyword": "하이닉스 주가",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 2,
-      "keyword": "코스피 하락 출발",
-      "state": "+",
-      "change": "7"
-    },
-    {
       "rank": 3,
-      "keyword": "4호선 혜화역 무정차 통과",
-      "state": "n",
-      "change": "0"
+      "keyword": "샤를리즈 테론과 맷 데이먼 내한 소감",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 4,
-      "keyword": "하이닉스 주가 널뛰기",
+      "keyword": "사랑이 온다 공사장 사고",
       "state": "+",
-      "change": "6"
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "하이브 튜이드 24일 데뷔",
-      "state": "-",
+      "keyword": "김세인 물류센터 근무 근황",
+      "state": "+",
       "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "유해란, 메이저 3연승 실패",
+      "keyword": "결혼의 완성",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "고우석 징계 8경기로 감경",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "트럼프 이란 대화 시작",
+      "rank": 8,
+      "keyword": "탄소중립기본법 조기감축 반영",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "결혼의 완성",
-      "state": "-",
-      "change": "2"
-    },
-    {
       "rank": 9,
-      "keyword": "원산갈마해안관광지구 피서객들로 북적",
-      "state": "-",
-      "change": "2"
+      "keyword": "유부녀 킬러 드라마",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "재벌 하석진 사랑의 선택",
-      "state": "-",
-      "change": "2"
+      "keyword": "정성호 장관 임관식 참석",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
