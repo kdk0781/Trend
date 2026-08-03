@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-03T20:07:35.044Z",
+  "updatedAt": "2026-08-03T21:17:18.153Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "농업",
-      "traffic": "100+"
+      "keyword": "지연수",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "이찬원",
+      "keyword": "정재용",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "종부세 개편안",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "물고기",
+      "keyword": "남보라",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "잭 그릴리시",
+      "traffic": "1000+"
+    },
+    {
       "rank": 5,
-      "keyword": "klasemen timnas indonesia vs tim nasional sepak bola vietnam",
+      "keyword": "국민연금공단",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "제이든 산초",
+      "keyword": "미국 중간선거",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "lg이노텍",
-      "traffic": "200+"
+      "keyword": "이민성",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "화산분화",
-      "traffic": "5000+"
+      "keyword": "농업",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "내 남은 연애",
-      "traffic": "100+"
+      "keyword": "이찬원",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "대피소",
-      "traffic": "500+"
+      "keyword": "종부세 개편안",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "노을 강균성, 10월 30일 결혼",
-      "state": "s",
+      "keyword": "트럼프 이란 마지막 기회",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "트럼프 이란 지도부 이중적 태도",
-      "state": "n",
-      "change": "0"
+      "keyword": "이한범 브뤼헤 입단",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "이한범 브뤼헤 입단",
-      "state": "n",
-      "change": "0"
+      "keyword": "부동산·증시 점검회의",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "김윤희 스토킹 피소",
-      "state": "n",
-      "change": "0"
+      "keyword": "첫 폭염중대경보 온열질환자 18명",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "서울 폭염 경보, 온열질환자 18명",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "부동산 증시 점검 회의",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "김선호 군대 혈액암 4기 판정",
+      "keyword": "뮌헨 콤파니 감독 K리그 관전",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "김대명, 소심남에서 살인마로 변신",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "최애의 사원",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "경산 방화 수사팀장 사망",
+      "keyword": "추신수, 5500평 집 화장실 12개",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "47도 열돔과 유럽 가뭄",
+      "keyword": "문세윤 결혼 후 LG 팬 야유",
       "state": "n",
       "change": "0"
     }
