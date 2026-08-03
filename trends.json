@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-03T11:45:29.749Z",
+  "updatedAt": "2026-08-03T14:02:51.393Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김윤희 아나운서",
-      "traffic": "500+"
+      "keyword": "인도네시아 대 베트남",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "전기 요금",
-      "traffic": "10000+"
+      "keyword": "indonesia đấu với việt nam",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "오태완",
-      "traffic": "1000+"
+      "keyword": "낚시",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "강득구",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "암표",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "원익홀딩스",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "재정경제부",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "순천향대 학교",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "세제개편안",
+      "keyword": "방시혁",
       "traffic": "200+"
     },
     {
-      "rank": 10,
-      "keyword": "신지",
+      "rank": 5,
+      "keyword": "전현무",
       "traffic": "2000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "진 양곤",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "수영복",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "평촌신도시",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "양평군",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 10,
+      "keyword": "최애의 사원",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "훈련하는 김민재와 선수들",
-      "state": "+",
-      "change": "7"
-    },
-    {
-      "rank": 2,
-      "keyword": "뮌헨 훈련 공개",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "결혼의 완성, 김대명 광기 연기",
+      "keyword": "최애의 사원",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "김서연 김도윤 4년 연애 종료",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "경산 방화팀장 숨진 채 발견",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 4,
-      "keyword": "하이닉스 주가",
-      "state": "+",
-      "change": "1"
+      "keyword": "차가원 대표 구속",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "국민의힘 정부 세법 비판",
-      "state": "n",
-      "change": "0"
+      "keyword": "노을 강균성 10월 결혼",
+      "state": "+",
+      "change": "9"
     },
     {
       "rank": 6,
-      "keyword": "안규백 전군 기강점검 지시",
-      "state": "n",
-      "change": "0"
+      "keyword": "태풍 돌핀, 폭염 심화",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "오싹한 연애 약혼 선언 폭발",
-      "state": "n",
+      "keyword": "사주사이트 홍보 한서희",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "유부녀 킬러 드라마",
-      "state": "-",
-      "change": "1"
+      "keyword": "김윤희 아나, 스토킹 피해 호소",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "실거주 중심 세제에",
+      "keyword": "이한범 브뤼헤 계약",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이한범, 벨기에 명문 입단!",
-      "state": "-",
-      "change": "1"
+      "keyword": "신동엽에 선물한 짝퉁 와인",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
