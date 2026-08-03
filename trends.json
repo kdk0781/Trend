@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-03T22:27:58.334Z",
+  "updatedAt": "2026-08-03T23:35:22.862Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "나스닥 100",
-      "traffic": "500+"
+      "keyword": "이강인",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "맨체스터 유나이티드 fc",
-      "traffic": "500+"
+      "keyword": "당구",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "보험",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "차가 원",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "김대호",
+      "keyword": "류현진",
       "traffic": "500+"
     },
     {
+      "rank": 4,
+      "keyword": "강상준",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "넷플릭스",
+      "traffic": "5000+"
+    },
+    {
       "rank": 6,
-      "keyword": "배우",
-      "traffic": "2000+"
+      "keyword": "팔란티어",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "기아",
+      "keyword": "미국 상품거래위원회",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "west indies vs pakistan",
-      "traffic": "100+"
+      "keyword": "국군방첩사령부",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "정청래",
-      "traffic": "1000+"
+      "keyword": "pltr",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "나스닥 지수",
-      "traffic": "1000+"
+      "keyword": "폐지",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 이란 참수 전 마지막 기회",
+      "keyword": "트럼프, 이란 마지막 기회",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "최예나, 소아암 림프종 투병 고백",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "김민재 뮌헨 주전 유지",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "7시간 반 부동산 회의 바꿀 수 있습니다.",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "이유빈 유일한 커플 탄생",
+      "keyword": "최예나 소아암 투병 고백",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "이재용 개인 배당 1위",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "김풍 전립선염 치료 고백",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "내 남은 연애",
+      "state": "+",
+      "change": "35"
+    },
+    {
       "rank": 6,
-      "keyword": "이강인 아틀레티코 데뷔전",
+      "keyword": "상습 아동 학대",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "여야, 보완수사권 폐지 격화",
+      "keyword": "일주일 새 7명 숨졌다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "경산 방화팀장 숨진 채 발견",
+      "keyword": "심혜진 조카와 하룻밤 데이트",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "끔찍한 변화 피해자 분노",
+      "keyword": "티파니 손 잡은 변요한",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "최애의 사원",
-      "state": "-",
-      "change": "3"
+      "keyword": "붉은 진주",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
