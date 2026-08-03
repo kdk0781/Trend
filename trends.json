@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-03T04:48:17.384Z",
+  "updatedAt": "2026-08-03T08:14:05.694Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "기름",
-      "traffic": "200+"
+      "keyword": "폭염중대경보",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "최영중",
-      "traffic": "200+"
+      "keyword": "손아섭",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "김현수",
+      "keyword": "롤라팔루자",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "수능",
-      "traffic": "100+"
+      "keyword": "돌핀 경로",
+      "traffic": "5000+"
     },
     {
       "rank": 5,
-      "keyword": "오디세이",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "에코프로 비엠",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "차가원",
+      "keyword": "이데일리",
       "traffic": "200+"
     },
     {
-      "rank": 8,
-      "keyword": "상속",
+      "rank": 6,
+      "keyword": "천궁",
       "traffic": "2000+"
     },
     {
+      "rank": 7,
+      "keyword": "하이브",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "가덕도",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "windy",
+      "keyword": "대우건설",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "뉴데일리",
-      "traffic": "500+"
+      "keyword": "해병대",
+      "traffic": "20000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 미국 남미 순방 완료",
-      "state": "+",
-      "change": "3"
+      "keyword": "코스피 5% 급락 마감",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "하이닉스 주가",
+      "keyword": "형사소송법 개정 국민보고회",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "샤를리즈 테론과 맷 데이먼 내한 소감",
-      "state": "+",
-      "change": "3"
+      "keyword": "문진희 심판위원장 사임",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "사랑이 온다 공사장 사고",
-      "state": "+",
-      "change": "1"
+      "keyword": "기아 7월 29.8만대 판매↑",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김세인 물류센터 근무 근황",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "결혼의 완성",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "고우석 징계 8경기로 감경",
+      "keyword": "영재 출연료 정산 완료",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "탄소중립기본법 조기감축 반영",
+      "rank": 6,
+      "keyword": "하이닉스 주가",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "순방 후 국내 현안 집중",
       "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "BHC 강남 스토어 오픈",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "유부녀 킬러 드라마",
-      "state": "+",
-      "change": "1"
+      "keyword": "무인기 통보 누락",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "정성호 장관 임관식 참석",
-      "state": "n",
-      "change": "0"
+      "keyword": "사랑이 온다 협찬과 로맨스",
+      "state": "+",
+      "change": "3"
     }
   ]
 }
