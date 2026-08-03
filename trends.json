@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-03T21:17:18.153Z",
+  "updatedAt": "2026-08-03T22:27:58.334Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "지연수",
-      "traffic": "200+"
+      "keyword": "나스닥 100",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "정재용",
-      "traffic": "200+"
+      "keyword": "맨체스터 유나이티드 fc",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "남보라",
+      "keyword": "보험",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "잭 그릴리시",
-      "traffic": "1000+"
+      "keyword": "차가 원",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "국민연금공단",
-      "traffic": "200+"
+      "keyword": "김대호",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "미국 중간선거",
-      "traffic": "200+"
+      "keyword": "배우",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "이민성",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "농업",
+      "keyword": "기아",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "west indies vs pakistan",
+      "traffic": "100+"
+    },
+    {
       "rank": 9,
-      "keyword": "이찬원",
-      "traffic": "500+"
+      "keyword": "정청래",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "종부세 개편안",
-      "traffic": "2000+"
+      "keyword": "나스닥 지수",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "차가원 대표 구속",
+      "keyword": "트럼프 이란 참수 전 마지막 기회",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "트럼프 이란 마지막 기회",
-      "state": "n",
+      "keyword": "최예나, 소아암 림프종 투병 고백",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이한범 브뤼헤 입단",
+      "keyword": "김민재 뮌헨 주전 유지",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "부동산·증시 점검회의",
-      "state": "+",
-      "change": "1"
+      "keyword": "7시간 반 부동산 회의 바꿀 수 있습니다.",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "첫 폭염중대경보 온열질환자 18명",
-      "state": "+",
-      "change": "3"
+      "keyword": "이유빈 유일한 커플 탄생",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "뮌헨 콤파니 감독 K리그 관전",
+      "keyword": "이강인 아틀레티코 데뷔전",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김대명, 소심남에서 살인마로 변신",
-      "state": "-",
-      "change": "1"
+      "keyword": "여야, 보완수사권 폐지 격화",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "최애의 사원",
-      "state": "-",
-      "change": "1"
+      "keyword": "경산 방화팀장 숨진 채 발견",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "추신수, 5500평 집 화장실 12개",
+      "keyword": "끔찍한 변화 피해자 분노",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "문세윤 결혼 후 LG 팬 야유",
-      "state": "n",
-      "change": "0"
+      "keyword": "최애의 사원",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
