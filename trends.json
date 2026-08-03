@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-03T16:35:14.404Z",
+  "updatedAt": "2026-08-03T18:21:19.773Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "klasemen timnas indonesia vs tim nasional sepak bola vietnam",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
+      "keyword": "제이든 산초",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
       "keyword": "lg이노텍",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "keyword": "화산분화",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "내 남은 연애",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "대피소",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "김용빈",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "반포자이",
       "traffic": "500+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "인터 마이애미 cf",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "인도네시아 대 베트남",
       "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "indonesia đấu với việt nam",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "낚시",
-      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "최고위원 후보자 방송토론회",
+      "keyword": "차가원 300억 사기 구속",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이한범 브뤼헤 입단",
+      "keyword": "노을 강균성 10월 결혼한다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "노을 강균성, 10월 30일 결혼식",
-      "state": "s",
-      "change": "0"
+      "keyword": "이한범, 벨기에 브뤼헤 입단!",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "한은, 13년 만에 금 매입",
-      "state": "s",
+      "keyword": "트럼프 이란 지도부 이중적 태도",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "1호선 외대앞역 무정차",
+      "keyword": "김윤희 스토킹 피해",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "차가원 구속 300억 사기",
+      "keyword": "첫 폭염중대경보 온열질환자 18명",
       "state": "+",
-      "change": "3"
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "구윤철, 2026년 세제개편안 발표",
+      "keyword": "부동산 및 증시 점검 회의",
       "state": "+",
-      "change": "3"
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "폭염 속 실종자 엿새 만에 발견",
+      "keyword": "폭염 중 실종 가족 품으로",
       "state": "-",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "바이에른 훈련 공개",
-      "state": "n",
-      "change": "0"
+      "keyword": "CXMT, 베이징 공장 추진",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "장윤기 사건 수사개혁",
-      "state": "-",
-      "change": "2"
+      "keyword": "FIFA 지지 철회",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
