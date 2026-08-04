@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-04T19:10:19.727Z",
+  "updatedAt": "2026-08-04T20:41:40.887Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "유가증권",
+      "keyword": "자전거",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "토비 맥과이어",
+      "keyword": "유가증권",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "양희은",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "돼지",
+      "keyword": "휴가",
       "traffic": "500+"
     },
     {
+      "rank": 4,
+      "keyword": "스파이더맨: 브랜드 뉴 데이",
+      "traffic": "200+"
+    },
+    {
       "rank": 5,
+      "keyword": "양희은",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "돼지",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
       "keyword": "감염",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "양산시",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "삼성 갤럭시 z 폴드 6",
       "traffic": "2000+"
     },
     {
-      "rank": 8,
-      "keyword": "장동건",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "이윤지",
-      "traffic": "100+"
-    },
-    {
       "rank": 10,
-      "keyword": "이투데이",
-      "traffic": "200+"
+      "keyword": "장동건",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "엔조 마레스카 기자회견",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 2,
-      "keyword": "피해자 면전 돌려차기",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 3,
-      "keyword": "팀 K리그 선수들 훈련 중",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "맷 데이먼 한국 방문기",
+      "keyword": "맨시티 마레스카 감독 만남 기대",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "美재무 원화 변동성 우려",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "태풍 경로",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 4,
+      "keyword": "류승룡, 송영규 추모한다.",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 5,
-      "keyword": "김민재 뮌헨 2-1 승리",
+      "keyword": "김민재, 뮌헨 2-1",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "여에스더와 함익병의 사업 관계",
+      "keyword": "폭염 속 아파트 정전 발생",
       "state": "+",
-      "change": "4"
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "원화 변동성 심화, 엔화 약세 우려",
+      "keyword": "여에스더 함익병 사업 시작",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "류승룡, 故송영규 추모愛",
-      "state": "s",
+      "keyword": "이란 외무부 호르무즈 협의 긍정적",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "뮌헨 콤파니 감독 90분 강도 유지",
+      "keyword": "왕옌청 아시아 최초 10승 달성",
       "state": "+",
-      "change": "3"
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "서울 온열질환자 23명 증가",
-      "state": "+",
-      "change": "3"
+      "keyword": "쿠팡 2분기 영업손실 8350억",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
