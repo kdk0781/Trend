@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-04T20:41:40.887Z",
+  "updatedAt": "2026-08-04T21:57:10.405Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "자전거",
-      "traffic": "200+"
+      "keyword": "운세",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "유가증권",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "휴가",
+      "keyword": "pltr",
       "traffic": "500+"
     },
     {
+      "rank": 3,
+      "keyword": "시청률",
+      "traffic": "10000+"
+    },
+    {
       "rank": 4,
-      "keyword": "스파이더맨: 브랜드 뉴 데이",
-      "traffic": "200+"
+      "keyword": "잠수함",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "양희은",
-      "traffic": "1000+"
+      "keyword": "테니스",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "돼지",
-      "traffic": "1000+"
+      "keyword": "불",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "감염",
+      "keyword": "박지원",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "양산시",
-      "traffic": "200+"
+      "keyword": "비트코인",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "삼성 갤럭시 z 폴드 6",
-      "traffic": "2000+"
+      "keyword": "amd",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "장동건",
-      "traffic": "10000+"
+      "keyword": "스페이스x 주가",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "맨시티 마레스카 감독 만남 기대",
-      "state": "n",
+      "keyword": "쿠팡INC 2분기 영업손실",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "美재무 원화 변동성 우려",
-      "state": "n",
+      "keyword": "태풍 경로",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "태풍 경로",
-      "state": "+",
-      "change": "4"
+      "keyword": "여에스더, 홍혜걸 몫 유산 20% 조치",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "류승룡, 송영규 추모한다.",
+      "keyword": "폭염 속 관중 쓰러짐",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "김민재, 뮌헨 2-1",
-      "state": "-",
-      "change": "1"
+      "keyword": "원화 과도한 변동성",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "폭염 속 아파트 정전 발생",
+      "keyword": "코스타 제주 감독, 뮌헨에 석패",
       "state": "+",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "여에스더 함익병 사업 시작",
+      "keyword": "맷 데이먼 샤를리즈 한국 방문",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이란 외무부 호르무즈 협의 긍정적",
+      "keyword": "7월 외환보유액 증가",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "왕옌청 아시아 최초 10승 달성",
-      "state": "+",
-      "change": "2"
+      "keyword": "아버지 병원비 도박 탕진",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "쿠팡 2분기 영업손실 8350억",
+      "keyword": "이이경 베트남 배우와 밀착 근황",
       "state": "n",
       "change": "0"
     }
