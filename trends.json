@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-04T04:22:56.893Z",
+  "updatedAt": "2026-08-04T07:07:11.516Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "비단뱀",
-      "traffic": "10000+"
+      "keyword": "르윈 디아즈",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "폭력",
+      "keyword": "해군",
       "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "코레일톡",
-      "traffic": "200+"
+      "keyword": "성남시",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "오타니 쇼헤이",
-      "traffic": "500+"
+      "keyword": "대진연",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "추신수",
-      "traffic": "100+"
+      "keyword": "황신혜",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "연금",
-      "traffic": "10000+"
+      "keyword": "인천항",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "인턴",
-      "traffic": "200+"
+      "keyword": "롯데콘서트홀",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "맘스터치",
-      "traffic": "200+"
+      "keyword": "거부권",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "국민성장펀드",
-      "traffic": "500+"
+      "keyword": "압수수색",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "telegram",
-      "traffic": "100+"
+      "keyword": "박현주",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "형사2 안보현 정은채 호흡",
+      "keyword": "미셸 스틸 외교부 방문",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "오세훈 시장, 폐지 어르신 살펴봐요",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "6일 연속 순매수행진",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "유하진 배우 결혼 소식",
+      "keyword": "발언하는 이재명 대통령",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "장동혁 대표 기자회견",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "폭염 속 겨울 용감하게",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 5,
-      "keyword": "오후 1시 전 취소",
+      "keyword": "스파이더맨4, 7일 400만 돌파",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "공효진 태도 논란",
-      "state": "+",
-      "change": "4"
+      "keyword": "유재성 경찰청장 직무대행",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "이정후 2홈런 3안타 3타점 활약",
-      "state": "-",
-      "change": "4"
+      "keyword": "카카오페이 2분기 최대 실적",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "울산 페인트 화재 원인",
+      "keyword": "서울 전역 폭염중대경보",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김구 150주년 전시",
+      "keyword": "김태오♥김이후 8일 결혼 부부 탄생",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "빅뱅 로고 공개",
+      "keyword": "유퉁 입 돌아가고 활동 중단",
       "state": "n",
       "change": "0"
     }
