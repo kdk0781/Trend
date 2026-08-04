@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-04T09:46:30.870Z",
+  "updatedAt": "2026-08-04T11:49:49.799Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "영동군",
-      "traffic": "10000+"
+      "keyword": "시흥시",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "대학",
+      "keyword": "크리스토퍼 놀란",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "케스파",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "kt 대 kia",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "한화 대 삼성",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "13 호 태풍 돌핀 예상 경로",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "lg 대 ssg",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "군함",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "뮌헨 제주",
+      "keyword": "이란 대통령",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "제주 대 바이에른",
+      "traffic": "20000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "식사",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "김서현",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "체리 자동차",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "토토",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "환자",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "합계출산율",
-      "traffic": "100+"
+      "keyword": "중대범죄수사청",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 대통령 업무보고",
-      "state": "+",
-      "change": "1"
+      "keyword": "김성수 김예영 김정중 후임 후보",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "2분기 역대 최대 실적",
-      "state": "+",
-      "change": "4"
+      "keyword": "NCT WISH 재희",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "상현 성대 수술로 활동 중단",
+      "keyword": "지드래곤 악플러 100명 고소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "중대범죄수사청 개청 브리핑",
-      "state": "+",
-      "change": "1"
+      "keyword": "LG 웰스 교체 상황",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "성남, 전경준 결별",
-      "state": "-",
-      "change": "1"
+      "keyword": "레드카펫 팬들 만난 데이먼",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "중수청 정원 2874명 확정",
-      "state": "+",
-      "change": "2"
+      "keyword": "김민재, 뮌헨 주장 출전",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "타들어 가는 청도 물고기",
+      "keyword": "아버지 병원비 도박에 탕진",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김성환 기후부 장관 브리핑",
+      "keyword": "44세 황보라, 폐경 1년 시한부 도전",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "두물머리 시신 유기 30대 항소",
+      "keyword": "권고안 축구협회장 전자투표",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "헤이스 PK 오심 정심",
+      "keyword": "가족관계증명서",
       "state": "n",
       "change": "0"
     }
