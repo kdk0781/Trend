@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-04T21:57:10.405Z",
+  "updatedAt": "2026-08-04T23:00:37.964Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "운세",
-      "traffic": "2000+"
+      "keyword": "최은경",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "pltr",
+      "keyword": "법관",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "시청률",
-      "traffic": "10000+"
+      "keyword": "안지현",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "잠수함",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "테니스",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "불",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "박지원",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "비트코인",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "amd",
+      "keyword": "현행범",
       "traffic": "200+"
     },
     {
-      "rank": 10,
-      "keyword": "스페이스x 주가",
+      "rank": 5,
+      "keyword": "서울특별시",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "조선민주주의인민공화국",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "뉴스",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "필라델피아 반도체 지수",
       "traffic": "1000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "정기예금",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 10,
+      "keyword": "김혜수",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "쿠팡INC 2분기 영업손실",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
       "keyword": "태풍 경로",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "쿠팡 2분기 영업손실 8350억",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 3,
-      "keyword": "여에스더, 홍혜걸 몫 유산 20% 조치",
+      "keyword": "여에스더 유언장 공개",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "폭염 속 관중 쓰러짐",
-      "state": "-",
-      "change": "1"
+      "keyword": "뮌헨 키미히 패스",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "원화 과도한 변동성",
-      "state": "s",
+      "keyword": "호르무즈 협상 진전",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "코스타 제주 감독, 뮌헨에 석패",
+      "keyword": "7월 외환 보유액 증가",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "맷 데이먼 샤를리즈 한국 방문",
+      "keyword": "고 애즈원 이민 1주기 그리운 목소리",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "7월 외환보유액 증가",
-      "state": "n",
+      "keyword": "이하이, 월드투어 전면 취소",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "아버지 병원비 도박 탕진",
+      "keyword": "인중 축소 만족도",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이이경 베트남 배우와 밀착 근황",
+      "keyword": "일본 군사적 선택안 설정",
       "state": "n",
       "change": "0"
     }
