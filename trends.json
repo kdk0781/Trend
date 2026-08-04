@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-03T23:35:22.862Z",
+  "updatedAt": "2026-08-04T01:03:03.693Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이강인",
-      "traffic": "2000+"
+      "keyword": "최진실",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "당구",
+      "keyword": "필라델피아 필리스",
       "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "류현진",
-      "traffic": "500+"
+      "keyword": "박보경",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "강상준",
-      "traffic": "100+"
+      "keyword": "박성웅",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "넷플릭스",
-      "traffic": "5000+"
+      "keyword": "오픈ai",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "팔란티어",
+      "keyword": "엄정화 나이",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "미국 상품거래위원회",
-      "traffic": "200+"
+      "keyword": "다저스 대 컵스",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "국군방첩사령부",
-      "traffic": "200+"
+      "keyword": "황정민 폭로녀",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "pltr",
+      "keyword": "현대 아반떼",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "폐지",
-      "traffic": "200+"
+      "keyword": "상주시",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프, 이란 마지막 기회",
+      "keyword": "강균성의 예비신부 유하진",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 2,
+      "keyword": "7월 소비자물가 2.8% 상승",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "엄정화 나이",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 2,
-      "keyword": "최예나 소아암 투병 고백",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "이재용 개인 배당 1위",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 4,
-      "keyword": "김풍 전립선염 치료 고백",
+      "keyword": "코스피 상승 시작",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "내 남은 연애",
-      "state": "+",
-      "change": "35"
+      "keyword": "베트남 T.응우옌 우승",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "상습 아동 학대",
-      "state": "n",
+      "keyword": "삼성전자 아마존 HDR10+ 적용",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "일주일 새 7명 숨졌다",
-      "state": "n",
-      "change": "0"
+      "keyword": "최민식·한소희 인턴 9월 16일 개봉",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "심혜진 조카와 하룻밤 데이트",
-      "state": "n",
-      "change": "0"
+      "keyword": "하나금융, 혹서기 행복상자 나눔",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "티파니 손 잡은 변요한",
+      "keyword": "치매 시어머니 흉기로 살해한 60대",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "붉은 진주",
+      "keyword": "이형일 차관 물가회의 주재",
       "state": "n",
       "change": "0"
     }
