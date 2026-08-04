@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-04T07:07:11.516Z",
+  "updatedAt": "2026-08-04T09:46:30.870Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "르윈 디아즈",
-      "traffic": "200+"
+      "keyword": "영동군",
+      "traffic": "10000+"
     },
     {
       "rank": 2,
-      "keyword": "해군",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "성남시",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "대진연",
+      "keyword": "대학",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "케스파",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "kt 대 kia",
+      "traffic": "10000+"
+    },
+    {
       "rank": 5,
-      "keyword": "황신혜",
-      "traffic": "2000+"
+      "keyword": "한화 대 삼성",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "인천항",
-      "traffic": "100+"
+      "keyword": "13 호 태풍 돌핀 예상 경로",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "롯데콘서트홀",
-      "traffic": "100+"
+      "keyword": "lg 대 ssg",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "거부권",
+      "keyword": "군함",
       "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "압수수색",
-      "traffic": "1000+"
+      "keyword": "뮌헨 제주",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "박현주",
-      "traffic": "2000+"
+      "keyword": "합계출산율",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "미셸 스틸 외교부 방문",
-      "state": "n",
-      "change": "0"
+      "keyword": "이재명 대통령 업무보고",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "발언하는 이재명 대통령",
-      "state": "s",
-      "change": "0"
+      "keyword": "2분기 역대 최대 실적",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 3,
-      "keyword": "장동혁 대표 기자회견",
-      "state": "s",
+      "keyword": "상현 성대 수술로 활동 중단",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "폭염 속 겨울 용감하게",
+      "keyword": "중대범죄수사청 개청 브리핑",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "스파이더맨4, 7일 400만 돌파",
-      "state": "n",
-      "change": "0"
+      "keyword": "성남, 전경준 결별",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "유재성 경찰청장 직무대행",
-      "state": "n",
-      "change": "0"
+      "keyword": "중수청 정원 2874명 확정",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "카카오페이 2분기 최대 실적",
+      "keyword": "타들어 가는 청도 물고기",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "서울 전역 폭염중대경보",
+      "keyword": "김성환 기후부 장관 브리핑",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김태오♥김이후 8일 결혼 부부 탄생",
+      "keyword": "두물머리 시신 유기 30대 항소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "유퉁 입 돌아가고 활동 중단",
+      "keyword": "헤이스 PK 오심 정심",
       "state": "n",
       "change": "0"
     }
