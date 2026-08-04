@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-04T11:49:49.799Z",
+  "updatedAt": "2026-08-04T13:26:56.546Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "시흥시",
+      "keyword": "산골총각 영웅",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "크리스토퍼 놀란",
+      "keyword": "허재원",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "이란 대통령",
+      "keyword": "서범수",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "제주 대 바이에른",
-      "traffic": "20000+"
+      "keyword": "한문철",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "식사",
-      "traffic": "500+"
+      "keyword": "첼시 fc",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "김서현",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "체리 자동차",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "토토",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "환자",
+      "keyword": "오산 공군기지",
       "traffic": "2000+"
     },
     {
+      "rank": 7,
+      "keyword": "중수 청",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "삼전닉스",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "osan air base",
+      "traffic": "200+"
+    },
+    {
       "rank": 10,
-      "keyword": "중대범죄수사청",
-      "traffic": "1000+"
+      "keyword": "리그 컵",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김성수 김예영 김정중 후임 후보",
-      "state": "s",
+      "keyword": "대법관 후보 김문관 김성수 김예영 김정중",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "NCT WISH 재희",
+      "keyword": "K리그 선수들 훈련 중",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "지드래곤 악플러 100명 고소",
+      "keyword": "맷 데이먼, 한국 팬들과 만남",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "LG 웰스 교체 상황",
+      "keyword": "돌려차기 피해자 화가 나요",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "레드카펫 팬들 만난 데이먼",
+      "keyword": "10년 미만 검사 직급 하락",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김민재, 뮌헨 주장 출전",
-      "state": "n",
-      "change": "0"
+      "keyword": "태풍 경로",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "아버지 병원비 도박에 탕진",
+      "keyword": "영자 흔적 지웠다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "44세 황보라, 폐경 1년 시한부 도전",
+      "keyword": "고소영 시술 의혹 해명",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "권고안 축구협회장 전자투표",
+      "keyword": "K-축구혁신위, 축구협회장 선거인단",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "가족관계증명서",
+      "keyword": "두물머리 30대 남 항소",
       "state": "n",
       "change": "0"
     }
