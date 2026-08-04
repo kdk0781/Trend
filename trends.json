@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-04T01:03:03.693Z",
+  "updatedAt": "2026-08-04T04:22:56.893Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "최진실",
-      "traffic": "500+"
+      "keyword": "비단뱀",
+      "traffic": "10000+"
     },
     {
       "rank": 2,
-      "keyword": "필라델피아 필리스",
+      "keyword": "폭력",
       "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "박보경",
+      "keyword": "코레일톡",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "박성웅",
+      "keyword": "오타니 쇼헤이",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "오픈ai",
+      "keyword": "추신수",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "엄정화 나이",
-      "traffic": "500+"
+      "keyword": "연금",
+      "traffic": "10000+"
     },
     {
       "rank": 7,
-      "keyword": "다저스 대 컵스",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "황정민 폭로녀",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "현대 아반떼",
+      "keyword": "인턴",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "맘스터치",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "국민성장펀드",
+      "traffic": "500+"
+    },
+    {
       "rank": 10,
-      "keyword": "상주시",
+      "keyword": "telegram",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "강균성의 예비신부 유하진",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "7월 소비자물가 2.8% 상승",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "엄정화 나이",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "코스피 상승 시작",
+      "keyword": "형사2 안보현 정은채 호흡",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "오세훈 시장, 폐지 어르신 살펴봐요",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "6일 연속 순매수행진",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "유하진 배우 결혼 소식",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "베트남 T.응우옌 우승",
+      "keyword": "오후 1시 전 취소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "삼성전자 아마존 HDR10+ 적용",
-      "state": "s",
-      "change": "0"
+      "keyword": "공효진 태도 논란",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "최민식·한소희 인턴 9월 16일 개봉",
-      "state": "+",
-      "change": "1"
+      "keyword": "이정후 2홈런 3안타 3타점 활약",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 8,
-      "keyword": "하나금융, 혹서기 행복상자 나눔",
-      "state": "+",
-      "change": "2"
+      "keyword": "울산 페인트 화재 원인",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "치매 시어머니 흉기로 살해한 60대",
+      "keyword": "김구 150주년 전시",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이형일 차관 물가회의 주재",
+      "keyword": "빅뱅 로고 공개",
       "state": "n",
       "change": "0"
     }
