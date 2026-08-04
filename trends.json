@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-08-04T13:26:56.546Z",
+  "updatedAt": "2026-08-04T15:53:15.249Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "산골총각 영웅",
-      "traffic": "200+"
+      "keyword": "삼성 갤럭시 z 폴드 6",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "허재원",
-      "traffic": "200+"
+      "keyword": "장동건",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "서범수",
-      "traffic": "200+"
+      "keyword": "이윤지",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "한문철",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "첼시 fc",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "오산 공군기지",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "중수 청",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "삼전닉스",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "osan air base",
+      "keyword": "이투데이",
       "traffic": "200+"
     },
     {
-      "rank": 10,
-      "keyword": "리그 컵",
+      "rank": 5,
+      "keyword": "투신",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "비행기",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "셀트리온",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "송영규",
       "traffic": "100+"
+    },
+    {
+      "rank": 9,
+      "keyword": "저축",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 10,
+      "keyword": "ฟิลิปปินส์ พบ ไทย",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "대법관 후보 김문관 김성수 김예영 김정중",
+      "keyword": "발언하는 이재명 대통령",
       "state": "n",
       "change": "0"
     },
@@ -67,49 +67,49 @@
     },
     {
       "rank": 3,
-      "keyword": "맷 데이먼, 한국 팬들과 만남",
-      "state": "n",
+      "keyword": "대법관 후보 김문관 김성수 김예영 김정중",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "돌려차기 피해자 화가 나요",
-      "state": "n",
-      "change": "0"
+      "keyword": "맷 데이먼 가족과 한국 방문",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "10년 미만 검사 직급 하락",
-      "state": "n",
-      "change": "0"
+      "keyword": "폭염 속 사고 잇따라",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "태풍 경로",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 7,
-      "keyword": "영자 흔적 지웠다",
+      "keyword": "김민재 뮌헨, 제주 2-1 승리",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "중수청 2874명 확정",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 8,
-      "keyword": "고소영 시술 의혹 해명",
+      "keyword": "중대범죄수사청 진행 브리핑",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "K-축구혁신위, 축구협회장 선거인단",
-      "state": "n",
-      "change": "0"
+      "keyword": "2분기 최대 매출",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "두물머리 30대 남 항소",
+      "keyword": "타들어 가는 청도 물고기 죽음",
       "state": "n",
       "change": "0"
     }
