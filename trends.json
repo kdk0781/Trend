@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-04T17:36:41.291Z",
+  "updatedAt": "2026-08-04T19:10:19.727Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "양희은",
+      "keyword": "유가증권",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "나경원",
-      "traffic": "2000+"
+      "keyword": "토비 맥과이어",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "감염",
-      "traffic": "500+"
+      "keyword": "양희은",
+      "traffic": "200+"
     },
     {
       "rank": 4,
@@ -23,95 +23,95 @@
     },
     {
       "rank": 5,
+      "keyword": "감염",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
       "keyword": "양산시",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "삼성 갤럭시 z 폴드 6",
       "traffic": "2000+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "장동건",
       "traffic": "5000+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "이윤지",
       "traffic": "100+"
     },
     {
-      "rank": 9,
-      "keyword": "이투데이",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "투신",
+      "keyword": "이투데이",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "대법관 후보 김문관 김성수 김예영",
-      "state": "n",
-      "change": "0"
+      "keyword": "엔조 마레스카 기자회견",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "팀 K리그 정정용 감독 맨시티 상대 준비 중",
-      "state": "s",
-      "change": "0"
+      "keyword": "피해자 면전 돌려차기",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 3,
-      "keyword": "폭염 속 아파트 정전 잇따라",
-      "state": "s",
-      "change": "0"
+      "keyword": "팀 K리그 선수들 훈련 중",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "피해자 앞 돌려차기 실언",
-      "state": "s",
+      "keyword": "맷 데이먼 한국 방문기",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "류승룡, 故송영규 추모 사랑해",
-      "state": "+",
-      "change": "3"
+      "keyword": "김민재 뮌헨 2-1 승리",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "LG 웰스 조기 강판",
+      "keyword": "여에스더와 함익병의 사업 관계",
       "state": "+",
-      "change": "1"
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "원화 변동성 과도",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "보완수사권 폐지 논의",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "계열사 누락 총수 과징금",
+      "keyword": "원화 변동성 심화, 엔화 약세 우려",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "한화 왕옌청, 아시아쿼터 10승 도전",
+      "rank": 8,
+      "keyword": "류승룡, 故송영규 추모愛",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "뮌헨 콤파니 감독 90분 강도 유지",
       "state": "+",
-      "change": "6"
+      "change": "3"
+    },
+    {
+      "rank": 10,
+      "keyword": "서울 온열질환자 23명 증가",
+      "state": "+",
+      "change": "3"
     }
   ]
 }
