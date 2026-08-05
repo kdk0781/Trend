@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-05T16:58:03.612Z",
+  "updatedAt": "2026-08-05T18:20:53.474Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "계엄",
-      "traffic": "500+"
+      "keyword": "알테오젠",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "고현정",
+      "keyword": "계엄",
       "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "덕분",
-      "traffic": "100+"
+      "keyword": "고현정",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
+      "keyword": "덕분",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
       "keyword": "장항준",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "fa컵",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "주소",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "채리나",
       "traffic": "500+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "경로당",
       "traffic": "200+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "lck",
       "traffic": "1000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "나는솔로",
-      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "맨시티, 팀 K리그 3-1 승리",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "양정원 수사 무마 구속",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "이재룡 음주운전 혐의는",
+      "keyword": "맨시티 팀 K리그 3-1 승리",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "김민석 당대표 후보 모습",
+      "rank": 2,
+      "keyword": "양정원 무마 의혹 구속",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "이재룡, 술타기 혐의 재판",
       "state": "+",
-      "change": "6"
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "이란 오만 호르무즈 합의",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "배인규 고인 조롱 말아주세요",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "쇼트트랙 임종언 도핑",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "선관위 특검 추천 조두현, 조기연",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "정준원 태도 논란",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
       "keyword": "서울 온열질환자 39명 최다",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "이재명 대통령 활동 보고",
+      "rank": 6,
+      "keyword": "임종언, 도핑 검사 불이행",
       "state": "+",
       "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "주지훈 소속사 강경 대응",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "필 포든의 활약",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "김민석 당대표 후보",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "선관위 특검 후보 추천",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
