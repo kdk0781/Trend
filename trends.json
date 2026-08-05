@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-05T06:09:46.252Z",
+  "updatedAt": "2026-08-05T08:49:21.318Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "총",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "롯데시네마",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "lg화학",
+      "keyword": "테슬라",
       "traffic": "1000+"
     },
     {
+      "rank": 2,
+      "keyword": "부모",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "쿠데타",
+      "traffic": "200+"
+    },
+    {
       "rank": 4,
-      "keyword": "형사소송법",
+      "keyword": "만평",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "바나나킥 아기",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "홍진영",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "무기",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "kbo",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "대탈출",
+      "keyword": "스콧 베선트",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "기마랑이스",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "황정민",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "유해란",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "이지 한",
+      "traffic": "20000+"
+    },
+    {
       "rank": 10,
-      "keyword": "하원미",
-      "traffic": "100+"
+      "keyword": "교통카드",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 유가협 오찬",
-      "state": "+",
-      "change": "8"
+      "keyword": "배인규 대표 숨진채 발견",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "5~6일 경기 취소 바꿔보세요.",
-      "state": "n",
-      "change": "0"
+      "keyword": "업무 보고하는 정성호 장관",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 3,
-      "keyword": "이상준, LA 공연 사과하며 개선 약속",
-      "state": "n",
-      "change": "0"
+      "keyword": "대법 한덕수 이상민 내란 심리",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "홈플러스 재개 언제?",
+      "keyword": "선관위 특검 위원 김용관·차진아",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "아기 바나나킥 추억",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "외국인 6일 순매수",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "고려아연, MBK 고발",
+      "keyword": "코스피 상승 마감",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 8,
-      "keyword": "이유빈 유일한 열애설 해명",
+      "rank": 6,
+      "keyword": "폭염으로 프로야구 전 경기 취소",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 7,
+      "keyword": "법무부, 2026 하반기 보고",
       "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "나우즈 여름 컴백",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "9·10월 A매치 4연전 에콰도르",
-      "state": "-",
-      "change": "6"
+      "keyword": "넷마블, 2분기 영업익 801억 감소",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "돌려차기 망언에도 피해자가",
-      "state": "n",
-      "change": "0"
+      "keyword": "장항준, 정준원 무례 논란 재조명",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
