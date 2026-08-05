@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-05T22:32:48.361Z",
+  "updatedAt": "2026-08-05T23:32:23.308Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "박현경",
-      "traffic": "200+"
+      "keyword": "운세",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "오타니 쇼헤이",
+      "keyword": "임종언",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "에코프로",
-      "traffic": "500+"
+      "keyword": "kt wiz",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "이범호",
-      "traffic": "200+"
+      "keyword": "이정후",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "nvda",
-      "traffic": "200+"
+      "keyword": "연합뉴스",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "공무원",
+      "keyword": "배구",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "김태형",
-      "traffic": "200+"
+      "keyword": "환자경험평가",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "ionq",
+      "keyword": "이재룡",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "mallorca vs psg",
-      "traffic": "200+"
+      "keyword": "박현경",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "보그",
-      "traffic": "100+"
+      "keyword": "오타니 쇼헤이",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "태풍 경로",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이란 호르무즈 항로 합의",
-      "state": "-",
-      "change": "1"
+      "keyword": "이란 대통령 소통 어려움",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "맨시티 팀 K리그 3-1 승리",
-      "state": "n",
+      "keyword": "이정후 5경기 연속 안타",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "코르티스 마틴 첫 예능 출연",
+      "keyword": "튜이드 SUN KISS 24일 데뷔",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "故 배인규 애도 부탁",
+      "keyword": "故배인규 사망 소식",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "태도논란 정준원 안 되는",
+      "keyword": "스페이스X 로켓 잔해 달 충돌",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "폭염 속 시원한 뉴스",
-      "state": "+",
-      "change": "2"
+      "keyword": "이강인 마드리드 데뷔전 앞둬",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이정후 솔로홈런 폭발!",
-      "state": "+",
-      "change": "2"
+      "keyword": "오디세이 첫날 1위",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "서인영 과거 대시 폭로",
-      "state": "-",
-      "change": "1"
+      "keyword": "한국산 물 비하 발언",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "딸의 약속 모발 기부",
+      "keyword": "13세 미만 성범죄 15회",
       "state": "n",
       "change": "0"
     }
