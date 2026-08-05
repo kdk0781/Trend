@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-04T23:00:37.964Z",
+  "updatedAt": "2026-08-05T00:12:21.611Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "최은경",
-      "traffic": "500+"
+      "keyword": "김연경",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "법관",
-      "traffic": "500+"
+      "keyword": "해고",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "안지현",
+      "keyword": "심판",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "현행범",
-      "traffic": "200+"
+      "keyword": "처서",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "서울특별시",
+      "keyword": "아반떼",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "조선민주주의인민공화국",
+      "keyword": "신영균",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "뉴스",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "필라델피아 반도체 지수",
+      "keyword": "재건축",
       "traffic": "1000+"
     },
     {
+      "rank": 8,
+      "keyword": "pga 투어 챔피언스",
+      "traffic": "100+"
+    },
+    {
       "rank": 9,
-      "keyword": "정기예금",
-      "traffic": "2000+"
+      "keyword": "qqqm",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "김혜수",
-      "traffic": "2000+"
+      "keyword": "ลำดับของ ฟุตบอลทีมชาติฟิลิปปินส์ พบ ฟุตบอลทีมชาติไทย",
+      "traffic": "500+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "쿠팡 2분기 영업손실 8350억",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "여에스더 유언장 공개",
+      "keyword": "김우빈, 기프트 출연 야구부 감독",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "김범석 고객 복귀로 성장 자신감",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 4,
-      "keyword": "뮌헨 키미히 패스",
+      "keyword": "PGA 2028 챔피언십",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "호르무즈 협상 진전",
+      "keyword": "김여정, 日 군사력 강화 대응 방안 추가",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "7월 외환 보유액 증가",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "고 애즈원 이민 1주기 그리운 목소리",
+      "keyword": "김민하 17KG 감량, 그럴 일인가?",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "황정민 A씨 추가 폭로",
+      "state": "-",
+      "change": "5"
+    },
+    {
       "rank": 8,
-      "keyword": "이하이, 월드투어 전면 취소",
+      "keyword": "호르무즈 협상 기대",
+      "state": "-",
+      "change": "4"
+    },
+    {
+      "rank": 9,
+      "keyword": "붉은 진주",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "인중 축소 만족도",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 10,
-      "keyword": "일본 군사적 선택안 설정",
-      "state": "n",
-      "change": "0"
+      "keyword": "푸에고 화산 대피",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
