@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-05T21:21:39.092Z",
+  "updatedAt": "2026-08-05T22:32:48.361Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "군인",
-      "traffic": "1000+"
+      "keyword": "박현경",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "อาร์เซนอล พบ เรอัล เบติส",
+      "keyword": "오타니 쇼헤이",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "샌디스크 주가",
-      "traffic": "100+"
+      "keyword": "에코프로",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "대우건설",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "알 테오 젠",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "알렉산더 즈베레프",
+      "keyword": "이범호",
       "traffic": "200+"
     },
     {
+      "rank": 5,
+      "keyword": "nvda",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "공무원",
+      "traffic": "1000+"
+    },
+    {
       "rank": 7,
-      "keyword": "arsenal vs betis",
+      "keyword": "김태형",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "연비",
-      "traffic": "5000+"
+      "keyword": "ionq",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "파업",
-      "traffic": "500+"
+      "keyword": "mallorca vs psg",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "마요르카 대 psg",
-      "traffic": "5000+"
+      "keyword": "보그",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이란 오만 호르무즈 합의",
-      "state": "n",
-      "change": "0"
+      "keyword": "태풍 경로",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "태풍 경로",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 3,
-      "keyword": "맨시티 마레스카 감독 K리그 격파",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 4,
-      "keyword": "故배인규 사망 소식에 시끌",
+      "keyword": "이란 호르무즈 항로 합의",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "양정원 사건 구속",
+      "rank": 3,
+      "keyword": "맨시티 팀 K리그 3-1 승리",
       "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "코르티스 마틴 첫 예능 출연",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "故 배인규 애도 부탁",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "코르티스 마틴 명품백 선물",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "주지훈 소속사 강경 대응",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "이정후 솔로홈런 폭발",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "이재룡, 술타기 법정행",
+      "keyword": "태도논란 정준원 안 되는",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "폭염 속 시원한 뉴스",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "이정후 솔로홈런 폭발!",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "서인영 과거 대시 폭로",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 10,
-      "keyword": "임종언 도핑 불이행 위기",
+      "keyword": "딸의 약속 모발 기부",
       "state": "n",
       "change": "0"
     }
