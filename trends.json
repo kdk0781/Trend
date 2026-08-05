@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-05T00:12:21.611Z",
+  "updatedAt": "2026-08-05T03:34:20.476Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김연경",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "해고",
+      "keyword": "회사",
       "traffic": "200+"
     },
     {
-      "rank": 3,
-      "keyword": "심판",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "처서",
+      "rank": 2,
+      "keyword": "스타벅스 압수수색",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "오은영",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "이만기",
+      "traffic": "200+"
+    },
+    {
       "rank": 5,
-      "keyword": "아반떼",
+      "keyword": "서울시교육청",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "신영균",
+      "keyword": "디앤디파마텍",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "재건축",
-      "traffic": "1000+"
+      "keyword": "이스타항공",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "pga 투어 챔피언스",
-      "traffic": "100+"
+      "keyword": "김여정",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "qqqm",
+      "keyword": "마약",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "ลำดับของ ฟุตบอลทีมชาติฟิลิปปินส์ พบ ฟุตบอลทีมชาติไทย",
+      "keyword": "경기도교육청",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "태풍 경로",
+      "keyword": "송영길 당대표 후보",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김우빈, 기프트 출연 야구부 감독",
-      "state": "n",
+      "keyword": "발언하는 이재명 대통령",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김범석 고객 복귀로 성장 자신감",
+      "keyword": "6일 연속 외국인 순매수",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "PGA 2028 챔피언십",
+      "keyword": "정해인의 사랑 이야기",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김여정, 日 군사력 강화 대응 방안 추가",
-      "state": "n",
-      "change": "0"
+      "keyword": "경기도 재정 비상 선언",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "김민하 17KG 감량, 그럴 일인가?",
+      "keyword": "SK하이닉스 주가 급등",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 7,
+      "keyword": "한국 9월 에콰도르 A매치",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "황정민 A씨 추가 폭로",
-      "state": "-",
-      "change": "5"
-    },
-    {
       "rank": 8,
-      "keyword": "호르무즈 협상 기대",
+      "keyword": "7월 외환보유액 증가",
       "state": "-",
-      "change": "4"
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "붉은 진주",
-      "state": "s",
-      "change": "0"
+      "keyword": "삼전닉스 대표 수사착수",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "푸에고 화산 대피",
-      "state": "-",
-      "change": "2"
+      "keyword": "LG CNS, 14개 공항 AI 추진",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
