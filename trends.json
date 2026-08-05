@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-05T08:49:21.318Z",
+  "updatedAt": "2026-08-05T11:07:46.497Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "테슬라",
-      "traffic": "1000+"
+      "keyword": "타격",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "부모",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "쿠데타",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "만평",
+      "keyword": "한덕수",
       "traffic": "500+"
     },
     {
+      "rank": 3,
+      "keyword": "사고",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "오선우",
+      "traffic": "200+"
+    },
+    {
       "rank": 5,
-      "keyword": "스콧 베선트",
+      "keyword": "band",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "기마랑이스",
-      "traffic": "200+"
+      "keyword": "추석 민생지원금",
+      "traffic": "50000+"
     },
     {
       "rank": 7,
-      "keyword": "황정민",
-      "traffic": "10000+"
+      "keyword": "맨시티",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "유해란",
-      "traffic": "2000+"
+      "keyword": "롯데카드",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "이지 한",
-      "traffic": "20000+"
+      "keyword": "perez hilton",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "교통카드",
+      "keyword": "정동영",
       "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "배인규 대표 숨진채 발견",
-      "state": "s",
+      "keyword": "김민석 후보의 활동",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "업무 보고하는 정성호 장관",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 3,
-      "keyword": "대법 한덕수 이상민 내란 심리",
+      "keyword": "태풍 경로",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "선관위 특검 위원 김용관·차진아",
+      "rank": 3,
+      "keyword": "맨시티, 팀 K리그 상대로 최정예 선발",
       "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "나우즈 현빈 다이어트 도전 중",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "코스피 상승 마감",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "폭염으로 프로야구 전 경기 취소",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 7,
-      "keyword": "법무부, 2026 하반기 보고",
+      "keyword": "선관위 조두현 조기연",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "신남성연대 배인규 법적 공방",
+      "state": "-",
+      "change": "4"
+    },
+    {
+      "rank": 7,
+      "keyword": "하이닉스 주가 급등",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "나우즈 여름 컴백",
-      "state": "+",
-      "change": "2"
+      "keyword": "한덕수 내란 대법 평가",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "넷마블, 2분기 영업익 801억 감소",
-      "state": "+",
-      "change": "3"
+      "keyword": "도졌나 VS 독해진 토론",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "장항준, 정준원 무례 논란 재조명",
-      "state": "+",
-      "change": "1"
+      "keyword": "감독 홍명보 조사",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
