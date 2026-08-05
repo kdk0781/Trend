@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-05T20:03:03.877Z",
+  "updatedAt": "2026-08-05T21:21:39.092Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "파업",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "마요르카 대 psg",
+      "keyword": "군인",
       "traffic": "1000+"
     },
     {
+      "rank": 2,
+      "keyword": "อาร์เซนอล พบ เรอัล เบติส",
+      "traffic": "200+"
+    },
+    {
       "rank": 3,
-      "keyword": "김하성",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "엔비디아 주가",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "아스날",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "lg 의인상",
+      "keyword": "샌디스크 주가",
       "traffic": "100+"
     },
     {
+      "rank": 4,
+      "keyword": "대우건설",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "알 테오 젠",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "알렉산더 즈베레프",
+      "traffic": "200+"
+    },
+    {
       "rank": 7,
-      "keyword": "알테오젠",
+      "keyword": "arsenal vs betis",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "프랑스",
-      "traffic": "100+"
+      "keyword": "연비",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "계엄",
-      "traffic": "1000+"
+      "keyword": "파업",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "고현정",
-      "traffic": "2000+"
+      "keyword": "마요르카 대 psg",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "맨시티 3-1 팀K리그 승리",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "양정원 의혹 구속",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "주지훈 소속사 강경 대응",
+      "keyword": "이란 오만 호르무즈 합의",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "이란 오만 항로 합의",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "서울 온열질환자 39명 발생",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
+      "rank": 2,
       "keyword": "태풍 경로",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 7,
-      "keyword": "배인규 사망 조롱 말아줘",
-      "state": "-",
-      "change": "2"
+      "rank": 3,
+      "keyword": "맨시티 마레스카 감독 K리그 격파",
+      "state": "+",
+      "change": "6"
     },
     {
-      "rank": 8,
-      "keyword": "쇼트트랙 임종언 도핑",
+      "rank": 4,
+      "keyword": "故배인규 사망 소식에 시끌",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "해질녘 광화문광장서 달빛요가",
+      "rank": 5,
+      "keyword": "양정원 사건 구속",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "코르티스 마틴 명품백 선물",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "주지훈 소속사 강경 대응",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "이정후 솔로홈런 폭발",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 9,
+      "keyword": "이재룡, 술타기 법정행",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "이은결, 10년 사기당함",
+      "keyword": "임종언 도핑 불이행 위기",
       "state": "n",
       "change": "0"
     }
