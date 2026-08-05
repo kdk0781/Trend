@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-05T13:00:30.930Z",
+  "updatedAt": "2026-08-05T15:23:41.113Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "엘니뇨",
+      "keyword": "장항준",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "첼시",
+      "keyword": "fa컵",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "장한별",
-      "traffic": "1000+"
+      "keyword": "주소",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "간호사",
+      "keyword": "lck",
       "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "imax",
-      "traffic": "100+"
+      "keyword": "채리나",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "조국",
+      "keyword": "나는솔로",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "chelsea đấu với juventus",
-      "traffic": "100+"
+      "keyword": "경로당",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "기부",
-      "traffic": "1000+"
+      "keyword": "lý nhã kỳ",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "양양군",
+      "keyword": "선수",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "k league all-stars – манчестер сити",
-      "traffic": "100+"
+      "keyword": "tiktok",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재룡, 술타기 혐의 재판",
+      "keyword": "폭염 속 경기 마친 이승우와 기성용",
       "state": "+",
-      "change": "7"
+      "change": "8"
     },
     {
       "rank": 2,
-      "keyword": "마레스카 감독 경기 준비",
-      "state": "+",
-      "change": "5"
+      "keyword": "정성호 장관의 행보",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "해질녘 광화문광장서 달빛요가",
-      "state": "+",
-      "change": "2"
+      "keyword": "김용관 차진아 특검 추천",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "황신혜 동생, 전신마비 화가",
-      "state": "s",
+      "keyword": "나우즈 제로 섹시 컴백!",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "붉은 진주",
-      "state": "+",
-      "change": "1"
+      "keyword": "하반기 정부업무보고 사전브리핑",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "필 포든의 활약",
+      "keyword": "김민석 당대표 후보",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "골 넣은 맨시티",
-      "state": "-",
-      "change": "6"
-    },
-    {
-      "rank": 8,
-      "keyword": "SK하이닉스 주가 급등",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 9,
-      "keyword": "동아시아선수권서 일본 제압",
+      "keyword": "이재명 대통령의 주요 업무 추진",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "한덕수 이상민 내란 사건 심리",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "양정원 무마 의혹 경찰 구속",
+      "state": "-",
+      "change": "5"
+    },
+    {
       "rank": 10,
-      "keyword": "살해 정재환 시신 훼손",
+      "keyword": "코스피 외인 매수로 상승",
       "state": "n",
       "change": "0"
     }
