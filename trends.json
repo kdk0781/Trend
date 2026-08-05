@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-05T15:23:41.113Z",
+  "updatedAt": "2026-08-05T16:58:03.612Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "장항준",
+      "keyword": "계엄",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "fa컵",
-      "traffic": "200+"
+      "keyword": "고현정",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "주소",
-      "traffic": "200+"
+      "keyword": "덕분",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "lck",
+      "keyword": "장항준",
       "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "채리나",
+      "keyword": "fa컵",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "나는솔로",
+      "keyword": "주소",
       "traffic": "200+"
     },
     {
       "rank": 7,
+      "keyword": "채리나",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
       "keyword": "경로당",
       "traffic": "200+"
     },
     {
-      "rank": 8,
-      "keyword": "lý nhã kỳ",
-      "traffic": "100+"
-    },
-    {
       "rank": 9,
-      "keyword": "선수",
-      "traffic": "500+"
+      "keyword": "lck",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "tiktok",
-      "traffic": "200+"
+      "keyword": "나는솔로",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "폭염 속 경기 마친 이승우와 기성용",
-      "state": "+",
-      "change": "8"
+      "keyword": "맨시티, 팀 K리그 3-1 승리",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "정성호 장관의 행보",
+      "keyword": "양정원 수사 무마 구속",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김용관 차진아 특검 추천",
-      "state": "n",
+      "keyword": "이재룡 음주운전 혐의는",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "나우즈 제로 섹시 컴백!",
-      "state": "n",
-      "change": "0"
+      "keyword": "김민석 당대표 후보 모습",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 5,
-      "keyword": "하반기 정부업무보고 사전브리핑",
-      "state": "n",
-      "change": "0"
+      "keyword": "배인규 고인 조롱 말아주세요",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "김민석 당대표 후보",
-      "state": "n",
-      "change": "0"
+      "keyword": "쇼트트랙 임종언 도핑",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "이재명 대통령의 주요 업무 추진",
+      "keyword": "선관위 특검 추천 조두현, 조기연",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "한덕수 이상민 내란 사건 심리",
+      "keyword": "정준원 태도 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "양정원 무마 의혹 경찰 구속",
-      "state": "-",
-      "change": "5"
+      "keyword": "서울 온열질환자 39명 최다",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "코스피 외인 매수로 상승",
-      "state": "n",
-      "change": "0"
+      "keyword": "이재명 대통령 활동 보고",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
