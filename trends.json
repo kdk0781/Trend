@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-06T13:22:32.605Z",
+  "updatedAt": "2026-08-06T15:38:24.149Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "무역",
-      "traffic": "100+"
+      "keyword": "군수산업",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "코로나 바이러스",
+      "keyword": "로드리",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "양육비",
-      "traffic": "2000+"
+      "keyword": "오디세이 영화",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "페이즈",
-      "traffic": "200+"
+      "keyword": "폐암",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "xsmb",
-      "traffic": "1000+"
+      "keyword": "가사 도우미",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "장기하",
+      "keyword": "마테우스 누네스",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "안재현",
-      "traffic": "200+"
+      "keyword": "트로이 전쟁",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "초과근무",
-      "traffic": "500+"
+      "keyword": "현대 그랜저",
+      "traffic": "20000+"
     },
     {
       "rank": 9,
-      "keyword": "김건희",
-      "traffic": "1000+"
+      "keyword": "지승현",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "세계일보",
-      "traffic": "500+"
+      "keyword": "이수",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "놀부 회생 신청 대표 전속사진가 출신",
-      "state": "n",
-      "change": "0"
+      "keyword": "북한, 단거리 미사일 발사",
+      "state": "+",
+      "change": "13"
     },
     {
       "rank": 2,
-      "keyword": "북, 동해 단거리 발사",
+      "keyword": "폭염 속 학교 훈련 점검",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "차가원 105억 전세금",
+      "keyword": "아이유 장기하 노래 선곡 시끌",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "심판 성접대, 월드컵 불참 가능성",
+      "keyword": "프로야구 11일 재개",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "박나래 매니저 2명 기소",
+      "keyword": "이성훈 LH 사장 청년주택 공급 확대",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "프로야구, 폭염에 7시 개시",
+      "keyword": "이강석 대우건설 대표",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "붉은 진주",
-      "state": "-",
-      "change": "5"
-    },
-    {
-      "rank": 8,
-      "keyword": "신동엽 대학로 비하 사과",
+      "keyword": "놀부 회생 대표",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "keyword": "포스코퓨처엠 LFP 양극재 공급",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "방은희, 어머니 고독사 슬픔",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 10,
-      "keyword": "멕시코 LAFC는 승부차기",
+      "keyword": "종합특검 대검 압수수색",
       "state": "n",
       "change": "0"
     }
