@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-06T11:48:52.409Z",
+  "updatedAt": "2026-08-06T13:22:32.605Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "치지직",
-      "traffic": "10000+"
+      "keyword": "무역",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "징역형",
-      "traffic": "500+"
+      "keyword": "코로나 바이러스",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "이임생",
-      "traffic": "10000+"
+      "keyword": "양육비",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "발레단",
+      "keyword": "페이즈",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "노무현",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "정치인",
+      "keyword": "xsmb",
       "traffic": "1000+"
     },
     {
+      "rank": 6,
+      "keyword": "장기하",
+      "traffic": "100+"
+    },
+    {
       "rank": 7,
-      "keyword": "축구",
-      "traffic": "2000+"
+      "keyword": "안재현",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "티로보틱스",
+      "keyword": "초과근무",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "정념",
-      "traffic": "500+"
+      "keyword": "김건희",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "jtbc",
-      "traffic": "200+"
+      "keyword": "세계일보",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "포스코퓨처엠 LFP 양극재 공급",
-      "state": "+",
-      "change": "1"
+      "keyword": "놀부 회생 신청 대표 전속사진가 출신",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "축구협회 외국인 성접대",
+      "keyword": "북, 동해 단거리 발사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "북 탄도미사일 발사",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "해양경찰 태풍 대비 점검",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "SK하이닉스 주가 급등",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "제주삼다수 첫날 공동 4위",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "부총리 스마트쉼센터 방문",
+      "keyword": "차가원 105억 전세금",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "심판 성접대, 월드컵 불참 가능성",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "박나래 매니저 2명 기소",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "프로야구, 폭염에 7시 개시",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "붉은 진주",
+      "state": "-",
+      "change": "5"
+    },
+    {
       "rank": 8,
-      "keyword": "관저 봐주기 유병호 구속 유지",
+      "keyword": "신동엽 대학로 비하 사과",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "프로야구 폭염 브레이크",
+      "keyword": "포스코퓨처엠 LFP 양극재 공급",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "신동엽, 대학로 비하 사과",
-      "state": "+",
-      "change": "2"
+      "keyword": "멕시코 LAFC는 승부차기",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
