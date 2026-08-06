@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-05T23:32:23.308Z",
+  "updatedAt": "2026-08-06T00:58:32.195Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "운세",
-      "traffic": "2000+"
+      "keyword": "inter miami vs san luis",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "임종언",
-      "traffic": "200+"
+      "keyword": "손태진",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "kt wiz",
-      "traffic": "100+"
+      "keyword": "다대포",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "이정후",
-      "traffic": "1000+"
+      "keyword": "포수",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "연합뉴스",
-      "traffic": "100+"
+      "keyword": "windy",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "배구",
-      "traffic": "1000+"
+      "keyword": "소득세",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "환자경험평가",
+      "keyword": "백악관",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "이재룡",
-      "traffic": "200+"
+      "keyword": "이유비",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "박현경",
-      "traffic": "500+"
+      "keyword": "재테크",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "오타니 쇼헤이",
-      "traffic": "500+"
+      "keyword": "금값",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "태풍 경로",
-      "state": "s",
-      "change": "0"
+      "keyword": "구윤철 부총리 비상경제회의 주재",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 2,
-      "keyword": "이란 대통령 소통 어려움",
+      "keyword": "카카오 2분기 최대 영업익",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이정후 5경기 연속 안타",
+      "keyword": "부동산 정책 간담회",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "튜이드 SUN KISS 24일 데뷔",
-      "state": "n",
-      "change": "0"
+      "keyword": "오디세이 개봉 첫날 29만 1위",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "故배인규 사망 소식",
-      "state": "s",
-      "change": "0"
+      "keyword": "이정후, 연속 안타 5경기!",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "스페이스X 로켓 잔해 달 충돌",
+      "keyword": "트럼프 이란 합의 원해요",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "이강인 마드리드 데뷔전 앞둬",
-      "state": "n",
+      "keyword": "하이브 걸그룹 튜이드 데뷔곡은 선 키스",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "오디세이 첫날 1위",
+      "keyword": "SK하이닉스 주가 급등",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "한국산 물 비하 발언",
-      "state": "n",
-      "change": "0"
+      "keyword": "삼성전자 갤럭시 Z8 출시",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "13세 미만 성범죄 15회",
-      "state": "n",
-      "change": "0"
+      "keyword": "故배인규 사망 논란",
+      "state": "-",
+      "change": "6"
     }
   ]
 }
