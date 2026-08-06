@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-06T04:12:58.594Z",
+  "updatedAt": "2026-08-06T06:47:11.491Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "태양광 발전",
-      "traffic": "200+"
+      "keyword": "테슬라",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "말복",
-      "traffic": "500+"
+      "keyword": "이찬원",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "그늘로",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "무죄",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "lafc vs guadalajara",
+      "keyword": "엘에이 fc vs 과달라하라",
       "traffic": "500+"
     },
     {
+      "rank": 4,
+      "keyword": "엘에이 fc",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "인플루언서",
+      "traffic": "1000+"
+    },
+    {
       "rank": 6,
-      "keyword": "윤건영",
-      "traffic": "200+"
+      "keyword": "구윤철",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "사업",
-      "traffic": "100+"
+      "keyword": "전술 핵무기",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "정보사령부",
-      "traffic": "200+"
+      "keyword": "아동수당",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "알렉산드라 에알라",
-      "traffic": "200+"
+      "keyword": "대통령",
+      "traffic": "10000+"
     },
     {
       "rank": 10,
-      "keyword": "공군사관학교",
-      "traffic": "100+"
+      "keyword": "하도급",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "폭염 가뭄 회의 소집",
+      "keyword": "스트레이 키즈 THIS & THAT 발매 기자간담회",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "반민정 9월 결혼",
-      "state": "+",
-      "change": "7"
-    },
-    {
-      "rank": 3,
-      "keyword": "부동산 대토론회 참석한 오세훈",
+      "keyword": "서울중앙시장 쿨링포그",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "김정관 장관의 질의 답변",
+      "rank": 3,
+      "keyword": "화물기 개조 작업",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 4,
+      "keyword": "이재명 대통령 수석보좌관회의",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 5,
-      "keyword": "이상준 LA 공연 논란",
-      "state": "n",
+      "keyword": "디에고 시메오네 감독 방한",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "태풍 경로",
+      "keyword": "태풍 돌핀 북상에도 폭염 지속",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "홍명보 선임 의혹 수사",
-      "state": "n",
-      "change": "0"
+      "keyword": "박윤영 KT 대표, AIDC 경쟁력 강화 필요",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "정념스님 총무원장 출마",
+      "keyword": "CJ ENM 2분기 영업익 증가",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "전민철 발레리노 소감",
+      "keyword": "K1 전차 훈련 중 인명 피해 없어",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "카카오 AI 마켓플레이스 구축",
-      "state": "+",
-      "change": "1"
+      "keyword": "정청래 당대표 후보",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
