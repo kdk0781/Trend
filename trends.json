@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-06T09:31:07.866Z",
+  "updatedAt": "2026-08-06T11:48:52.409Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김택연",
-      "traffic": "200+"
+      "keyword": "치지직",
+      "traffic": "10000+"
     },
     {
       "rank": 2,
-      "keyword": "경찰대",
-      "traffic": "200+"
+      "keyword": "징역형",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "삼성 갤럭시 z 시리즈",
-      "traffic": "200+"
+      "keyword": "이임생",
+      "traffic": "10000+"
     },
     {
       "rank": 4,
-      "keyword": "해운대구",
+      "keyword": "발레단",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "김혜수",
-      "traffic": "10000+"
+      "keyword": "노무현",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "인천국제공항",
-      "traffic": "500+"
+      "keyword": "정치인",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "후보",
-      "traffic": "200+"
+      "keyword": "축구",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "경찰",
-      "traffic": "10000+"
+      "keyword": "티로보틱스",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "자본시장",
+      "keyword": "정념",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "무역수지",
-      "traffic": "500+"
+      "keyword": "jtbc",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "북, 동해상 발사체 발사",
-      "state": "n",
-      "change": "0"
+      "keyword": "포스코퓨처엠 LFP 양극재 공급",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "대우건설 이강석 대표 내정",
+      "keyword": "축구협회 외국인 성접대",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "태풍으로 폭염 식힐까?",
-      "state": "+",
-      "change": "1"
+      "keyword": "북 탄도미사일 발사",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "마테우스 누네스 인터뷰",
+      "keyword": "해양경찰 태풍 대비 점검",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "아이유, 장기하와 별일 없이 살아가기",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "이성훈 LH 사장 청년주택 공급 속도 높이기",
+      "keyword": "SK하이닉스 주가 급등",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "제주삼다수 첫날 공동 4위",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 7,
-      "keyword": "외식업체 놀부 신청",
-      "state": "+",
-      "change": "3"
+      "keyword": "부총리 스마트쉼센터 방문",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "코스피 하락 종료",
-      "state": "-",
-      "change": "7"
+      "keyword": "관저 봐주기 유병호 구속 유지",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "정청래 암살단 불구속 송치",
+      "keyword": "프로야구 폭염 브레이크",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "종합특검 대검 압수수색",
-      "state": "n",
-      "change": "0"
+      "keyword": "신동엽, 대학로 비하 사과",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
