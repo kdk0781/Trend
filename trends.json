@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-06T06:47:11.491Z",
+  "updatedAt": "2026-08-06T09:31:07.866Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "테슬라",
-      "traffic": "2000+"
+      "keyword": "김택연",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "이찬원",
-      "traffic": "2000+"
+      "keyword": "경찰대",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "엘에이 fc vs 과달라하라",
-      "traffic": "500+"
+      "keyword": "삼성 갤럭시 z 시리즈",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "엘에이 fc",
-      "traffic": "1000+"
+      "keyword": "해운대구",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "인플루언서",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "구윤철",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "전술 핵무기",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "아동수당",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "대통령",
+      "keyword": "김혜수",
       "traffic": "10000+"
     },
     {
+      "rank": 6,
+      "keyword": "인천국제공항",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "후보",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "경찰",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "자본시장",
+      "traffic": "500+"
+    },
+    {
       "rank": 10,
-      "keyword": "하도급",
+      "keyword": "무역수지",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "스트레이 키즈 THIS & THAT 발매 기자간담회",
-      "state": "+",
-      "change": "1"
+      "keyword": "북, 동해상 발사체 발사",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "서울중앙시장 쿨링포그",
-      "state": "-",
-      "change": "1"
+      "keyword": "대우건설 이강석 대표 내정",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "화물기 개조 작업",
+      "keyword": "태풍으로 폭염 식힐까?",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "이재명 대통령 수석보좌관회의",
-      "state": "-",
+      "keyword": "마테우스 누네스 인터뷰",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "디에고 시메오네 감독 방한",
-      "state": "s",
+      "keyword": "아이유, 장기하와 별일 없이 살아가기",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "태풍 돌핀 북상에도 폭염 지속",
+      "keyword": "이성훈 LH 사장 청년주택 공급 속도 높이기",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "박윤영 KT 대표, AIDC 경쟁력 강화 필요",
-      "state": "-",
-      "change": "1"
+      "keyword": "외식업체 놀부 신청",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "CJ ENM 2분기 영업익 증가",
-      "state": "n",
-      "change": "0"
+      "keyword": "코스피 하락 종료",
+      "state": "-",
+      "change": "7"
     },
     {
       "rank": 9,
-      "keyword": "K1 전차 훈련 중 인명 피해 없어",
+      "keyword": "정청래 암살단 불구속 송치",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "정청래 당대표 후보",
+      "keyword": "종합특검 대검 압수수색",
       "state": "n",
       "change": "0"
     }
