@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-07T06:35:35.063Z",
+  "updatedAt": "2026-08-07T07:53:56.024Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "여자 배구",
-      "traffic": "200+"
+      "keyword": "주상욱",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "멕시코",
-      "traffic": "1000+"
+      "keyword": "결혼식",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "데이터 센터",
-      "traffic": "200+"
+      "keyword": "재건축",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "골프장",
-      "traffic": "2000+"
+      "keyword": "주주",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "테슬라",
-      "traffic": "2000+"
+      "keyword": "사미자",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "타릭 스쿠발",
+      "keyword": "송성문",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "고문",
-      "traffic": "1000+"
+      "keyword": "시바이누코인",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "탄도 미사일",
-      "traffic": "1000+"
+      "keyword": "군사 기지",
+      "traffic": "10000+"
     },
     {
       "rank": 9,
-      "keyword": "김종민",
+      "keyword": "여자 배구",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "김하영",
-      "traffic": "100+"
+      "keyword": "멕시코",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "국힘 윤리위, 징계 착수",
+      "keyword": "농식품부 폭염·가뭄 점검",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "부위원장 김태유, 원장 김흥규",
-      "state": "s",
+      "keyword": "코스피 하락 마감",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "최성원, 백혈병 완치 여전히 힘들다",
-      "state": "s",
-      "change": "0"
+      "keyword": "제우스 오만의 신",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "홈플러스 가오픈 13일 개장",
-      "state": "s",
-      "change": "0"
+      "keyword": "가수 런치, 안성현과 결혼",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "조세호, 조폭 연루 후 SNS 복귀",
-      "state": "n",
-      "change": "0"
+      "keyword": "롯데웰푸드 2분기 영업익 89% 상승",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "삼성 Z 폴드8·플립8 출시",
-      "state": "s",
+      "keyword": "종합특검 신용해 기소",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "태풍, 韓 상륙 가능성 낮아",
-      "state": "s",
-      "change": "0"
+      "keyword": "규제합리화위 부위원장에 김태유",
+      "state": "-",
+      "change": "6"
     },
     {
       "rank": 8,
-      "keyword": "서장훈, 28억 빌딩 400억 시세 차익",
-      "state": "n",
-      "change": "0"
+      "keyword": "서울 40도 노원 40.2도",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "노태악 수행하느라 직원이",
-      "state": "n",
-      "change": "0"
+      "keyword": "KIA 광복절 유니폼 출시",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "KIA 상무 11명 합격",
-      "state": "n",
-      "change": "0"
+      "keyword": "서장훈, 28억에 산 빌딩 450억에 매물",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
