@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-07T19:57:10.420Z",
+  "updatedAt": "2026-08-07T20:36:50.316Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "블랙핑크",
-      "traffic": "200+"
+      "keyword": "lottery results today",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "이시영",
+      "keyword": "북한이탈주민",
       "traffic": "500+"
     },
     {
       "rank": 3,
+      "keyword": "블랙핑크",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "이시영",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
       "keyword": "최현석",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "klasemen tim nasional sepak bola singapura vs timnas indonesia",
-      "traffic": "100+"
+      "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "놀면 뭐하니?",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "기사",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "류혜영",
       "traffic": "500+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "김구라",
       "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "하한가",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "정해인",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "7월 고용 감소",
+      "keyword": "미국 7월 고용 감소",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "재벌형사2 안보현 아빠 닮으면",
-      "state": "s",
-      "change": "0"
+      "keyword": "김민하 17KG 감량",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 3,
-      "keyword": "6시간 부동산 회의",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
       "keyword": "수원, 김해 꺾고 선두 질주",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "부동산 공급 확대 6시간",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "17KG 감량 김민하의 변신",
+      "rank": 4,
+      "keyword": "ISA 재검토 지시",
       "state": "+",
-      "change": "1"
+      "change": "4"
     },
     {
-      "rank": 7,
-      "keyword": "축구 심판 성접대 논란",
+      "rank": 5,
+      "keyword": "안보현 아빠랑 닮으면 안 돼요.",
       "state": "-",
       "change": "3"
     },
     {
-      "rank": 8,
-      "keyword": "구글 기상 모델 태풍 예보 공개",
+      "rank": 6,
+      "keyword": "韓 축구 복귀 불투명",
       "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 7,
+      "keyword": "사우디 튀르키예 파키스탄 방위조약",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "복지부 폭염 비상대책본부",
+      "state": "+",
       "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "사우디·튀르키예·파키스탄 방위조약 체결",
+      "keyword": "제주 태풍 비와 강풍",
       "state": "-",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "장윤기 사건 의상자 고교생",
-      "state": "-",
-      "change": "5"
+      "keyword": "어머니 살해한 10대 아들",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
