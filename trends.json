@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-07T16:24:39.443Z",
+  "updatedAt": "2026-08-07T17:14:08.381Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "기사",
+      "keyword": "이시영",
       "traffic": "100+"
     },
     {
       "rank": 2,
+      "keyword": "최현석",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "klasemen tim nasional sepak bola singapura vs timnas indonesia",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "놀면 뭐하니?",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "기사",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
       "keyword": "류혜영",
       "traffic": "500+"
     },
     {
-      "rank": 3,
+      "rank": 7,
       "keyword": "하한가",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 8,
       "keyword": "김구라",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "keyword": "정해인",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 10,
       "keyword": "싱가포르 대 인도네시아",
       "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "뉴데일리",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "재벌형사",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "박항서",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "việt nam đấu với campuchia",
-      "traffic": "1000+"
     }
   ],
   "domestic": [
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "고경표와 류혜영 자취방 우정",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "삼성 미야모리 영입!",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "경찰 상피제 실시",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "블랙핑크, 10주년 행사 개최",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "7월 고용 2.3만 감소",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 7,
-      "keyword": "폭염 대응 총력",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "하영, 김무열 약혼녀 글로벌 1위?",
+      "keyword": "고경표와 류혜영 대학 시절 사진 공개",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "7월 고용 감소",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "경찰 상피제 실시",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "삼성 미야모리 영입!",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "블랙핑크 10주년 행사",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "폭염 대응 총력",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "황희 폐버스 주택 논란",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "황희 폐버스 청년주택 논란",
+      "keyword": "버디 퍼트 들어가라",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "첫 홀 버디 도전!",
+      "keyword": "장윤기 사건 의상자 고교생",
       "state": "n",
       "change": "0"
     }
