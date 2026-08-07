@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-07T05:18:54.065Z",
+  "updatedAt": "2026-08-07T06:35:35.063Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "실종자",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "yg",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "배달",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "장윤정",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "저축",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "샌프란시스코 자이언츠",
+      "keyword": "여자 배구",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "멕시코",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "데이터 센터",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "골프장",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "테슬라",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "타릭 스쿠발",
+      "traffic": "1000+"
+    },
+    {
       "rank": 7,
-      "keyword": "용아맥",
-      "traffic": "100+"
+      "keyword": "고문",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "도널드 j. 트럼프",
+      "keyword": "탄도 미사일",
       "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "홍진경",
-      "traffic": "2000+"
+      "keyword": "김종민",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "카카오",
-      "traffic": "500+"
+      "keyword": "김하영",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "갤럭시 Z 폴드8·플립8 출시",
+      "keyword": "국힘 윤리위, 징계 착수",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이재명 국가폭력 피해자 위로 오찬",
-      "state": "n",
+      "keyword": "부위원장 김태유, 원장 김흥규",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "영케이, 사플페 2026 헤드라이너 확정",
+      "keyword": "최성원, 백혈병 완치 여전히 힘들다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "KIA 정해영 상무 합격",
+      "keyword": "홈플러스 가오픈 13일 개장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "국힘 윤리위 징계 절차 개시",
+      "keyword": "조세호, 조폭 연루 후 SNS 복귀",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "한성숙 총리 초등돌봄 방문",
-      "state": "-",
-      "change": "1"
+      "keyword": "삼성 Z 폴드8·플립8 출시",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "오키나와 태풍 13호 영향",
-      "state": "+",
-      "change": "1"
+      "keyword": "태풍, 韓 상륙 가능성 낮아",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "홈플러스 가오픈 매대",
+      "keyword": "서장훈, 28억 빌딩 400억 시세 차익",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "오세훈 시장, 배달노동자 만나기",
+      "keyword": "노태악 수행하느라 직원이",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "조세호, 8개월 만 SNS 복귀",
+      "keyword": "KIA 상무 11명 합격",
       "state": "n",
       "change": "0"
     }
