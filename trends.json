@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-07T14:34:42.603Z",
+  "updatedAt": "2026-08-07T15:29:28.951Z",
   "google": [
     {
       "rank": 1,
       "keyword": "정해인",
-      "traffic": "100+"
+      "traffic": "200+"
     },
     {
       "rank": 2,
@@ -14,103 +14,103 @@
     {
       "rank": 3,
       "keyword": "뉴데일리",
-      "traffic": "200+"
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "재벌형사2",
+      "keyword": "재벌형사",
       "traffic": "500+"
     },
     {
       "rank": 5,
+      "keyword": "trực tiếp bóng đá hôm nay",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
       "keyword": "박항서",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "việt nam đấu với campuchia",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "전고체 전지",
-      "traffic": "200+"
+      "traffic": "500+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "김상혁",
       "traffic": "200+"
     },
     {
-      "rank": 9,
-      "keyword": "엘니뇨",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "구급차",
+      "keyword": "엘니뇨",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "심판 축구협회 성접대",
+      "keyword": "카카오 임금협약 타결",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "9월 가족 사건 수사 중단 으로 변형할 수 있습니다.",
-      "state": "n",
+      "keyword": "재벌X형사",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "블랙핑크 10주년 행사",
-      "state": "-",
-      "change": "1"
+      "keyword": "SK하이닉스 54조 용인 투자",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "재벌X형사",
-      "state": "+",
-      "change": "2"
+      "keyword": "안동 의성 특별재난지역 선포",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "유부녀 킬러 드라마",
-      "state": "-",
-      "change": "1"
+      "keyword": "제우스: 오만의 신 26일 출격",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "美 7월 고용 2만3000명 감소 충격",
-      "state": "-",
-      "change": "1"
+      "keyword": "삼성 미야모리 영입",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "필리핀서 배우 지수 활동 중",
-      "state": "+",
-      "change": "1"
+      "keyword": "하영, 김무열 약혼녀 글로벌 1위?",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "모즈타바, 위독한 상태",
+      "keyword": "폭염 대응 총력",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김민하 소주 2~3병 마신다",
-      "state": "s",
+      "keyword": "블랙핑크 10주년 행사 진행",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "李대통령 부동산 공급",
-      "state": "s",
+      "keyword": "경찰, 상피제 실시",
+      "state": "n",
       "change": "0"
     }
   ]
