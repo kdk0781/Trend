@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-07T12:07:00.281Z",
+  "updatedAt": "2026-08-07T13:32:32.990Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "오재원",
-      "traffic": "200+"
+      "keyword": "베트남 대 캄보디아",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "온도",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "데이브 로버츠",
+      "keyword": "배틀그라운드",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "사과",
+      "traffic": "2000+"
+    },
+    {
       "rank": 4,
-      "keyword": "훈련",
+      "keyword": "이준영",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "교도소",
-      "traffic": "200+"
+      "keyword": "변기",
+      "traffic": "10000+"
     },
     {
       "rank": 6,
-      "keyword": "동전주",
-      "traffic": "100+"
+      "keyword": "내일 날씨",
+      "traffic": "100000+"
     },
     {
       "rank": 7,
-      "keyword": "유조선",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "조갑경",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "이데일리",
+      "keyword": "하영",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "amd",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "전북 현대 모터스 fc",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "남궁민",
+      "keyword": "화성 대 서울e",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "황희 폐버스 청년주택 논란",
-      "state": "s",
+      "keyword": "심판 축구협회 성접대",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "붉은 진주",
-      "state": "+",
-      "change": "30"
-    },
-    {
-      "rank": 3,
-      "keyword": "박민지 제주삼다수 2위 도전",
-      "state": "s",
+      "keyword": "경찰 가족 사건 상피제 시행",
+      "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "붉은 진주",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 4,
-      "keyword": "리센느 논란 후 김선태 근황",
+      "keyword": "안동·의성 특별재난지역 선포",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "구글 기상모델 태풍 예보 공개",
-      "state": "s",
+      "keyword": "블랙핑크 10주년 행사 전원 참석",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "1함대 80주년 비행",
+      "keyword": "황희 청년 주택 제안 철회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "주말 동해안 폭우 예상",
-      "state": "n",
-      "change": "0"
+      "keyword": "유부녀 킬러 드라마",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 8,
-      "keyword": "장재인은 연애 필요 없어",
+      "keyword": "삼성 미야모리 영입",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "교도관 불법 햄버거 제공",
-      "state": "n",
-      "change": "0"
+      "keyword": "李대통령 부동산 확대",
+      "state": "-",
+      "change": "7"
     },
     {
       "rank": 10,
-      "keyword": "9월 상피제 가족 사건 수사 불가",
+      "keyword": "리센느 김선태 고독 근황",
       "state": "n",
       "change": "0"
     }
