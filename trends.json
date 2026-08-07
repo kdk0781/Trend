@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-06T15:38:24.149Z",
+  "updatedAt": "2026-08-07T00:31:27.991Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "군수산업",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "로드리",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "오디세이 영화",
+      "keyword": "비",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "김규원",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "이재영",
+      "traffic": "200+"
+    },
+    {
       "rank": 4,
-      "keyword": "폐암",
-      "traffic": "500+"
+      "keyword": "포스코퓨처엠",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "가사 도우미",
+      "keyword": "대학수학능력시험",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "마테우스 누네스",
-      "traffic": "100+"
+      "keyword": "박완수",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "트로이 전쟁",
-      "traffic": "100+"
+      "keyword": "단거리 탄도 미사일",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "현대 그랜저",
-      "traffic": "20000+"
+      "keyword": "티 웨이 항공",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "지승현",
-      "traffic": "100+"
+      "keyword": "노동조합",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "이수",
+      "keyword": "양양군",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "북한, 단거리 미사일 발사",
-      "state": "+",
-      "change": "13"
+      "keyword": "태풍 영향 줄까?",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "폭염 속 학교 훈련 점검",
-      "state": "n",
-      "change": "0"
+      "keyword": "네이버 2분기 영업익 0.2%↓",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "아이유 장기하 노래 선곡 시끌",
-      "state": "n",
-      "change": "0"
+      "keyword": "영훈, 나무엑터스 전속계약",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 4,
-      "keyword": "프로야구 11일 재개",
-      "state": "n",
-      "change": "0"
+      "keyword": "붉은 진주",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "이성훈 LH 사장 청년주택 공급 확대",
-      "state": "n",
-      "change": "0"
+      "keyword": "비니시우스 재계약 2032년까지",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "이강석 대우건설 대표",
-      "state": "n",
-      "change": "0"
+      "keyword": "로제 블랙핑크 10주년 참석 확정",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "놀부 회생 대표",
+      "keyword": "신동엽 대학로 언행 사과",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "포스코퓨처엠 LFP 양극재 공급",
+      "keyword": "폭염 속 안전 점검 강화",
+      "state": "+",
+      "change": "80"
+    },
+    {
+      "rank": 9,
+      "keyword": "김수미, 연하 사랑 고백",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "방은희, 어머니 고독사 슬픔",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 10,
-      "keyword": "종합특검 대검 압수수색",
-      "state": "n",
+      "keyword": "최승우 감독 인터뷰",
+      "state": "s",
       "change": "0"
     }
   ]
