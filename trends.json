@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-07T00:31:27.991Z",
+  "updatedAt": "2026-08-07T03:33:44.040Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "비",
-      "traffic": "100+"
+      "keyword": "얀 디오망데",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "김규원",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "이재영",
+      "keyword": "조현아",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "김민재",
+      "traffic": "2000+"
+    },
+    {
       "rank": 4,
-      "keyword": "포스코퓨처엠",
+      "keyword": "롯데백화점",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "대학수학능력시험",
-      "traffic": "200+"
+      "keyword": "기쁨조",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "박완수",
+      "keyword": "로봇청소기",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "단거리 탄도 미사일",
-      "traffic": "200+"
+      "keyword": "대구광역시교육청",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "티 웨이 항공",
-      "traffic": "1000+"
+      "keyword": "해군사관학교",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "노동조합",
-      "traffic": "500+"
+      "keyword": "손태영",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "양양군",
-      "traffic": "200+"
+      "keyword": "해변",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "태풍 영향 줄까?",
+      "keyword": "선관위 특검 첫 회의 진행",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "네이버 2분기 영업익 0.2%↓",
+      "keyword": "장동혁 정책 정상화",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "임성근 3년 징역",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 3,
-      "keyword": "영훈, 나무엑터스 전속계약",
-      "state": "+",
-      "change": "4"
-    },
-    {
       "rank": 4,
-      "keyword": "붉은 진주",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "비니시우스 재계약 2032년까지",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "로제 블랙핑크 10주년 참석 확정",
+      "keyword": "블랙핑크 10주년 행사 참석",
       "state": "-",
       "change": "3"
     },
     {
+      "rank": 5,
+      "keyword": "이 대통령, 삼정검 수여",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "김규원이 사회복무 시절 미담을 남겼다.",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 7,
-      "keyword": "신동엽 대학로 언행 사과",
+      "keyword": "차가원 대표 구속",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "폭염 속 안전 점검 강화",
-      "state": "+",
-      "change": "80"
+      "keyword": "갤럭시 Z 폴드8·플립8 출시",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김수미, 연하 사랑 고백",
+      "keyword": "회장 월드컵 보이콧",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "최승우 감독 인터뷰",
-      "state": "s",
+      "keyword": "오세훈, 배달노동자와 대화",
+      "state": "n",
       "change": "0"
     }
   ]
