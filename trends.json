@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T18:03:21.964Z",
+  "updatedAt": "2026-08-07T19:09:53.915Z",
   "google": [
     {
       "rank": 1,
@@ -8,12 +8,12 @@
     },
     {
       "rank": 2,
-      "keyword": "최현석",
+      "keyword": "이시영",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "이시영",
+      "keyword": "최현석",
       "traffic": "200+"
     },
     {
@@ -44,7 +44,7 @@
     {
       "rank": 9,
       "keyword": "하한가",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
       "rank": 10,
@@ -55,62 +55,62 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "美 7월 고용 감소",
+      "keyword": "7월 고용 2.3만명 감소",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "6시간 부동산 회의",
+      "keyword": "고경표 류혜영 대학 시절 사진 공개",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "17KG 감량 김민하 반전 과거",
-      "state": "+",
-      "change": "1"
+      "keyword": "재벌형사2 궈튜브 출연폭소",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "심판 성접대 사건 논란",
-      "state": "+",
-      "change": "6"
+      "keyword": "6시간 부동산 회의 진행",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "장윤기 사건 의상자 고교생",
-      "state": "s",
+      "keyword": "수원, 김해 꺾고 K리그2 선두 4연패",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "사우디 튀르키예 파키스탄 방위조약",
+      "keyword": "장윤기 사건 의상자 고교생",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "17KG 감량 김민하",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "폭염 대응 총력",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 8,
-      "keyword": "박민지 제주삼다수 2R 2위 도전",
-      "state": "n",
-      "change": "0"
+      "keyword": "사우디·튀르키예·파키스탄 방위조약",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "장재인 서울 집 팔고 김포 아파트 소유",
-      "state": "+",
-      "change": "2"
+      "keyword": "축구 심판 성접대 논란",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "수원, 김해 꺾고 선두 4연패",
-      "state": "n",
+      "keyword": "폭염 속의 고난",
+      "state": "s",
       "change": "0"
     }
   ]
