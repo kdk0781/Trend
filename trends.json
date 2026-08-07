@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-07T07:53:56.024Z",
+  "updatedAt": "2026-08-07T08:47:52.219Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "주상욱",
-      "traffic": "5000+"
+      "keyword": "위원장",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "결혼식",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "재건축",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "주주",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "사미자",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "송성문",
+      "keyword": "현금",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
-      "keyword": "시바이누코인",
+      "rank": 3,
+      "keyword": "의사",
       "traffic": "500+"
     },
     {
+      "rank": 4,
+      "keyword": "설리해수욕장",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "사직야구장",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "manga million",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "뇌물",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "군사 기지",
+      "keyword": "주상욱",
       "traffic": "10000+"
     },
     {
       "rank": 9,
-      "keyword": "여자 배구",
-      "traffic": "500+"
+      "keyword": "결혼식",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "멕시코",
-      "traffic": "1000+"
+      "keyword": "재건축",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "농식품부 폭염·가뭄 점검",
-      "state": "n",
+      "keyword": "카카오 임금협약 타결",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "코스피 하락 마감",
+      "keyword": "용인·청주 54조 투자",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "제우스 오만의 신",
-      "state": "-",
-      "change": "1"
+      "keyword": "농식품부 폭염 가뭄 점검",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "가수 런치, 안성현과 결혼",
-      "state": "+",
+      "keyword": "제우스 쇼케이스 박지현 참석",
+      "state": "-",
       "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "롯데웰푸드 2분기 영업익 89% 상승",
+      "keyword": "런치, 안성현과 8년 열애 후 결혼",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "종합특검 신용해 기소",
-      "state": "n",
+      "keyword": "전준표·손용준 7월 루키상 수상",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "규제합리화위 부위원장에 김태유",
-      "state": "-",
-      "change": "6"
+      "keyword": "롯데웰푸드 2분기 영업익 급증",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "서울 40도 노원 40.2도",
+      "keyword": "서범수·진종오 징계 개시",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "KIA 광복절 유니폼 출시",
-      "state": "+",
-      "change": "2"
+      "keyword": "서울 40도 노원 40.2도",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "서장훈, 28억에 산 빌딩 450억에 매물",
+      "keyword": "프리마켓 주문 금지",
       "state": "-",
-      "change": "2"
+      "change": "1"
     }
   ]
 }
