@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-07T11:26:31.135Z",
+  "updatedAt": "2026-08-07T12:07:00.281Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "남궁민",
+      "keyword": "오재원",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "농협은행",
-      "traffic": "200+"
+      "keyword": "온도",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "교도관",
-      "traffic": "2000+"
+      "keyword": "데이브 로버츠",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "벨기에",
-      "traffic": "200+"
+      "keyword": "훈련",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "미드필더",
+      "keyword": "교도소",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "태풍 돌핀 경로",
-      "traffic": "200+"
+      "keyword": "동전주",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "규제",
-      "traffic": "200+"
+      "keyword": "유조선",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "투표율",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "중앙은행",
+      "keyword": "조갑경",
       "traffic": "500+"
     },
     {
+      "rank": 9,
+      "keyword": "이데일리",
+      "traffic": "200+"
+    },
+    {
       "rank": 10,
-      "keyword": "고척스카이돔",
+      "keyword": "남궁민",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "안동·의성 특별재난지역 선포",
+      "keyword": "황희 폐버스 청년주택 논란",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "삼성 미야모리 영입",
+      "keyword": "붉은 진주",
+      "state": "+",
+      "change": "30"
+    },
+    {
+      "rank": 3,
+      "keyword": "박민지 제주삼다수 2위 도전",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "김선태 고독한 근황",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 4,
-      "keyword": "황희 폐버스 청년주거 제안",
+      "keyword": "리센느 논란 후 김선태 근황",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "일본 괴물 태풍 돌핀 접근",
+      "keyword": "구글 기상모델 태풍 예보 공개",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "경찰, 9월 가족 사건 수사 못한다",
-      "state": "-",
-      "change": "3"
+      "keyword": "1함대 80주년 비행",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "블랙핑크 10주년 행사 전원 참석",
+      "keyword": "주말 동해안 폭우 예상",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "붉은 진주",
+      "keyword": "장재인은 연애 필요 없어",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "정관수술 복원 정자 7마리",
+      "keyword": "교도관 불법 햄버거 제공",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "농진청 폭염 대응",
+      "keyword": "9월 상피제 가족 사건 수사 불가",
       "state": "n",
       "change": "0"
     }
