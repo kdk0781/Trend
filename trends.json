@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-07T09:43:35.363Z",
+  "updatedAt": "2026-08-07T10:35:23.607Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "롯데 대 kt",
+      "keyword": "투표율",
       "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "축제",
-      "traffic": "200+"
+      "keyword": "중앙은행",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "qwen",
-      "traffic": "100+"
+      "keyword": "고척스카이돔",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "그늘로",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "항소",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "육사",
+      "keyword": "골프",
       "traffic": "2000+"
     },
     {
+      "rank": 5,
+      "keyword": "두산 대 삼성",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "화성 fc",
+      "traffic": "100+"
+    },
+    {
       "rank": 7,
-      "keyword": "고흥군",
+      "keyword": "타릭 스쿠 발",
       "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "구금",
+      "keyword": "롯데 대 kt",
       "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "위원장",
-      "traffic": "10000+"
+      "keyword": "축제",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "현금",
-      "traffic": "2000+"
+      "keyword": "qwen",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "용인·청주 54조 투자",
+      "keyword": "안동·의성 특별재난지역 선포",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "카카오 임금협약 타결",
-      "state": "n",
-      "change": "0"
+      "keyword": "삼성 미야모리 영입!",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "제우스: 오만의 신 26일 출시",
-      "state": "s",
+      "keyword": "상피제 가족 사건 수사 불가",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "삼성 미야모리 영입",
-      "state": "s",
-      "change": "0"
+      "keyword": "김무열 윤승아 부부 데이트",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 5,
-      "keyword": "안동·의성 특별재난지역 선포",
-      "state": "n",
-      "change": "0"
+      "keyword": "SK하이닉스 용인 청주 54조 투자",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 6,
-      "keyword": "CJ CGV, 세전 이익 흑자 전환",
-      "state": "n",
-      "change": "0"
+      "keyword": "하나은행 주담대 중단",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "KDB생명 인수전 한화·한투·흥국 3파전",
-      "state": "n",
-      "change": "0"
+      "keyword": "KDB생명 인수전 3파전",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "하나은행 주담대 중단.",
+      "keyword": "태풍 경로",
       "state": "+",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "경찰, 가족 사건 상피제 실시",
-      "state": "n",
-      "change": "0"
+      "keyword": "정준원, 태도 논란 중 홍보 재개",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 10,
-      "keyword": "태풍 경로",
-      "state": "+",
-      "change": "2"
+      "keyword": "교도관 수용자 챙김",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
