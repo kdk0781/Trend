@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-07T21:19:32.344Z",
+  "updatedAt": "2026-08-07T21:58:45.461Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "현대 아반떼",
-      "traffic": "500+"
+      "keyword": "손흥민",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "북대서양 조약 기구",
-      "traffic": "500+"
+      "keyword": "탁구",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "김행직",
+      "keyword": "중대범죄수사청",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "조희대",
-      "traffic": "200+"
+      "keyword": "결혼의 완성",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "풀백",
+      "keyword": "현대자동차",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "latest iphone rumors",
-      "traffic": "100+"
+      "keyword": "고현정",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "노사모",
-      "traffic": "100+"
+      "keyword": "이범호",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "lottery results today",
-      "traffic": "100+"
+      "keyword": "카를로스 알카라스",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "북한이탈주민",
-      "traffic": "1000+"
+      "keyword": "대한축구협회",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "블랙핑크",
-      "traffic": "200+"
+      "keyword": "임영웅",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "류혜영과 고경표의 힐링 산책",
+      "keyword": "폭염 속 불편한 주민들",
       "state": "+",
-      "change": "1"
+      "change": "11"
     },
     {
       "rank": 2,
-      "keyword": "美 7월 고용 감소 2.3만명",
+      "keyword": "블랙핑크 10주년 행사 진행",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "17KG 감량 김민하 합격",
-      "state": "s",
-      "change": "0"
+      "keyword": "ISA 개편 재검토 지시",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "태풍 영향 제주 강풍 지속",
-      "state": "s",
+      "keyword": "이런 엿 같은 사랑",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "수원, 김해 꺾고 4연패 선두",
+      "keyword": "뉴시스와 전성수 서초구청장",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "안보현 아빠 닮으면 안돼",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "고용 충격 금리",
       "state": "+",
       "change": "3"
     },
     {
-      "rank": 6,
-      "keyword": "ISA 재검토 지시",
+      "rank": 8,
+      "keyword": "나 혼자 산다 예고편 공개",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "붉은 진주",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "재벌X형사",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "나 혼자 산다 예고편 공개",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "폭염 비상대책본부 가동",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 10,
-      "keyword": "韓 축구, 역사적 스캔들 우려",
-      "state": "n",
-      "change": "0"
+      "keyword": "어머니 흉기 살해 아들 체포",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
