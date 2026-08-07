@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-07T08:47:52.219Z",
+  "updatedAt": "2026-08-07T09:43:35.363Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "위원장",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "현금",
+      "keyword": "롯데 대 kt",
       "traffic": "1000+"
     },
     {
+      "rank": 2,
+      "keyword": "축제",
+      "traffic": "200+"
+    },
+    {
       "rank": 3,
-      "keyword": "의사",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "설리해수욕장",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "사직야구장",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "manga million",
+      "keyword": "qwen",
       "traffic": "100+"
     },
     {
+      "rank": 4,
+      "keyword": "그늘로",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "항소",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "육사",
+      "traffic": "2000+"
+    },
+    {
       "rank": 7,
-      "keyword": "뇌물",
-      "traffic": "200+"
+      "keyword": "고흥군",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "주상욱",
-      "traffic": "10000+"
+      "keyword": "구금",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "결혼식",
-      "traffic": "5000+"
+      "keyword": "위원장",
+      "traffic": "10000+"
     },
     {
       "rank": 10,
-      "keyword": "재건축",
-      "traffic": "5000+"
+      "keyword": "현금",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "카카오 임금협약 타결",
-      "state": "s",
-      "change": "0"
+      "keyword": "용인·청주 54조 투자",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "용인·청주 54조 투자",
+      "keyword": "카카오 임금협약 타결",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "농식품부 폭염 가뭄 점검",
+      "keyword": "제우스: 오만의 신 26일 출시",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "제우스 쇼케이스 박지현 참석",
-      "state": "-",
-      "change": "2"
+      "keyword": "삼성 미야모리 영입",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "런치, 안성현과 8년 열애 후 결혼",
-      "state": "-",
-      "change": "1"
+      "keyword": "안동·의성 특별재난지역 선포",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "전준표·손용준 7월 루키상 수상",
-      "state": "s",
+      "keyword": "CJ CGV, 세전 이익 흑자 전환",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "롯데웰푸드 2분기 영업익 급증",
-      "state": "s",
+      "keyword": "KDB생명 인수전 한화·한투·흥국 3파전",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "서범수·진종오 징계 개시",
+      "keyword": "하나은행 주담대 중단.",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "서울 40도 노원 40.2도",
-      "state": "-",
-      "change": "1"
+      "keyword": "경찰, 가족 사건 상피제 실시",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "프리마켓 주문 금지",
-      "state": "-",
-      "change": "1"
+      "keyword": "태풍 경로",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
