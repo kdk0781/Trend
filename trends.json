@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-07T15:29:28.951Z",
+  "updatedAt": "2026-08-07T16:24:39.443Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "정해인",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "싱가포르 대 인도네시아",
+      "keyword": "기사",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "류혜영",
+      "traffic": "500+"
+    },
+    {
       "rank": 3,
-      "keyword": "뉴데일리",
+      "keyword": "하한가",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "재벌형사",
+      "keyword": "김구라",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "trực tiếp bóng đá hôm nay",
+      "keyword": "정해인",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "박항서",
+      "keyword": "싱가포르 대 인도네시아",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "việt nam đấu với campuchia",
-      "traffic": "1000+"
+      "keyword": "뉴데일리",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "전고체 전지",
+      "keyword": "재벌형사",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "김상혁",
-      "traffic": "200+"
+      "keyword": "박항서",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "엘니뇨",
-      "traffic": "200+"
+      "keyword": "việt nam đấu với campuchia",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "카카오 임금협약 타결",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "재벌X형사",
+      "keyword": "안동·의성 특별재난지역 선포",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "고경표와 류혜영 자취방 우정",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 3,
-      "keyword": "SK하이닉스 54조 용인 투자",
-      "state": "n",
-      "change": "0"
+      "keyword": "삼성 미야모리 영입!",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "안동 의성 특별재난지역 선포",
-      "state": "n",
-      "change": "0"
+      "keyword": "경찰 상피제 실시",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "제우스: 오만의 신 26일 출격",
-      "state": "n",
-      "change": "0"
+      "keyword": "블랙핑크, 10주년 행사 개최",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "삼성 미야모리 영입",
-      "state": "n",
-      "change": "0"
+      "keyword": "7월 고용 2.3만 감소",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "하영, 김무열 약혼녀 글로벌 1위?",
+      "keyword": "폭염 대응 총력",
       "state": "-",
       "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "폭염 대응 총력",
-      "state": "n",
+      "keyword": "하영, 김무열 약혼녀 글로벌 1위?",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "블랙핑크 10주년 행사 진행",
+      "keyword": "황희 폐버스 청년주택 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "경찰, 상피제 실시",
+      "keyword": "첫 홀 버디 도전!",
       "state": "n",
       "change": "0"
     }
