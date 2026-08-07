@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-07T10:35:23.607Z",
+  "updatedAt": "2026-08-07T11:26:31.135Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "남궁민",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
+      "keyword": "농협은행",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "교도관",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "벨기에",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "미드필더",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "태풍 돌핀 경로",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "규제",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
       "keyword": "투표율",
       "traffic": "1000+"
     },
     {
-      "rank": 2,
+      "rank": 9,
       "keyword": "중앙은행",
       "traffic": "500+"
     },
     {
-      "rank": 3,
+      "rank": 10,
       "keyword": "고척스카이돔",
       "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "골프",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "두산 대 삼성",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "화성 fc",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "타릭 스쿠 발",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "롯데 대 kt",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "축제",
-      "traffic": "500+"
-    },
-    {
-      "rank": 10,
-      "keyword": "qwen",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "안동·의성 특별재난지역 선포",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "삼성 미야모리 영입!",
-      "state": "+",
-      "change": "1"
+      "keyword": "삼성 미야모리 영입",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "상피제 가족 사건 수사 불가",
+      "keyword": "김선태 고독한 근황",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김무열 윤승아 부부 데이트",
-      "state": "+",
-      "change": "6"
+      "keyword": "황희 폐버스 청년주거 제안",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "SK하이닉스 용인 청주 54조 투자",
-      "state": "-",
-      "change": "4"
+      "keyword": "일본 괴물 태풍 돌핀 접근",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "하나은행 주담대 중단",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "KDB생명 인수전 3파전",
+      "keyword": "경찰, 9월 가족 사건 수사 못한다",
       "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "태풍 경로",
-      "state": "+",
       "change": "3"
     },
     {
+      "rank": 7,
+      "keyword": "블랙핑크 10주년 행사 전원 참석",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "붉은 진주",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "정준원, 태도 논란 중 홍보 재개",
-      "state": "-",
-      "change": "5"
+      "keyword": "정관수술 복원 정자 7마리",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "교도관 수용자 챙김",
+      "keyword": "농진청 폭염 대응",
       "state": "n",
       "change": "0"
     }
