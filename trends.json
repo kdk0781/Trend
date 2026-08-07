@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-07T22:36:52.058Z",
+  "updatedAt": "2026-08-07T23:14:51.442Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "погода",
+      "keyword": "정청래",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "포스코홀딩스",
+      "keyword": "이한범",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "전차",
+      "keyword": "박서진",
       "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "ionq",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "송혜교",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "이혼숙려캠프: 새로고침",
+      "keyword": "디지털 자산",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "수술실",
-      "traffic": "100+"
+      "rank": 5,
+      "keyword": "교사",
+      "traffic": "200+"
     },
     {
-      "rank": 8,
-      "keyword": "드래프트",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "bmw 레이디스 챔피언십",
+      "rank": 6,
+      "keyword": "thời tiết",
       "traffic": "500+"
     },
     {
+      "rank": 7,
+      "keyword": "정해영",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "펍지",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
+      "keyword": "weather",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "필라델피아 반도체 지수",
+      "keyword": "สภาพอากาศ",
       "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "폭염 속 정전 피해",
+      "keyword": "폭염 속 불편한 일상",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "태풍 영향 제주 강풍·비",
+      "keyword": "태풍 영향으로 제주 비와 강풍 발생",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "블랙핑크 10주년 편지",
+      "keyword": "블랙핑크, 오늘 10주년 행사 진행",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "어머니 살해 10대 아들 체포",
+      "keyword": "어머니 흉기살해 10대 체포",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
       "keyword": "이런 엿 같은 사랑",
-      "state": "-",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "인터뷰하는 전성수 서초구청장",
-      "state": "-",
+      "keyword": "하리수, 미키정 이혼 이유 고백",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "하리수 미키정 이혼 이유",
+      "keyword": "뉴시스와 인터뷰하는 서초구청장",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "나 혼자 산다 냉면 데이트",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "정해인, 회식비로 대게 쐈다",
+      "keyword": "美 고용 충격, 금리 인상 멀어져",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "붉은 진주",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 10,
-      "keyword": "부회장도 사인했다 성접대",
+      "keyword": "이란 거래소 제재",
       "state": "n",
       "change": "0"
     }
