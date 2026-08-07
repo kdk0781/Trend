@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-07T23:14:51.442Z",
+  "updatedAt": "2026-08-07T23:48:57.543Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "정청래",
-      "traffic": "500+"
+      "keyword": "잔니 인판티노",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "이한범",
-      "traffic": "200+"
+      "keyword": "황희찬",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "박서진",
-      "traffic": "1000+"
+      "keyword": "쓰레기봉투",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "디지털 자산",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "교사",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "thời tiết",
+      "keyword": "활옥동굴",
       "traffic": "500+"
     },
     {
+      "rank": 5,
+      "keyword": "기술",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "신유빈",
+      "traffic": "2000+"
+    },
+    {
       "rank": 7,
-      "keyword": "정해영",
+      "keyword": "정청래",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "펍지",
-      "traffic": "100+"
+      "keyword": "이한범",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "weather",
-      "traffic": "2000+"
+      "keyword": "나는 solo, 그 후 사랑은 계속된다",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "สภาพอากาศ",
-      "traffic": "1000+"
+      "keyword": "박서진",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "폭염 속 불편한 일상",
+      "keyword": "태풍 영향 제주 강풍 지속",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "태풍 영향으로 제주 비와 강풍 발생",
-      "state": "+",
-      "change": "1"
+      "keyword": "대구 아파트 1200세대 정전",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "블랙핑크, 오늘 10주년 행사 진행",
-      "state": "-",
-      "change": "1"
+      "keyword": "블랙핑크 10주년 논란 미안해",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "어머니 흉기살해 10대 체포",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
       "keyword": "이런 엿 같은 사랑",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "하리수, 미키정 이혼 이유 고백",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "뉴시스와 인터뷰하는 서초구청장",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "美 고용 충격, 금리 인상 멀어져",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
+      "rank": 5,
       "keyword": "붉은 진주",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 6,
+      "keyword": "재벌X형사",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "나 혼자 여행 데이트",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "김상식호 A매치 무패 22경기",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "김민재 첫 골 뮌헨 신승!",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "이란 거래소 제재",
+      "keyword": "A씨 불륜 저격",
       "state": "n",
       "change": "0"
     }
