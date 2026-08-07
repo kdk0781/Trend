@@ -1,39 +1,39 @@
 {
-  "updatedAt": "2026-08-07T17:14:08.381Z",
+  "updatedAt": "2026-08-07T18:03:21.964Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이시영",
-      "traffic": "100+"
+      "keyword": "블랙핑크",
+      "traffic": "200+"
     },
     {
       "rank": 2,
       "keyword": "최현석",
-      "traffic": "100+"
+      "traffic": "200+"
     },
     {
       "rank": 3,
+      "keyword": "이시영",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
       "keyword": "klasemen tim nasional sepak bola singapura vs timnas indonesia",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "놀면 뭐하니?",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "기사",
       "traffic": "100+"
     },
     {
-      "rank": 6,
-      "keyword": "류혜영",
-      "traffic": "500+"
-    },
-    {
       "rank": 7,
-      "keyword": "하한가",
+      "keyword": "류혜영",
       "traffic": "500+"
     },
     {
@@ -43,51 +43,51 @@
     },
     {
       "rank": 9,
-      "keyword": "정해인",
-      "traffic": "200+"
+      "keyword": "하한가",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "싱가포르 대 인도네시아",
-      "traffic": "100+"
+      "keyword": "정해인",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "안동·의성 특별재난지역 선포",
+      "keyword": "美 7월 고용 감소",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "고경표와 류혜영 대학 시절 사진 공개",
+      "keyword": "6시간 부동산 회의",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "7월 고용 감소",
+      "keyword": "17KG 감량 김민하 반전 과거",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "경찰 상피제 실시",
+      "keyword": "심판 성접대 사건 논란",
+      "state": "+",
+      "change": "6"
+    },
+    {
+      "rank": 5,
+      "keyword": "장윤기 사건 의상자 고교생",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "삼성 미야모리 영입!",
-      "state": "-",
-      "change": "2"
-    },
-    {
       "rank": 6,
-      "keyword": "블랙핑크 10주년 행사",
-      "state": "n",
-      "change": "0"
+      "keyword": "사우디 튀르키예 파키스탄 방위조약",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
@@ -97,19 +97,19 @@
     },
     {
       "rank": 8,
-      "keyword": "황희 폐버스 주택 논란",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "버디 퍼트 들어가라",
+      "keyword": "박민지 제주삼다수 2R 2위 도전",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "장재인 서울 집 팔고 김포 아파트 소유",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 10,
-      "keyword": "장윤기 사건 의상자 고교생",
+      "keyword": "수원, 김해 꺾고 선두 4연패",
       "state": "n",
       "change": "0"
     }
