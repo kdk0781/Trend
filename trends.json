@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-08T13:52:53.465Z",
+  "updatedAt": "2026-08-08T14:23:42.591Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이호재",
-      "traffic": "200+"
+      "keyword": "chelsea vs milan",
+      "traffic": "100+"
     },
     {
       "rank": 2,
+      "keyword": "정화조",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "k리그1",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "k리그1 순위",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "라스트 하우스",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "슈퍼주니어",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "이호재",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
       "keyword": "김하영",
       "traffic": "500+"
     },
     {
-      "rank": 3,
-      "keyword": "juventus vs inter",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
+      "rank": 9,
       "keyword": "明天的天氣",
       "traffic": "100+"
     },
     {
-      "rank": 5,
-      "keyword": "thời tiết ngày mai",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "로또1236",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "오윤아",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "김승대",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "제임스 매디슨",
-      "traffic": "1000+"
-    },
-    {
       "rank": 10,
-      "keyword": "기마랑이스",
+      "keyword": "juventus vs inter",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "사랑이 온다 OST 기대감",
+      "keyword": "김민석 제주 승리",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김민석 제주 인천 승리",
-      "state": "s",
-      "change": "0"
+      "keyword": "결혼의 완성",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "스파이더맨4 500만 관객 돌파",
-      "state": "n",
-      "change": "0"
+      "keyword": "사랑이 온다 OST 기대",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "손현보 목사 트럼프 만남",
+      "keyword": "이정후 2타점 안타!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이강인과 시메오네 감독",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "결혼의 완성",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 7,
-      "keyword": "24억 로또 11명 당첨",
+      "keyword": "이란 호르무즈 MOU 배상해야",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "황희 버스 하우스 논란 확대",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "오싹한 연애",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "K리그1 무더위 속 하이드레이션",
-      "state": "-",
-      "change": "2"
+      "keyword": "이강인 AT마드리드 동료들과",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "오싹한 연애",
-      "state": "s",
+      "keyword": "최연청, 화려한 집안 배경",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "황정민 연예인은 호구",
+      "keyword": "한정수 황정민 폭로자도",
       "state": "n",
       "change": "0"
     }
