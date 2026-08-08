@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-07T23:48:57.543Z",
+  "updatedAt": "2026-08-08T00:34:02.464Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "잔니 인판티노",
-      "traffic": "100+"
+      "keyword": "혼외자",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "황희찬",
-      "traffic": "100+"
+      "keyword": "이혜영",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "쓰레기봉투",
+      "keyword": "안젤리나 졸리",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "활옥동굴",
-      "traffic": "500+"
+      "keyword": "보그",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "기술",
+      "keyword": "天気",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "신유빈",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "정청래",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "이한범",
+      "keyword": "틈만나면,",
       "traffic": "200+"
     },
     {
+      "rank": 7,
+      "keyword": "해피투게더",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "pltr",
+      "traffic": "100+"
+    },
+    {
       "rank": 9,
-      "keyword": "나는 solo, 그 후 사랑은 계속된다",
-      "traffic": "500+"
+      "keyword": "자동차",
+      "traffic": "10000+"
     },
     {
       "rank": 10,
-      "keyword": "박서진",
-      "traffic": "2000+"
+      "keyword": "잔니 인판티노",
+      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "대구 아파트 1200세대 정전",
-      "state": "n",
-      "change": "0"
+      "keyword": "안보현, 연쇄 테러로 위기?",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "블랙핑크 10주년 논란 미안해",
-      "state": "n",
-      "change": "0"
+      "keyword": "붉은 진주",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "이런 엿 같은 사랑",
-      "state": "s",
+      "keyword": "기름값 12주 하락",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "붉은 진주",
-      "state": "+",
-      "change": "2"
+      "keyword": "스파이더맨 500만 돌파",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "재벌X형사",
-      "state": "-",
-      "change": "1"
+      "keyword": "류혜영, 고경표와 냉면 데이트",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "나 혼자 여행 데이트",
-      "state": "+",
-      "change": "1"
+      "keyword": "하리수 미키정 이혼 제안",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김상식호 A매치 무패 22경기",
+      "keyword": "SK하이닉스 54조 투자",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김민재 첫 골 뮌헨 신승!",
+      "keyword": "논란 정준원 없었다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "A씨 불륜 저격",
-      "state": "n",
-      "change": "0"
+      "keyword": "이란 거래소 제재",
+      "state": "-",
+      "change": "5"
     }
   ]
 }
