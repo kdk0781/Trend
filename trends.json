@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-08-08T20:51:56.341Z",
+  "updatedAt": "2026-08-08T21:21:31.898Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "디에고 시메오네",
-      "traffic": "100+"
+      "keyword": "민생지원금",
+      "traffic": "10000+"
     },
     {
       "rank": 2,
+      "keyword": "암",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "범죄",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "도경완",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "기사",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "디에고 시메오네",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
       "keyword": "습관",
       "traffic": "500+"
     },
     {
-      "rank": 3,
+      "rank": 8,
       "keyword": "고흥군",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "keyword": "송가인",
       "traffic": "200+"
     },
     {
-      "rank": 5,
-      "keyword": "ps",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "오상진",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "페렌츠바로시 대 레알 마드리드",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "레알마드리드",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "서점가",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "정가은",
+      "keyword": "바르셀로나",
       "traffic": "200+"
     }
   ],
@@ -56,62 +56,62 @@
     {
       "rank": 1,
       "keyword": "결혼의 완성",
-      "state": "+",
-      "change": "6"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "리센느, 99평 숙소로 이사했다.",
-      "state": "n",
+      "keyword": "리센느, 99평 이사 후 광고 쏟아져",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "재벌 형사 시즌2",
-      "state": "+",
-      "change": "7"
+      "keyword": "광안리 불꽃 퍼포먼스",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "사랑이 온다 감성 보컬 기대",
+      "keyword": "5연패 질책하는 포항",
       "state": "+",
-      "change": "8"
+      "change": "11"
     },
     {
       "rank": 5,
-      "keyword": "이란 호르무즈 합의 근접",
-      "state": "-",
-      "change": "4"
+      "keyword": "태풍 돌핀으로 폭우 피해",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "울산 서명관 첫골 환호",
+      "keyword": "재벌 형사 시즌2",
       "state": "-",
-      "change": "4"
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "태풍 돌핀으로 폭우 발생",
-      "state": "+",
+      "keyword": "사랑이 온다 OST 기대",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "오싹한 연애",
+      "keyword": "아파트 화재 대피 12명",
       "state": "+",
-      "change": "15"
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "하영과 열애 중이신가요?",
-      "state": "+",
-      "change": "4"
+      "keyword": "울산, 서울과 7점 차로 2위 유지",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "부천VS광주 0-0 무승부",
+      "keyword": "오싹한 연애",
       "state": "-",
-      "change": "5"
+      "change": "2"
     }
   ]
 }
