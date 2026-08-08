@@ -1,62 +1,62 @@
 {
-  "updatedAt": "2026-08-08T16:22:04.286Z",
+  "updatedAt": "2026-08-08T17:00:13.155Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "면목동",
+      "keyword": "가능한 사랑",
       "traffic": "200+"
     },
     {
       "rank": 2,
+      "keyword": "fotmob",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "면목동",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
       "keyword": "김소영",
       "traffic": "500+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "psg",
-      "traffic": "100+"
+      "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "ewc 철권",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "맨유",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "mutv",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "서하얀",
       "traffic": "100+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "psg 대 맨유",
       "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "토트넘 헤타페",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "트로이",
-      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "제주 인천 김민석 승리",
-      "state": "s",
+      "keyword": "김민석 제주 인천 승리",
+      "state": "n",
       "change": "0"
     },
     {
@@ -67,51 +67,51 @@
     },
     {
       "rank": 3,
-      "keyword": "리센느 완성형 리더",
-      "state": "+",
-      "change": "1"
+      "keyword": "리센느 메이, 믿어달라 손 내민 원이에 고마움",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "한정수, 황정민 폭로 경고",
-      "state": "n",
+      "keyword": "한정수, 황정민 폭로자 경고",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "블랙핑크 10주년 커뮤니케이션 문제",
-      "state": "-",
-      "change": "2"
+      "keyword": "재벌 형사 시즌2",
+      "state": "+",
+      "change": "10"
     },
     {
       "rank": 6,
-      "keyword": "첫 홀 버디 성공!",
+      "keyword": "사랑이 온다 OST 감성 보컬 기대",
       "state": "+",
       "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "태풍 돌핀과 폭우",
-      "state": "+",
-      "change": "2"
+      "keyword": "첫 홀 버디 성공 기쁨",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "폭염으로 정전 속출",
-      "state": "+",
-      "change": "9"
+      "keyword": "폭염 속 정전과 불편",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "1236회 로또 1등 11명 24억 당첨",
-      "state": "+",
-      "change": "2"
+      "keyword": "1236회 로또 1등 11명과 24억",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "재벌형사2 테러범 역공",
-      "state": "+",
-      "change": "2"
+      "keyword": "태풍 돌핀으로 폭우",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
