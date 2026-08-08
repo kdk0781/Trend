@@ -1,63 +1,63 @@
 {
-  "updatedAt": "2026-08-08T22:19:33.568Z",
+  "updatedAt": "2026-08-08T22:50:43.416Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이임생",
-      "traffic": "1000+"
+      "keyword": "한화 이글스",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "주가",
-      "traffic": "1000+"
+      "keyword": "에너지",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "환자",
+      "keyword": "노동조합",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "부산날씨",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "경마공원",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "대전날씨",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "탁구",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "오마이뉴스",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "유태빈",
+      "keyword": "임영웅",
       "traffic": "500+"
     },
     {
+      "rank": 5,
+      "keyword": "대전광역시",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "이임생",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "주가",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "환자",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
+      "keyword": "부산날씨",
+      "traffic": "200+"
+    },
+    {
       "rank": 10,
-      "keyword": "배드민턴",
-      "traffic": "1000+"
+      "keyword": "경마공원",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "태풍 돌핀과 폭우",
-      "state": "+",
-      "change": "3"
+      "keyword": "태풍 돌핀 폭우.",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
@@ -67,49 +67,49 @@
     },
     {
       "rank": 3,
-      "keyword": "결혼의 완성",
-      "state": "-",
-      "change": "2"
+      "keyword": "김정은과 국립교향악단 기념사진",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "2026년 8월 9일 운세",
-      "state": "-",
-      "change": "1"
+      "keyword": "메시 아버지 별세, 68세",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "권은비 사랑이 OST 감성 기대",
-      "state": "+",
+      "keyword": "결혼의 완성",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "불가리아 드론 폭발 모델 추정",
-      "state": "+",
-      "change": "3"
+      "keyword": "사랑이 온다 OST 기대",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "하영과 열애 중인 정해인",
+      "keyword": "하영과 연애 중인 정해인",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "2026년 8월 9일 운세",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "박은빈 양세종 가짜 약혼 의심",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 9,
-      "keyword": "홍소영 청장 인터뷰",
-      "state": "n",
-      "change": "0"
+      "keyword": "김정렬 친형 군 사망 확인",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "이강인 입단 행사 예정",
+      "keyword": "재벌 형사 시즌2",
       "state": "+",
       "change": "1"
     }
