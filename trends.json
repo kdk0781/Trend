@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-08T04:47:35.158Z",
+  "updatedAt": "2026-08-08T05:30:19.937Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "아시아나항공",
-      "traffic": "200+"
+      "keyword": "파크 골프",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "오디세이 영화",
-      "traffic": "100+"
+      "keyword": "기안84",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "불",
-      "traffic": "1000+"
+      "keyword": "그랜드 테 프트 오토 vi",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "공동 명의",
-      "traffic": "1000+"
+      "keyword": "김선태",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "김부장",
-      "traffic": "5000+"
+      "keyword": "김지선",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "김희애",
-      "traffic": "100+"
+      "keyword": "자녀",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "부모",
+      "keyword": "홍서범",
       "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "특별재난지역",
-      "traffic": "200+"
+      "keyword": "포탄",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "포스코",
-      "traffic": "1000+"
+      "keyword": "아시아나항공",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "경기도",
-      "traffic": "200+"
+      "keyword": "오디세이 영화",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "서울런 수시 입학박람회",
-      "state": "s",
-      "change": "0"
+      "keyword": "고수온 피해 살피는 황종우",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 2,
-      "keyword": "코르티스 1500만 팔로워 돌파",
+      "keyword": "김하성, 2타수 무안타",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이정후, 6경기 연속 적시타",
+      "keyword": "서울런 수시 입학박람회",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "이정후 2타점 적시타 폭발!",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "손현보 목사, 트럼프 접견",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 5,
-      "keyword": "블랙핑크 10주년 최초 기록",
+      "keyword": "김부장 회장 수사 필요",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "NC NFT 티켓 시대",
-      "state": "n",
-      "change": "0"
+      "keyword": "최애의 사원",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "방문한 한성숙 국무총리",
-      "state": "s",
-      "change": "0"
+      "keyword": "당내 갈등 끝내자 김민석 정청래",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "FIFA 회장 내연녀 스캔들",
-      "state": "n",
-      "change": "0"
+      "keyword": "방문한 한성숙 국무총리",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 9,
-      "keyword": "회장 자본법 위반 수사",
+      "keyword": "전국다문화가족 배드민턴 대회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "민주당 당대표 후보들",
-      "state": "+",
-      "change": "3"
+      "keyword": "교회서 어린이 사망",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
