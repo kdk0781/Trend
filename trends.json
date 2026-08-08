@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-08T20:19:08.423Z",
+  "updatedAt": "2026-08-08T20:51:56.341Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "송가인",
+      "keyword": "디에고 시메오네",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "ps",
-      "traffic": "100+"
+      "keyword": "습관",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "오상진",
-      "traffic": "200+"
+      "keyword": "고흥군",
+      "traffic": "100+"
     },
     {
       "rank": 4,
+      "keyword": "송가인",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "ps",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "오상진",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
       "keyword": "페렌츠바로시 대 레알 마드리드",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "레알마드리드",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "서점가",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "정가은",
       "traffic": "200+"
     },
     {
-      "rank": 8,
-      "keyword": "가능한 사랑",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "fotmob",
-      "traffic": "100+"
-    },
-    {
       "rank": 10,
-      "keyword": "면목동",
-      "traffic": "500+"
+      "keyword": "정가은",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "1236회 로또 1등 11명 24억",
-      "state": "s",
-      "change": "0"
+      "keyword": "결혼의 완성",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 2,
-      "keyword": "울산 서명관 첫골 환호",
-      "state": "s",
+      "keyword": "리센느, 99평 숙소로 이사했다.",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "재벌형사2 안보현 테러범에 맞선다",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "결혼의 완성",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "김민석, 제주 인천 경선 1위 탈환",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "부천VS광주 0-0 무승부",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 7,
-      "keyword": "고척돔 에스파 응원",
+      "keyword": "재벌 형사 시즌2",
       "state": "+",
       "change": "7"
     },
     {
+      "rank": 4,
+      "keyword": "사랑이 온다 감성 보컬 기대",
+      "state": "+",
+      "change": "8"
+    },
+    {
+      "rank": 5,
+      "keyword": "이란 호르무즈 합의 근접",
+      "state": "-",
+      "change": "4"
+    },
+    {
+      "rank": 6,
+      "keyword": "울산 서명관 첫골 환호",
+      "state": "-",
+      "change": "4"
+    },
+    {
+      "rank": 7,
+      "keyword": "태풍 돌핀으로 폭우 발생",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "태풍 돌핀으로 폭우 쏟아진 동해안",
-      "state": "s",
-      "change": "0"
+      "keyword": "오싹한 연애",
+      "state": "+",
+      "change": "15"
     },
     {
       "rank": 9,
-      "keyword": "이란 호르무즈 합의 근접",
-      "state": "n",
-      "change": "0"
+      "keyword": "하영과 열애 중이신가요?",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 10,
-      "keyword": "이런 엿 같은 사랑",
+      "keyword": "부천VS광주 0-0 무승부",
       "state": "-",
-      "change": "1"
+      "change": "5"
     }
   ]
 }
