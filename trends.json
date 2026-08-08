@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T17:00:13.155Z",
+  "updatedAt": "2026-08-08T17:35:33.103Z",
   "google": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
     {
       "rank": 2,
       "keyword": "fotmob",
-      "traffic": "100+"
+      "traffic": "200+"
     },
     {
       "rank": 3,
@@ -23,18 +23,18 @@
     },
     {
       "rank": 5,
-      "keyword": "psg",
+      "keyword": "ewc 철권",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "ewc 철권",
-      "traffic": "100+"
+      "keyword": "psg",
+      "traffic": "200+"
     },
     {
       "rank": 7,
       "keyword": "맨유",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
       "rank": 8,
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "디에고 시메오네 감독 소식",
+      "keyword": "디에고 시메오네 감독과 이강인",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "리센느 메이, 믿어달라 손 내민 원이에 고마움",
+      "keyword": "리센느, 컴백과 광고 쇄도",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "한정수, 황정민 폭로자 경고",
-      "state": "s",
+      "keyword": "한정수, 황정민 사태에 폭로자 신분 공개하라",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "재벌 형사 시즌2",
-      "state": "+",
-      "change": "10"
+      "keyword": "재벌형사2 안보현, 정은채와 공조",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "사랑이 온다 OST 감성 보컬 기대",
+      "keyword": "로또 1등 11명 24억",
       "state": "+",
-      "change": "4"
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "첫 홀 버디 성공 기쁨",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "폭염 속 정전과 불편",
-      "state": "s",
+      "keyword": "SK하이닉스 충칭 공장 매각 검토",
+      "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "폭염 중 정전 사건",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "1236회 로또 1등 11명과 24억",
-      "state": "s",
+      "keyword": "이런 엿 같은 사랑",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "태풍 돌핀으로 폭우",
-      "state": "-",
-      "change": "3"
+      "keyword": "올림픽대로 화재 차량 경상",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
