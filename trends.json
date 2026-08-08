@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-08T18:52:37.337Z",
+  "updatedAt": "2026-08-08T19:22:11.059Z",
   "google": [
     {
       "rank": 1,
       "keyword": "페렌츠바로시 대 레알 마드리드",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "서점가",
+      "keyword": "레알마드리드",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "정가은",
+      "keyword": "서점가",
       "traffic": "100+"
     },
     {
       "rank": 4,
+      "keyword": "정가은",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
       "keyword": "가능한 사랑",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "keyword": "fotmob",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
       "keyword": "면목동",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "김소영",
       "traffic": "500+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "ewc 철권",
       "traffic": "200+"
     },
     {
-      "rank": 8,
-      "keyword": "psg",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "맨유",
-      "traffic": "1000+"
-    },
-    {
       "rank": 10,
-      "keyword": "mutv",
+      "keyword": "psg",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "리센느 99평 이사",
+      "keyword": "김민석 제주·인천 승리",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김민석 제주·인천 1위 누적",
+      "keyword": "결혼의 완성",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이강인 오픈 트레이닝",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "재벌 형사 시즌2",
-      "state": "+",
-      "change": "7"
-    },
-    {
-      "rank": 5,
-      "keyword": "사랑이 온다 OST 기대감",
-      "state": "+",
-      "change": "62"
-    },
-    {
-      "rank": 6,
-      "keyword": "로또 1등 11명 24억",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "태풍 돌핀, 동해안 폭우",
+      "keyword": "부천VS광주 0-0 무승부",
       "state": "+",
       "change": "11"
     },
     {
-      "rank": 8,
-      "keyword": "오싹한 연애",
+      "rank": 4,
+      "keyword": "고척돔 에스파 응원",
       "state": "+",
-      "change": "17"
+      "change": "4"
+    },
+    {
+      "rank": 5,
+      "keyword": "리센느 숙소 이사 후 광고 섭외",
+      "state": "-",
+      "change": "4"
+    },
+    {
+      "rank": 6,
+      "keyword": "1236회 로또 1등 11명 각 24억",
+      "state": "-",
+      "change": "4"
+    },
+    {
+      "rank": 7,
+      "keyword": "재벌 형사 시즌2",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 8,
+      "keyword": "울산 서명관 첫골 환호",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "고척돔 응원 에스파",
+      "keyword": "태풍 돌핀으로 폭우 발생",
       "state": "-",
       "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "하영과 연하 연결",
-      "state": "n",
-      "change": "0"
+      "keyword": "이런 엿 같은 사랑",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
