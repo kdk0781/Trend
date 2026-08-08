@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-08T15:22:35.716Z",
+  "updatedAt": "2026-08-08T15:54:13.568Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "트로이",
+      "keyword": "맨유",
       "traffic": "500+"
     },
     {
       "rank": 2,
+      "keyword": "mutv",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "맨유 psg",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "트로이",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
       "keyword": "토트넘",
       "traffic": "20000+"
     },
     {
-      "rank": 3,
-      "keyword": "리그컵",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "chelsea vs milan",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "정화조",
-      "traffic": "500+"
-    },
-    {
       "rank": 6,
-      "keyword": "효성중공업",
+      "keyword": "대한당구연맹",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "k리그1",
-      "traffic": "500+"
+      "keyword": "리그컵",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "k리그1 순위",
+      "keyword": "chelsea vs milan",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "라스트 하우스",
-      "traffic": "100+"
+      "keyword": "정화조",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "슈퍼주니어",
-      "traffic": "1000+"
+      "keyword": "효성중공업",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석, 제주 인천 승리",
-      "state": "n",
+      "keyword": "김민석 제주인천 승리",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이강인과 시메오네 감독",
-      "state": "n",
+      "keyword": "디에고 시메오네 감독 관련 소식",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
       "keyword": "결혼의 완성",
-      "state": "-",
-      "change": "2"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "블랙핑크 10주년 논란 사과",
+      "keyword": "블랙핑크 10주년 사과 문제",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "최연청, 화려한 집안 배경",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 6,
-      "keyword": "캣츠아이 소피아 활동 중단",
-      "state": "n",
+      "keyword": "최연청 화려한 집안",
+      "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "태풍 돌핀으로 폭우 발생",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 8,
-      "keyword": "오싹한 연애",
+      "rank": 6,
+      "keyword": "안보현, 정은채 팀 공조테러 반격",
       "state": "-",
       "change": "3"
     },
     {
-      "rank": 9,
-      "keyword": "재벌 형사 시즌2",
+      "rank": 7,
+      "keyword": "태풍 돌핀으로 폭우 오는 동해안",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "첫 홀 버디 미소와 하이파이브",
       "state": "+",
-      "change": "1"
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "리센느 광고 100개 섭외",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "첫 홀 버디 성공!",
-      "state": "+",
-      "change": "15"
+      "keyword": "이호재, 독일 데뷔골 16분",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
