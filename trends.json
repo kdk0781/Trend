@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-08T05:30:19.937Z",
+  "updatedAt": "2026-08-08T06:22:25.832Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "파크 골프",
-      "traffic": "500+"
+      "keyword": "손현보",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "기안84",
-      "traffic": "500+"
+      "keyword": "르윈 디아즈",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "그랜드 테 프트 오토 vi",
+      "keyword": "삼성 갤럭시 z 시리즈",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "김선태",
-      "traffic": "2000+"
+      "keyword": "민생회복 소비쿠폰",
+      "traffic": "5000+"
     },
     {
       "rank": 5,
-      "keyword": "김지선",
-      "traffic": "500+"
+      "keyword": "하리수",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "자녀",
+      "keyword": "김하성",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "홍서범",
-      "traffic": "2000+"
+      "keyword": "파크 골프",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "포탄",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "아시아나항공",
+      "keyword": "그랜드 테 프트 오토 vi",
       "traffic": "200+"
     },
     {
+      "rank": 9,
+      "keyword": "기안84",
+      "traffic": "1000+"
+    },
+    {
       "rank": 10,
-      "keyword": "오디세이 영화",
-      "traffic": "100+"
+      "keyword": "김지선",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "고수온 피해 살피는 황종우",
-      "state": "+",
-      "change": "4"
+      "keyword": "고수온 피해 점검한 황종우 장관",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김하성, 2타수 무안타",
+      "keyword": "이정후 2타점 폭발!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "서울런 수시 입학박람회",
-      "state": "-",
-      "change": "2"
+      "keyword": "임영웅 데뷔 10주년 건행!",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 4,
-      "keyword": "이정후 2타점 적시타 폭발!",
+      "keyword": "이 대통령 결혼 망설이면 안 된다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김부장 회장 수사 필요",
-      "state": "n",
+      "keyword": "강일출 할머니 흉상 제막",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "최애의 사원",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "당내 갈등 끝내자 김민석 정청래",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "방문한 한성숙 국무총리",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 9,
-      "keyword": "전국다문화가족 배드민턴 대회",
+      "keyword": "박미선, 큐브와 6년 마무리",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "재벌 형사 시즌2",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 8,
+      "keyword": "주택용지 알려지자 신속히 늘어선 근조화환",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "말다툼 중 어머니 살해",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 10,
-      "keyword": "교회서 어린이 사망",
+      "keyword": "다저스 디아즈 무너졌다",
       "state": "n",
       "change": "0"
     }
