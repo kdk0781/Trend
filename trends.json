@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-08-08T14:55:53.517Z",
+  "updatedAt": "2026-08-08T15:22:35.716Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "토트넘",
-      "traffic": "20000+"
+      "keyword": "트로이",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "대한당구연맹",
-      "traffic": "100+"
+      "keyword": "토트넘",
+      "traffic": "20000+"
     },
     {
       "rank": 3,
@@ -55,63 +55,63 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "결혼의 완성",
-      "state": "+",
-      "change": "1"
+      "keyword": "김민석, 제주 인천 승리",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김민석 제주 누적 1위",
+      "keyword": "이강인과 시메오네 감독",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "그것이 알고 싶다",
-      "state": "+",
-      "change": "8"
-    },
-    {
-      "rank": 4,
-      "keyword": "최연청, 화려한 집안 연대",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 5,
-      "keyword": "이란 호르무즈 MOU 배상해야",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "황희 버스 하우스 논란 확산",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "이강인 AT마드리드 동료들과",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "황정민, 호구 폭로자 경고",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "오싹한 연애",
+      "keyword": "결혼의 완성",
       "state": "-",
       "change": "2"
     },
     {
-      "rank": 10,
+      "rank": 4,
+      "keyword": "블랙핑크 10주년 논란 사과",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "최연청, 화려한 집안 배경",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 6,
+      "keyword": "캣츠아이 소피아 활동 중단",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "태풍 돌핀으로 폭우 발생",
+      "state": "+",
+      "change": "6"
+    },
+    {
+      "rank": 8,
+      "keyword": "오싹한 연애",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 9,
       "keyword": "재벌 형사 시즌2",
       "state": "+",
       "change": "1"
+    },
+    {
+      "rank": 10,
+      "keyword": "첫 홀 버디 성공!",
+      "state": "+",
+      "change": "15"
     }
   ]
 }
