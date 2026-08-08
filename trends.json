@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-08T10:03:02.741Z",
+  "updatedAt": "2026-08-08T10:45:28.397Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "아이맥스",
-      "traffic": "100+"
+      "keyword": "현진영",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "생맥주",
+      "keyword": "오픈ai",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "최우수산",
+      "keyword": "한동훈",
       "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "간호사",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "mlb",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "배지환",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "페이즈",
+      "keyword": "전참시",
       "traffic": "100+"
     },
     {
+      "rank": 5,
+      "keyword": "xsmn",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "아이맥스",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "생맥주",
+      "traffic": "500+"
+    },
+    {
       "rank": 8,
-      "keyword": "배구",
+      "keyword": "최우수산",
       "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "독도",
-      "traffic": "100+"
+      "keyword": "간호사",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "페이커",
-      "traffic": "100+"
+      "keyword": "사업",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정견발표하는 최고위원 후보",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "이강인, 마드리드 훈련 중",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 3,
-      "keyword": "류혜영-고경표 힐링 순간 으로 변경할 수 있습니다.",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "재벌 형사 시즌2",
+      "keyword": "김민석, 제주·인천 경선 승리",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "사랑이 온다 감성 보컬 기대",
+      "rank": 2,
+      "keyword": "아틀레티코 마드리드 이강인",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "인천 합동연설회 정견 발표",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "박남정 딸 시은 전성기 모습",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "유재석, 향수 냄새에 폭발",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "허종식 인천시당 위원장 선출",
-      "state": "+",
-      "change": "1"
+      "keyword": "코르티스, 90년대 노이즈 제작 아이돌 코디",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김부장 판타지오 회장 피소",
+      "keyword": "태풍 돌핀 폭우 예상",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "노무현도 반대하는 용산공원 훼손",
+      "keyword": "한승연, 목 디스크 치료 중",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "시간당 피서객 고립도",
+      "keyword": "덕수고 대구 북구SC에 42-0 승리",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "한승연 목 디스크 치료 중",
+      "keyword": "김창옥 얼굴 병원",
       "state": "n",
       "change": "0"
     }
