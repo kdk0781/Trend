@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-08T02:31:29.784Z",
+  "updatedAt": "2026-08-08T03:53:52.558Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "태장동",
-      "traffic": "200+"
+      "keyword": "부모",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "천성호",
+      "keyword": "포스코",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "대전광역시",
+      "keyword": "특별재난지역",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "샤이니",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "보조금",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "경마공원",
+      "keyword": "그랜드 테프트 오토 vi",
       "traffic": "100+"
     },
     {
+      "rank": 5,
+      "keyword": "경기도",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "삼성 라이온즈",
+      "traffic": "1000+"
+    },
+    {
       "rank": 7,
-      "keyword": "테니스",
+      "keyword": "경상남도",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "관리종목",
-      "traffic": "500+"
+      "keyword": "알렉산드라 에알라",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "에어컨",
-      "traffic": "5000+"
+      "keyword": "태장동",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "김효주",
-      "traffic": "1000+"
+      "keyword": "천성호",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이한범 벨기에 MOM",
-      "state": "s",
+      "keyword": "서울런 수시 입학박람회",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "폭염 속 여러 상황 점검 필요",
+      "keyword": "코르티스 1500만 팔로워 돌파",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "오디세이 4일 100만 돌파",
-      "state": "n",
-      "change": "0"
+      "keyword": "압수수색 성접대 참담한",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "재벌 형사 시즌2",
-      "state": "s",
+      "keyword": "ISA 재검토 논의 시작",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김주형 2R 공동 14위",
-      "state": "n",
+      "keyword": "블랙핑크, 데뷔 10주년 기념식",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "리센느 논란 김선태 복직 고민",
-      "state": "n",
-      "change": "0"
+      "keyword": "이런 엿 같은 사랑",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "블랙핑크 10주년 논란에 사죄",
+      "keyword": "폭염 범정부 대응체계 강화",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "하리수, 미키정 이혼 이유 공개",
-      "state": "s",
+      "keyword": "4대 의사 집안 하영 가족사 공개",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김채연 이승우 댄스 눈길",
+      "keyword": "붉은 진주",
       "state": "+",
-      "change": "1"
+      "change": "6"
     },
     {
       "rank": 10,
-      "keyword": "기름값 12주째 하락",
+      "keyword": "이정후 6경기 연속 안타",
       "state": "n",
       "change": "0"
     }
