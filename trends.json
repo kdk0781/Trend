@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-08T17:35:33.103Z",
+  "updatedAt": "2026-08-08T18:00:43.329Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "가능한 사랑",
-      "traffic": "200+"
+      "keyword": "정가은",
+      "traffic": "100+"
     },
     {
       "rank": 2,
+      "keyword": "가능한 사랑",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
       "keyword": "fotmob",
       "traffic": "200+"
     },
     {
-      "rank": 3,
-      "keyword": "면목동",
-      "traffic": "200+"
-    },
-    {
       "rank": 4,
-      "keyword": "김소영",
+      "keyword": "면목동",
       "traffic": "500+"
     },
     {
       "rank": 5,
+      "keyword": "김소영",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
       "keyword": "ewc 철권",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "psg",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "맨유",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "mutv",
       "traffic": "200+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "서하얀",
       "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "psg 대 맨유",
-      "traffic": "2000+"
     }
   ],
   "domestic": [
@@ -67,49 +67,49 @@
     },
     {
       "rank": 3,
-      "keyword": "리센느, 컴백과 광고 쇄도",
-      "state": "s",
+      "keyword": "한정수, 황정민 옹호하라",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "한정수, 황정민 사태에 폭로자 신분 공개하라",
-      "state": "n",
+      "keyword": "로또 1등 11명 각 24억",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "재벌형사2 안보현, 정은채와 공조",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "로또 1등 11명 24억",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "SK하이닉스 충칭 공장 매각 검토",
+      "keyword": "에스파 고척돔 첫 공연 시작",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "폭염 중 정전 사건",
+      "rank": 6,
+      "keyword": "결혼의 완성",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "서울 올림픽대로 달리던",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 8,
+      "keyword": "폭염 속 정전·불편",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "이런 엿 같은 사랑",
+      "keyword": "카스트로프 아시안컵 OUT",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "올림픽대로 화재 차량 경상",
+      "keyword": "리센느 원이, 멤버 단속 필요해",
       "state": "n",
       "change": "0"
     }
