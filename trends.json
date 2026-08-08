@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-08-08T03:53:52.558Z",
+  "updatedAt": "2026-08-08T04:47:35.158Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "부모",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "포스코",
+      "keyword": "아시아나항공",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "오디세이 영화",
+      "traffic": "100+"
+    },
+    {
       "rank": 3,
+      "keyword": "불",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "공동 명의",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "김부장",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "김희애",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "부모",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
       "keyword": "특별재난지역",
       "traffic": "200+"
     },
     {
-      "rank": 4,
-      "keyword": "그랜드 테프트 오토 vi",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "경기도",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "삼성 라이온즈",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "경상남도",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "알렉산드라 에알라",
-      "traffic": "200+"
-    },
-    {
       "rank": 9,
-      "keyword": "태장동",
+      "keyword": "포스코",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "천성호",
+      "keyword": "경기도",
       "traffic": "200+"
     }
   ],
@@ -56,7 +56,7 @@
     {
       "rank": 1,
       "keyword": "서울런 수시 입학박람회",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
@@ -67,51 +67,51 @@
     },
     {
       "rank": 3,
-      "keyword": "압수수색 성접대 참담한",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "ISA 재검토 논의 시작",
+      "keyword": "이정후, 6경기 연속 적시타",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "손현보 목사, 트럼프 접견",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 5,
-      "keyword": "블랙핑크, 데뷔 10주년 기념식",
-      "state": "s",
+      "keyword": "블랙핑크 10주년 최초 기록",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "이런 엿 같은 사랑",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "폭염 범정부 대응체계 강화",
+      "keyword": "NC NFT 티켓 시대",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "방문한 한성숙 국무총리",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "4대 의사 집안 하영 가족사 공개",
+      "keyword": "FIFA 회장 내연녀 스캔들",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "붉은 진주",
-      "state": "+",
-      "change": "6"
+      "keyword": "회장 자본법 위반 수사",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이정후 6경기 연속 안타",
-      "state": "n",
-      "change": "0"
+      "keyword": "민주당 당대표 후보들",
+      "state": "+",
+      "change": "3"
     }
   ]
 }
