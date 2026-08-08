@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-08T18:00:43.329Z",
+  "updatedAt": "2026-08-08T18:52:37.337Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "페렌츠바로시 대 레알 마드리드",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
+      "keyword": "서점가",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
       "keyword": "정가은",
       "traffic": "100+"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "keyword": "가능한 사랑",
       "traffic": "500+"
     },
     {
-      "rank": 3,
-      "keyword": "fotmob",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "keyword": "면목동",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "김소영",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "ewc 철권",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "psg",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "맨유",
       "traffic": "1000+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "mutv",
       "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "서하얀",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 제주 인천 승리",
+      "keyword": "리센느 99평 이사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "디에고 시메오네 감독과 이강인",
-      "state": "s",
+      "keyword": "김민석 제주·인천 1위 누적",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "한정수, 황정민 옹호하라",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "로또 1등 11명 각 24억",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "에스파 고척돔 첫 공연 시작",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "결혼의 완성",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "서울 올림픽대로 달리던",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "폭염 속 정전·불편",
+      "keyword": "이강인 오픈 트레이닝",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 4,
+      "keyword": "재벌 형사 시즌2",
+      "state": "+",
+      "change": "7"
+    },
+    {
+      "rank": 5,
+      "keyword": "사랑이 온다 OST 기대감",
+      "state": "+",
+      "change": "62"
+    },
+    {
+      "rank": 6,
+      "keyword": "로또 1등 11명 24억",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "태풍 돌핀, 동해안 폭우",
+      "state": "+",
+      "change": "11"
+    },
+    {
+      "rank": 8,
+      "keyword": "오싹한 연애",
+      "state": "+",
+      "change": "17"
+    },
+    {
       "rank": 9,
-      "keyword": "카스트로프 아시안컵 OUT",
-      "state": "n",
-      "change": "0"
+      "keyword": "고척돔 응원 에스파",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "리센느 원이, 멤버 단속 필요해",
+      "keyword": "하영과 연하 연결",
       "state": "n",
       "change": "0"
     }
