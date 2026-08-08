@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-08T10:45:28.397Z",
+  "updatedAt": "2026-08-08T11:12:07.210Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "현진영",
+      "keyword": "기욤 패트리",
       "traffic": "200+"
     },
     {
       "rank": 2,
       "keyword": "오픈ai",
-      "traffic": "200+"
+      "traffic": "500+"
     },
     {
       "rank": 3,
+      "keyword": "현진영",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
       "keyword": "한동훈",
       "traffic": "2000+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "전참시",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "xsmn",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "아이맥스",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "생맥주",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "최우수산",
       "traffic": "2000+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "간호사",
       "traffic": "2000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "사업",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석, 제주·인천 경선 승리",
-      "state": "n",
+      "keyword": "김민석 제주 인천 승리",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "아틀레티코 마드리드 이강인",
+      "keyword": "이강인 아틀레티코 마드리드 합류",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "인천 합동연설회 정견 발표",
-      "state": "-",
-      "change": "2"
+      "keyword": "박남정 딸 스테이씨 시은",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "박남정 딸 시은 전성기 모습",
+      "keyword": "원조 코르티스, 90년대 노이즈였다.",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "유재석, 정준하 향수에 폭발",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "유재석, 향수 냄새에 폭발",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 6,
-      "keyword": "코르티스, 90년대 노이즈 제작 아이돌 코디",
-      "state": "n",
-      "change": "0"
+      "keyword": "태풍 돌핀과 폭우",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "태풍 돌핀 폭우 예상",
-      "state": "n",
-      "change": "0"
+      "keyword": "재벌 형사 시즌2",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 8,
-      "keyword": "한승연, 목 디스크 치료 중",
+      "keyword": "김창옥 결국 병원行",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "덕수고 대구 북구SC에 42-0 승리",
+      "keyword": "SK하이닉스 충칭 매각 검토",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김창옥 얼굴 병원",
+      "keyword": "왕사남 보다 빠른 100만 돌파",
       "state": "n",
       "change": "0"
     }
