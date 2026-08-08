@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-08T15:54:13.568Z",
+  "updatedAt": "2026-08-08T16:22:04.286Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "면목동",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
+      "keyword": "김소영",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "psg",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "ewc 철권",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
       "keyword": "맨유",
       "traffic": "500+"
     },
     {
-      "rank": 2,
+      "rank": 6,
       "keyword": "mutv",
       "traffic": "200+"
     },
     {
-      "rank": 3,
-      "keyword": "맨유 psg",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "트로이",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "토트넘",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "대한당구연맹",
-      "traffic": "200+"
-    },
-    {
       "rank": 7,
-      "keyword": "리그컵",
-      "traffic": "1000+"
+      "keyword": "서하얀",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "chelsea vs milan",
-      "traffic": "200+"
+      "keyword": "psg 대 맨유",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "정화조",
-      "traffic": "500+"
+      "keyword": "토트넘 헤타페",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "효성중공업",
-      "traffic": "200+"
+      "keyword": "트로이",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 제주인천 승리",
+      "keyword": "제주 인천 김민석 승리",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "디에고 시메오네 감독 관련 소식",
+      "keyword": "디에고 시메오네 감독 소식",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "결혼의 완성",
-      "state": "s",
-      "change": "0"
+      "keyword": "리센느 완성형 리더",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "블랙핑크 10주년 사과 문제",
+      "keyword": "한정수, 황정민 폭로 경고",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "최연청 화려한 집안",
-      "state": "s",
-      "change": "0"
+      "keyword": "블랙핑크 10주년 커뮤니케이션 문제",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "안보현, 정은채 팀 공조테러 반격",
-      "state": "-",
-      "change": "3"
+      "keyword": "첫 홀 버디 성공!",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "태풍 돌핀으로 폭우 오는 동해안",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "첫 홀 버디 미소와 하이파이브",
+      "keyword": "태풍 돌핀과 폭우",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 8,
+      "keyword": "폭염으로 정전 속출",
+      "state": "+",
+      "change": "9"
+    },
+    {
       "rank": 9,
-      "keyword": "리센느 광고 100개 섭외",
-      "state": "n",
-      "change": "0"
+      "keyword": "1236회 로또 1등 11명 24억 당첨",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "이호재, 독일 데뷔골 16분",
-      "state": "n",
-      "change": "0"
+      "keyword": "재벌형사2 테러범 역공",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
