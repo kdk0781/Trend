@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-08T00:34:02.464Z",
+  "updatedAt": "2026-08-08T02:31:29.784Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "혼외자",
-      "traffic": "1000+"
+      "keyword": "태장동",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "이혜영",
+      "keyword": "천성호",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "안젤리나 졸리",
+      "keyword": "대전광역시",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "보그",
+      "keyword": "샤이니",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "天気",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "틈만나면,",
+      "keyword": "보조금",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "경마공원",
+      "traffic": "100+"
+    },
+    {
       "rank": 7,
-      "keyword": "해피투게더",
+      "keyword": "테니스",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "pltr",
-      "traffic": "100+"
+      "keyword": "관리종목",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "자동차",
-      "traffic": "10000+"
+      "keyword": "에어컨",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "잔니 인판티노",
-      "traffic": "200+"
+      "keyword": "김효주",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "태풍 영향 제주 강풍 지속",
+      "keyword": "이한범 벨기에 MOM",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "안보현, 연쇄 테러로 위기?",
-      "state": "+",
-      "change": "1"
+      "keyword": "폭염 속 여러 상황 점검 필요",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "붉은 진주",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "기름값 12주 하락",
+      "keyword": "오디세이 4일 100만 돌파",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "재벌 형사 시즌2",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "스파이더맨 500만 돌파",
+      "keyword": "김주형 2R 공동 14위",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "류혜영, 고경표와 냉면 데이트",
-      "state": "+",
-      "change": "3"
+      "keyword": "리센느 논란 김선태 복직 고민",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "하리수 미키정 이혼 제안",
-      "state": "s",
+      "keyword": "블랙핑크 10주년 논란에 사죄",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "SK하이닉스 54조 투자",
-      "state": "n",
+      "keyword": "하리수, 미키정 이혼 이유 공개",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "논란 정준원 없었다",
-      "state": "n",
-      "change": "0"
+      "keyword": "김채연 이승우 댄스 눈길",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "이란 거래소 제재",
-      "state": "-",
-      "change": "5"
+      "keyword": "기름값 12주째 하락",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
