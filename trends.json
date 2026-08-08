@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-08T06:22:25.832Z",
+  "updatedAt": "2026-08-08T07:27:16.864Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "손현보",
-      "traffic": "200+"
+      "keyword": "한국경제",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "르윈 디아즈",
-      "traffic": "200+"
+      "keyword": "대전날씨",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "삼성 갤럭시 z 시리즈",
-      "traffic": "200+"
+      "keyword": "회사",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "민생회복 소비쿠폰",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "하리수",
+      "keyword": "김포시",
       "traffic": "200+"
     },
     {
+      "rank": 5,
+      "keyword": "서정희",
+      "traffic": "2000+"
+    },
+    {
       "rank": 6,
-      "keyword": "김하성",
+      "keyword": "해군 특수전전단",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "파크 골프",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "그랜드 테 프트 오토 vi",
+      "keyword": "남규리",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "무명전설",
+      "traffic": "100+"
+    },
+    {
       "rank": 9,
-      "keyword": "기안84",
-      "traffic": "1000+"
+      "keyword": "입양",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "김지선",
-      "traffic": "500+"
+      "keyword": "손현보",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "고수온 피해 점검한 황종우 장관",
-      "state": "s",
+      "keyword": "강일출 할머니 흉상 제막",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이정후 2타점 폭발!",
+      "keyword": "이정후 6경기 연속 안타",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "임영웅 데뷔 10주년 건행!",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 4,
-      "keyword": "이 대통령 결혼 망설이면 안 된다",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "강일출 할머니 흉상 제막",
+      "keyword": "임영웅 데뷔 10주년 축하합니다!",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "박미선, 큐브와 6년 마무리",
+      "rank": 4,
+      "keyword": "태풍 영향 강풍과 폭우",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "손현보 목사 트럼프 접견",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "재벌 형사 시즌2",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "keyword": "주택용지 알려지자 신속히 늘어선 근조화환",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "말다툼 중 어머니 살해",
+      "rank": 7,
+      "keyword": "황정민 스토킹 11일",
       "state": "+",
-      "change": "1"
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "경북 가뭄 점검",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "용산공원에 노무현도 1㎝",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "다저스 디아즈 무너졌다",
+      "keyword": "결혼 촉진 과제 손본다",
       "state": "n",
       "change": "0"
     }
