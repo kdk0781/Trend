@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-09T13:16:37.879Z",
+  "updatedAt": "2026-08-09T14:01:09.246Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "왕옌청",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "신용점수",
+      "keyword": "lg전자",
       "traffic": "200+"
     },
     {
-      "rank": 3,
-      "keyword": "man city đấu với atlético madrid",
-      "traffic": "100+"
+      "rank": 2,
+      "keyword": "리버풀 대 as 모나코",
+      "traffic": "2000+"
     },
     {
-      "rank": 4,
-      "keyword": "1박 2일",
+      "rank": 3,
+      "keyword": "조희대",
       "traffic": "1000+"
     },
     {
+      "rank": 4,
+      "keyword": "johor darul ta'zim vs chelsea",
+      "traffic": "200+"
+    },
+    {
       "rank": 5,
-      "keyword": "манчестер сити – атлетико мадрид",
-      "traffic": "100+"
+      "keyword": "arsenal vs dortmund",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "fotmob",
+      "keyword": "노라노",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "조호르 fc 대 첼시",
-      "traffic": "5000+"
+      "keyword": "돈나룸마",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "sydney sweeney",
-      "traffic": "200+"
+      "keyword": "맨시티 감독",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "영등포구",
-      "traffic": "200+"
+      "keyword": "거북",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "클럽 친선경기",
-      "traffic": "2000+"
+      "keyword": "손서연",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "하석진, 안희연 아들 사랑이 온다",
+      "keyword": "하석진 사랑이 온다 경신",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "시메오네 감독 경기 준비",
+      "keyword": "오징어 게임 미국판 제작 중단",
       "state": "+",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 3,
-      "keyword": "김정은, 국립교향악단 방문 격려",
+      "keyword": "모친 살해 10대 구속",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "골 넣은 맨시티 마르무시",
+      "keyword": "김민석 강원TK 경선 승리",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "태풍 돌핀 상륙 임박",
-      "state": "+",
-      "change": "1"
+      "keyword": "청년 고령층 마통 연체 증가",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "최우수산 시청률 1% 추가연장",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "에이티즈 산 축하 인사",
+      "keyword": "역전골 맨시티 마르무시",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "매일유업 근로자 1명 숨져",
+      "rank": 7,
+      "keyword": "오싹한 연애",
       "state": "+",
-      "change": "2"
+      "change": "5"
+    },
+    {
+      "rank": 8,
+      "keyword": "럭비 선수 열사병 사망",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김민석 정청래 호남 연대",
+      "keyword": "홍콩 아파트 화재 담뱃불 원인",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "신동엽과 박경림의 특별한 인연",
-      "state": "n",
-      "change": "0"
+      "keyword": "결혼의 완성",
+      "state": "+",
+      "change": "20"
     }
   ]
 }
