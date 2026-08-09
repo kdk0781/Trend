@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-08T23:48:17.345Z",
+  "updatedAt": "2026-08-09T00:35:27.379Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "하이브리드 차량",
-      "traffic": "2000+"
+      "keyword": "천하람",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "예산",
-      "traffic": "100+"
+      "keyword": "허양임",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "초과근무",
-      "traffic": "200+"
+      "keyword": "메릴 켈리",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "제1전투비행단",
-      "traffic": "100+"
+      "keyword": "sbs",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "발전",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "정철원",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "일본",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "블랙 핑크 10 주년",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "ferencváros vs real madrid",
+      "keyword": "홍현희",
       "traffic": "100+"
     },
     {
+      "rank": 6,
+      "keyword": "공공기관",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "러시아",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "하이브리드 차량",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "참교육",
+      "traffic": "200+"
+    },
+    {
       "rank": 10,
-      "keyword": "天氣",
+      "keyword": "예산",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "태풍 돌핀 폭우 예상",
+      "keyword": "태풍 돌핀으로 폭우 집중!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김정은 국립교향악단 기념사진",
+      "keyword": "결혼의 완성",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 3,
+      "keyword": "사랑이 온다, 하석진 아들 정체",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "하석진 아들 사랑이 온다 14.1%",
+      "rank": 4,
+      "keyword": "재벌 형사 시즌2",
       "state": "+",
       "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "김정렬 형 구타 사망",
-      "state": "n",
-      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "결혼의 완성",
+      "keyword": "김정은, 국립교향악단 기념사진",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 6,
+      "keyword": "정해인과 하영의 멜로 케미",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "오싹한 연애",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "하영과 열애 및 출격 소식",
+      "rank": 8,
+      "keyword": "부산 화재 10시간 만에 완진",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "부산 제조공장 화재 완진",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "이호재 데뷔골 극적 무승부",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 9,
-      "keyword": "가평 계곡 60대 실종",
+      "keyword": "최예나, 전신 슈트 완벽 소화",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이진호, 퇴원 후 재판",
+      "keyword": "거꾸로 태극기 좌우 떠나 우리나라",
       "state": "n",
       "change": "0"
     }
