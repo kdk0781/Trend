@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-09T02:37:01.935Z",
+  "updatedAt": "2026-08-09T04:02:47.806Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "홍석천",
-      "traffic": "2000+"
+      "keyword": "택배기사",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "그렉 아벨",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "수원 fc",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "inter miami vs monterrey",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "심현섭",
+      "keyword": "리그 컵",
       "traffic": "2000+"
     },
     {
+      "rank": 3,
+      "keyword": "홈런",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "디에고 포를란",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "톨루카 대 엘에이 fc",
+      "traffic": "50000+"
+    },
+    {
       "rank": 6,
-      "keyword": "김기동",
+      "keyword": "장교",
       "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "인터 마이애미 대 몬테레이",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "천하람",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "토트넘 홋스퍼 fc",
+      "keyword": "서울특별시",
       "traffic": "2000+"
     },
     {
-      "rank": 10,
-      "keyword": "허양임",
+      "rank": 8,
+      "keyword": "맥도날드",
       "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "음문석",
+      "traffic": "100+"
+    },
+    {
+      "rank": 10,
+      "keyword": "유재석",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "삼성전자 차세대 난방 기술 개발",
-      "state": "s",
-      "change": "0"
+      "keyword": "강원 민주당 합동연설회",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "김주형 챔피언십 3위",
-      "state": "n",
-      "change": "0"
+      "keyword": "오초희, 독박육아 눈물",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "유부녀 킬러 정준원 시청률 상승",
-      "state": "s",
-      "change": "0"
+      "keyword": "이현중, 뉴올리언스·보스턴 캠프 참가",
+      "state": "+",
+      "change": "15"
     },
     {
       "rank": 4,
-      "keyword": "주진우 의원, 선관위 조사 촉구",
+      "keyword": "한정애 정책위의장 관련",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "하석진 아들 정체 의심",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "배준호, 시즌 첫 도움",
+      "rank": 6,
+      "keyword": "U-17 이탈리아 3연승",
       "state": "-",
       "change": "3"
     },
     {
-      "rank": 6,
-      "keyword": "김민석과 정청래",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 7,
-      "keyword": "이진호 퇴원 14일 첫 재판",
-      "state": "n",
-      "change": "0"
+      "keyword": "제타 스마트센터 부산 AI 물류센터",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "여름밤 동물 탐험",
+      "keyword": "한정수 신분 오픈해라",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "흉기 휘둘러 살해한 60대 체포",
+      "keyword": "결혼 페널티 유체 절정",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이호재 독일 데뷔전서",
-      "state": "s",
+      "keyword": "이정후 7G 연속 안타 도전",
+      "state": "n",
       "change": "0"
     }
   ]
