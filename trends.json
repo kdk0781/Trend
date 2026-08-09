@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-09T07:54:43.973Z",
+  "updatedAt": "2026-08-09T08:32:12.871Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "오마이 뉴스",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "고용",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "고기",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "크리스티안 로메로",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "이현중",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
       "keyword": "의과대학",
       "traffic": "500+"
     },
     {
-      "rank": 2,
+      "rank": 7,
       "keyword": "김정렬",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 8,
       "keyword": "데미스 허사 비스",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "keyword": "채무",
       "traffic": "5000+"
     },
     {
-      "rank": 5,
-      "keyword": "볼로디미르 젤렌스키",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "엘에이 fc",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "용산공원",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "우량주",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "결혼의 완성",
-      "traffic": "2000+"
-    },
-    {
       "rank": 10,
-      "keyword": "가요대전",
-      "traffic": "200+"
+      "keyword": "볼로디미르 젤렌스키",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "폭염 속 경복궁 관광객",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 2,
-      "keyword": "손흥민 2경기 침묵, LAFC 톨루카에 1-0 승리",
+      "keyword": "배우 지안, 엄정욱과 결혼 발표",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "이란, 호르무즈 요구",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 3,
-      "keyword": "지안, 엄정욱과 결혼",
+      "keyword": "폭염 한풀 꺾임",
       "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 4,
-      "keyword": "가요대전 출전팀",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "정부 주택 공급 대책은?",
-      "state": "-",
       "change": "4"
     },
     {
+      "rank": 4,
+      "keyword": "아이들 민니, 11일 두산 시구할게요",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "시원한 신촌 물총축제",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "추미애 경기도 착시현상",
+      "keyword": "오싹한 연애",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김희철 분노한 거꾸로 태극기",
+      "keyword": "아이유 근황 공개",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "시원한 신촌 물총축제",
+      "keyword": "죄송하지 않냐 10대",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "일본 의대의 염소 피 실험",
+      "keyword": "염소 피 실험한 일본 의대",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "성인 10명 중 7명 자녀 희망 2명",
+      "keyword": "에이티즈 하트 선물",
       "state": "n",
       "change": "0"
     }
