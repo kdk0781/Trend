@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T16:13:56.646Z",
+  "updatedAt": "2026-08-09T16:55:47.139Z",
   "google": [
     {
       "rank": 1,
@@ -13,43 +13,43 @@
     },
     {
       "rank": 3,
+      "keyword": "앤 해서웨이",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
       "keyword": "피부암",
       "traffic": "1000+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "arsenal",
       "traffic": "100+"
     },
     {
-      "rank": 5,
-      "keyword": "전주시",
-      "traffic": "200+"
-    },
-    {
       "rank": 6,
-      "keyword": "관리종목",
+      "keyword": "liverpool vs monaco",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "트로이",
-      "traffic": "2000+"
+      "keyword": "전주시",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "교회",
-      "traffic": "100+"
+      "keyword": "관리종목",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "경기도",
+      "keyword": "트로이",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "저수지",
-      "traffic": "2000+"
+      "keyword": "교회",
+      "traffic": "100+"
     }
   ],
   "domestic": [
@@ -61,14 +61,14 @@
     },
     {
       "rank": 2,
-      "keyword": "김민석, 강원 TK 승리",
-      "state": "s",
+      "keyword": "김민석 강원 TK 경선 승리",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
       "keyword": "동점골 맨시티 마르무시",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
@@ -79,37 +79,37 @@
     },
     {
       "rank": 5,
-      "keyword": "장은수 첫 승리",
+      "keyword": "화사, 젠슨 황 헷갈림",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "화사, 젠슨 황 샤라웃 몰라 어리둥절",
+      "keyword": "김정은, 국립교향악단 격려",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "탁재훈, 지팡이 선물 받았다",
+      "keyword": "하석진, 안희연 사랑의 진실",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "사랑이 온다 하석진 직진",
+      "keyword": "매일유업 근로자 사상 사건",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "오싹한 연애",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "여의도 폭탄 협박 사건",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 10,
-      "keyword": "김정은 80주년 국립교향악단",
+      "keyword": "정청래 후보 연설",
       "state": "n",
       "change": "0"
     }
