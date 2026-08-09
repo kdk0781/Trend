@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-09T20:59:58.762Z",
+  "updatedAt": "2026-08-09T21:37:27.077Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "계엄",
+      "keyword": "여행",
       "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "나마디 조엘 진",
-      "traffic": "100+"
+      "keyword": "반도체",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "쓰레기 봉투",
-      "traffic": "200+"
+      "keyword": "집",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "ai",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "다음 뉴스",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "뱅크 오브 아메리카",
+      "keyword": "이재룡",
       "traffic": "500+"
     },
     {
+      "rank": 5,
+      "keyword": "홍콩",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "베트남 축구 국가대표팀",
+      "traffic": "100+"
+    },
+    {
       "rank": 7,
-      "keyword": "한혜진",
+      "keyword": "광주광역시",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "유격수",
+      "keyword": "계엄",
       "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "혼전연애",
-      "traffic": "200+"
+      "keyword": "나마디 조엘 진",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "ลิเวอร์พูล พบ มอนาโก",
-      "traffic": "200+"
+      "keyword": "쓰레기 봉투",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "결혼의 완성",
-      "state": "+",
-      "change": "4"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이강인 아틀레티코 데뷔전",
-      "state": "-",
-      "change": "1"
+      "keyword": "이강인의 아틀레티코 마드리드 입단",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "맨시티 마르무시 동점골",
-      "state": "n",
+      "keyword": "전주 농수산물시장 화재 2단계",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "사랑이 오는 하석진과 안희연",
-      "state": "+",
-      "change": "4"
+      "keyword": "하석진 사랑이 온다",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "전주 송천동 화재 대응 2단계",
-      "state": "n",
+      "keyword": "화사, 젠슨 황 샤라웃 궁금증 증폭",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "제13호 태풍 돌핀 상륙 임박",
-      "state": "+",
-      "change": "1"
+      "keyword": "태풍 돌핀, 中 저장성 상륙 임박",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
       "keyword": "오싹한 연애",
-      "state": "+",
-      "change": "9"
-    },
-    {
-      "rank": 8,
-      "keyword": "김민석, 강원TK 정청래와 초박빙",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "2026년 8월 10일 운세",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "트럼프, 이란 요구에 로키 대응 중",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "이영지, 눈밑지 성공 보자마자 뿌듯해",
+      "state": "+",
+      "change": "4"
+    },
+    {
       "rank": 10,
-      "keyword": "그래미 오디세이 다양성",
+      "keyword": "2026년 8월 10일 운세",
       "state": "n",
       "change": "0"
     }
