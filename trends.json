@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-09T05:59:00.862Z",
+  "updatedAt": "2026-08-09T06:59:25.910Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "전한길",
-      "traffic": "500+"
+      "keyword": "결혼의 완성",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "열사병",
+      "keyword": "가요대전",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "오준성",
-      "traffic": "2000+"
+      "keyword": "휴대 전화",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "오정연",
-      "traffic": "200+"
+      "keyword": "데미스 허사비스",
+      "traffic": "100+"
     },
     {
       "rank": 5,
+      "keyword": "전한길",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "열사병",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "오정연",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
       "keyword": "교통 사고",
       "traffic": "200+"
     },
     {
-      "rank": 6,
-      "keyword": "상장지수 펀드",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "장쯔위",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "벼",
-      "traffic": "100+"
-    },
-    {
       "rank": 9,
-      "keyword": "황정민 홈마",
-      "traffic": "200+"
+      "keyword": "상장지수 펀드",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "오징어 게임",
+      "keyword": "벼",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "민주당 후보 발표",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "다저스 7연패 탈출!",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "정지선,男팬심 폭발 전현무 집에 가!",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
       "keyword": "오디세이 137만 돌파",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "결혼의 완성",
+      "rank": 2,
+      "keyword": "손흥민 침묵 LAFC 톨루카에 1-0 승리",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "가요대전 출격 아티스트들",
+      "state": "+",
+      "change": "7"
+    },
+    {
+      "rank": 4,
+      "keyword": "재벌 형사 시즌2",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "환율 1300원대 최고",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "환율 최대 변동성",
+      "keyword": "폭염 속 경복궁 관광객",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "태극기 논란 현수막 철거",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 8,
       "keyword": "신규 후보지로 거론되는",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "정지선, 전현무 집에 좀 가!",
+      "state": "-",
+      "change": "5"
+    },
+    {
       "rank": 9,
-      "keyword": "손흥민 슈팅 LAFC",
-      "state": "n",
-      "change": "0"
+      "keyword": "어머니 살해한 10대 아들 구속심사",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 10,
-      "keyword": "이런 엿 같은 사랑",
+      "keyword": "NBA 이현중 뉴올리언스",
       "state": "n",
       "change": "0"
     }
