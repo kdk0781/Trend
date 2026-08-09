@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-09T10:47:17.735Z",
+  "updatedAt": "2026-08-09T11:13:49.011Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "포헨즈",
-      "traffic": "500+"
+      "keyword": "맨 시티 대 아틀레티코",
+      "traffic": "20000+"
     },
     {
       "rank": 2,
-      "keyword": "포수",
-      "traffic": "100+"
+      "keyword": "상속",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "삼성 갤럭시 z 시리즈",
-      "traffic": "100+"
+      "keyword": "케리아",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "김지유",
-      "traffic": "500+"
+      "keyword": "유튜버",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "허가",
-      "traffic": "200+"
+      "keyword": "오윤아",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "오스틴 딘",
-      "traffic": "2000+"
+      "keyword": "엄정욱",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "이더리움",
-      "traffic": "200+"
+      "keyword": "물고기",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "수건",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "지안",
+      "keyword": "마이클 버리",
       "traffic": "500+"
     },
     {
-      "rank": 10,
-      "keyword": "초등교사",
+      "rank": 9,
+      "keyword": "new york times",
       "traffic": "100+"
+    },
+    {
+      "rank": 10,
+      "keyword": "포헨즈",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 강원 승리",
+      "keyword": "김민석, 강원·TK 승리",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "장은수 우승 기념해요",
-      "state": "n",
-      "change": "0"
+      "keyword": "이강인 벤치 대기",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 3,
-      "keyword": "엄정욱과 결혼 발표",
+      "keyword": "엄정욱과 결혼한 지안",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "후보 연설 정청래 김영호 등",
-      "state": "n",
-      "change": "0"
+      "keyword": "삼프로TV 개인정보 유출",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 5,
-      "keyword": "10대, 어머니 살해 후 반려견도 죽여",
+      "keyword": "유재석, 김지유에 당황해 울컥",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "사랑이 온다 최고 경신",
+      "keyword": "모친 살해 10대 구속",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "하석진의 사랑이 온다",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "여의도 폭탄 협박 글 경찰 추적",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 8,
-      "keyword": "이강인 벤치 대기",
-      "state": "n",
-      "change": "0"
+      "keyword": "후보 연설 정청래 등",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 9,
-      "keyword": "삼프로TV 46만건 유출",
-      "state": "-",
+      "keyword": "청년 일자리 대책 논의",
+      "state": "+",
       "change": "3"
     },
     {
       "rank": 10,
       "keyword": "열린음악회",
-      "state": "-",
-      "change": "2"
+      "state": "s",
+      "change": "0"
     }
   ]
 }
