@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-09T05:14:06.047Z",
+  "updatedAt": "2026-08-09T05:59:00.862Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "전한길",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
+      "keyword": "열사병",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "오준성",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "오정연",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "교통 사고",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "상장지수 펀드",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "장쯔위",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "벼",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
       "keyword": "황정민 홈마",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 10,
       "keyword": "오징어 게임",
       "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "구렁이",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "공매도",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "집행유예",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "toluca vs lafc",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "inter miami vs c.f. monterrey standings",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "개혁",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "야생생물",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "택배기사",
-      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "민주당 당대표 후보 지지 호소",
-      "state": "s",
+      "keyword": "민주당 후보 발표",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "U-17 여자배구, 이탈리아 격파 3연승",
+      "keyword": "다저스 7연패 탈출!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "결혼의 완성",
-      "state": "n",
-      "change": "0"
+      "keyword": "정지선,男팬심 폭발 전현무 집에 가!",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "인천시 태극기 논란",
+      "keyword": "오디세이 137만 돌파",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "변호사 오초희의 육아 고민",
-      "state": "-",
-      "change": "2"
+      "keyword": "결혼의 완성",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "폭염 대응 회의",
+      "keyword": "환율 최대 변동성",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "신상품 아닌데도 과징금",
-      "state": "n",
-      "change": "0"
+      "keyword": "태극기 논란 현수막 철거",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "손흥민 톨루카전 출격",
+      "keyword": "신규 후보지로 거론되는",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "NBA 보스턴 뉴올리언스",
+      "keyword": "손흥민 슈팅 LAFC",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "장동혁 페널티 만들어놓고",
-      "state": "-",
-      "change": "1"
+      "keyword": "이런 엿 같은 사랑",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
