@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-09T23:12:01.693Z",
+  "updatedAt": "2026-08-09T23:48:13.979Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "사관학교",
-      "traffic": "100+"
+      "keyword": "배구",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "이혼 소송",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "현대 아반떼",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "경기북부",
+      "keyword": "오타니 쇼헤이",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "이승우",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "주유소",
+      "traffic": "500+"
+    },
+    {
       "rank": 5,
-      "keyword": "디지털 자산",
+      "keyword": "간암",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "개발제한구역",
-      "traffic": "200+"
+      "keyword": "이효리",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "운세",
-      "traffic": "1000+"
+      "keyword": "적금",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "성심당",
-      "traffic": "1000+"
+      "keyword": "변동성",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "시청률",
-      "traffic": "5000+"
+      "keyword": "노란봉투법",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "jtbc",
-      "traffic": "200+"
+      "keyword": "오지헌",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "페이러우 태풍 발생, 3개 동시 북상",
+      "keyword": "동시 북상 중인 3개 태풍",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "디에고 시메오네 감독",
-      "state": "s",
-      "change": "0"
+      "keyword": "결혼의 완성",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "트럼프의 이란 요구 대응",
-      "state": "s",
-      "change": "0"
+      "keyword": "트럼프, 이란에 경제 압박",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "사랑이 온다, 하석진 직진",
+      "keyword": "김주형 윈덤 공동 5위",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "결혼의 완성",
+      "keyword": "사랑이 오는 아들 질문",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "현봉식 브라질리언 고백",
+      "keyword": "빅뱅, 19일 신곡 발매!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "자월도 모터보트 실종",
-      "state": "n",
-      "change": "0"
+      "keyword": "오싹한 연애",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "오싹한 연애",
+      "keyword": "이강인 사과는 부당해",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "홍석천, 나 죽으면 너희 재산 상속",
-      "state": "n",
-      "change": "0"
+      "keyword": "배지환 밀워키 번트 안타",
+      "state": "+",
+      "change": "10"
     },
     {
       "rank": 10,
-      "keyword": "전주 송천동 화재 대응 2단계",
-      "state": "-",
-      "change": "3"
+      "keyword": "오디세이 200만 관객 돌파",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
