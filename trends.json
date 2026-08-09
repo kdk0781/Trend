@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-09T06:59:25.910Z",
+  "updatedAt": "2026-08-09T07:54:43.973Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "결혼의 완성",
-      "traffic": "1000+"
+      "keyword": "의과대학",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "가요대전",
-      "traffic": "500+"
+      "keyword": "김정렬",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "휴대 전화",
-      "traffic": "1000+"
+      "keyword": "데미스 허사 비스",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "데미스 허사비스",
-      "traffic": "100+"
+      "keyword": "채무",
+      "traffic": "5000+"
     },
     {
       "rank": 5,
-      "keyword": "전한길",
-      "traffic": "500+"
+      "keyword": "볼로디미르 젤렌스키",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "열사병",
-      "traffic": "1000+"
+      "keyword": "엘에이 fc",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "오정연",
-      "traffic": "500+"
+      "keyword": "용산공원",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "교통 사고",
+      "keyword": "우량주",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "상장지수 펀드",
-      "traffic": "1000+"
+      "keyword": "결혼의 완성",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "벼",
+      "keyword": "가요대전",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "오디세이 137만 돌파",
-      "state": "n",
-      "change": "0"
+      "keyword": "폭염 속 경복궁 관광객",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 2,
-      "keyword": "손흥민 침묵 LAFC 톨루카에 1-0 승리",
+      "keyword": "손흥민 2경기 침묵, LAFC 톨루카에 1-0 승리",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "가요대전 출격 아티스트들",
+      "keyword": "지안, 엄정욱과 결혼",
       "state": "+",
-      "change": "7"
+      "change": "3"
     },
     {
       "rank": 4,
-      "keyword": "재벌 형사 시즌2",
-      "state": "n",
-      "change": "0"
+      "keyword": "가요대전 출전팀",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "환율 1300원대 최고",
-      "state": "n",
-      "change": "0"
+      "keyword": "정부 주택 공급 대책은?",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 6,
-      "keyword": "폭염 속 경복궁 관광객",
+      "keyword": "추미애 경기도 착시현상",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "신규 후보지로 거론되는",
+      "keyword": "김희철 분노한 거꾸로 태극기",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "정지선, 전현무 집에 좀 가!",
-      "state": "-",
-      "change": "5"
+      "keyword": "시원한 신촌 물총축제",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "어머니 살해한 10대 아들 구속심사",
-      "state": "+",
-      "change": "5"
+      "keyword": "일본 의대의 염소 피 실험",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "NBA 이현중 뉴올리언스",
+      "keyword": "성인 10명 중 7명 자녀 희망 2명",
       "state": "n",
       "change": "0"
     }
