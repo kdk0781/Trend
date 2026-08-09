@@ -1,105 +1,105 @@
 {
-  "updatedAt": "2026-08-09T20:21:25.402Z",
+  "updatedAt": "2026-08-09T20:59:58.762Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "광주광역시",
+      "keyword": "계엄",
       "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "계엄",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "독사",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "쓰레기 봉투",
+      "keyword": "나마디 조엘 진",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 3,
+      "keyword": "쓰레기 봉투",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
       "keyword": "ai",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "keyword": "다음 뉴스",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "뱅크 오브 아메리카",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 6,
+      "keyword": "뱅크 오브 아메리카",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
       "keyword": "한혜진",
       "traffic": "200+"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "keyword": "유격수",
       "traffic": "2000+"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "keyword": "혼전연애",
+      "traffic": "200+"
+    },
+    {
+      "rank": 10,
+      "keyword": "ลิเวอร์พูล พบ มอนาโก",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이강인 아틀레티코 데뷔전",
-      "state": "s",
-      "change": "0"
+      "keyword": "결혼의 완성",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 2,
-      "keyword": "역전골 맨시티 마르무시",
-      "state": "n",
-      "change": "0"
+      "keyword": "이강인 아틀레티코 데뷔전",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "전주 농수산물시장 화재 대응 2단계 발령",
+      "keyword": "맨시티 마르무시 동점골",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "화사 젠슨 샤라웃 접속 폭주",
-      "state": "s",
-      "change": "0"
+      "keyword": "사랑이 오는 하석진과 안희연",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 5,
-      "keyword": "결혼의 완성",
-      "state": "s",
+      "keyword": "전주 송천동 화재 대응 2단계",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김민석 강원 TK 승리",
+      "keyword": "제13호 태풍 돌핀 상륙 임박",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "제주 태풍 돌핀 영향 강풍",
+      "keyword": "오싹한 연애",
       "state": "+",
-      "change": "1"
+      "change": "9"
     },
     {
       "rank": 8,
-      "keyword": "사랑이 온다 최고 경신",
-      "state": "+",
-      "change": "1"
+      "keyword": "김민석, 강원TK 정청래와 초박빙",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
@@ -109,7 +109,7 @@
     },
     {
       "rank": 10,
-      "keyword": "홍콩 아파트 화재 담배 원인",
+      "keyword": "그래미 오디세이 다양성",
       "state": "n",
       "change": "0"
     }
