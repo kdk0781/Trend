@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-09T11:45:41.937Z",
+  "updatedAt": "2026-08-09T12:14:55.780Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "man city vs atlético madrid",
-      "traffic": "500+"
+      "keyword": "조호르 fc 대 첼시",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
+      "keyword": "sydney sweeney",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "클럽 친선경기",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "알레띠",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "방은희",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "man city vs atlético madrid",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "맨시티 at 마드리드",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
       "keyword": "제니",
       "traffic": "5000+"
     },
     {
-      "rank": 3,
-      "keyword": "맨 시티 대 아틀레티코",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "상속",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "케리아",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "유튜버",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "오윤아",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "엄정욱",
-      "traffic": "1000+"
-    },
-    {
       "rank": 9,
-      "keyword": "물고기",
-      "traffic": "1000+"
+      "keyword": "맨 시티 대 아틀레티코",
+      "traffic": "50000+"
     },
     {
       "rank": 10,
-      "keyword": "마이클 버리",
-      "traffic": "500+"
+      "keyword": "상속",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석, 강원 경선 승리",
+      "keyword": "김민석, 강원 경선 승리 4%P차",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이강인 아틀레티코 마드리드",
+      "keyword": "이강인, 아틀레티코 유니폼 인사",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "최우수산 시청률 1% 소원 몸부림",
+      "keyword": "최우수산 시청률 1% 추가연장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "구준회 삭발 공개",
+      "keyword": "결혼의 완성",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "태풍 돌핀 중국 상륙 임박",
+      "keyword": "디에고 시메오네 감독 소식",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "유재석 미담에 김지유 눈물",
+      "keyword": "모친 살해한 10대 구속",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 7,
+      "keyword": "재벌 형사 시즌2",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "김지유, 유재석 미담에 눈물",
       "state": "-",
       "change": "2"
     },
     {
-      "rank": 7,
-      "keyword": "결혼의 완성",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "삼프로TV 개인정보 유출 46만건",
-      "state": "s",
+      "rank": 9,
+      "keyword": "사랑이 온다, 하석진 진실 공방",
+      "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "재벌 형사 시즌2",
-      "state": "+",
-      "change": "3"
-    },
-    {
       "rank": 10,
-      "keyword": "말다툼 뒤母 살해한 10대 구속",
+      "keyword": "신효범 우승 소감에 기립 박수",
       "state": "n",
       "change": "0"
     }
