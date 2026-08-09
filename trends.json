@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-09T19:50:21.658Z",
+  "updatedAt": "2026-08-09T20:21:25.402Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "광주광역시",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "계엄",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "독사",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "쓰레기 봉투",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
       "keyword": "ai",
       "traffic": "100+"
     },
     {
-      "rank": 2,
+      "rank": 6,
       "keyword": "다음 뉴스",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 7,
       "keyword": "뱅크 오브 아메리카",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 8,
       "keyword": "한혜진",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "keyword": "유격수",
       "traffic": "2000+"
     },
     {
-      "rank": 6,
-      "keyword": "ลิเวอร์พูล พบ มอนาโก",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
+      "rank": 10,
       "keyword": "혼전연애",
       "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "앤 해서웨이",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "피부암",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "arsenal",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "아틀레티코 마드리드 이강인",
+      "keyword": "이강인 아틀레티코 데뷔전",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김정은, 국립교향악단 방문",
-      "state": "s",
+      "keyword": "역전골 맨시티 마르무시",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "넣은 맨시티 마르무시",
+      "keyword": "전주 농수산물시장 화재 대응 2단계 발령",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "화사 젠슨 샤라웃 연락 폭주",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "결혼의 완성",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "매일유업 평택공장 근로자 사상",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "하석진, 안희연 사랑이 온다",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "전주 농수산물시장 화재 2단계 발령",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "오싹한 연애",
+      "keyword": "화사 젠슨 샤라웃 접속 폭주",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "결혼의 완성",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "김민석 강원 TK 승리",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 7,
+      "keyword": "제주 태풍 돌핀 영향 강풍",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "사랑이 온다 최고 경신",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "2026년 8월 10일 운세",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "김민석, 강원TK 경선 1위",
+      "keyword": "홍콩 아파트 화재 담배 원인",
       "state": "n",
       "change": "0"
     }
