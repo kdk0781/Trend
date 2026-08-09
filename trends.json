@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-09T10:02:55.101Z",
+  "updatedAt": "2026-08-09T10:47:17.735Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "오스틴 딘",
-      "traffic": "1000+"
+      "keyword": "포헨즈",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "이더리움",
+      "keyword": "포수",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "수건",
-      "traffic": "1000+"
+      "keyword": "삼성 갤럭시 z 시리즈",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "초등교사",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "폭염 경보",
+      "keyword": "김지유",
       "traffic": "500+"
     },
     {
+      "rank": 5,
+      "keyword": "허가",
+      "traffic": "200+"
+    },
+    {
       "rank": 6,
-      "keyword": "윤혜진",
-      "traffic": "100+"
+      "keyword": "오스틴 딘",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "미국 국방부",
+      "keyword": "이더리움",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "가요대전 썸머",
-      "traffic": "100+"
+      "keyword": "수건",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "부산 날씨",
+      "keyword": "지안",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "볼로디미르 젤 렌스키",
-      "traffic": "10000+"
+      "keyword": "초등교사",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "엄정욱과 결혼 발표",
+      "keyword": "김민석 강원 승리",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "장은수 첫 우승 달성",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "김민석 강원TK 승리",
+      "keyword": "장은수 우승 기념해요",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "엄정욱과 결혼 발표",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 4,
-      "keyword": "하석진과 사랑이 온다",
+      "keyword": "후보 연설 정청래 김영호 등",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "여의도 폭탄 협박 추적",
+      "keyword": "10대, 어머니 살해 후 반려견도 죽여",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "재벌 형사 시즌2",
+      "keyword": "사랑이 온다 최고 경신",
       "state": "-",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "삼프로TV 개인정보 유출 46만건",
-      "state": "+",
-      "change": "2"
+      "keyword": "여의도 폭탄 협박 글 경찰 추적",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이탁수, 12살 배우로 성장!",
+      "keyword": "이강인 벤치 대기",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "오싹한 연애",
-      "state": "+",
-      "change": "2"
+      "keyword": "삼프로TV 46만건 유출",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "청년 일자리 대책 논의",
+      "keyword": "열린음악회",
       "state": "-",
       "change": "2"
     }
