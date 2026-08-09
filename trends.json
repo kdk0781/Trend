@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-09T14:46:29.149Z",
+  "updatedAt": "2026-08-09T15:14:19.639Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "경기도",
+      "keyword": "관리종목",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "저수지",
-      "traffic": "1000+"
+      "keyword": "교회",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "탁재훈",
+      "keyword": "경기도",
       "traffic": "200+"
     },
     {
       "rank": 4,
+      "keyword": "저수지",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
       "keyword": "트레이드",
       "traffic": "2000+"
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "keyword": "탁재훈",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
       "keyword": "아스날 도르트문트",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "아스날",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "리버풀",
       "traffic": "500+"
     },
     {
-      "rank": 8,
-      "keyword": "อาร์เซนอล พบ ดอร์ทมุนท์",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "경인고속도로",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "arsenal đấu với dortmund",
+      "keyword": "อาร์เซนอล พบ ดอร์ทมุนท์",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이강인 아틀레티코 NO.7",
-      "state": "s",
+      "keyword": "이강인 마드리드 데뷔전",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "오징어 게임 미국판 제작 중단",
-      "state": "s",
+      "keyword": "어머니 살해 10대 구속",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "2002년 심판 의혹",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "말다툼 후 모친 살해 10대 구속",
+      "keyword": "오징어 게임 미국판 제작 중단",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 4,
+      "keyword": "야구선수 지안 엄정욱과",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "결혼의 완성",
+      "keyword": "사랑이 온다, 하석진 안희연",
       "state": "+",
-      "change": "3"
+      "change": "4"
     },
     {
       "rank": 6,
       "keyword": "홍콩 아파트 화재 담뱃불 원인",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "넣은 맨시티 마르무시",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "keyword": "김정은, 국립교향악단 방문",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "폭염 속 런닝 열사병 사망",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "태풍 돌핀 中 저장성 상륙 임박",
+      "keyword": "탁재훈, 지팡이 선물 받다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "화사, 젠슨 샤라웃에 놀라다",
-      "state": "n",
-      "change": "0"
+      "keyword": "결혼의 완성",
+      "state": "-",
+      "change": "5"
     }
   ]
 }
