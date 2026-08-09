@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-09T00:35:27.379Z",
+  "updatedAt": "2026-08-09T02:37:01.935Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "천하람",
-      "traffic": "100+"
+      "keyword": "홍석천",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "허양임",
+      "keyword": "그렉 아벨",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "메릴 켈리",
-      "traffic": "100+"
+      "keyword": "수원 fc",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "sbs",
-      "traffic": "200+"
+      "keyword": "inter miami vs monterrey",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "홍현희",
-      "traffic": "100+"
+      "keyword": "심현섭",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "공공기관",
-      "traffic": "100+"
+      "keyword": "김기동",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "러시아",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "하이브리드 차량",
+      "keyword": "인터 마이애미 대 몬테레이",
       "traffic": "5000+"
     },
     {
+      "rank": 8,
+      "keyword": "천하람",
+      "traffic": "100+"
+    },
+    {
       "rank": 9,
-      "keyword": "참교육",
-      "traffic": "200+"
+      "keyword": "토트넘 홋스퍼 fc",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "예산",
+      "keyword": "허양임",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "태풍 돌핀으로 폭우 집중!",
+      "keyword": "삼성전자 차세대 난방 기술 개발",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "결혼의 완성",
-      "state": "+",
-      "change": "2"
+      "keyword": "김주형 챔피언십 3위",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "사랑이 온다, 하석진 아들 정체",
+      "keyword": "유부녀 킬러 정준원 시청률 상승",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "재벌 형사 시즌2",
-      "state": "+",
-      "change": "1"
+      "keyword": "주진우 의원, 선관위 조사 촉구",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김정은, 국립교향악단 기념사진",
+      "keyword": "배준호, 시즌 첫 도움",
       "state": "-",
       "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "정해인과 하영의 멜로 케미",
-      "state": "s",
+      "keyword": "김민석과 정청래",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "오싹한 연애",
-      "state": "+",
-      "change": "1"
+      "keyword": "이진호 퇴원 14일 첫 재판",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "부산 화재 10시간 만에 완진",
-      "state": "-",
-      "change": "1"
+      "keyword": "여름밤 동물 탐험",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "최예나, 전신 슈트 완벽 소화",
+      "keyword": "흉기 휘둘러 살해한 60대 체포",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "거꾸로 태극기 좌우 떠나 우리나라",
-      "state": "n",
+      "keyword": "이호재 독일 데뷔전서",
+      "state": "s",
       "change": "0"
     }
   ]
