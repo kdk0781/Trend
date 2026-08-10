@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T17:23:18.957Z",
+  "updatedAt": "2026-08-10T18:11:07.292Z",
   "google": [
     {
       "rank": 1,
@@ -55,63 +55,63 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "청, 메가특구 특별법 연내 제정",
+      "keyword": "콜롬비아 6.8 강진 발생",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "콜롬비아 6.8 지진",
-      "state": "n",
-      "change": "0"
+      "keyword": "정준영 단톡방 이종현, 회사원 복귀",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "정준영, 이종현 회사원 복귀",
+      "keyword": "靑, 메가특구법 연내 제정 추진",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "임시 감독 면접 예정",
-      "state": "n",
+      "keyword": "하영 소속사, 역사를 왜곡하나?",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "소유, 사우나 있는 새 집 공개",
+      "keyword": "청년미래적금 추가 모집 검토",
       "state": "+",
-      "change": "14"
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "청년미래적금 추가 모집 검토",
-      "state": "n",
-      "change": "0"
+      "keyword": "발언하는 당대표 후보",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "타루샤, KB손해보험 영입",
+      "keyword": "4억 전세사기 기부",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
       "keyword": "스틸 대사 현충원 참배",
-      "state": "n",
-      "change": "0"
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "발언하는 당대표 후보",
+      "keyword": "한국 감독 유력",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "황정민 폭로 A씨, 한정수에 반박",
-      "state": "s",
-      "change": "0"
+      "keyword": "경찰 수사 착수",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
