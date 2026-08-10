@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-10T21:34:26.880Z",
+  "updatedAt": "2026-08-10T22:16:25.957Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "경복궁",
-      "traffic": "200+"
+      "keyword": "재건축",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "미사일",
-      "traffic": "2000+"
+      "keyword": "위원장",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "pga 투어",
-      "traffic": "2000+"
+      "keyword": "예산",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "물고기",
-      "traffic": "500+"
+      "keyword": "천궁",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "에코프로 비엠",
-      "traffic": "500+"
+      "keyword": "결혼 의 완성",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "리처드 기어",
+      "keyword": "서수길",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "대한민국 축구 국가대표팀",
+      "keyword": "경복궁",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "윤상현",
-      "traffic": "200+"
+      "keyword": "미사일",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "노동자",
-      "traffic": "200+"
+      "keyword": "pga 투어",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "에어부산",
-      "traffic": "100+"
+      "keyword": "물고기",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "하영 소속사, 역사 왜곡인가?",
-      "state": "s",
-      "change": "0"
+      "keyword": "평택 위험물 화재 발생",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "콜롬비아 7.4 강진 사망 111명",
+      "keyword": "하영 증조부 논란과 엿사랑",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "평택 위험물 화재 발생",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "이종현, 평범한 회사원으로 돌아왔다",
+      "keyword": "콜롬비아 7.4 강진 사망 111명",
       "state": "-",
       "change": "2"
     },
     {
+      "rank": 4,
+      "keyword": "이종현, 평범한 회사원으로 돌아왔다",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "태풍 돌핀 피해 확산",
-      "state": "+",
-      "change": "2"
+      "keyword": "양민혁 벨기에 임대 완료",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "오초희, 결혼과 육아 갈등",
+      "keyword": "오초희, 독박육아와 경제 갈등",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "이런 엿 같은 사랑",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "김민석 정청래 경제정책 논란",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "내 남은 연애 반전 선택과 설렘",
+      "keyword": "2026년 8월 11일 운세",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 8,
+      "keyword": "트럼프, 이란 맞불 배상 요구",
+      "state": "+",
+      "change": "6"
+    },
+    {
+      "rank": 9,
+      "keyword": "뉴욕증시, 이란 협상 영향",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 10,
-      "keyword": "김효진 남편 비정상적 분노",
+      "keyword": "갈소원 성장 으로 요약할 수 있습니다.",
       "state": "n",
       "change": "0"
     }
