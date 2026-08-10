@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-10T13:36:36.286Z",
+  "updatedAt": "2026-08-10T14:39:50.777Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "교도소",
+      "keyword": "대한 광통신",
       "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "경찰",
-      "traffic": "10000+"
+      "keyword": "더트롯쇼",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "오초희",
-      "traffic": "500+"
+      "keyword": "컴퓨터 공학",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "추신수",
+      "keyword": "전북특별자치도교육청",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "가요무대",
+      "keyword": "김유재",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "여객기",
+      "keyword": "한우",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "대한민국 해군",
-      "traffic": "500+"
+      "keyword": "조원태",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "알렉스 퍼거슨",
-      "traffic": "200+"
+      "keyword": "교도소",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "온주완",
-      "traffic": "200+"
+      "keyword": "경찰",
+      "traffic": "10000+"
     },
     {
       "rank": 10,
-      "keyword": "아랍에미리트",
-      "traffic": "200+"
+      "keyword": "오초희",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "하영 증조부 친일 의혹",
-      "state": "n",
+      "keyword": "오초희 통증 걱정하는 남편",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "버스하우스 황희 진심 사과",
+      "keyword": "하영, 증조부 친일 의혹",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "결혼지옥 주말부부 오초희",
-      "state": "s",
-      "change": "0"
+      "keyword": "콜롬비아 6.8 지진 발생",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "靑 연내 메가특구법 제정 추진",
-      "state": "n",
-      "change": "0"
+      "keyword": "TV토론회 민주당 당대표",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "이서진 비비 수발 케어",
+      "keyword": "90대 며느리 주차할",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "스리랑카 타루샤 영입",
+      "keyword": "선생님 협박 학부모 고발",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "태풍 비구름 변수 확보",
+      "keyword": "래시포드, 맨유 복귀!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이선민, 리센느 하프타임 감격",
+      "keyword": "가요무대",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "서울대 공대 전기정보 90% 모집",
+      "keyword": "청년미래적금 추가 모집 검토",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "후배 살해 40대 징역 16년",
-      "state": "n",
-      "change": "0"
+      "keyword": "태풍 비구름으로 폭염 주춤",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
