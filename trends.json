@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-10T05:52:18.560Z",
+  "updatedAt": "2026-08-10T07:14:33.055Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "대통령",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "버크셔 해서웨이",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "고의정",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "문지인",
+      "keyword": "찬홈",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "미운 우리 새끼",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "대구고등검찰청",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "연애 전쟁",
+      "traffic": "5000+"
+    },
+    {
       "rank": 5,
-      "keyword": "박현경",
+      "keyword": "오동도",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "정의선",
-      "traffic": "1000+"
+      "keyword": "도라이버",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "상장폐지",
+      "keyword": "정연",
       "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "예리",
+      "keyword": "모델",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "당진시의회",
-      "traffic": "200+"
+      "keyword": "고영욱",
+      "traffic": "20000+"
     },
     {
       "rank": 10,
-      "keyword": "용아맥",
-      "traffic": "100+"
+      "keyword": "sbs 가요대전",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 후보 기자회견",
-      "state": "+",
-      "change": "1"
+      "keyword": "이재명 메가프로젝트 점검회의",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "정연, 공승연과 한솥밥",
+      "keyword": "오세훈, 청년 AI 스타트업 방문",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "사격 미디어데이 참가자들",
-      "state": "n",
-      "change": "0"
+      "keyword": "하영, 친일 의혹 해명",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "황희, 버스 논란 사과",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 5,
-      "keyword": "이설, 결혼의 완성으로 용기 얻어",
+      "keyword": "UFS연습 한미 공동브리핑",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 5,
+      "keyword": "정연, 친언니와 한솥밥",
+      "state": "-",
+      "change": "3"
+    },
+    {
       "rank": 6,
-      "keyword": "태풍과 해산물 배달",
-      "state": "s",
-      "change": "0"
+      "keyword": "여름 전력 수요 증가",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "하석진, 친자 확인 사랑이 온다",
-      "state": "+",
-      "change": "2"
+      "keyword": "김지원 1억 기부",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "경찰 심판 성접대 수사 검토",
+      "keyword": "버스 하우스 논란 사과",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "천안 어린이 교회 목사 구속",
-      "state": "n",
-      "change": "0"
+      "keyword": "태풍 동해 진출?",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "안민석 교권 보호",
-      "state": "-",
-      "change": "2"
+      "keyword": "황희 사과",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
