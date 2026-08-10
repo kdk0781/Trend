@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-10T08:51:29.235Z",
+  "updatedAt": "2026-08-10T10:09:21.174Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "권영찬",
+      "keyword": "한화그룹",
       "traffic": "500+"
     },
     {
       "rank": 2,
+      "keyword": "남궁민",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "기온",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "도박",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "김지원",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "이재명 지지율",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "권영찬",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
       "keyword": "홍경민",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
-      "keyword": "new york times",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "문어",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "여론",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "브루노 페르난데스",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "로드리고 메시",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "가정폭력",
-      "traffic": "2000+"
-    },
-    {
       "rank": 9,
-      "keyword": "휴대 전화",
-      "traffic": "1000+"
+      "keyword": "new york times",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "twitch",
-      "traffic": "200+"
+      "keyword": "문어",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "하영, 의사 집안 논란",
-      "state": "+",
-      "change": "1"
+      "keyword": "하영, 역사 인식 부족 문제",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "오세훈 서울시장, 청년 AI 업체 방문",
-      "state": "-",
-      "change": "1"
+      "keyword": "한화 KAI 지분 15% 넘겨",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "코스닥 7% 상승 마감",
-      "state": "s",
-      "change": "0"
+      "keyword": "선업튀 서혜원 결혼",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "KT 힐리어드 7월 MVP",
-      "state": "s",
-      "change": "0"
+      "keyword": "연내 메가특구특별법 제정",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "싸이월드 인수 3.0",
+      "keyword": "서수길 회장 일신상 사임",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "한화 KAI 지분 확대",
-      "state": "+",
-      "change": "4"
+      "keyword": "하석진, 안희연 친자 확인 요청",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "선관위 국조특위 청문회",
-      "state": "n",
-      "change": "0"
+      "keyword": "경찰 내부비리 신고포상금 확대",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "AG 금메달 노리는 양지인·오예진",
-      "state": "+",
-      "change": "7"
+      "keyword": "프로포폴산부인과 의사",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "키트루다 허가 신청",
-      "state": "n",
+      "keyword": "선관위 청문회 공방",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김지원, 기부 결심",
+      "keyword": "키트루다 시밀러 국내 신청",
       "state": "n",
       "change": "0"
     }
