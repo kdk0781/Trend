@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-10T15:34:54.915Z",
+  "updatedAt": "2026-08-10T16:26:25.045Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "콜롬비아",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
+      "keyword": "아이맥스 영화관",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "레임덕",
+      "traffic": "20000+"
+    },
+    {
+      "rank": 4,
       "keyword": "케스파컵",
       "traffic": "500+"
     },
     {
-      "rank": 2,
+      "rank": 5,
       "keyword": "대한 광통신",
       "traffic": "1000+"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "keyword": "더트롯쇼",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "keyword": "컴퓨터 공학",
       "traffic": "200+"
     },
     {
-      "rank": 5,
-      "keyword": "전북특별자치도교육청",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
+      "rank": 8,
       "keyword": "김유재",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "한우",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "조원태",
+      "rank": 9,
+      "keyword": "전북특별자치도교육청",
       "traffic": "200+"
     },
     {
-      "rank": 9,
-      "keyword": "교도소",
-      "traffic": "1000+"
-    },
-    {
       "rank": 10,
-      "keyword": "트럭",
-      "traffic": "2000+"
+      "keyword": "한우",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "오초희 출산 후 남편 걱정",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "한화, KAI 지분 15% 넘겨",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "힐리어드 7월 MVP",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "하영 증조부 친일 논란",
-      "state": "-",
+      "keyword": "靑 메가특구법 연내 제정",
+      "state": "+",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "광주 군공항 2028년 이전",
+      "rank": 2,
+      "keyword": "하영 증조부 친일 논란",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 3,
+      "keyword": "임시 감독 서류 마감",
+      "state": "+",
+      "change": "12"
+    },
+    {
+      "rank": 4,
+      "keyword": "콜롬비아 6.8 강진 발생",
       "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "한화, KAI 지분 확대",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 6,
-      "keyword": "콜롬비아서 규모 지진",
-      "state": "n",
-      "change": "0"
+      "keyword": "이종현, 씨엔블루 탈퇴 후 평범한 삶 시작",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "서혜원, 결혼 4개월 만에 임신",
-      "state": "n",
-      "change": "0"
+      "keyword": "갈소원과 남자 동행",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "삼성바이오 키트루다 허가 신청",
+      "keyword": "지인 살해 60대 구속",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이종현, 평범한 회사원으로 복귀",
-      "state": "-",
-      "change": "7"
+      "keyword": "스리랑카 타루샤 영입",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "대한당구연맹 회장 사임",
-      "state": "n",
-      "change": "0"
+      "keyword": "선업튀 서혜원 결혼",
+      "state": "-",
+      "change": "8"
     }
   ]
 }
