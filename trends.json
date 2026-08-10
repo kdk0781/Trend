@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-10T11:19:13.265Z",
+  "updatedAt": "2026-08-10T12:02:58.568Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "카를로스 카라스코",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
+      "keyword": "정동원",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "빅터 레이예스",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "불펜",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "lg화학",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "골프존홀딩스",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "경기도교육감",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
       "keyword": "김미현",
       "traffic": "2000+"
     },
     {
-      "rank": 2,
+      "rank": 9,
       "keyword": "외국인",
       "traffic": "5000+"
     },
     {
-      "rank": 3,
-      "keyword": "ssg 랜더스",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "빅뱅",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "노소영",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "남구",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "15 호 태풍",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "한국경제신문사",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "며느리",
-      "traffic": "10000+"
-    },
-    {
       "rank": 10,
-      "keyword": "최저시급",
-      "traffic": "100+"
+      "keyword": "ssg 랜더스",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "하영의 역사 인식 부족 문제",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "연내 메가특구특별법 제정",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "스리랑카 타루샤 영입",
+      "keyword": "靑 메가특구법 연내 제정",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "사랑이 온다, 하석진 친자 확인",
-      "state": "+",
-      "change": "2"
+      "rank": 2,
+      "keyword": "하영 증조부 의혹",
+      "state": "-",
+      "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "강훈식 비서실장 메가프로젝트",
-      "state": "n",
+      "rank": 3,
+      "keyword": "폭염 꺾였고 태풍 비구름 동해로",
+      "state": "s",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "이설 결혼의 완성으로 용기 얻어",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 5,
+      "keyword": "청년미래적금 138.5만명 가입",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 6,
-      "keyword": "임시 감독 온라인 면접 마감",
+      "keyword": "황정민 반박 A씨 호구?",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "서혜원, 결혼 4개월 만에 임신 발표",
+      "keyword": "하니 비자 유출 수사 착수",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "오싹한 연애",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "경찰, 축구 심판 성접대 수사 검토",
+      "keyword": "황희, 버스하우스 사건 의원들 사죄",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "오싹한 연애",
+      "state": "-",
+      "change": "4"
+    },
+    {
       "rank": 10,
-      "keyword": "이승기 횡령 회삿돈까지",
+      "keyword": "가족관계증명서",
       "state": "n",
       "change": "0"
     }
