@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-10T04:24:26.637Z",
+  "updatedAt": "2026-08-10T05:52:18.560Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "지민",
-      "traffic": "200+"
+      "keyword": "대통령",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "드류 앤더슨",
+      "keyword": "버크셔 해서웨이",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "크리스 페덱",
-      "traffic": "1000+"
+      "keyword": "고의정",
+      "traffic": "5000+"
     },
     {
       "rank": 4,
-      "keyword": "kf-21 보라매",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "발전소",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "후티 예멘",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "집행유예",
+      "keyword": "문지인",
       "traffic": "200+"
     },
     {
-      "rank": 8,
-      "keyword": "보트",
-      "traffic": "500+"
+      "rank": 5,
+      "keyword": "박현경",
+      "traffic": "200+"
     },
     {
-      "rank": 9,
-      "keyword": "이다 영",
+      "rank": 6,
+      "keyword": "정의선",
       "traffic": "1000+"
     },
     {
+      "rank": 7,
+      "keyword": "상장폐지",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "예리",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "당진시의회",
+      "traffic": "200+"
+    },
+    {
       "rank": 10,
-      "keyword": "중대범죄 수사청",
-      "traffic": "500+"
+      "keyword": "용아맥",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 당대표 후보",
+      "keyword": "김민석 후보 기자회견",
       "state": "+",
-      "change": "4"
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "장서희, 욕망의 덫으로 복귀",
-      "state": "s",
+      "keyword": "정연, 공승연과 한솥밥",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "암살자 유해진 박해일 극찬",
-      "state": "s",
+      "keyword": "사격 미디어데이 참가자들",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "린 마틴 연설",
-      "state": "s",
-      "change": "0"
+      "keyword": "황희, 버스 논란 사과",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 5,
-      "keyword": "고의정 서지혜 영입",
-      "state": "+",
-      "change": "12"
-    },
-    {
-      "rank": 6,
-      "keyword": "하석진, 안희연 친자 확인 요청",
+      "keyword": "이설, 결혼의 완성으로 용기 얻어",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "윤호중 장관, 착한가격업소 격려",
-      "state": "+",
-      "change": "3"
+      "rank": 6,
+      "keyword": "태풍과 해산물 배달",
+      "state": "s",
+      "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "결혼의 완성을 통해 용기 얻어",
-      "state": "-",
+      "rank": 7,
+      "keyword": "하석진, 친자 확인 사랑이 온다",
+      "state": "+",
       "change": "2"
     },
     {
+      "rank": 8,
+      "keyword": "경찰 심판 성접대 수사 검토",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "선관위 국조특위 재검표 갈등",
+      "keyword": "천안 어린이 교회 목사 구속",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "오싹한 연애",
-      "state": "+",
-      "change": "4"
+      "keyword": "안민석 교권 보호",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
