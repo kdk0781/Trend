@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-10T22:58:20.117Z",
+  "updatedAt": "2026-08-10T23:34:49.222Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "삼전닉스",
-      "traffic": "1000+"
+      "keyword": "호스피스",
+      "traffic": "500+"
     },
     {
       "rank": 2,
+      "keyword": "치어리더",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "이솔이",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "축구 감독",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "소유",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "삼전닉스",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
       "keyword": "장기 기증",
       "traffic": "500+"
     },
     {
-      "rank": 3,
-      "keyword": "이다해",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "등반",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "손담비",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "번트",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "김용하",
-      "traffic": "100+"
-    },
-    {
       "rank": 8,
-      "keyword": "탁구",
+      "keyword": "이다해",
       "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "육군사관학교",
+      "keyword": "손담비",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "최우수산",
-      "traffic": "10000+"
+      "keyword": "등반",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "평택 위험물 화재 발생",
-      "state": "s",
-      "change": "0"
+      "keyword": "하영, 증조부 친일 의혹 해명",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "하영, 감금 강제 낙태 병원 근무 논란",
-      "state": "s",
+      "keyword": "평택 위험물 창고 화재 대응",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "콜롬비아 7.4 강진 사망 111명",
-      "state": "s",
-      "change": "0"
+      "keyword": "태풍 돌핀 상륙 쑥대밭 중국",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "태풍 경로",
-      "state": "s",
-      "change": "0"
+      "keyword": "오초희 경제 갈등",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "정은지 에이핑크 멤버들 칭찬받아",
-      "state": "n",
+      "keyword": "정은지 에이핑크 멤버들 극찬받아",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "韓 축구 이적 소식",
-      "state": "n",
-      "change": "0"
+      "keyword": "트럼프 호르무즈 기뢰 제거",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "오초희, 경제 갈등과 육아 힘든 상황",
-      "state": "s",
+      "keyword": "아라우호, 리버풀 임대 이적",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "외국인 비자 17만 취소",
+      "keyword": "콜롬비아 7.4 강진 사망자 111명",
+      "state": "-",
+      "change": "5"
+    },
+    {
+      "rank": 9,
+      "keyword": "이종현, 8년 만의 평범한 근황",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "뉴욕증시, 이란 협상 난항",
-      "state": "+",
-      "change": "5"
-    },
-    {
       "rank": 10,
-      "keyword": "북한 노력혁신자들 원산갈마관광지서",
-      "state": "n",
+      "keyword": "노력혁신자들 원산갈마관광지서 휴양",
+      "state": "s",
       "change": "0"
     }
   ]
