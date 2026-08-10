@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T19:18:05.103Z",
+  "updatedAt": "2026-08-10T20:04:00.956Z",
   "google": [
     {
       "rank": 1,
@@ -13,105 +13,105 @@
     },
     {
       "rank": 3,
-      "keyword": "콜롬비아",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
       "keyword": "아이맥스 영화관",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "keyword": "수능",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "keyword": "레임덕",
       "traffic": "10000+"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "keyword": "케스파컵",
       "traffic": "500+"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "keyword": "대한 광통신",
       "traffic": "1000+"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "keyword": "더트롯쇼",
       "traffic": "200+"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "keyword": "컴퓨터 공학",
+      "traffic": "200+"
+    },
+    {
+      "rank": 10,
+      "keyword": "김유재",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "하영 소속사 친일 아니다",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
       "keyword": "콜롬비아 6.8 강진 발생",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "정준영 이종현, 평범한 회사원으로 복귀.",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 3,
-      "keyword": "정준영 이종현, 평범한 회사원으로 복귀",
-      "state": "s",
-      "change": "0"
+      "keyword": "하영 소속사, 역사 왜곡인가?",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "TV토론회 민주당 당대표",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 5,
-      "keyword": "광주 군공항 2028년 이전 추진",
+      "keyword": "양민혁 벨기에 임대",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "스틸 美대사 현충원 참배",
+      "rank": 5,
+      "keyword": "민주당 당대표 TV토론회",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "소유, 사우나 있는 새 집 공개",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "청년미래적금 9월 추가 모집 검토",
-      "state": "-",
+      "rank": 6,
+      "keyword": "금정 통합 저항이 호남 잡기",
+      "state": "+",
       "change": "4"
     },
     {
+      "rank": 7,
+      "keyword": "소유, 사우나와 헬스장 있는 집 공개",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "열대야와 시민들 여름밤",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "열대야 없는 여름밤 시민들",
+      "keyword": "트럼프, 이란 경제압박 지속",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "박세미 전세사기 기부",
-      "state": "+",
-      "change": "1"
+      "keyword": "내 남은 연애 반전 선택에 충격 받은 MC들",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
