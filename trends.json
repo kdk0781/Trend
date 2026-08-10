@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-10T14:39:50.777Z",
+  "updatedAt": "2026-08-10T15:34:54.915Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "케스파컵",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
       "keyword": "대한 광통신",
       "traffic": "1000+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "더트롯쇼",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "컴퓨터 공학",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "전북특별자치도교육청",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "김유재",
-      "traffic": "100+"
+      "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "한우",
       "traffic": "500+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "조원태",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "교도소",
       "traffic": "1000+"
     },
     {
-      "rank": 9,
-      "keyword": "경찰",
-      "traffic": "10000+"
-    },
-    {
       "rank": 10,
-      "keyword": "오초희",
-      "traffic": "1000+"
+      "keyword": "트럭",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "오초희 통증 걱정하는 남편",
+      "keyword": "오초희 출산 후 남편 걱정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "하영, 증조부 친일 의혹",
+      "keyword": "한화, KAI 지분 15% 넘겨",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "콜롬비아 6.8 지진 발생",
-      "state": "+",
-      "change": "1"
+      "keyword": "힐리어드 7월 MVP",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "TV토론회 민주당 당대표",
-      "state": "+",
+      "keyword": "하영 증조부 친일 논란",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "90대 며느리 주차할",
+      "keyword": "광주 군공항 2028년 이전",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "선생님 협박 학부모 고발",
+      "keyword": "콜롬비아서 규모 지진",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "래시포드, 맨유 복귀!",
+      "keyword": "서혜원, 결혼 4개월 만에 임신",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "가요무대",
+      "keyword": "삼성바이오 키트루다 허가 신청",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "청년미래적금 추가 모집 검토",
-      "state": "n",
-      "change": "0"
+      "keyword": "이종현, 평범한 회사원으로 복귀",
+      "state": "-",
+      "change": "7"
     },
     {
       "rank": 10,
-      "keyword": "태풍 비구름으로 폭염 주춤",
-      "state": "-",
-      "change": "2"
+      "keyword": "대한당구연맹 회장 사임",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
