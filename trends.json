@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-09T23:48:13.979Z",
+  "updatedAt": "2026-08-10T00:37:45.550Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "전장연",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
+      "keyword": "대한민국 문화체육관광부",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "결혼식",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
       "keyword": "배구",
       "traffic": "1000+"
     },
     {
-      "rank": 2,
+      "rank": 5,
       "keyword": "오타니 쇼헤이",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "keyword": "이승우",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "keyword": "주유소",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "간암",
       "traffic": "200+"
     },
     {
-      "rank": 6,
-      "keyword": "이효리",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "적금",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "변동성",
-      "traffic": "100+"
-    },
-    {
       "rank": 9,
-      "keyword": "노란봉투법",
+      "keyword": "태풍 찬홈",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "오지헌",
-      "traffic": "500+"
+      "keyword": "gs25",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "동시 북상 중인 3개 태풍",
+      "keyword": "태풍 속 AI 창호 진화",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "결혼의 완성",
-      "state": "+",
-      "change": "1"
+      "keyword": "용산역 상행선 무정차",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "트럼프, 이란에 경제 압박",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "김주형 윈덤 공동 5위",
+      "keyword": "결혼의 완성",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "사랑이 온다 최고 기록",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 5,
-      "keyword": "사랑이 오는 아들 질문",
-      "state": "s",
+      "keyword": "김주형 윈덤 챔피언십 공동 5위",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "빅뱅, 19일 신곡 발매!",
-      "state": "n",
+      "keyword": "오디세이 200만 관객 돌파",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
       "keyword": "오싹한 연애",
-      "state": "+",
-      "change": "3"
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "이강인 사과는 부당해",
-      "state": "+",
-      "change": "3"
+      "keyword": "트럼프의 이란 압박",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "배지환 밀워키 번트 안타",
-      "state": "+",
-      "change": "10"
+      "keyword": "이강인, 한국 첫 경기 벅찬 소감",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "오디세이 200만 관객 돌파",
-      "state": "n",
-      "change": "0"
+      "keyword": "빅뱅, 19일 신곡 발표!",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
