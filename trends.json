@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-10T10:09:21.174Z",
+  "updatedAt": "2026-08-10T11:19:13.265Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "한화그룹",
-      "traffic": "500+"
+      "keyword": "김미현",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "남궁민",
-      "traffic": "500+"
+      "keyword": "외국인",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "기온",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "도박",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "김지원",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "이재명 지지율",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "권영찬",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "홍경민",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "new york times",
+      "keyword": "ssg 랜더스",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "빅뱅",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "노소영",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "남구",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "15 호 태풍",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "한국경제신문사",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
+      "keyword": "며느리",
+      "traffic": "10000+"
+    },
+    {
       "rank": 10,
-      "keyword": "문어",
-      "traffic": "2000+"
+      "keyword": "최저시급",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "하영, 역사 인식 부족 문제",
+      "keyword": "하영의 역사 인식 부족 문제",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "한화 KAI 지분 15% 넘겨",
+      "keyword": "연내 메가특구특별법 제정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "선업튀 서혜원 결혼",
+      "keyword": "스리랑카 타루샤 영입",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "사랑이 온다, 하석진 친자 확인",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 4,
-      "keyword": "연내 메가특구특별법 제정",
-      "state": "+",
-      "change": "3"
-    },
-    {
       "rank": 5,
-      "keyword": "서수길 회장 일신상 사임",
+      "keyword": "강훈식 비서실장 메가프로젝트",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "하석진, 안희연 친자 확인 요청",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "경찰 내부비리 신고포상금 확대",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "프로포폴산부인과 의사",
-      "state": "s",
+      "keyword": "임시 감독 온라인 면접 마감",
+      "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "서혜원, 결혼 4개월 만에 임신 발표",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "오싹한 연애",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 9,
-      "keyword": "선관위 청문회 공방",
-      "state": "s",
+      "keyword": "경찰, 축구 심판 성접대 수사 검토",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "키트루다 시밀러 국내 신청",
+      "keyword": "이승기 횡령 회삿돈까지",
       "state": "n",
       "change": "0"
     }
