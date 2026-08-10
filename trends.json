@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-10T00:37:45.550Z",
+  "updatedAt": "2026-08-10T02:55:41.159Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "전장연",
-      "traffic": "200+"
+      "keyword": "원태인",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "대한민국 문화체육관광부",
-      "traffic": "1000+"
+      "keyword": "구자욱",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "결혼식",
-      "traffic": "1000+"
+      "keyword": "알렉산드라 에알라",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "배구",
+      "keyword": "양파",
       "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "오타니 쇼헤이",
+      "keyword": "코스닥",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "이승우",
+      "keyword": "이솔이",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "주유소",
-      "traffic": "500+"
+      "keyword": "간식",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "간암",
-      "traffic": "200+"
+      "keyword": "신봉선",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "태풍 찬홈",
+      "keyword": "노화",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "gs25",
-      "traffic": "100+"
+      "keyword": "화가",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "태풍 속 AI 창호 진화",
+      "keyword": "국민의힘 장동혁 대표",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "용산역 상행선 무정차",
-      "state": "n",
+      "keyword": "코스닥 매수 사이드카 발동",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "결혼의 완성",
+      "keyword": "세븐틴 승관·디노 10월 입대",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "사랑이 온다 최고 기록",
-      "state": "-",
-      "change": "2"
+      "keyword": "김민석 지지 여성의원",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김주형 윈덤 챔피언십 공동 5위",
+      "keyword": "김정희와 그의 동반자",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "오디세이 200만 관객 돌파",
-      "state": "s",
-      "change": "0"
+      "keyword": "김기현 의원 법정行",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "오싹한 연애",
+      "keyword": "남궁민 결혼의 완성 종영 8.5%",
       "state": "-",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "트럼프의 이란 압박",
+      "keyword": "수도권 20억 신고가",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이강인, 한국 첫 경기 벅찬 소감",
-      "state": "s",
+      "keyword": "윤호중 장관 활동",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "빅뱅, 19일 신곡 발표!",
+      "keyword": "코스피 상승 출발",
       "state": "-",
-      "change": "2"
+      "change": "6"
     }
   ]
 }
