@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-10T07:14:33.055Z",
+  "updatedAt": "2026-08-10T08:51:29.235Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "찬홈",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "미운 우리 새끼",
+      "keyword": "권영찬",
       "traffic": "500+"
     },
     {
+      "rank": 2,
+      "keyword": "홍경민",
+      "traffic": "2000+"
+    },
+    {
       "rank": 3,
-      "keyword": "대구고등검찰청",
-      "traffic": "200+"
+      "keyword": "new york times",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "연애 전쟁",
-      "traffic": "5000+"
+      "keyword": "문어",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "오동도",
-      "traffic": "200+"
+      "keyword": "여론",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "도라이버",
+      "keyword": "브루노 페르난데스",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "정연",
-      "traffic": "2000+"
+      "keyword": "로드리고 메시",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "모델",
-      "traffic": "200+"
+      "keyword": "가정폭력",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "고영욱",
-      "traffic": "20000+"
+      "keyword": "휴대 전화",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "sbs 가요대전",
-      "traffic": "2000+"
+      "keyword": "twitch",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 메가프로젝트 점검회의",
+      "keyword": "하영, 의사 집안 논란",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 2,
+      "keyword": "오세훈 서울시장, 청년 AI 업체 방문",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "코스닥 7% 상승 마감",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 2,
-      "keyword": "오세훈, 청년 AI 스타트업 방문",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "하영, 친일 의혹 해명",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 4,
-      "keyword": "UFS연습 한미 공동브리핑",
-      "state": "-",
-      "change": "1"
+      "keyword": "KT 힐리어드 7월 MVP",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "정연, 친언니와 한솥밥",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 6,
-      "keyword": "여름 전력 수요 증가",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "김지원 1억 기부",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "버스 하우스 논란 사과",
+      "keyword": "싸이월드 인수 3.0",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "태풍 동해 진출?",
+      "rank": 6,
+      "keyword": "한화 KAI 지분 확대",
       "state": "+",
-      "change": "2"
+      "change": "4"
+    },
+    {
+      "rank": 7,
+      "keyword": "선관위 국조특위 청문회",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "AG 금메달 노리는 양지인·오예진",
+      "state": "+",
+      "change": "7"
+    },
+    {
+      "rank": 9,
+      "keyword": "키트루다 허가 신청",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "황희 사과",
+      "keyword": "김지원, 기부 결심",
       "state": "n",
       "change": "0"
     }
