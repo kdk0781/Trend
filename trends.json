@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-10T23:34:49.222Z",
+  "updatedAt": "2026-08-11T00:03:34.348Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "호스피스",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "치어리더",
+      "keyword": "이승기",
       "traffic": "1000+"
     },
     {
+      "rank": 2,
+      "keyword": "장신영",
+      "traffic": "100+"
+    },
+    {
       "rank": 3,
-      "keyword": "이솔이",
+      "keyword": "평택 화재",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "축구 감독",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "소유",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "삼전닉스",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "장기 기증",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "이다해",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "손담비",
+      "keyword": "울산 남구 청장",
       "traffic": "1000+"
     },
     {
-      "rank": 10,
-      "keyword": "등반",
+      "rank": 5,
+      "keyword": "현행범",
       "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "레이디 제인",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "정국",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "박승수",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
+      "keyword": "노란봉투법",
+      "traffic": "500+"
+    },
+    {
+      "rank": 10,
+      "keyword": "낙동강",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "하영, 증조부 친일 의혹 해명",
-      "state": "+",
-      "change": "1"
+      "keyword": "4대째 의사 집안 자랑한 하영 논란",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "평택 위험물 창고 화재 대응",
-      "state": "n",
+      "keyword": "평택 위험물 화재 발생",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "태풍 돌핀 상륙 쑥대밭 중국",
+      "keyword": "태풍 영향 있나?",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "오초희 경제 갈등",
+      "keyword": "정은지 에이핑크 멤버들 극찬 중",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "정은지 에이핑크 멤버들 극찬받아",
-      "state": "s",
+      "keyword": "양민혁 베스테를로 임대 확정",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
       "keyword": "트럼프 호르무즈 기뢰 제거",
       "state": "+",
-      "change": "3"
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "아라우호, 리버풀 임대 이적",
+      "keyword": "삼성전자 폴더블 헤리티지",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "콜롬비아 7.4 강진 사망자 111명",
+      "keyword": "정준영 단톡방 이종현, 8년 만에 근황 확인",
       "state": "-",
-      "change": "5"
+      "change": "6"
     },
     {
       "rank": 9,
-      "keyword": "이종현, 8년 만의 평범한 근황",
+      "keyword": "시각장애 송승환 지팡이 모습",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "노력혁신자들 원산갈마관광지서 휴양",
-      "state": "s",
+      "keyword": "오초희 남편 경제 갈등",
+      "state": "n",
       "change": "0"
     }
   ]
