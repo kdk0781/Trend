@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-11T14:31:50.856Z",
+  "updatedAt": "2026-08-11T15:32:02.743Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "고소영",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
+      "keyword": "투자가",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
       "keyword": "진수 화",
       "traffic": "500+"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "keyword": "테이",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "임 라라",
       "traffic": "2000+"
     },
     {
-      "rank": 4,
-      "keyword": "정호연",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "keyword": "갈소원",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "keyword": "정호연",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
       "keyword": "넥슨",
       "traffic": "2000+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "민주노동조합총연맹",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "유성우",
       "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "김설현",
-      "traffic": "500+"
-    },
-    {
-      "rank": 10,
-      "keyword": "최지만",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "하영 친일 정해인 논란",
-      "state": "+",
-      "change": "1"
+      "keyword": "가양동 아파트 화재 숨져",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "로또 당첨금 자동 입금됩니다",
+      "keyword": "아이들 민니 시구로 승리 기원",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "아이들 민니 시구 기원",
-      "state": "s",
+      "keyword": "하영 증조부 친일 논란",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이종현 이혼 고백",
-      "state": "s",
+      "keyword": "용인 반도체 국가산단",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "가양동 아파트 화재로 모자 사망",
-      "state": "-",
-      "change": "4"
+      "keyword": "황정민 스토킹 벌금 구형",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "60대 임원, 성폭행 사건",
+      "keyword": "펄어비스 2분기 영업익 급증",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "국책은행 이전 저지 결의",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 8,
-      "keyword": "한화 선발 왕옌청",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "살해 김동환 무기징역 구형",
+      "keyword": "한화 왕옌청의 역투",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "국외 독립유공자 후손 방문",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "국책은행 지방이전 저지 투쟁",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 10,
-      "keyword": "합수본 통일교 간부 기소",
+      "keyword": "통일교 9명 기소",
       "state": "n",
       "change": "0"
     }
