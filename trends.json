@@ -1,99 +1,99 @@
 {
-  "updatedAt": "2026-08-11T21:59:29.394Z",
+  "updatedAt": "2026-08-11T22:47:43.337Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김혜수",
-      "traffic": "2000+"
+      "keyword": "제니",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "중국",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "김준호",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "심형탁",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "롤 점검",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "브랜든 윌리엄스",
+      "keyword": "안민석",
       "traffic": "100+"
     },
     {
-      "rank": 7,
-      "keyword": "축구",
-      "traffic": "2000+"
+      "rank": 3,
+      "keyword": "다우 존스 산업평균지수",
+      "traffic": "200+"
     },
     {
-      "rank": 8,
-      "keyword": "이재명 지지율",
-      "traffic": "1000+"
+      "rank": 4,
+      "keyword": "smr",
+      "traffic": "200+"
     },
     {
-      "rank": 9,
-      "keyword": "심판",
+      "rank": 5,
+      "keyword": "디에고 포를란",
       "traffic": "500+"
     },
     {
+      "rank": 6,
+      "keyword": "나솔",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "범죄",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "휴머노이드 로봇",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
+      "keyword": "뉴스",
+      "traffic": "5000+"
+    },
+    {
       "rank": 10,
-      "keyword": "김승현",
-      "traffic": "1000+"
+      "keyword": "박지성",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "하영 증조부 논란 역사학자 신중론",
+      "keyword": "정해인, 하영 파문 속 홍보",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "콜롬비아 강진 사망자 240명 넘어서",
+      "keyword": "북, 미상 발사체 발사",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "카라스코 KBO 첫 승",
+      "keyword": "송원근 결혼 발표",
       "state": "+",
       "change": "3"
     },
     {
       "rank": 4,
-      "keyword": "홍경민 아내 지하철 해금 연주",
+      "keyword": "양민혁, 토트넘 벨기에 임대 확정",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "북한, 동쪽으로 미상 발사",
-      "state": "n",
-      "change": "0"
+      "keyword": "태풍 경로는 입추와 폭염 완화?",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "입추 태풍 경로",
+      "keyword": "호르무즈 개방 위해 전쟁 끝내야",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "2026년 8월 12일 운세",
-      "state": "n",
-      "change": "0"
+      "keyword": "콜롬비아 강진 사망자 증가",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 8,
@@ -103,14 +103,14 @@
     },
     {
       "rank": 9,
-      "keyword": "송원근 깜짝 결혼 발표",
-      "state": "-",
-      "change": "7"
+      "keyword": "2026년 8월 12일 운세",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "후티 화물선 공격 4명 사망",
-      "state": "s",
+      "keyword": "영화 촬영 후 귀가 대학생 3명 사망",
+      "state": "n",
       "change": "0"
     }
   ]
