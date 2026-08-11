@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-11T07:22:34.323Z",
+  "updatedAt": "2026-08-11T08:28:52.234Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "남지현",
-      "traffic": "200+"
+      "keyword": "복권",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "프로포폴",
-      "traffic": "2000+"
+      "keyword": "사랑이 온다",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "이하정",
-      "traffic": "500+"
+      "keyword": "주한 미군",
+      "traffic": "5000+"
     },
     {
       "rank": 4,
-      "keyword": "로켓",
-      "traffic": "200+"
+      "keyword": "국무회 의",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "충청북도",
-      "traffic": "100+"
+      "keyword": "진수화",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "택배",
+      "keyword": "애플",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "패션",
-      "traffic": "1000+"
+      "keyword": "송승환",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "이재용",
+      "keyword": "당진시장",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "숲",
-      "traffic": "1000+"
+      "keyword": "일본 태풍",
+      "traffic": "20000+"
     },
     {
       "rank": 10,
-      "keyword": "농협",
-      "traffic": "10000+"
+      "keyword": "창정 7a",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 국립소방병원 개원식",
+      "keyword": "이재명 대통령 국립소방병원",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김윤덕 장관의 발언과 생각",
-      "state": "n",
+      "keyword": "김윤덕 국토부 장관",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "하영, 인터뷰 취소 인정",
+      "keyword": "하영, 인터뷰 취소",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "한동훈 의원, 부산토론회 참석",
+      "keyword": "안진수 하늘의 별로 떠나다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "안진수, 췌장암 투병 끝 별세",
+      "keyword": "3대 메가프로젝트 간담회",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "수능 D-100 최선 다하자",
+      "keyword": "폭염 끝내고 프로야구 재개",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "코스피 상승 종료",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "3대 프로젝트 지원 회의",
+      "rank": 8,
+      "keyword": "국외 독립유공자 후손 방문",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "이정후 최다 홈런",
-      "state": "-",
-      "change": "2"
-    },
-    {
       "rank": 9,
-      "keyword": "박두순 대변인 브리핑",
-      "state": "+",
+      "keyword": "장동혁 대표 퇴진 촉구",
+      "state": "-",
       "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "코스피 상승 마감",
-      "state": "n",
-      "change": "0"
+      "keyword": "한은 부총재 금리 인상 가능성 커",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
