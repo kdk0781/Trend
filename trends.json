@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T18:23:47.733Z",
+  "updatedAt": "2026-08-11T19:31:41.731Z",
   "google": [
     {
       "rank": 1,
@@ -9,12 +9,12 @@
     {
       "rank": 2,
       "keyword": "함소원",
-      "traffic": "1000+"
+      "traffic": "2000+"
     },
     {
       "rank": 3,
       "keyword": "광 통신",
-      "traffic": "200+"
+      "traffic": "500+"
     },
     {
       "rank": 4,
@@ -38,80 +38,80 @@
     },
     {
       "rank": 8,
+      "keyword": "슈퍼맨이 돌아왔다",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
       "keyword": "임 라라",
       "traffic": "2000+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "갈소원",
       "traffic": "1000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "정호연",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "아이들 민니 시구로 승리 기원",
+      "keyword": "하영, 그림 실력으로 시끌해져",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "국책은행 이전 저지 투쟁",
-      "state": "+",
-      "change": "3"
+      "keyword": "경남 가뭄에 국가소방동원령",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "합수본 통일교 기소",
-      "state": "+",
-      "change": "3"
+      "keyword": "박준순 결승타 4연승 두산",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "하영 증조부 친일 논란",
+      "keyword": "콜롬비아 강진 사망자 증가",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "한화 왕옌청 역투 중",
-      "state": "s",
-      "change": "0"
+      "keyword": "바브엘만데브 화물선 사망",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "가양동 아파트 화재로 모자 사망",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 7,
-      "keyword": "콜롬비아 강진 사망자 200명 넘었다",
+      "keyword": "홍경민 아내 결혼 13년 갈등",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "경남 가뭄 소방차 200대 투입",
-      "state": "-",
+      "rank": 7,
+      "keyword": "가양동 아파트 화재 어머니 아들 사망",
+      "state": "+",
       "change": "1"
     },
     {
+      "rank": 8,
+      "keyword": "정치인 132명 불법 기부 통일교 기소",
+      "state": "-",
+      "change": "3"
+    },
+    {
       "rank": 9,
-      "keyword": "900만 관중 돌파",
-      "state": "s",
+      "keyword": "평택 위험물 화재 21시간 만에 완진",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "용인 반도체 국가산단",
-      "state": "-",
-      "change": "6"
+      "keyword": "태풍 찬홈, 한국 영향은?",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
