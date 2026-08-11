@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-11T05:08:06.706Z",
+  "updatedAt": "2026-08-11T06:01:19.017Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "롯데바이오로직스",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "오 스탈",
+      "keyword": "기내식",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
-      "keyword": "소득세",
-      "traffic": "200+"
+      "rank": 2,
+      "keyword": "병사",
+      "traffic": "100+"
     },
     {
-      "rank": 4,
-      "keyword": "lng선",
+      "rank": 3,
+      "keyword": "영탁",
       "traffic": "500+"
     },
     {
+      "rank": 4,
+      "keyword": "동메달",
+      "traffic": "100+"
+    },
+    {
       "rank": 5,
-      "keyword": "하워드 러트닉",
+      "keyword": "송성문",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "덤프 트럭",
-      "traffic": "20000+"
+      "keyword": "국무회의",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "추석",
-      "traffic": "1000+"
+      "keyword": "적금",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "보스턴 레드삭스",
-      "traffic": "500+"
+      "keyword": "보스턴 레드 삭스",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "국민의힘",
-      "traffic": "500+"
+      "keyword": "기뢰",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "안진수",
-      "traffic": "5000+"
+      "keyword": "곰",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "메가특구법 철회 촉구 기자회견",
-      "state": "+",
-      "change": "2"
+      "keyword": "하영, 광고계 손절 시작된다",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "하영 조상 자랑질 비판",
-      "state": "+",
-      "change": "2"
+      "keyword": "국민의힘 한동훈 의원",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "안진수 별세 췌장암 투병 끝",
+      "keyword": "수능 D-100 응원해요!",
+      "state": "+",
+      "change": "10"
+    },
+    {
+      "rank": 4,
+      "keyword": "이정후 시즌 9호 홈런",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "이정후 9호 홈런!",
-      "state": "+",
+      "rank": 5,
+      "keyword": "엔씨 2분기 영업익 1053%↑",
+      "state": "-",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "강요배 개인전 소소 반색",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 6,
-      "keyword": "국외거주 독립유공자 후손 참배",
-      "state": "+",
+      "keyword": "하이닉스 100조 주주환원 발표",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "하이닉스 주주환원 발표",
-      "state": "+",
-      "change": "3"
+      "keyword": "가뭄과 태풍",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "수능 100일 응원",
-      "state": "n",
-      "change": "0"
+      "keyword": "삼성SDI-GM 배터리 단독 운영",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "여객기참사 한국공항공사 압수수색",
-      "state": "n",
-      "change": "0"
+      "keyword": "오초희의 육아와 결혼 생활",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "마라탕 나트륨 주의!",
+      "keyword": "1주 육아휴직 가능",
       "state": "n",
       "change": "0"
     }
