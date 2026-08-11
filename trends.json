@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-11T09:31:33.917Z",
+  "updatedAt": "2026-08-11T10:27:56.745Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "법원",
-      "traffic": "500+"
+      "keyword": "사랑 이 온다",
+      "traffic": "10000+"
     },
     {
       "rank": 2,
-      "keyword": "주거",
+      "keyword": "냉동식품",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "대한민국 금융위원회",
-      "traffic": "200+"
+      "keyword": "삼성 대 kia",
+      "traffic": "10000+"
     },
     {
       "rank": 4,
-      "keyword": "신용카드",
-      "traffic": "100+"
+      "keyword": "한화 대 두산",
+      "traffic": "5000+"
     },
     {
       "rank": 5,
-      "keyword": "홍준표",
+      "keyword": "lg 대 키움",
       "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "송도 럭스 오션 sk뷰",
-      "traffic": "1000+"
+      "keyword": "롯데 대 ssg",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "해고",
-      "traffic": "1000+"
+      "keyword": "구자욱",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "반려견",
-      "traffic": "1000+"
+      "keyword": "배틀그라운드",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "디워",
+      "keyword": "청하",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "송가 인",
-      "traffic": "1000+"
+      "keyword": "커피",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "국외 거주 독립유공자 후손 방문",
+      "keyword": "가양동 아파트 화재 2명 심정지",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "안진수 별세 소식",
-      "state": "s",
-      "change": "0"
+      "keyword": "하영 논란 정해인 인터뷰 취소",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 3,
-      "keyword": "폭염 끝내고 야구 재개",
+      "keyword": "폭염 브레이크 롯데",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "코스맥스 2분기 최대 실적",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "언론사 단전·단수 기소 사건",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 6,
-      "keyword": "함소원 기도 눈물",
+      "keyword": "황정민 스토킹 사건 1000만원 구형",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "대곡댐 상류 바닥 드러남",
+      "rank": 5,
+      "keyword": "펄어비스 2분기 676억원",
       "state": "+",
-      "change": "3"
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "하이닉스 주가 반전 카드",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "안진수 별세, 하늘의 별로",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 8,
-      "keyword": "이혜영 폐암 치료 부작용",
-      "state": "n",
+      "keyword": "태풍 속 영화제 성황리 폐막",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "차인표 연극 도전",
+      "keyword": "롯데렌탈 매각 추진",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "박탈 동메달 성접대",
+      "keyword": "해병대 도주 4시간 만에 잡힘",
       "state": "n",
       "change": "0"
     }
