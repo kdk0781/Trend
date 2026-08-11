@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-11T03:58:17.741Z",
+  "updatedAt": "2026-08-11T05:08:06.706Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "송파 시그니처 롯데 캐슬",
-      "traffic": "1000+"
+      "keyword": "롯데바이오로직스",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "오스탈",
+      "keyword": "오 스탈",
       "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "물왕도마뱀",
+      "keyword": "소득세",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "에어로케이",
-      "traffic": "100+"
+      "keyword": "lng선",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "양민혁",
-      "traffic": "2000+"
+      "keyword": "하워드 러트닉",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "재벌",
-      "traffic": "200+"
+      "keyword": "덤프 트럭",
+      "traffic": "20000+"
     },
     {
       "rank": 7,
-      "keyword": "주민세",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "lpga",
+      "keyword": "추석",
       "traffic": "1000+"
     },
     {
+      "rank": 8,
+      "keyword": "보스턴 레드삭스",
+      "traffic": "500+"
+    },
+    {
       "rank": 9,
-      "keyword": "학대",
-      "traffic": "2000+"
+      "keyword": "국민의힘",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "경보",
-      "traffic": "200+"
+      "keyword": "안진수",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "서계 청파동 정비사업",
+      "keyword": "메가특구법 철회 촉구 기자회견",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "이재명 대통령 보고 받다",
-      "state": "n",
-      "change": "0"
+      "keyword": "하영 조상 자랑질 비판",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "하영, 증조부 친일 의혹",
-      "state": "+",
+      "keyword": "안진수 별세 췌장암 투병 끝",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "수능 D-100 응원할게",
-      "state": "s",
-      "change": "0"
+      "keyword": "이정후 9호 홈런!",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "김성환 장관 회의 참석",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "안진수 별세 소식",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 7,
-      "keyword": "위트컴 휴스턴 방출 대기",
+      "keyword": "강요배 개인전 소소 반색",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "국외거주 독립유공자 후손 참배",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "하이닉스 주주환원 발표",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 8,
-      "keyword": "중대범죄수사청 임용설명회",
+      "keyword": "수능 100일 응원",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "창빈 생일 1억 기부",
+      "keyword": "여객기참사 한국공항공사 압수수색",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "강요배의 개인전 소소",
+      "keyword": "마라탕 나트륨 주의!",
       "state": "n",
       "change": "0"
     }
