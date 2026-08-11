@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T17:27:23.836Z",
+  "updatedAt": "2026-08-11T18:23:47.733Z",
   "google": [
     {
       "rank": 1,
@@ -28,90 +28,90 @@
     },
     {
       "rank": 6,
+      "keyword": "진수 화",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
       "keyword": "테이",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "임 라라",
       "traffic": "2000+"
     },
     {
-      "rank": 8,
-      "keyword": "갈소원",
-      "traffic": "500+"
-    },
-    {
       "rank": 9,
-      "keyword": "정호연",
-      "traffic": "200+"
+      "keyword": "갈소원",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "넥슨",
-      "traffic": "5000+"
+      "keyword": "정호연",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "아이들 민니 시구로 승리 기원",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "가양동 아파트 화재 모자 사망",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "하영, 그리기 실력 대단해",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "국책은행 이전 저지 투쟁",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 3,
+      "keyword": "합수본 통일교 기소",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 4,
-      "keyword": "황정민 스토킹 벌금 1000만원 구형",
-      "state": "s",
+      "keyword": "하영 증조부 친일 논란",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "펄어비스 2분기 영업익 7411%↑",
-      "state": "+",
-      "change": "1"
+      "keyword": "한화 왕옌청 역투 중",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "민주당 반도체 산단 방문",
+      "keyword": "가양동 아파트 화재로 모자 사망",
       "state": "-",
-      "change": "1"
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "국책은행 지방이전 저지 결의",
-      "state": "s",
+      "keyword": "콜롬비아 강진 사망자 200명 넘었다",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "합수본 통일교 기소",
+      "keyword": "경남 가뭄 소방차 200대 투입",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "900만 관중 돌파",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "경남 가뭄에 국가소방동원령",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 10,
-      "keyword": "2026 프로야구 900만 관중 돌파",
-      "state": "n",
-      "change": "0"
+      "keyword": "용인 반도체 국가산단",
+      "state": "-",
+      "change": "6"
     }
   ]
 }
