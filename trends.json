@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-11T15:32:02.743Z",
+  "updatedAt": "2026-08-11T16:28:38.062Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "함소원",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
+      "keyword": "광 통신",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
       "keyword": "고소영",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "keyword": "투자가",
       "traffic": "500+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "진수 화",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "테이",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "임 라라",
       "traffic": "2000+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "갈소원",
-      "traffic": "200+"
+      "traffic": "500+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "정호연",
       "traffic": "200+"
     },
     {
-      "rank": 8,
-      "keyword": "넥슨",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "민주노동조합총연맹",
-      "traffic": "1000+"
-    },
-    {
       "rank": 10,
-      "keyword": "유성우",
-      "traffic": "500+"
+      "keyword": "넥슨",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "가양동 아파트 화재 숨져",
+      "keyword": "하영, 그림 실력 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "아이들 민니 시구로 승리 기원",
-      "state": "n",
-      "change": "0"
+      "keyword": "가양동 아파트 화재 참변",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "하영 증조부 친일 논란",
-      "state": "n",
-      "change": "0"
+      "keyword": "아이들 민니 시구로 승리 기원",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "용인 반도체 국가산단",
-      "state": "n",
+      "keyword": "용인 반도체 산단 방문",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "황정민 스토킹 벌금 구형",
-      "state": "n",
+      "keyword": "황정민 스토킹 벌금 1000만원 구형",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
       "keyword": "펄어비스 2분기 영업익 급증",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "한화 왕옌청의 역투",
-      "state": "n",
+      "keyword": "한화 왕옌청 역투 중",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "국외 독립유공자 후손 방문",
-      "state": "n",
+      "keyword": "홍경민 딸, 10살 아침밥 혼자 척척",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "국책은행 지방이전 저지 투쟁",
-      "state": "+",
-      "change": "2"
+      "keyword": "국책은행 이전 저지 결의대회",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "통일교 9명 기소",
-      "state": "n",
+      "keyword": "합수본, 통일교 기소",
+      "state": "s",
       "change": "0"
     }
   ]
