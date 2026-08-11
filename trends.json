@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-11T21:07:57.169Z",
+  "updatedAt": "2026-08-11T21:59:29.394Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "네이 마르",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "하영 그림",
+      "keyword": "김혜수",
       "traffic": "2000+"
     },
     {
+      "rank": 2,
+      "keyword": "중국",
+      "traffic": "1000+"
+    },
+    {
       "rank": 3,
-      "keyword": "신지",
+      "keyword": "김준호",
       "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "김용건",
-      "traffic": "1000+"
+      "keyword": "심형탁",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "cpi",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "함소원",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "광 통신",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "고소영",
+      "keyword": "롤 점검",
       "traffic": "200+"
     },
     {
-      "rank": 9,
-      "keyword": "투자가",
+      "rank": 6,
+      "keyword": "브랜든 윌리엄스",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "축구",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "이재명 지지율",
       "traffic": "1000+"
     },
     {
-      "rank": 10,
-      "keyword": "진수 화",
+      "rank": 9,
+      "keyword": "심판",
       "traffic": "500+"
+    },
+    {
+      "rank": 10,
+      "keyword": "김승현",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "하영, 그림 실력 논란 예술인 소환",
+      "keyword": "하영 증조부 논란 역사학자 신중론",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "경남 가뭄에 국가소방동원령",
+      "keyword": "콜롬비아 강진 사망자 240명 넘어서",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "두산 4연승 질주",
+      "keyword": "카라스코 KBO 첫 승",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 4,
+      "keyword": "홍경민 아내 지하철 해금 연주",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "콜롬비아 강진 사망자 240명 넘어",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 5,
-      "keyword": "홍경민 아내 결혼 13년 갈등",
+      "keyword": "북한, 동쪽으로 미상 발사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "태풍 찬홈, 한국 영향은?",
-      "state": "s",
-      "change": "0"
+      "keyword": "입추 태풍 경로",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "강원FC 감바 오사카 0-1 패배",
+      "keyword": "2026년 8월 12일 운세",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "카라스코 3연패 탈출",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "로또 당첨금 자동 입금",
+      "keyword": "KBO리그 900만 관중 돌파",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "송원근 깜짝 결혼 발표",
+      "state": "-",
+      "change": "7"
+    },
+    {
       "rank": 10,
-      "keyword": "홍해 화물선 공격 4명 사망",
+      "keyword": "후티 화물선 공격 4명 사망",
       "state": "s",
       "change": "0"
     }
