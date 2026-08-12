@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-12T05:52:13.305Z",
+  "updatedAt": "2026-08-12T07:11:41.550Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "sk스퀘어",
-      "traffic": "500+"
+      "keyword": "네이마르",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "서대구역",
+      "keyword": "과학자",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "잠수함 발사 탄도 미사일",
+      "keyword": "피의 게임",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "프로골퍼",
-      "traffic": "500+"
+      "keyword": "동아일보",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "송영길",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "스텔스 기",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "안철수",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "이상순",
+      "keyword": "지민",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "엘리베이터",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "업 비트",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "김지민",
+      "traffic": "2000+"
+    },
+    {
       "rank": 9,
-      "keyword": "건축탐구 - 집",
-      "traffic": "100+"
+      "keyword": "라클란 웰스",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "미스코리아",
-      "traffic": "1000+"
+      "keyword": "은마아파트",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "하영, 친일증조부 사과 약속",
-      "state": "s",
+      "keyword": "이재명 미래SEED 보고회",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "코스피 매수 사이드카 발동",
-      "state": "s",
-      "change": "0"
+      "keyword": "하영, 증조부 친일 사죄",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "나영석 PD, 예능 그룹 10년 이끌어",
+      "keyword": "주택시장 안정화 TF 회의",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "샘표 80주년 요리 캠페인",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "이정후 4타수 무안타",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "아시아나-대한항공 합병 가결",
-      "state": "-",
+      "keyword": "중소벤처스타트업 토론회",
+      "state": "+",
       "change": "2"
     },
     {
+      "rank": 5,
+      "keyword": "민주당 당대표 후보들",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "이정후 무안타 침묵",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "흉기와 전기톱 배회한 20대",
-      "state": "n",
-      "change": "0"
+      "keyword": "이경표 3주기 미소 아름다워",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "호남 반도체 전력공급 협약",
+      "keyword": "게오르그 바젤리츠 회고전",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "민주당 후보들 토론 준비",
-      "state": "n",
-      "change": "0"
+      "keyword": "하츠투하츠 일본 데뷔",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "하츠투하츠 일본 데뷔",
-      "state": "n",
+      "keyword": "서울시, 연트럴파크 421억 지급 확정",
+      "state": "s",
       "change": "0"
     }
   ]
