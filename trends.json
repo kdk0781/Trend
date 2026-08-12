@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-12T04:25:03.196Z",
+  "updatedAt": "2026-08-12T05:52:13.305Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이범호",
-      "traffic": "2000+"
+      "keyword": "sk스퀘어",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "이시언",
-      "traffic": "500+"
+      "keyword": "서대구역",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "폭포",
-      "traffic": "2000+"
+      "keyword": "잠수함 발사 탄도 미사일",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "기아",
-      "traffic": "2000+"
+      "keyword": "프로골퍼",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "생계",
-      "traffic": "10000+"
+      "keyword": "송영길",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "등반",
-      "traffic": "500+"
+      "keyword": "스텔스 기",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "김수 키",
-      "traffic": "200+"
+      "keyword": "안철수",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "테니스",
-      "traffic": "500+"
+      "keyword": "이상순",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "지드래곤",
-      "traffic": "200+"
+      "keyword": "건축탐구 - 집",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "공대공 미사일",
-      "traffic": "200+"
+      "keyword": "미스코리아",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김정관 산업통상부 장관",
+      "keyword": "하영, 친일증조부 사과 약속",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "하영 비난은 친일 강박증이다.",
+      "keyword": "코스피 매수 사이드카 발동",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "나영석 PD와 예능 그룹 10년 전망",
+      "keyword": "나영석 PD, 예능 그룹 10년 이끌어",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "코스피 매수 사이드카",
-      "state": "+",
-      "change": "1"
+      "keyword": "샘표 80주년 요리 캠페인",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "최정, 내년 건강한 모습 약속",
-      "state": "-",
-      "change": "1"
+      "keyword": "이정후 4타수 무안타",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "임광현 청장 세무관서장 회의 참석",
-      "state": "s",
-      "change": "0"
+      "keyword": "아시아나-대한항공 합병 가결",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "7월 청년 실업률 최고",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "일본제철 8000만원 배상",
-      "state": "s",
+      "keyword": "흉기와 전기톱 배회한 20대",
+      "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "한미훈련 앞두고 발사",
+      "rank": 8,
+      "keyword": "호남 반도체 전력공급 협약",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 9,
+      "keyword": "민주당 후보들 토론 준비",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "인천공항 홈리스 권리보호 기자회견",
-      "state": "-",
-      "change": "1"
+      "keyword": "하츠투하츠 일본 데뷔",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
