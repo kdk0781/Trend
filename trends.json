@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-08-12T16:48:44.982Z",
+  "updatedAt": "2026-08-12T17:44:46.110Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이찬원",
-      "traffic": "500+"
+      "keyword": "국제선",
+      "traffic": "100+"
     },
     {
       "rank": 2,
+      "keyword": "이찬원",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
       "keyword": "배재고등학교",
       "traffic": "200+"
     },
     {
-      "rank": 3,
-      "keyword": "주진우",
-      "traffic": "500+"
-    },
-    {
       "rank": 4,
-      "keyword": "정국",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "더불어민주당",
+      "keyword": "주진우",
       "traffic": "1000+"
     },
     {
+      "rank": 5,
+      "keyword": "정국",
+      "traffic": "500+"
+    },
+    {
       "rank": 6,
+      "keyword": "더불어민주당",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
       "keyword": "이동국",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "온유",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "돌싱글즈",
       "traffic": "1000+"
     },
     {
-      "rank": 9,
-      "keyword": "야구순위",
-      "traffic": "100+"
-    },
-    {
       "rank": 10,
-      "keyword": "요나단 페라자",
+      "keyword": "야구순위",
       "traffic": "100+"
     }
   ],
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "정당화 메시지 기소",
-      "state": "s",
-      "change": "0"
+      "keyword": "선관위 국힘 소청 기각",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "선관위, 국힘 소청 기각",
-      "state": "s",
-      "change": "0"
+      "keyword": "설종진 감독 마운드 방문",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "설종진 감독 마운드 방문",
+      "keyword": "은폐 구속영장 기각",
       "state": "+",
-      "change": "5"
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "온유, 주사 이모 경찰 조사 받다",
+      "keyword": "온유, 주사이모 경찰 조사 진술",
       "state": "+",
-      "change": "4"
+      "change": "7"
     },
     {
       "rank": 6,
-      "keyword": "하영 유인나 정해인 폭로",
+      "keyword": "하영, 유인나와 정해인 폭로",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "7월 물가 예상치 부합",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "문현빈 선제 솔로포 쾅!",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "VIP 격노 은폐 구속영장 기각",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "문현빈 선제포 폭발",
-      "state": "+",
-      "change": "4"
-    },
-    {
       "rank": 9,
-      "keyword": "7월 물가 상승 예상치 맞춤",
-      "state": "+",
-      "change": "1"
+      "keyword": "종합특검 윤석열 신원식 기소",
+      "state": "-",
+      "change": "6"
     },
     {
       "rank": 10,
-      "keyword": "동전주 관리종목 지정",
-      "state": "-",
-      "change": "5"
+      "keyword": "라건아 등록 보류",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
