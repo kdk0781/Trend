@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-12T02:38:01.229Z",
+  "updatedAt": "2026-08-12T04:25:03.196Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "말복",
-      "traffic": "1000+"
+      "keyword": "이범호",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "경기도교육청",
-      "traffic": "100+"
+      "keyword": "이시언",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "타격왕",
-      "traffic": "100+"
+      "keyword": "폭포",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "국가장학금",
-      "traffic": "500+"
+      "keyword": "기아",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "엘레나 리바키나",
-      "traffic": "200+"
+      "keyword": "생계",
+      "traffic": "10000+"
     },
     {
       "rank": 6,
-      "keyword": "국채",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "정준하",
+      "keyword": "등반",
       "traffic": "500+"
     },
     {
+      "rank": 7,
+      "keyword": "김수 키",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "김수키",
-      "traffic": "100+"
+      "keyword": "테니스",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "거제경찰서",
+      "keyword": "지드래곤",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "안세영",
-      "traffic": "5000+"
+      "keyword": "공대공 미사일",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "기자회견 정청래 후보",
-      "state": "n",
+      "keyword": "김정관 산업통상부 장관",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "하영, 친일 두둔과 조상",
-      "state": "-",
-      "change": "1"
+      "keyword": "하영 비난은 친일 강박증이다.",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "KT 2분기 영업익 6483억 감소",
+      "keyword": "나영석 PD와 예능 그룹 10년 전망",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "대한민국 2045전략수립위원회",
+      "keyword": "코스피 매수 사이드카",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "최정, 내년 건강한 모습 약속",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "임광현 청장 세무관서장 회의 참석",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "7월 청년 실업률 최고",
       "state": "+",
       "change": "3"
     },
     {
-      "rank": 5,
-      "keyword": "박은빈 30주년 앨범 발매",
+      "rank": 8,
+      "keyword": "일본제철 8000만원 배상",
       "state": "s",
       "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "유령주식 삼성증권 국민연금 배상",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "호날두, 로드리게스와 결혼",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "하이닉스 주가",
-      "state": "+",
-      "change": "6"
     },
     {
       "rank": 9,
-      "keyword": "아시아나 합병계약 임시주총",
-      "state": "s",
-      "change": "0"
+      "keyword": "한미훈련 앞두고 발사",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "2Q26 REVIEW 목표가",
-      "state": "n",
-      "change": "0"
+      "keyword": "인천공항 홈리스 권리보호 기자회견",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
