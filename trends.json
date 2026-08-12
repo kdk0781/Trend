@@ -1,69 +1,69 @@
 {
-  "updatedAt": "2026-08-12T22:54:29.610Z",
+  "updatedAt": "2026-08-12T23:32:18.089Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이투데이",
-      "traffic": "200+"
+      "keyword": "안정환",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "롯데렌탈",
-      "traffic": "200+"
+      "keyword": "퇴거",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "노동쟁의",
+      "keyword": "제주특별자치도",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "개",
-      "traffic": "5000+"
+      "keyword": "철도",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "유혜정",
+      "keyword": "이진숙",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "철도망",
-      "traffic": "500+"
+      "keyword": "서울역",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "정연",
-      "traffic": "500+"
+      "keyword": "노동쟁의",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "자동차",
-      "traffic": "2000+"
+      "keyword": "이투데이",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "spcx",
-      "traffic": "100+"
+      "keyword": "롯데렌탈",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "천궁",
-      "traffic": "2000+"
+      "keyword": "추경호",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "하영 사과문에 넷플릭스 감독 행동",
+      "keyword": "하영 후손 사죄 및 사과문의 좋아요",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "트럼프 호르무즈 완전 장악 주장",
-      "state": "s",
-      "change": "0"
+      "keyword": "17호 태풍 낭카 북상 중",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
@@ -73,43 +73,43 @@
     },
     {
       "rank": 4,
-      "keyword": "가을 날씨 좋았는데 태풍 13개 남음",
-      "state": "+",
+      "keyword": "트럼프, 호르무즈 완전 장악 주장",
+      "state": "-",
       "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "장로나 치어리더 매력 넘쳐!",
+      "keyword": "안판석 감독 별세 추모",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "레빗 백악관 대변인",
-      "state": "-",
-      "change": "2"
+      "keyword": "레빗 백악관 대변인 이달 퇴임",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "2026년 8월 13일 운세",
-      "state": "s",
+      "keyword": "박하선 샤넬 모자 매치",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "페르세우스 유성우 관측",
-      "state": "s",
+      "keyword": "젠슨 황, 직원들이 뽑은 CEO 1위",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이창호 27억 청약 포기",
+      "keyword": "심판 BBC도 대서특필",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "박하선 샤넬 모자 착용",
+      "keyword": "5천원에 132만원에 들어갔나",
       "state": "n",
       "change": "0"
     }
