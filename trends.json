@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-12T18:37:32.279Z",
+  "updatedAt": "2026-08-12T19:44:03.475Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "운전",
+      "keyword": "psg 대 애스턴 빌라",
       "traffic": "2000+"
     },
     {
       "rank": 2,
+      "keyword": "데포르티보 대 레알 마드리드",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "watch",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "아스널 대 코모",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "맨유 대 리즈 유나이티드",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "운전",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
       "keyword": "국제선",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 8,
       "keyword": "이찬원",
-      "traffic": "1000+"
+      "traffic": "2000+"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "keyword": "배재고등학교",
       "traffic": "200+"
     },
     {
-      "rank": 5,
-      "keyword": "주진우",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "정국",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "더불어민주당",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "이동국",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "돌싱글즈",
-      "traffic": "2000+"
-    },
-    {
       "rank": 10,
-      "keyword": "야구순위",
-      "traffic": "100+"
+      "keyword": "주진우",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "선관위, 국힘 소청 기각",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "안판석 감독 별세",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "설종진 감독 마운드 방문",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
       "keyword": "은폐 구속영장 기각",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "온유, 주사 이모 의혹 조사",
+      "rank": 2,
+      "keyword": "하영과 유인나 성격 폭로",
       "state": "s",
       "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "문현빈 선제 솔로포 폭발",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "안판석 감독 별세",
+      "state": "+",
+      "change": "8"
+    },
+    {
+      "rank": 5,
+      "keyword": "7월 물가 예상치 부합",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "7월 물가 예상치 부합",
-      "state": "s",
-      "change": "0"
+      "keyword": "키움 설종진 감독의 마운드 방문",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "문현빈 선제 솔로포 터졌다!",
-      "state": "s",
+      "keyword": "온유, 이모 주사 의혹 경찰 조사",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "하영과 유인나, 정해인 폭로 사건",
-      "state": "s",
-      "change": "0"
+      "keyword": "양의지 달아나는 솔로홈런",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "라건아 등록 보류 유지",
-      "state": "s",
-      "change": "0"
+      "keyword": "다카이치, 야스쿠니 참배 자제 예상",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "S2IT 승비 완벽해!",
-      "state": "+",
-      "change": "2"
+      "keyword": "이창호 27억 포기",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
