@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-12T10:43:56.054Z",
+  "updatedAt": "2026-08-12T11:31:34.095Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "안판석",
-      "traffic": "200+"
+      "keyword": "키",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "한강버스",
-      "traffic": "200+"
+      "keyword": "티빙",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "손연재",
-      "traffic": "200+"
+      "keyword": "헬멧",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "적금",
-      "traffic": "200+"
+      "keyword": "안판석",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "포스코",
-      "traffic": "1000+"
+      "keyword": "고독사",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "박정희",
+      "keyword": "한강버스",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "유시춘",
-      "traffic": "500+"
+      "keyword": "손연재",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "사기",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "이준혁",
+      "keyword": "적금",
       "traffic": "500+"
     },
     {
+      "rank": 9,
+      "keyword": "포스코",
+      "traffic": "1000+"
+    },
+    {
       "rank": 10,
-      "keyword": "미래에셋",
-      "traffic": "200+"
+      "keyword": "유시춘",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "하영 증조부 친일 논란",
-      "state": "s",
-      "change": "0"
+      "keyword": "계엄 정당화 메시지 기소",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "윤석열·신원식 기소",
-      "state": "n",
-      "change": "0"
+      "keyword": "안판석 감독 별세",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "안판석 감독 별세",
-      "state": "n",
-      "change": "0"
+      "keyword": "하영 증조부 친일 사죄하라",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "봉황대기 배재고 선수들",
+      "keyword": "울산 오카다 LG 이적 무산",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "동전주 36개 관리종목 지정",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 6,
       "keyword": "메디힐 한국일보 챔피언십",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 7,
-      "keyword": "하이닉스 주가 상승 5.47%",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "프란체스카 홍, 위스콘신 주지사 경선 석패",
+      "rank": 6,
+      "keyword": "선관위 서울시장 소청 기각",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "전현무 소환 조사",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "하이닉스 외국인 순매수 +5.47%",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 9,
-      "keyword": "위메이드 2분기 손실 210억원",
-      "state": "-",
-      "change": "1"
+      "keyword": "서울과기대 화장실 불법촬영 사건",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "서울과기대 불법촬영 수사",
+      "keyword": "양민혁, 베스테를로 임대 이적",
       "state": "n",
       "change": "0"
     }
