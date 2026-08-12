@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-12T12:27:18.399Z",
+  "updatedAt": "2026-08-12T13:55:27.538Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "송원근",
-      "traffic": "100+"
+      "keyword": "박소영",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "개기일식",
-      "traffic": "200+"
+      "keyword": "사건반장",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "공유",
+      "keyword": "원자력 발전소",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "대한민국",
+      "keyword": "크리스토퍼 놀란",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "야구 감독",
-      "traffic": "100+"
+      "keyword": "국가교육위원회",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "오상진",
+      "keyword": "음식",
       "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "운전 기사",
-      "traffic": "1000+"
+      "keyword": "허웅",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "김상식",
-      "traffic": "500+"
+      "keyword": "신원식",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "lg그룹",
+      "keyword": "공무원시험",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "홍현희",
-      "traffic": "1000+"
+      "keyword": "cpi 발표",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "선관위 국힘 소청 기각",
-      "state": "s",
+      "keyword": "경의선숲길 사용료 서울시 내야",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "안판석 감독, 뇌출혈 투병 끝 별세",
-      "state": "s",
+      "keyword": "오세훈 청년주택 7.4만 공급",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "하영 유인나 정해인 성격 폭로",
+      "keyword": "안판석 감독 별세",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "문현빈 선제포 폭발",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "S2IT 승비 멋진 모습",
-      "state": "-",
+      "keyword": "선관위, 국힘 소청 기각",
+      "state": "+",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "LG 오카다 영입 무산",
+      "rank": 5,
+      "keyword": "박나래 주사이모 조사",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "하영의 친일 논란 속 폭로",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 7,
-      "keyword": "양정아, 모친상 위로받아 눈물",
-      "state": "+",
-      "change": "3"
+      "keyword": "문현빈 20일 만의 선제포",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김정은 탁재훈 비겁해",
+      "keyword": "놀란과 맷 데이먼 이야기",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "하이닉스 주가 상승",
-      "state": "+",
-      "change": "2"
+      "keyword": "울산 오카다 LG 이적 무산",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "KBL 세금 분쟁 지속",
+      "keyword": "정당화 메시지 기소",
       "state": "-",
-      "change": "3"
+      "change": "7"
     }
   ]
 }
