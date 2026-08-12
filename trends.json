@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-12T15:52:09.761Z",
+  "updatedAt": "2026-08-12T16:48:44.982Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "주진우",
-      "traffic": "200+"
+      "keyword": "이찬원",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "정국",
+      "keyword": "배재고등학교",
       "traffic": "200+"
     },
     {
       "rank": 3,
+      "keyword": "주진우",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "정국",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
       "keyword": "더불어민주당",
       "traffic": "1000+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "이동국",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "온유",
       "traffic": "1000+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "돌싱글즈",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "야구순위",
       "traffic": "100+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "요나단 페라자",
       "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "kbo 리그",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "두산",
-      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "계엄 정당화 메시지 기소",
-      "state": "+",
-      "change": "1"
+      "keyword": "정당화 메시지 기소",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "봉황대기 출전하는 배재고 야구부",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
       "keyword": "선관위, 국힘 소청 기각",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "설종진 감독 마운드 방문",
+      "state": "+",
+      "change": "5"
+    },
+    {
       "rank": 5,
+      "keyword": "온유, 주사 이모 경찰 조사 받다",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 6,
       "keyword": "하영 유인나 정해인 폭로",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "관리종목 지정 36개",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 7,
-      "keyword": "위메이드 2분기 적자 감소",
+      "keyword": "VIP 격노 은폐 구속영장 기각",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "연극 갈매기 시연 전미도",
-      "state": "n",
-      "change": "0"
+      "keyword": "문현빈 선제포 폭발",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 9,
-      "keyword": "설종진 감독 마운드 방문",
+      "keyword": "7월 물가 상승 예상치 맞춤",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "주사 이모 의혹 조사",
+      "keyword": "동전주 관리종목 지정",
       "state": "-",
-      "change": "2"
+      "change": "5"
     }
   ]
 }
