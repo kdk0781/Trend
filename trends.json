@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-12T21:10:46.554Z",
+  "updatedAt": "2026-08-12T22:04:10.022Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "인덱스 펀드",
-      "traffic": "500+"
+      "keyword": "삼전닉스",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "신유빈",
+      "keyword": "집",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "arsenal vs como",
+      "keyword": "야구여왕",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "로스앤젤레스 다저스",
-      "traffic": "200+"
+      "keyword": "풍자",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "psg vs aston villa",
+      "keyword": "황보라",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "deportivo vs real madrid",
-      "traffic": "200+"
+      "keyword": "예금",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "장동혁",
-      "traffic": "200+"
+      "keyword": "신지",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "검은사막",
+      "keyword": "두산에너 빌리티",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "이만기",
-      "traffic": "2000+"
+      "keyword": "심형탁",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "정부",
-      "traffic": "1000+"
+      "keyword": "테라파워",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "하영, 친일 증조부 사과문 좋아요",
+      "keyword": "하영 사과문 논란",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "은폐 구속영장 기각",
-      "state": "s",
-      "change": "0"
+      "keyword": "트럼프 호르무즈 장악 주장",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 3,
-      "keyword": "설종진 감독 마운드 방문",
-      "state": "s",
-      "change": "0"
+      "keyword": "허인서 결승타로 한화 승리",
+      "state": "+",
+      "change": "13"
     },
     {
       "rank": 4,
-      "keyword": "양의지 솔로 홈런",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "이창호 27억 포기",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "7월 물가 예상치 부합",
+      "keyword": "이창호 27억 청약 포기",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 5,
+      "keyword": "양의지 솔로 홈런",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "페르세우스 유성우",
+      "state": "+",
+      "change": "4"
+    },
+    {
       "rank": 7,
-      "keyword": "한반도에 태풍 올까?",
+      "keyword": "한반도 태풍 왜 비켜?",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "구창모 7이닝 무실점",
-      "state": "n",
-      "change": "0"
+      "keyword": "2026년 8월 13일 운세",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "트럼프 호르무즈 장악 주장",
-      "state": "n",
-      "change": "0"
+      "keyword": "VIP 격노 은폐 구속영장 기각",
+      "state": "-",
+      "change": "7"
     },
     {
       "rank": 10,
-      "keyword": "온유 주사이모 조사",
+      "keyword": "안판석 감독 별세",
       "state": "+",
-      "change": "11"
+      "change": "59"
     }
   ]
 }
