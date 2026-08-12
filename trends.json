@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-12T07:11:41.550Z",
+  "updatedAt": "2026-08-12T08:40:11.656Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "네이마르",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "과학자",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "피의 게임",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "동아일보",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "지민",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "엘리베이터",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "업 비트",
+      "keyword": "주주",
       "traffic": "5000+"
     },
     {
-      "rank": 8,
-      "keyword": "김지민",
+      "rank": 2,
+      "keyword": "005930",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "에어 인디아",
       "traffic": "2000+"
     },
     {
+      "rank": 4,
+      "keyword": "코디 폰세",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "민형배",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "치안정감",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "논술",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "김지수",
+      "traffic": "500+"
+    },
+    {
       "rank": 9,
-      "keyword": "라클란 웰스",
+      "keyword": "차상현",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "은마아파트",
-      "traffic": "2000+"
+      "keyword": "네이마르",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 미래SEED 보고회",
-      "state": "n",
-      "change": "0"
+      "keyword": "하영민 KT전 복귀 예정",
+      "state": "+",
+      "change": "106"
     },
     {
       "rank": 2,
-      "keyword": "하영, 증조부 친일 사죄",
+      "keyword": "발언하는 이재명 대통령",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "주택시장 안정화 TF 회의",
-      "state": "s",
-      "change": "0"
+      "keyword": "코스피 3% 상승 마감",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "중소벤처스타트업 토론회",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "민주당 당대표 후보들",
+      "keyword": "배재고 야구부 봉황대기 출전",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 5,
+      "keyword": "뷔, 청력 저하 고백 30%만 들려",
+      "state": "+",
+      "change": "13"
+    },
+    {
       "rank": 6,
-      "keyword": "이정후 무안타 침묵",
+      "keyword": "청년안심주택 오세훈 서울시장",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "이경표 3주기 미소 아름다워",
-      "state": "+",
-      "change": "2"
+      "keyword": "구윤철 부총리 면담",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "게오르그 바젤리츠 회고전",
-      "state": "-",
-      "change": "1"
+      "keyword": "이경표 3주기 사랑걸렸네",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "하츠투하츠 일본 데뷔",
-      "state": "-",
-      "change": "1"
+      "keyword": "김승연 회장, 임직원 보양식 30억 쏜다",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "서울시, 연트럴파크 421억 지급 확정",
-      "state": "s",
-      "change": "0"
+      "keyword": "김대년 사무총장 신뢰 조직 만들겠다",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
