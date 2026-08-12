@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-12T22:04:10.022Z",
+  "updatedAt": "2026-08-12T22:54:29.610Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "삼전닉스",
-      "traffic": "1000+"
+      "keyword": "이투데이",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "집",
+      "keyword": "롯데렌탈",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "야구여왕",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "풍자",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "황보라",
+      "keyword": "노동쟁의",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "개",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "유혜정",
+      "traffic": "500+"
+    },
+    {
       "rank": 6,
-      "keyword": "예금",
-      "traffic": "1000+"
+      "keyword": "철도망",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "신지",
-      "traffic": "1000+"
+      "keyword": "정연",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "두산에너 빌리티",
-      "traffic": "500+"
+      "keyword": "자동차",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "심형탁",
-      "traffic": "500+"
+      "keyword": "spcx",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "테라파워",
-      "traffic": "100+"
+      "keyword": "천궁",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "하영 사과문 논란",
+      "keyword": "하영 사과문에 넷플릭스 감독 행동",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "트럼프 호르무즈 장악 주장",
-      "state": "+",
-      "change": "3"
+      "keyword": "트럼프 호르무즈 완전 장악 주장",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "허인서 결승타로 한화 승리",
-      "state": "+",
-      "change": "13"
+      "keyword": "양의지 솔로 홈런",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이창호 27억 청약 포기",
-      "state": "-",
-      "change": "1"
+      "keyword": "가을 날씨 좋았는데 태풍 13개 남음",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "양의지 솔로 홈런",
-      "state": "-",
-      "change": "1"
+      "keyword": "장로나 치어리더 매력 넘쳐!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "페르세우스 유성우",
-      "state": "+",
-      "change": "4"
+      "keyword": "레빗 백악관 대변인",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "한반도 태풍 왜 비켜?",
-      "state": "+",
-      "change": "1"
+      "keyword": "2026년 8월 13일 운세",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "2026년 8월 13일 운세",
-      "state": "-",
-      "change": "1"
+      "keyword": "페르세우스 유성우 관측",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "VIP 격노 은폐 구속영장 기각",
-      "state": "-",
-      "change": "7"
+      "keyword": "이창호 27억 청약 포기",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "안판석 감독 별세",
-      "state": "+",
-      "change": "59"
+      "keyword": "박하선 샤넬 모자 착용",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
