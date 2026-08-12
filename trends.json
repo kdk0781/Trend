@@ -1,79 +1,79 @@
 {
-  "updatedAt": "2026-08-12T20:23:22.491Z",
+  "updatedAt": "2026-08-12T21:10:46.554Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "แมนยู พบ ลีดส์",
-      "traffic": "100+"
+      "keyword": "인덱스 펀드",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "man united vs leeds",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "맨유",
+      "keyword": "신유빈",
       "traffic": "200+"
     },
     {
-      "rank": 4,
-      "keyword": "man utd đấu với leeds",
+      "rank": 3,
+      "keyword": "arsenal vs como",
       "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "로스앤젤레스 다저스",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "psg 대 애스턴 빌라",
-      "traffic": "2000+"
+      "keyword": "psg vs aston villa",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "데포르티보 대 레알 마드리드",
-      "traffic": "2000+"
+      "keyword": "deportivo vs real madrid",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "watch",
-      "traffic": "100+"
+      "keyword": "장동혁",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "아스널 대 코모",
-      "traffic": "1000+"
+      "keyword": "검은사막",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "맨유 대 리즈 유나이티드",
-      "traffic": "5000+"
+      "keyword": "이만기",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "운전",
-      "traffic": "2000+"
+      "keyword": "정부",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "VIP 격노 구속영장 기각",
+      "keyword": "하영, 친일 증조부 사과문 좋아요",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "설종진 감독 마운드 방문",
-      "state": "+",
-      "change": "4"
+      "keyword": "은폐 구속영장 기각",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "하영 유인나 정해인 성격 폭로",
-      "state": "-",
-      "change": "1"
+      "keyword": "설종진 감독 마운드 방문",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "7월 물가 3.4% 예상치 부합",
+      "keyword": "양의지 솔로 홈런",
       "state": "s",
       "change": "0"
     },
@@ -81,37 +81,37 @@
       "rank": 5,
       "keyword": "이창호 27억 포기",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "김민준 4연속 QS",
-      "state": "n",
-      "change": "0"
+      "keyword": "7월 물가 예상치 부합",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "안판석 감독 별세",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "다카이치 야스쿠니 참배 안할 듯",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "양의지 솔로홈런",
+      "keyword": "한반도에 태풍 올까?",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "keyword": "구창모 7이닝 무실점",
       "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "트럼프 호르무즈 장악 주장",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "온유 주사이모 조사",
+      "state": "+",
+      "change": "11"
     }
   ]
 }
