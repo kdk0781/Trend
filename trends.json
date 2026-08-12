@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-12T13:55:27.538Z",
+  "updatedAt": "2026-08-12T14:50:49.210Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "박소영",
-      "traffic": "500+"
+      "keyword": "kbo 리그",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "사건반장",
-      "traffic": "500+"
+      "keyword": "두산",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "원자력 발전소",
-      "traffic": "500+"
+      "keyword": "한화",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "크리스토퍼 놀란",
-      "traffic": "500+"
+      "keyword": "박주아",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "국가교육위원회",
-      "traffic": "1000+"
+      "keyword": "괴롭힘",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "음식",
-      "traffic": "5000+"
+      "keyword": "총장",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "허웅",
-      "traffic": "2000+"
+      "keyword": "kbo 순위",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "신원식",
-      "traffic": "1000+"
+      "keyword": "트레킹",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "공무원시험",
-      "traffic": "500+"
+      "keyword": "박소영",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "cpi 발표",
+      "keyword": "사건반장",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "경의선숲길 사용료 서울시 내야",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "오세훈 청년주택 7.4만 공급",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "안판석 감독 별세",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "선관위, 국힘 소청 기각",
+      "keyword": "선관위 국힘 소청 기각",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "박나래 주사이모 조사",
+      "rank": 2,
+      "keyword": "안판석 감독 별세 65세",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "하영의 유인나, 정해인 성격 폭로",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "전현무 박나래 의혹 조사",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "설종진 감독 마운드 방문",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 6,
-      "keyword": "하영의 친일 논란 속 폭로",
-      "state": "-",
-      "change": "2"
+      "keyword": "정차 요구 도주 10대 사망",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "문현빈 20일 만의 선제포",
+      "keyword": "놀란과 맷 데이먼 오디세이 촬영",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "놀란과 맷 데이먼 이야기",
+      "keyword": "배재고 구호 논란 탈락.",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "울산 오카다 LG 이적 무산",
-      "state": "n",
-      "change": "0"
+      "keyword": "7월 물가 3.4% 상승",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "정당화 메시지 기소",
-      "state": "-",
-      "change": "7"
+      "keyword": "VIP 격노 은폐 구속영장 기각",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
