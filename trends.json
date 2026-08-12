@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-12T09:47:11.509Z",
+  "updatedAt": "2026-08-12T10:43:56.054Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "택시",
-      "traffic": "2000+"
+      "keyword": "안판석",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "김승연",
-      "traffic": "500+"
+      "keyword": "한강버스",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "대우건설",
-      "traffic": "1000+"
+      "keyword": "손연재",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "전력",
-      "traffic": "100+"
+      "keyword": "적금",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "태풍 찬홈 경로",
-      "traffic": "5000+"
+      "keyword": "포스코",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "유주상",
-      "traffic": "200+"
+      "keyword": "박정희",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "삼성동 화재",
-      "traffic": "200+"
+      "keyword": "유시춘",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "트로트",
-      "traffic": "500+"
+      "keyword": "사기",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "왕옌청",
-      "traffic": "200+"
+      "keyword": "이준혁",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "염경엽",
-      "traffic": "500+"
+      "keyword": "미래에셋",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "하영 사과에 해외 팬들 응원",
+      "keyword": "하영 증조부 친일 논란",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "배재고 야구부 봉황대기 출전 준비",
-      "state": "s",
+      "keyword": "윤석열·신원식 기소",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "연극 갈매기 시연하는",
-      "state": "s",
+      "keyword": "안판석 감독 별세",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "동전주 36개 관리종목 지정",
-      "state": "+",
-      "change": "2"
+      "keyword": "봉황대기 배재고 선수들",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "채영, 실내 흡연 해명",
-      "state": "n",
-      "change": "0"
+      "keyword": "동전주 36개 관리종목 지정",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "하이닉스 주가 상승",
-      "state": "n",
-      "change": "0"
+      "keyword": "메디힐 한국일보 챔피언십",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "위메이드 2분기 영업손실 210억",
+      "keyword": "하이닉스 주가 상승 5.47%",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "상반기 순익 급증",
+      "keyword": "프란체스카 홍, 위스콘신 주지사 경선 석패",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이경표 3주기 대추나무 사랑",
+      "keyword": "위메이드 2분기 손실 210억원",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "뷔, 청력 저하 고백",
-      "state": "-",
-      "change": "5"
+      "keyword": "서울과기대 불법촬영 수사",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
