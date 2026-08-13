@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-13T14:41:23.832Z",
+  "updatedAt": "2026-08-13T15:40:13.106Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "학교",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
+      "keyword": "행동",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "캐나다",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "세르비아 축구 국가대표팀",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "데이브 로버츠",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "기아타이거즈",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
       "keyword": "하영 엄마",
       "traffic": "500+"
     },
     {
-      "rank": 2,
+      "rank": 8,
       "keyword": "약사",
       "traffic": "100+"
     },
     {
-      "rank": 3,
-      "keyword": "새미래민주당",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "분권 형 개헌",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "인공지능",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "보스턴 다이내믹스",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "ppi 발표",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "박성현",
-      "traffic": "500+"
-    },
-    {
       "rank": 9,
-      "keyword": "spotify",
-      "traffic": "200+"
+      "keyword": "새미래민주당",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "사랑이 온다",
-      "traffic": "500+"
+      "keyword": "분권 형 개헌",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "최민석 10승 물세례",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 2,
-      "keyword": "박주호 안나 넷째 임신",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 3,
-      "keyword": "부동산 성과로 지지율 답하겠다",
+      "keyword": "이정은 가족 여행 비극 경주기행",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "하영, 증조부 친일 논란 재조명",
+      "rank": 2,
+      "keyword": "최민석 10승 축하!",
       "state": "+",
-      "change": "4"
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "하영의 친일 논란 재조명",
+      "state": "+",
+      "change": "6"
+    },
+    {
+      "rank": 4,
+      "keyword": "종합특검 이시원 기소",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "네덜란드 축구 외인 감독 사비",
+      "keyword": "5사단 군사대비태세 현장점검",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "SK하이닉스 통합노조 출범",
-      "state": "s",
+      "keyword": "구미 단수 사태 주민 불편",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "염경엽 감독, 선수 믿음의 힘",
-      "state": "s",
+      "keyword": "염경엽 감독, 선수들 믿는다.",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "강남 서초 집값 하락",
-      "state": "s",
+      "keyword": "농협 창립 65주년 기념식",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "LG 키움 대파! 오스틴 맹활약",
+      "keyword": "손승원 음주운전 징역 2년",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "오상진 아들 공개",
+      "keyword": "합숙맞선2 최종 선택 공개",
       "state": "n",
       "change": "0"
     }
