@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-13T09:20:58.685Z",
+  "updatedAt": "2026-08-13T10:33:43.221Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "황희찬",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "전범선",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "강서구",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "009150",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "공희용",
+      "keyword": "모병제",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "거주지 기준 의료 이용 제한",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "목욕탕",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "살인",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "희토류 원소",
+      "traffic": "500+"
+    },
+    {
       "rank": 6,
-      "keyword": "저비용 항공사",
+      "keyword": "김종국",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "시내버스",
-      "traffic": "2000+"
+      "keyword": "lg이노텍",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "카카오 파업",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "표인봉",
+      "keyword": "중매",
       "traffic": "2000+"
     },
     {
+      "rank": 9,
+      "keyword": "아시안 게임",
+      "traffic": "200+"
+    },
+    {
       "rank": 10,
-      "keyword": "강소휘",
-      "traffic": "500+"
+      "keyword": "안중근",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "넥슨 상반기 최대 실적",
-      "state": "+",
-      "change": "3"
+      "keyword": "손승원 음주운전 5번",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "경주기행, 가족 복수극",
+      "keyword": "종합특검 이시원 기소",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "손승원, 음주운전 항소심 징역 2년",
-      "state": "+",
-      "change": "4"
+      "keyword": "육군 5사단 군사대비태세",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "하이닉스 주가 상승세",
+      "keyword": "이정은 공효진 박소담",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "구미 단수 주민들 급수 받다",
-      "state": "+",
-      "change": "5"
+      "keyword": "세베리노 2군행 결정",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "강균성 유하진 투샷 공개",
-      "state": "-",
-      "change": "1"
+      "keyword": "AWARD 수상",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "굿스타트업 수상",
-      "state": "+",
-      "change": "1"
+      "keyword": "KDB생명 우선협상자 한투 선정",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "농협 창립 65주년 행사",
-      "state": "n",
-      "change": "0"
+      "keyword": "나나 집 침입 혐의 부인",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 9,
-      "keyword": "육군 군사대비태세 현장점검",
-      "state": "n",
-      "change": "0"
+      "keyword": "하이닉스 외국인 기관 순매수",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "종합특검 이시원 기소",
+      "keyword": "독립유공자 후손 국적 수여",
       "state": "n",
       "change": "0"
     }
