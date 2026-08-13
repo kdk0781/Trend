@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-12T23:32:18.089Z",
+  "updatedAt": "2026-08-13T00:40:32.089Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "안정환",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "퇴거",
+      "keyword": "택배없는날",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "이재명",
+      "traffic": "1000+"
+    },
+    {
       "rank": 3,
-      "keyword": "제주특별자치도",
+      "keyword": "김정은",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "철도",
+      "keyword": "주민세",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "이진숙",
-      "traffic": "500+"
+      "keyword": "메츠 대 브레이브스",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "서울역",
+      "keyword": "붉은사막",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "노동쟁의",
+      "keyword": "롯데손해보험",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "이투데이",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "롯데렌탈",
+      "keyword": "inter miami vs león",
       "traffic": "200+"
     },
     {
-      "rank": 10,
-      "keyword": "추경호",
+      "rank": 9,
+      "keyword": "아시아나항공",
       "traffic": "100+"
+    },
+    {
+      "rank": 10,
+      "keyword": "차준환",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "하영 후손 사죄 및 사과문의 좋아요",
-      "state": "s",
+      "keyword": "구윤철 비상경제본부 회의 참석",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "17호 태풍 낭카 북상 중",
+      "keyword": "PSG 슈퍼컵 2연패",
       "state": "+",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 3,
-      "keyword": "양의지 솔로 홈런",
-      "state": "s",
-      "change": "0"
+      "keyword": "문근영, 정평과 결혼 후 근황 좋아",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 4,
-      "keyword": "트럼프, 호르무즈 완전 장악 주장",
-      "state": "-",
-      "change": "2"
+      "keyword": "박보검 김유정 9월 예능",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "안판석 감독 별세 추모",
+      "keyword": "삼성전자, 인도에 생산라인 준공",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "레빗 백악관 대변인 이달 퇴임",
-      "state": "n",
-      "change": "0"
+      "keyword": "셀트리온 ADC FDA 패스트트랙 지정",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "박하선 샤넬 모자 매치",
-      "state": "n",
-      "change": "0"
+      "keyword": "근대5종 국가대표 선수들",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "젠슨 황, 직원들이 뽑은 CEO 1위",
+      "keyword": "제네시스 하이브리드 공개",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "심판 BBC도 대서특필",
+      "keyword": "한국콜마 목표가 상향 180,000원",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "5천원에 132만원에 들어갔나",
+      "keyword": "사비, 네덜 감독 48년 만의 외국인",
       "state": "n",
       "change": "0"
     }
