@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-13T17:34:06.176Z",
+  "updatedAt": "2026-08-13T18:31:18.011Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "심정지",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 2,
       "keyword": "dc",
       "traffic": "100+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "기쁜 우리 좋은 날",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "사랑 이 온다",
       "traffic": "1000+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "삼계탕 사발면",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "학교",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "행동",
       "traffic": "500+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "캐나다",
       "traffic": "2000+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "세르비아 축구 국가대표팀",
       "traffic": "200+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "데이브 로버츠",
       "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "기아타이거즈",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "빌 게이츠 1년 방한 SMR 논의",
-      "state": "s",
+      "keyword": "게이츠 1년 만의 방한",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "최민석 10승 기념 물세례",
+      "keyword": "최민석 10승 축하해!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "박주호 안나 넷째 임신",
+      "keyword": "박주호, 넷째 임신 발표",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "KDB생명 우선협상 선정",
+      "keyword": "SK하이닉스 통합노조 출범",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "염경엽 감독, 선수 믿고 찬스 잡는다",
+      "keyword": "오상진 아들 중환자실 입원",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "독립유공자 후손 국적 획득",
+      "keyword": "150만호 착공 필요",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 7,
+      "keyword": "황성빈 1타점 3루타!",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "건일 탈퇴, 서머소닉 2026 불참",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 8,
-      "keyword": "하영 친일 논란 재조명",
-      "state": "+",
+      "keyword": "하영, 증조부 친일 논란 재조명",
+      "state": "-",
       "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "SK하이닉스 노조 출범",
-      "state": "s",
-      "change": "0"
+      "keyword": "美 7월 물가 보합",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "황성빈 1타점 3루타 완성",
-      "state": "+",
+      "keyword": "LG 오스틴 14일 만 홈런포",
+      "state": "-",
       "change": "1"
     }
   ]
