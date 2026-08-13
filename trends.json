@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-13T21:56:52.705Z",
+  "updatedAt": "2026-08-13T22:36:52.787Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "문경시",
-      "traffic": "200+"
+      "keyword": "아트 엠앤 씨",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "김민희",
+      "keyword": "이상순",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "과일",
-      "traffic": "2000+"
+      "keyword": "휴대 전화",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "공무원",
-      "traffic": "1000+"
+      "keyword": "셀트리온",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "달리기",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "아트엠앤씨",
+      "keyword": "에코프로",
       "traffic": "500+"
     },
     {
+      "rank": 6,
+      "keyword": "강유미",
+      "traffic": "200+"
+    },
+    {
       "rank": 7,
-      "keyword": "강민호",
+      "keyword": "연꽃",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "제주특별자치도",
+      "keyword": "일기예보",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "선거",
-      "traffic": "200+"
+      "keyword": "문경시",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "오현규",
-      "traffic": "500+"
+      "keyword": "김민희",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "최민석 10승 달성!",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "JTBC 하영 저격?",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "2026년 8월 14일 운세",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "김민희 출산 후 공식석상",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "손승원 음주운전 재판",
+      "keyword": "배기성, 하영에 일침 주다",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 2,
+      "keyword": "드론 관세 15%",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "김민희, 출산 후 첫 공식석상",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "삼성 4연패 탈출",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 5,
+      "keyword": "2026년 8월 14일 운세",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 6,
-      "keyword": "전국 소나기와 천둥 번개 주의",
+      "keyword": "최태원 9440억 운명 선택",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "MRNA 수명 3배 증가",
-      "state": "n",
-      "change": "0"
+      "keyword": "손승원, 음주운전으로 징역 2년",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "강민호 삼성 4연패 탈출",
-      "state": "n",
-      "change": "0"
+      "keyword": "말복에 소나기 오니 우산 준비하세요",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "포즈 취하는 서도밴드",
+      "keyword": "최민석 구단 최연소 10승 달성",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "빌 게이츠 방한 SMR 논의",
-      "state": "n",
-      "change": "0"
+      "keyword": "포즈 취하는 서도밴드",
+      "state": "-",
+      "change": "4"
     }
   ]
 }
