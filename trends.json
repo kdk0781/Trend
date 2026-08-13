@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-13T05:07:38.417Z",
+  "updatedAt": "2026-08-13T06:40:52.757Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "스타벅스",
-      "traffic": "5000+"
+      "keyword": "서울 도심",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "노숙인",
-      "traffic": "2000+"
+      "keyword": "왕 싱싱",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "우크라이나",
+      "keyword": "슈퍼맨이 돌아왔다",
       "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "전설의 사내",
-      "traffic": "1000+"
+      "keyword": "박덕흠",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "황신혜의 같이 삽시다",
-      "traffic": "200+"
+      "keyword": "엘에이 fc",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "치 안정감",
-      "traffic": "2000+"
+      "keyword": "로스앤젤레스 fc 대 케레타로 fc 순위",
+      "traffic": "200000+"
     },
     {
       "rank": 7,
-      "keyword": "배지환",
-      "traffic": "200+"
+      "keyword": "죽음",
+      "traffic": "10000+"
     },
     {
       "rank": 8,
-      "keyword": "심용환",
-      "traffic": "500+"
+      "keyword": "보금자리론",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "고양이",
-      "traffic": "500+"
+      "keyword": "채영",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "단거리 탄도 미사일",
-      "traffic": "200+"
+      "keyword": "임마누엘 구속",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "장동혁 창릉 방문",
+      "keyword": "법무부 출석하는 박상용",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이재명 대통령 보훈",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "위안부 할머니 기억",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "김윤덕 장관, 주택 공급 방안 발표",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "하영 증조부 친일 논란",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "제주는 해양레저의 천국",
+      "keyword": "이재명 대통령 수석보좌관회의",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "장동혁 창릉 방문",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "방해 국민의힘 규탄대회",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "손흥민 침묵 승부차기 성공",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "보완수사권 폐지 헌법소원",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "안중근 의사 유묵 공개",
+      "keyword": "트와이스 채영, JYP 떠나 홀로서기",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김혜수 인정 목표인 김지훈",
-      "state": "n",
+      "keyword": "광복절 앞두고 다양한 행사와 사건",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "광복절 연휴 비",
+      "keyword": "이진숙 의원 환영사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "고우석 6실점 ERA",
+      "keyword": "정부 부동산 대책",
       "state": "n",
       "change": "0"
     }
