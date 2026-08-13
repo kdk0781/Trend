@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-13T10:33:43.221Z",
+  "updatedAt": "2026-08-13T11:23:43.563Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "모병제",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "거주지 기준 의료 이용 제한",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "목욕탕",
+      "keyword": "심우정",
       "traffic": "100+"
     },
     {
-      "rank": 4,
-      "keyword": "살인",
+      "rank": 2,
+      "keyword": "kt 대 nc",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "노동조합",
       "traffic": "500+"
     },
     {
+      "rank": 4,
+      "keyword": "박주호",
+      "traffic": "200+"
+    },
+    {
       "rank": 5,
-      "keyword": "희토류 원소",
+      "keyword": "정우주",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "김종국",
-      "traffic": "200+"
+      "keyword": "석유",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "lg이노텍",
-      "traffic": "200+"
+      "keyword": "피싱",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "중매",
-      "traffic": "2000+"
+      "keyword": "공중보건의사",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "아시안 게임",
-      "traffic": "200+"
+      "keyword": "제우스 오만의 신",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "안중근",
-      "traffic": "200+"
+      "keyword": "lg vs kiwoom",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "손승원 음주운전 5번",
+      "keyword": "손승원 음주운전 5회 징역 2년",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "종합특검 이시원 기소",
-      "state": "+",
-      "change": "2"
+      "keyword": "KDB생명 매각 주인 선정",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "육군 5사단 군사대비태세",
-      "state": "-",
-      "change": "1"
+      "keyword": "염경엽 감독 믿는다",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이정은 공효진 박소담",
+      "keyword": "김세의 혐의 부인",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "세베리노 2군행 결정",
+      "keyword": "위안부 기림의 날 행사",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "AWARD 수상",
-      "state": "s",
-      "change": "0"
+      "keyword": "K-BATTERY SHOW 2026서 신제품 공개",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "KDB생명 우선협상자 한투 선정",
-      "state": "n",
-      "change": "0"
+      "keyword": "서교림 메디힐 챔피언십 공동 선두",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "나나 집 침입 혐의 부인",
-      "state": "+",
-      "change": "4"
+      "keyword": "SK하이닉스 통합노조 출범",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "하이닉스 외국인 기관 순매수",
-      "state": "-",
-      "change": "2"
+      "keyword": "안선영, 최고 약 母에 눈물",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "독립유공자 후손 국적 수여",
-      "state": "n",
-      "change": "0"
+      "keyword": "독립유공자 후손에 국적 수여",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
