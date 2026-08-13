@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-13T21:05:59.877Z",
+  "updatedAt": "2026-08-13T21:56:52.705Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "아트엠앤씨",
+      "keyword": "문경시",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "강민호",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "선거",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "오현규",
+      "keyword": "김민희",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "과일",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "공무원",
+      "traffic": "1000+"
+    },
+    {
       "rank": 5,
-      "keyword": "박완수",
+      "keyword": "달리기",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "세르비아 축구 국가 대표팀",
+      "keyword": "아트엠앤씨",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "이창민",
-      "traffic": "1000+"
+      "keyword": "강민호",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "데이터 센터",
-      "traffic": "500+"
+      "keyword": "제주특별자치도",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "심정지",
-      "traffic": "2000+"
+      "keyword": "선거",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "경기일보",
-      "traffic": "100+"
+      "keyword": "오현규",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "10승 최민석 축하해!",
-      "state": "+",
-      "change": "1"
+      "keyword": "최민석 10승 달성!",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "하영 증조부 의사 논란",
-      "state": "+",
-      "change": "1"
+      "keyword": "JTBC 하영 저격?",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김민희, 출산 후 첫 공식석상",
-      "state": "+",
-      "change": "4"
+      "keyword": "2026년 8월 14일 운세",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "美 7월 PPI 보합 유지",
-      "state": "+",
-      "change": "1"
+      "keyword": "김민희 출산 후 공식석상",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "손승원 음주운전 역주행",
+      "keyword": "손승원 음주운전 재판",
       "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 6,
-      "keyword": "이정은 공효진 박소담의 복수 여행",
-      "state": "+",
-      "change": "20"
-    },
-    {
-      "rank": 7,
-      "keyword": "2026년 8월 14일 운세",
-      "state": "-",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "전국 소나기와 천둥 번개 주의",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "MRNA 수명 3배 증가",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "태풍 피해 방재림 병해충 피해",
+      "keyword": "강민호 삼성 4연패 탈출",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "롯데 SSG 11-0 완파",
+      "keyword": "포즈 취하는 서도밴드",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김세의, 수의 입고 등장",
+      "keyword": "빌 게이츠 방한 SMR 논의",
       "state": "n",
       "change": "0"
     }
