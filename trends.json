@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-13T00:40:32.089Z",
+  "updatedAt": "2026-08-13T03:15:21.322Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "택배없는날",
+      "keyword": "광복절",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "이재명",
-      "traffic": "1000+"
+      "keyword": "수영장",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "김정은",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "주민세",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "메츠 대 브레이브스",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "붉은사막",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "롯데손해보험",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "inter miami vs león",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "아시아나항공",
+      "keyword": "엘리나 스비톨리나",
       "traffic": "100+"
     },
     {
-      "rank": 10,
-      "keyword": "차준환",
+      "rank": 4,
+      "keyword": "엘에이 fc 대 케레타로",
+      "traffic": "50000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "australia vs bangladesh",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "해군사관학교",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "백악관 대변인",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "로메로",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
+      "keyword": "과천시",
       "traffic": "200+"
+    },
+    {
+      "rank": 10,
+      "keyword": "시진핑",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "구윤철 비상경제본부 회의 참석",
-      "state": "n",
+      "keyword": "노영민·김현미 1심 무죄",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "PSG 슈퍼컵 2연패",
-      "state": "+",
-      "change": "3"
+      "keyword": "이재명 재판취소 저지특위",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "문근영, 정평과 결혼 후 근황 좋아",
+      "keyword": "홈플러스 재개장",
       "state": "+",
-      "change": "6"
+      "change": "5"
     },
     {
       "rank": 4,
-      "keyword": "박보검 김유정 9월 예능",
+      "keyword": "김도훈 전종서 이준기 도차비 캐스팅",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "삼성전자, 인도에 생산라인 준공",
-      "state": "n",
-      "change": "0"
+      "keyword": "하이닉스 주가 상승",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "셀트리온 ADC FDA 패스트트랙 지정",
-      "state": "+",
+      "keyword": "격려하는 최휘영 장관",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "근대5종 국가대표 선수들",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "제네시스 하이브리드 공개",
+      "keyword": "국세청 KB국민은행 착수",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "LG 스켈레톤 아이스하키",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 9,
-      "keyword": "한국콜마 목표가 상향 180,000원",
+      "keyword": "광복절 준비해요",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "사비, 네덜 감독 48년 만의 외국인",
+      "keyword": "정동영 통일부 장관",
       "state": "n",
       "change": "0"
     }
