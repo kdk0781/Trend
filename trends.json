@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T19:39:09.269Z",
+  "updatedAt": "2026-08-13T20:17:19.464Z",
   "google": [
     {
       "rank": 1,
@@ -14,7 +14,7 @@
     {
       "rank": 3,
       "keyword": "데이터 센터",
-      "traffic": "100+"
+      "traffic": "200+"
     },
     {
       "rank": 4,
@@ -23,94 +23,94 @@
     },
     {
       "rank": 5,
-      "keyword": "노동자",
+      "keyword": "관세",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "dc",
+      "keyword": "노동자",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "기쁜 우리 좋은 날",
-      "traffic": "200+"
+      "keyword": "dc",
+      "traffic": "100+"
     },
     {
       "rank": 8,
+      "keyword": "기쁜 우리 좋은 날",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
       "keyword": "사랑 이 온다",
       "traffic": "1000+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "삼계탕 사발면",
       "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "학교",
-      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "게이츠 1년 방한 협력 논의",
+      "keyword": "게이츠 1년 방한",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "최민석 10승!",
+      "keyword": "최연소 10승 최민석",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "박주호, 넷째 임신 발표",
+      "keyword": "오상진 아들 중환자실 입원",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "하영 증조부 논란 비판 기사",
+      "keyword": "하영 증조부 논란 비판",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "美 7월 생산자 물가 보합",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "오상진 아들, 중환자실 입원",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "150만호 착공 필요",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "LG 오스틴, 14일 만에 홈런",
+      "keyword": "美 7월 PPI 전월 동일",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 9,
+      "rank": 6,
       "keyword": "백해룡, 한동훈 고소",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 7,
+      "keyword": "150만호 착공 추진",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "LG 오스틴, 14일 만에 홈런 재가동",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "keyword": "2026년 8월 14일 운세",
-      "state": "s",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 10,
+      "keyword": "라면 부부 아내 아동학대 신고",
+      "state": "n",
       "change": "0"
     }
   ]
