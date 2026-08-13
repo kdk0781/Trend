@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-13T08:05:35.376Z",
+  "updatedAt": "2026-08-13T09:20:58.685Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "ah-64 아파치",
-      "traffic": "1000+"
+      "keyword": "황희찬",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "전차",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "메이플",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "갭 투자",
+      "keyword": "전범선",
       "traffic": "500+"
     },
     {
+      "rank": 3,
+      "keyword": "강서구",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "009150",
+      "traffic": "1000+"
+    },
+    {
       "rank": 5,
-      "keyword": "탄핵",
-      "traffic": "2000+"
+      "keyword": "공희용",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "남양주시",
+      "keyword": "저비용 항공사",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "국립순천대학교",
-      "traffic": "200+"
+      "keyword": "시내버스",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "여론",
-      "traffic": "1000+"
+      "keyword": "카카오 파업",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "리브 골프",
-      "traffic": "1000+"
+      "keyword": "표인봉",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "건일",
-      "traffic": "1000+"
+      "keyword": "강소휘",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이진숙 의원의 인사 및 포럼",
+      "keyword": "넥슨 상반기 최대 실적",
       "state": "+",
       "change": "3"
     },
     {
       "rank": 2,
-      "keyword": "건일, 엑디즈 탈퇴 및 계약 해지",
+      "keyword": "경주기행, 가족 복수극",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "하영, 증조부 친일 논란",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "코스피 3.56% 상승",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "충북 진천 화재 현장",
+      "keyword": "손승원, 음주운전 항소심 징역 2년",
       "state": "+",
       "change": "4"
     },
     {
-      "rank": 6,
-      "keyword": "HMM, 2분기 영업익 52% 증가",
+      "rank": 4,
+      "keyword": "하이닉스 주가 상승세",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "정성호 법무부 장관",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "광복절 태극기 펼쳐진 하늘",
+      "rank": 5,
+      "keyword": "구미 단수 주민들 급수 받다",
       "state": "+",
       "change": "5"
     },
     {
+      "rank": 6,
+      "keyword": "강균성 유하진 투샷 공개",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "굿스타트업 수상",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "농협 창립 65주년 행사",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "넥슨 상반기 최대 실적",
+      "keyword": "육군 군사대비태세 현장점검",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "차정인 위원장 회의 발언",
+      "keyword": "종합특검 이시원 기소",
       "state": "n",
       "change": "0"
     }
