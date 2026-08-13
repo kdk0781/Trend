@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-13T12:06:03.113Z",
+  "updatedAt": "2026-08-13T13:38:50.433Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "아이린",
-      "traffic": "100+"
+      "keyword": "박성현",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "개인종합자산관리계좌",
-      "traffic": "2000+"
+      "keyword": "spotify",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "황정민 폭로녀",
+      "keyword": "사랑이 온다",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "전환사채",
-      "traffic": "200+"
+      "keyword": "김세의",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "심우정",
+      "keyword": "하루",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "kt 대 nc",
-      "traffic": "2000+"
+      "keyword": "비",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "노동조합",
-      "traffic": "500+"
+      "keyword": "weather tomorrow",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "박주호",
-      "traffic": "200+"
+      "keyword": "thời tiết ngày mai",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "박정수",
-      "traffic": "200+"
+      "keyword": "개헌",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "석유",
-      "traffic": "500+"
+      "keyword": "보스턴다이내믹스",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "손승원 5번째 음주운전",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "SK하이닉스 통합노조 출범",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "황성빈 1타점 3루타 달성",
+      "keyword": "배기성, 하영 증조부 친일 논란",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "푸틴, 쿠릴열도 첫 방문 일본 반발",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "박주호 안나 넷째 임신",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 4,
-      "keyword": "박주호 안나 넷째 임신 발표",
-      "state": "s",
+      "keyword": "사비, 48년 만의 네덜란드 감독",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "K-BATTERY SHOW 2026서 신제품 공개",
-      "state": "+",
-      "change": "4"
+      "keyword": "염경엽 감독의 믿음과 고심",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "염경엽 감독 믿는다",
+      "keyword": "SK하이닉스 통합노조 출범",
       "state": "-",
-      "change": "3"
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "한가인, 145만 유튜버의 인맥",
+      "keyword": "KDB생명 한투 선정",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "민주당 선관위, 대리투표 제명 의결",
-      "state": "n",
-      "change": "0"
+      "keyword": "손승원 만취 역주행 허위진술",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 9,
-      "keyword": "생생 정보",
-      "state": "+",
-      "change": "2"
+      "keyword": "광복절 소나기 주의",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김민석 적시타 폭발",
-      "state": "n",
-      "change": "0"
+      "keyword": "황성빈 1타점 3루타!",
+      "state": "-",
+      "change": "8"
     }
   ]
 }
