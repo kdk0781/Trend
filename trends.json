@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-13T16:32:54.069Z",
+  "updatedAt": "2026-08-13T17:34:06.176Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "사랑 이 온다",
-      "traffic": "1000+"
+      "keyword": "dc",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "삼계탕 사발면",
+      "keyword": "기쁜 우리 좋은 날",
       "traffic": "200+"
     },
     {
       "rank": 3,
+      "keyword": "사랑 이 온다",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "삼계탕 사발면",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
       "keyword": "학교",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "행동",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "캐나다",
-      "traffic": "1000+"
+      "traffic": "2000+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "세르비아 축구 국가대표팀",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "데이브 로버츠",
       "traffic": "100+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "기아타이거즈",
       "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "하영 엄마",
-      "traffic": "500+"
-    },
-    {
-      "rank": 10,
-      "keyword": "약사",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "빌 게이츠, 1년 만에 방한",
+      "keyword": "빌 게이츠 1년 방한 SMR 논의",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "최민석 10승 달성",
+      "keyword": "최민석 10승 기념 물세례",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이시원 기소 방해 사건",
-      "state": "+",
-      "change": "1"
+      "keyword": "박주호 안나 넷째 임신",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "박주호 부부 넷째 임신",
-      "state": "+",
-      "change": "9"
+      "keyword": "KDB생명 우선협상 선정",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "5사단 군사대비태세 현장점검",
+      "keyword": "염경엽 감독, 선수 믿고 찬스 잡는다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "염경엽 감독 믿음과 위닝",
+      "keyword": "독립유공자 후손 국적 획득",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "KDB생명 우선협상대상자 선정",
+      "keyword": "건일 탈퇴, 서머소닉 2026 불참",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "하영 친일 논란 재조명",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "SK하이닉스 노조 출범",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "경주기행 네 모녀 복수",
-      "state": "-",
-      "change": "6"
-    },
-    {
-      "rank": 9,
-      "keyword": "GOOD AWARD 수상",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 10,
-      "keyword": "하영, 친일 증조부 논란 재조명",
-      "state": "-",
+      "keyword": "황성빈 1타점 3루타 완성",
+      "state": "+",
       "change": "1"
     }
   ]
