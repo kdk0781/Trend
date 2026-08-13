@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-13T22:36:52.787Z",
+  "updatedAt": "2026-08-13T23:21:22.247Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "아트 엠앤 씨",
-      "traffic": "2000+"
+      "keyword": "윤영철",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "이상순",
+      "keyword": "전세사기",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "휴대 전화",
-      "traffic": "200+"
+      "keyword": "역세권",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "셀트리온",
+      "keyword": "수도권 광역급행철도 c노선",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "에코프로",
-      "traffic": "500+"
+      "keyword": "최화정",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "강유미",
-      "traffic": "200+"
+      "keyword": "탁구",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "연꽃",
-      "traffic": "200+"
+      "keyword": "오픈ai",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "일기예보",
+      "keyword": "윤혜진",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "문경시",
-      "traffic": "1000+"
+      "keyword": "철도",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "김민희",
-      "traffic": "200+"
+      "keyword": "아트 엠앤 씨",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "배기성, 하영에 일침 주다",
-      "state": "+",
-      "change": "1"
+      "keyword": "트럼프 드론 관세 15%",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "드론 관세 15%",
-      "state": "n",
+      "keyword": "하영과 조세이 사고 관련 뉴스",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
       "keyword": "김민희, 출산 후 첫 공식석상",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "삼성 4연패 탈출",
+      "keyword": "부천시장, 말복 경로식당 봉사",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "손승원 음주운전 징역 2년 확정",
       "state": "+",
       "change": "4"
     },
     {
-      "rank": 5,
-      "keyword": "2026년 8월 14일 운세",
-      "state": "-",
-      "change": "2"
-    },
-    {
       "rank": 6,
-      "keyword": "최태원 9440억 운명 선택",
+      "keyword": "홍명보, 경찰 감독 소통 없었다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "손승원, 음주운전으로 징역 2년",
-      "state": "-",
-      "change": "2"
+      "keyword": "포즈 취하는 서도밴드",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "말복에 소나기 오니 우산 준비하세요",
+      "keyword": "태풍 후폭풍 광복절 폭우",
       "state": "+",
-      "change": "2"
+      "change": "8"
     },
     {
       "rank": 9,
-      "keyword": "최민석 구단 최연소 10승 달성",
+      "keyword": "박주호♥안나 넷째 임신 발표",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "포즈 취하는 서도밴드",
-      "state": "-",
-      "change": "4"
+      "keyword": "전범선, 친일파 고백",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
