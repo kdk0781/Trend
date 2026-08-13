@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-13T13:38:50.433Z",
+  "updatedAt": "2026-08-13T14:41:23.832Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "박성현",
-      "traffic": "200+"
+      "keyword": "하영 엄마",
+      "traffic": "500+"
     },
     {
       "rank": 2,
+      "keyword": "약사",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "새미래민주당",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "분권 형 개헌",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "인공지능",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "보스턴 다이내믹스",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "ppi 발표",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "박성현",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
       "keyword": "spotify",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 10,
       "keyword": "사랑이 온다",
       "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "김세의",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "하루",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "비",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "weather tomorrow",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "thời tiết ngày mai",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "개헌",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "보스턴다이내믹스",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "배기성, 하영 증조부 친일 논란",
-      "state": "n",
-      "change": "0"
+      "keyword": "최민석 10승 물세례",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 2,
-      "keyword": "푸틴, 쿠릴열도 첫 방문 일본 반발",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
       "keyword": "박주호 안나 넷째 임신",
-      "state": "-",
+      "state": "+",
       "change": "2"
     },
     {
-      "rank": 4,
-      "keyword": "사비, 48년 만의 네덜란드 감독",
+      "rank": 3,
+      "keyword": "부동산 성과로 지지율 답하겠다",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "하영, 증조부 친일 논란 재조명",
+      "state": "+",
+      "change": "4"
+    },
+    {
       "rank": 5,
-      "keyword": "염경엽 감독의 믿음과 고심",
+      "keyword": "네덜란드 축구 외인 감독 사비",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
       "keyword": "SK하이닉스 통합노조 출범",
-      "state": "-",
-      "change": "2"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "KDB생명 한투 선정",
-      "state": "n",
+      "keyword": "염경엽 감독, 선수 믿음의 힘",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "손승원 만취 역주행 허위진술",
-      "state": "-",
-      "change": "5"
+      "keyword": "강남 서초 집값 하락",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "광복절 소나기 주의",
+      "keyword": "LG 키움 대파! 오스틴 맹활약",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "황성빈 1타점 3루타!",
-      "state": "-",
-      "change": "8"
+      "keyword": "오상진 아들 공개",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
