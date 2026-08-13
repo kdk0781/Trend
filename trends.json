@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-13T06:40:52.757Z",
+  "updatedAt": "2026-08-13T08:05:35.376Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "서울 도심",
-      "traffic": "200+"
+      "keyword": "ah-64 아파치",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "왕 싱싱",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "슈퍼맨이 돌아왔다",
+      "keyword": "전차",
       "traffic": "2000+"
     },
     {
+      "rank": 3,
+      "keyword": "메이플",
+      "traffic": "1000+"
+    },
+    {
       "rank": 4,
-      "keyword": "박덕흠",
+      "keyword": "갭 투자",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "엘에이 fc",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "로스앤젤레스 fc 대 케레타로 fc 순위",
-      "traffic": "200000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "죽음",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "보금자리론",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "채영",
+      "keyword": "탄핵",
       "traffic": "2000+"
     },
     {
+      "rank": 6,
+      "keyword": "남양주시",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "국립순천대학교",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "여론",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "리브 골프",
+      "traffic": "1000+"
+    },
+    {
       "rank": 10,
-      "keyword": "임마누엘 구속",
-      "traffic": "100+"
+      "keyword": "건일",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "법무부 출석하는 박상용",
-      "state": "n",
-      "change": "0"
+      "keyword": "이진숙 의원의 인사 및 포럼",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 2,
-      "keyword": "이재명 대통령 수석보좌관회의",
-      "state": "n",
-      "change": "0"
+      "keyword": "건일, 엑디즈 탈퇴 및 계약 해지",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "장동혁 창릉 방문",
+      "keyword": "하영, 증조부 친일 논란",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "방해 국민의힘 규탄대회",
-      "state": "-",
+      "keyword": "코스피 3.56% 상승",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "손흥민 침묵 승부차기 성공",
-      "state": "s",
-      "change": "0"
+      "keyword": "충북 진천 화재 현장",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 6,
-      "keyword": "보완수사권 폐지 헌법소원",
-      "state": "s",
+      "keyword": "HMM, 2분기 영업익 52% 증가",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "트와이스 채영, JYP 떠나 홀로서기",
-      "state": "s",
+      "keyword": "정성호 법무부 장관",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "광복절 앞두고 다양한 행사와 사건",
-      "state": "s",
-      "change": "0"
+      "keyword": "광복절 태극기 펼쳐진 하늘",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 9,
-      "keyword": "이진숙 의원 환영사",
+      "keyword": "넥슨 상반기 최대 실적",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "정부 부동산 대책",
+      "keyword": "차정인 위원장 회의 발언",
       "state": "n",
       "change": "0"
     }
