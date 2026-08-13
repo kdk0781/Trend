@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-13T20:17:19.464Z",
+  "updatedAt": "2026-08-13T21:05:59.877Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "세르비아 축구 국가 대표팀",
+      "keyword": "아트엠앤씨",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "이창민",
-      "traffic": "1000+"
+      "keyword": "강민호",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "데이터 센터",
-      "traffic": "200+"
+      "keyword": "선거",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "심정지",
-      "traffic": "2000+"
+      "keyword": "오현규",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "관세",
+      "keyword": "박완수",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "노동자",
-      "traffic": "100+"
+      "keyword": "세르비아 축구 국가 대표팀",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "dc",
-      "traffic": "100+"
+      "keyword": "이창민",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "기쁜 우리 좋은 날",
+      "keyword": "데이터 센터",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "사랑 이 온다",
-      "traffic": "1000+"
+      "keyword": "심정지",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "삼계탕 사발면",
-      "traffic": "200+"
+      "keyword": "경기일보",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "게이츠 1년 방한",
-      "state": "s",
-      "change": "0"
+      "keyword": "10승 최민석 축하해!",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "최연소 10승 최민석",
-      "state": "s",
-      "change": "0"
+      "keyword": "하영 증조부 의사 논란",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "오상진 아들 중환자실 입원",
-      "state": "s",
-      "change": "0"
+      "keyword": "김민희, 출산 후 첫 공식석상",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 4,
-      "keyword": "하영 증조부 논란 비판",
-      "state": "s",
-      "change": "0"
+      "keyword": "美 7월 PPI 보합 유지",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "美 7월 PPI 전월 동일",
+      "keyword": "손승원 음주운전 역주행",
       "state": "+",
-      "change": "2"
+      "change": "4"
     },
     {
       "rank": 6,
-      "keyword": "백해룡, 한동훈 고소",
+      "keyword": "이정은 공효진 박소담의 복수 여행",
       "state": "+",
-      "change": "3"
+      "change": "20"
     },
     {
       "rank": 7,
-      "keyword": "150만호 착공 추진",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "LG 오스틴, 14일 만에 홈런 재가동",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 9,
       "keyword": "2026년 8월 14일 운세",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 8,
+      "keyword": "태풍 피해 방재림 병해충 피해",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "롯데 SSG 11-0 완파",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "라면 부부 아내 아동학대 신고",
+      "keyword": "김세의, 수의 입고 등장",
       "state": "n",
       "change": "0"
     }
