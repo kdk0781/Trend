@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-08-14T21:59:51.637Z",
+  "updatedAt": "2026-08-14T22:27:39.729Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "박시은",
-      "traffic": "500+"
+      "keyword": "포스코",
+      "traffic": "200+"
     },
     {
       "rank": 2,
+      "keyword": "김민재",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "반도체",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "배달",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "박시은",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
       "keyword": "윤석열",
       "traffic": "1000+"
     },
     {
-      "rank": 3,
-      "keyword": "이혼숙려캠프: 새로고침",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
+      "rank": 7,
       "keyword": "lg이노텍",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
-      "keyword": "샌디스크",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "김다현",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "박서진",
-      "traffic": "5000+"
-    },
-    {
       "rank": 8,
-      "keyword": "성심당",
-      "traffic": "1000+"
+      "keyword": "이혼숙려캠프: 새로고침",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "잠수함",
-      "traffic": "5000+"
+      "keyword": "샌디스크",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "장동혁",
+      "keyword": "김다현",
       "traffic": "200+"
     }
   ],
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "친일 후손 하영, 바쁘다",
+      "keyword": "하영, 친일 사과 삭제 논란",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "구자욱 두 홈런, 삼성 승리!",
-      "state": "s",
+      "keyword": "NC 임지민 병원 이송",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "NC 임지민, 강타구에 병원 이송",
-      "state": "n",
+      "keyword": "광복절 연휴 다채로운 행사",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "광복절 연휴 비 소식 가득",
+      "keyword": "안판석 감독 영면 추모",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 6,
       "keyword": "2026년 8월 15일 운세",
-      "state": "n",
-      "change": "0"
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "김종국 30년 재테크 2%만",
+      "keyword": "이강인 스페인 복귀, 김민재 뮌헨 경쟁",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "박경혜 오디션 불합격 속상",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "자이언티♥채영, 결별설 사실무근",
+      "keyword": "트럼프 호르무즈 해협 선언 예정",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "중임 연임 개헌 입장",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "ETF에 마이너스 38%",
+      "keyword": "아이린 24살 나이 얘기",
       "state": "n",
       "change": "0"
     }
