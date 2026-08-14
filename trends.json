@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-14T05:52:17.185Z",
+  "updatedAt": "2026-08-14T07:11:50.072Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "안규백",
+      "keyword": "목사",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "맥스 먼시",
-      "traffic": "200+"
+      "keyword": "앤 해서웨이",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "이스타항공",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "노태악",
+      "keyword": "함재기",
       "traffic": "500+"
     },
     {
+      "rank": 4,
+      "keyword": "이호선",
+      "traffic": "200+"
+    },
+    {
       "rank": 5,
-      "keyword": "최두호",
-      "traffic": "100+"
+      "keyword": "핵무기 정책",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "국민연금공단",
+      "keyword": "자식방생 프로젝트 합숙 맞선",
       "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "경상북도",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "김은혜",
+      "keyword": "pba 팀리그",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "신성",
+      "traffic": "2000+"
+    },
+    {
       "rank": 9,
-      "keyword": "공희 용",
-      "traffic": "1000+"
+      "keyword": "안규백",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "강남",
-      "traffic": "100+"
+      "keyword": "맥스 먼시",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "나경원 윤상현 기소",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "하영 친일 사과 논란 비판",
+      "keyword": "이진숙 의원 5·18 기자회견",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "주택 신속공급 점검회의",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 3,
-      "keyword": "에스 데블린 집으로",
+      "keyword": "4할 백인천 전 감독",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "백인천 감독 뇌경색 위독",
+      "keyword": "하영 증조부 안상호, 친일 및 시해 연관 의혹.",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이진호 징역 2년 구형",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "장동혁 가뭄 현장 점검",
-      "state": "+",
+      "keyword": "尹 체포 방해 기소",
+      "state": "-",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "에스 데블린 전시",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "한복 입은 시민과 김혜경 여사",
-      "state": "+",
-      "change": "2"
+      "keyword": "상반기 매출 역대 최대",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "논에 물 공급하는 소방대원",
-      "state": "n",
-      "change": "0"
+      "keyword": "조정식 의장 게이츠 접견",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "채영·자이언티 결별설 부인",
-      "state": "-",
-      "change": "8"
+      "keyword": "손흥민 LAFC 8강 불발",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "클럽 앞 여성 성폭행 구속",
-      "state": "n",
-      "change": "0"
+      "keyword": "폭염 대응 어르신 지원 봉사 정청래",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
