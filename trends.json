@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-14T23:31:40.071Z",
+  "updatedAt": "2026-08-14T23:54:48.847Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "두산에너빌리티",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "테슬라",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
       "keyword": "김지민",
       "traffic": "1000+"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "keyword": "schd",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "날씨",
       "traffic": "500000+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "thời tiết",
       "traffic": "2000+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "天气",
       "traffic": "1000+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "weather",
       "traffic": "2000+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "погода",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
-      "keyword": "avgo",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "포스코",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "광주공항",
+      "keyword": "avgo",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김정은 광복 81주년 참배",
-      "state": "+",
-      "change": "3"
+      "keyword": "김정은, 광복 81주년 참배",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "트럼프 호르무즈 美영토 선언",
-      "state": "n",
+      "keyword": "하영 논란, 선대 과오 중요",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "4할 타자 백인천 별세",
-      "state": "+",
-      "change": "6"
+      "keyword": "트럼프 호르무즈 미국 영토 선언",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "김상혁 연수입 2억 5천만 원",
-      "state": "n",
-      "change": "0"
+      "keyword": "백인천 전 감독 별세",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "인도네시아 규모 7.7 지진 발생",
-      "state": "n",
+      "keyword": "인도네시아 7.7 강진 발생",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "최태원 재상고 이유는 노 관장 현금 고집",
+      "keyword": "임신 14주 김지민 출산 예고",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "임지민 병원 이송",
+      "keyword": "김상혁, 연수입 2억 5000만 원",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "스텔라 쉬 교수 인터뷰",
+      "keyword": "나 혼자 산다",
       "state": "+",
-      "change": "12"
+      "change": "99"
     },
     {
       "rank": 9,
-      "keyword": "3만 원 빚에 폭행한 60대 징역 10개월",
+      "keyword": "오디세이 300만 돌파",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "명예훼손 신청해 연기",
+      "keyword": "박경혜 6평 원룸 매물 부족",
       "state": "n",
       "change": "0"
     }
