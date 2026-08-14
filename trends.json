@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-14T15:24:59.247Z",
+  "updatedAt": "2026-08-14T16:12:09.455Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "임지민",
-      "traffic": "1000+"
+      "keyword": "돈",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
@@ -34,7 +34,7 @@
     {
       "rank": 7,
       "keyword": "보그",
-      "traffic": "1000+"
+      "traffic": "2000+"
     },
     {
       "rank": 8,
@@ -55,62 +55,62 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "회장 상반기 보수",
-      "state": "n",
+      "keyword": "상반기 회장 보수",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
       "keyword": "이재명 청년정책 간담회",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "하영 증조부 친일 행위 논란",
-      "state": "n",
+      "keyword": "하영 증조부 친일 결론 났다",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "합수본 중앙선관위 등 압수수색",
-      "state": "n",
-      "change": "0"
+      "keyword": "집단퇴정 검사 징계 청구",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "집단퇴정 검사 징계 청구",
-      "state": "n",
-      "change": "0"
+      "keyword": "합수본 중앙선관위 등 압수수색",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "김윤덕 장관 성과 발표",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
       "keyword": "안전 확보 전까지 경기 불허",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "최태원 재산분할 재상고",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "상반기 순익 증가 세션",
+      "keyword": "임지민 얼굴 타구 맞았다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "KT 고영표 승리!",
-      "state": "-",
-      "change": "1"
+      "keyword": "KT 고영표 승리",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 10,
-      "keyword": "위안부 피해자 기림의 날",
-      "state": "n",
+      "keyword": "용산공원 훼손 주택 공급 신중해야",
+      "state": "s",
       "change": "0"
     }
   ]
