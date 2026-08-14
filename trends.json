@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-14T00:05:21.827Z",
+  "updatedAt": "2026-08-14T02:38:40.908Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "투표율",
-      "traffic": "500+"
+      "keyword": "이마트",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "오디세이",
-      "traffic": "1000+"
+      "keyword": "백화점",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "유리",
-      "traffic": "2000+"
+      "keyword": "미국",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "드라간 스토이코비치",
-      "traffic": "5000+"
+      "keyword": "프로 골퍼",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "이가 시비옹테크",
-      "traffic": "1000+"
+      "keyword": "배재대",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "윤영철",
+      "keyword": "벤 셸턴",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "전세사기",
+      "keyword": "권오현",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "역세권",
-      "traffic": "100+"
+      "keyword": "안중열",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "수도권 광역급행철도 c노선",
-      "traffic": "500+"
+      "keyword": "김민수",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "최화정",
-      "traffic": "2000+"
+      "keyword": "로스앤젤레스 레이커스",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 드론 관세 100%",
+      "keyword": "안규백 국방부 장관",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "JTBC 하영 저격 사건",
+      "keyword": "안판석 감독 추모 빈소에 애도한 정려원",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "PO 1차전 첫날 공동 성적",
-      "state": "+",
-      "change": "1"
+      "keyword": "백인천 전 감독 별세",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "손승원 음주운전 2년형 증가",
+      "keyword": "발언하는 정점식 원내대표",
       "state": "+",
-      "change": "1"
+      "change": "4"
     },
     {
       "rank": 5,
-      "keyword": "이재명과 김혜경 초청 행사",
-      "state": "n",
-      "change": "0"
+      "keyword": "하영 증조부 친일 미등재 이유",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "홍명보, 정몽규와 소통 없음",
+      "keyword": "코스피 7천선 회복",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "홍상수 김민희 공식석상 등장",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "태풍 후폭풍 광복절 폭우?",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 8,
-      "keyword": "발리 이민 악플러 박제",
+      "keyword": "채영·자이언티 2년만 결별",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "오디세이 10일 300만 관객",
+      "keyword": "선관위 특검 회의",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "박주호 넷째 임신 발표",
+      "keyword": "홍명보, 정몽규와 소통 없었다.",
       "state": "n",
       "change": "0"
     }
