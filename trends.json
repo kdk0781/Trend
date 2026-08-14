@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-14T21:17:15.953Z",
+  "updatedAt": "2026-08-14T21:43:01.047Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "잠수함",
-      "traffic": "2000+"
+      "keyword": "박시은",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "장동혁",
-      "traffic": "100+"
+      "keyword": "윤석열",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "정성호",
-      "traffic": "2000+"
+      "keyword": "이혼숙려캠프: 새로고침",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "추미애",
-      "traffic": "1000+"
+      "keyword": "lg이노텍",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "조진웅",
-      "traffic": "200+"
+      "keyword": "샌디스크",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "맨홀",
-      "traffic": "1000+"
+      "keyword": "김다현",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "마르세유 대 아틀레티코",
-      "traffic": "10000+"
+      "keyword": "박서진",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "류중일",
-      "traffic": "1000+"
+      "keyword": "성심당",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "인구감소지역",
-      "traffic": "200+"
+      "keyword": "잠수함",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "쿠팡플레이",
-      "traffic": "500+"
+      "keyword": "장동혁",
+      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "하영 논란 후 행동 중요성 깨달은 김용만",
+      "keyword": "친일 후손 하영, 바쁘다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "구자욱의 홈런 대폭발 삼성, 한화 제압",
+      "keyword": "구자욱 두 홈런, 삼성 승리!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "내란 강호필 기소",
-      "state": "s",
+      "keyword": "NC 임지민, 강타구에 병원 이송",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "한동희 동점포 폭발!",
+      "keyword": "광복절 연휴 비 소식 가득",
       "state": "+",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "변우석 연기 그룹 스터디 멤버",
-      "state": "+",
-      "change": "2"
+      "keyword": "2026년 8월 15일 운세",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "전 연인 둔기로 폭행한 30대 검거",
+      "keyword": "김종국 30년 재테크 2%만",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김진아 치어리더 매력 발산",
+      "keyword": "박경혜 오디션 불합격 속상",
       "state": "-",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "나 혼자 산다",
+      "keyword": "자이언티♥채영, 결별설 사실무근",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "프랑스, 15세 미만 SNS 금지 위헌",
+      "keyword": "ETF에 마이너스 38%",
       "state": "n",
       "change": "0"
     }
