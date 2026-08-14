@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-08-14T19:08:53.384Z",
+  "updatedAt": "2026-08-14T19:53:17.034Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이강인",
-      "traffic": "2000+"
+      "keyword": "맨홀",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "맨홀",
-      "traffic": "200+"
+      "keyword": "마르세유 대 아틀레티코",
+      "traffic": "10000+"
     },
     {
       "rank": 3,
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "김구 증손 하영 논란 후 행동 중요",
+      "keyword": "구자욱 홈런 5안타로 승리",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "구자욱 홈런 5안타 2연승",
-      "state": "n",
+      "keyword": "하영 증조부 친일 확정",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "임지민 얼굴에 총알 맞았다",
-      "state": "s",
-      "change": "0"
+      "keyword": "김진아 치어리더 매력 넘쳐",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 5,
-      "keyword": "4년 임기 단축 수용",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "고영표 승리 행진",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "광복절 연휴 날씨 비 예보",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 8,
       "keyword": "종합특검 강호필 기소",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "이숭용 감독과 김재환 홈런 최고!",
+      "rank": 6,
+      "keyword": "김선태 1000만원 기부",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 10,
-      "keyword": "위안부 기림의 날입니다.",
+      "rank": 7,
+      "keyword": "4년 중임 임기 단축 수용",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 8,
+      "keyword": "한동희 동점포 폭발!",
       "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "광복절 연휴 날씨는 비!",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 10,
+      "keyword": "김주원 백투백 홈런!",
+      "state": "+",
+      "change": "17"
     }
   ]
 }
