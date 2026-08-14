@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-14T14:33:47.291Z",
+  "updatedAt": "2026-08-14T15:24:59.247Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "임지민",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "김원중",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
       "keyword": "용인시",
       "traffic": "100+"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "keyword": "변호사",
       "traffic": "1000+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "양정아",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "엄지원",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "보그",
       "traffic": "1000+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "cuaca besok",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "윤미라",
       "traffic": "500+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "달서구",
       "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "내일 날씨",
-      "traffic": "200000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "출연료",
-      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이진호, 징역 2년 구형",
+      "keyword": "회장 상반기 보수",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김세의 국민참여재판 신청",
+      "keyword": "이재명 청년정책 간담회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "법원, A씨에 강제조정 결정",
+      "keyword": "하영 증조부 친일 행위 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "자이언티♥채영, 결별설 사실무근",
+      "keyword": "합수본 중앙선관위 등 압수수색",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "KT 고영표 선발",
-      "state": "+",
-      "change": "1"
+      "keyword": "집단퇴정 검사 징계 청구",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "청송군수",
-      "state": "+",
-      "change": "1"
+      "keyword": "김윤덕 장관 성과 발표",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "故 안판석 감독 추모의 먹먹함",
+      "keyword": "안전 확보 전까지 경기 불허",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "대장암 50% 생존",
+      "keyword": "상반기 순익 증가 세션",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "손흥민 좌절 리그스컵에서도",
-      "state": "n",
-      "change": "0"
+      "keyword": "KT 고영표 승리!",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "여성 성폭행 외국인 구속",
+      "keyword": "위안부 피해자 기림의 날",
       "state": "n",
       "change": "0"
     }
