@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-14T20:53:22.932Z",
+  "updatedAt": "2026-08-14T21:17:15.953Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "조진웅",
-      "traffic": "100+"
+      "keyword": "잠수함",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "맨홀",
-      "traffic": "1000+"
+      "keyword": "장동혁",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "마르세유 대 아틀레티코",
-      "traffic": "10000+"
+      "keyword": "정성호",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "류중일",
+      "keyword": "추미애",
       "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "인구감소지역",
+      "keyword": "조진웅",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "쿠팡플레이",
-      "traffic": "500+"
+      "keyword": "맨홀",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "네이버 웹툰",
-      "traffic": "100+"
+      "keyword": "마르세유 대 아틀레티코",
+      "traffic": "10000+"
     },
     {
       "rank": 8,
-      "keyword": "south korea national liberation day",
+      "keyword": "류중일",
       "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "빌라",
-      "traffic": "10000+"
+      "keyword": "인구감소지역",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "대한민국 광복절",
-      "traffic": "20000+"
+      "keyword": "쿠팡플레이",
+      "traffic": "500+"
     }
   ],
   "domestic": [
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "하영 논란 후 행동 중요성 인식",
-      "state": "+",
-      "change": "2"
+      "keyword": "하영 논란 후 행동 중요성 깨달은 김용만",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "구자욱 5안타 2홈런 삼성 2연승",
-      "state": "n",
+      "keyword": "구자욱의 홈런 대폭발 삼성, 한화 제압",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "강호필 불구속 기소",
-      "state": "+",
-      "change": "1"
+      "keyword": "내란 강호필 기소",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김진아 치어리더 매력 발산",
-      "state": "-",
-      "change": "1"
+      "keyword": "한동희 동점포 폭발!",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "광복절 연휴 비 예보 및 물폭탄 우려",
+      "keyword": "변우석 연기 그룹 스터디 멤버",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "한동희 동점포 폭발!",
-      "state": "s",
+      "keyword": "전 연인 둔기로 폭행한 30대 검거",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "변우석, 스터디 그룹 이혜리 박경혜 최우성",
-      "state": "+",
-      "change": "24"
+      "keyword": "김진아 치어리더 매력 발산",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "안판석 감독 발인 애도 속 영면",
+      "keyword": "나 혼자 산다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "홍상수와 김민희, 아들 수유하며 영화 촬영",
+      "keyword": "프랑스, 15세 미만 SNS 금지 위헌",
       "state": "n",
       "change": "0"
     }
