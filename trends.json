@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-14T22:49:11.385Z",
+  "updatedAt": "2026-08-14T23:04:15.072Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "weather",
-      "traffic": "1000+"
+      "keyword": "날씨",
+      "traffic": "200000+"
     },
     {
       "rank": 2,
-      "keyword": "погода",
-      "traffic": "500+"
+      "keyword": "thời tiết",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "포스코",
+      "keyword": "天气",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "김민재",
+      "keyword": "weather",
       "traffic": "2000+"
     },
     {
       "rank": 5,
+      "keyword": "погода",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "포스코",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "광주공항",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "김민재",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 9,
       "keyword": "반도체",
       "traffic": "2000+"
     },
     {
-      "rank": 6,
-      "keyword": "배달",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "렛츠런파크 서울",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "박시은",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "윤석열",
-      "traffic": "1000+"
-    },
-    {
       "rank": 10,
-      "keyword": "이혼숙려캠프: 새로고침",
-      "traffic": "500+"
+      "keyword": "배달",
+      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "하영에 일침, 부모 선택은 불가",
+      "keyword": "하영, 부모 선택 불가",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "임지민 얼굴 타구 맞아 병원행",
-      "state": "n",
+      "keyword": "임지민 타구에 얼굴 맞아",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김정은, 광복 81주년 참배",
-      "state": "n",
+      "keyword": "김정은 광복 81주년 참배",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "광복절 연휴 다양한 소식",
-      "state": "-",
+      "keyword": "故 안판석 감독 영면 발인 15일",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "故 안판석 감독 영면에 애도",
-      "state": "-",
-      "change": "1"
+      "keyword": "트럼프 호르무즈 미국 영토 선언",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
+      "keyword": "한국 축구 악재와 낭보",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
       "keyword": "2026년 8월 15일 운세",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "KIA 4위 재탈환 실패!",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 9,
-      "keyword": "트럼프 호르무즈 영토 선언",
+      "keyword": "백인천 별세 83세",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이강인 스페인 복귀, 김민재 뮌헨 경쟁",
-      "state": "-",
-      "change": "3"
+      "keyword": "이강인, 첫 터치로 팬들 열광",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
