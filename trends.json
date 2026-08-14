@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T20:22:49.014Z",
+  "updatedAt": "2026-08-14T20:53:22.932Z",
   "google": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
     {
       "rank": 2,
       "keyword": "맨홀",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
       "rank": 3,
@@ -24,7 +24,7 @@
     {
       "rank": 5,
       "keyword": "인구감소지역",
-      "traffic": "100+"
+      "traffic": "200+"
     },
     {
       "rank": 6,
@@ -43,13 +43,13 @@
     },
     {
       "rank": 9,
-      "keyword": "대한민국 광복절",
+      "keyword": "빌라",
       "traffic": "10000+"
     },
     {
       "rank": 10,
-      "keyword": "t 멤버십",
-      "traffic": "100+"
+      "keyword": "대한민국 광복절",
+      "traffic": "20000+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "삼성 홈런 2연승",
-      "state": "s",
-      "change": "0"
+      "keyword": "하영 논란 후 행동 중요성 인식",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "하영 증조부 친일 논란 유죄",
-      "state": "s",
+      "keyword": "구자욱 5안타 2홈런 삼성 2연승",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김진아 치어리더 매력 넘쳐",
-      "state": "s",
-      "change": "0"
+      "keyword": "강호필 불구속 기소",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "강호필 내란 기소",
+      "keyword": "김진아 치어리더 매력 발산",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "광복절 연휴 비 예보 및 물폭탄 우려",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "한동희 동점포 폭발!",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "4년 중임 개헌 임기 단축 수용",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "한동희 동점 솔로포!",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 8,
-      "keyword": "광복절 연휴 비 소식 많다",
+      "keyword": "변우석, 스터디 그룹 이혜리 박경혜 최우성",
       "state": "+",
-      "change": "4"
+      "change": "24"
     },
     {
       "rank": 9,
-      "keyword": "도난 르누아르·세잔·마티스 회수",
-      "state": "s",
+      "keyword": "안판석 감독 발인 애도 속 영면",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "임지민 병원 이송",
-      "state": "+",
-      "change": "3"
+      "keyword": "홍상수와 김민희, 아들 수유하며 영화 촬영",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
