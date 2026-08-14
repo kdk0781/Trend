@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-08-14T10:38:11.952Z",
+  "updatedAt": "2026-08-14T11:23:57.385Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "제럴드 r 포드 급 항공 모함",
-      "traffic": "2000+"
+      "keyword": "러시아",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "애플",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "경마",
+      "keyword": "seoul weather",
       "traffic": "100+"
     },
     {
-      "rank": 4,
-      "keyword": "나탈리 하프",
+      "rank": 3,
+      "keyword": "3기 신도시",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "휴머노이드 로봇",
+      "traffic": "1000+"
+    },
+    {
       "rank": 5,
-      "keyword": "휘발유",
-      "traffic": "500+"
+      "keyword": "한화 대 삼성",
+      "traffic": "10000+"
     },
     {
       "rank": 6,
-      "keyword": "nc 대 롯데",
-      "traffic": "2000+"
+      "keyword": "이묵원",
+      "traffic": "10000+"
     },
     {
       "rank": 7,
-      "keyword": "ssg 대 lg",
-      "traffic": "2000+"
+      "keyword": "테라파워",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "폭탄",
-      "traffic": "2000+"
+      "keyword": "hj중공업",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "키움 대 kt",
-      "traffic": "2000+"
+      "keyword": "최형우",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "김윤덕",
+      "keyword": "서울 날씨",
       "traffic": "200+"
     }
   ],
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "상반기 순익 증가율",
-      "state": "+",
-      "change": "1"
+      "keyword": "하영, 독립기념관 가봐라!",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "하영 가족, 상하이 임시정부 방문 권유",
-      "state": "+",
-      "change": "1"
+      "keyword": "김민솔 KLPGA 2R 단독 선두",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "황정민 2억 손배소 불출석",
-      "state": "+",
-      "change": "2"
+      "keyword": "4년 중임 연임",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "게이츠 SMR 협력",
-      "state": "+",
-      "change": "2"
+      "keyword": "말복맞이 삼계탕과 해수욕",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "포항스틸야드 경기 불허",
+      "keyword": "스롱 피아비, 이긴 미소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "집단퇴정 검사 징계 청구",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "용산공원 훼손 주택 공급 신중해야",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "업주 만취 손님 방치 사망 6년",
+      "keyword": "SK이노-테라파워, 나트륨 SMR 협력",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 10,
+      "rank": 8,
+      "keyword": "법원 황정민에게 강제조정",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
       "keyword": "합수본 중앙선관위 등 압수수색",
       "state": "-",
-      "change": "2"
+      "change": "3"
+    },
+    {
+      "rank": 10,
+      "keyword": "전설의 타자 백인천 위독",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
