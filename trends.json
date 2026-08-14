@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-13T23:21:22.247Z",
+  "updatedAt": "2026-08-14T00:05:21.827Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "윤영철",
-      "traffic": "100+"
+      "keyword": "투표율",
+      "traffic": "500+"
     },
     {
       "rank": 2,
+      "keyword": "오디세이",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "유리",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "드라간 스토이코비치",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "이가 시비옹테크",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "윤영철",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
       "keyword": "전세사기",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 8,
       "keyword": "역세권",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "keyword": "수도권 광역급행철도 c노선",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "최화정",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "탁구",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "오픈ai",
       "traffic": "500+"
     },
     {
-      "rank": 8,
-      "keyword": "윤혜진",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "철도",
-      "traffic": "100+"
-    },
-    {
       "rank": 10,
-      "keyword": "아트 엠앤 씨",
+      "keyword": "최화정",
       "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 드론 관세 15%",
-      "state": "n",
+      "keyword": "트럼프 드론 관세 100%",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "하영과 조세이 사고 관련 뉴스",
+      "keyword": "JTBC 하영 저격 사건",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김민희, 출산 후 첫 공식석상",
-      "state": "s",
-      "change": "0"
+      "keyword": "PO 1차전 첫날 공동 성적",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "부천시장, 말복 경로식당 봉사",
+      "keyword": "손승원 음주운전 2년형 증가",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "손승원 음주운전 징역 2년 확정",
-      "state": "+",
-      "change": "4"
+      "keyword": "이재명과 김혜경 초청 행사",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "홍명보, 경찰 감독 소통 없었다",
+      "keyword": "홍명보, 정몽규와 소통 없음",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "포즈 취하는 서도밴드",
+      "keyword": "태풍 후폭풍 광복절 폭우?",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "태풍 후폭풍 광복절 폭우",
-      "state": "+",
-      "change": "8"
+      "keyword": "발리 이민 악플러 박제",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "박주호♥안나 넷째 임신 발표",
+      "keyword": "오디세이 10일 300만 관객",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "전범선, 친일파 고백",
+      "keyword": "박주호 넷째 임신 발표",
       "state": "n",
       "change": "0"
     }
