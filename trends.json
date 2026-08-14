@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-14T02:38:40.908Z",
+  "updatedAt": "2026-08-14T04:25:29.856Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이마트",
+      "keyword": "임은정",
       "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "백화점",
-      "traffic": "500+"
+      "keyword": "이혼",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "미국",
+      "keyword": "australia vs bangladesh",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "프로 골퍼",
+      "keyword": "대한민국 의 국기",
       "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "배재대",
-      "traffic": "200+"
+      "keyword": "토지",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "벤 셸턴",
+      "keyword": "엘르",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "권오현",
-      "traffic": "200+"
+      "keyword": "재정",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "안중열",
-      "traffic": "2000+"
+      "keyword": "연금복권720+",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "김민수",
-      "traffic": "100+"
+      "keyword": "이더리움",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "로스앤젤레스 레이커스",
-      "traffic": "100+"
+      "keyword": "백화점",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "안규백 국방부 장관",
+      "keyword": "가양동 화재 합동감식",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "안판석 감독 추모 빈소에 애도한 정려원",
+      "keyword": "4년 중임제 국민 수용성 높다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "백인천 전 감독 별세",
+      "keyword": "하영, 증조부 친일 논란 불편한가?",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "발언하는 정점식 원내대표",
+      "keyword": "모란시장 정청래 후보 방문",
       "state": "+",
-      "change": "4"
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "하영 증조부 친일 미등재 이유",
+      "keyword": "채영·자이언티, 결별설 부인 중",
       "state": "-",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "코스피 7천선 회복",
+      "keyword": "위안부 피해자 기념식",
       "state": "-",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "홍상수 김민희 공식석상 등장",
+      "keyword": "광주 선수단 표창",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "채영·자이언티 2년만 결별",
-      "state": "n",
+      "keyword": "김정관 장관 AX교육 참석",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "선관위 특검 회의",
-      "state": "n",
-      "change": "0"
+      "keyword": "이강인, 박보검과 한솥밥",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "홍명보, 정몽규와 소통 없었다.",
+      "keyword": "최교진 교육부 장관",
       "state": "n",
       "change": "0"
     }
