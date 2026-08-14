@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-14T08:38:04.537Z",
+  "updatedAt": "2026-08-14T09:39:58.826Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "허화평",
-      "traffic": "1000+"
+      "keyword": "강부자",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "휴머노이드",
-      "traffic": "500+"
+      "keyword": "전북 현대 모터스 fc",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "체포",
-      "traffic": "1000+"
+      "keyword": "시어머니",
+      "traffic": "5000+"
     },
     {
       "rank": 4,
-      "keyword": "원주중앙시장",
+      "keyword": "세계 배드민턴 연맹",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "참수리급 고속정",
-      "traffic": "500+"
+      "keyword": "프리차드 콜론",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "수도권 광역 급행 철도 c 노선",
-      "traffic": "2000+"
+      "keyword": "맹승지",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "자식 방생 프로젝트 합숙 맞선",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "양천구",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "역주행",
+      "keyword": "민형배",
       "traffic": "200+"
     },
     {
-      "rank": 10,
-      "keyword": "여객기",
+      "rank": 8,
+      "keyword": "허화평",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "휴머노이드",
       "traffic": "500+"
+    },
+    {
+      "rank": 10,
+      "keyword": "체포",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "회장 상반기 보수 133억~8.9억",
-      "state": "+",
-      "change": "2"
+      "keyword": "상반기 회장 보수",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "주택 신속공급 점검회의",
+      "keyword": "이재명 청년정책 간담회",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이재명 청년정책 간담회",
-      "state": "n",
-      "change": "0"
+      "keyword": "집단퇴정 검사 징계 청구",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "선관위 특검 이태한·이혁 추천",
+      "keyword": "하영 친일 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "하영 증조부 친일 논란",
-      "state": "+",
-      "change": "1"
+      "keyword": "김윤덕 장관 1주년 기자간담회",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "이진숙 의원 관련 기사",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "김윤덕 장관 취임 1주년 간담회",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "코스피 7000선 마감",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "박찬대 인천시장 시도지사협의회장",
+      "keyword": "포항 홈경기 불허",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "합수본 중앙선관위 등 압수수색",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "현대차 피지컬 AI 군 활용",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "황정민 2억 손배소 불출석",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "김정관-미셸 스틸 면담",
-      "state": "-",
-      "change": "2"
+      "keyword": "제33회 송암배 합계",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
