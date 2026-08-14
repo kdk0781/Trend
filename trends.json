@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-14T23:04:15.072Z",
+  "updatedAt": "2026-08-14T23:31:40.071Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "날씨",
-      "traffic": "200000+"
+      "keyword": "김지민",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
+      "keyword": "schd",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "날씨",
+      "traffic": "500000+"
+    },
+    {
+      "rank": 4,
       "keyword": "thời tiết",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
-      "keyword": "天气",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "weather",
-      "traffic": "2000+"
-    },
-    {
       "rank": 5,
-      "keyword": "погода",
+      "keyword": "天气",
       "traffic": "1000+"
     },
     {
       "rank": 6,
+      "keyword": "weather",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "погода",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "avgo",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
       "keyword": "포스코",
       "traffic": "500+"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "keyword": "광주공항",
       "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "김민재",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "반도체",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "배달",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "최태원 재산분할 재상고",
-      "state": "s",
-      "change": "0"
+      "keyword": "김정은 광복 81주년 참배",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 2,
-      "keyword": "하영, 부모 선택 불가",
-      "state": "s",
+      "keyword": "트럼프 호르무즈 美영토 선언",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "임지민 타구에 얼굴 맞아",
-      "state": "s",
-      "change": "0"
+      "keyword": "4할 타자 백인천 별세",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 4,
-      "keyword": "김정은 광복 81주년 참배",
-      "state": "s",
+      "keyword": "김상혁 연수입 2억 5천만 원",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "故 안판석 감독 영면 발인 15일",
-      "state": "+",
-      "change": "1"
+      "keyword": "인도네시아 규모 7.7 지진 발생",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "트럼프 호르무즈 미국 영토 선언",
+      "keyword": "최태원 재상고 이유는 노 관장 현금 고집",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "한국 축구 악재와 낭보",
+      "keyword": "임지민 병원 이송",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "2026년 8월 15일 운세",
-      "state": "-",
-      "change": "1"
+      "keyword": "스텔라 쉬 교수 인터뷰",
+      "state": "+",
+      "change": "12"
     },
     {
       "rank": 9,
-      "keyword": "백인천 별세 83세",
+      "keyword": "3만 원 빚에 폭행한 60대 징역 10개월",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이강인, 첫 터치로 팬들 열광",
-      "state": "s",
+      "keyword": "명예훼손 신청해 연기",
+      "state": "n",
       "change": "0"
     }
   ]
