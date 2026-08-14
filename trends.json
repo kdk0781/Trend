@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-14T09:39:58.826Z",
+  "updatedAt": "2026-08-14T10:38:11.952Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "강부자",
+      "keyword": "제럴드 r 포드 급 항공 모함",
       "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "전북 현대 모터스 fc",
-      "traffic": "100+"
+      "keyword": "애플",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "시어머니",
-      "traffic": "5000+"
+      "keyword": "경마",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "세계 배드민턴 연맹",
+      "keyword": "나탈리 하프",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "프리차드 콜론",
-      "traffic": "100+"
+      "keyword": "휘발유",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "맹승지",
-      "traffic": "500+"
+      "keyword": "nc 대 롯데",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "민형배",
-      "traffic": "200+"
+      "keyword": "ssg 대 lg",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "허화평",
-      "traffic": "1000+"
+      "keyword": "폭탄",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "휴머노이드",
-      "traffic": "500+"
+      "keyword": "키움 대 kt",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "체포",
-      "traffic": "1000+"
+      "keyword": "김윤덕",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "상반기 회장 보수",
+      "keyword": "회장 상반기 보수",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이재명 청년정책 간담회",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "집단퇴정 검사 징계 청구",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "하영 친일 논란",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "김윤덕 장관 1주년 기자간담회",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "포항 홈경기 불허",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "합수본 중앙선관위 등 압수수색",
+      "keyword": "상반기 순익 증가율",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "현대차 피지컬 AI 군 활용",
+      "rank": 3,
+      "keyword": "하영 가족, 상하이 임시정부 방문 권유",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "황정민 2억 손배소 불출석",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "게이츠 SMR 협력",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "포항스틸야드 경기 불허",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "집단퇴정 검사 징계 청구",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "용산공원 훼손 주택 공급 신중해야",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 9,
-      "keyword": "황정민 2억 손배소 불출석",
+      "keyword": "업주 만취 손님 방치 사망 6년",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "제33회 송암배 합계",
-      "state": "n",
-      "change": "0"
+      "keyword": "합수본 중앙선관위 등 압수수색",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
