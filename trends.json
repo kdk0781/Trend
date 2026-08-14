@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-14T12:04:35.542Z",
+  "updatedAt": "2026-08-14T13:33:56.068Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "암호화폐",
+      "keyword": "보그",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "t1 dk",
-      "traffic": "1000+"
+      "keyword": "cuaca besok",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "동원그룹",
+      "keyword": "윤미라",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "아이린",
+      "keyword": "달서구",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "디즈니+",
-      "traffic": "1000+"
+      "keyword": "내일 날씨",
+      "traffic": "200000+"
     },
     {
       "rank": 6,
-      "keyword": "기상청",
+      "keyword": "출연료",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "골프",
-      "traffic": "10000+"
+      "keyword": "홍지민",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "광주 날씨",
-      "traffic": "500+"
+      "keyword": "weather tomorrow",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "러시아",
+      "keyword": "thời tiết ngày mai",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "seoul weather",
+      "keyword": "환전소",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "4년 중임 연임 개헌 일관",
-      "state": "s",
+      "keyword": "이진호 징역 2년",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "하영 친일 논란, 김구 증손자 행동 중요",
-      "state": "s",
+      "keyword": "수용 중임과 단축",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "키움 선발 박준현",
+      "keyword": "명예훼손 김세의 국민참여재판",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김민솔 KLPGA 2R 선두",
-      "state": "n",
-      "change": "0"
+      "keyword": "회장 상반기 보수",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "상반기 총수 보수 1위 박정원",
+      "keyword": "청년 아파트 대출 계속.",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "말복 맞이 삼계탕과 해수욕",
+      "keyword": "하영, 친일 책임 보여줘",
       "state": "-",
-      "change": "1"
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "김주원 백투백 홈런",
-      "state": "n",
-      "change": "0"
+      "keyword": "KT 고영표 승리 바랍니다",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 8,
-      "keyword": "9년 열애 결혼 웨딩링",
-      "state": "n",
-      "change": "0"
+      "keyword": "청송군수",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 9,
-      "keyword": "책상 사장님 아들이었다",
+      "keyword": "여성 성폭행 사건 구속송치",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "MC몽, 오늘 콘서트로 복귀",
+      "keyword": "오세훈 등장에 말이 없네",
       "state": "n",
       "change": "0"
     }
