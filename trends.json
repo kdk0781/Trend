@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-14T04:25:29.856Z",
+  "updatedAt": "2026-08-14T05:52:17.185Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "임은정",
-      "traffic": "1000+"
+      "keyword": "안규백",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "이혼",
-      "traffic": "1000+"
+      "keyword": "맥스 먼시",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "australia vs bangladesh",
+      "keyword": "이스타항공",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "대한민국 의 국기",
-      "traffic": "2000+"
+      "keyword": "노태악",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "토지",
-      "traffic": "500+"
+      "keyword": "최두호",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "엘르",
-      "traffic": "200+"
+      "keyword": "국민연금공단",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "재정",
-      "traffic": "500+"
+      "keyword": "경상북도",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "연금복권720+",
+      "keyword": "김은혜",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "이더리움",
-      "traffic": "200+"
+      "keyword": "공희 용",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "백화점",
-      "traffic": "500+"
+      "keyword": "강남",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "가양동 화재 합동감식",
-      "state": "s",
+      "keyword": "나경원 윤상현 기소",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "4년 중임제 국민 수용성 높다",
+      "keyword": "하영 친일 사과 논란 비판",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "하영, 증조부 친일 논란 불편한가?",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "모란시장 정청래 후보 방문",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "채영·자이언티, 결별설 부인 중",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "위안부 피해자 기념식",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "광주 선수단 표창",
+      "keyword": "에스 데블린 집으로",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "김정관 장관 AX교육 참석",
-      "state": "s",
+      "rank": 4,
+      "keyword": "백인천 감독 뇌경색 위독",
+      "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "이강인, 박보검과 한솥밥",
+      "rank": 5,
+      "keyword": "이진호 징역 2년 구형",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "장동혁 가뭄 현장 점검",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 7,
+      "keyword": "한복 입은 시민과 김혜경 여사",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "논에 물 공급하는 소방대원",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "채영·자이언티 결별설 부인",
+      "state": "-",
+      "change": "8"
+    },
+    {
       "rank": 10,
-      "keyword": "최교진 교육부 장관",
+      "keyword": "클럽 앞 여성 성폭행 구속",
       "state": "n",
       "change": "0"
     }
