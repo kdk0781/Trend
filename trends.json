@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-14T16:12:09.455Z",
+  "updatedAt": "2026-08-14T17:12:24.349Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "쿠팡플레이",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
+      "keyword": "south korea national liberation day",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "빌라",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "대한민국 광복절",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 5,
       "keyword": "돈",
       "traffic": "2000+"
     },
     {
-      "rank": 2,
+      "rank": 6,
+      "keyword": "임지민",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 7,
       "keyword": "김원중",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 8,
       "keyword": "용인시",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "keyword": "변호사",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
+      "rank": 10,
       "keyword": "양정아",
       "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "엄지원",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "보그",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "cuaca besok",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "윤미라",
-      "traffic": "500+"
-    },
-    {
-      "rank": 10,
-      "keyword": "달서구",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "상반기 회장 보수",
+      "keyword": "상반기 보수 총수 1위",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이재명 청년정책 간담회",
+      "keyword": "최태원 재산분할 재상고",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "하영 증조부 친일 결론 났다",
+      "keyword": "하영 증조부 친일 논란 확정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "집단퇴정 검사 징계 청구",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "합수본 중앙선관위 등 압수수색",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "안전 확보 전까지 경기 불허",
+      "keyword": "광복절 연휴 날씨 걱정",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "구자욱 홈런 5안타",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "4년 중임·연임 개헌 입장 변함없어",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "최태원 재산분할 재상고",
+      "keyword": "순항 중인 고영표",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "임지민 얼굴 타구 맞았다",
+      "keyword": "이숭용 감독 김재환 홈런 최고!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "KT 고영표 승리",
-      "state": "+",
-      "change": "5"
+      "keyword": "가담 강호필 기소",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "용산공원 훼손 주택 공급 신중해야",
-      "state": "s",
+      "keyword": "김진아 치어리더",
+      "state": "n",
       "change": "0"
     }
   ]
