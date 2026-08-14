@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-14T18:07:13.659Z",
+  "updatedAt": "2026-08-14T19:08:53.384Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "마르세유 대 아틀레티코",
-      "traffic": "1000+"
+      "keyword": "이강인",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
+      "keyword": "맨홀",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
       "keyword": "류중일",
       "traffic": "1000+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "인구감소지역",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "쿠팡플레이",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "네이버 웹툰",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "south korea national liberation day",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "대한민국 광복절",
       "traffic": "10000+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "t 멤버십",
       "traffic": "100+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "돈",
       "traffic": "2000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "김원중",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "최태원 재산분할 재상고",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "상반기 회장 보수",
-      "state": "-",
-      "change": "1"
+      "keyword": "김구 증손 하영 논란 후 행동 중요",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "하영 증조부 친일 논란 끝났다",
-      "state": "s",
+      "keyword": "구자욱 홈런 5안타 2연승",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "KT 선발 고영표 승리하자!",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 5,
-      "keyword": "4년 중임 입장 유지",
+      "keyword": "임지민 얼굴에 총알 맞았다",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "4년 임기 단축 수용",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 6,
-      "keyword": "삼성, 한화 상대 구자욱 폭발",
+      "keyword": "고영표 승리 행진",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "광복절 연휴 비 소식",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "이숭용 감독 승리해!",
-      "state": "-",
+      "keyword": "광복절 연휴 날씨 비 예보",
+      "state": "+",
       "change": "4"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "keyword": "종합특검 강호필 기소",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "이숭용 감독과 김재환 홈런 최고!",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 10,
-      "keyword": "김정관 장관과 회의",
-      "state": "s",
+      "keyword": "위안부 기림의 날입니다.",
+      "state": "n",
       "change": "0"
     }
   ]
