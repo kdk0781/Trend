@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-14T13:33:56.068Z",
+  "updatedAt": "2026-08-14T14:33:47.291Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "보그",
-      "traffic": "200+"
+      "keyword": "용인시",
+      "traffic": "100+"
     },
     {
       "rank": 2,
+      "keyword": "변호사",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "양정아",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "엄지원",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "보그",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
       "keyword": "cuaca besok",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 7,
       "keyword": "윤미라",
-      "traffic": "200+"
+      "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 8,
       "keyword": "달서구",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "keyword": "내일 날씨",
       "traffic": "200000+"
     },
     {
-      "rank": 6,
-      "keyword": "출연료",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "홍지민",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "weather tomorrow",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "thời tiết ngày mai",
-      "traffic": "1000+"
-    },
-    {
       "rank": 10,
-      "keyword": "환전소",
-      "traffic": "200+"
+      "keyword": "출연료",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이진호 징역 2년",
+      "keyword": "이진호, 징역 2년 구형",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "수용 중임과 단축",
+      "keyword": "김세의 국민참여재판 신청",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "명예훼손 김세의 국민참여재판",
+      "keyword": "법원, A씨에 강제조정 결정",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "회장 상반기 보수",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "청년 아파트 대출 계속.",
+      "keyword": "자이언티♥채영, 결별설 사실무근",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "KT 고영표 선발",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 6,
-      "keyword": "하영, 친일 책임 보여줘",
-      "state": "-",
-      "change": "4"
+      "keyword": "청송군수",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "KT 고영표 승리 바랍니다",
-      "state": "-",
-      "change": "4"
+      "keyword": "故 안판석 감독 추모의 먹먹함",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "청송군수",
-      "state": "-",
-      "change": "4"
+      "keyword": "대장암 50% 생존",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "여성 성폭행 사건 구속송치",
+      "keyword": "손흥민 좌절 리그스컵에서도",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "오세훈 등장에 말이 없네",
+      "keyword": "여성 성폭행 외국인 구속",
       "state": "n",
       "change": "0"
     }
