@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-15T09:59:48.492Z",
+  "updatedAt": "2026-08-15T10:26:48.988Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "백인천 별세",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
+      "keyword": "자산",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "로저 페더러",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "삼성 갤럭시 s26",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
       "keyword": "환희",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 6,
       "keyword": "현봉식",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 7,
       "keyword": "트와이스",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 8,
       "keyword": "lg전자",
       "traffic": "2000+"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "keyword": "학원",
       "traffic": "500+"
     },
     {
-      "rank": 6,
-      "keyword": "타짜",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "티웨이홀딩스",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "추가경정예산",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "롯데손해보험",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "메르세데스-벤츠 e 클래스",
+      "keyword": "타짜",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "LG 새 투수 존 케네디",
-      "state": "s",
-      "change": "0"
+      "keyword": "합동연설회 당대표 후보들",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "더불어민주당 대표 후보 연설",
+      "keyword": "LG 새 투수 존 케네디",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "빽가, 독립운동가 후손 고백",
+      "keyword": "빽가 독립운동가 후손",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
       "keyword": "유부녀 킬러 드라마",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "메디힐 한국일보 챔피언십",
-      "state": "+",
-      "change": "2"
+      "keyword": "구급차 진입시간 개선",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "정부, 日 야스쿠니 참배 개탄",
-      "state": "n",
-      "change": "0"
+      "keyword": "메디힐 챔피언십 공동 선두",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "서강대 개인정보 18만건 유출",
-      "state": "n",
-      "change": "0"
+      "keyword": "박보검·션, 광복절 달렸다",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 8,
-      "keyword": "8.15 자주평화대회 본대회",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 9,
-      "keyword": "회장님 한강 한남동",
+      "keyword": "박근혜도 서강대 유출",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "정부, 日 야스쿠니 참배 개탄",
+      "state": "-",
+      "change": "3"
+    },
+    {
       "rank": 10,
-      "keyword": "호남 없는 나라 없다 호소",
+      "keyword": "야구인 조문 행렬",
       "state": "n",
       "change": "0"
     }
