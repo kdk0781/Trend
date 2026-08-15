@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-15T05:37:08.501Z",
+  "updatedAt": "2026-08-15T05:56:33.609Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "마도식",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
       "keyword": "민생지원금",
       "traffic": "20000+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "플로레스 섬",
-      "traffic": "1000+"
+      "traffic": "2000+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "이인권",
       "traffic": "5000+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "하이마트",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "페라리",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "sl vs ind",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "삼성sdi",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "서강대",
       "traffic": "200+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "백두산",
       "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "하객",
-      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "서강대 18만 개인정보 유출",
+      "keyword": "서강대 18만건 유출",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "제81주년 광복절 기념",
-      "state": "s",
+      "keyword": "타구에 맞은 NC 임지민 수술 예정",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "임지민 타구 맞아 수술 예정",
-      "state": "s",
+      "keyword": "광복절 기념 타종행사",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "박지윤, 광복절 미스터 션샤인 추천",
-      "state": "s",
-      "change": "0"
+      "keyword": "빽가, 독립운동가 후손 고백",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "마도식 별세 82세",
-      "state": "s",
-      "change": "0"
+      "keyword": "마도식 배우",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "이석규 애국지사 영현",
+      "keyword": "이정후 3경기 무안타",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "빽가, 독립운동가 후손 고백",
+      "keyword": "백인천 감독 추모",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "다카이치, 패전일 반성 안 해",
+      "keyword": "다카이치, 추도사 반성 안 해",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이인권♥최정윤 잘 만나고 있어요",
+      "keyword": "인도네시아 7.7 강진 쓰나미 경보",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "리사, 블랙핑크 10주년 논란 사과",
-      "state": "+",
-      "change": "2"
+      "keyword": "시진핑, 李대통령 축전",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
