@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-15T15:51:47.075Z",
+  "updatedAt": "2026-08-15T16:13:55.115Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "มิลาน พบ แมนยู",
+      "keyword": "송가인",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "milan vs man united",
-      "traffic": "1000+"
+      "keyword": "가출",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "milan đấu với man utd",
-      "traffic": "200+"
+      "keyword": "조규성",
+      "traffic": "100+"
     },
     {
       "rank": 4,
+      "keyword": "fotmob",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "มิลาน พบ แมนยู",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "milan vs man united",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "milan đấu với man utd",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
       "keyword": "나상도",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "keyword": "그래미 어워드",
       "traffic": "200+"
     },
     {
-      "rank": 6,
-      "keyword": "밀란 대 맨유",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "재벌형사",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "1237 회 로또 당첨 번호",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "첼시",
-      "traffic": "1000+"
-    },
-    {
       "rank": 10,
-      "keyword": "chelsea",
-      "traffic": "500+"
+      "keyword": "밀란 대 맨유",
+      "traffic": "20000+"
     }
   ],
   "domestic": [
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "LG 새 투수 존 케네디",
-      "state": "s",
+      "keyword": "LG 새 아쿼 존 케네디",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "장동혁, 참정권 집회 참석",
+      "keyword": "장동혁 대표 참정권 수호 집회 참석",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "하영 논란 비통한 후손",
+      "keyword": "하영 논란, 내 가족의 슬픔",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "션, 광복절 81.5KM 완주",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "윤진서 요가원 차렸다",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "양창섭 헤드샷 퇴장 극복",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "박선원 최고위원 1위",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "박보검, 태극기 달고 달리다",
+      "keyword": "윤진서 요가원 오픈",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "션, 광복절 81.5KM 완주",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "양창섭 헤드샷 퇴장 극복",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "박선원 최고위원 1위",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "한국 농구 20점 완패",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "한국 남자농구 20점 대패",
+      "keyword": "로또 1등 23명 12억 당첨",
       "state": "n",
       "change": "0"
     }
