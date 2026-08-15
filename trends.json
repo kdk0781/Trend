@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T18:16:16.768Z",
+  "updatedAt": "2026-08-15T18:48:45.650Z",
   "google": [
     {
       "rank": 1,
@@ -23,28 +23,28 @@
     },
     {
       "rank": 5,
-      "keyword": "가출",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
       "keyword": "조규성",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "keyword": "fotmob",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "keyword": "มิลาน พบ แมนยู",
       "traffic": "500+"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "keyword": "milan vs man united",
       "traffic": "2000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "나상도",
+      "traffic": "200+"
     },
     {
       "rank": 10,
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "장동혁 투표권 집회 참석",
-      "state": "s",
-      "change": "0"
+      "keyword": "유부녀 킬러 드라마",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 3,
-      "keyword": "양창섭 헤드샷 퇴장 극복",
-      "state": "s",
+      "keyword": "윤진서 요가원 개업",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "빽가 독립운동가 후손 고백",
-      "state": "n",
-      "change": "0"
+      "keyword": "양창섭 헤드샷 퇴장 극복",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "광복절 20점 차 패배",
-      "state": "n",
-      "change": "0"
+      "keyword": "하영 논란에 비통한 곽민선",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 6,
-      "keyword": "유부녀 킬러 드라마",
+      "keyword": "곽범, 시술 중독 고백",
       "state": "-",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "고 백인천 감독 추모합니다",
-      "state": "s",
+      "keyword": "한국 농구 20점 차 패배",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "박선원 최민희 김용 1위 순위",
-      "state": "n",
-      "change": "0"
+      "keyword": "사랑이 온다, 배정남과의 만남",
+      "state": "+",
+      "change": "14"
     },
     {
       "rank": 9,
-      "keyword": "리센느 소고기 가격부위 상관없어",
+      "keyword": "로또 1237회 1등 23명 12억씩",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "로또 1등 23명 12억 당첨",
-      "state": "-",
-      "change": "1"
+      "keyword": "리센느, 소고기로 인기 실감",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
