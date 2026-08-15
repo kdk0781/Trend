@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-08-15T21:00:12.664Z",
+  "updatedAt": "2026-08-15T21:25:47.335Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "로또1237회당첨번호",
+      "keyword": "원자력 잠수함",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "부채 탕감",
-      "traffic": "100+"
+      "keyword": "노화",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "어선",
-      "traffic": "100+"
+      "keyword": "로또1237회당첨번호",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "증여",
+      "keyword": "부채 탕감",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "벨기에",
+      "keyword": "어선",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "이병태",
-      "traffic": "200+"
+      "keyword": "증여",
+      "traffic": "500+"
     },
     {
       "rank": 7,
+      "keyword": "벨기에",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "이병태",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
       "keyword": "황정음",
       "traffic": "2000+"
     },
     {
-      "rank": 8,
-      "keyword": "토트넘",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "상장",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "송가인",
+      "keyword": "토트넘",
       "traffic": "1000+"
     }
   ],
@@ -56,62 +56,62 @@
     {
       "rank": 1,
       "keyword": "유부녀 킬러 드라마",
-      "state": "+",
-      "change": "3"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "윤진서 요가원 개업",
-      "state": "n",
+      "keyword": "하영, 촬영 중단하며 눈물 흘려",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "하영, 눈물 흘리며 촬영 중단",
-      "state": "+",
-      "change": "2"
+      "keyword": "2026년 8월 16일 운세",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "한국남자농구 20점차 대패",
-      "state": "n",
-      "change": "0"
+      "keyword": "구자욱 5타점, 삼성 3연승!",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "2026년 8월 16일 운세",
+      "keyword": "강부자 뚜쟁이 억울해",
+      "state": "+",
+      "change": "5"
+    },
+    {
+      "rank": 6,
+      "keyword": "사랑이 온다, 배정남과의 만남",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "오싹한 연애",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "정성호 친일재산 최소 환수",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "곽범, 성형 시술 중독 고백",
+      "rank": 9,
+      "keyword": "곽범 시술 중독 고백",
       "state": "-",
       "change": "3"
     },
     {
-      "rank": 7,
-      "keyword": "사랑이 온다, 배정남 만남의 이유",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 8,
-      "keyword": "오싹한 연애",
-      "state": "+",
-      "change": "10"
-    },
-    {
-      "rank": 9,
-      "keyword": "이스라엘 공격 레바논 11명 사망",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 10,
-      "keyword": "송민규, 서울 대전 역전승!",
-      "state": "-",
-      "change": "1"
+      "keyword": "버지니아 총격 5명 부상",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
