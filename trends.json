@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-15T16:13:55.115Z",
+  "updatedAt": "2026-08-15T16:42:24.660Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "송가인",
-      "traffic": "500+"
+      "keyword": "상장",
+      "traffic": "200+"
     },
     {
       "rank": 2,
+      "keyword": "송가인",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
       "keyword": "가출",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "조규성",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "fotmob",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "มิลาน พบ แมนยู",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "milan vs man united",
       "traffic": "2000+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "milan đấu với man utd",
       "traffic": "500+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "나상도",
       "traffic": "200+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "그래미 어워드",
       "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "밀란 대 맨유",
-      "traffic": "20000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 호남 과반 승리",
+      "keyword": "김민석, 호남 과반 승리",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "LG 새 아쿼 존 케네디",
-      "state": "n",
+      "keyword": "장동혁, 참정권 수호 집회 참석",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "장동혁 대표 참정권 수호 집회 참석",
+      "keyword": "양창섭 퇴장 악재 극복",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "하영 논란, 내 가족의 슬픔",
+      "keyword": "윤진서 요가원 개업",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "윤진서 요가원 오픈",
+      "keyword": "션의 81.5KM 광복절 러닝",
       "state": "+",
-      "change": "1"
+      "change": "10"
     },
     {
       "rank": 6,
-      "keyword": "션, 광복절 81.5KM 완주",
+      "keyword": "광복절 20점 차 패배",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "하영 논란과 비통함",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "양창섭 헤드샷 퇴장 극복",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 8,
-      "keyword": "박선원 최고위원 1위",
-      "state": "s",
-      "change": "0"
+      "keyword": "고 백인천 감독 추모합니다",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 9,
-      "keyword": "한국 농구 20점 완패",
+      "keyword": "사랑이 시작됐다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "로또 1등 23명 12억 당첨",
-      "state": "n",
-      "change": "0"
+      "keyword": "로또 1등 23명 12억",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
