@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-15T04:14:06.829Z",
+  "updatedAt": "2026-08-15T04:48:26.551Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "하객",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "티웨이항공",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "온유",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "최태원",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
       "keyword": "영웅",
       "traffic": "200+"
     },
     {
-      "rank": 2,
-      "keyword": "최태원",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
+      "rank": 6,
       "keyword": "이슬람 마카체프",
       "traffic": "200+"
     },
     {
-      "rank": 4,
-      "keyword": "결혼식",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
+      "rank": 7,
       "keyword": "주거",
       "traffic": "20000+"
     },
     {
-      "rank": 6,
-      "keyword": "이천수",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "유병재",
-      "traffic": "200+"
-    },
-    {
       "rank": 8,
-      "keyword": "도시 재개발",
-      "traffic": "200+"
+      "keyword": "이천수",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "퇴직",
-      "traffic": "200+"
+      "keyword": "유병재",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "여한구",
-      "traffic": "500+"
+      "keyword": "도시 재개발",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 부부 만세삼창",
-      "state": "n",
-      "change": "0"
+      "keyword": "서강대 18만 개인정보 유출",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 2,
-      "keyword": "최혜진, 포틀랜드 2위 유지",
-      "state": "+",
-      "change": "8"
+      "keyword": "제81주년 광복절 경축식",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이석규 애국지사 영결식",
+      "keyword": "박지윤 미스터 션샤인 추천",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이인권♥최정윤 열애 중입니다",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "블랙핑크 10주년 사과",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 6,
-      "keyword": "송성문 견제사 6연승",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "한국 여자 배구 8강 탈락",
+      "keyword": "최혜진 포틀랜드 2위 유지",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "이석규 애국지사 영결식",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "마도식 배우 별세",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 7,
+      "keyword": "리사, 블랙핑크 10주년 사과",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "인도네시아 7.7 강진 발생",
+      "keyword": "하영 팬 일본 IP 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "원로배우 마도식 별세",
+      "keyword": "U-17 여자배구, 튀르키예에 패배",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "여한구 통상교섭본부장 경질",
+      "keyword": "이인권 아나운서",
       "state": "-",
       "change": "5"
     }
