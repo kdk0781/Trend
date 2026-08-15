@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T14:27:01.889Z",
+  "updatedAt": "2026-08-15T14:46:47.976Z",
   "google": [
     {
       "rank": 1,
@@ -55,63 +55,63 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정청래, 호남 대패 수용",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "김민석, 호남에서 과반 승리",
+      "keyword": "정청래 겸허한 대패",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "김민석 호남서 과반",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 3,
-      "keyword": "박유나, 고윤 통해 배정남과 사랑이 온다",
-      "state": "-",
-      "change": "2"
+      "keyword": "남부 제주 최고 200㎜ 비",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "박선원, 與 최고위원 1위 등극",
-      "state": "n",
-      "change": "0"
+      "keyword": "그것이 알고 싶다",
+      "state": "+",
+      "change": "8"
     },
     {
       "rank": 5,
-      "keyword": "제주 200㎜ 비 소식",
+      "keyword": "오싹한 연애",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "끓는 물 부은 10대",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "장동혁 대표 참정권 수호 집회",
-      "state": "-",
-      "change": "2"
-    },
-    {
       "rank": 7,
-      "keyword": "오싹한 연애",
-      "state": "-",
-      "change": "1"
+      "keyword": "양창섭 헤드샷 퇴장 3연승",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 8,
-      "keyword": "로또 1등 23명 배출 판매점은?",
-      "state": "+",
-      "change": "1"
+      "keyword": "로또 1등 23명 배출점은?",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "독립운동가 후손 위해 기부",
+      "keyword": "한국농구, 광복절 20점차 참패",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "여자배구 동아시아선수권 결승행",
-      "state": "-",
-      "change": "1"
+      "keyword": "리센느 원이 보편적 인기",
+      "state": "+",
+      "change": "12"
     }
   ]
 }
