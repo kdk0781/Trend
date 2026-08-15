@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-14T23:54:48.847Z",
+  "updatedAt": "2026-08-15T00:45:34.476Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "두산에너빌리티",
-      "traffic": "2000+"
+      "keyword": "소방관",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "테슬라",
-      "traffic": "1000+"
+      "keyword": "장윤정",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "김지민",
-      "traffic": "1000+"
+      "keyword": "송도 럭스 오션 sk뷰",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "schd",
+      "keyword": "메이저 리그 사커",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "날씨",
-      "traffic": "500000+"
+      "keyword": "현대무벡스",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "thời tiết",
-      "traffic": "2000+"
+      "keyword": "이지혜",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "天气",
-      "traffic": "1000+"
+      "keyword": "두산에너빌리티",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "weather",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "погода",
+      "keyword": "테슬라",
       "traffic": "1000+"
     },
     {
+      "rank": 9,
+      "keyword": "김지민",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "avgo",
+      "keyword": "schd",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김정은, 광복 81주년 참배",
-      "state": "s",
-      "change": "0"
+      "keyword": "4할 타자 백인천 감독 별세",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 2,
-      "keyword": "하영 논란, 선대 과오 중요",
-      "state": "s",
-      "change": "0"
+      "keyword": "고이즈미 야스쿠니 참배",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 3,
-      "keyword": "트럼프 호르무즈 미국 영토 선언",
-      "state": "-",
-      "change": "1"
+      "keyword": "하영 증조부 친일 행적 논란",
+      "state": "+",
+      "change": "8"
     },
     {
       "rank": 4,
-      "keyword": "백인천 전 감독 별세",
+      "keyword": "트럼프 호르무즈 미국 영토 선언",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
       "keyword": "인도네시아 7.7 강진 발생",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "임신 14주 김지민 출산 예고",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "유부녀 킬러 시청률 상승",
+      "state": "-",
+      "change": "5"
+    },
+    {
       "rank": 7,
-      "keyword": "김상혁, 연수입 2억 5000만 원",
+      "keyword": "전남친에 사과 미안해",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "나 혼자 산다",
-      "state": "+",
-      "change": "99"
-    },
-    {
-      "rank": 9,
-      "keyword": "오디세이 300만 돌파",
+      "keyword": "이강인 마르세유 환상",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "81주년 광복절, 국민 주권 지킬 것",
+      "state": "+",
+      "change": "6"
+    },
+    {
       "rank": 10,
-      "keyword": "박경혜 6평 원룸 매물 부족",
+      "keyword": "사망 운전자의 의혹",
       "state": "n",
       "change": "0"
     }
