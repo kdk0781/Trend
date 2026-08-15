@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-15T04:48:26.551Z",
+  "updatedAt": "2026-08-15T05:10:05.270Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "sl vs ind",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
+      "keyword": "삼성sdi",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "서강대",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
       "keyword": "하객",
       "traffic": "1000+"
     },
     {
-      "rank": 2,
+      "rank": 5,
       "keyword": "티웨이항공",
       "traffic": "500+"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "keyword": "온유",
       "traffic": "1000+"
     },
     {
-      "rank": 4,
+      "rank": 7,
+      "keyword": "금융감독원",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
       "keyword": "최태원",
       "traffic": "2000+"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "keyword": "영웅",
       "traffic": "200+"
     },
     {
-      "rank": 6,
-      "keyword": "이슬람 마카체프",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "주거",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "이천수",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "유병재",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "도시 재개발",
-      "traffic": "200+"
+      "keyword": "결혼식",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "서강대 18만 개인정보 유출",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 2,
-      "keyword": "제81주년 광복절 경축식",
+      "keyword": "서강대 개인정보 18만건 유출",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "제81주년 광복절 기념",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 3,
-      "keyword": "박지윤 미스터 션샤인 추천",
+      "keyword": "임지민, 턱뼈 수술 예정",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "최혜진 포틀랜드 2위 유지",
+      "keyword": "박지윤, 광복절 미스터 션샤인 추천",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이석규 애국지사 영결식",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
       "keyword": "마도식 배우 별세",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 7,
-      "keyword": "리사, 블랙핑크 10주년 사과",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "이석규 애국지사 영결식",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "이인권 아나운서",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 8,
-      "keyword": "하영 팬 일본 IP 논란",
+      "keyword": "U-17 여자배구 8강 진출!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "U-17 여자배구, 튀르키예에 패배",
+      "keyword": "인도네시아 7.7 강진 쓰나미주요정보",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이인권 아나운서",
-      "state": "-",
-      "change": "5"
+      "keyword": "일본 IP 광복절 소동",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
