@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-08-15T22:41:39.668Z",
+  "updatedAt": "2026-08-15T22:59:25.750Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "한화 이글스",
+      "traffic": "20000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "로스앤젤레스 fc",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "황인범",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
       "keyword": "업비트",
       "traffic": "500+"
     },
     {
-      "rank": 2,
+      "rank": 5,
       "keyword": "순찰",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "keyword": "옷",
       "traffic": "1000+"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "keyword": "송일국",
-      "traffic": "2000+"
+      "traffic": "5000+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "김원효",
       "traffic": "100+"
     },
     {
-      "rank": 6,
-      "keyword": "부부",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "국가유공자",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "습관",
-      "traffic": "5000+"
-    },
-    {
       "rank": 9,
-      "keyword": "이재명",
+      "keyword": "부부",
       "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "삼성중공업",
+      "keyword": "국가유공자",
       "traffic": "200+"
     }
   ],
