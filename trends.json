@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-15T05:56:33.609Z",
+  "updatedAt": "2026-08-15T06:29:41.792Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "옥순이",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
+      "keyword": "추석",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "발렌시아 cf",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "야마모토 요시노부",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "ind vs sl",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "한남동",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
       "keyword": "마도식",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 8,
       "keyword": "민생지원금",
       "traffic": "20000+"
     },
     {
-      "rank": 3,
+      "rank": 9,
       "keyword": "플로레스 섬",
       "traffic": "2000+"
     },
     {
-      "rank": 4,
+      "rank": 10,
       "keyword": "이인권",
       "traffic": "5000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "하이마트",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "페라리",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "sl vs ind",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "삼성sdi",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "서강대",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "백두산",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "서강대 18만건 유출",
+      "keyword": "서강대 개인정보 18만건 유출",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "타구에 맞은 NC 임지민 수술 예정",
-      "state": "n",
-      "change": "0"
+      "keyword": "타구 맞은 NC 임지민 내주 수술",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 3,
-      "keyword": "광복절 기념 타종행사",
+      "keyword": "광복절 기부 잊지 않기",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "빽가, 독립운동가 후손 고백",
-      "state": "+",
-      "change": "3"
+      "keyword": "인도네시아 7.7 강진 20명 사망",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "마도식 배우",
+      "keyword": "이정후 3경기 무안타",
       "state": "-",
       "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "이정후 3경기 무안타",
-      "state": "n",
-      "change": "0"
+      "keyword": "빽가, 독립운동가 후손 고백",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "백인천 감독 추모",
-      "state": "n",
-      "change": "0"
+      "keyword": "마도식 배우",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "다카이치, 추도사 반성 안 해",
+      "keyword": "민주노총 반미 8.15전국노동자대회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "인도네시아 7.7 강진 쓰나미 경보",
-      "state": "n",
+      "keyword": "다카이치 패전일 반성 없음",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "시진핑, 李대통령 축전",
-      "state": "n",
-      "change": "0"
+      "keyword": "시진핑, 이대통령에 축전",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
