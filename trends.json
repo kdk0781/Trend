@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-15T22:18:28.483Z",
+  "updatedAt": "2026-08-15T22:41:39.668Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "옷",
+      "keyword": "업비트",
       "traffic": "500+"
     },
     {
       "rank": 2,
+      "keyword": "순찰",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "옷",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
       "keyword": "송일국",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "김원효",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "부부",
       "traffic": "2000+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "국가유공자",
       "traffic": "200+"
     },
     {
-      "rank": 6,
-      "keyword": "습관",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "이재명",
-      "traffic": "2000+"
-    },
-    {
       "rank": 8,
-      "keyword": "삼성중공업",
-      "traffic": "200+"
+      "keyword": "습관",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "원자력 잠수함",
-      "traffic": "200+"
+      "keyword": "이재명",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "노화",
-      "traffic": "500+"
+      "keyword": "삼성중공업",
+      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -62,54 +62,54 @@
     {
       "rank": 2,
       "keyword": "2026년 8월 16일 운세",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "하영 논란 조심하자",
-      "state": "-",
-      "change": "1"
+      "keyword": "하영, 촬영 중단 눈물 흘리며",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "강부자 뚜쟁이 루머 피해",
-      "state": "+",
-      "change": "1"
+      "keyword": "강부자 뚜쟁이 루머에",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "구자욱 5타점 삼성 3연승",
-      "state": "-",
-      "change": "1"
+      "keyword": "트럼프 김정은 판문점 사진",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "트럼프 김정은 판문점 사진 공유",
-      "state": "+",
-      "change": "3"
+      "keyword": "사랑이 온다, 주도권 빼앗긴 사연",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "사랑의 주도권과 당혹감",
-      "state": "-",
-      "change": "1"
+      "keyword": "오싹한 연애",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "홍상수 김민희 최우수연기상",
+      "keyword": "이장우 94년생 소개팅 손사래",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "버지니아 총격 5명 부상",
-      "state": "+",
-      "change": "1"
+      "keyword": "소진♥이동하 결혼 비용 절감",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "오싹한 연애",
+      "keyword": "정청래, 호남 선택 수용하자",
       "state": "-",
       "change": "2"
     }
