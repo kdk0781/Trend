@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-08-15T23:22:32.186Z",
+  "updatedAt": "2026-08-15T23:41:37.038Z",
   "google": [
     {
       "rank": 1,
       "keyword": "시바이누코인",
-      "traffic": "100+"
+      "traffic": "200+"
     },
     {
       "rank": 2,
       "keyword": "박선원",
-      "traffic": "1000+"
+      "traffic": "200+"
     },
     {
       "rank": 3,
@@ -38,18 +38,18 @@
     },
     {
       "rank": 8,
+      "keyword": "동굴",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
       "keyword": "랄랄",
       "traffic": "500+"
     },
     {
-      "rank": 9,
-      "keyword": "업비트",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "순찰",
-      "traffic": "100+"
+      "keyword": "업비트",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
