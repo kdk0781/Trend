@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-15T19:50:19.346Z",
+  "updatedAt": "2026-08-15T20:13:28.275Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "증여",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
       "keyword": "벨기에",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "이병태",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "황정음",
       "traffic": "1000+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "토트넘",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "상장",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "송가인",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "조규성",
       "traffic": "100+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "fotmob",
       "traffic": "200+"
     },
     {
-      "rank": 9,
-      "keyword": "มิลาน พบ แมนยู",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "milan đấu với man utd",
+      "keyword": "มิลาน พบ แมนยู",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "1237회 로또 1등 12억 23명",
-      "state": "+",
-      "change": "5"
+      "keyword": "로또 1등 23명 12억씩",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "한국 농구 20점 완패",
+      "keyword": "광복절 20점 차 패배",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
       "keyword": "유부녀 킬러 드라마",
-      "state": "-",
-      "change": "2"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "하영민, KT 상대 2연승 계단 착수",
-      "state": "s",
-      "change": "0"
+      "keyword": "곽범, 시술 중독 고백",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "곽범, 시술 중독 인정",
-      "state": "s",
-      "change": "0"
+      "keyword": "친일 논란 하영, 촬영 중단 눈물",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "김정은, 광복절에 참배",
-      "state": "-",
-      "change": "3"
+      "keyword": "김민석, 호남서 승리",
+      "state": "+",
+      "change": "11"
     },
     {
       "rank": 7,
-      "keyword": "김도영 35호포 KIA 승리",
-      "state": "+",
-      "change": "2"
+      "keyword": "김정은, 광복절 참배",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "2026년 8월 16일 운세",
-      "state": "n",
-      "change": "0"
+      "keyword": "강부자 뚜쟁이 루머 피해",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "강부자 뚜쟁이 루머로 고통",
-      "state": "n",
-      "change": "0"
+      "keyword": "KIA 김도영 35호포",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "사랑이 온다, 배정남 당혹!",
+      "keyword": "2026년 8월 16일 운세",
       "state": "-",
       "change": "2"
     }
