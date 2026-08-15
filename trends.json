@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-15T02:04:00.706Z",
+  "updatedAt": "2026-08-15T03:00:10.893Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김우빈",
+      "keyword": "퇴직",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "ufc 330",
-      "traffic": "100+"
+      "keyword": "여한구",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "sbs",
-      "traffic": "200+"
+      "keyword": "australia vs bangladesh",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "인도네시아",
-      "traffic": "500+"
+      "keyword": "이종찬",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "샌 디스크",
-      "traffic": "500+"
+      "keyword": "빌 게이츠",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "jason arday",
-      "traffic": "100+"
+      "keyword": "하하",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "미래에셋",
-      "traffic": "100+"
+      "keyword": "ufc 330",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "변광용",
+      "keyword": "김우빈",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "광복",
+      "keyword": "sbs",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "소방관",
+      "keyword": "인도네시아",
       "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명, 광복절 경축사",
-      "state": "n",
+      "keyword": "대통령 제81주년 광복절",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "4할 타자 백인천 별세",
-      "state": "-",
-      "change": "1"
+      "keyword": "여한구 통상교섭본부장 경질",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 3,
-      "keyword": "유부녀 킬러 시청률 상승",
+      "keyword": "유부녀 킬러 최고 시청률 11.4%",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "황희찬 챔피언십 개막전",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "다카이치 야스쿠니 공물 참배",
-      "state": "-",
-      "change": "2"
-    },
-    {
       "rank": 5,
-      "keyword": "인도네시아 7.7 강진·쓰나미 경보",
+      "keyword": "이인권 최정윤 열애 발표",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "여한구 통상교섭본부장 직권면직",
-      "state": "n",
-      "change": "0"
+      "keyword": "다카이치 야스쿠니 공물 참배",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "임성재, PO 2R 공동 2위",
+      "keyword": "인도네시아 7.7 강진 발생",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이종찬 광복회장 기념사",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "블랙핑크 10주년 사과 논란",
+      "keyword": "환희, 이장우 아내 친구와 소개팅?",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "임성재 2R 공동 2위",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "트럼프 호르무즈, 美영토 선언",
+      "keyword": "블랙핑크 10주년 리사 사과",
       "state": "n",
       "change": "0"
     }
