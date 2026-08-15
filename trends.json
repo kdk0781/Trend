@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-15T21:42:42.184Z",
+  "updatedAt": "2026-08-15T21:57:33.369Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "습관",
+      "keyword": "부부",
       "traffic": "1000+"
     },
     {
       "rank": 2,
+      "keyword": "국가유공자",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "습관",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
       "keyword": "이재명",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
-      "keyword": "삼성중공업",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "어머니",
-      "traffic": "500+"
-    },
-    {
       "rank": 5,
-      "keyword": "원자력 잠수함",
+      "keyword": "삼성중공업",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "노화",
-      "traffic": "200+"
+      "keyword": "어머니",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "로또1237회당첨번호",
+      "keyword": "원자력 잠수함",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "부채 탕감",
+      "keyword": "노화",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "어선",
+      "keyword": "로또1237회당첨번호",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "증여",
-      "traffic": "500+"
+      "keyword": "부채 탕감",
+      "traffic": "200+"
     }
   ],
   "domestic": [
