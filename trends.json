@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-15T22:59:25.750Z",
+  "updatedAt": "2026-08-15T23:22:32.186Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "시바이누코인",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
+      "keyword": "박선원",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "스포츠조선",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "대구 도시철도 1호선",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "로스앤젤레스 fc",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
       "keyword": "한화 이글스",
       "traffic": "20000+"
     },
     {
-      "rank": 2,
-      "keyword": "로스앤젤레스 fc",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
+      "rank": 7,
       "keyword": "황인범",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 8,
+      "keyword": "랄랄",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
       "keyword": "업비트",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 10,
       "keyword": "순찰",
       "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "옷",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "송일국",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "김원효",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "부부",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "국가유공자",
-      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "2026년 8월 16일 운세",
+      "keyword": "하영, 눈물 흘리며 촬영 중단",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "하영, 촬영 중단 눈물 흘리며",
-      "state": "s",
+      "keyword": "팔라다호 북원산 입항",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "강부자 뚜쟁이 루머에",
+      "keyword": "강부자 뚜쟁이 루머 반박",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "트럼프 김정은 판문점 사진",
-      "state": "s",
-      "change": "0"
+      "keyword": "사랑이 온다 주도권 빼앗긴 사연?",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "사랑이 온다, 주도권 빼앗긴 사연",
-      "state": "s",
-      "change": "0"
+      "keyword": "오싹한 연애",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "오싹한 연애",
+      "keyword": "엄마 가출 막은 10대",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "이장우 94년생 소개팅 손사래",
+      "keyword": "이요원 자녀 역사교육 주1회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "소진♥이동하 결혼 비용 절감",
+      "keyword": "출연료 독립유공자 기부",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "정청래, 호남 선택 수용하자",
-      "state": "-",
-      "change": "2"
+      "keyword": "백인천 조문 미비",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
