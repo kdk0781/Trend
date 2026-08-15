@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-15T13:44:51.653Z",
+  "updatedAt": "2026-08-15T13:59:54.328Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "엘니뇨",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
       "keyword": "테니스",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "블랙록",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "내일 날씨",
       "traffic": "500000+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "헤수스 카사스",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "최형우",
       "traffic": "100+"
     },
     {
-      "rank": 6,
-      "keyword": "thời tiết ngày mai",
-      "traffic": "5000+"
-    },
-    {
       "rank": 7,
-      "keyword": "티 웨이 홀딩스",
+      "keyword": "thời tiết ngày mai",
       "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "cuaca besok",
-      "traffic": "500+"
+      "keyword": "미스 인도네시아",
+      "traffic": "10000+"
     },
     {
       "rank": 9,
-      "keyword": "서경덕",
-      "traffic": "200+"
+      "keyword": "티 웨이 홀딩스",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "한소희",
-      "traffic": "200+"
+      "keyword": "cuaca besok",
+      "traffic": "500+"
     }
   ],
   "domestic": [
