@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-15T19:31:02.059Z",
+  "updatedAt": "2026-08-15T19:50:19.346Z",
   "google": [
     {
       "rank": 1,
       "keyword": "벨기에",
-      "traffic": "100+"
+      "traffic": "200+"
     },
     {
       "rank": 2,
@@ -48,70 +48,70 @@
     },
     {
       "rank": 10,
-      "keyword": "milan vs man united",
-      "traffic": "2000+"
+      "keyword": "milan đấu với man utd",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "유부녀 킬러 드라마",
+      "keyword": "1237회 로또 1등 12억 23명",
       "state": "+",
-      "change": "1"
+      "change": "5"
     },
     {
       "rank": 2,
-      "keyword": "김민석 호남과반 승리",
+      "keyword": "한국 농구 20점 완패",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "광복절 20점 차 패배",
-      "state": "n",
-      "change": "0"
+      "keyword": "유부녀 킬러 드라마",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "하영민, KT 상대로 2전 2승!",
-      "state": "+",
-      "change": "1"
+      "keyword": "하영민, KT 상대 2연승 계단 착수",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "곽범, 시술 중독 고백",
-      "state": "+",
-      "change": "1"
+      "keyword": "곽범, 시술 중독 인정",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "1237회 로또 1등 23명 각 12억",
-      "state": "+",
-      "change": "1"
+      "keyword": "김정은, 광복절에 참배",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "가격·부위 무관 소고기",
+      "keyword": "김도영 35호포 KIA 승리",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "2026년 8월 16일 운세",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "박유나, 고윤 소개로 배정남과 사랑 이야기는?",
-      "state": "+",
-      "change": "4"
-    },
-    {
       "rank": 9,
-      "keyword": "김도영 35호포 포함 KIA 설욕",
-      "state": "+",
-      "change": "5"
+      "keyword": "강부자 뚜쟁이 루머로 고통",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "오싹한 연애",
-      "state": "s",
-      "change": "0"
+      "keyword": "사랑이 온다, 배정남 당혹!",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
