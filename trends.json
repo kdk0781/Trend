@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-15T20:40:21.098Z",
+  "updatedAt": "2026-08-15T21:00:12.664Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "로또1237회당첨번호",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
       "keyword": "부채 탕감",
       "traffic": "100+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "어선",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "증여",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "벨기에",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "이병태",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "황정음",
       "traffic": "2000+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "토트넘",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "상장",
       "traffic": "200+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "송가인",
       "traffic": "1000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "조규성",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "광복절 20점 차 패배",
-      "state": "n",
-      "change": "0"
+      "keyword": "유부녀 킬러 드라마",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 2,
-      "keyword": "로또 23명 12억 1등",
+      "keyword": "윤진서 요가원 개업",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "곽범, 시술 중독 인정",
+      "keyword": "하영, 눈물 흘리며 촬영 중단",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "유부녀 킬러 드라마",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "하영, 촬영 중단 눈물 흘리며.",
-      "state": "s",
+      "keyword": "한국남자농구 20점차 대패",
+      "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "keyword": "2026년 8월 16일 운세",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "곽범, 성형 시술 중독 고백",
+      "state": "-",
+      "change": "3"
+    },
+    {
       "rank": 7,
-      "keyword": "강부자 뚜쟁이 루머 억울",
+      "keyword": "사랑이 온다, 배정남 만남의 이유",
       "state": "+",
-      "change": "1"
+      "change": "6"
     },
     {
       "rank": 8,
-      "keyword": "이스라엘 레바논 11명 사망",
-      "state": "n",
-      "change": "0"
+      "keyword": "오싹한 연애",
+      "state": "+",
+      "change": "10"
     },
     {
       "rank": 9,
-      "keyword": "송민규 역전승 2골 1도움",
-      "state": "n",
-      "change": "0"
+      "keyword": "이스라엘 공격 레바논 11명 사망",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "구자욱 5타점 삼성, 3연승 질주",
-      "state": "n",
-      "change": "0"
+      "keyword": "송민규, 서울 대전 역전승!",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
