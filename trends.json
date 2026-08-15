@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-15T07:39:38.217Z",
+  "updatedAt": "2026-08-15T07:57:36.599Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "라면",
-      "traffic": "500+"
+      "keyword": "콜레스테롤",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "마도 식",
+      "keyword": "라면",
       "traffic": "1000+"
     },
     {
       "rank": 3,
+      "keyword": "마도 식",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
       "keyword": "대한민국 여자 배구 국가대표팀",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "달리기",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "통합특별시",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "미스터 시니스터",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "대한민국 과학기술정보통신부",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "옥순이",
       "traffic": "1000+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "추석",
       "traffic": "1000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "훈련기",
-      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "민주당 후보 정견 발표",
-      "state": "+",
-      "change": "1"
+      "keyword": "전남광주 합동연설회 발언자들",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "빽가, 독립운동가 후손 고백",
+      "keyword": "원로배우 마도식 별세 82세",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "인도네시아 7.7 강진 20명 사망",
-      "state": "+",
-      "change": "1"
+      "keyword": "7.7 강진 20명 사망",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이정후 3G 무안타",
-      "state": "-",
-      "change": "3"
+      "keyword": "정부, 야스쿠니 참배 개탄",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "마도식 82세 별세",
+      "keyword": "LG 케네디 영입",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "서강대 개인정보 18만건 유출",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "타구 맞은 NC 임지민 수술 예정",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "가비, 광복절 기부 815만원",
+      "keyword": "빽가, 독립운동가 후손 고백",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "반미 반전 자주 평화",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "서강대 18만건 개인정보 유출",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 10,
-      "keyword": "수갑 찬 12세 중학생 욕설",
+      "keyword": "박성광의 애틋한 심장병 3주째",
       "state": "n",
       "change": "0"
     }
