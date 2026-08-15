@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-15T08:26:04.489Z",
+  "updatedAt": "2026-08-15T08:52:55.936Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "도경완",
-      "traffic": "5000+"
+      "keyword": "lg 트윈스",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "세종대로",
+      "keyword": "광주광역시",
       "traffic": "200+"
     },
     {
       "rank": 3,
+      "keyword": "소진",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "독립운동가",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "도경완",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 6,
       "keyword": "로메로",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 7,
+      "keyword": "세종대로",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
       "keyword": "홍현희",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
-      "keyword": "위암",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
+      "rank": 9,
       "keyword": "대학",
       "traffic": "500+"
     },
     {
-      "rank": 7,
-      "keyword": "콜레스테롤",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "라면",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "마도 식",
-      "traffic": "2000+"
-    },
-    {
       "rank": 10,
-      "keyword": "대한민국 여자 배구 국가대표팀",
-      "traffic": "1000+"
+      "keyword": "위암",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정견 발표하는 민주당 후보들",
+      "keyword": "정부, 야스쿠니 참배 개탄",
       "state": "+",
       "change": "3"
     },
     {
       "rank": 2,
-      "keyword": "하영 증조모 일본 대장 딸들",
+      "keyword": "LG 존 케네디 영입",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "LG, 케네디 영입",
-      "state": "+",
-      "change": "1"
+      "keyword": "정견 발표하는 민주당 후보들",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "정부, 야스쿠니 참배에 개탄",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "8.15 광화문 국민대회",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 6,
-      "keyword": "마도식 82세 별세",
+      "keyword": "하영, 증조모 총독부 딸 의혹",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "keyword": "백인천 감독님을 추모합니다.",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
       "keyword": "전소민 동생 사업 실패",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "서강대 개인정보 유출 18만건",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "박성광 3주째 목욕 못해",
+      "keyword": "김민솔, 메디힐 챔피언십 2R 1위",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "윤가이 물 원샷 1L",
+      "keyword": "광복절 서울 대규모 집회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "걱정하네 돈 낭비라 할까봐",
+      "keyword": "빽가, 외증조부 자랑",
       "state": "n",
       "change": "0"
     }
