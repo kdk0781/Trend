@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-15T15:00:35.012Z",
+  "updatedAt": "2026-08-15T15:30:31.402Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "밀란 대 맨유",
-      "traffic": "10000+"
+      "keyword": "milan vs man united",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "재벌형사",
+      "keyword": "milan đấu với man utd",
       "traffic": "200+"
     },
     {
       "rank": 3,
+      "keyword": "나상도",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "그래미 어워드",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "밀란 대 맨유",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "재벌형사",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
       "keyword": "1237 회 로또 당첨 번호",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 8,
       "keyword": "첼시",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "keyword": "chelsea",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "엘니뇨",
       "traffic": "500+"
     },
     {
-      "rank": 7,
-      "keyword": "테니스",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "블랙록",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "내일 날씨",
-      "traffic": "500000+"
-    },
-    {
       "rank": 10,
-      "keyword": "헤수스 카사스",
-      "traffic": "100+"
+      "keyword": "엘니뇨",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정청래, 호남 선택 수용",
-      "state": "s",
+      "keyword": "김민석 호남 과반 승리",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "호남서 김민석 과반 승리",
+      "keyword": "LG 투수 존 케네디",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "그것이 알고 싶다",
-      "state": "+",
-      "change": "1"
+      "keyword": "장동혁 대표, 참정권 집회 참석",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "전국 남부 폭우 예보",
+      "keyword": "독립운동가 후손 곽민선 비통해",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "엄마 가출 막은 10대",
+      "keyword": "일본 야스쿠니 공물 개탄",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "로또 23명 1등 12억씩",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "한국 농구, 일본에 20점 차 패배",
+      "keyword": "메디힐 챔피언십 3R 공동선두",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "오싹한 연애",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 8,
-      "keyword": "양창섭 1회 퇴장",
-      "state": "-",
-      "change": "7"
+      "keyword": "전남 합동연설회 민주당 후보들",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "리센느 원 인기 실감",
-      "state": "+",
-      "change": "1"
+      "keyword": "양창섭 헤드샷 퇴장",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "오싹한 연애",
-      "state": "-",
-      "change": "5"
+      "keyword": "박보검, 태극기 달고 달렸다",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
