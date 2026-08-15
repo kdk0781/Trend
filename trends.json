@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-15T05:10:05.270Z",
+  "updatedAt": "2026-08-15T05:37:08.501Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "sl vs ind",
-      "traffic": "200+"
+      "keyword": "민생지원금",
+      "traffic": "20000+"
     },
     {
       "rank": 2,
-      "keyword": "삼성sdi",
+      "keyword": "플로레스 섬",
       "traffic": "1000+"
     },
     {
       "rank": 3,
+      "keyword": "이인권",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "하이마트",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "페라리",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "sl vs ind",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "삼성sdi",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
       "keyword": "서강대",
       "traffic": "200+"
     },
     {
-      "rank": 4,
-      "keyword": "하객",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "티웨이항공",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "온유",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "금융감독원",
+      "rank": 9,
+      "keyword": "백두산",
       "traffic": "100+"
     },
     {
-      "rank": 8,
-      "keyword": "최태원",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "영웅",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "결혼식",
-      "traffic": "5000+"
+      "keyword": "하객",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "서강대 개인정보 18만건 유출",
+      "keyword": "서강대 18만 개인정보 유출",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
       "keyword": "제81주년 광복절 기념",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "임지민, 턱뼈 수술 예정",
-      "state": "n",
+      "keyword": "임지민 타구 맞아 수술 예정",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
       "keyword": "박지윤, 광복절 미스터 션샤인 추천",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "마도식 배우 별세",
-      "state": "+",
-      "change": "1"
+      "keyword": "마도식 별세 82세",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "이석규 애국지사 영결식",
-      "state": "-",
-      "change": "1"
+      "keyword": "이석규 애국지사 영현",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "이인권 아나운서",
-      "state": "+",
-      "change": "3"
+      "keyword": "빽가, 독립운동가 후손 고백",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "U-17 여자배구 8강 진출!",
+      "keyword": "다카이치, 패전일 반성 안 해",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "인도네시아 7.7 강진 쓰나미주요정보",
+      "keyword": "이인권♥최정윤 잘 만나고 있어요",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "일본 IP 광복절 소동",
-      "state": "n",
-      "change": "0"
+      "keyword": "리사, 블랙핑크 10주년 논란 사과",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
