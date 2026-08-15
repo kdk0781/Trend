@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-15T03:43:51.510Z",
+  "updatedAt": "2026-08-15T04:14:06.829Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "최태원",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 2,
       "keyword": "영웅",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "최태원",
+      "traffic": "1000+"
+    },
+    {
       "rank": 3,
       "keyword": "이슬람 마카체프",
-      "traffic": "100+"
+      "traffic": "200+"
     },
     {
       "rank": 4,
@@ -55,63 +55,63 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 광복절 경축사",
-      "state": "s",
+      "keyword": "이재명 부부 만세삼창",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "황희찬 챔피언십 개막전",
+      "keyword": "최혜진, 포틀랜드 2위 유지",
       "state": "+",
-      "change": "1"
+      "change": "8"
     },
     {
       "rank": 3,
-      "keyword": "블랙핑크 10주년 리사 사과",
+      "keyword": "이석규 애국지사 영결식",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "친일 행위자 재산 환수하겠다",
+      "keyword": "이인권♥최정윤 열애 중입니다",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "블랙핑크 10주년 사과",
+      "state": "-",
+      "change": "4"
+    },
+    {
+      "rank": 6,
+      "keyword": "송성문 견제사 6연승",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "여한구 통상교섭본부장 경질",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 6,
-      "keyword": "이인권 최정윤 열애 중",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 7,
-      "keyword": "송성문 견제사 6연승",
-      "state": "s",
+      "keyword": "한국 여자 배구 8강 탈락",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "7.7 강진 쓰나미 경보",
+      "keyword": "인도네시아 7.7 강진 발생",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "대한독립 만세! 81주년",
+      "keyword": "원로배우 마도식 별세",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "최혜진 포틀랜드 2위 유지",
-      "state": "n",
-      "change": "0"
+      "keyword": "여한구 통상교섭본부장 경질",
+      "state": "-",
+      "change": "5"
     }
   ]
 }
