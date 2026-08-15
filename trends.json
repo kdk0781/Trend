@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T17:30:43.955Z",
+  "updatedAt": "2026-08-15T17:52:03.356Z",
   "google": [
     {
       "rank": 1,
@@ -55,25 +55,25 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 호남 승리",
+      "keyword": "김민석, 호남서 승리",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "참정권 수호 집회 참석한 장동혁",
+      "keyword": "장동혁, 참정권 수호 집회 참석",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "양창섭 헤드샷 퇴장 극복!",
+      "keyword": "양창섭 헤드샷 퇴장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "독립운동가 후손 기부",
+      "keyword": "독립운동가 후손 돕기",
       "state": "s",
       "change": "0"
     },
@@ -85,33 +85,33 @@
     },
     {
       "rank": 6,
-      "keyword": "20점 차 패배",
-      "state": "+",
-      "change": "1"
+      "keyword": "일본에 20점 차 완패",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
       "keyword": "고 백인천 감독 추모합니다",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "광복절 기념 참배 및 공개",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "박선원 1위 최민희 김용",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 9,
-      "keyword": "광복절 맞아 참배 활동",
-      "state": "n",
-      "change": "0"
+      "keyword": "로또 1등 23명 각 12억씩",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "윤진서 요가원 개업",
-      "state": "-",
-      "change": "4"
+      "keyword": "영국 19세 사이클 선수 사망",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
