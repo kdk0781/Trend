@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-15T16:42:24.660Z",
+  "updatedAt": "2026-08-15T17:01:17.971Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "상장",
-      "traffic": "200+"
+      "keyword": "황정음",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "송가인",
+      "keyword": "토트넘",
       "traffic": "1000+"
     },
     {
       "rank": 3,
+      "keyword": "상장",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "송가인",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
       "keyword": "가출",
       "traffic": "2000+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "조규성",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "fotmob",
-      "traffic": "100+"
+      "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "มิลาน พบ แมนยู",
       "traffic": "500+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "milan vs man united",
       "traffic": "2000+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "milan đấu với man utd",
       "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "나상도",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "그래미 어워드",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석, 호남 과반 승리",
+      "keyword": "김민석 과반 승리",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "장동혁, 참정권 수호 집회 참석",
+      "keyword": "장동혁 대표, 참정권 수호 집회 참석",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "양창섭 퇴장 악재 극복",
+      "keyword": "양창섭 헤드샷 퇴장 극복",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "윤진서 요가원 개업",
-      "state": "s",
+      "keyword": "독립운동가 후손 지원",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "션의 81.5KM 광복절 러닝",
-      "state": "+",
-      "change": "10"
+      "keyword": "유부녀 킬러 드라마",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "광복절 20점 차 패배",
-      "state": "n",
-      "change": "0"
+      "keyword": "윤진서 요가원 개업",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "하영 논란과 비통함",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "고 백인천 감독 추모합니다",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 9,
-      "keyword": "사랑이 시작됐다",
+      "keyword": "20점 차 패배",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "백인천 감독 추모합니다",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "박선원 1위 서미화 김용 최민희 순",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 10,
-      "keyword": "로또 1등 23명 12억",
-      "state": "-",
-      "change": "1"
+      "keyword": "로또 1등 23명 당첨",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
