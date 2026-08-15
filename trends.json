@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-15T13:15:35.333Z",
+  "updatedAt": "2026-08-15T13:44:51.653Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "블랙록",
-      "traffic": "1000+"
+      "keyword": "테니스",
+      "traffic": "200+"
     },
     {
       "rank": 2,
+      "keyword": "블랙록",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 3,
       "keyword": "내일 날씨",
       "traffic": "500000+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "헤수스 카사스",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "최형우",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "thời tiết ngày mai",
       "traffic": "5000+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "티 웨이 홀딩스",
       "traffic": "2000+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "cuaca besok",
       "traffic": "500+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "서경덕",
       "traffic": "200+"
     },
     {
-      "rank": 9,
-      "keyword": "한소희",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "딴지",
+      "keyword": "한소희",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "사랑이 오는 배정남 이야기",
+      "keyword": "정청래 호남 대패 수용",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김민석 호남 과반 압승",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "여자배구 동아시아선수권 결승행",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "리센느 원 인기 실감",
+      "keyword": "사랑이 온다: 당혹과 주도권",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "정청래 호남 선택 존중",
-      "state": "-",
-      "change": "4"
+      "rank": 3,
+      "keyword": "김민석, 호남서 과반 승리",
+      "state": "s",
+      "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "그것이 알고 싶다",
-      "state": "+",
+      "rank": 4,
+      "keyword": "전국 남부 제주 폭우와 천둥",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "장동혁, 참정권 집회 참석",
+      "state": "-",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "박선원, 최민희 제치고 1위.",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "오싹한 연애",
+      "keyword": "타구 직격 임지민 턱뼈 골절",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "1237회 로또 1등 23명 당첨",
-      "state": "n",
-      "change": "0"
+      "keyword": "백인천 감독 추모",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "싸이쇼 연기로 경기 중단",
+      "keyword": "로또 1등 12억 23명 배출",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김정은, 광복절 참배",
-      "state": "n",
-      "change": "0"
+      "keyword": "오싹한 연애",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
