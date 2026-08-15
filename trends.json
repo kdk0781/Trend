@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-15T08:52:55.936Z",
+  "updatedAt": "2026-08-15T09:17:58.874Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "lg 트윈스",
-      "traffic": "500+"
+      "keyword": "박현경",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "광주광역시",
-      "traffic": "200+"
+      "keyword": "리사",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
+      "keyword": "lg 트윈스",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "광주광역시",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
       "keyword": "소진",
       "traffic": "2000+"
     },
     {
-      "rank": 4,
-      "keyword": "독립운동가",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "도경완",
-      "traffic": "5000+"
-    },
-    {
       "rank": 6,
-      "keyword": "로메로",
+      "keyword": "독립운동가",
       "traffic": "200+"
     },
     {
       "rank": 7,
+      "keyword": "도경완",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "로메로",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
       "keyword": "세종대로",
       "traffic": "200+"
     },
     {
-      "rank": 8,
-      "keyword": "홍현희",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "대학",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "위암",
-      "traffic": "100+"
+      "keyword": "홍현희",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정부, 야스쿠니 참배 개탄",
+      "keyword": "LG 새 아쿼 존 케네디 영입",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "LG 존 케네디 영입",
+      "keyword": "전남광주 합동연설회 더불어민주당",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "정견 발표하는 민주당 후보들",
+      "keyword": "정부, 야스쿠니 참배에 항의",
       "state": "-",
       "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "하영, 증조모 총독부 딸 의혹",
-      "state": "n",
-      "change": "0"
+      "keyword": "백인천 추모 이승엽의 감사",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "백인천 감독님을 추모합니다.",
+      "keyword": "하영 증조모 대장 딸?",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "전소민 동생 사업 실패",
-      "state": "n",
-      "change": "0"
+      "keyword": "메디힐 챔피언십 선두 주자들",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "서강대 개인정보 유출 18만건",
+      "keyword": "8.15 자주평화대회 본대회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김민솔, 메디힐 챔피언십 2R 1위",
+      "keyword": "로메로, 아틀레티코 이적 확정",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "광복절 서울 대규모 집회",
+      "keyword": "서강대 18만건 유출, 박근혜 포함",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "빽가, 외증조부 자랑",
+      "keyword": "스트레이 키즈 초동 328만장",
       "state": "n",
       "change": "0"
     }
