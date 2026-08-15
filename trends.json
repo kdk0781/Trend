@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-15T21:25:47.335Z",
+  "updatedAt": "2026-08-15T21:42:42.184Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "습관",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "이재명",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "삼성중공업",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "어머니",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
       "keyword": "원자력 잠수함",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 6,
       "keyword": "노화",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 7,
       "keyword": "로또1237회당첨번호",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 8,
       "keyword": "부채 탕감",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "keyword": "어선",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 10,
       "keyword": "증여",
       "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "벨기에",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "이병태",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "황정음",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "토트넘",
-      "traffic": "1000+"
     }
   ],
   "domestic": [
@@ -61,7 +61,7 @@
     },
     {
       "rank": 2,
-      "keyword": "하영, 촬영 중단하며 눈물 흘려",
+      "keyword": "하영, 친일 논란에 촬영 중단",
       "state": "s",
       "change": "0"
     },
@@ -73,44 +73,44 @@
     },
     {
       "rank": 4,
-      "keyword": "구자욱 5타점, 삼성 3연승!",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "강부자 뚜쟁이 억울해",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 6,
-      "keyword": "사랑이 온다, 배정남과의 만남",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "오싹한 연애",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "정성호 친일재산 최소 환수",
+      "keyword": "구자욱 5타점 삼성 3연승",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "곽범 시술 중독 고백",
+      "rank": 5,
+      "keyword": "강부자 뚜쟁이 루머 억울해",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "사랑이 온다, 배정남 당혹!",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "홍상수 김민희 3관왕",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "오싹한 연애",
       "state": "-",
-      "change": "3"
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "트럼프, 김정은 판문점 사진 공유",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 10,
       "keyword": "버지니아 총격 5명 부상",
-      "state": "n",
+      "state": "s",
       "change": "0"
     }
   ]
