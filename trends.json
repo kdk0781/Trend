@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-15T09:17:58.874Z",
+  "updatedAt": "2026-08-15T09:43:33.241Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "박현경",
+      "keyword": "lg전자",
       "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "리사",
-      "traffic": "2000+"
+      "keyword": "학원",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "lg 트윈스",
-      "traffic": "1000+"
+      "keyword": "박경혜",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "광주광역시",
-      "traffic": "500+"
+      "keyword": "타짜",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "소진",
-      "traffic": "2000+"
+      "keyword": "추가경정예산",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "독립운동가",
-      "traffic": "200+"
+      "keyword": "롯데손해보험",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "도경완",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "로메로",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "세종대로",
+      "keyword": "메르세데스-벤츠 e 클래스",
       "traffic": "200+"
     },
     {
-      "rank": 10,
-      "keyword": "홍현희",
+      "rank": 8,
+      "keyword": "카자흐스탄",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
+      "keyword": "박현경",
       "traffic": "2000+"
+    },
+    {
+      "rank": 10,
+      "keyword": "이혼 소송",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "LG 새 아쿼 존 케네디 영입",
-      "state": "+",
-      "change": "1"
+      "keyword": "LG 새 투수 존 케네디",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "전남광주 합동연설회 더불어민주당",
+      "keyword": "더불어민주당 대표 후보 연설",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "정부, 야스쿠니 참배에 항의",
-      "state": "-",
-      "change": "2"
+      "keyword": "빽가, 독립운동가 후손 고백",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "백인천 추모 이승엽의 감사",
+      "keyword": "유부녀 킬러 드라마",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "하영 증조모 대장 딸?",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "메디힐 챔피언십 선두 주자들",
+      "keyword": "메디힐 한국일보 챔피언십",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 6,
+      "keyword": "정부, 日 야스쿠니 참배 개탄",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "8.15 자주평화대회 본대회",
+      "keyword": "서강대 개인정보 18만건 유출",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "로메로, 아틀레티코 이적 확정",
-      "state": "n",
-      "change": "0"
+      "keyword": "8.15 자주평화대회 본대회",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "서강대 18만건 유출, 박근혜 포함",
+      "keyword": "회장님 한강 한남동",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "스트레이 키즈 초동 328만장",
+      "keyword": "호남 없는 나라 없다 호소",
       "state": "n",
       "change": "0"
     }
