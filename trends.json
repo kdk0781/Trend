@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-16T17:46:13.088Z",
+  "updatedAt": "2026-08-16T17:57:57.981Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "liverpool vs como",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
       "keyword": "엘링 홀란",
       "traffic": "500+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "레알마드리드",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "schalke vs real madrid",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "기소",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "맷 데이먼",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "바르셀로나",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "프리미어리그",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "삼전 닉스",
       "traffic": "2000+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "무한도전",
       "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "아스날",
-      "traffic": "1000+"
     }
   ],
   "domestic": [
