@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-08-16T17:01:31.157Z",
+  "updatedAt": "2026-08-16T17:29:17.690Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "엘링 홀란",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
       "keyword": "레알마드리드",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "schalke vs real madrid",
       "traffic": "500+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "기소",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "맷 데이먼",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "바르셀로나",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "프리미어리그",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "삼전 닉스",
       "traffic": "2000+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "무한도전",
       "traffic": "200+"
     },
     {
-      "rank": 9,
-      "keyword": "아스날",
-      "traffic": "1000+"
-    },
-    {
       "rank": 10,
-      "keyword": "채령",
+      "keyword": "아스날",
       "traffic": "1000+"
     }
   ],
@@ -67,7 +67,7 @@
     },
     {
       "rank": 3,
-      "keyword": "이숭용 감독과 선수들",
+      "keyword": "이숭용 감독, 마드리스 고생!",
       "state": "s",
       "change": "0"
     },
@@ -79,37 +79,37 @@
     },
     {
       "rank": 5,
-      "keyword": "변중석 여사 19주기 참석한 현대가",
+      "keyword": "변중석 여사 19주기 범현대가 모임",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "주니, 오싹한 연애 OST 마이 걸 발매",
-      "state": "s",
+      "keyword": "린 모, 이수와 이혼 심경",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "린, 이수와 이혼 고백",
+      "keyword": "삼청로 지반 침하 통제",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "삼청로 지반 침하 통제",
-      "state": "+",
+      "keyword": "주니, 오싹한 연애 OST 발매",
+      "state": "-",
       "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "서교림 역전승 시즌 3승",
-      "state": "-",
-      "change": "4"
+      "keyword": "구글 449개 유튜브 폐쇄",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "구글, 유튜브 449개 폐쇄",
+      "keyword": "아빌라 7이닝 무실점 승리",
       "state": "n",
       "change": "0"
     }
