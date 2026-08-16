@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-16T21:57:12.812Z",
+  "updatedAt": "2026-08-16T22:17:20.798Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "lg그룹",
-      "traffic": "200+"
+      "keyword": "혈당",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "이하늘",
+      "keyword": "죽음",
       "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "홍수",
-      "traffic": "2000+"
+      "keyword": "항공모함",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "미사일",
-      "traffic": "2000+"
+      "keyword": "아들",
+      "traffic": "5000+"
     },
     {
       "rank": 5,
-      "keyword": "lens vs psg",
+      "keyword": "버스",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "이주",
-      "traffic": "200+"
+      "keyword": "lg그룹",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "박현호",
-      "traffic": "200+"
+      "keyword": "이하늘",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "다이아몬드백스 대 브레이브스",
-      "traffic": "200+"
+      "keyword": "홍수",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "psg",
-      "traffic": "100+"
+      "keyword": "미사일",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "김민석",
-      "traffic": "2000+"
+      "keyword": "lens vs psg",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "거제 시간당 100㎜ 호우 피해",
+      "keyword": "거제 시간당 100㎜ 폭우 발생",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "린母, 이수와 이혼 심경 고백",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "아스널 3-0 승리",
       "state": "+",
       "change": "5"
     },
     {
-      "rank": 3,
-      "keyword": "린 母, 이수와 이혼 심경",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "2026년 8월 17일 운세",
-      "state": "+",
-      "change": "4"
-    },
-    {
       "rank": 5,
-      "keyword": "이범준, 사랑이 온다 OST 발표",
+      "keyword": "김정관 대미투자 쟁점 해결",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "김정관 대미투자 쟁점 해결 목표",
-      "state": "n",
-      "change": "0"
+      "keyword": "사랑이 온다 OST 16일 공개",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "이숭용 감독의 완벽한 승리",
-      "state": "n",
-      "change": "0"
+      "keyword": "2026년 8월 17일 운세",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "당선권 임미애 최고위원",
+      "keyword": "트럼프, 김정은과 관계 좋은 훈련 축소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "아스널, 맨시티 3-0 완승",
+      "keyword": "당선권 임미애 김영호",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "곗돈 1.5억 실형",
+      "keyword": "김승수, 대상포진 시력 잃을 뻔",
       "state": "n",
       "change": "0"
     }
