@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-16T03:28:55.417Z",
+  "updatedAt": "2026-08-16T04:08:04.237Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "후티",
-      "traffic": "500+"
+      "keyword": "승산있습니다",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "필리스 대 트윈스",
-      "traffic": "100+"
+      "keyword": "australia vs bangladesh",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "조선소",
+      "keyword": "트로이",
       "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "맥켄지 던",
-      "traffic": "200+"
+      "keyword": "최현덕",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "빅뱅",
+      "keyword": "ufc 329",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "앙투안 그리즈만",
-      "traffic": "500+"
+      "keyword": "후티",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "뉴스1",
+      "keyword": "필리스 대 트윈스",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "엘에이 fc 대 샌디에이고 fc",
-      "traffic": "50000+"
+      "keyword": "조선소",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "ufc 331",
-      "traffic": "200+"
+      "keyword": "맥켄지 던",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "두산베어스",
-      "traffic": "100+"
+      "keyword": "빅뱅",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "백인천 감독 별세, 허구연 총재 위로",
+      "keyword": "백인천 감독 빈소 찾은 허구연 총재",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김대중 묘소 참배",
-      "state": "s",
+      "keyword": "찾아 인사하는 당대표",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "배지환, 6일 만에 방출",
-      "state": "+",
-      "change": "13"
+      "keyword": "유부녀 킬러 드라마",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "전남광주 침수 피해",
+      "keyword": "박서진, 8.15KM 러닝",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "스파이더맨 700만 돌파",
+      "keyword": "이범준 사랑 OST 공개",
       "state": "-",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "빅뱅 20주년 행사 개최",
+      "keyword": "황인범 리그 데뷔 첫 도움",
+      "state": "+",
+      "change": "11"
+    },
+    {
+      "rank": 7,
+      "keyword": "전현무, 아직도 엄마 잔소리",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "군대에서 축구하다 다친 법원",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 8,
-      "keyword": "LG전자 브라질 공장 가동",
-      "state": "-",
-      "change": "1"
+      "keyword": "남편 용서 애 낳았어요",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "U-17 여자배구 5-6위 결전 진출",
+      "keyword": "마트 휴업 완화 논의",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "황인범, 리그 데뷔전 도움",
-      "state": "+",
-      "change": "13"
+      "keyword": "예비역 법원 보상대상자",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
