@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-16T16:43:34.609Z",
+  "updatedAt": "2026-08-16T17:01:31.157Z",
   "google": [
     {
       "rank": 1,
       "keyword": "레알마드리드",
-      "traffic": "100+"
+      "traffic": "200+"
     },
     {
       "rank": 2,
@@ -18,46 +18,46 @@
     },
     {
       "rank": 4,
-      "keyword": "마레스카",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
       "keyword": "맷 데이먼",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "keyword": "바르셀로나",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "keyword": "프리미어리그",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "keyword": "삼전 닉스",
       "traffic": "2000+"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "keyword": "무한도전",
       "traffic": "200+"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "keyword": "아스날",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 10,
+      "keyword": "채령",
       "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석, 서울·경기 승리",
-      "state": "+",
-      "change": "2"
+      "keyword": "김민석 서울 경기 승리",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
@@ -67,9 +67,9 @@
     },
     {
       "rank": 3,
-      "keyword": "이숭용 감독, 마드리스와 아빌라",
-      "state": "+",
-      "change": "3"
+      "keyword": "이숭용 감독과 선수들",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
@@ -79,37 +79,37 @@
     },
     {
       "rank": 5,
-      "keyword": "변중석 여사 19주기 범현대가 참석",
+      "keyword": "변중석 여사 19주기 참석한 현대가",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "주니, 오싹한 연애 OST 발매",
-      "state": "n",
+      "keyword": "주니, 오싹한 연애 OST 마이 걸 발매",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "서교림 시즌 3승 달성",
+      "keyword": "린, 이수와 이혼 고백",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "삼청로 지반 침하 통제",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "서교림 역전승 시즌 3승",
       "state": "-",
       "change": "4"
     },
     {
-      "rank": 8,
-      "keyword": "하영의 눈물, 승산 없네",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 9,
-      "keyword": "린, 이수와 이혼",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 10,
-      "keyword": "삼청로 지반 침하 통제",
+      "keyword": "구글, 유튜브 449개 폐쇄",
       "state": "n",
       "change": "0"
     }
