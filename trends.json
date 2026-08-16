@@ -1,62 +1,62 @@
 {
-  "updatedAt": "2026-08-16T19:59:31.507Z",
+  "updatedAt": "2026-08-16T20:26:48.081Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "김민석",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "김주하",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
       "keyword": "조지나 로드리게스",
       "traffic": "500+"
     },
     {
-      "rank": 2,
-      "keyword": "거제",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "리버풀 코모",
-      "traffic": "100+"
-    },
-    {
       "rank": 4,
-      "keyword": "liverpool vs como",
+      "keyword": "거제",
       "traffic": "200+"
     },
     {
       "rank": 5,
+      "keyword": "폴란드",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "리버풀 코모",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "liverpool vs como",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
       "keyword": "엘링 홀란",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "레알마드리드",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "schalke vs real madrid",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "기소",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "바르셀로나",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "프리미어리그",
-      "traffic": "200+"
+      "keyword": "man city",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "최고위원 후보 사퇴 김용 지지",
-      "state": "s",
+      "keyword": "김영호·임미애 후보 사퇴",
+      "state": "n",
       "change": "0"
     },
     {
@@ -67,51 +67,51 @@
     },
     {
       "rank": 3,
-      "keyword": "변중석 여사 19주기 범현대가 참석",
+      "keyword": "변중석 여사 19주기 범현대가 모임",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "마드리스 백투백 홈런!",
-      "state": "+",
-      "change": "3"
+      "keyword": "아빌라 7이닝 무실점 SSG 승리",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김석훈, 유재석 선물 거절한 이유",
+      "keyword": "김석훈, 유재석 선물 거절 이유",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "삼청로 지반 침하 통제",
-      "state": "+",
-      "change": "1"
+      "keyword": "부천, 전북 3-2 재격파",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "린, 이수와 이혼 심경 고백",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "구글 유튜브 449개 폐쇄",
-      "state": "+",
+      "keyword": "하영의 눈물, 승산 없음",
+      "state": "-",
       "change": "1"
     },
     {
+      "rank": 8,
+      "keyword": "린, 이수 이혼 심경",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "오싹한 연애 OST 마이 걸 발매",
-      "state": "-",
-      "change": "3"
+      "keyword": "유튜브 449개 폐쇄",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "거제 시간당 폭우",
-      "state": "n",
-      "change": "0"
+      "keyword": "삼청로 지반 침하 우려",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
