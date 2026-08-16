@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-08-16T21:00:02.872Z",
+  "updatedAt": "2026-08-16T21:25:02.496Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "psg",
-      "traffic": "100+"
+      "keyword": "이주",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "김민석",
-      "traffic": "2000+"
+      "keyword": "박현호",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "김주하",
+      "keyword": "다이아몬드백스 대 브레이브스",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "조지나 로드리게스",
-      "traffic": "1000+"
+      "keyword": "psg",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "거제",
-      "traffic": "200+"
+      "keyword": "김민석",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "폴란드",
+      "keyword": "김주하",
       "traffic": "200+"
     },
     {
       "rank": 7,
+      "keyword": "거제",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "폴란드",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
       "keyword": "리버풀 코모",
       "traffic": "100+"
     },
     {
-      "rank": 8,
-      "keyword": "liverpool vs como",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "엘링 홀란",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "레알마드리드",
+      "keyword": "liverpool vs como",
       "traffic": "200+"
     }
   ],
@@ -56,62 +56,62 @@
     {
       "rank": 1,
       "keyword": "친일파 스캐너",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "임미애·김영호 후보 사퇴",
-      "state": "n",
+      "keyword": "하영의 눈물, 승산 없다",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "주니, 오싹한 연애 OST 마이 걸 발매",
+      "keyword": "김정관 대미투자 막판 쟁점 해결",
       "state": "+",
-      "change": "17"
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "아빌라 7이닝 완투 SSG 승리",
-      "state": "s",
-      "change": "0"
+      "keyword": "아빌라 7이닝 무실점 SSG 승리",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "김석훈, 유재석 선물 거절 이유",
-      "state": "s",
-      "change": "0"
+      "keyword": "린母, 이수와 이혼 심경",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "거제 시간당 100㎜ 폭우 긴급대피",
-      "state": "n",
-      "change": "0"
+      "keyword": "주니, 오싹한 연애 OST 발매",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "린 이수와 이혼",
-      "state": "n",
-      "change": "0"
+      "keyword": "거제 시간당 100㎜ 폭우 발생",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "삼청로 지반 침하 통제",
+      "keyword": "2026년 8월 17일 운세",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "구글, 정치 유튜브 449개 폐쇄",
+      "keyword": "여론조작 정치 유튜브 폐쇄",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "오디세이 영화",
-      "state": "n",
-      "change": "0"
+      "keyword": "삼청로 도로 통제",
+      "state": "+",
+      "change": "6"
     }
   ]
 }
