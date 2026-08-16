@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-16T10:00:39.476Z",
+  "updatedAt": "2026-08-16T10:34:07.901Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "한화 대 삼성",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "민주당 전당대회 결과",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "india vs sri lanka",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "박미희",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "용산공원",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
       "keyword": "통장",
       "traffic": "2000+"
     },
     {
-      "rank": 2,
-      "keyword": "ตรวจหวย",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
+      "rank": 7,
       "keyword": "식사",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
-      "rank": 4,
-      "keyword": "หวย",
-      "traffic": "200+"
+      "rank": 8,
+      "keyword": "ตรวจหวย",
+      "traffic": "1000+"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "keyword": "lg 트윈스",
       "traffic": "1000+"
     },
     {
-      "rank": 6,
-      "keyword": "빅터 레이예스",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "정규직",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "qqqi",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "국제선",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "항공사",
+      "keyword": "빅터 레이예스",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "더민주 당대표 후보 정견발표",
-      "state": "n",
+      "keyword": "정청래 송영길 김민석 정견 발표",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김민석 서울·경기 승리",
+      "keyword": "서교림 시즌 3승 달성",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "하영, 친일파 논란 스스로 비판",
+      "state": "+",
+      "change": "6"
+    },
+    {
+      "rank": 4,
+      "keyword": "최고위원 서울 합동연설회",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "서교림 시즌3승 달성",
-      "state": "-",
+      "rank": 5,
+      "keyword": "이범준 사랑 OST 공개",
+      "state": "+",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "유부녀 킬러 드라마",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "싸이 흠뻑쇼로 경기 중단",
-      "state": "-",
-      "change": "3"
-    },
-    {
       "rank": 6,
-      "keyword": "사랑이 온다 OST 발매",
-      "state": "-",
-      "change": "2"
+      "keyword": "구구단 소이 결혼해요!",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "구구단 소이 변호사와 결혼",
-      "state": "-",
-      "change": "5"
+      "keyword": "홍재경 아나운서 진심 응원해요",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "재상고로 9440억 지분",
+      "keyword": "암 투병 고백에",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "인니 7.7 강진 사망 51명",
+      "keyword": "부상 위험으로 경기 취소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "백인천 감독 별세와 추모",
+      "keyword": "영국 일식 관측 통증 호소",
       "state": "n",
       "change": "0"
     }
