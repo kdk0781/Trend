@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-16T04:46:54.531Z",
+  "updatedAt": "2026-08-16T05:12:42.738Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "lafc vs san diego",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "이선민",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "계단",
+      "keyword": "경고 사격",
       "traffic": "500+"
     },
     {
+      "rank": 2,
+      "keyword": "지드래곤",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "대령",
+      "traffic": "100+"
+    },
+    {
       "rank": 4,
-      "keyword": "pga 투어",
+      "keyword": "광화문광장",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "도비 도항",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "육군사관학교",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "베트남 축구 국가대표팀",
+      "keyword": "김민경",
       "traffic": "500+"
     },
     {
-      "rank": 8,
-      "keyword": "australia vs bangladesh",
+      "rank": 6,
+      "keyword": "염정아",
       "traffic": "200+"
     },
     {
+      "rank": 7,
+      "keyword": "최지 만",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "lafc vs san diego",
+      "traffic": "100+"
+    },
+    {
       "rank": 9,
-      "keyword": "승산있습니다",
-      "traffic": "1000+"
+      "keyword": "이선민",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "트로이",
-      "traffic": "1000+"
+      "keyword": "계단",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "오디세이 400만 돌파",
-      "state": "n",
+      "keyword": "오디세이 400만 관객 돌파",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "하영 논란 본질 검토",
-      "state": "n",
+      "keyword": "하영 논란 본질 분석",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김현영 치어리더 매력 넘침",
-      "state": "n",
+      "keyword": "김현영 치어리더 매력 발산",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
       "keyword": "유부녀 킬러 드라마",
-      "state": "-",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "사랑이 온다 OST 공개",
-      "state": "+",
-      "change": "1"
+      "keyword": "이범준, 사랑이 온다 OST 발매",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "주담대 7.5조 여력 확대",
+      "keyword": "주담대 여력 7.5조 증가 전망",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "마트 의무휴업 완화 논의",
+      "keyword": "손흥민 LAFC 0-1",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "배지환, 밀워키 입단 후 방출 대기",
+      "keyword": "마트 의무휴업 완화 논의",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "인천 아파트 아이 추락 사망",
+      "keyword": "이상호, 결혼 3년 만에 부모 된다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "막바지 휴가 공항 북적",
+      "keyword": "인천 6살 아이 추락",
       "state": "n",
       "change": "0"
     }
