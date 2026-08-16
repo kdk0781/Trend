@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T18:27:45.195Z",
+  "updatedAt": "2026-08-16T18:55:12.996Z",
   "google": [
     {
       "rank": 1,
@@ -33,61 +33,61 @@
     },
     {
       "rank": 7,
-      "keyword": "맷 데이먼",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
       "keyword": "바르셀로나",
       "traffic": "200+"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "keyword": "프리미어리그",
       "traffic": "200+"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "keyword": "삼전 닉스",
       "traffic": "2000+"
+    },
+    {
+      "rank": 10,
+      "keyword": "무한도전",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김용 지지 위해 후보 사퇴",
-      "state": "s",
-      "change": "0"
+      "keyword": "친일파 스캐너",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 2,
-      "keyword": "이숭용 감독, 마드리스와 아빌라!",
-      "state": "s",
-      "change": "0"
+      "keyword": "임미애 김영호, 김용 지지",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "변중석 여사 19주기 모임",
-      "state": "+",
+      "keyword": "이숭용 감독의 완벽한 승리",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "김석훈, 유재석 선물 거절 이유",
-      "state": "+",
+      "keyword": "변중석 여사 19주기 범현대가 참석",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "친일파 스캐너",
+      "keyword": "김석훈, 유재석 선물 거절 이유",
       "state": "-",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "김민석 승리 누적 1위 유지",
-      "state": "n",
-      "change": "0"
+      "keyword": "주니, 오싹한 연애 OST 마이 걸 발매",
+      "state": "+",
+      "change": "13"
     },
     {
       "rank": 7,
@@ -97,21 +97,21 @@
     },
     {
       "rank": 8,
-      "keyword": "린 母 이수와 이혼 심경 반응",
+      "keyword": "린, 이수와 이혼 심경 밝혔다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
       "keyword": "구글, 유튜브 449개 폐쇄",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "하영의 눈물, 승산 없음",
-      "state": "+",
-      "change": "5"
+      "keyword": "오디세이 영화",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
