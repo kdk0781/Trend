@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-16T10:53:47.660Z",
+  "updatedAt": "2026-08-16T11:12:13.598Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "딴지",
+      "keyword": "lck",
       "traffic": "1000+"
     },
     {
       "rank": 2,
+      "keyword": "김지은",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "도란",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "최민희",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "xsmn",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "딴지",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
       "keyword": "울산 대 강원",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
+      "rank": 8,
       "keyword": "인천 대 김천상무",
       "traffic": "1000+"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "keyword": "손해배상",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 10,
       "keyword": "한화 대 삼성",
       "traffic": "10000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "민주당 전당대회 결과",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "india vs sri lanka",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "박미희",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "용산공원",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "통장",
-      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 서울 경기 승리",
-      "state": "+",
-      "change": "2"
+      "keyword": "정청래 당대표 후보 발표",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "서교림, 시즌 3승 달성",
-      "state": "s",
+      "keyword": "서교림, 역전 우승 달성",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "하영, 친일파 논란 스스로 파묘 비판",
+      "keyword": "하영, 증조부 친일파 논란 비판받다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이주연의 마음 받나?",
-      "state": "n",
-      "change": "0"
+      "keyword": "최민희 이성윤 한민수 순위",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 5,
-      "keyword": "이범준 사랑 OST 공개",
-      "state": "s",
+      "keyword": "재상고로 9440억 최태원",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "이혼 후 홀로 추억 소환한 영철",
+      "keyword": "허구연 총재, 백인천 감독 조문",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "전북 김예건 첫 선발 출격",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "백인천 감독 별세 추모 장훈",
-      "state": "+",
-      "change": "10"
-    },
-    {
       "rank": 8,
-      "keyword": "영국 일식 관측으로 눈 통증",
+      "keyword": "인도네시아 7.7 강진 51명 사망",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "케임브리지 최연소 흑인 교수 발견",
+      "keyword": "이혼 후 혼자 추억 떠올려",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "카라스코 승리 도전",
+      "keyword": "김원중 강판은 마무리",
       "state": "n",
       "change": "0"
     }
