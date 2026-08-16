@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-16T05:44:32.922Z",
+  "updatedAt": "2026-08-16T06:02:08.117Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "재정",
+      "keyword": "더스틴 니퍼트",
       "traffic": "200+"
     },
     {
       "rank": 2,
+      "keyword": "손흥민",
+      "traffic": "20000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "재정",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
       "keyword": "교수",
       "traffic": "1000+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "경고 사격",
       "traffic": "1000+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "지드래곤",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "대령",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "김민경",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "염정아",
       "traffic": "500+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "최지 만",
       "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "lafc vs san diego",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "이선민",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "오디세이 400만 관객 돌파",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "손흥민 샌디에이고에 0-1",
-      "state": "+",
-      "change": "1"
+      "keyword": "손흥민 LAFC 0-1 패배",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이상호♥김자연, 결혼 3년 만 부모 된다",
-      "state": "n",
+      "keyword": "이상호 김자연, 결혼 3년 만에 부모 된다",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "유부녀 킬러 드라마",
-      "state": "s",
+      "keyword": "주담대 여력 7.5조 확대 전망",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "주담대 여력 7.5조 확대",
+      "keyword": "김현영 치어리더 매력 발산",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "김현영 치어리더 매력 발산",
-      "state": "s",
+      "keyword": "금鄭宋 지지와 의리",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "막바지 휴가철 공항",
-      "state": "+",
-      "change": "3"
+      "keyword": "막바지 휴가 공항 북적",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "부자된 코미디언, 빵과 우유만 먹어",
+      "keyword": "코미디언, 부자됐다 빵·우유로 생활",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "로제 활동 중단 존중",
-      "state": "n",
-      "change": "0"
+      "keyword": "정견 발표하는 후보들",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "정견 발표한 후보들",
+      "keyword": "예비역 보상대상 맞다",
       "state": "n",
       "change": "0"
     }
