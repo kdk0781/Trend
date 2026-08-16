@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-16T15:53:20.519Z",
+  "updatedAt": "2026-08-16T16:14:29.129Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "맷 데이먼",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "바르셀로나",
+      "keyword": "schalke vs real madrid",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "기소",
+      "traffic": "500+"
+    },
+    {
       "rank": 3,
-      "keyword": "프리미어리그",
+      "keyword": "마레스카",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "삼전 닉스",
-      "traffic": "2000+"
+      "keyword": "맷 데이먼",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "무한도전",
+      "keyword": "바르셀로나",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "아스날",
-      "traffic": "1000+"
+      "keyword": "프리미어리그",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "채령",
-      "traffic": "500+"
+      "keyword": "삼전 닉스",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "arsenal đấu với man city",
+      "keyword": "무한도전",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "epl",
-      "traffic": "200+"
+      "keyword": "아스날",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "런닝맨",
-      "traffic": "200+"
+      "keyword": "채령",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "임미애·김영호, 최고위원 후보 사퇴",
+      "keyword": "최고위원 후보 사퇴 김용 지지해달라",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
+      "keyword": "친일파 스캐너",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 3,
       "keyword": "서교림 시즌 3승 달성",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "김석훈, 유재석 선물 거절 이유",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "친일파 스캐너",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 4,
-      "keyword": "김석훈 유재석 선물 거절 이유",
-      "state": "+",
-      "change": "6"
-    },
-    {
       "rank": 5,
-      "keyword": "이범준 사랑이 온다 발매",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 6,
-      "keyword": "이숭용 감독, 마드리스 고생했어!",
+      "keyword": "변중석 19주기 범현대가 참석",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 6,
+      "keyword": "이숭용 감독의 완벽한 승리",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "변중석 여사 19주기 제사 참석",
-      "state": "-",
+      "keyword": "김승수, 대상포진으로 시력 위기",
+      "state": "+",
       "change": "2"
     },
     {
       "rank": 8,
       "keyword": "하영의 눈물, 승산 없다",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "김승수, 대상포진으로 실명 위기",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "린母 이수와 이혼 심경",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "구구단 소이, 오늘 결혼해요",
+      "keyword": "구글, 정치 유튜브 449개 폐쇄",
       "state": "n",
       "change": "0"
     }
