@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T23:35:00.170Z",
+  "updatedAt": "2026-08-16T23:51:30.431Z",
   "google": [
     {
       "rank": 1,
@@ -67,8 +67,8 @@
     },
     {
       "rank": 3,
-      "keyword": "하영의 눈물, 승산 없다",
-      "state": "s",
+      "keyword": "김시우 PO 준우승",
+      "state": "n",
       "change": "0"
     },
     {
@@ -79,37 +79,37 @@
     },
     {
       "rank": 5,
-      "keyword": "사랑이 온다 OST 공개",
-      "state": "+",
-      "change": "2"
+      "keyword": "이범준, 사랑이 온다 OST 공개",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "광복 81주년 행사",
+      "keyword": "거제 옥포동 산사태 1명 사망",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "경남 집중호우 중대본 가동",
+      "keyword": "북 광복 81주년 행사 개최",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이이경 일본 근황",
+      "keyword": "토미 존 별세 83세",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "조여정 하석진 생일 같네",
-      "state": "n",
-      "change": "0"
+      "keyword": "다발성 태풍 영향",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "김영호 사퇴 최고위원",
+      "keyword": "사생활 의혹 일본서",
       "state": "n",
       "change": "0"
     }
