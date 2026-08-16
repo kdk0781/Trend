@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-16T19:14:49.204Z",
+  "updatedAt": "2026-08-16T19:35:19.849Z",
   "google": [
     {
       "rank": 1,
       "keyword": "거제",
-      "traffic": "100+"
+      "traffic": "200+"
     },
     {
       "rank": 2,
@@ -23,23 +23,23 @@
     },
     {
       "rank": 5,
-      "keyword": "호날두",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
       "keyword": "레알마드리드",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "keyword": "schalke vs real madrid",
       "traffic": "500+"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "keyword": "기소",
       "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "프리미어리그",
+      "traffic": "200+"
     },
     {
       "rank": 9,
@@ -48,34 +48,34 @@
     },
     {
       "rank": 10,
-      "keyword": "프리미어리그",
-      "traffic": "200+"
+      "keyword": "천왕봉",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "친일파 스캐너",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
       "keyword": "후보 사퇴 김용 지지",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "변중석 여사 19주기 범현대가",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "이숭용 감독의 완벽한 경기",
+      "rank": 2,
+      "keyword": "친일파 스캐너",
       "state": "-",
       "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "변중석 여사 19주기 범현대가 모임",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "이숭용 감독의 완벽한 경기",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
@@ -97,8 +97,8 @@
     },
     {
       "rank": 8,
-      "keyword": "린, 이수와 이혼",
-      "state": "s",
+      "keyword": "린母, 이수와 이혼 심경 고백",
+      "state": "n",
       "change": "0"
     },
     {
@@ -109,9 +109,9 @@
     },
     {
       "rank": 10,
-      "keyword": "여론조작 정황 유튜브",
-      "state": "n",
-      "change": "0"
+      "keyword": "전북, 부천에 패배",
+      "state": "+",
+      "change": "3"
     }
   ]
 }
