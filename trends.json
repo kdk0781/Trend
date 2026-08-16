@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-16T10:34:07.901Z",
+  "updatedAt": "2026-08-16T10:53:47.660Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "딴지",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "울산 대 강원",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "인천 대 김천상무",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "손해배상",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
       "keyword": "한화 대 삼성",
       "traffic": "10000+"
     },
     {
-      "rank": 2,
+      "rank": 6,
       "keyword": "민주당 전당대회 결과",
       "traffic": "10000+"
     },
     {
-      "rank": 3,
+      "rank": 7,
       "keyword": "india vs sri lanka",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 8,
       "keyword": "박미희",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "keyword": "용산공원",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 10,
       "keyword": "통장",
       "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "식사",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "ตรวจหวย",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "lg 트윈스",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "빅터 레이예스",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정청래 송영길 김민석 정견 발표",
+      "keyword": "김민석 서울 경기 승리",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 2,
+      "keyword": "서교림, 시즌 3승 달성",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 2,
-      "keyword": "서교림 시즌 3승 달성",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 3,
-      "keyword": "하영, 친일파 논란 스스로 비판",
-      "state": "+",
-      "change": "6"
+      "keyword": "하영, 친일파 논란 스스로 파묘 비판",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "최고위원 서울 합동연설회",
+      "keyword": "이주연의 마음 받나?",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
       "keyword": "이범준 사랑 OST 공개",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "구구단 소이 결혼해요!",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "홍재경 아나운서 진심 응원해요",
+      "keyword": "이혼 후 홀로 추억 소환한 영철",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "백인천 감독 별세 추모 장훈",
+      "state": "+",
+      "change": "10"
+    },
+    {
       "rank": 8,
-      "keyword": "암 투병 고백에",
+      "keyword": "영국 일식 관측으로 눈 통증",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "부상 위험으로 경기 취소",
+      "keyword": "케임브리지 최연소 흑인 교수 발견",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "영국 일식 관측 통증 호소",
+      "keyword": "카라스코 승리 도전",
       "state": "n",
       "change": "0"
     }
