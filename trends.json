@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T08:18:22.438Z",
+  "updatedAt": "2026-08-16T08:49:50.249Z",
   "google": [
     {
       "rank": 1,
@@ -9,12 +9,12 @@
     {
       "rank": 2,
       "keyword": "남보라",
-      "traffic": "1000+"
+      "traffic": "2000+"
     },
     {
       "rank": 3,
       "keyword": "elle",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
       "rank": 4,
@@ -29,7 +29,7 @@
     {
       "rank": 6,
       "keyword": "매일경제",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
       "rank": 7,
@@ -55,63 +55,63 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "가습기 피해자 빈소 서울 대치",
-      "state": "n",
+      "keyword": "민주당 최고위원 합동연설회",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "하영 비난 논란 13000여명 공감",
+      "keyword": "서교림 시즌 3승 달성",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "메디힐 챔피언십 우승 서교림",
-      "state": "-",
-      "change": "2"
+      "keyword": "하영 자랑 비난 논란 공감 댓글",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이상호·김자연, 결혼 3년 만 부모 된다",
+      "keyword": "구구단 소이 오늘 결혼합니다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "광복 81주년 행사",
+      "keyword": "빈소 설치 대치",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
+      "keyword": "흠뻑쇼 경기 연기로",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
       "keyword": "유부녀 킬러 드라마",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "구구단 소이, 오늘 변호사와 결혼",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 8,
-      "keyword": "민주당 서울 합동연설회",
+      "keyword": "NC-롯데전 우천 취소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "흠뻑쇼 연기로 중단",
+      "keyword": "아이린, 만취해 해외 팬들 놀라다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "최태원 노소영 현금 분할",
-      "state": "n",
-      "change": "0"
+      "keyword": "광복 81주년 기념 행사",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
