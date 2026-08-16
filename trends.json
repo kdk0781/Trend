@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-16T01:15:18.198Z",
+  "updatedAt": "2026-08-16T02:34:54.508Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김혜성",
-      "traffic": "5000+"
+      "keyword": "엘에이 fc 대 샌디에이고 fc",
+      "traffic": "20000+"
     },
     {
       "rank": 2,
-      "keyword": "광주광역시",
-      "traffic": "1000+"
+      "keyword": "ufc 331",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "소형모듈원자로",
+      "keyword": "두산베어스",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "우크라이나",
-      "traffic": "1000+"
+      "keyword": "ufc",
+      "traffic": "5000+"
     },
     {
       "rank": 5,
-      "keyword": "유강남",
+      "keyword": "김시우",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "나 혼자 산다",
+      "keyword": "nashville vs inter miami",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "모병제",
-      "traffic": "200+"
+      "keyword": "박경혜",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "최지만",
-      "traffic": "200+"
+      "keyword": "김혜성",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "수성구",
-      "traffic": "200+"
+      "keyword": "광주광역시",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "박세웅",
+      "keyword": "소형모듈원자로",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "위기경보 주의 상향",
+      "keyword": "해남 규모 2.2 지진 발생",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "하영 논란과 정석희 평론가",
-      "state": "n",
-      "change": "0"
+      "keyword": "임성재 PO 1차전 공동 2위",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "황인범 리그 어시스트",
-      "state": "n",
-      "change": "0"
+      "keyword": "오디세이 400만 관객 돌파",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "공효진 유부녀 킬러 시청률 상승",
-      "state": "-",
-      "change": "2"
+      "keyword": "김대중 전 대통령 묘소",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "오디세이 400만 관객 돌파",
-      "state": "n",
+      "keyword": "사랑이 도착했다 16일 공개",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김현영 치어리더 눈빛과 매력",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 7,
-      "keyword": "부활한 친일재산 환수 작업",
+      "keyword": "배지환 밀워키 방출 대기",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "인천 아파트 6세 아이 사망",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "사랑이 온다, 고윤 소개 배정남 당혹",
+      "keyword": "환희 하차 소개팅",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "김민희 홍상수 아들 이야기",
-      "state": "n",
-      "change": "0"
+      "keyword": "황인범 리그 데뷔전 도움",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "백종원 대패삼겹 개발",
+      "keyword": "1억 빚 남친과 파혼?",
       "state": "n",
       "change": "0"
     }
