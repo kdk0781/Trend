@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-16T07:52:21.921Z",
+  "updatedAt": "2026-08-16T08:18:22.438Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "파리 생제르맹 fc",
-      "traffic": "500+"
+      "keyword": "크리스티아누 호날두",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "이희진",
+      "keyword": "남보라",
       "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "매일경제",
+      "keyword": "elle",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "땅집고",
+      "keyword": "파리 생제르맹 fc",
       "traffic": "1000+"
     },
     {
       "rank": 5,
+      "keyword": "이희진",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "매일경제",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "땅집고",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
       "keyword": "죠스",
       "traffic": "200+"
     },
     {
-      "rank": 6,
-      "keyword": "경유",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "테슬라 로드스터",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "대함미사일",
-      "traffic": "500+"
-    },
-    {
       "rank": 9,
-      "keyword": "더스틴 니퍼트",
+      "keyword": "경유",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "손흥민",
-      "traffic": "20000+"
+      "keyword": "테슬라 로드스터",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "메디힐 한국일보 챔피언십",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 2,
-      "keyword": "하영 비난 논란 13000여명 좋아요",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "가습기 빈소 서울시 대치",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "이상호·김자연, 결혼 3년 만에 임신",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "유부녀 킬러 드라마",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "김정관 산업장관, 긴급 미국행",
+      "keyword": "가습기 피해자 빈소 서울 대치",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "바에스, 데뷔전 3연타석 홈런",
+      "rank": 2,
+      "keyword": "하영 비난 논란 13000여명 공감",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 8,
+      "rank": 3,
+      "keyword": "메디힐 챔피언십 우승 서교림",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "이상호·김자연, 결혼 3년 만 부모 된다",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "광복 81주년 행사",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "유부녀 킬러 드라마",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
       "keyword": "구구단 소이, 오늘 변호사와 결혼",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "민주당 서울 합동연설회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "30주년 포켓몬 별빛낙원",
+      "keyword": "흠뻑쇼 연기로 중단",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "친일파 주장하더니 역사학자",
+      "keyword": "최태원 노소영 현금 분할",
       "state": "n",
       "change": "0"
     }
