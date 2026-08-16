@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-16T14:53:59.168Z",
+  "updatedAt": "2026-08-16T15:13:08.395Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "채령",
+      "keyword": "무한도전",
       "traffic": "200+"
     },
     {
       "rank": 2,
+      "keyword": "아스날",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "채령",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
       "keyword": "arsenal đấu với man city",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "арсенал – манчестер сити",
       "traffic": "200+"
     },
     {
-      "rank": 4,
-      "keyword": "런닝맨",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "อาร์เซนอล พบ แมนซิตี",
-      "traffic": "500+"
-    },
-    {
       "rank": 6,
-      "keyword": "2026",
-      "traffic": "500+"
+      "keyword": "epl",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "김형묵",
+      "keyword": "런닝맨",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "국가유공자",
-      "traffic": "100+"
+      "keyword": "อาร์เซนอล พบ แมนซิตี",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "선거",
-      "traffic": "100+"
+      "keyword": "2026",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "arsenal vs man city",
-      "traffic": "1000+"
+      "keyword": "김형묵",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "임미애 사퇴 최고위원",
-      "state": "n",
+      "keyword": "임미애 사퇴, 김용 최고위원",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "구글 유튜브 449개 폐쇄",
-      "state": "n",
+      "keyword": "구글, 한국 유튜브 449개 폐쇄",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "주니, 오싹한 연애 OST 발매",
+      "keyword": "주니, 설렘 더한 오싹한 연애 OST 발매",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "빅리그 데뷔 3연타석 홈런!",
-      "state": "n",
-      "change": "0"
+      "keyword": "마드리스 백투백 홈런",
+      "state": "+",
+      "change": "9"
     },
     {
       "rank": 5,
-      "keyword": "이숭용 감독의 고민과 감정",
-      "state": "-",
+      "keyword": "변중석 여사 19주기 제사 참석",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "변중석 여사 19주기 제사 참석",
-      "state": "-",
+      "keyword": "이희진과 출발할까?",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "임원희, 이희진과 강릉행",
+      "keyword": "김석훈, 유재석 선물 거절 이유",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "하영의 눈물, 승산 없다",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 8,
-      "keyword": "김석훈, 유재석 선물 거절 이유",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 9,
-      "keyword": "최연소 흑인 교수 숨진 채 발견",
+      "keyword": "조여정 하석진 생일 같은 사이",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "하영의 눈물",
-      "state": "-",
-      "change": "2"
+      "keyword": "4년 만에 LG전 승리!",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
