@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-16T13:07:35.181Z",
+  "updatedAt": "2026-08-16T13:40:14.648Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "수익률",
-      "traffic": "1000+"
+      "keyword": "전북현대",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "시아버지",
+      "keyword": "말레이시아 대 베트남",
       "traffic": "1000+"
     },
     {
       "rank": 3,
+      "keyword": "중앙일보",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "미운 우리 새끼",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "한화솔루션",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "수익률",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "시아버지",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
       "keyword": "김용",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "keyword": "cuaca besok",
       "traffic": "200+"
     },
     {
-      "rank": 5,
-      "keyword": "마드리스",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
+      "rank": 10,
       "keyword": "토트넘",
       "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "독서로",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "이자",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "박재현",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "토트넘 호펜하임",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "사랑이 온다 OST 가창 공개",
+      "keyword": "이범준 사랑 OST 발매",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김용 후보 지지",
-      "state": "s",
+      "keyword": "임미애 김용 최고위원!",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "마드리스 백투백 홈런",
-      "state": "s",
+      "keyword": "김민석 서울 경기 초접전 승리",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "변중석 여사 19주기 제사 참석자들",
-      "state": "s",
+      "keyword": "최태원, 9440억 시간 벌다",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "하영 친일 논란 관심 증폭",
-      "state": "+",
-      "change": "1"
+      "keyword": "마드리스 백투백 포!",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "유부녀 킬러 드라마",
-      "state": "-",
-      "change": "1"
+      "keyword": "최연소 흑인 교수 사망",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "SSG 아빌라 역투",
-      "state": "+",
-      "change": "4"
+      "keyword": "김석훈, 유재석 선물 거절한 이유",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "부천, 전북에 3-2 신승",
-      "state": "+",
-      "change": "1"
+      "keyword": "하영의 눈물, 승산 없어",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "구글, 유튜브 449개 폐쇄",
-      "state": "n",
-      "change": "0"
+      "keyword": "변중석 여사 19주기 제사 참석자들",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 10,
-      "keyword": "삼청로 지반 침하 통제",
-      "state": "n",
-      "change": "0"
+      "keyword": "유부녀 킬러 드라마",
+      "state": "-",
+      "change": "4"
     }
   ]
 }
