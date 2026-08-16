@@ -1,91 +1,91 @@
 {
-  "updatedAt": "2026-08-16T17:57:57.981Z",
+  "updatedAt": "2026-08-16T18:27:45.195Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "리버풀 코모",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
       "keyword": "liverpool vs como",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "엘링 홀란",
       "traffic": "500+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "레알마드리드",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "schalke vs real madrid",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "기소",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "맷 데이먼",
       "traffic": "500+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "바르셀로나",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "프리미어리그",
       "traffic": "200+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "삼전 닉스",
       "traffic": "2000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "무한도전",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "임미애 김영호, 김용 지지",
-      "state": "+",
-      "change": "1"
+      "keyword": "김용 지지 위해 후보 사퇴",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "친일파 스캐너",
+      "keyword": "이숭용 감독, 마드리스와 아빌라!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이숭용 감독, 아빌라 완벽!",
-      "state": "s",
-      "change": "0"
+      "keyword": "변중석 여사 19주기 모임",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "변중석 여사 19주기 참석",
+      "keyword": "김석훈, 유재석 선물 거절 이유",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "김석훈, 유재석 선물 거절 이유",
+      "keyword": "친일파 스캐너",
       "state": "-",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "린 이수와 이혼",
+      "keyword": "김민석 승리 누적 1위 유지",
       "state": "n",
       "change": "0"
     },
@@ -97,21 +97,21 @@
     },
     {
       "rank": 8,
-      "keyword": "하영의 눈물, 승산 없다.",
-      "state": "+",
-      "change": "1"
+      "keyword": "린 母 이수와 이혼 심경 반응",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
       "keyword": "구글, 유튜브 449개 폐쇄",
-      "state": "s",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "부천 이영민 감독",
+      "keyword": "하영의 눈물, 승산 없음",
       "state": "+",
-      "change": "8"
+      "change": "5"
     }
   ]
 }
