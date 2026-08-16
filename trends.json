@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-16T22:17:20.798Z",
+  "updatedAt": "2026-08-16T22:39:38.528Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "혈당",
+      "keyword": "이동국",
       "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "죽음",
-      "traffic": "1000+"
+      "keyword": "수영강",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "항공모함",
+      "keyword": "맨체스터 유나이티드 fc",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "아들",
-      "traffic": "5000+"
+      "keyword": "혼인",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "버스",
+      "keyword": "정주영",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "lg그룹",
-      "traffic": "500+"
+      "keyword": "혈당",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "이하늘",
-      "traffic": "1000+"
+      "keyword": "죽음",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "홍수",
-      "traffic": "2000+"
+      "keyword": "항공모함",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "미사일",
-      "traffic": "2000+"
+      "keyword": "김승규",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "lens vs psg",
-      "traffic": "1000+"
+      "keyword": "아들",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "거제 시간당 100㎜ 폭우 발생",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "린母, 이수와 이혼 심경 고백",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "아스널 3-0 승리",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 5,
-      "keyword": "김정관 대미투자 쟁점 해결",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "사랑이 온다 OST 16일 공개",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "2026년 8월 17일 운세",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "트럼프, 김정은과 관계 좋은 훈련 축소",
+      "keyword": "트럼프 한미훈련 축소 지시",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "김승수 실명 위기",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "아스널 3-0 승리",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "거제 시간당 100㎜ 폭우 대피",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 6,
+      "keyword": "이범준의 사랑 OST 공개",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "김정관 대미투자 쟁점 해결",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "2026년 8월 17일 운세",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "당선권 임미애 김영호",
+      "keyword": "지성 박병은의 최종 소감",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김승수, 대상포진 시력 잃을 뻔",
+      "keyword": "김영호 사퇴 최고위원",
       "state": "n",
       "change": "0"
     }
