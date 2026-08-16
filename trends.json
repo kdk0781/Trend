@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-16T11:12:13.598Z",
+  "updatedAt": "2026-08-16T11:35:20.180Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "lck",
+      "keyword": "송혜교",
       "traffic": "1000+"
     },
     {
       "rank": 2,
       "keyword": "김지은",
-      "traffic": "200+"
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "도란",
-      "traffic": "100+"
+      "keyword": "lck",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
       "keyword": "최민희",
-      "traffic": "100+"
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "xsmn",
+      "keyword": "도란",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "딴지",
-      "traffic": "1000+"
+      "keyword": "xsmn",
+      "traffic": "100+"
     },
     {
       "rank": 7,
+      "keyword": "딴지",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
       "keyword": "울산 대 강원",
       "traffic": "2000+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "인천 대 김천상무",
       "traffic": "1000+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "손해배상",
       "traffic": "500+"
-    },
-    {
-      "rank": 10,
-      "keyword": "한화 대 삼성",
-      "traffic": "10000+"
     }
   ],
   "domestic": [
