@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-16T21:41:18.359Z",
+  "updatedAt": "2026-08-16T21:57:12.812Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "lens vs psg",
-      "traffic": "100+"
+      "keyword": "lg그룹",
+      "traffic": "200+"
     },
     {
       "rank": 2,
+      "keyword": "이하늘",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "홍수",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "미사일",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "lens vs psg",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
       "keyword": "이주",
       "traffic": "200+"
     },
     {
-      "rank": 3,
-      "keyword": "박현호",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "다이아몬드백스 대 브레이브스",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "psg",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "김민석",
-      "traffic": "2000+"
-    },
-    {
       "rank": 7,
-      "keyword": "김주하",
+      "keyword": "박현호",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "거제",
-      "traffic": "500+"
+      "keyword": "다이아몬드백스 대 브레이브스",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "폴란드",
-      "traffic": "500+"
+      "keyword": "psg",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "리버풀 코모",
-      "traffic": "100+"
+      "keyword": "김민석",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
