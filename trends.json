@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-16T12:21:37.553Z",
+  "updatedAt": "2026-08-16T13:07:35.181Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "독서로",
-      "traffic": "200+"
+      "keyword": "수익률",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
+      "keyword": "시아버지",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "김용",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "cuaca besok",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "마드리스",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "토트넘",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "독서로",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
       "keyword": "이자",
       "traffic": "500+"
     },
     {
-      "rank": 3,
-      "keyword": "토트넘 호펜하임",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
+      "rank": 9,
       "keyword": "박재현",
       "traffic": "100+"
     },
     {
-      "rank": 5,
-      "keyword": "spurs vs hoffenheim",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "리버풀",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "전영현",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "pba 팀리그",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "카라스코",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "김용빈",
-      "traffic": "200+"
+      "keyword": "토트넘 호펜하임",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "사랑이 온다 OST 16일 공개",
-      "state": "+",
-      "change": "6"
+      "keyword": "사랑이 온다 OST 가창 공개",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김민석 누적 49.91% 1위",
-      "state": "-",
-      "change": "1"
+      "keyword": "김용 후보 지지",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
       "keyword": "마드리스 백투백 홈런",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "유부녀 킬러 드라마",
-      "state": "n",
+      "keyword": "변중석 여사 19주기 제사 참석자들",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "하영 증조부 친일 논란 재조명",
-      "state": "-",
-      "change": "3"
+      "keyword": "하영 친일 논란 관심 증폭",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "임미애, 김용 선택해달라",
-      "state": "n",
-      "change": "0"
+      "keyword": "유부녀 킬러 드라마",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "이주연과 열애설",
-      "state": "-",
-      "change": "2"
+      "keyword": "SSG 아빌라 역투",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 8,
-      "keyword": "조형우 주루 실수 이숭용 감독",
-      "state": "n",
-      "change": "0"
+      "keyword": "부천, 전북에 3-2 신승",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "SSG 아빌라 역투",
+      "keyword": "구글, 유튜브 449개 폐쇄",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "전북 김예건 첫 선발 나선 정정용",
+      "keyword": "삼청로 지반 침하 통제",
       "state": "n",
       "change": "0"
     }
