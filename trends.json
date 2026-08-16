@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-16T09:43:15.046Z",
+  "updatedAt": "2026-08-16T10:00:39.476Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "lg 트윈스",
-      "traffic": "500+"
+      "keyword": "통장",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "빅터 레이예스",
-      "traffic": "100+"
+      "keyword": "ตรวจหวย",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "정규직",
-      "traffic": "200+"
+      "keyword": "식사",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "qqqi",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "국제선",
+      "keyword": "หวย",
       "traffic": "200+"
     },
     {
+      "rank": 5,
+      "keyword": "lg 트윈스",
+      "traffic": "1000+"
+    },
+    {
       "rank": 6,
-      "keyword": "항공사",
+      "keyword": "빅터 레이예스",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "숲",
-      "traffic": "1000+"
+      "keyword": "정규직",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "이상호",
+      "keyword": "qqqi",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "치지직",
-      "traffic": "10000+"
+      "keyword": "국제선",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "fc 서울 대 대전",
-      "traffic": "500+"
+      "keyword": "항공사",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "민주당 최고위원 후보 정견 발표",
-      "state": "s",
+      "keyword": "더민주 당대표 후보 정견발표",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "서교림 KLPGA 3승 달성",
-      "state": "s",
+      "keyword": "김민석 서울·경기 승리",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "구구단 출신 소이, 오늘 결혼합니다",
-      "state": "n",
-      "change": "0"
+      "keyword": "서교림 시즌3승 달성",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "사랑이 온다, 이범준 OST",
-      "state": "n",
-      "change": "0"
+      "keyword": "유부녀 킬러 드라마",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "김구 증손자 하영 논란 행동 평가 달라질 것",
+      "keyword": "싸이 흠뻑쇼로 경기 중단",
       "state": "-",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "유부녀 킬러 드라마",
+      "keyword": "사랑이 온다 OST 발매",
       "state": "-",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "싸이 흠뻑쇼 중단까지",
-      "state": "n",
-      "change": "0"
+      "keyword": "구구단 소이 변호사와 결혼",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 8,
-      "keyword": "서울·경기 경선 결과 요약",
+      "keyword": "재상고로 9440억 지분",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "메디힐 한국일보 챔피언십",
-      "state": "s",
+      "keyword": "인니 7.7 강진 사망 51명",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "대구도 경기 취소",
+      "keyword": "백인천 감독 별세와 추모",
       "state": "n",
       "change": "0"
     }
