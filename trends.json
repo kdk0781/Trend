@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-16T08:49:50.249Z",
+  "updatedAt": "2026-08-16T09:12:03.438Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "치지직",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "fc 서울 대 대전",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 3,
       "keyword": "크리스티아누 호날두",
       "traffic": "2000+"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "keyword": "남보라",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "elle",
       "traffic": "1000+"
     },
     {
-      "rank": 4,
-      "keyword": "파리 생제르맹 fc",
-      "traffic": "1000+"
+      "rank": 6,
+      "keyword": "레드벨벳",
+      "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 7,
+      "keyword": "파리 생제르맹 fc",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
       "keyword": "이희진",
       "traffic": "1000+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "매일경제",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "keyword": "땅집고",
       "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "죠스",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "경유",
-      "traffic": "500+"
-    },
-    {
-      "rank": 10,
-      "keyword": "테슬라 로드스터",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "민주당 최고위원 합동연설회",
-      "state": "s",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "서교림 시즌 3승 달성",
+      "keyword": "서교림 KLPGA 3승",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "하영 자랑 비난 논란 공감 댓글",
-      "state": "s",
-      "change": "0"
+      "keyword": "구구단 소이 오늘 결혼합니다",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "구구단 소이 오늘 결혼합니다",
-      "state": "s",
-      "change": "0"
+      "keyword": "하영 증조부 논란 확인",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "빈소 설치 대치",
+      "keyword": "광화문 빈소 설치 대치",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "흠뻑쇼 경기 연기로",
-      "state": "n",
-      "change": "0"
+      "keyword": "유부녀 킬러 드라마",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "유부녀 킬러 드라마",
-      "state": "-",
+      "keyword": "NC-롯데전 우천 취소",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "NC-롯데전 우천 취소",
+      "keyword": "군대에서 축구하다 다친 예비역",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "아이린, 만취해 해외 팬들 놀라다",
+      "keyword": "최태원 재산분할 현금만",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "광복 81주년 기념 행사",
+      "keyword": "아이린의 만취 먹방에 해외 팬들 경악",
       "state": "-",
-      "change": "2"
+      "change": "1"
     }
   ]
 }
