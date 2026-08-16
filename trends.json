@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-16T04:08:04.237Z",
+  "updatedAt": "2026-08-16T04:46:54.531Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "승산있습니다",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "australia vs bangladesh",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "트로이",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "최현덕",
+      "keyword": "lafc vs san diego",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "이선민",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "계단",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "pga 투어",
+      "traffic": "500+"
+    },
+    {
       "rank": 5,
-      "keyword": "ufc 329",
-      "traffic": "200+"
+      "keyword": "도비 도항",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "후티",
+      "keyword": "육군사관학교",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "필리스 대 트윈스",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "조선소",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "맥켄지 던",
+      "keyword": "베트남 축구 국가대표팀",
       "traffic": "500+"
     },
     {
-      "rank": 10,
-      "keyword": "빅뱅",
+      "rank": 8,
+      "keyword": "australia vs bangladesh",
       "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "승산있습니다",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 10,
+      "keyword": "트로이",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "백인천 감독 빈소 찾은 허구연 총재",
-      "state": "s",
+      "keyword": "오디세이 400만 돌파",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "찾아 인사하는 당대표",
+      "keyword": "하영 논란 본질 검토",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "유부녀 킬러 드라마",
+      "keyword": "김현영 치어리더 매력 넘침",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "박서진, 8.15KM 러닝",
+      "keyword": "유부녀 킬러 드라마",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "이범준 사랑 OST 공개",
-      "state": "-",
+      "keyword": "사랑이 온다 OST 공개",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "황인범 리그 데뷔 첫 도움",
-      "state": "+",
-      "change": "11"
+      "keyword": "주담대 7.5조 여력 확대",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "전현무, 아직도 엄마 잔소리",
+      "keyword": "마트 의무휴업 완화 논의",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "남편 용서 애 낳았어요",
+      "keyword": "배지환, 밀워키 입단 후 방출 대기",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "마트 휴업 완화 논의",
+      "keyword": "인천 아파트 아이 추락 사망",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "예비역 법원 보상대상자",
+      "keyword": "막바지 휴가 공항 북적",
       "state": "n",
       "change": "0"
     }
