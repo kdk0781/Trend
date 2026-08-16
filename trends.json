@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-16T11:51:41.244Z",
+  "updatedAt": "2026-08-16T12:21:37.553Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "카라스코",
+      "keyword": "독서로",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "pba 팀리그",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "김용빈",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "송혜교",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "김지은",
+      "keyword": "이자",
       "traffic": "500+"
     },
     {
+      "rank": 3,
+      "keyword": "토트넘 호펜하임",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "박재현",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "spurs vs hoffenheim",
+      "traffic": "200+"
+    },
+    {
       "rank": 6,
-      "keyword": "lck",
-      "traffic": "1000+"
+      "keyword": "리버풀",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "최민희",
+      "keyword": "전영현",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "도란",
+      "keyword": "pba 팀리그",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "xsmn",
-      "traffic": "100+"
+      "keyword": "카라스코",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "딴지",
-      "traffic": "100+"
+      "keyword": "김용빈",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 서울·경기 승리",
+      "keyword": "사랑이 온다 OST 16일 공개",
       "state": "+",
-      "change": "1"
+      "change": "6"
     },
     {
       "rank": 2,
-      "keyword": "하영 증조부 친일 논란 검색",
-      "state": "+",
-      "change": "2"
+      "keyword": "김민석 누적 49.91% 1위",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "전북 김예건 첫 선발 정정용 감독",
+      "keyword": "마드리스 백투백 홈런",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "헝가리 폴란드 버스 사고",
+      "keyword": "유부녀 킬러 드라마",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "최태원 SK 지분 9440억 대출",
-      "state": "n",
-      "change": "0"
+      "keyword": "하영 증조부 친일 논란 재조명",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "어려운 시기 지성 각별",
+      "keyword": "임미애, 김용 선택해달라",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "설영우 월드컵서 악성재고 우려",
-      "state": "n",
-      "change": "0"
+      "keyword": "이주연과 열애설",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "누적 1위",
+      "keyword": "조형우 주루 실수 이숭용 감독",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "트리플에스 곽연지 인형",
+      "keyword": "SSG 아빌라 역투",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "경기 누적",
+      "keyword": "전북 김예건 첫 선발 나선 정정용",
       "state": "n",
       "change": "0"
     }
