@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-16T06:02:08.117Z",
+  "updatedAt": "2026-08-16T06:54:30.123Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "더스틴 니퍼트",
-      "traffic": "200+"
+      "keyword": "죠스",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "손흥민",
-      "traffic": "20000+"
+      "keyword": "경유",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "재정",
+      "keyword": "대함미사일",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "교수",
-      "traffic": "1000+"
+      "keyword": "더스틴 니퍼트",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "경고 사격",
-      "traffic": "1000+"
+      "keyword": "손흥민",
+      "traffic": "20000+"
     },
     {
       "rank": 6,
+      "keyword": "재정",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "교수",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "경고 사격",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 9,
       "keyword": "지드래곤",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
-      "keyword": "대령",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "김민경",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "염정아",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "최지 만",
+      "keyword": "대령",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "오디세이 400만 관객 돌파",
-      "state": "s",
-      "change": "0"
+      "keyword": "손흥민 LAFC 0-1 패",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "손흥민 LAFC 0-1 패배",
-      "state": "s",
-      "change": "0"
+      "keyword": "이상호♥김자연, 결혼 3년 만에 부모 된다",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "이상호 김자연, 결혼 3년 만에 부모 된다",
-      "state": "s",
-      "change": "0"
+      "keyword": "유부녀 킬러 드라마",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "주담대 여력 7.5조 확대 전망",
+      "keyword": "오랜 가뭄 해갈하는 반가운 단비",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김현영 치어리더 매력 발산",
+      "keyword": "직장인 80% 기간제 차별 있다",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "금鄭宋 지지와 의리",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "막바지 휴가 공항 북적",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "코미디언, 부자됐다 빵·우유로 생활",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "정견 발표하는 후보들",
+      "keyword": "주식으로 노소영 현금만",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 7,
+      "keyword": "윤미애 자산가 자택 공개",
+      "state": "+",
+      "change": "16"
+    },
+    {
+      "rank": 8,
+      "keyword": "메디힐 챔피언십 3R 공동 선두",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 9,
+      "keyword": "강부자 어른한테 정중해야지",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "예비역 보상대상 맞다",
+      "keyword": "최연소 흑인 교수 사망",
       "state": "n",
       "change": "0"
     }
