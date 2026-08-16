@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T17:29:17.690Z",
+  "updatedAt": "2026-08-16T17:46:13.088Z",
   "google": [
     {
       "rank": 1,
@@ -55,9 +55,9 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 서울 경기 승리",
-      "state": "s",
-      "change": "0"
+      "keyword": "임미애 김영호, 김용 지지",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
@@ -67,51 +67,51 @@
     },
     {
       "rank": 3,
-      "keyword": "이숭용 감독, 마드리스 고생!",
+      "keyword": "이숭용 감독, 아빌라 완벽!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김석훈, 유재석 선물 거절 이유",
-      "state": "s",
-      "change": "0"
+      "keyword": "변중석 여사 19주기 참석",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "변중석 여사 19주기 범현대가 모임",
-      "state": "s",
-      "change": "0"
+      "keyword": "김석훈, 유재석 선물 거절 이유",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "린 모, 이수와 이혼 심경",
+      "keyword": "린 이수와 이혼",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
       "keyword": "삼청로 지반 침하 통제",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "주니, 오싹한 연애 OST 발매",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "구글 449개 유튜브 폐쇄",
+      "keyword": "하영의 눈물, 승산 없다.",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 10,
-      "keyword": "아빌라 7이닝 무실점 승리",
-      "state": "n",
+      "rank": 9,
+      "keyword": "구글, 유튜브 449개 폐쇄",
+      "state": "s",
       "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "부천 이영민 감독",
+      "state": "+",
+      "change": "8"
     }
   ]
 }
