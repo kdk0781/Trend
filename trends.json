@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-17T12:25:54.370Z",
+  "updatedAt": "2026-08-17T13:14:06.607Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "신세계",
+      "keyword": "도지코인",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "김부선",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "제주 sk fc",
+      "keyword": "가요무대",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "최수종",
+      "traffic": "500+"
+    },
+    {
       "rank": 4,
-      "keyword": "서미화",
-      "traffic": "1000+"
+      "keyword": "김상욱",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "대한민국",
+      "keyword": "iphone 17 pro",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "티비",
-      "traffic": "200+"
+      "keyword": "니콜 키드먼",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "테라파워",
-      "traffic": "2000+"
+      "keyword": "로봇",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "디즈니",
+      "keyword": "김태선",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "부모",
-      "traffic": "10000+"
+      "keyword": "openai",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "조 째즈",
-      "traffic": "2000+"
+      "keyword": "신세계",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 신임 당대표 수락",
+      "keyword": "김민석 당대표 수락 연설",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "배정남 마르코 폭행 사건",
+      "keyword": "황현민, 마르코와 난투극",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "최강 안세영, 복귀전 32강행",
+      "keyword": "안세영 부상 극복 32강 진출",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "박주호 안나 넷째 임신 소식",
-      "state": "n",
+      "keyword": "제니, 블랙핑크 10주년 사과",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "하영 증조부 재산 환수 가능성",
-      "state": "+",
-      "change": "68"
+      "keyword": "5성급 호텔 탄창 발견",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "200년 만에 온 괴물 폭우",
+      "keyword": "하영 친일재산 환수 가능성",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김창열 DJ DOC 컴백 불투명",
+      "keyword": "오현경과 윤지숙, 한강 에어로빅 출석",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "바이킹 타보세요! 랜더스 랜드 개최",
+      "keyword": "남겨서 뭐하게",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "남부 폭우 피해 최소화 집중",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "헤이든 파네티어 36세 별세",
-      "state": "+",
-      "change": "4"
-    },
-    {
       "rank": 10,
-      "keyword": "매니저 갑질 제 따까리",
+      "keyword": "박주호 안나 넷째 임신 성공",
       "state": "n",
       "change": "0"
     }
