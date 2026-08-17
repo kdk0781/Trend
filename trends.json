@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-17T03:10:34.813Z",
+  "updatedAt": "2026-08-17T04:03:51.878Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "지민",
-      "traffic": "1000+"
+      "keyword": "거제시",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "소재원",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "편의점",
+      "keyword": "안나 린",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "사관학교",
+      "traffic": "500+"
+    },
+    {
       "rank": 4,
-      "keyword": "예루살렘",
+      "keyword": "이제 만나러 갑니다",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "무시알라",
-      "traffic": "100+"
+      "keyword": "사장님 귀는 당나귀 귀",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "골프",
-      "traffic": "5000+"
+      "keyword": "지민",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "공동 명의",
-      "traffic": "500+"
+      "keyword": "소재원",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "드론 스트라이크",
+      "keyword": "편의점",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "상주영천고속도로",
+      "keyword": "예루살렘",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "ssg 랜더스",
-      "traffic": "5000+"
+      "keyword": "무시알라",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "거제 산사태 발생",
+      "keyword": "삼성, 올림피아드 장학금 수여",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "오디세이 500만 돌파",
-      "state": "n",
+      "keyword": "오디세이 500만 관객",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "하영 논란 정해인 충격?",
-      "state": "+",
-      "change": "1"
+      "keyword": "사랑이 온다, 시청률 1위",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김시우 PGA 1차전 준우승",
-      "state": "-",
-      "change": "2"
+      "keyword": "김시우 PGA PO 준우승",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "주니, 오싹한 연애 OST 마이 걸 발매",
+      "keyword": "어린이 지도 대회 개최",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "레이디 제인 주식 수익률 900%",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "HD현대일렉, 친환경 차단기 개발",
+      "keyword": "다비치안경 과징금 14억",
       "state": "+",
       "change": "3"
     },
     {
+      "rank": 7,
+      "keyword": "수익률 900% 대박",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "트럼프 김정은 관계 개선",
+      "keyword": "바우티스타 축구 데뷔전 멀티골",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "U-17 배구 세계선수권 6위 마감",
-      "state": "-",
-      "change": "1"
+      "keyword": "이사벨라 치매 간병 6년째",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "어린이 지도 그리기 대회",
+      "keyword": "리틀 김연경 손서연 2위 달성",
       "state": "n",
       "change": "0"
     }
