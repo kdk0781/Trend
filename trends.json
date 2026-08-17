@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-17T00:46:06.243Z",
+  "updatedAt": "2026-08-17T02:09:13.329Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "홍지민",
+      "keyword": "공휴일",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "이혼",
+      "keyword": "안나린",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "손태영",
-      "traffic": "200+"
+      "keyword": "삼성전자",
+      "traffic": "20000+"
     },
     {
       "rank": 4,
-      "keyword": "광주시",
-      "traffic": "200+"
+      "keyword": "고시원",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "타릭 스쿠발",
-      "traffic": "200+"
+      "keyword": "강정호",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "디지털 자산",
+      "keyword": "야구여왕",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "농축 우라늄",
-      "traffic": "200+"
+      "keyword": "희토류 원소",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "전현무",
-      "traffic": "200+"
+      "keyword": "애덤 올러",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "토마스 해치",
-      "traffic": "200+"
+      "keyword": "이정후",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "필리스 대 트윈스",
-      "traffic": "200+"
+      "keyword": "국민연금공단",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "거제 옥포동 산사태 1명 사망",
-      "state": "+",
-      "change": "1"
+      "keyword": "홍지민, 독립운동가 후손",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "홍지민, 독립운동가 후손",
+      "keyword": "거제 산사태 1명 사망",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김시우 PO 준우승",
-      "state": "n",
-      "change": "0"
+      "keyword": "김시우 PO 1차전 준우승",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "출산 둘째 갖고파",
+      "keyword": "서호 군 전역 완전체 활동",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 5,
+      "keyword": "대통령 지지율 최저 43%",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "하영 친일 증조부 자랑 교육 부족",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "KT-서울대 의료AX 협력 구축",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 5,
-      "keyword": "김정은 수영경기 관람",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "하영 증조부 친일파 논란",
-      "state": "-",
+      "rank": 8,
+      "keyword": "이정후 2경기 연속 안타",
+      "state": "+",
       "change": "3"
     },
     {
-      "rank": 7,
-      "keyword": "트럼프 연합훈련 축소 지시",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "아스널, 맨시티 3-0 승리!",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 9,
-      "keyword": "미혼모 안희연, 사랑이 온다!",
-      "state": "-",
-      "change": "4"
+      "keyword": "베이비몬스터 서머소닉 3년째",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "연휴 경남에 물폭탄",
+      "keyword": "이재현 K-라이프스타일 리더 되자",
       "state": "n",
       "change": "0"
     }
