@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-17T07:03:12.224Z",
+  "updatedAt": "2026-08-17T07:57:45.031Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "솔로지옥 5",
+      "keyword": "조째즈",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "알렉산더 볼카노프스키",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "임신",
+      "keyword": "안나",
       "traffic": "1000+"
     },
     {
+      "rank": 3,
+      "keyword": "대의원",
+      "traffic": "500+"
+    },
+    {
       "rank": 4,
-      "keyword": "어벤져스: 둠스데이",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "헤이든 파네티어",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "키옥시아 주가",
+      "keyword": "코오롱티슈진",
       "traffic": "200+"
     },
     {
+      "rank": 5,
+      "keyword": "유학생",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "매일경제신문",
+      "traffic": "100+"
+    },
+    {
       "rank": 7,
-      "keyword": "브루클린 베컴",
+      "keyword": "솔로지옥 5",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "과학 고등학교",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "india vs sri lanka",
+      "keyword": "알렉산더 볼카노프스키",
       "traffic": "200+"
     },
     {
+      "rank": 9,
+      "keyword": "임신",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "트레킹",
-      "traffic": "1000+"
+      "keyword": "어벤져스: 둠스데이",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "거제 도로 통제",
+      "keyword": "정견발표하는 최고위원 후보",
       "state": "+",
-      "change": "3"
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "오디세이 500만 돌파",
-      "state": "+",
-      "change": "4"
+      "keyword": "민주당 전당대회 시위",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "민주당 전당대회 인사말",
-      "state": "+",
-      "change": "5"
+      "keyword": "오디세이 500만 돌파",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "가양동 아파트 화재 감식",
+      "keyword": "트리플에스 곽연지 시구",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "임시 감독 면접 시작",
+      "keyword": "거제 도로 통제",
       "state": "-",
       "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "트럼프 한미훈련 축소",
-      "state": "n",
-      "change": "0"
+      "keyword": "트럼프 한미훈련 축소 주목",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "광복절 연휴 마지막 날",
-      "state": "s",
+      "keyword": "미요시 타짜4 불참 이유",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "루시 최상엽, 8월 결혼 발표",
-      "state": "-",
-      "change": "6"
+      "keyword": "헤이든 파네티어, 36세 갑작스런 사망",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "트리플에스 곽연지 시구하기",
-      "state": "n",
-      "change": "0"
+      "keyword": "임시 감독 면접 진행",
+      "state": "-",
+      "change": "7"
     },
     {
       "rank": 10,
-      "keyword": "한미 연합훈련 구체 사항 조율",
-      "state": "n",
-      "change": "0"
+      "keyword": "갯벌 체험 시민",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
