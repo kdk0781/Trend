@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-17T11:03:42.297Z",
+  "updatedAt": "2026-08-17T11:34:55.837Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "제주 sk fc",
+      "keyword": "신세계",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "서미화",
-      "traffic": "500+"
+      "keyword": "김부선",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
+      "keyword": "제주 sk fc",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
       "keyword": "대한민국",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "keyword": "서미화",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
       "keyword": "티비",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "테라파워",
       "traffic": "2000+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "디즈니",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "부모",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "조 째즈",
-      "traffic": "1000+"
-    },
-    {
       "rank": 9,
-      "keyword": "상도동",
-      "traffic": "100+"
+      "keyword": "부모",
+      "traffic": "10000+"
     },
     {
       "rank": 10,
-      "keyword": "김시우",
-      "traffic": "20000+"
+      "keyword": "조 째즈",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 신임 당대표 포옹",
-      "state": "+",
-      "change": "1"
+      "keyword": "김민석 신임 당대표 축하받다",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "배정남 폭행 사건",
-      "state": "-",
-      "change": "1"
+      "keyword": "배정남·마르코 난투극 재소환",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "박주호 아내 안나 넷째 임신",
+      "keyword": "박주호♥ 안나, 암 이겨내고 넷째 임신",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "안세영 복귀전 32강 진출",
+      "keyword": "헤이든 파네티어 갑작스런 별세",
+      "state": "+",
+      "change": "7"
+    },
+    {
+      "rank": 5,
+      "keyword": "조규성, 일본행 가능성",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "사랑이 온다, 시청률 1위",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 6,
-      "keyword": "주니, 오싹한 연애 OST 발매",
-      "state": "-",
-      "change": "1"
+      "keyword": "야구장서 바이킹 랜드",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "트럼프, 한미훈련 축소 대화 기대",
+      "keyword": "부상 안세영 40위 고전 2-0 진출",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "미요시 아야카, 타짜 제작불참",
+      "keyword": "임시 감독 지원자 면접 곧 실시",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "황정음 반려견 마당 방치",
+      "keyword": "정해인 매니저 논란 해명",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "조규성 유럽 생활 마무리 가능성",
-      "state": "n",
-      "change": "0"
+      "keyword": "주니, 오싹한 연애 OST 발매",
+      "state": "-",
+      "change": "4"
     }
   ]
 }
