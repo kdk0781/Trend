@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-17T02:09:13.329Z",
+  "updatedAt": "2026-08-17T03:10:34.813Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "공휴일",
-      "traffic": "500+"
+      "keyword": "지민",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "안나린",
-      "traffic": "200+"
+      "keyword": "소재원",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "삼성전자",
-      "traffic": "20000+"
+      "keyword": "편의점",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "고시원",
-      "traffic": "1000+"
+      "keyword": "예루살렘",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "강정호",
-      "traffic": "1000+"
+      "keyword": "무시알라",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "야구여왕",
-      "traffic": "100+"
+      "keyword": "골프",
+      "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "희토류 원소",
-      "traffic": "1000+"
+      "keyword": "공동 명의",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "애덤 올러",
-      "traffic": "100+"
+      "keyword": "드론 스트라이크",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "이정후",
-      "traffic": "2000+"
+      "keyword": "상주영천고속도로",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "국민연금공단",
-      "traffic": "500+"
+      "keyword": "ssg 랜더스",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "홍지민, 독립운동가 후손",
+      "keyword": "거제 산사태 발생",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "거제 산사태 1명 사망",
+      "keyword": "오디세이 500만 돌파",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김시우 PO 1차전 준우승",
+      "keyword": "하영 논란 정해인 충격?",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "서호 군 전역 완전체 활동",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 5,
-      "keyword": "대통령 지지율 최저 43%",
+      "keyword": "김시우 PGA 1차전 준우승",
       "state": "-",
       "change": "2"
     },
     {
-      "rank": 6,
-      "keyword": "하영 친일 증조부 자랑 교육 부족",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "KT-서울대 의료AX 협력 구축",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "이정후 2경기 연속 안타",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 9,
-      "keyword": "베이비몬스터 서머소닉 3년째",
+      "rank": 5,
+      "keyword": "주니, 오싹한 연애 OST 마이 걸 발매",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "레이디 제인 주식 수익률 900%",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "HD현대일렉, 친환경 차단기 개발",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 8,
+      "keyword": "트럼프 김정은 관계 개선",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "U-17 배구 세계선수권 6위 마감",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 10,
-      "keyword": "이재현 K-라이프스타일 리더 되자",
+      "keyword": "어린이 지도 그리기 대회",
       "state": "n",
       "change": "0"
     }
