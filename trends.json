@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-17T13:14:06.607Z",
+  "updatedAt": "2026-08-17T13:54:10.015Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "도지코인",
+      "keyword": "선성권",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "가요무대",
-      "traffic": "100+"
+      "keyword": "도지코인",
+      "traffic": "200+"
     },
     {
       "rank": 3,
+      "keyword": "가요무대",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
       "keyword": "최수종",
       "traffic": "500+"
     },
     {
-      "rank": 4,
-      "keyword": "김상욱",
-      "traffic": "200+"
-    },
-    {
       "rank": 5,
-      "keyword": "iphone 17 pro",
+      "keyword": "김상욱",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "니콜 키드먼",
+      "keyword": "iphone 17 pro",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "로봇",
+      "keyword": "니콜 키드먼",
       "traffic": "1000+"
     },
     {
       "rank": 8,
+      "keyword": "로봇",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 9,
       "keyword": "김태선",
       "traffic": "200+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "openai",
       "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "신세계",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 당대표 수락 연설",
+      "keyword": "김민석 당대표 수락연설",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "황현민, 마르코와 난투극",
-      "state": "s",
+      "keyword": "김밥마저 상승에 한 줄에",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "안세영 부상 극복 32강 진출",
+      "keyword": "김창열 이하늘 DJ DOC 컴백 예고",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "제니, 블랙핑크 10주년 사과",
-      "state": "s",
+      "keyword": "호텔서 탄창 발견",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "5성급 호텔 탄창 발견",
+      "keyword": "성시경 미요시 열애설",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "하영 친일재산 환수 가능성",
+      "keyword": "암 투병 중 넷째 임신 소식",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "오현경과 윤지숙, 한강 에어로빅 출석",
+      "keyword": "안세영 복귀전 승리 32강 진출",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "남겨서 뭐하게",
-      "state": "+",
-      "change": "2"
+      "keyword": "가요무대",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "남부 폭우 피해 최소화 집중",
+      "keyword": "최애의 사원",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "박주호 안나 넷째 임신 성공",
+      "keyword": "정해인 매니저 갑질 해명",
       "state": "n",
       "change": "0"
     }
