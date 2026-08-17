@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-08-17T11:34:55.837Z",
+  "updatedAt": "2026-08-17T11:54:20.470Z",
   "google": [
     {
       "rank": 1,
       "keyword": "신세계",
-      "traffic": "100+"
+      "traffic": "200+"
     },
     {
       "rank": 2,
       "keyword": "김부선",
-      "traffic": "5000+"
+      "traffic": "10000+"
     },
     {
       "rank": 3,
@@ -18,13 +18,13 @@
     },
     {
       "rank": 4,
-      "keyword": "대한민국",
-      "traffic": "500+"
+      "keyword": "서미화",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "서미화",
-      "traffic": "1000+"
+      "keyword": "대한민국",
+      "traffic": "500+"
     },
     {
       "rank": 6,
@@ -55,63 +55,63 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 신임 당대표 축하받다",
+      "keyword": "김민석 당대표 수락연설",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "배정남·마르코 난투극 재소환",
+      "keyword": "마르코와 배정남 폭행 사건",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "박주호♥ 안나, 암 이겨내고 넷째 임신",
-      "state": "s",
+      "keyword": "안세영 부상 복귀 승리",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "헤이든 파네티어 갑작스런 별세",
-      "state": "+",
-      "change": "7"
+      "keyword": "박주호 안나 넷째 임신",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "조규성, 일본행 가능성",
+      "keyword": "홍명보 후임 면접 임시 전형",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "야구장서 바이킹 랜드",
+      "keyword": "이하늘, DJ DOC 11월 컴백",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "부상 안세영 40위 고전 2-0 진출",
+      "keyword": "친일재산 최소 325억 환수",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "임시 감독 지원자 면접 곧 실시",
+      "keyword": "9440억 현금 노소영",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "정해인 매니저 논란 해명",
+      "keyword": "트럼프 주목 북미 대화",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "주니, 오싹한 연애 OST 발매",
-      "state": "-",
-      "change": "4"
+      "keyword": "李대통령 가장 강해 새 지도부 중심",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
