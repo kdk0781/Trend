@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-17T10:43:42.155Z",
+  "updatedAt": "2026-08-17T11:03:42.297Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "제주 sk fc",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
       "keyword": "서미화",
       "traffic": "500+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "대한민국",
-      "traffic": "200+"
+      "traffic": "500+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "티비",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "테라파워",
       "traffic": "2000+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "디즈니",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "부모",
       "traffic": "5000+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "조 째즈",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "상도동",
       "traffic": "100+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "김시우",
       "traffic": "20000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "사건",
-      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "마르코와의 난투극",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "김민석 민주당 대표 선출",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "박주호♥ 안나, 암 극복 후 넷째 임신",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "김서현 정우주 김종수",
+      "keyword": "김민석 신임 당대표 포옹",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 2,
+      "keyword": "배정남 폭행 사건",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "박주호 아내 안나 넷째 임신",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "안세영 복귀전 32강 진출",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "주니, 오싹한 연애 OST 발매",
+      "keyword": "사랑이 온다, 시청률 1위",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "한미훈련 축소 대화 기대",
-      "state": "n",
-      "change": "0"
+      "keyword": "주니, 오싹한 연애 OST 발매",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "정해인 갑질 논란 해명",
+      "keyword": "트럼프, 한미훈련 축소 대화 기대",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "하영 증조부 재산 325억",
+      "keyword": "미요시 아야카, 타짜 제작불참",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김창열 이하늘 컴백 불확실",
+      "keyword": "황정음 반려견 마당 방치",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "삼성전자 나우톡 실명제",
+      "keyword": "조규성 유럽 생활 마무리 가능성",
       "state": "n",
       "change": "0"
     }
