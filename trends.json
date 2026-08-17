@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-17T17:00:11.114Z",
+  "updatedAt": "2026-08-17T17:37:12.452Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "어쌔신 크리드 오디세이",
-      "traffic": "100+"
+      "keyword": "넥슨",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "어벤져스 둠스데이",
-      "traffic": "500+"
+      "keyword": "인벤",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "황현민",
+      "keyword": "브루스 윌리스",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "창원시장",
-      "traffic": "200+"
+      "keyword": "어쌔신 크리드 오디세이",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "이진",
+      "keyword": "어벤져스 둠스데이",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "나이스",
-      "traffic": "100+"
+      "keyword": "황현민",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "선박",
+      "keyword": "창원시장",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "차두리",
+      "keyword": "이진",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "손담비",
-      "traffic": "500+"
+      "keyword": "나이스",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "새마을금고",
-      "traffic": "100+"
+      "keyword": "선박",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 신임 대표 수락",
+      "keyword": "김민석, 신임 당대표 수락",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
       "keyword": "블랙핑크 10주년 사과",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "안세영, 세계선수권 32강 진출",
-      "state": "n",
+      "keyword": "안세영 복귀전 승리 32강 진출",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "트럼프 한미훈련 축소 우려",
+      "keyword": "트럼프 한미훈련 축소",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "박주호 안나 넷째 임신",
+      "keyword": "잠실 호텔 탄창 발견",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "잠실 5성급 호텔 탄창 발견",
-      "state": "+",
-      "change": "1"
+      "keyword": "박주호 안나 넷째 임신 걱정",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "호우 산사태 1명 사망",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "마르코 난투극 발생",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 9,
       "keyword": "첫 홀 버디 성공",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "하영 증조부 재산 환수 가능성",
+      "rank": 8,
+      "keyword": "60일 부부 아내, 둘째 원해",
       "state": "+",
-      "change": "2"
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "마르코 난투극 발생",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 10,
+      "keyword": "하영 증조부 재산 325억 환수",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
