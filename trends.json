@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-17T20:58:45.411Z",
+  "updatedAt": "2026-08-17T21:27:03.581Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "강기윤",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
+      "keyword": "데이터 센터",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
       "keyword": "당대표",
       "traffic": "5000+"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "keyword": "정년",
       "traffic": "1000+"
     },
     {
-      "rank": 3,
-      "keyword": "최애의 사원",
-      "traffic": "1000+"
+      "rank": 5,
+      "keyword": "야생생물",
+      "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "퇴직",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
-      "keyword": "대치동",
-      "traffic": "100+"
+      "rank": 7,
+      "keyword": "최애의 사원",
+      "traffic": "2000+"
     },
     {
-      "rank": 6,
+      "rank": 8,
+      "keyword": "대치동",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
       "keyword": "판문점 도끼",
       "traffic": "100+"
     },
     {
-      "rank": 7,
-      "keyword": "국경",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "fc온라인",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "넥슨",
-      "traffic": "2000+"
-    },
-    {
       "rank": 10,
-      "keyword": "브루스 윌리스",
-      "traffic": "500+"
+      "keyword": "국경",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 신임 대표 찾은 거제",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "첫 홀 버디 성공",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "블랙핑크 10주년 사과",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "마르코 난투극 발발",
-      "state": "+",
-      "change": "11"
-    },
-    {
-      "rank": 5,
-      "keyword": "트럼프 김정은 대화 응답",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "하영 증조부 재산 환수 여부",
-      "state": "+",
-      "change": "43"
-    },
-    {
-      "rank": 7,
-      "keyword": "60일 부부 아내, 이혼 결심 고백",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "이강인 라리가 출전 무산?",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "2026년 8월 18일 운세",
+      "keyword": "트럼프 김정은 대화 응답 긍정적",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "오현경 윤지숙, 한강 에어로빅 출석",
+      "rank": 2,
+      "keyword": "첫 홀 버디 성공",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "임영웅 결혼하고 싶은 듯",
       "state": "+",
-      "change": "7"
+      "change": "3"
+    },
+    {
+      "rank": 4,
+      "keyword": "김민석, 거제 수해 현장 방문",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "마르코 난투극 황현민과 배정남",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "이강인 라리가 개막전 불참 가능성",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "내 남은 연애에 대한 다양한 소식",
+      "state": "+",
+      "change": "5"
+    },
+    {
+      "rank": 8,
+      "keyword": "2026년 8월 18일 운세",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "오늘도 에어로빅 간다!",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "손흥민 5G 연속골 실패",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
