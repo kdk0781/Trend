@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-17T05:27:44.797Z",
+  "updatedAt": "2026-08-17T05:59:46.007Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "트레킹",
-      "traffic": "500+"
+      "keyword": "헤이든 파네티어",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "로스앤젤레스 fc",
-      "traffic": "2000+"
+      "keyword": "키옥시아 주가",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "김영익",
+      "keyword": "브루클린 베컴",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "경마",
-      "traffic": "200+"
+      "keyword": "과학 고등학교",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "실업",
-      "traffic": "100+"
+      "keyword": "india vs sri lanka",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "최상엽",
+      "keyword": "트레킹",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "포옛",
+      "keyword": "로스앤젤레스 fc",
       "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "사우나",
+      "keyword": "김영익",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "hayden panettiere",
-      "traffic": "2000+"
+      "keyword": "실업",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "과학고등학교",
-      "traffic": "100+"
+      "keyword": "경마",
+      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "루시 최상엽, 8월 결혼 발표",
+      "keyword": "루시 최상엽, 8월 비연예인 결혼",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "임시 감독 면접 시작",
+      "keyword": "대표팀 임시 감독 면접 시작",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "삼성, 국제올림피아드 장학금 발급",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "거제 옥포동 산사태 발생",
+      "keyword": "거제 옥포동 산사태",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "광복절 연휴 마지막 날",
+      "rank": 5,
+      "keyword": "가양동 아파트 화재 감식",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "광복절 연휴 마지막 날",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "하영 친일 논란 여파",
+      "keyword": "정해인 동생 매니저 엄마가 만든 따까리",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "주니, 오싹한 연애 OST 발매",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 9,
-      "keyword": "다비치안경 과징금 15억",
+      "keyword": "주니, 오싹한 연애 OST 마이 걸 발매",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "이하늘 11월 컴백 예정",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "통영 산사태 여성 1시간 반 만에 구조",
+      "keyword": "광복 81주년",
       "state": "n",
       "change": "0"
     }
