@@ -1,62 +1,62 @@
 {
-  "updatedAt": "2026-08-17T20:01:19.006Z",
+  "updatedAt": "2026-08-17T20:37:58.041Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "최애의 사원",
-      "traffic": "500+"
+      "keyword": "당대표",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "퇴직",
+      "keyword": "정년",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "판문점 도끼",
-      "traffic": "100+"
+      "keyword": "최애의 사원",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "국경",
+      "keyword": "퇴직",
       "traffic": "500+"
     },
     {
       "rank": 5,
+      "keyword": "대치동",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "판문점 도끼",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "국경",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
       "keyword": "fc온라인",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "넥슨",
       "traffic": "2000+"
     },
     {
-      "rank": 7,
-      "keyword": "브루스 윌리스",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "뇌",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "어쌔신 크리드 오디세이",
-      "traffic": "100+"
-    },
-    {
       "rank": 10,
-      "keyword": "어벤져스 둠스데이",
+      "keyword": "브루스 윌리스",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 정청래 만찬",
-      "state": "s",
+      "keyword": "김민석 정청래 송영길 만찬",
+      "state": "n",
       "change": "0"
     },
     {
@@ -73,45 +73,45 @@
     },
     {
       "rank": 4,
-      "keyword": "남부 폭우 피해 최소화 집중",
-      "state": "s",
-      "change": "0"
+      "keyword": "출산 후 둘째 원해 이혼 결심",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "60일 만에 이혼 결심",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "이강인, 스페인 복귀전 불발 위기",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "임영웅 결혼하고 싶은 듯",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "김밥마저 상승에 한 줄에",
+      "keyword": "트럼프 김정은 대화 응답",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "이강인 출전 위기!",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "2026년 8월 18일 운세",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "임영웅 결혼하고 싶은 듯",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "트럼프 속내 바꿀 수 있습니다.",
+      "keyword": "모카항 사우디 군함 공격",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "잠실 5성급 호텔 탄창 발견",
-      "state": "-",
-      "change": "5"
+      "keyword": "김밥도 4천 원 육박",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
