@@ -1,62 +1,62 @@
 {
-  "updatedAt": "2026-08-17T17:59:44.165Z",
+  "updatedAt": "2026-08-17T18:44:49.508Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "넥슨",
-      "traffic": "2000+"
+      "keyword": "국경",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "인벤",
+      "keyword": "fc온라인",
       "traffic": "500+"
     },
     {
       "rank": 3,
+      "keyword": "넥슨",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
       "keyword": "브루스 윌리스",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "뇌",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "어쌔신 크리드 오디세이",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "어벤져스 둠스데이",
       "traffic": "500+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "황현민",
-      "traffic": "200+"
+      "traffic": "500+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "창원시장",
       "traffic": "200+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "이진",
       "traffic": "500+"
-    },
-    {
-      "rank": 10,
-      "keyword": "나이스",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 당대표 수락연설",
-      "state": "s",
+      "keyword": "김민석 신임 대표 거제 방문",
+      "state": "n",
       "change": "0"
     },
     {
@@ -67,49 +67,49 @@
     },
     {
       "rank": 3,
-      "keyword": "안세영, 복귀전 32강 진출",
-      "state": "s",
-      "change": "0"
+      "keyword": "안세영 복귀전 완승",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "5성급 탄창 발견",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "트럼프 한미훈련 축소",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "첫 홀 버디 성공",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "박주호 안나, 넷째 임신 걱정",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "60일 부부 아내 이혼 결심",
+      "keyword": "잠실 호텔서 탄창 발견",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "325억 가능 증조부",
+      "rank": 5,
+      "keyword": "황현민, 배정남·마르코 난투극",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "최소화에 모든 역량 집중",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "첫 홀 버디 성공",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "60일 부부 아내, 둘째 원해",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "하영 증조부 재산 환수 가능성",
+      "state": "+",
+      "change": "48"
+    },
+    {
       "rank": 10,
-      "keyword": "남은 연애 버킷리스트 데이트",
+      "keyword": "오현경과 윤지숙 에어로빅 출석",
       "state": "n",
       "change": "0"
     }
