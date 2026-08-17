@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-17T09:24:13.243Z",
+  "updatedAt": "2026-08-17T10:03:19.646Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "부모",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "조 째즈",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
       "keyword": "김시우",
       "traffic": "20000+"
     },
     {
-      "rank": 2,
+      "rank": 4,
+      "keyword": "사건",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
       "keyword": "홍인규",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "keyword": "은행원",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "keyword": "sk하이닉스",
-      "traffic": "20000+"
+      "traffic": "50000+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "세계 선수권 대회",
       "traffic": "2000+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "포항시",
       "traffic": "2000+"
     },
     {
-      "rank": 7,
-      "keyword": "민주당 당대표",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
+      "rank": 10,
       "keyword": "설영우",
       "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "내 남은 연애",
-      "traffic": "500+"
-    },
-    {
-      "rank": 10,
-      "keyword": "이현이",
-      "traffic": "20000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정견발표하는 김민석 후보",
+      "keyword": "마르코의 폭행 사건",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "배정남, 마르코 폭행 사건",
-      "state": "s",
-      "change": "0"
+      "keyword": "정견발표하는 김민석 후보",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "4할 타자 백인천 영면",
+      "keyword": "사랑이 온다, 주말 1위!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이하늘 DJ DOC 15년 만 컴백",
-      "state": "+",
-      "change": "1"
+      "keyword": "트럼프 한미훈련 축소",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "오싹한 연애 OST 발매",
+      "keyword": "김서현 정우주 1군 복귀",
       "state": "+",
-      "change": "6"
+      "change": "4"
     },
     {
       "rank": 6,
-      "keyword": "거제 집중호우 피해 속출",
-      "state": "+",
+      "keyword": "주니, 오싹한 연애 OST 마이 걸 발매",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "김서현 정우주 1군 복귀",
-      "state": "n",
-      "change": "0"
+      "keyword": "거제 집중호우 차량 피해",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "히어로즈 파네티어, 36세 급사",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 9,
-      "keyword": "한미훈련 축소 대화로",
+      "keyword": "박주호 안나 넷째 임신",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "DJ DOC 11월 컴백",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 10,
-      "keyword": "5대 은행 여력 7.5조 확대",
+      "keyword": "정해인, 엄마가 만든 따까리",
       "state": "n",
       "change": "0"
     }
