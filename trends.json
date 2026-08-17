@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-08-17T07:57:45.031Z",
+  "updatedAt": "2026-08-17T08:41:03.956Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "닛케이 평균주가",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "내 남은 연애",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "이현이",
+      "traffic": "20000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "무인 항공기",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "사진",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "환태평양 조산대",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "굴리엘모 비카리오",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
       "keyword": "조째즈",
       "traffic": "200+"
     },
     {
-      "rank": 2,
-      "keyword": "안나",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "대의원",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "코오롱티슈진",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "유학생",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "매일경제신문",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "솔로지옥 5",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "알렉산더 볼카노프스키",
-      "traffic": "200+"
-    },
-    {
       "rank": 9,
-      "keyword": "임신",
+      "keyword": "안나",
       "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "어벤져스: 둠스데이",
+      "keyword": "대의원",
       "traffic": "500+"
     }
   ],
@@ -56,62 +56,62 @@
     {
       "rank": 1,
       "keyword": "정견발표하는 최고위원 후보",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 2,
+      "keyword": "지지를 호소하는 후보들",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 2,
-      "keyword": "민주당 전당대회 시위",
+      "rank": 3,
+      "keyword": "마르코 폭행 사건",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 4,
+      "keyword": "4할 타자 백인천 영면",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "미요시 아야카, 타짜4 제작보고회 불참",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "하영 재산 환수 가능성?",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "오디세이 500만 돌파",
-      "state": "-",
-      "change": "1"
+      "rank": 7,
+      "keyword": "사랑이 온다, 시청률 고공행진",
+      "state": "s",
+      "change": "0"
     },
     {
-      "rank": 4,
+      "rank": 8,
+      "keyword": "임시 감독 면접 진행",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
       "keyword": "트리플에스 곽연지 시구",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "거제 도로 통제",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "트럼프 한미훈련 축소 주목",
+      "rank": 10,
+      "keyword": "히어로즈 헤이든 파네티어 사망 36세",
       "state": "+",
       "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "미요시 타짜4 불참 이유",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "헤이든 파네티어, 36세 갑작스런 사망",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "임시 감독 면접 진행",
-      "state": "-",
-      "change": "7"
-    },
-    {
-      "rank": 10,
-      "keyword": "갯벌 체험 시민",
-      "state": "+",
-      "change": "2"
     }
   ]
 }
