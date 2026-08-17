@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-17T23:14:47.809Z",
+  "updatedAt": "2026-08-17T23:39:16.447Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "도박",
+      "keyword": "강원도민일보",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "브래들리 바르콜라",
-      "traffic": "100+"
+      "keyword": "도박",
+      "traffic": "500+"
     },
     {
       "rank": 3,
+      "keyword": "브래들리 바르콜라",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
       "keyword": "김도영",
       "traffic": "1000+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "남보라",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "라리가",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "fc 서울",
       "traffic": "500+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "육상 경기",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "나는 solo",
       "traffic": "2000+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "수영",
       "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "심현섭",
-      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 김정은 대화 응답",
+      "keyword": "마르코 사건 정리",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 2,
+      "keyword": "트럼프 김정은 대화 요청 응답",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 2,
-      "keyword": "배정남 폭행 마르코?",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 3,
-      "keyword": "이강인 마드리드 입단",
-      "state": "s",
+      "keyword": "LIV 골프 시즌 조기 종료",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "장성규 거제 폭우 충격",
+      "keyword": "하이브 신인 튜이드 데뷔 음원 공개",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김하영, 지방흡입으로 12KG 감량",
+      "keyword": "하영 증조부 친일재산 환수?",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "2026년 8월 18일 운세",
-      "state": "s",
+      "keyword": "제니 변명 없이 사과 10주년",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "오현경 딸, 美 유학 후 대학원 준비",
+      "keyword": "인판티노 비판 후 경질",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "뉴욕증시 일제히 하락",
-      "state": "+",
-      "change": "1"
+      "keyword": "청년 과반 AI 대체 불안",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "제니 10주년 사과",
+      "keyword": "옥순과 이별 후 4개월",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "지연수, 렌즈 뺀 눈 공개",
+      "keyword": "김숙 폭로한 유명 MC 본성 의혹",
       "state": "n",
       "change": "0"
     }
