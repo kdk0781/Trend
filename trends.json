@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-17T16:39:00.526Z",
+  "updatedAt": "2026-08-17T17:00:11.114Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "어쌔신 크리드 오디세이",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
       "keyword": "어벤져스 둠스데이",
       "traffic": "500+"
     },
     {
-      "rank": 2,
-      "keyword": "황현민",
-      "traffic": "100+"
-    },
-    {
       "rank": 3,
-      "keyword": "창원시장",
+      "keyword": "황현민",
       "traffic": "200+"
     },
     {
       "rank": 4,
+      "keyword": "창원시장",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
       "keyword": "이진",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "나이스",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "선박",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "차두리",
       "traffic": "500+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "손담비",
       "traffic": "500+"
     },
     {
-      "rank": 9,
-      "keyword": "새마을금고",
-      "traffic": "100+"
-    },
-    {
       "rank": 10,
-      "keyword": "kick",
+      "keyword": "새마을금고",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 당대표 수락 연설",
+      "keyword": "김민석 신임 대표 수락",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "안세영 복귀전 완승 32강행",
+      "keyword": "블랙핑크 10주년 사과",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "안세영, 세계선수권 32강 진출",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "블랙핑크 10주년 사과",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 4,
-      "keyword": "트럼프 훈련 축소 우려",
+      "keyword": "트럼프 한미훈련 축소 우려",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
       "keyword": "박주호 안나 넷째 임신",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "마르코 난투극 벌였다",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "5성급 호텔 탄창 발견",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "극한 호우로 1명 사망",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "첫 홀 버디 도전 성공",
-      "state": "-",
+      "rank": 6,
+      "keyword": "잠실 5성급 호텔 탄창 발견",
+      "state": "+",
       "change": "1"
     },
     {
-      "rank": 10,
-      "keyword": "김서현 정우주 1군 복귀",
-      "state": "n",
+      "rank": 7,
+      "keyword": "호우 산사태 1명 사망",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "마르코 난투극 발생",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "첫 홀 버디 성공",
+      "state": "s",
       "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "하영 증조부 재산 환수 가능성",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
