@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-08-17T17:37:12.452Z",
+  "updatedAt": "2026-08-17T17:59:44.165Z",
   "google": [
     {
       "rank": 1,
       "keyword": "넥슨",
-      "traffic": "1000+"
+      "traffic": "2000+"
     },
     {
       "rank": 2,
       "keyword": "인벤",
-      "traffic": "100+"
+      "traffic": "500+"
     },
     {
       "rank": 3,
@@ -18,44 +18,44 @@
     },
     {
       "rank": 4,
+      "keyword": "뇌",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
       "keyword": "어쌔신 크리드 오디세이",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "어벤져스 둠스데이",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "황현민",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "창원시장",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "이진",
       "traffic": "500+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "나이스",
       "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "선박",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석, 신임 당대표 수락",
+      "keyword": "김민석 당대표 수락연설",
       "state": "s",
       "change": "0"
     },
@@ -67,49 +67,49 @@
     },
     {
       "rank": 3,
-      "keyword": "안세영 복귀전 승리 32강 진출",
+      "keyword": "안세영, 복귀전 32강 진출",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "트럼프 한미훈련 축소",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "잠실 호텔 탄창 발견",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "박주호 안나 넷째 임신 걱정",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "첫 홀 버디 성공",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "60일 부부 아내, 둘째 원해",
+      "keyword": "5성급 탄창 발견",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "마르코 난투극 발생",
+      "rank": 5,
+      "keyword": "트럼프 한미훈련 축소",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "첫 홀 버디 성공",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "박주호 안나, 넷째 임신 걱정",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "60일 부부 아내 이혼 결심",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "325억 가능 증조부",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "하영 증조부 재산 325억 환수",
+      "keyword": "남은 연애 버킷리스트 데이트",
       "state": "n",
       "change": "0"
     }
