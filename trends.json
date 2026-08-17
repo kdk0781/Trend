@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T11:54:20.470Z",
+  "updatedAt": "2026-08-17T12:25:54.370Z",
   "google": [
     {
       "rank": 1,
@@ -49,67 +49,67 @@
     {
       "rank": 10,
       "keyword": "조 째즈",
-      "traffic": "1000+"
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 당대표 수락연설",
+      "keyword": "김민석 신임 당대표 수락",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "마르코와 배정남 폭행 사건",
+      "keyword": "배정남 마르코 폭행 사건",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "안세영 부상 복귀 승리",
+      "keyword": "최강 안세영, 복귀전 32강행",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "박주호 안나 넷째 임신",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "홍명보 후임 면접 임시 전형",
+      "keyword": "박주호 안나 넷째 임신 소식",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "하영 증조부 재산 환수 가능성",
+      "state": "+",
+      "change": "68"
+    },
+    {
       "rank": 6,
-      "keyword": "이하늘, DJ DOC 11월 컴백",
+      "keyword": "200년 만에 온 괴물 폭우",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "친일재산 최소 325억 환수",
+      "keyword": "김창열 DJ DOC 컴백 불투명",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "9440억 현금 노소영",
+      "keyword": "바이킹 타보세요! 랜더스 랜드 개최",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "트럼프 주목 북미 대화",
-      "state": "n",
-      "change": "0"
+      "keyword": "헤이든 파네티어 36세 별세",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 10,
-      "keyword": "李대통령 가장 강해 새 지도부 중심",
+      "keyword": "매니저 갑질 제 따까리",
       "state": "n",
       "change": "0"
     }
