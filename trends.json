@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-17T13:54:10.015Z",
+  "updatedAt": "2026-08-17T14:19:19.734Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "학생",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
       "keyword": "선성권",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "도지코인",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "가요무대",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "최수종",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "김상욱",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "iphone 17 pro",
       "traffic": "500+"
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "keyword": "시장",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
       "keyword": "니콜 키드먼",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "로봇",
       "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "김태선",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "openai",
-      "traffic": "100+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "김밥마저 상승에 한 줄에",
-      "state": "n",
-      "change": "0"
+      "keyword": "DJ DOC 컴백 불투명",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "김창열 이하늘 DJ DOC 컴백 예고",
+      "keyword": "잠실 호텔 실탄 발견 경찰 조사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "호텔서 탄창 발견",
+      "keyword": "성시경과 아야카 건강 문제로 불참",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "성시경 미요시 열애설",
+      "keyword": "블랙핑크 10주년 사과",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "암 투병 중 넷째 임신 소식",
-      "state": "n",
-      "change": "0"
+      "keyword": "가요무대",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "안세영 복귀전 승리 32강 진출",
+      "keyword": "박주호 넷째 임신 고백",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "가요무대",
+      "keyword": "안세영, 부상 복귀 완승 32강행",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "최애의 사원",
+      "keyword": "정해인 매니저 갑질 해명",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "정해인 매니저 갑질 해명",
-      "state": "n",
-      "change": "0"
+      "keyword": "최애의 사원",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
