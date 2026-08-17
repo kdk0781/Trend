@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-17T22:04:47.391Z",
+  "updatedAt": "2026-08-17T22:35:14.243Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "민생지원금",
-      "traffic": "20000+"
+      "keyword": "나는 solo",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "부산날씨",
-      "traffic": "200+"
+      "keyword": "수영",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "나솔",
-      "traffic": "500+"
+      "keyword": "심현섭",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "김상식",
-      "traffic": "200+"
+      "keyword": "강원랜드",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "재건축",
-      "traffic": "1000+"
+      "keyword": "상호금융",
+      "traffic": "200+"
     },
     {
       "rank": 6,
+      "keyword": "민생지원금",
+      "traffic": "50000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "김상식",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
       "keyword": "후티 예멘",
       "traffic": "500+"
     },
     {
-      "rank": 7,
-      "keyword": "고속도로",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "최태원",
-      "traffic": "2000+"
-    },
-    {
       "rank": 9,
-      "keyword": "พยากรณ์อากาศ",
-      "traffic": "100+"
+      "keyword": "재건축",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "강기윤",
-      "traffic": "500+"
+      "keyword": "고속도로",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 김정은 대화 응답",
-      "state": "n",
+      "keyword": "트럼프 김정은 대화 응답 긍정적",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "한국 축구 진행 중",
-      "state": "+",
-      "change": "4"
+      "keyword": "韓 축구 진행 중",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "조째즈 중형차 값 성형 얼굴",
+      "keyword": "조째즈, 중형차 값 성형 고백",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김민석 거제 방문",
-      "state": "s",
-      "change": "0"
+      "keyword": "마르코, 배정남 폭행?",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "2026년 8월 18일 운세",
-      "state": "s",
-      "change": "0"
+      "keyword": "김민석 거제 방문",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "임영웅 결혼하고 싶은 듯",
+      "keyword": "하영 증조부 재산 환수 가능성",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "마르코, 배정남 폭행 사건",
-      "state": "+",
-      "change": "1"
+      "keyword": "2026년 8월 18일 운세",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "하영 증조부 재산 환수 가능성",
-      "state": "+",
-      "change": "1"
+      "keyword": "여성 수감자 19금 펜팔",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "29기 영수, 옥순 결별 4개월",
+      "keyword": "뉴욕증시 일제히 하락",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "정해인, 매니저 갑질 해명",
+      "keyword": "태풍 루사 강수 최고 기록",
       "state": "n",
       "change": "0"
     }
