@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T19:44:07.453Z",
+  "updatedAt": "2026-08-17T20:01:19.006Z",
   "google": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
     {
       "rank": 2,
       "keyword": "퇴직",
-      "traffic": "200+"
+      "traffic": "500+"
     },
     {
       "rank": 3,
@@ -67,51 +67,51 @@
     },
     {
       "rank": 3,
-      "keyword": "첫 홀 버디 도전",
+      "keyword": "첫 홀 버디 성공",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "최소화에 모든 역량 집중",
+      "keyword": "남부 폭우 피해 최소화 집중",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "60일 만에 이혼 결심",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "잠실 호텔서 총알 발견",
-      "state": "-",
+      "rank": 6,
+      "keyword": "이강인, 스페인 복귀전 불발 위기",
+      "state": "+",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "60일 부부 아내, 아이 욕심에 이혼 결심",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 7,
-      "keyword": "이강인 출전 불발 위기",
-      "state": "s",
-      "change": "0"
+      "keyword": "임영웅 결혼하고 싶은 듯",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "트럼프 훈련 축소",
-      "state": "s",
+      "keyword": "김밥마저 상승에 한 줄에",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "임영웅 결혼하고 싶은 듯",
-      "state": "s",
+      "keyword": "트럼프 속내 바꿀 수 있습니다.",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김정은에 불만 트럼프",
-      "state": "n",
-      "change": "0"
+      "keyword": "잠실 5성급 호텔 탄창 발견",
+      "state": "-",
+      "change": "5"
     }
   ]
 }
