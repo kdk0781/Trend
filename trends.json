@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-17T14:48:39.890Z",
+  "updatedAt": "2026-08-17T15:10:37.599Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "손담비",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
+      "keyword": "차두리",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "새마을금고",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "kick",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
       "keyword": "면허",
       "traffic": "200+"
     },
     {
-      "rank": 2,
-      "keyword": "지연수",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "드레스",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "왕과 사는 남자",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "허구연",
-      "traffic": "200+"
-    },
-    {
       "rank": 6,
-      "keyword": "을지훈련",
+      "keyword": "케스파",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "학생",
-      "traffic": "200+"
+      "keyword": "지연수",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "선성권",
+      "keyword": "드레스",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "도지코인",
-      "traffic": "200+"
+      "keyword": "왕과 사는 남자",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "가요무대",
+      "keyword": "허구연",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 정청래 송영길과 만찬",
-      "state": "n",
+      "keyword": "이 대통령, 김민석 정청래 송영길과 만찬",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "잠실 호텔 탄창 발견",
+      "keyword": "잠실 5성급 호텔 탄창 발견",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "성시경 미요시 아야카 건강이상",
+      "keyword": "열애설 성시경 미요시 아야카 불참",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "가요무대",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "블랙핑크 10주년 사과",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "김밥 재료값 상승 4천 원 육박",
+      "keyword": "박주호 안나 넷째 임신 소식",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "가요무대",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "블랙핑크 10주년 사과",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "김창열, 이하늘 15년 만 DJ DOC 컴백",
+      "keyword": "김창열 이하늘 DJ DOC 컴백 불투명",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "첫 홀 버디 성공!",
-      "state": "n",
+      "keyword": "첫 홀 버디 도전 성공",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "정해인 엄마가 만든 따까리",
+      "keyword": "황현민 배정남 마르코 난투극 재조명",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "전현무 회식비 0원 폭로",
+      "keyword": "친일재산 최소 환수 가능",
       "state": "n",
       "change": "0"
     }
