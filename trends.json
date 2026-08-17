@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-17T05:59:46.007Z",
+  "updatedAt": "2026-08-17T07:03:12.224Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "헤이든 파네티어",
+      "keyword": "솔로지옥 5",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "키옥시아 주가",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "브루클린 베컴",
+      "keyword": "알렉산더 볼카노프스키",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "임신",
+      "traffic": "1000+"
+    },
+    {
       "rank": 4,
-      "keyword": "과학 고등학교",
+      "keyword": "어벤져스: 둠스데이",
       "traffic": "500+"
     },
     {
       "rank": 5,
+      "keyword": "헤이든 파네티어",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "키옥시아 주가",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "브루클린 베컴",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "과학 고등학교",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
       "keyword": "india vs sri lanka",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 10,
       "keyword": "트레킹",
       "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "로스앤젤레스 fc",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "김영익",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "실업",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "경마",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 훈련 축소",
-      "state": "s",
-      "change": "0"
+      "keyword": "거제 도로 통제",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 2,
-      "keyword": "루시 최상엽, 8월 비연예인 결혼",
-      "state": "s",
-      "change": "0"
+      "keyword": "오디세이 500만 돌파",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 3,
-      "keyword": "대표팀 임시 감독 면접 시작",
-      "state": "s",
-      "change": "0"
+      "keyword": "민주당 전당대회 인사말",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 4,
-      "keyword": "거제 옥포동 산사태",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
       "keyword": "가양동 아파트 화재 감식",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "임시 감독 면접 시작",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 6,
+      "keyword": "트럼프 한미훈련 축소",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
       "keyword": "광복절 연휴 마지막 날",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "정해인 동생 매니저 엄마가 만든 따까리",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 8,
-      "keyword": "주니, 오싹한 연애 OST 마이 걸 발매",
-      "state": "s",
-      "change": "0"
+      "keyword": "루시 최상엽, 8월 결혼 발표",
+      "state": "-",
+      "change": "6"
     },
     {
       "rank": 9,
-      "keyword": "이하늘 11월 컴백 예정",
+      "keyword": "트리플에스 곽연지 시구하기",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "광복 81주년",
+      "keyword": "한미 연합훈련 구체 사항 조율",
       "state": "n",
       "change": "0"
     }
