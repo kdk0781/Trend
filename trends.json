@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-17T08:41:03.956Z",
+  "updatedAt": "2026-08-17T09:24:13.243Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "닛케이 평균주가",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "내 남은 연애",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "이현이",
+      "keyword": "김시우",
       "traffic": "20000+"
     },
     {
-      "rank": 4,
-      "keyword": "무인 항공기",
-      "traffic": "5000+"
+      "rank": 2,
+      "keyword": "홍인규",
+      "traffic": "100+"
     },
     {
-      "rank": 5,
-      "keyword": "사진",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "환태평양 조산대",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "굴리엘모 비카리오",
+      "rank": 3,
+      "keyword": "은행원",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "sk하이닉스",
+      "traffic": "20000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "세계 선수권 대회",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "포항시",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "민주당 당대표",
+      "traffic": "1000+"
+    },
+    {
       "rank": 8,
-      "keyword": "조째즈",
+      "keyword": "설영우",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "안나",
-      "traffic": "2000+"
+      "keyword": "내 남은 연애",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "대의원",
-      "traffic": "500+"
+      "keyword": "이현이",
+      "traffic": "20000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정견발표하는 최고위원 후보",
+      "keyword": "정견발표하는 김민석 후보",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "지지를 호소하는 후보들",
-      "state": "+",
-      "change": "2"
+      "keyword": "배정남, 마르코 폭행 사건",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "마르코 폭행 사건",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 4,
       "keyword": "4할 타자 백인천 영면",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "미요시 아야카, 타짜4 제작보고회 불참",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "하영 재산 환수 가능성?",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "이하늘 DJ DOC 15년 만 컴백",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "오싹한 연애 OST 발매",
+      "state": "+",
+      "change": "6"
+    },
+    {
+      "rank": 6,
+      "keyword": "거제 집중호우 피해 속출",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "사랑이 온다, 시청률 고공행진",
-      "state": "s",
+      "keyword": "김서현 정우주 1군 복귀",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "임시 감독 면접 진행",
-      "state": "n",
-      "change": "0"
+      "keyword": "히어로즈 파네티어, 36세 급사",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "트리플에스 곽연지 시구",
+      "keyword": "한미훈련 축소 대화로",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "히어로즈 헤이든 파네티어 사망 36세",
-      "state": "+",
-      "change": "1"
+      "keyword": "5대 은행 여력 7.5조 확대",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
