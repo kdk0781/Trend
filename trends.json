@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-17T15:42:03.722Z",
+  "updatedAt": "2026-08-17T16:00:24.972Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이진",
+      "keyword": "창원시장",
       "traffic": "200+"
     },
     {
       "rank": 2,
+      "keyword": "이진",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
       "keyword": "나이스",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "선박",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "손담비",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "차두리",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "새마을금고",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "kick",
       "traffic": "100+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "면허",
       "traffic": "200+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "케스파",
       "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "지연수",
-      "traffic": "1000+"
     }
   ],
   "domestic": [
