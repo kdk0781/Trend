@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-08-18T20:46:03.057Z",
+  "updatedAt": "2026-08-18T21:02:21.442Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "사우 델",
+      "keyword": "박성현",
       "traffic": "200+"
     },
     {
       "rank": 2,
       "keyword": "반도체 메모리",
-      "traffic": "100+"
+      "traffic": "200+"
     },
     {
       "rank": 3,
@@ -33,37 +33,37 @@
     },
     {
       "rank": 7,
-      "keyword": "아빠 10년",
+      "keyword": "사우델",
       "traffic": "500+"
     },
     {
       "rank": 8,
+      "keyword": "아빠 10년",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 9,
       "keyword": "mortgage rates today",
       "traffic": "100+"
     },
     {
-      "rank": 9,
-      "keyword": "서장훈의 이웃집 백만장 자",
-      "traffic": "5000+"
-    },
-    {
       "rank": 10,
-      "keyword": "매미",
-      "traffic": "1000+"
+      "keyword": "백지연",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "조희대 대법관 서면 제청",
-      "state": "s",
-      "change": "0"
+      "keyword": "문정빈 만루포로 LG 승리",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "문정빈 만루포 LG 승리",
-      "state": "s",
-      "change": "0"
+      "keyword": "트럼프 이란과 대화 없다",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
@@ -73,45 +73,45 @@
     },
     {
       "rank": 4,
-      "keyword": "트럼프 이란 대화 없고 봉쇄 유지",
-      "state": "s",
-      "change": "0"
+      "keyword": "조희대 대법관 서면 제청",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 5,
       "keyword": "임현태 주식 900% 수익률",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
       "keyword": "2026년 8월 19일 운세",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "정해인, 동생과 엄마의 너스레",
+      "keyword": "이의리 세이브 4OUT",
       "state": "+",
-      "change": "11"
+      "change": "10"
     },
     {
       "rank": 8,
-      "keyword": "송진우 미나미 자유남편 만끽",
+      "keyword": "미나미와 자유로운 송진우",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "최형우 역대 최초 역사 빛났다",
-      "state": "n",
-      "change": "0"
+      "keyword": "정해인 맛집 진심",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "하영, 12KG 감량 팔만 남아 수술 결심",
-      "state": "+",
-      "change": "18"
+      "keyword": "최형우 솔로홈런",
+      "state": "-",
+      "change": "4"
     }
   ]
 }
