@@ -1,68 +1,68 @@
 {
-  "updatedAt": "2026-08-18T23:31:40.544Z",
+  "updatedAt": "2026-08-18T23:52:56.838Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "배드민턴",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "경주기행",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "3기 신도시",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "홍민기",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "abl생명",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
       "keyword": "이창민",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 7,
       "keyword": "제니",
       "traffic": "10000+"
     },
     {
-      "rank": 3,
+      "rank": 8,
       "keyword": "이슬람 혁명 수비대",
       "traffic": "200+"
     },
     {
-      "rank": 4,
-      "keyword": "하빕 누르마고메도프",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "내가 만난 사이코패스",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
+      "rank": 9,
       "keyword": "박용우",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "철도",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "천궁2",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "허찬미",
-      "traffic": "100+"
-    },
-    {
       "rank": 10,
-      "keyword": "농민",
-      "traffic": "1000+"
+      "keyword": "하빕 누르마고메도프",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "UAE, 이란과 거래 중단",
-      "state": "s",
+      "keyword": "트럼프, 김정은과 회동 추진",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "제니 8월 컴백 확정",
-      "state": "n",
+      "keyword": "제니 8월 말 컴백 확정",
+      "state": "s",
       "change": "0"
     },
     {
@@ -73,45 +73,45 @@
     },
     {
       "rank": 4,
-      "keyword": "나스닥 1.3% 하락",
-      "state": "+",
-      "change": "1"
+      "keyword": "UAE 이란과 거래 중단",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 5,
       "keyword": "고지용, 이혼 후 아들 그리워",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "정지아 찌니주의보 출간 인터뷰",
-      "state": "n",
-      "change": "0"
+      "keyword": "나스닥 1.3% 하락",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "하원과 목욕 시급 1만4000원",
+      "keyword": "로드리 바르셀로나 2030년 계약",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "2살 아이 때린 엄마 무죄",
+      "keyword": "딸 밀친 엄마 무죄 판결",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "박소담 번아웃인가 혹 13개",
+      "keyword": "하원만 원하더니 시급 1만4000원",
       "state": "-",
       "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "명백한 행동으로 자위권",
-      "state": "n",
-      "change": "0"
+      "keyword": "정해인 입담에 웃다",
+      "state": "+",
+      "change": "3"
     }
   ]
 }
