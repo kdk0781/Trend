@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-08-18T21:33:34.008Z",
+  "updatedAt": "2026-08-18T21:52:41.472Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "파업",
+      "keyword": "기안84",
       "traffic": "500+"
     },
     {
       "rank": 2,
+      "keyword": "제주특별자치도교육청",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "파업",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
       "keyword": "김하성",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "리브 골프",
       "traffic": "20000+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "나는 solo 24기",
-      "traffic": "200+"
+      "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "의대생",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "천궁",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
-      "keyword": "바둑",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "박성현",
-      "traffic": "200+"
-    },
-    {
       "rank": 9,
-      "keyword": "반도체 메모리",
+      "keyword": "바둑",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "사우 델",
+      "keyword": "박성현",
       "traffic": "500+"
     }
   ],
@@ -56,60 +56,60 @@
     {
       "rank": 1,
       "keyword": "트럼프 이란 대화 없다",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "이범호 감독 기쁘다!",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 3,
-      "keyword": "임현태 주식 900% 대박",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "조희대 대법관 서면 제청",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
+      "rank": 2,
+      "keyword": "레이디제인 임현태 주식 대박 900%",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "이범호 감독 응원해요",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
       "keyword": "2026년 8월 19일 운세",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 5,
+      "keyword": "이의리 세이브로 한화 꺾고",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "송진우 미나미 자유 만끽",
-      "state": "+",
-      "change": "2"
+      "keyword": "동상이몽2 송진우 미나미와 자유 만끽",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "황정민, 스토킹 강제조정 불복",
+      "keyword": "한미훈련 축소 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이의리 짜릿한 세이브",
+      "keyword": "황정민 스토킹 합의 없음",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "디즈니 ABC 소송",
+      "keyword": "AI 특허 7배 증가",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김민석 정청래 주장 많아",
+      "keyword": "제니 의상 법적대응이 스트레인지를 초래하다",
       "state": "n",
       "change": "0"
     }
