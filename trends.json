@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-18T15:59:46.421Z",
+  "updatedAt": "2026-08-18T16:36:14.448Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "신진서",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
       "keyword": "서장훈의 이웃집 백만장 자",
       "traffic": "5000+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "mathilde favier",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "태국 대 싱가포르",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "enc",
       "traffic": "100+"
     },
     {
-      "rank": 5,
-      "keyword": "크보",
-      "traffic": "100+"
-    },
-    {
       "rank": 6,
-      "keyword": "두산",
+      "keyword": "공연",
       "traffic": "100+"
     },
     {
       "rank": 7,
+      "keyword": "크보",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "두산",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
       "keyword": "이용대",
       "traffic": "500+"
     },
     {
-      "rank": 8,
-      "keyword": "ไทย พบ สิงคโปร์",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "허경환",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "성시경",
+      "keyword": "ไทย พบ สิงคโปร์",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이태한 특검, 선입견 없이 수사.",
+      "keyword": "이태한 선관위 특검은 진실 규명한다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "손봉기 김성수 제청",
-      "state": "s",
-      "change": "0"
+      "keyword": "정성호 법무부 나서다",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "모텔 살인 김소영 사형 구형",
-      "state": "s",
+      "keyword": "윤호중, 경남 호우피해 점검",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "한정애 정책위의장 권칠승",
-      "state": "s",
-      "change": "0"
+      "keyword": "문정빈 만루포 LG KT에 승리",
+      "state": "+",
+      "change": "13"
     },
     {
       "rank": 5,
-      "keyword": "정성호 역할 작아졌네",
-      "state": "n",
-      "change": "0"
+      "keyword": "현대차 노조 전면파업 예고",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "염경엽 감독의 승리 전략",
-      "state": "+",
-      "change": "7"
+      "keyword": "모텔 살인 사형 구형 으로 바꿀 수 있습니다.",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "권영세 의원과 오세훈 시장",
+      "keyword": "트럼프 훈련 줄임",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "윤호중 장관, 호우피해 현장 방문",
-      "state": "+",
-      "change": "1"
+      "keyword": "모두의 AI 6파전 SKT KT 카카오",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "현대차 노조 10년 전면파업",
+      "keyword": "제니, 악편 대응 결정",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "트럼프 훈련 축소",
-      "state": "n",
-      "change": "0"
+      "keyword": "한정애 정책위의장 권칠승",
+      "state": "-",
+      "change": "7"
     }
   ]
 }
