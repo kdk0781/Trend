@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-18T10:18:57.958Z",
+  "updatedAt": "2026-08-18T10:50:14.206Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "kt 대 lg",
-      "traffic": "1000+"
+      "keyword": "주식",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "권칠승",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "kia 대 한화",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "ssg 대 삼성",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "도시 재개발",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "이태한",
+      "keyword": "야구",
       "traffic": "2000+"
     },
     {
-      "rank": 7,
-      "keyword": "우상혁",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "앤트로픽",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "처벌",
+      "rank": 3,
+      "keyword": "김원효",
       "traffic": "100+"
     },
     {
+      "rank": 4,
+      "keyword": "김숙",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "삼성 갤럭시s26",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "이마트 트레이더 스",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "버스",
+      "traffic": "20000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "이효리",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "kt 대 lg",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "kdb생명",
+      "keyword": "권칠승",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "모텔 연쇄살인 사형 구형",
+      "keyword": "이태한 임명 으로 변경할 수 있습니다.",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "이태한 선관위 임명",
+      "keyword": "정성호 법무부 나서다",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "하영 증조부 친일 행적 논란",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "김세진 SOOP 신임감독",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "김소영 사형 구형",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "하이닉스 주가 부진",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "김민석 민주묘지 참배",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 3,
-      "keyword": "법무부 나서는 정성호",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 4,
-      "keyword": "한정애 정책위의장 권칠승",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "채종협 수해 1000만원 기부",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "LG 이재원 햄스트링 부상 4주 이탈",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "하이닉스 주가 논란",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 8,
-      "keyword": "손봉기 김성수 제청",
+      "keyword": "현대차 노조, 10년 만의 파업",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "포스코 첫 파업 진행",
+      "keyword": "이성경, 수해 이재민에 기부",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "권영세와 오세훈 만남",
-      "state": "n",
-      "change": "0"
+      "keyword": "한정애 정책위의장 권칠승",
+      "state": "-",
+      "change": "6"
     }
   ]
 }
