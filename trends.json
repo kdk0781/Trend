@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-18T09:50:51.187Z",
+  "updatedAt": "2026-08-18T10:18:57.958Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이태한",
-      "traffic": "2000+"
+      "keyword": "kt 대 lg",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "우상혁",
+      "keyword": "권칠승",
       "traffic": "100+"
     },
     {
       "rank": 3,
+      "keyword": "kia 대 한화",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "ssg 대 삼성",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "도시 재개발",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "이태한",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "우상혁",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
       "keyword": "앤트로픽",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "keyword": "처벌",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 10,
       "keyword": "kdb생명",
       "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "박재현",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "함연지",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "손봉기",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "서장훈의 이웃집 백만장자",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "유기상",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "손봉기 김성수 임명 제청",
+      "keyword": "모텔 연쇄살인 사형 구형",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "모텔 연쇄살인 김소영 사형 구형",
-      "state": "-",
-      "change": "1"
+      "keyword": "이태한 선관위 임명",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "한정애 정책위의장 권칠승",
-      "state": "s",
-      "change": "0"
+      "keyword": "법무부 나서는 정성호",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 4,
-      "keyword": "이태한 선관위 특검 임명",
-      "state": "+",
+      "keyword": "한정애 정책위의장 권칠승",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "오세훈 권영세 면담",
-      "state": "-",
-      "change": "1"
+      "keyword": "채종협 수해 1000만원 기부",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "이성경, 집중호우 피해 5천만원 기부",
-      "state": "s",
+      "keyword": "LG 이재원 햄스트링 부상 4주 이탈",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "NC 임지민 턱뼈 수술 완료",
-      "state": "s",
-      "change": "0"
+      "keyword": "하이닉스 주가 논란",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "하이닉스 주가 부진",
+      "keyword": "손봉기 김성수 제청",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "배명호 양육비 미지급 논란",
-      "state": "-",
-      "change": "1"
+      "keyword": "포스코 첫 파업 진행",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "판문점 도끼 만행 추모식",
+      "keyword": "권영세와 오세훈 만남",
       "state": "n",
       "change": "0"
     }
