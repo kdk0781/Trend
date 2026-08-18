@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T19:58:43.390Z",
+  "updatedAt": "2026-08-18T20:30:04.921Z",
   "google": [
     {
       "rank": 1,
@@ -8,110 +8,110 @@
     },
     {
       "rank": 2,
-      "keyword": "로드리",
+      "keyword": "강유정",
       "traffic": "100+"
     },
     {
       "rank": 3,
+      "keyword": "로드리",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
       "keyword": "광화문광장",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "world cup schedule",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "사우델",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "아빠 10년",
-      "traffic": "200+"
+      "traffic": "500+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "mortgage rates today",
       "traffic": "100+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "서장훈의 이웃집 백만장 자",
       "traffic": "5000+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "매미",
       "traffic": "1000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "mathilde favier",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "문정빈 만루포 LG KT승리",
-      "state": "+",
-      "change": "1"
+      "keyword": "조희대 대법관 제청 논란",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "조희대 대법관 제청 관례 파괴",
-      "state": "-",
-      "change": "1"
+      "keyword": "문정빈 만루포 LG 승리",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "제니, 악의적 편집에 법적 대응",
-      "state": "n",
+      "keyword": "황정민, A씨와 소송 강제조정 불복",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "트럼프 이란 대화無",
+      "keyword": "트럼프, 이란과 대화 없어",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김도영 시즌 36호 솔로포",
-      "state": "s",
+      "keyword": "김도영 시즌 36호 홈런 쾅!",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "2026년 8월 19일 운세",
-      "state": "+",
-      "change": "3"
+      "keyword": "임현태 주식 900% 수익",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "임현태 주식 수익 900%",
+      "keyword": "2026년 8월 19일 운세",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "배명호 양육비 논란 중",
-      "state": "-",
-      "change": "3"
+      "keyword": "송진우 미나미 자유 만끽",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "정성호 사직서 제출",
+      "keyword": "장관 사직서 제출 상황",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "정해인과 가족의 특별한 일상",
-      "state": "+",
-      "change": "10"
+      "keyword": "자포리자 원전 드론 폭발 16명 사상",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
