@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-08-18T07:24:49.493Z",
+  "updatedAt": "2026-08-18T08:00:12.315Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "천궁-2",
-      "traffic": "100+"
+      "keyword": "현금",
+      "traffic": "10000+"
     },
     {
       "rank": 2,
+      "keyword": "개혁신당",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "중대범죄 수사청",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "천궁-2",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
       "keyword": "한국인의 밥상",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "keyword": "과천선",
       "traffic": "500+"
     },
     {
-      "rank": 4,
-      "keyword": "대만",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
+      "rank": 7,
       "keyword": "대치동 은마아파트",
       "traffic": "5000+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "과징금",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "코레일 채용",
       "traffic": "100+"
     },
     {
-      "rank": 8,
-      "keyword": "김정화",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "연기금",
-      "traffic": "1000+"
-    },
-    {
       "rank": 10,
-      "keyword": "열대 저기압",
-      "traffic": "100+"
+      "keyword": "김정화",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "AI와 연애 민망해요",
+      "keyword": "AI와 연애, 진심 부끄러움 느껴",
       "state": "n",
       "change": "0"
     },
@@ -67,51 +67,51 @@
     },
     {
       "rank": 3,
-      "keyword": "종합특검 김건희 기소",
+      "keyword": "국민의힘 출석하는 의원",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
       "keyword": "코스피 하락 마감",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "우리금융 ABL생명 통합",
+      "keyword": "종합특검 김건희 기소",
       "state": "-",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "2026 을지연습 상황보고",
-      "state": "s",
+      "keyword": "김서현-정우주 1군 복귀",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "출석하는 진종오 의원",
-      "state": "s",
-      "change": "0"
+      "keyword": "2026 을지연습 상황보고",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "홈플러스 재개장 매출 437억",
+      "keyword": "구혜선 만년필 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "서울 매수 최대 4년 8개월",
+      "keyword": "주택 신속공급 간담회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "AI로 청년 일자리 28.5만 감소",
-      "state": "n",
-      "change": "0"
+      "keyword": "삼성-하나 드래프트 트레이드",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
