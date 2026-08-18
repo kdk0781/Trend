@@ -1,45 +1,45 @@
 {
-  "updatedAt": "2026-08-18T11:17:11.227Z",
+  "updatedAt": "2026-08-18T11:43:39.267Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "티켓링크",
+      "keyword": "같이 삽시다",
       "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "전지현",
-      "traffic": "500+"
+      "keyword": "서울지하철",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "sk텔레콤",
+      "keyword": "전지현",
       "traffic": "1000+"
     },
     {
       "rank": 4,
+      "keyword": "티켓링크",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
       "keyword": "키움 대 롯데",
       "traffic": "5000+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "야구여왕",
       "traffic": "200+"
     },
     {
-      "rank": 6,
-      "keyword": "택시",
-      "traffic": "2000+"
-    },
-    {
       "rank": 7,
-      "keyword": "레이더",
-      "traffic": "500+"
+      "keyword": "택시",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "주식",
-      "traffic": "5000+"
+      "keyword": "레이더",
+      "traffic": "500+"
     },
     {
       "rank": 9,
@@ -48,70 +48,70 @@
     },
     {
       "rank": 10,
-      "keyword": "야구",
-      "traffic": "2000+"
+      "keyword": "주식",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정성호 법무부 나서다",
+      "keyword": "이태한 선관위 특검 진실 규명",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "이태한 선관위 특검 정치적 중립 연구",
-      "state": "n",
-      "change": "0"
+      "keyword": "하주석 한화 상대 2루타",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "하주석 한화 팬들 감사 인사",
+      "keyword": "현대차 노조 전면파업",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "하영 증조부 친일 행적 논란",
-      "state": "-",
+      "keyword": "윤호중 장관 호우피해 점검",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "만에 10년 전면파업",
+      "keyword": "고소영, 장동건 나이 같은 동갑",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "최인호 1회 솔로포",
+      "keyword": "법무부 나서는 정성호",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김민석 신임 대표 만남",
-      "state": "n",
-      "change": "0"
+      "keyword": "모두의 AI 6개사 참여",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "행방 묘연 여성 경찰은?",
+      "keyword": "언프리티 타이미 결혼",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "모텔 살인 김소영 사형 구형",
+      "keyword": "하이닉스 주가 하락 논란",
       "state": "-",
-      "change": "8"
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "김세진 SOOP 신임감독",
-      "state": "-",
-      "change": "6"
+      "keyword": "공급 늘려 집값폭등 막자",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
