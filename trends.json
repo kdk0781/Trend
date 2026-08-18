@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-18T05:00:52.684Z",
+  "updatedAt": "2026-08-18T05:38:43.865Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "iphone 17 pro",
-      "traffic": "500+"
+      "keyword": "샌디에이고 파드리스",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "상급종합병원",
-      "traffic": "500+"
+      "keyword": "nh농협금융지주",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "대한민국 기후에너지환경부",
+      "keyword": "단체교섭",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "인도",
-      "traffic": "500+"
+      "keyword": "미국 재무부",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "운전 기사",
-      "traffic": "10000+"
+      "keyword": "리노공업",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "은마아파트",
+      "keyword": "유재석",
       "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "오타니 쇼헤이",
+      "keyword": "iphone 17 pro",
       "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "김태형",
-      "traffic": "2000+"
+      "keyword": "말자쇼",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "홍주",
+      "keyword": "상급종합병원",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "의령군",
-      "traffic": "500+"
+      "keyword": "대한민국 기후에너지환경부",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "더불어민주당 김민석 대표",
-      "state": "s",
+      "keyword": "참배하는 김민석 대표",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "타짜 벨제붑 개봉 소식",
+      "keyword": "하이닉스 주가 논란",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "하이닉스 주가 조정",
+      "keyword": "추석 타짜의 화려한 피날레",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "수원 서울 울산 용인 A매치 4연전",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "흐엉 도딘 비움 그 충만",
+      "keyword": "매디슨 황, LG 방문",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "매디슨 황, LG 방문",
+      "rank": 5,
+      "keyword": "A매치 개최지 수원 서울 울산 용인",
       "state": "-",
-      "change": "2"
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "미군 장병 차량 점검",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "아기 PC방 다닌 부모는",
+      "keyword": "코스피 하락 전환",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "하영, 12KG 감량 후 지방흡입 고백",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "한라산 물폭탄 폭포 장관",
-      "state": "s",
+      "keyword": "7개월 아기 굶어죽은 부모",
+      "state": "n",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "프로야구, 25일부터 6시30분 시작",
+      "rank": 9,
+      "keyword": "갈레고 K리그1 MVP",
       "state": "+",
-      "change": "1"
+      "change": "12"
+    },
+    {
+      "rank": 10,
+      "keyword": "하영 친일 재산 환수 여부",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
