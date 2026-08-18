@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-08-18T11:43:39.267Z",
+  "updatedAt": "2026-08-18T12:01:33.641Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "같이 삽시다",
+      "keyword": "사형",
       "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "서울지하철",
-      "traffic": "200+"
+      "keyword": "오디세이",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "전지현",
-      "traffic": "1000+"
+      "keyword": "메리츠종합금융증권",
+      "traffic": "200+"
     },
     {
       "rank": 4,
+      "keyword": "한미연합훈련",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "매독",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "같이 삽시다",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "서울지하철",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "전지현",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 9,
       "keyword": "티켓링크",
       "traffic": "2000+"
     },
     {
-      "rank": 5,
-      "keyword": "키움 대 롯데",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "야구여왕",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "택시",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "레이더",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "김원효",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "주식",
+      "keyword": "키움 대 롯데",
       "traffic": "5000+"
     }
   ],
@@ -56,62 +56,62 @@
     {
       "rank": 1,
       "keyword": "이태한 선관위 특검 진실 규명",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "하주석 한화 상대 2루타",
+      "keyword": "윤호중 장관 호우피해 점검",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "현대차 노조 전면파업",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "윤호중 장관 호우피해 점검",
-      "state": "+",
+      "keyword": "하주석 한화 2루타",
+      "state": "-",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "고소영, 장동건 나이 같은 동갑",
+      "rank": 4,
+      "keyword": "현대차 노조 10년 만의 파업",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "언프리티 타이미 결혼",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 6,
-      "keyword": "법무부 나서는 정성호",
+      "keyword": "모두의 AI 6곳 참여",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "모두의 AI 6개사 참여",
-      "state": "+",
-      "change": "1"
+      "keyword": "고소영 장동건 나이 동갑 오빠",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "언프리티 타이미 결혼",
+      "keyword": "김소영 모텔 살인 사형 구형",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "하이닉스 주가 하락 논란",
-      "state": "-",
-      "change": "2"
+      "keyword": "정성호 장관 수리할까?",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "공급 늘려 집값폭등 막자",
-      "state": "n",
-      "change": "0"
+      "keyword": "하이닉스 주가 부진",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
