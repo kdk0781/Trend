@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T15:34:06.018Z",
+  "updatedAt": "2026-08-18T15:59:46.421Z",
   "google": [
     {
       "rank": 1,
@@ -8,13 +8,13 @@
     },
     {
       "rank": 2,
-      "keyword": "태국 대 싱가포르",
-      "traffic": "100+"
+      "keyword": "mathilde favier",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "mathilde favier",
-      "traffic": "200+"
+      "keyword": "태국 대 싱가포르",
+      "traffic": "100+"
     },
     {
       "rank": 4,
@@ -24,94 +24,94 @@
     {
       "rank": 5,
       "keyword": "크보",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "삼성라이온즈",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "keyword": "두산",
       "traffic": "100+"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "keyword": "이용대",
       "traffic": "500+"
     },
     {
+      "rank": 8,
+      "keyword": "ไทย พบ สิงคโปร์",
+      "traffic": "500+"
+    },
+    {
       "rank": 9,
-      "keyword": "기아타이거즈",
+      "keyword": "허경환",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "ไทย พบ สิงคโปร์",
+      "keyword": "성시경",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이태한 선관위 특검, 정치적 중립 수사",
-      "state": "n",
+      "keyword": "이태한 특검, 선입견 없이 수사.",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
       "keyword": "손봉기 김성수 제청",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
       "keyword": "모텔 살인 김소영 사형 구형",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
       "keyword": "한정애 정책위의장 권칠승",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "정성호 후속 역할 당부",
+      "keyword": "정성호 역할 작아졌네",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "NC 임지민 턱 뼈 수술 완료.",
-      "state": "n",
-      "change": "0"
+      "keyword": "염경엽 감독의 승리 전략",
+      "state": "+",
+      "change": "7"
     },
     {
       "rank": 7,
-      "keyword": "이성경, 거제 수해 5천만원 기부",
-      "state": "n",
-      "change": "0"
+      "keyword": "권영세 의원과 오세훈 시장",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "권영세 의원과 오세훈 시장의 면담",
-      "state": "n",
-      "change": "0"
+      "keyword": "윤호중 장관, 호우피해 현장 방문",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "윤호중 장관, 호우피해 현장 방문",
-      "state": "n",
-      "change": "0"
+      "keyword": "현대차 노조 10년 전면파업",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "현대차 노조 10년 파업",
-      "state": "-",
-      "change": "7"
+      "keyword": "트럼프 훈련 축소",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
