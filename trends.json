@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-18T08:49:15.585Z",
+  "updatedAt": "2026-08-18T09:16:18.201Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "v-리그",
+      "keyword": "박재현",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "보조금",
-      "traffic": "1000+"
+      "keyword": "함연지",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "빌라",
-      "traffic": "5000+"
+      "keyword": "서장훈의 이웃집 백만장자",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "쌍방울그룹",
+      "keyword": "손봉기",
       "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "천연가스",
-      "traffic": "100+"
+      "keyword": "유기상",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "골프",
-      "traffic": "10000+"
+      "keyword": "이데일리",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "용산공원",
-      "traffic": "5000+"
+      "keyword": "v-리그",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "데이나 화이트",
-      "traffic": "100+"
+      "keyword": "보조금",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "현금",
-      "traffic": "20000+"
+      "keyword": "빌라",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "개혁신당",
-      "traffic": "100+"
+      "keyword": "쌍방울그룹",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "대법관 손봉기·김성수 임명",
-      "state": "+",
-      "change": "4"
+      "keyword": "손봉기 김성수 대법관 임명",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "코스피 하락 마감",
-      "state": "s",
-      "change": "0"
+      "keyword": "모텔 사형 구형 김소영",
+      "state": "+",
+      "change": "7"
     },
     {
       "rank": 3,
-      "keyword": "정성호 사직서 제출",
+      "keyword": "오세훈·권영세 면담",
       "state": "+",
-      "change": "8"
-    },
-    {
-      "rank": 4,
-      "keyword": "지상렬 신보람 연애 중",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "종합특검 김건희 기소",
-      "state": "-",
       "change": "2"
     },
     {
-      "rank": 6,
-      "keyword": "오세훈 시장 백브리핑",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 7,
-      "keyword": "임지민 21일 퇴원 예정",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "브런슨 국방부 방문, 훈련 축소 논의",
+      "rank": 4,
+      "keyword": "사무총장 한정애 권칠승 임명",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "김소영 모텔 사형 구형",
+      "rank": 5,
+      "keyword": "NC 임지민 턱뼈 수술 완료",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "지상렬과 신보람 잘 만나고 있어",
       "state": "-",
-      "change": "1"
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "집중호우 피해 기부",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "코스피 하락세 마감",
+      "state": "-",
+      "change": "6"
+    },
+    {
+      "rank": 9,
+      "keyword": "배명호 전처 양육비 미지급 주장",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 10,
-      "keyword": "사무총장에 한정애 권칠승",
+      "keyword": "김건희 윤한홍 관저 기소",
       "state": "n",
       "change": "0"
     }
