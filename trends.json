@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-18T13:03:03.183Z",
+  "updatedAt": "2026-08-18T13:51:39.088Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "지연수",
-      "traffic": "2000+"
+      "keyword": "성시경",
+      "traffic": "200+"
     },
     {
       "rank": 2,
+      "keyword": "모두의 ai",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "아메리칸 항공",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "혁오",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "2028",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "지연수",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
       "keyword": "genius 법안",
       "traffic": "1000+"
     },
     {
-      "rank": 3,
+      "rank": 8,
       "keyword": "재벌x형사",
-      "traffic": "2000+"
+      "traffic": "5000+"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "keyword": "해고",
       "traffic": "2000+"
     },
     {
-      "rank": 5,
+      "rank": 10,
       "keyword": "광주광역시",
       "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "모탈쉘2",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "ifc몰",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "마크 도스 산토스",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "이진숙",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "사형",
-      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "윤호중 호우피해 점검",
-      "state": "s",
+      "keyword": "모텔 살인 사형 구형",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김도영 시즌 36호 홈런 터짐",
+      "keyword": "현대차 노조 10년 만에 파업",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "제니, 악편 대응 시작",
-      "state": "s",
+      "keyword": "이태한 선관위 특검 진실 규명",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김소영, 모텔 살인 사형 구형",
+      "keyword": "배명호 전처 양육비 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이태한 선관위 특검 진실 규명",
-      "state": "-",
+      "keyword": "NC 임지민, 21일 퇴원 예정",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "언프리티 타이미 결혼",
+      "keyword": "윤호중 장관 호우피해 점검",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "현대차 노조, 10년 만에 파업",
+      "keyword": "하주석 한화 2루타",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "문정빈 만루홈런",
-      "state": "n",
-      "change": "0"
+      "keyword": "제니, 악의적 편집 법적 대응",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "모두의 AI 6개사 경쟁",
+      "keyword": "집행유예 유아인 복귀",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "하영 논란이 일어난 혁오 뮤비 기용",
-      "state": "+",
-      "change": "5"
+      "keyword": "SNS 좋아요로 역주행한 10대 사망",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
