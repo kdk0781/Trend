@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-18T14:24:06.448Z",
+  "updatedAt": "2026-08-18T14:59:17.564Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "크보",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "삼성라이온즈",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
       "keyword": "이용대",
       "traffic": "500+"
     },
     {
-      "rank": 2,
-      "keyword": "ไทย พบ สิงคโปร์",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "허경환",
-      "traffic": "200+"
-    },
-    {
       "rank": 4,
-      "keyword": "성시경",
+      "keyword": "기아타이거즈",
       "traffic": "200+"
     },
     {
       "rank": 5,
+      "keyword": "ไทย พบ สิงคโปร์",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "허경환",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "성시경",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
       "keyword": "모두의 ai",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "아메리칸 항공",
       "traffic": "100+"
     },
     {
-      "rank": 7,
-      "keyword": "혁오",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "2028",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "지연수",
-      "traffic": "1000+"
-    },
-    {
       "rank": 10,
-      "keyword": "genius 법안",
-      "traffic": "1000+"
+      "keyword": "혁오",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "현대차 노조 빈손 회의",
+      "keyword": "현대차 노조 10년 만에 파업",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "윤호중 장관, 경남 호우피해 점검",
-      "state": "+",
-      "change": "5"
+      "keyword": "윤호중 장관 호우피해 점검",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "NC 임지민 수술 받는다",
+      "keyword": "배명호 전처 양육비 이의 제기",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이태한 특검, 진실 규명",
+      "keyword": "문정빈 만루포 LG 대승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "하주석, 한화 첫 2루타",
-      "state": "+",
-      "change": "9"
+      "keyword": "제니 법적 대응 확산 악의적 편집",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "제니 법적 대응 확산 영상",
-      "state": "-",
-      "change": "5"
+      "keyword": "합의는 황정민 불복했다",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "정해인의 매니저 갑질 의혹 전말",
+      "keyword": "임지민 턱뼈 수술 후 퇴원",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "배명호 양육비 미지급 폭로",
-      "state": "n",
-      "change": "0"
+      "keyword": "이태한 특검 수사 진실 규명",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 9,
-      "keyword": "SNS 좋아요 역주행 10대 사망",
-      "state": "n",
-      "change": "0"
+      "keyword": "정해인 친동생 갑질 오해",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "모두의 AI 6곳 참가",
+      "keyword": "김포FC 선수협 감사 요구",
       "state": "n",
       "change": "0"
     }
