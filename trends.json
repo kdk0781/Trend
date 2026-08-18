@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-18T17:00:39.845Z",
+  "updatedAt": "2026-08-18T17:37:06.338Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "사우델",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
+      "keyword": "아빠 10년",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "mortgage rates today",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
       "keyword": "신진서",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 5,
       "keyword": "서장훈의 이웃집 백만장 자",
       "traffic": "5000+"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "keyword": "mathilde favier",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "keyword": "태국 대 싱가포르",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "enc",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "공연",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "keyword": "kbo 순위",
       "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "두산",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "이용대",
-      "traffic": "500+"
-    },
-    {
-      "rank": 10,
-      "keyword": "ไทย พบ สิงคโปร์",
-      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이태한 특검, 선입견 없는 수사",
-      "state": "s",
+      "keyword": "이태한 특검, 진실 규명",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "법무부 나서는 정성호",
+      "keyword": "정성호 법무부 나서다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "현대차 노조, 10년 전면파업",
+      "keyword": "현대차 전면파업 예정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "문정빈 만루포 LG 승리",
-      "state": "+",
-      "change": "4"
+      "keyword": "문정빈 만루포 LG KT 제압",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "윤호중 장관 호우피해 점검",
+      "keyword": "윤호중 장관 호우 피해 점검",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "제니 악의적 편집 법적 대응",
+      "keyword": "제니 법적 대응 한다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "타이미, 9월 결혼 예정",
-      "state": "+",
-      "change": "2"
+      "keyword": "언프리티 타이미 결혼",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
       "keyword": "하주석 한화 2루타",
-      "state": "+",
-      "change": "2"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "조희대 대법관 제청 문제",
-      "state": "-",
-      "change": "2"
+      "keyword": "조희대 대법관 서면 제청",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "모두의 AI 6파전",
-      "state": "-",
-      "change": "2"
+      "keyword": "트럼프 이란 대화 없다",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
