@@ -1,81 +1,81 @@
 {
-  "updatedAt": "2026-08-18T08:00:12.315Z",
+  "updatedAt": "2026-08-18T08:49:15.585Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "현금",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "개혁신당",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "중대범죄 수사청",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "천궁-2",
+      "keyword": "v-리그",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "보조금",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "빌라",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "쌍방울그룹",
+      "traffic": "1000+"
+    },
+    {
       "rank": 5,
-      "keyword": "한국인의 밥상",
-      "traffic": "2000+"
+      "keyword": "천연가스",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "과천선",
-      "traffic": "500+"
+      "keyword": "골프",
+      "traffic": "10000+"
     },
     {
       "rank": 7,
-      "keyword": "대치동 은마아파트",
+      "keyword": "용산공원",
       "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "과징금",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "코레일 채용",
+      "keyword": "데이나 화이트",
       "traffic": "100+"
     },
     {
+      "rank": 9,
+      "keyword": "현금",
+      "traffic": "20000+"
+    },
+    {
       "rank": 10,
-      "keyword": "김정화",
-      "traffic": "5000+"
+      "keyword": "개혁신당",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "AI와 연애, 진심 부끄러움 느껴",
-      "state": "n",
-      "change": "0"
+      "keyword": "대법관 손봉기·김성수 임명",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 2,
-      "keyword": "정성호 사직서 제출",
+      "keyword": "코스피 하락 마감",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "국민의힘 출석하는 의원",
-      "state": "n",
-      "change": "0"
+      "keyword": "정성호 사직서 제출",
+      "state": "+",
+      "change": "8"
     },
     {
       "rank": 4,
-      "keyword": "코스피 하락 마감",
-      "state": "s",
-      "change": "0"
+      "keyword": "지상렬 신보람 연애 중",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
@@ -85,33 +85,33 @@
     },
     {
       "rank": 6,
-      "keyword": "김서현-정우주 1군 복귀",
-      "state": "n",
-      "change": "0"
+      "keyword": "오세훈 시장 백브리핑",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "2026 을지연습 상황보고",
-      "state": "-",
-      "change": "1"
+      "keyword": "임지민 21일 퇴원 예정",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "구혜선 만년필 논란",
+      "keyword": "브런슨 국방부 방문, 훈련 축소 논의",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "주택 신속공급 간담회",
-      "state": "n",
-      "change": "0"
+      "keyword": "김소영 모텔 사형 구형",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "삼성-하나 드래프트 트레이드",
-      "state": "-",
-      "change": "2"
+      "keyword": "사무총장에 한정애 권칠승",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
