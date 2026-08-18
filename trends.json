@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-08-18T19:11:34.642Z",
+  "updatedAt": "2026-08-18T19:41:33.789Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "사우 델",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
       "keyword": "로드리",
       "traffic": "100+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "광화문광장",
       "traffic": "200+"
     },
     {
-      "rank": 3,
-      "keyword": "world cup schedule",
-      "traffic": "100+"
-    },
-    {
       "rank": 4,
-      "keyword": "사우델",
+      "keyword": "world cup schedule",
       "traffic": "100+"
     },
     {
@@ -55,63 +55,63 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "윤호중 장관 호우피해 점검",
-      "state": "s",
-      "change": "0"
+      "keyword": "문정빈 만루포 LG KT승리",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "문정빈 만루홈런 LG 승리",
-      "state": "s",
-      "change": "0"
+      "keyword": "조희대 대법관 제청 관례 파괴",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "제니, 법적 대응 나선다.",
-      "state": "s",
+      "keyword": "제니, 악의적 편집에 법적 대응",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "조희대 대법관 제청 논란",
+      "keyword": "트럼프 이란 대화無",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김도영 시즌 36호 홈런",
-      "state": "n",
+      "keyword": "김도영 시즌 36호 솔로포",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "이태한 특검, 선입견 없이 수사",
+      "keyword": "2026년 8월 19일 운세",
       "state": "+",
       "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "타이미, 9월 결혼해요",
-      "state": "-",
-      "change": "1"
+      "keyword": "임현태 주식 수익 900%",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "트럼프 이란과 대화 없다",
+      "keyword": "배명호 양육비 논란 중",
       "state": "-",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "황정민, 2억 손배소 강제조정 불복",
-      "state": "+",
-      "change": "1"
+      "keyword": "정성호 사직서 제출",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "2026년 8월 19일 운세",
-      "state": "n",
-      "change": "0"
+      "keyword": "정해인과 가족의 특별한 일상",
+      "state": "+",
+      "change": "10"
     }
   ]
 }
