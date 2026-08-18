@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-18T14:59:17.564Z",
+  "updatedAt": "2026-08-18T15:34:06.018Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "크보",
-      "traffic": "2000+"
+      "keyword": "서장훈의 이웃집 백만장 자",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "삼성라이온즈",
+      "keyword": "태국 대 싱가포르",
       "traffic": "100+"
     },
     {
       "rank": 3,
+      "keyword": "mathilde favier",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "enc",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "크보",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "삼성라이온즈",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "두산",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
       "keyword": "이용대",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "keyword": "기아타이거즈",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 10,
       "keyword": "ไทย พบ สิงคโปร์",
       "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "허경환",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "성시경",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "모두의 ai",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "아메리칸 항공",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "혁오",
-      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "현대차 노조 10년 만에 파업",
+      "keyword": "이태한 선관위 특검, 정치적 중립 수사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "윤호중 장관 호우피해 점검",
-      "state": "s",
+      "keyword": "손봉기 김성수 제청",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "배명호 전처 양육비 이의 제기",
+      "keyword": "모텔 살인 김소영 사형 구형",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "문정빈 만루포 LG 대승",
+      "keyword": "한정애 정책위의장 권칠승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "제니 법적 대응 확산 악의적 편집",
+      "keyword": "정성호 후속 역할 당부",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "합의는 황정민 불복했다",
+      "keyword": "NC 임지민 턱 뼈 수술 완료.",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "임지민 턱뼈 수술 후 퇴원",
+      "keyword": "이성경, 거제 수해 5천만원 기부",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이태한 특검 수사 진실 규명",
-      "state": "-",
-      "change": "4"
+      "keyword": "권영세 의원과 오세훈 시장의 면담",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "정해인 친동생 갑질 오해",
-      "state": "-",
-      "change": "2"
+      "keyword": "윤호중 장관, 호우피해 현장 방문",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김포FC 선수협 감사 요구",
-      "state": "n",
-      "change": "0"
+      "keyword": "현대차 노조 10년 파업",
+      "state": "-",
+      "change": "7"
     }
   ]
 }
