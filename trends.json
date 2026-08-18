@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-18T13:51:39.088Z",
+  "updatedAt": "2026-08-18T14:24:06.448Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "성시경",
-      "traffic": "200+"
+      "keyword": "이용대",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "모두의 ai",
+      "keyword": "ไทย พบ สิงคโปร์",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "아메리칸 항공",
-      "traffic": "100+"
+      "keyword": "허경환",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "혁오",
-      "traffic": "500+"
+      "keyword": "성시경",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "2028",
+      "keyword": "모두의 ai",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "지연수",
-      "traffic": "1000+"
+      "keyword": "아메리칸 항공",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "genius 법안",
+      "keyword": "혁오",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "재벌x형사",
-      "traffic": "5000+"
+      "keyword": "2028",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "해고",
-      "traffic": "2000+"
+      "keyword": "지연수",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "광주광역시",
-      "traffic": "500+"
+      "keyword": "genius 법안",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "모텔 살인 사형 구형",
+      "keyword": "현대차 노조 빈손 회의",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "현대차 노조 10년 만에 파업",
-      "state": "n",
-      "change": "0"
+      "keyword": "윤호중 장관, 경남 호우피해 점검",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 3,
-      "keyword": "이태한 선관위 특검 진실 규명",
+      "keyword": "NC 임지민 수술 받는다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "배명호 전처 양육비 논란",
+      "keyword": "이태한 특검, 진실 규명",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "NC 임지민, 21일 퇴원 예정",
+      "keyword": "하주석, 한화 첫 2루타",
       "state": "+",
-      "change": "1"
+      "change": "9"
     },
     {
       "rank": 6,
-      "keyword": "윤호중 장관 호우피해 점검",
-      "state": "+",
-      "change": "1"
+      "keyword": "제니 법적 대응 확산 영상",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 7,
-      "keyword": "하주석 한화 2루타",
-      "state": "+",
-      "change": "1"
+      "keyword": "정해인의 매니저 갑질 의혹 전말",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "제니, 악의적 편집 법적 대응",
-      "state": "+",
-      "change": "1"
+      "keyword": "배명호 양육비 미지급 폭로",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "집행유예 유아인 복귀",
+      "keyword": "SNS 좋아요 역주행 10대 사망",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "SNS 좋아요로 역주행한 10대 사망",
+      "keyword": "모두의 AI 6곳 참가",
       "state": "n",
       "change": "0"
     }
