@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-18T21:52:41.472Z",
+  "updatedAt": "2026-08-18T22:13:38.521Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "기안84",
-      "traffic": "500+"
+      "keyword": "지수",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "제주특별자치도교육청",
+      "keyword": "배정남",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "파업",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "김하성",
+      "keyword": "중국인",
       "traffic": "2000+"
     },
     {
+      "rank": 4,
+      "keyword": "타블로",
+      "traffic": "200+"
+    },
+    {
       "rank": 5,
-      "keyword": "리브 골프",
-      "traffic": "20000+"
+      "keyword": "diriyah vs al-nassr",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "나는 solo 24기",
-      "traffic": "500+"
+      "keyword": "수사",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "의대생",
-      "traffic": "100+"
+      "keyword": "무인 항공기",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "천궁",
+      "keyword": "기안84",
       "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "바둑",
-      "traffic": "200+"
+      "keyword": "제주특별자치도교육청",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "박성현",
-      "traffic": "500+"
+      "keyword": "파업",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
@@ -62,54 +62,54 @@
     {
       "rank": 2,
       "keyword": "레이디제인 임현태 주식 대박 900%",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "이범호 감독 응원해요",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "2026년 8월 19일 운세",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "이의리 세이브로 한화 꺾고",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "동상이몽2 송진우 미나미와 자유 만끽",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "5G QS 연속 기록",
+      "state": "+",
+      "change": "15"
+    },
+    {
+      "rank": 4,
+      "keyword": "2026년 8월 19일 운세",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "송진우 미나미의 자유로운 집",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "자포리자 드론 폭발 16명 사상",
+      "state": "+",
+      "change": "10"
+    },
+    {
       "rank": 7,
-      "keyword": "한미훈련 축소 논란",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "황정민 스토킹 합의 없음",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
       "keyword": "AI 특허 7배 증가",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "배명호 전처 양육비 논란",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "거제왕 인사 비위 수사",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "제니 의상 법적대응이 스트레인지를 초래하다",
+      "keyword": "블핑 지수, 갑작스러운 비보에 작별 힘들다",
       "state": "n",
       "change": "0"
     }
