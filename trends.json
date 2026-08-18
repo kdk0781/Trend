@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-18T05:38:43.865Z",
+  "updatedAt": "2026-08-18T05:59:13.021Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "하주석",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
+      "keyword": "정해인",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "나탈리 하프",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
       "keyword": "샌디에이고 파드리스",
       "traffic": "1000+"
     },
     {
-      "rank": 2,
-      "keyword": "nh농협금융지주",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "단체교섭",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "미국 재무부",
-      "traffic": "200+"
-    },
-    {
       "rank": 5,
+      "keyword": "nh농협금융지주",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "단체교섭",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "미국 재무부",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
       "keyword": "리노공업",
       "traffic": "200+"
     },
     {
-      "rank": 6,
-      "keyword": "유재석",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
+      "rank": 9,
       "keyword": "iphone 17 pro",
       "traffic": "2000+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "말자쇼",
       "traffic": "5000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "상급종합병원",
-      "traffic": "500+"
-    },
-    {
-      "rank": 10,
-      "keyword": "대한민국 기후에너지환경부",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "참배하는 김민석 대표",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "하이닉스 주가 논란",
+      "keyword": "하이닉스 주가 부진",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 3,
-      "keyword": "추석 타짜의 화려한 피날레",
+      "rank": 2,
+      "keyword": "참배하는 김민석 대표",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 3,
+      "keyword": "마동석 익스트랙션3 합류",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 4,
+      "keyword": "수원 서울 울산 용인 A매치 개최",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
       "keyword": "매디슨 황, LG 방문",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "A매치 개최지 수원 서울 울산 용인",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 6,
-      "keyword": "미군 장병 차량 점검",
+      "keyword": "국책은행 지방이전 규탄 기자회견",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "코스피 하락 전환",
+      "keyword": "권성동 변호사 등록 취소 수순",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "7개월 아기 굶어죽은 부모",
+      "keyword": "우리금융 ABL생명 통합",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "갈레고 K리그1 MVP",
-      "state": "+",
-      "change": "12"
+      "keyword": "변요한 타짜 피날레",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "하영 친일 재산 환수 여부",
-      "state": "n",
-      "change": "0"
+      "keyword": "하영 증조부 환수 논란",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
