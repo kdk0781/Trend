@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T16:36:14.448Z",
+  "updatedAt": "2026-08-18T17:00:39.845Z",
   "google": [
     {
       "rank": 1,
@@ -33,7 +33,7 @@
     },
     {
       "rank": 7,
-      "keyword": "크보",
+      "keyword": "kbo 순위",
       "traffic": "100+"
     },
     {
@@ -55,63 +55,63 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이태한 선관위 특검은 진실 규명한다",
+      "keyword": "이태한 특검, 선입견 없는 수사",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "정성호 법무부 나서다",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 3,
-      "keyword": "윤호중, 경남 호우피해 점검",
+      "keyword": "법무부 나서는 정성호",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "현대차 노조, 10년 전면파업",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 4,
-      "keyword": "문정빈 만루포 LG KT에 승리",
+      "keyword": "문정빈 만루포 LG 승리",
       "state": "+",
-      "change": "13"
-    },
-    {
-      "rank": 5,
-      "keyword": "현대차 노조 전면파업 예고",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "모텔 살인 사형 구형 으로 바꿀 수 있습니다.",
-      "state": "-",
       "change": "4"
     },
     {
+      "rank": 5,
+      "keyword": "윤호중 장관 호우피해 점검",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "제니 악의적 편집 법적 대응",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "트럼프 훈련 줄임",
+      "keyword": "타이미, 9월 결혼 예정",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "모두의 AI 6파전 SKT KT 카카오",
-      "state": "n",
-      "change": "0"
+      "keyword": "하주석 한화 2루타",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "제니, 악편 대응 결정",
-      "state": "+",
-      "change": "3"
+      "keyword": "조희대 대법관 제청 문제",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "한정애 정책위의장 권칠승",
+      "keyword": "모두의 AI 6파전",
       "state": "-",
-      "change": "7"
+      "change": "2"
     }
   ]
 }
