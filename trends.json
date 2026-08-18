@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-18T03:09:16.621Z",
+  "updatedAt": "2026-08-18T03:54:50.438Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "오타니 쇼헤이",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "김태형",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "홍주",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "의령군",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "박찬대",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
       "keyword": "독파모",
       "traffic": "200+"
     },
     {
-      "rank": 2,
-      "keyword": "박찬대",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
+      "rank": 7,
       "keyword": "에어로케이",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 8,
       "keyword": "수사",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "keyword": "롯데온",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 10,
       "keyword": "울산광역시",
       "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "청약",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "예정화",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "삼성 갤럭시 z 시리즈",
-      "traffic": "500+"
-    },
-    {
-      "rank": 10,
-      "keyword": "윤석열",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명, 제1회 을지국무회의",
-      "state": "n",
-      "change": "0"
+      "keyword": "김민석 대표 효창 참배",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "김민석 대표 헌화",
-      "state": "-",
+      "keyword": "하이닉스 주가 우려",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "하이닉스 주가 부진 논란",
-      "state": "s",
-      "change": "0"
+      "keyword": "타짜 벨제붑 출연진 소개",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 4,
-      "keyword": "독자 AI 모델 2차 평가 결과",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "스트릿 월드 파이터 소식",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "장동혁 거제 방문",
+      "keyword": "LG SKT 업스테이지 3파전 경쟁",
       "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 7,
-      "keyword": "샌디에이고 5조5000억 매각",
-      "state": "-",
       "change": "1"
     },
     {
+      "rank": 5,
+      "keyword": "거제 찾은 장동혁",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "수원 서울 울산 용인 A매치 개최",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "변요한 타짜4 기대!",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "전작권 임기 내 환수 추진 속도",
-      "state": "s",
+      "keyword": "박서보와 도딘 비움 그 충만",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "한병도 원내대표 회의 참석",
-      "state": "n",
-      "change": "0"
+      "keyword": "스트릿 파이터 발표회",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 10,
-      "keyword": "유아인, 3년 만에 뱀피르 복귀",
+      "keyword": "갈레고 K리그1 MVP",
       "state": "n",
       "change": "0"
     }
