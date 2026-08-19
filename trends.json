@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-19T20:47:44.778Z",
+  "updatedAt": "2026-08-19T21:10:29.994Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "파운드리",
-      "traffic": "500+"
+      "keyword": "농지",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "태양광 발전",
+      "keyword": "홍장원",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "영탁",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "정년",
+      "keyword": "당대표",
       "traffic": "2000+"
     },
     {
+      "rank": 4,
+      "keyword": "파운드리",
+      "traffic": "500+"
+    },
+    {
       "rank": 5,
-      "keyword": "barcelona vs al ahly",
+      "keyword": "태양광 발전",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "송영길",
-      "traffic": "200+"
+      "keyword": "영탁",
+      "traffic": "500+"
     },
     {
       "rank": 7,
+      "keyword": "정년",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "barcelona vs al ahly",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
       "keyword": "브레이브스 대 트윈스",
       "traffic": "500+"
     },
     {
-      "rank": 8,
-      "keyword": "하리수",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "배우 김정은",
-      "traffic": "100+"
-    },
-    {
       "rank": 10,
-      "keyword": "정규직",
-      "traffic": "200+"
+      "keyword": "서영교",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "북미 소통 알지 못하는 일",
+      "keyword": "북김여정 북미 소통 몰라",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "홍민기 스터디그룹2 불참",
+      "keyword": "김도영 3점 홈런!",
       "state": "+",
-      "change": "8"
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "김도영 3점 홈런!",
+      "keyword": "홍민기 데이트 폭력 의혹",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "기욤, 은퇴해도 편안할 정도",
-      "state": "n",
-      "change": "0"
+      "keyword": "여에스더 강남 집 선물",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 5,
-      "keyword": "그래, 이혼하자",
+      "keyword": "KIA 4연승 질주!",
       "state": "+",
-      "change": "23"
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "LG 케네디 데뷔 성공!",
+      "keyword": "그래, 이혼하자 이민정 드라마",
       "state": "-",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "KIA 4연승 질주!",
-      "state": "-",
-      "change": "2"
+      "keyword": "톨허스트 완벽투 LG, KT 연승 성공",
+      "state": "+",
+      "change": "10"
     },
     {
       "rank": 8,
-      "keyword": "대법관 서면 제청 논란",
+      "keyword": "서면 제청 논란 확산",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "여에스더 강남 집 선물",
-      "state": "-",
-      "change": "2"
+      "keyword": "김민석 정청래 사과 동지",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "김민석 정청래 사과 동지",
+      "keyword": "기욤 패트리 딸 언어천재 요정",
       "state": "-",
-      "change": "1"
+      "change": "7"
     }
   ]
 }
