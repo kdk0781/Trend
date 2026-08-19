@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-08-19T16:00:16.816Z",
+  "updatedAt": "2026-08-19T16:41:25.410Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "트럼프",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
+      "keyword": "토토",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
       "keyword": "오싹한 연애",
       "traffic": "500+"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "keyword": "연애",
-      "traffic": "5000+"
+      "traffic": "1000+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "김윤덕",
       "traffic": "500+"
     },
     {
-      "rank": 4,
-      "keyword": "롯데손해보험",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "truc tiep bong da",
+      "rank": 6,
+      "keyword": "trực tiếp bóng đá việt nam",
       "traffic": "500+"
     },
     {
-      "rank": 6,
-      "keyword": "hd현대중공업",
-      "traffic": "1000+"
-    },
-    {
       "rank": 7,
-      "keyword": "서승재",
+      "keyword": "디워2",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "moderna stock",
+      "keyword": "롯데손해보험",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "kbo",
-      "traffic": "500+"
+      "keyword": "서승재",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "포수",
+      "keyword": "moderna stock",
       "traffic": "200+"
     }
   ],
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "어우홍 감독 별세 95세",
+      "keyword": "어우홍 감독 별세",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "홍민기, 데이트 폭력과 스토킹 주장 반박",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "북미 지도자 소통 전혀 몰라",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "인천 쿠팡 물류센터 화재 3000명 대피",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "종합특검 조태용 홍장원 등",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "LG 케네디의 위기 탈출",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "SK하이닉스 40조 자사주 소각",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 3,
-      "keyword": "홍민기 배우",
-      "state": "+",
-      "change": "12"
-    },
-    {
-      "rank": 4,
-      "keyword": "아워벌스데이 JYP 신인상 도전!",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "종합특검, 내란 혐의 기소",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "인천 쿠팡 물류센터 화재로 3000명 대피",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 7,
-      "keyword": "북미 소통 미지수",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "아시안게임 레슬링 국가대표",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 9,
-      "keyword": "LG 케네디 승리와 병살",
-      "state": "+",
+      "keyword": "김도영 3점 홈런!",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "하이닉스 40조 자사주 소각",
-      "state": "n",
-      "change": "0"
+      "keyword": "KIA 4연승 스토리",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
