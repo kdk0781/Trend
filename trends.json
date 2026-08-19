@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T17:54:30.797Z",
+  "updatedAt": "2026-08-19T18:21:14.506Z",
   "google": [
     {
       "rank": 1,
@@ -55,63 +55,63 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "왕이 외교부장 도착",
-      "state": "s",
-      "change": "0"
+      "keyword": "북미 소통 전혀 모름",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "야구계 큰 별 어우홍 별세",
+      "keyword": "어우홍 전 감독 별세",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "북미 소통 모르는 일",
-      "state": "s",
-      "change": "0"
+      "keyword": "한반도 평화의 건설적 역할",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "인천 물류센터 불 대피 3000명",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "홍민기 데이트 폭력 의혹",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "종합특검 조태용 기소",
+      "keyword": "인천 쿠팡 물류센터 대피 소동",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "keyword": "기욤 패트리 딸 레아, 언어 천재 요정",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 6,
       "keyword": "김도영 3점 홈런!",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "서면 제청 논란 지속",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "대법관 서면 제청 논란",
-      "state": "n",
-      "change": "0"
+      "keyword": "KIA 4연승 질주!",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "KIA 4연승 질주!",
-      "state": "s",
-      "change": "0"
+      "keyword": "삼성전자 15% 인상",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "삼성전자 15% 인상",
-      "state": "s",
-      "change": "0"
+      "keyword": "LG 케네디의 위기 극복",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
