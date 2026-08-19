@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-08-19T19:00:20.920Z",
+  "updatedAt": "2026-08-19T19:33:54.493Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "브레이브스 대 트윈스",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 2,
       "keyword": "배우 김정은",
       "traffic": "100+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "정규직",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "라리가",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "어우홍",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "비트코인",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "비트코인 시세",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "토토",
       "traffic": "100+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "오싹한 연애",
       "traffic": "500+"
     },
     {
-      "rank": 9,
-      "keyword": "연애",
-      "traffic": "2000+"
-    },
-    {
       "rank": 10,
-      "keyword": "서승재",
+      "keyword": "세제",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김여정 북미 소통 전혀 모른다",
+      "keyword": "북미 소통 모르겠는 일",
       "state": "s",
       "change": "0"
     },
@@ -67,51 +67,51 @@
     },
     {
       "rank": 3,
-      "keyword": "인천 쿠팡 센터 화재 3000명 대피",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "홍민기, 스터디그룹2 불참",
-      "state": "-",
+      "keyword": "기욤, 은퇴해도 편안할 정도",
+      "state": "+",
       "change": "2"
     },
     {
-      "rank": 5,
-      "keyword": "기욤, 은퇴해도 편안할 정도",
+      "rank": 4,
+      "keyword": "쿠팡 물류센터 화재 대피",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 5,
+      "keyword": "김도영 3점 홈런!",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 6,
-      "keyword": "김도영, 3점 홈런!",
-      "state": "s",
-      "change": "0"
+      "keyword": "홍민기, 데이트 폭력 의혹",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "이민정, 이혼하자",
+      "keyword": "LG 케네디, 병살 유도",
       "state": "+",
-      "change": "24"
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "LG 케네디, 병살 유도 성공",
+      "keyword": "KIA 4연승 질주",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "서면 제청 논란 확대",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 9,
-      "keyword": "삼성전자 파운드리 15% 인상",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 10,
-      "keyword": "서면 제청 논란 증폭",
+      "keyword": "이민정, 이혼 이야기",
       "state": "-",
-      "change": "3"
+      "change": "2"
     }
   ]
 }
