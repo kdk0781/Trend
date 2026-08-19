@@ -1,63 +1,63 @@
 {
-  "updatedAt": "2026-08-19T09:58:27.336Z",
+  "updatedAt": "2026-08-19T10:28:56.631Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "정은경",
-      "traffic": "2000+"
+      "keyword": "kbs 1tv 일일 드라마",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "등산",
-      "traffic": "200+"
+      "keyword": "장쯔이",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "에드윈 디아스",
-      "traffic": "200+"
+      "keyword": "인수 합병",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "용아맥",
-      "traffic": "5000+"
+      "keyword": "미국 재무부 채권",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "삼계탕",
+      "keyword": "biiig",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "이수혁",
-      "traffic": "200+"
+      "keyword": "빅뱅 신곡",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "cgv",
+      "keyword": "정은경",
       "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "000660",
-      "traffic": "10000+"
+      "keyword": "등산",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "이동국",
-      "traffic": "10000+"
+      "keyword": "에드윈 디아스",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "경제 위기",
-      "traffic": "2000+"
+      "keyword": "용아맥",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "중국 왕 외교부장 방한",
-      "state": "+",
-      "change": "2"
+      "keyword": "왕이 외교부장 회담",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
@@ -73,45 +73,45 @@
     },
     {
       "rank": 4,
-      "keyword": "아워벌스데이 JYP 출사표",
-      "state": "+",
+      "keyword": "아워벌스데이 JYP 걸그룹 출격!",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "SK하이닉스 40조 주주환원",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "종합특검 조성현 기소",
+      "keyword": "SK하이닉스 자사주 40조 소각",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "신한은행 가네다 1순위 지명",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "김진성 어깨 부상 재활 3~4주",
+      "keyword": "종합특검, 내란 혐의 기소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이수혁 하렘 남자들 하차",
+      "keyword": "안세영, 세계선수권 16강 진출",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "안전 펜스 설치",
-      "state": "+",
-      "change": "1"
+      "keyword": "A씨도 황정민과 공방",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "신한은행 가네다 1순위 지명",
-      "state": "+",
-      "change": "1"
+      "keyword": "LG 김진성 어깨 부상",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
