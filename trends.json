@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-19T07:48:22.394Z",
+  "updatedAt": "2026-08-19T08:17:06.493Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "한라산",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
+      "keyword": "기아",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 3,
       "keyword": "혼다 마린",
       "traffic": "1000+"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "keyword": "이호선 상담소",
-      "traffic": "5000+"
+      "traffic": "10000+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "승무원",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "band",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "우성빈",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "백성현",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "경제위기",
       "traffic": "100+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "전국장애인차별철폐연대",
       "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "조태용",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "이의리",
-      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "홍민기 논란 가시지 않아",
-      "state": "s",
+      "keyword": "SK하이닉스 자사주 소각",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "SK하이닉스 40조 자사주 취득",
-      "state": "+",
-      "change": "2"
+      "keyword": "홍민기 데이트 폭력 의혹 터졌다",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
       "keyword": "발언하는 한성숙 국무총리",
-      "state": "-",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "앳하트 3 4 연결 세계관",
-      "state": "-",
-      "change": "1"
+      "keyword": "앳하트 3 4 세계관 연결",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "2026 을지 테러 훈련",
-      "state": "s",
+      "keyword": "을지연습 테러 대응훈련",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "박용우, 3년 만에 울산 복귀",
-      "state": "s",
-      "change": "0"
+      "keyword": "아시안게임 레슬링 국가대표",
+      "state": "+",
+      "change": "7"
     },
     {
       "rank": 7,
-      "keyword": "윤석열 위증 벌금 구형",
+      "keyword": "코스피 5.8% 하락 마감",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "코스피 6471.17 하락 마감",
-      "state": "n",
+      "keyword": "문재인 만난 김민석",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "노경필 법원행정처장 행동",
-      "state": "-",
-      "change": "2"
+      "keyword": "웬디 외모 논란 대응",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "경주기행 공효진 이정은 연기",
+      "keyword": "노경필 법원행정처장 일상",
       "state": "-",
-      "change": "4"
+      "change": "1"
     }
   ]
 }
