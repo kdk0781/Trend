@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-19T12:01:33.798Z",
+  "updatedAt": "2026-08-19T13:04:02.991Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "활주로",
-      "traffic": "500+"
+      "keyword": "잔홍",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "티켓링크",
-      "traffic": "1000+"
+      "keyword": "전북현대",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "김민종",
+      "keyword": "빅뱅 콘서트",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "김준환",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "청소차",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "안양 대 제주",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "코리아컵",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "인시디어스",
+      "keyword": "pakistan vs england",
       "traffic": "100+"
     },
     {
+      "rank": 5,
+      "keyword": "로봇",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "의료",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "제니 의상사고 사진",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "야구여왕",
+      "traffic": "500+"
+    },
+    {
       "rank": 9,
-      "keyword": "키움 대 롯데",
-      "traffic": "5000+"
+      "keyword": "모더나",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "정국",
-      "traffic": "500+"
+      "keyword": "윤석열",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "한중 외교장관 회담 개최",
-      "state": "+",
-      "change": "1"
+      "keyword": "어우홍 전 감독 별세",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "U-17 배구 팀 귀국",
+      "keyword": "쿠팡 물류센터서 대피",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "임신중절 추가 폭로",
-      "state": "n",
+      "keyword": "홍민기 임신중절 종용 주장",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "용산어린이정원 사수 궐기대회",
-      "state": "s",
-      "change": "0"
+      "keyword": "기욤 패트리",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "종합특검 조태용 홍장원 등",
-      "state": "n",
+      "keyword": "U-17 배구팀 귀국",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "하이닉스 주가 논란",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "인천 쿠팡 화재 950명 대피",
+      "keyword": "삼성전자 파운드리 15% 인상",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "노시환 동점 홈런 쾅!",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "이재명, 민주당 만찬",
-      "state": "s",
-      "change": "0"
+      "keyword": "하이닉스 주가 논란",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "박지성 비대면으로 논의",
+      "keyword": "한반도에 건설적 역할",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "정책위의장에 임이자 내정",
+      "keyword": "연합훈련 축소, 전작권 영향 없어",
       "state": "n",
       "change": "0"
     }
