@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-08-19T19:54:31.581Z",
+  "updatedAt": "2026-08-19T20:17:18.234Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "정년",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 2,
       "keyword": "barcelona vs al ahly",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "송영길",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "브레이브스 대 트윈스",
       "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "서영교",
-      "traffic": "100+"
     },
     {
       "rank": 5,
@@ -39,7 +39,7 @@
     {
       "rank": 8,
       "keyword": "어우홍",
-      "traffic": "100+"
+      "traffic": "200+"
     },
     {
       "rank": 9,
@@ -55,63 +55,63 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "북미 소통 모른다",
+      "keyword": "북미 소통 알지 못하는 일",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
       "keyword": "김도영 3점 홈런!",
-      "state": "+",
-      "change": "3"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "기욤 패트리 딸 레아, 언어천재!",
+      "keyword": "기욤, 은퇴해도 편안해",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "야구계 별이 졌다, 어우홍 별세",
-      "state": "-",
+      "keyword": "LG 케네디, 병살 완성!",
+      "state": "+",
       "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "홍민기, 스터디그룹2 불참",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "LG 케네디 병살 유도",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "인천 쿠팡 물류센터 화재 대피",
-      "state": "n",
+      "keyword": "홍민기, 데이트 폭력 의혹 불참",
+      "state": "s",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "서면 제청 논란 확산",
+      "rank": 6,
+      "keyword": "노시환 동점포 폭발!",
       "state": "+",
-      "change": "1"
+      "change": "3"
+    },
+    {
+      "rank": 7,
+      "keyword": "김민석 과한 표현 사과",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 8,
+      "keyword": "서면 제청 논란",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "노시환 동점 투런포",
+      "keyword": "쿠팡 물류센터서 화재로 3000명 대피",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김민석 과한 표현 사과",
-      "state": "n",
-      "change": "0"
+      "keyword": "여에스더 강남 집 선물",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
