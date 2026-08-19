@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-08-19T22:01:24.207Z",
+  "updatedAt": "2026-08-19T22:35:27.846Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김시우",
-      "traffic": "500+"
+      "keyword": "코인",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "전투기",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "용인반도체클러스터",
+      "keyword": "서산공항",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "남희석",
+      "traffic": "500+"
+    },
+    {
       "rank": 4,
-      "keyword": "atlético madrid vs málaga",
+      "keyword": "용인시",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "정연",
-      "traffic": "500+"
+      "keyword": "공효진",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "엔비디아",
-      "traffic": "200+"
+      "keyword": "lng선",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "프로야구순위",
+      "keyword": "이수",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "농구",
-      "traffic": "200+"
+      "keyword": "여에스더",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "아시아나항공",
-      "traffic": "200+"
+      "keyword": "론 빙하",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "권순우",
-      "traffic": "100+"
+      "keyword": "지진",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프, 김정은 57개 핵 보유",
+      "keyword": "트럼프 김정은 57개 핵 보유",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
       "keyword": "이강인 데뷔전서 데뷔골",
-      "state": "+",
-      "change": "4"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "홍민기, 스터디그룹2 종방연 불참",
-      "state": "+",
-      "change": "2"
+      "keyword": "미국 국가부채 40조 달러 돌파",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
@@ -79,37 +79,37 @@
     },
     {
       "rank": 5,
-      "keyword": "사상 첫 40조달러 돌파",
-      "state": "n",
-      "change": "0"
+      "keyword": "홍민기 진실공방 격화",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "서면 제청 논란 심화",
-      "state": "+",
-      "change": "8"
-    },
-    {
-      "rank": 7,
-      "keyword": "태풍 사우델 한반도 영향 가능성",
+      "keyword": "2026년 8월 20일 운세",
       "state": "+",
       "change": "3"
     },
     {
-      "rank": 8,
-      "keyword": "김도영 솔로 홈런 36호",
+      "rank": 7,
+      "keyword": "서면 제청 논란 으로 변경할 수 있습니다.",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "2026년 8월 20일 운세",
+      "rank": 8,
+      "keyword": "진선규 박보경 신혼고생",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "전국 곳곳 소나기와 무더위",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 10,
-      "keyword": "전국 소나기와 무더위 계속",
+      "keyword": "김대희 큰딸 한의대 합격",
       "state": "n",
       "change": "0"
     }
