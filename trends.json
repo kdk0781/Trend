@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-19T16:41:25.410Z",
+  "updatedAt": "2026-08-19T17:04:41.245Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "어우홍",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
+      "keyword": "비트코인 시세",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
       "keyword": "트럼프",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "keyword": "토토",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "오싹한 연애",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "연애",
-      "traffic": "1000+"
+      "traffic": "2000+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "김윤덕",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "trực tiếp bóng đá việt nam",
       "traffic": "500+"
     },
     {
-      "rank": 7,
-      "keyword": "디워2",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "keyword": "롯데손해보험",
       "traffic": "200+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "서승재",
       "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "moderna stock",
-      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "어우홍 감독 별세",
+      "keyword": "어우홍 전 감독 별세",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "홍민기, 데이트 폭력과 스토킹 주장 반박",
+      "keyword": "홍민기, 데폭 의혹 부인 및 스토킹 대응",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "북미 지도자 소통 전혀 몰라",
+      "keyword": "북미 소통 전혀 알지 못하는 일",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "인천 쿠팡 물류센터 화재 3000명 대피",
+      "keyword": "인천 물류센터 화재 대피 3000명",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "종합특검 조태용 홍장원 등",
-      "state": "+",
-      "change": "1"
+      "keyword": "종합특검 조태용 기소",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "LG 케네디의 위기 탈출",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "SK하이닉스 40조 자사주 소각",
+      "keyword": "김도영, 3점 홈런!",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 9,
-      "keyword": "김도영 3점 홈런!",
+      "rank": 8,
+      "keyword": "LG 케네디, 위기 극복",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 10,
-      "keyword": "KIA 4연승 스토리",
+      "rank": 9,
+      "keyword": "그래, 이혼하자",
       "state": "+",
-      "change": "1"
+      "change": "2"
+    },
+    {
+      "rank": 10,
+      "keyword": "KIA 4연승 질주!",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
