@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-19T13:52:18.808Z",
+  "updatedAt": "2026-08-19T14:24:17.554Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "베트남 대 말레이시아",
-      "traffic": "200+"
+      "keyword": "남승민",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "석유",
+      "keyword": "việt nam đấu với malaysia",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "캐시워크 정답",
-      "traffic": "100+"
+      "keyword": "기아타이거즈",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "삼성 라이온즈",
+      "keyword": "채소",
       "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "정준원",
+      "keyword": "베트남 대 말레이시아",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "코인니스 - 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
-      "traffic": "200+"
+      "keyword": "석유",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "핵어뢰",
-      "traffic": "200+"
+      "keyword": "캐시워크 정답",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "잔홍",
-      "traffic": "100+"
+      "keyword": "삼성 라이온즈",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "시라카와",
-      "traffic": "100+"
+      "keyword": "정준원",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "빅뱅 콘서트",
-      "traffic": "100+"
+      "keyword": "콘사",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "왕이 외교부장 입장",
-      "state": "+",
-      "change": "1"
+      "keyword": "홍민기 데이트 폭력 의혹",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "어우홍 전 감독 별세",
-      "state": "+",
-      "change": "3"
+      "keyword": "제니 영상 유포자 계정 폭파",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "서강대교 회군 조성현 기소",
+      "keyword": "회군 조성현 기소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "정준원 논란 공효진 옹호",
-      "state": "n",
-      "change": "0"
+      "keyword": "인천 쿠팡 물류센터 화재 대피 3000명",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "삼성 파운드리 가격 인상",
+      "keyword": "삼성전자 파운드리 15% 인상",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "쿠팡 물류센터 화재 대피 3000명",
-      "state": "+",
-      "change": "3"
+      "keyword": "어우홍 전 감독 별세",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "이수혁, 남자들 중도 하차",
+      "keyword": "한반도 평화 위한 건설적 역할",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "홍민기 데이트 폭력 의혹 반박",
+      "keyword": "김여정 북미 소통 몰라",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "기욤 패트리",
-      "state": "+",
-      "change": "3"
+      "keyword": "박보경 수상스럽다",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "안세영, 32분 만에 완승",
-      "state": "n",
-      "change": "0"
+      "keyword": "김도영 3점 홈런!",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
