@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-08-19T11:43:23.621Z",
+  "updatedAt": "2026-08-19T12:01:33.798Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "활주로",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
       "keyword": "티켓링크",
       "traffic": "1000+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "김민종",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "김준환",
       "traffic": "1000+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "청소차",
       "traffic": "10000+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "안양 대 제주",
       "traffic": "1000+"
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "keyword": "코리아컵",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
       "keyword": "인시디어스",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "키움 대 롯데",
       "traffic": "5000+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "정국",
       "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "전국노래자랑",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "충남 아산 fc 대 대전",
-      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "왕이 외교부장 회담 참석",
-      "state": "s",
-      "change": "0"
+      "keyword": "한중 외교장관 회담 개최",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "어우홍 전 감독 별세",
+      "keyword": "U-17 배구 팀 귀국",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "홍민기 전 여친 폭로 잇따라",
-      "state": "+",
-      "change": "2"
+      "keyword": "임신중절 추가 폭로",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
@@ -79,37 +79,37 @@
     },
     {
       "rank": 5,
-      "keyword": "종합특검, 내란 혐의 기소",
+      "keyword": "종합특검 조태용 홍장원 등",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
       "keyword": "하이닉스 주가 논란",
-      "state": "-",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "3선 임이자 내정",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "이재명 민주당 만찬",
+      "keyword": "인천 쿠팡 화재 950명 대피",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "이재명, 민주당 만찬",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "LG 톨허스트 11승 도전",
-      "state": "-",
-      "change": "3"
+      "keyword": "박지성 비대면으로 논의",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "인천 쿠팡 물류센터 화재 대피 950명",
+      "keyword": "정책위의장에 임이자 내정",
       "state": "n",
       "change": "0"
     }
