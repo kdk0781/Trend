@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-18T23:52:56.838Z",
+  "updatedAt": "2026-08-19T00:45:15.023Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "배드민턴",
-      "traffic": "1000+"
+      "keyword": "왕즈이",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "경주기행",
+      "keyword": "나가노 메이",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "3기 신도시",
-      "traffic": "100+"
+      "keyword": "동아일보",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "홍민기",
-      "traffic": "500+"
+      "keyword": "이상민",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "abl생명",
-      "traffic": "100+"
+      "keyword": "배드민턴",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "이창민",
+      "keyword": "경주기행",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "제니",
-      "traffic": "10000+"
+      "keyword": "3기 신도시",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "이슬람 혁명 수비대",
-      "traffic": "200+"
+      "keyword": "홍민기",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "박용우",
+      "keyword": "이창민",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "하빕 누르마고메도프",
-      "traffic": "200+"
+      "keyword": "abl생명",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프, 김정은과 회동 추진",
-      "state": "n",
+      "keyword": "트럼프 김정은 회담 추진",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "제니 8월 말 컴백 확정",
-      "state": "s",
+      "keyword": "코스피 매도사이드카 발동",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "무시알라 또 쓰러짐",
+      "keyword": "방탄소년단 SWIM 올해의 노래 후보",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 4,
+      "keyword": "김민재 동료 무시알라 또 쓰러져",
+      "state": "+",
+      "change": "5"
+    },
+    {
+      "rank": 5,
+      "keyword": "SK하이닉스 주가 부진",
+      "state": "+",
+      "change": "11"
+    },
+    {
+      "rank": 6,
+      "keyword": "LG엔솔, 북미 ESS 가동 완료",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "UAE 이란과 거래 중단",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 5,
-      "keyword": "고지용, 이혼 후 아들 그리워",
+      "rank": 7,
+      "keyword": "홍민기 데이트 폭력 논란",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "나스닥 1.3% 하락",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "로드리 바르셀로나 2030년 계약",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 8,
-      "keyword": "딸 밀친 엄마 무죄 판결",
+      "keyword": "다영, 재혼가정과 친부 빚 고백",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "하원만 원하더니 시급 1만4000원",
-      "state": "-",
-      "change": "2"
+      "keyword": "전재수와 김민석 만남",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "정해인 입담에 웃다",
-      "state": "+",
-      "change": "3"
+      "keyword": "ESPN 창업자 라스무센",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
