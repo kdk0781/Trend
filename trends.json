@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-19T10:28:56.631Z",
+  "updatedAt": "2026-08-19T10:54:59.248Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "kbs 1tv 일일 드라마",
+      "keyword": "정국",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "장쯔이",
-      "traffic": "1000+"
+      "keyword": "전국노래자랑",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "인수 합병",
-      "traffic": "500+"
+      "keyword": "충남 아산 fc 대 대전",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "미국 재무부 채권",
-      "traffic": "200+"
+      "keyword": "발레바",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "biiig",
+      "keyword": "kbs 1tv 일일 드라마",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "빅뱅 신곡",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "정은경",
+      "keyword": "장쯔이",
       "traffic": "2000+"
     },
     {
+      "rank": 7,
+      "keyword": "인수 합병",
+      "traffic": "500+"
+    },
+    {
       "rank": 8,
-      "keyword": "등산",
+      "keyword": "미국 재무부 채권",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "에드윈 디아스",
-      "traffic": "200+"
+      "keyword": "biiig",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "용아맥",
-      "traffic": "5000+"
+      "keyword": "빅뱅 신곡",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "왕이 외교부장 회담",
+      "keyword": "왕이 외교부장 방문",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "홍민기 배우",
-      "state": "s",
-      "change": "0"
+      "keyword": "홍민기, 데이트 폭력과 스토킹 의혹 부인",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "아시안게임 레슬링 국가대표",
-      "state": "+",
-      "change": "1"
+      "keyword": "한중 외교장관 기념 촬영",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "아워벌스데이 JYP 걸그룹 출격!",
-      "state": "-",
-      "change": "1"
+      "keyword": "안세영, 세계선수권 16강 진출",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 5,
-      "keyword": "SK하이닉스 자사주 40조 소각",
-      "state": "s",
+      "keyword": "하이닉스 주가 논란",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "신한은행 가네다 1순위 지명",
+      "keyword": "용산어린이정원 사수 궐기대회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "종합특검, 내란 혐의 기소",
+      "keyword": "정책위의장에 임이자 내정",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "안세영, 세계선수권 16강 진출",
+      "keyword": "결의 다지는 안한봉",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "A씨도 황정민과 공방",
+      "keyword": "리센느, 거제에 5천만원 기부",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "LG 김진성 어깨 부상",
+      "keyword": "최고위 김민석 행보",
       "state": "n",
       "change": "0"
     }
