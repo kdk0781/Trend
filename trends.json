@@ -1,63 +1,63 @@
 {
-  "updatedAt": "2026-08-19T18:21:14.506Z",
+  "updatedAt": "2026-08-19T19:00:20.920Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "정규직",
+      "keyword": "배우 김정은",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "라리가",
-      "traffic": "100+"
+      "keyword": "정규직",
+      "traffic": "200+"
     },
     {
       "rank": 3,
+      "keyword": "라리가",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
       "keyword": "어우홍",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "비트코인",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "비트코인 시세",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "토토",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "오싹한 연애",
       "traffic": "500+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "연애",
       "traffic": "2000+"
     },
     {
-      "rank": 9,
-      "keyword": "김윤덕",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "롯데손해보험",
-      "traffic": "200+"
+      "keyword": "서승재",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "북미 소통 전혀 모름",
-      "state": "+",
-      "change": "2"
+      "keyword": "김여정 북미 소통 전혀 모른다",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
@@ -67,51 +67,51 @@
     },
     {
       "rank": 3,
-      "keyword": "한반도 평화의 건설적 역할",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "인천 쿠팡 물류센터 대피 소동",
-      "state": "s",
+      "keyword": "인천 쿠팡 센터 화재 3000명 대피",
+      "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "기욤 패트리 딸 레아, 언어 천재 요정",
+      "rank": 4,
+      "keyword": "홍민기, 스터디그룹2 불참",
       "state": "-",
       "change": "2"
     },
     {
+      "rank": 5,
+      "keyword": "기욤, 은퇴해도 편안할 정도",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 6,
-      "keyword": "김도영 3점 홈런!",
+      "keyword": "김도영, 3점 홈런!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "서면 제청 논란 지속",
+      "keyword": "이민정, 이혼하자",
       "state": "+",
-      "change": "1"
+      "change": "24"
     },
     {
       "rank": 8,
-      "keyword": "KIA 4연승 질주!",
+      "keyword": "LG 케네디, 병살 유도 성공",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "삼성전자 15% 인상",
-      "state": "+",
-      "change": "1"
+      "keyword": "삼성전자 파운드리 15% 인상",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "LG 케네디의 위기 극복",
-      "state": "+",
-      "change": "1"
+      "keyword": "서면 제청 논란 증폭",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
