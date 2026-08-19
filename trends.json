@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-19T22:35:27.846Z",
+  "updatedAt": "2026-08-19T22:55:20.904Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "코인",
-      "traffic": "1000+"
+      "keyword": "돈",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "서산공항",
-      "traffic": "100+"
+      "keyword": "거점국립대학교",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "남희석",
-      "traffic": "500+"
+      "keyword": "리센느",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "용인시",
+      "keyword": "인공섬",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "공효진",
-      "traffic": "1000+"
+      "keyword": "погода",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "lng선",
-      "traffic": "100+"
+      "keyword": "서산공항",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "이수",
-      "traffic": "100+"
+      "keyword": "남희석",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "여에스더",
-      "traffic": "2000+"
+      "keyword": "барселона – аль-ахли",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "론 빙하",
+      "keyword": "용인시",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "지진",
-      "traffic": "500+"
+      "keyword": "공효진",
+      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -67,7 +67,7 @@
     },
     {
       "rank": 3,
-      "keyword": "미국 국가부채 40조 달러 돌파",
+      "keyword": "美 국가부채 40조달러 돌파",
       "state": "n",
       "change": "0"
     },
@@ -79,37 +79,37 @@
     },
     {
       "rank": 5,
-      "keyword": "홍민기 진실공방 격화",
-      "state": "-",
-      "change": "2"
+      "keyword": "홍민기 논란 속 데이트 폭력 의혹",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "2026년 8월 20일 운세",
+      "keyword": "뉴욕증시 금리 하락 상승",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 7,
+      "keyword": "김대희 딸 한의대 합격",
       "state": "+",
       "change": "3"
     },
     {
-      "rank": 7,
-      "keyword": "서면 제청 논란 으로 변경할 수 있습니다.",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 8,
-      "keyword": "진선규 박보경 신혼고생",
-      "state": "n",
-      "change": "0"
+      "keyword": "2026년 8월 20일 운세",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "전국 곳곳 소나기와 무더위",
-      "state": "+",
-      "change": "1"
+      "keyword": "전국 소나기와 무더위",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김대희 큰딸 한의대 합격",
+      "keyword": "전북 코리아컵 탈락",
       "state": "n",
       "change": "0"
     }
