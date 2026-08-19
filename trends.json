@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T15:35:57.263Z",
+  "updatedAt": "2026-08-19T16:00:16.816Z",
   "google": [
     {
       "rank": 1,
@@ -18,13 +18,13 @@
     },
     {
       "rank": 4,
-      "keyword": "서승재",
-      "traffic": "100+"
+      "keyword": "롯데손해보험",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "롯데손해보험",
-      "traffic": "200+"
+      "keyword": "truc tiep bong da",
+      "traffic": "500+"
     },
     {
       "rank": 6,
@@ -33,83 +33,83 @@
     },
     {
       "rank": 7,
+      "keyword": "서승재",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
       "keyword": "moderna stock",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "kbo",
       "traffic": "500+"
     },
     {
-      "rank": 9,
-      "keyword": "포수",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "야구 순위",
+      "keyword": "포수",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "왕이 외교부장 입장",
-      "state": "n",
+      "keyword": "왕이 외교부장 도착",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "SK하이닉스 40조 자사주 소각",
-      "state": "n",
-      "change": "0"
+      "keyword": "어우홍 감독 별세 95세",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "홍민기 스터디그룹2 불참",
-      "state": "n",
-      "change": "0"
+      "keyword": "홍민기 배우",
+      "state": "+",
+      "change": "12"
     },
     {
       "rank": 4,
-      "keyword": "어우홍 감독 별세 95세",
-      "state": "n",
-      "change": "0"
+      "keyword": "아워벌스데이 JYP 신인상 도전!",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "아워벌스데이 JYP 도전",
-      "state": "n",
-      "change": "0"
+      "keyword": "종합특검, 내란 혐의 기소",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "종합특검 조성현 기소",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "북미 소통 모르는 일",
-      "state": "-",
+      "keyword": "인천 쿠팡 물류센터 화재로 3000명 대피",
+      "state": "+",
       "change": "3"
     },
     {
+      "rank": 7,
+      "keyword": "북미 소통 미지수",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "아시안게임 레슬링 대표 출정식",
-      "state": "n",
+      "keyword": "아시안게임 레슬링 국가대표",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "인천 쿠팡 물류센터 화재 3000명 대피",
-      "state": "n",
-      "change": "0"
+      "keyword": "LG 케네디 승리와 병살",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "LG 케네디 병살 유도",
+      "keyword": "하이닉스 40조 자사주 소각",
       "state": "n",
       "change": "0"
     }
