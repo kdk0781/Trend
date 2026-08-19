@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-19T05:40:10.062Z",
+  "updatedAt": "2026-08-19T06:00:47.413Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "레이디 제인",
-      "traffic": "200+"
+      "keyword": "f 35a",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
+      "keyword": "민방위",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "dior",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "삼청교육대",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "레이디 제인",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
       "keyword": "오타니 쇼헤이",
       "traffic": "500+"
     },
     {
-      "rank": 3,
+      "rank": 7,
       "keyword": "그랜드 테 프트 오토 vi",
       "traffic": "2000+"
     },
     {
-      "rank": 4,
+      "rank": 8,
       "keyword": "공동 명의",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "keyword": "하이닉스 주가",
       "traffic": "2000+"
     },
     {
-      "rank": 6,
+      "rank": 10,
       "keyword": "환율",
       "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "무덤",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "이혼",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "1달러",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "hj중공업",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "홍민기 배우",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "키아프 프리즈 기자간담회",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "가습기살균제 피해자 만난 김성환",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "이진숙 국민의힘 의원",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "구윤철 부총리 간담회 참석",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "이태한 특검 합수본 방문",
+      "rank": 2,
+      "keyword": "키아프 프리즈 간담회",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "구윤철 부총리 미국상공회의소 대담",
       "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "이태한 특검 합수본 방문",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "환율 10개월 1300원대 진입",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "노경필 법원행정처장 질의 답변",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "오타니 6년 연속 30홈런",
-      "state": "n",
-      "change": "0"
+      "keyword": "오타니 6년 30홈런",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "곽정은, 장기하 성희롱 사과",
+      "keyword": "조태용 징역 2년 6개월",
       "state": "-",
-      "change": "5"
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "환율 10개월 반 만에 1300원대",
-      "state": "n",
+      "keyword": "프리뷰 인 서울 2026",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "조태용 징역 2년 6개월",
+      "keyword": "축구협회 심판 공소시효 종료",
       "state": "n",
       "change": "0"
     }
