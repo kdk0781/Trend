@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-19T08:56:38.077Z",
+  "updatedAt": "2026-08-19T09:28:37.144Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "000660",
-      "traffic": "5000+"
+      "keyword": "에드윈 디아스",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "이동국",
+      "keyword": "용아맥",
       "traffic": "5000+"
     },
     {
       "rank": 3,
+      "keyword": "이수혁",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "삼계탕",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "cgv",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "000660",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "이동국",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 8,
       "keyword": "경제 위기",
       "traffic": "500+"
     },
     {
-      "rank": 4,
-      "keyword": "백록담",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "정승민",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "신안산선",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "하이닉스",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "기아",
-      "traffic": "2000+"
-    },
-    {
       "rank": 9,
-      "keyword": "혼다 마린",
-      "traffic": "1000+"
+      "keyword": "백록담",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "이호선 상담소",
-      "traffic": "20000+"
+      "keyword": "정승민",
+      "traffic": "500+"
     }
   ],
   "domestic": [
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "중국 왕이 방한한다",
-      "state": "+",
-      "change": "1"
+      "keyword": "홍민기 배우",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "아워벌스데이 JYP 새 걸그룹",
-      "state": "n",
+      "keyword": "중국 왕 외교부장 방한",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "코스피 6471.17 마감",
-      "state": "+",
-      "change": "1"
+      "keyword": "아시안게임 레슬링 대표 훈련",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "신한은행 가네다 1순위 지명",
-      "state": "n",
+      "keyword": "아워벌스데이 JYP 출사표",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "테러 대응 훈련",
-      "state": "n",
+      "keyword": "종합특검 조성현 기소",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "조성현 기소 내란혐의",
-      "state": "n",
-      "change": "0"
+      "keyword": "박경리 100주년 기린 우리은행",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "경주기행 공효진, 결혼 후 변화多",
+      "keyword": "포스코, 중국 리튬 협력",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김민석, 문재인 면담",
-      "state": "+",
-      "change": "4"
+      "keyword": "원·달러 1300원대 진입",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "박경리 탄생 100주년 기념",
+      "keyword": "인천공항 안전 펜스",
       "state": "n",
       "change": "0"
     }
