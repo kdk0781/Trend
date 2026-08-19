@@ -1,68 +1,68 @@
 {
-  "updatedAt": "2026-08-19T22:55:20.904Z",
+  "updatedAt": "2026-08-19T23:15:29.751Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "돈",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "거점국립대학교",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "리센느",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "인공섬",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "погода",
+      "keyword": "결혼식",
       "traffic": "500+"
     },
     {
+      "rank": 2,
+      "keyword": "쓰레기 봉투",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "pba 팀리그",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "성훈",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "김소영",
+      "traffic": "1000+"
+    },
+    {
       "rank": 6,
-      "keyword": "서산공항",
+      "keyword": "노태문",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "남희석",
-      "traffic": "500+"
+      "keyword": "국립순천대학교",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "барселона – аль-ахли",
-      "traffic": "100+"
+      "keyword": "tsla",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "용인시",
-      "traffic": "500+"
+      "keyword": "돈",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "공효진",
+      "keyword": "거점국립대학교",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 김정은 57개 핵 보유",
+      "keyword": "트럼프 김정은 연내 57개 핵무기",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이강인 데뷔전서 데뷔골",
-      "state": "s",
+      "keyword": "이강인 데뷔골!",
+      "state": "n",
       "change": "0"
     },
     {
@@ -73,43 +73,43 @@
     },
     {
       "rank": 4,
-      "keyword": "여에스더 강남 집 선물",
-      "state": "s",
-      "change": "0"
+      "keyword": "홍민기 전 여친, 임신중절 폭로",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "홍민기 논란 속 데이트 폭력 의혹",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "뉴욕증시 금리 하락 상승",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 7,
-      "keyword": "김대희 딸 한의대 합격",
+      "keyword": "태풍 사우델 한반도 영향 가능성",
       "state": "+",
       "change": "3"
     },
     {
-      "rank": 8,
-      "keyword": "2026년 8월 20일 운세",
-      "state": "-",
-      "change": "2"
+      "rank": 6,
+      "keyword": "뉴욕증시 美 상승",
+      "state": "n",
+      "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "전국 소나기와 무더위",
+      "rank": 7,
+      "keyword": "김대희 딸 한의대 합격",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "가사도우미에 강남 집",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "2026년 8월 20일 운세",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "전북 코리아컵 탈락",
+      "keyword": "美 학업 도망",
       "state": "n",
       "change": "0"
     }
