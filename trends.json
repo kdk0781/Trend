@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-19T02:07:58.061Z",
+  "updatedAt": "2026-08-19T03:07:32.362Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "투싼",
-      "traffic": "500+"
+      "keyword": "유니트리",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "화이트삭스 대 컵스",
-      "traffic": "100+"
+      "keyword": "트럭",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "사이드카",
+      "keyword": "영등포구",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "왕즈이",
-      "traffic": "1000+"
+      "keyword": "이스타항공",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "나가노 메이",
-      "traffic": "200+"
+      "keyword": "안태준",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "동아일보",
-      "traffic": "2000+"
+      "keyword": "투싼",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "이상민",
-      "traffic": "2000+"
+      "keyword": "화이트삭스 대 컵스",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "경주기행",
+      "keyword": "사이드카",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "배드민턴",
-      "traffic": "1000+"
+      "keyword": "왕즈이",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "3기 신도시",
-      "traffic": "100+"
+      "keyword": "나가노 메이",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "코스피 급락 매도 발동",
-      "state": "s",
+      "keyword": "중수청장 국민 추천 받는다",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "홍민기 데이트폭력 폭로",
+      "keyword": "홍민기 데이트폭력 의혹",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "초대 중수청장 국민 추천",
-      "state": "n",
-      "change": "0"
+      "keyword": "금융권 공동채용 박람회",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "출근하는 조희대 대법원장",
-      "state": "+",
-      "change": "1"
+      "keyword": "한미 UFS 조기 종료",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "트럼프, 김정은 회담 추진",
-      "state": "-",
-      "change": "1"
+      "keyword": "이수혁 하렘 하차 논의 중",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 6,
-      "keyword": "김윤덕 장관 인사 나눔",
+      "keyword": "부산고 하현승 투수겸업!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "다저스 디아스 다시 부상",
-      "state": "s",
+      "keyword": "조희대 대법원장 묵묵부답 출근",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "현대차, 투싼 디자인 공개",
-      "state": "+",
-      "change": "1"
+      "keyword": "김민석 부산 현장 최고위",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "하이닉스 주가 부진",
-      "state": "+",
-      "change": "9"
+      "keyword": "오세훈 시장 토론회 참석",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "MTV VMA 후보들",
-      "state": "+",
-      "change": "6"
+      "keyword": "LG전자, 유럽 5G 텔레매틱스 공급",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
