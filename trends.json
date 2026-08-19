@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-19T14:24:17.554Z",
+  "updatedAt": "2026-08-19T14:59:53.906Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "남승민",
-      "traffic": "500+"
+      "keyword": "연애",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "việt nam đấu với malaysia",
-      "traffic": "200+"
+      "keyword": "김윤덕",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "기아타이거즈",
+      "keyword": "롯데손해보험",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "채소",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "베트남 대 말레이시아",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "석유",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "캐시워크 정답",
+      "keyword": "서승재",
       "traffic": "100+"
     },
     {
-      "rank": 8,
-      "keyword": "삼성 라이온즈",
-      "traffic": "2000+"
+      "rank": 5,
+      "keyword": "moderna",
+      "traffic": "200+"
     },
     {
-      "rank": 9,
-      "keyword": "정준원",
+      "rank": 6,
+      "keyword": "hd현대중공업",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "kbo",
       "traffic": "500+"
     },
     {
-      "rank": 10,
-      "keyword": "콘사",
+      "rank": 8,
+      "keyword": "포수",
       "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "야구 순위",
+      "traffic": "200+"
+    },
+    {
+      "rank": 10,
+      "keyword": "남승민",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "홍민기 데이트 폭력 의혹",
+      "keyword": "서강대교 조성현 기소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "제니 영상 유포자 계정 폭파",
+      "keyword": "파운드리 최대 15% 인상",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "회군 조성현 기소",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "인천 쿠팡 물류센터 화재 대피 3000명",
+      "keyword": "인천 물류센터 화재 대피 3000명",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "삼성전자 파운드리 15% 인상",
+      "rank": 4,
+      "keyword": "웬디 품평 법적 대응",
       "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "김여정 북미 소통 알지 못함",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "어우홍 전 감독 별세",
-      "state": "-",
-      "change": "2"
+      "keyword": "제니 영상 유포자 계정 폭파",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "한반도 평화 위한 건설적 역할",
-      "state": "n",
-      "change": "0"
+      "keyword": "송중기, 박보경 수상 축하",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "김여정 북미 소통 몰라",
-      "state": "n",
-      "change": "0"
+      "keyword": "김도영 3점 홈런!",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "박보경 수상스럽다",
+      "keyword": "디펜딩챔피언 전북 승부차기",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김도영 3점 홈런!",
-      "state": "-",
-      "change": "2"
+      "keyword": "강제조정 불참 황정민과 대결",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
