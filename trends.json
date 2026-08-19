@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-19T10:54:59.248Z",
+  "updatedAt": "2026-08-19T11:17:39.285Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "정국",
-      "traffic": "200+"
+      "keyword": "안양 대 제주",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "전국노래자랑",
+      "keyword": "인시디어스",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "충남 아산 fc 대 대전",
-      "traffic": "2000+"
+      "keyword": "키움 대 롯데",
+      "traffic": "5000+"
     },
     {
       "rank": 4,
-      "keyword": "발레바",
+      "keyword": "정국",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "kbs 1tv 일일 드라마",
-      "traffic": "500+"
+      "keyword": "전국노래자랑",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "장쯔이",
+      "keyword": "충남 아산 fc 대 대전",
       "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "인수 합병",
+      "keyword": "발레바",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "미국 재무부 채권",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "biiig",
+      "keyword": "kbs 1tv 일일 드라마",
       "traffic": "500+"
     },
     {
+      "rank": 9,
+      "keyword": "장쯔이",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "빅뱅 신곡",
-      "traffic": "1000+"
+      "keyword": "인수 합병",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "왕이 외교부장 방문",
+      "keyword": "왕이 외교부장 회담 참석",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "홍민기, 데이트 폭력과 스토킹 의혹 부인",
+      "keyword": "홍민기, 데이트 폭력·스토킹 법적 대응",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "안세영, 세계선수권 16강 진출",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "용산어린이정원 사수 궐기대회",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 3,
-      "keyword": "한중 외교장관 기념 촬영",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "안세영, 세계선수권 16강 진출",
-      "state": "+",
-      "change": "4"
-    },
-    {
       "rank": 5,
-      "keyword": "하이닉스 주가 논란",
-      "state": "n",
+      "keyword": "SK하이닉스 주가 논란",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "용산어린이정원 사수 궐기대회",
+      "keyword": "3선 임이자 정책위의장 내정",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "정책위의장에 임이자 내정",
+      "keyword": "프렌치 파파 이동준 시구",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "결의 다지는 안한봉",
+      "keyword": "간암 투병 심권호, 마지막 시술 거의 끝났다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "리센느, 거제에 5천만원 기부",
-      "state": "n",
+      "keyword": "리센느, 거제에 5천만 기부",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
       "keyword": "최고위 김민석 행보",
-      "state": "n",
+      "state": "s",
       "change": "0"
     }
   ]
