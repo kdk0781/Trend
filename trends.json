@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-19T07:00:12.884Z",
+  "updatedAt": "2026-08-19T07:48:22.394Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "전국장애인차별철폐연대",
-      "traffic": "100+"
+      "keyword": "혼다 마린",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
+      "keyword": "이호선 상담소",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "승무원",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "band",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "우성빈",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "백성현",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "경제위기",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "전국장애인차별철폐연대",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
       "keyword": "조태용",
       "traffic": "200+"
     },
     {
-      "rank": 3,
-      "keyword": "민방위 훈련",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "f 35a",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "dior",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "삼청교육대",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "국립 대학",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "레이디 제인",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "오타니 쇼헤이",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "그랜드 테 프트 오토 vi",
-      "traffic": "5000+"
+      "keyword": "이의리",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "홍민기 배우",
+      "keyword": "홍민기 논란 가시지 않아",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "키아프 프리즈 기자간담회",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "이태한 특검, 합수본 방문",
+      "keyword": "SK하이닉스 40조 자사주 취득",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 3,
+      "keyword": "발언하는 한성숙 국무총리",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 4,
-      "keyword": "앳하트 3 4! 리메이크 음원 발매",
-      "state": "n",
-      "change": "0"
+      "keyword": "앳하트 3 4 연결 세계관",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "정점식, 박근혜 예방",
-      "state": "n",
+      "keyword": "2026 을지 테러 훈련",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "노경필 처장 질의 답변",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 7,
-      "keyword": "레슬링 국가대표 아시안게임 다짐",
-      "state": "n",
+      "keyword": "박용우, 3년 만에 울산 복귀",
+      "state": "s",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "윤석열 위증 벌금 구형",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "한성숙 국무총리 창업 대토론회",
+      "keyword": "코스피 6471.17 하락 마감",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "한미 훈련 조기 종료",
-      "state": "n",
-      "change": "0"
+      "keyword": "노경필 법원행정처장 행동",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "백성현 논산시장 당선무효형",
-      "state": "n",
-      "change": "0"
+      "keyword": "경주기행 공효진 이정은 연기",
+      "state": "-",
+      "change": "4"
     }
   ]
 }
