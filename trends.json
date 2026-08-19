@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-19T04:28:47.262Z",
+  "updatedAt": "2026-08-19T05:02:38.251Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "그랜드 테프트 오토 vi",
-      "traffic": "500+"
+      "keyword": "하이닉스 주가",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "f-35a",
-      "traffic": "200+"
+      "keyword": "환율",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "피겨스케이팅",
+      "keyword": "무덤",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "투싼 신형",
-      "traffic": "5000+"
+      "keyword": "이혼",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "말린스 대 필리스",
-      "traffic": "100+"
+      "keyword": "1달러",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "아랍에미리트",
-      "traffic": "500+"
+      "keyword": "hj중공업",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "소지섭",
-      "traffic": "500+"
+      "keyword": "그랜드 테프트 오토 vi",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "인천지하철",
-      "traffic": "200+"
+      "keyword": "f-35a",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "유니트리",
-      "traffic": "200+"
+      "keyword": "피겨스케이팅",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "트럭",
+      "keyword": "투싼 신형",
       "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "홍민기 데이트 폭력 의혹",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "금융권 공동채용 박람회",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "조태용 징역 2년 6개월",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "이진숙 국민의힘 의원",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 5,
-      "keyword": "아이들 소연, 9월 5년 만 솔로 컴백",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "부산고 4번타자 하현승의 투수겸업!",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "한미 UFS 조기 종료",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "조희대 대법원장 묵묵부답 출근",
+      "keyword": "홍민기 추가 폭로 나왔다",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "이수혁 하렘 하차 논의",
+      "rank": 2,
+      "keyword": "금융권 공동채용 박람회",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "이진숙 국민의힘 의원",
       "state": "+",
-      "change": "1"
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "김성환 장관, 가습기 피해자 만남",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "구윤철 부총리 간담회 참여",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 6,
+      "keyword": "노경필 법원행정처장",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "부동산 대책 토론회",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "경주기행 이연, 아이유와 데이트?",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "오타니 6년 연속 30홈런",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "한성숙 총리, 인천계양 점검",
+      "keyword": "안규백 장관 인사말",
       "state": "n",
       "change": "0"
     }
