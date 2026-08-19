@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-19T23:15:29.751Z",
+  "updatedAt": "2026-08-19T23:39:28.935Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "결혼식",
+      "keyword": "로켓",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "쓰레기 봉투",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "pba 팀리그",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "성훈",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "김소영",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "노태문",
+      "keyword": "오늘날씨",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "국립순천대학교",
+      "rank": 3,
+      "keyword": "이연",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "최준희",
       "traffic": "2000+"
     },
     {
+      "rank": 5,
+      "keyword": "임금",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "응급",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "구혜선",
+      "traffic": "100+"
+    },
+    {
       "rank": 8,
-      "keyword": "tsla",
+      "keyword": "같이 삽시다",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "돈",
-      "traffic": "5000+"
+      "keyword": "결혼식",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "거점국립대학교",
-      "traffic": "200+"
+      "keyword": "pba 팀리그",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 김정은 연내 57개 핵무기",
-      "state": "s",
-      "change": "0"
+      "keyword": "이강인 데뷔골",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "이강인 데뷔골!",
+      "keyword": "국가부채 첫 40조달러 돌파",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "美 국가부채 40조달러 돌파",
-      "state": "n",
-      "change": "0"
+      "keyword": "홍민기 전 여친 임신중절 폭로",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "홍민기 전 여친, 임신중절 폭로",
+      "keyword": "태풍 사우델 한반도 영향 가능성",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "태풍 사우델 한반도 영향 가능성",
-      "state": "+",
-      "change": "3"
+      "keyword": "트럼프 김정은 57개 핵무기 보유",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 6,
-      "keyword": "뉴욕증시 美 상승",
+      "keyword": "뉴욕증시 소폭 상승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김대희 딸 한의대 합격",
-      "state": "s",
+      "keyword": "주사기 매점금지 연장",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "가사도우미에 강남 집",
+      "keyword": "기욤 딸 레아, 폭풍 먹방 요정",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "2026년 8월 20일 운세",
+      "keyword": "이선정 쌍둥이 동생 도망",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "美 학업 도망",
+      "keyword": "현역 선수 코카인 적발",
       "state": "n",
       "change": "0"
     }
