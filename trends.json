@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-08-19T21:42:29.149Z",
+  "updatedAt": "2026-08-19T22:01:24.207Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "atlético madrid vs málaga",
-      "traffic": "200+"
+      "keyword": "김시우",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "정연",
-      "traffic": "200+"
+      "keyword": "전투기",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "엔비디아",
+      "keyword": "용인반도체클러스터",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "프로야구순위",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "아시아나항공",
+      "keyword": "atlético madrid vs málaga",
       "traffic": "200+"
     },
     {
+      "rank": 5,
+      "keyword": "정연",
+      "traffic": "500+"
+    },
+    {
       "rank": 6,
-      "keyword": "농구",
+      "keyword": "엔비디아",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "권순우",
+      "keyword": "프로야구순위",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "김태군",
-      "traffic": "500+"
+      "keyword": "농구",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "이효리",
-      "traffic": "2000+"
+      "keyword": "아시아나항공",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "한겨레",
-      "traffic": "500+"
+      "keyword": "권순우",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 김정은, 북 57개 핵무기 보유",
-      "state": "+",
-      "change": "3"
+      "keyword": "트럼프, 김정은 57개 핵 보유",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "KIA 4연승 질주!",
+      "keyword": "이강인 데뷔전서 데뷔골",
       "state": "+",
-      "change": "3"
+      "change": "4"
     },
     {
       "rank": 3,
-      "keyword": "김여정 북미 소통 관심 없어",
-      "state": "n",
-      "change": "0"
+      "keyword": "홍민기, 스터디그룹2 종방연 불참",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
@@ -79,39 +79,39 @@
     },
     {
       "rank": 5,
-      "keyword": "홍민기 데이트 폭력 의혹",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "이강인, 데뷔전 데뷔골!",
+      "keyword": "사상 첫 40조달러 돌파",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "김도영 솔로포 또 터졌다!",
+      "rank": 6,
+      "keyword": "서면 제청 논란 심화",
       "state": "+",
-      "change": "2"
+      "change": "8"
+    },
+    {
+      "rank": 7,
+      "keyword": "태풍 사우델 한반도 영향 가능성",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 8,
+      "keyword": "김도영 솔로 홈런 36호",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 9,
       "keyword": "2026년 8월 20일 운세",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "김민석, 정청래 동지 사과",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 10,
-      "keyword": "태풍 사우델 한반도 영향 가능성",
-      "state": "-",
-      "change": "1"
+      "keyword": "전국 소나기와 무더위 계속",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
