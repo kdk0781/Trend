@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-19T13:04:02.991Z",
+  "updatedAt": "2026-08-19T13:52:18.808Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "잔홍",
-      "traffic": "100+"
+      "keyword": "베트남 대 말레이시아",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "전북현대",
+      "keyword": "석유",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "빅뱅 콘서트",
+      "keyword": "캐시워크 정답",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "pakistan vs england",
-      "traffic": "100+"
+      "keyword": "삼성 라이온즈",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "로봇",
-      "traffic": "1000+"
+      "keyword": "정준원",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "의료",
+      "keyword": "코인니스 - 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "제니 의상사고 사진",
-      "traffic": "10000+"
+      "keyword": "핵어뢰",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "야구여왕",
-      "traffic": "500+"
+      "keyword": "잔홍",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "모더나",
-      "traffic": "2000+"
+      "keyword": "시라카와",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "윤석열",
-      "traffic": "2000+"
+      "keyword": "빅뱅 콘서트",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "어우홍 전 감독 별세",
-      "state": "s",
-      "change": "0"
+      "keyword": "왕이 외교부장 입장",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "쿠팡 물류센터서 대피",
+      "keyword": "어우홍 전 감독 별세",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 3,
+      "keyword": "서강대교 회군 조성현 기소",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "홍민기 임신중절 종용 주장",
-      "state": "s",
+      "rank": 4,
+      "keyword": "정준원 논란 공효진 옹호",
+      "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "keyword": "삼성 파운드리 가격 인상",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "쿠팡 물류센터 화재 대피 3000명",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 7,
+      "keyword": "이수혁, 남자들 중도 하차",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "홍민기 데이트 폭력 의혹 반박",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
       "keyword": "기욤 패트리",
       "state": "+",
       "change": "3"
     },
     {
-      "rank": 5,
-      "keyword": "U-17 배구팀 귀국",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "삼성전자 파운드리 15% 인상",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "노시환 동점 홈런 쾅!",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "하이닉스 주가 논란",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "한반도에 건설적 역할",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 10,
-      "keyword": "연합훈련 축소, 전작권 영향 없어",
+      "keyword": "안세영, 32분 만에 완승",
       "state": "n",
       "change": "0"
     }
