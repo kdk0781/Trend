@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-19T06:00:47.413Z",
+  "updatedAt": "2026-08-19T07:00:12.884Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "f 35a",
-      "traffic": "1000+"
+      "keyword": "전국장애인차별철폐연대",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "민방위",
+      "keyword": "조태용",
       "traffic": "200+"
     },
     {
       "rank": 3,
+      "keyword": "민방위 훈련",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "f 35a",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
       "keyword": "dior",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "삼청교육대",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 7,
+      "keyword": "국립 대학",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
       "keyword": "레이디 제인",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "오타니 쇼헤이",
       "traffic": "500+"
     },
     {
-      "rank": 7,
-      "keyword": "그랜드 테 프트 오토 vi",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "공동 명의",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "하이닉스 주가",
-      "traffic": "2000+"
-    },
-    {
       "rank": 10,
-      "keyword": "환율",
-      "traffic": "2000+"
+      "keyword": "그랜드 테 프트 오토 vi",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "키아프 프리즈 간담회",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "구윤철 부총리 미국상공회의소 대담",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "이태한 특검 합수본 방문",
+      "keyword": "키아프 프리즈 기자간담회",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "환율 10개월 1300원대 진입",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "노경필 법원행정처장 질의 답변",
+      "rank": 3,
+      "keyword": "이태한 특검, 합수본 방문",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 4,
+      "keyword": "앳하트 3 4! 리메이크 음원 발매",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "정점식, 박근혜 예방",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "노경필 처장 질의 답변",
+      "state": "-",
+      "change": "4"
+    },
+    {
       "rank": 7,
-      "keyword": "오타니 6년 30홈런",
-      "state": "+",
-      "change": "1"
+      "keyword": "레슬링 국가대표 아시안게임 다짐",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "조태용 징역 2년 6개월",
-      "state": "-",
-      "change": "1"
+      "keyword": "한성숙 국무총리 창업 대토론회",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "프리뷰 인 서울 2026",
-      "state": "s",
+      "keyword": "한미 훈련 조기 종료",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "축구협회 심판 공소시효 종료",
+      "keyword": "백성현 논산시장 당선무효형",
       "state": "n",
       "change": "0"
     }
