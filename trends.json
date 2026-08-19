@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-19T21:10:29.994Z",
+  "updatedAt": "2026-08-19T21:42:29.149Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "농지",
-      "traffic": "2000+"
+      "keyword": "atlético madrid vs málaga",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "홍장원",
+      "keyword": "정연",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "당대표",
-      "traffic": "2000+"
+      "keyword": "엔비디아",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "파운드리",
-      "traffic": "500+"
+      "keyword": "프로야구순위",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "태양광 발전",
+      "keyword": "아시아나항공",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "영탁",
-      "traffic": "500+"
+      "keyword": "농구",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "정년",
-      "traffic": "2000+"
+      "keyword": "권순우",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "barcelona vs al ahly",
+      "keyword": "김태군",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "브레이브스 대 트윈스",
-      "traffic": "500+"
+      "keyword": "이효리",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "서영교",
-      "traffic": "100+"
+      "keyword": "한겨레",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "북김여정 북미 소통 몰라",
-      "state": "s",
-      "change": "0"
+      "keyword": "트럼프 김정은, 북 57개 핵무기 보유",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 2,
-      "keyword": "김도영 3점 홈런!",
+      "keyword": "KIA 4연승 질주!",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 3,
-      "keyword": "홍민기 데이트 폭력 의혹",
-      "state": "-",
-      "change": "1"
+      "keyword": "김여정 북미 소통 관심 없어",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
       "keyword": "여에스더 강남 집 선물",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 5,
-      "keyword": "KIA 4연승 질주!",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "그래, 이혼하자 이민정 드라마",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "톨허스트 완벽투 LG, KT 연승 성공",
-      "state": "+",
-      "change": "10"
-    },
-    {
-      "rank": 8,
-      "keyword": "서면 제청 논란 확산",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "김민석 정청래 사과 동지",
+      "rank": 5,
+      "keyword": "홍민기 데이트 폭력 의혹",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "이강인, 데뷔전 데뷔골!",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "김도영 솔로포 또 터졌다!",
       "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "2026년 8월 20일 운세",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "김민석, 정청래 동지 사과",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "기욤 패트리 딸 언어천재 요정",
+      "keyword": "태풍 사우델 한반도 영향 가능성",
       "state": "-",
-      "change": "7"
+      "change": "1"
     }
   ]
 }
