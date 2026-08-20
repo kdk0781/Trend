@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-20T13:06:05.485Z",
+  "updatedAt": "2026-08-20T13:54:47.325Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "기아타이거즈",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
+      "keyword": "케네디",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
       "keyword": "순대외금융자산",
       "traffic": "100+"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "keyword": "weather tomorrow",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "thời tiết ngày mai",
       "traffic": "2000+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "cuaca besok",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "박은빈",
       "traffic": "2000+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "조경태",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "이정범",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "류현진",
-      "traffic": "500+"
-    },
-    {
       "rank": 9,
-      "keyword": "레버리지",
-      "traffic": "10000+"
+      "keyword": "이정범",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "밥값",
-      "traffic": "2000+"
+      "keyword": "류현진",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "국힘 윤리위 당원권 정지",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "부총재에 권민수 부총재보",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "문보경 역전 투런포",
-      "state": "+",
-      "change": "13"
-    },
-    {
-      "rank": 4,
-      "keyword": "양정원 사건 무마 경찰",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "송민호 관리자는 징역 1년 구형받음.",
+      "keyword": "조경태 당원권 정지",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "송민호 징역 1년 구형",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "경찰, MC몽 불송치 결정",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "이규형 위고비 마운자로 아팠던 이유",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "부총재에 권민수 부총재보",
+      "state": "+",
+      "change": "6"
+    },
+    {
       "rank": 6,
-      "keyword": "하이닉스 성과급 주식 지급",
-      "state": "-",
-      "change": "1"
+      "keyword": "최민희 김민석에 최고위원",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "황영묵 2점 홈런",
+      "keyword": "알프스 빙하 34년 발견",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "한반도 태풍 상륙 예상",
-      "state": "s",
+      "keyword": "기안84 AI 연애래요",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "엄마가 첩이라는 소문까지",
+      "keyword": "홍민기 전 여친 법정 등장",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "기쁜 우리 좋은 날",
-      "state": "n",
-      "change": "0"
+      "keyword": "황영묵 선취 홈런",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
