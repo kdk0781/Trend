@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-08-20T11:44:19.870Z",
+  "updatedAt": "2026-08-20T12:03:05.268Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "청주 kb 스타즈",
-      "traffic": "100+"
+      "keyword": "류현진",
+      "traffic": "200+"
     },
     {
       "rank": 2,
+      "keyword": "이정범",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "레버리지",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "청주 kb 스타즈",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
       "keyword": "휴대 전화",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "keyword": "lg에너지솔루션",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "keyword": "주차",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "중앙일보",
       "traffic": "5000+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "경마",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "이민정",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "박소윤",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "양정원",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "서울교통공사",
+      "keyword": "이민정",
       "traffic": "200+"
     }
   ],
@@ -56,60 +56,60 @@
     {
       "rank": 1,
       "keyword": "윤리위 당원권 정지",
-      "state": "+",
-      "change": "8"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "홍민기와 A씨 진실 공방",
+      "keyword": "역전 투런포 문보경",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "북, 미사일 10발 발사",
-      "state": "n",
-      "change": "0"
+      "keyword": "홍민기와 A씨 진실공방",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "고 어우홍 감독 묵념",
-      "state": "n",
-      "change": "0"
+      "keyword": "감동적 접대 후 양정원 참고인",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 5,
-      "keyword": "오정연 드라마 복귀",
+      "keyword": "권민수 신임 부총재 임명",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "국회 본회의 통과",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "SK하이닉스 성과급 자사주 지급",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "수원 마약 30대 소환 조사",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "경산 아파트 사망자 5명",
+      "keyword": "경산 방화 피의자도 숨져",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "하이닉스 성과급 주식 지급",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "수원 30대 4시간 조사",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "북한, 탄도미사일 10발 발사",
+      "state": "-",
+      "change": "6"
+    },
+    {
       "rank": 10,
-      "keyword": "송민호 관리 책임자 징역 1년",
+      "keyword": "국회 통과 법안들",
       "state": "n",
       "change": "0"
     }
