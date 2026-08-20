@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-20T14:27:03.016Z",
+  "updatedAt": "2026-08-20T15:03:58.912Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "한지윤",
+      "keyword": "야구 순위",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "사비뉴",
-      "traffic": "100+"
+      "keyword": "이륙",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "두산",
+      "keyword": "강남구",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "강원일보",
-      "traffic": "200+"
+      "keyword": "한화",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "기아타이거즈",
-      "traffic": "500+"
+      "keyword": "코오롱티슈진",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "케네디",
-      "traffic": "100+"
+      "keyword": "배우",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "순대외금융자산",
-      "traffic": "100+"
+      "keyword": "김서현",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "weather tomorrow",
-      "traffic": "2000+"
+      "keyword": "엘지트윈스",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "thời tiết ngày mai",
-      "traffic": "2000+"
+      "keyword": "크보",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "cuaca besok",
-      "traffic": "200+"
+      "keyword": "사비뉴",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "조경태 진종오 당원권 정지",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "송민호 징역 1년 구형",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "김여정 이중적 언행 비난",
+      "rank": 2,
+      "keyword": "송민호 징역 1년 선고",
       "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "부총재에 권민수 부총재보",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "정국, 군 복무 중 20년 징역",
-      "state": "+",
-      "change": "2"
+      "keyword": "트럼프의 북미 대화 이유",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "MC몽 불송치 결정",
-      "state": "-",
-      "change": "2"
+      "keyword": "기안84 AI 여친 등장",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "이규형 위고비 마운자 급감 이유",
-      "state": "-",
-      "change": "2"
+      "keyword": "김태군 역전포 KIA 3위 도약",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "부총재에 권민수 부총재보",
-      "state": "-",
-      "change": "2"
+      "keyword": "김정관 상당한 진전",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "기안84 AI 연애 시작",
-      "state": "n",
-      "change": "0"
+      "keyword": "중수청 검사 지원",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "역전 투런포炸 유망주 문보경",
-      "state": "n",
-      "change": "0"
+      "keyword": "가수 나상도 팬클럽 기부금 기탁",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "대미투자 협상 진전",
-      "state": "n",
-      "change": "0"
+      "keyword": "알프스서 남성 빙하 발견",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
