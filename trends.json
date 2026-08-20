@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-20T03:10:49.075Z",
+  "updatedAt": "2026-08-20T03:59:44.670Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "황보라",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
+      "keyword": "배런 트럼프",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "라면",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "한푸",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "영화",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
       "keyword": "개",
       "traffic": "2000+"
     },
     {
-      "rank": 2,
-      "keyword": "원 이",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "기욤 패트리",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "장동혁",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "이정후",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "에버랜드",
-      "traffic": "500+"
-    },
-    {
       "rank": 7,
-      "keyword": "이더 리움",
-      "traffic": "2000+"
+      "keyword": "원 이",
+      "traffic": "10000+"
     },
     {
       "rank": 8,
-      "keyword": "한미연합훈련",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "메이플스토리",
+      "keyword": "기욤 패트리",
       "traffic": "500+"
     },
     {
+      "rank": 9,
+      "keyword": "장동혁",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "병무청",
-      "traffic": "200+"
+      "keyword": "이정후",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "코스피 매수 사이드카 발동",
-      "state": "s",
+      "keyword": "제네시스 GV90 공개",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "NCT 드림 전원 재계약 완료",
+      "keyword": "류준열 1인 2역 도전",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 3,
-      "keyword": "불법사이트 대응 브리핑",
+      "keyword": "최인호 HUG 사장 전월세 간담회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "배경훈 부총리 AI 간담회",
-      "state": "+",
-      "change": "5"
+      "keyword": "안규백 국방부 장관",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이정후 2루타 멀티히트",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "주차로봇 시장 공략",
+      "keyword": "불법사이트 대응방안 발표",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "김윤덕·오세훈 회동",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "진종오 의원 윤리위 출석",
-      "state": "+",
-      "change": "3"
+      "keyword": "정점식 원내대표 발언",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "연세대 성추행 용의자 추적 중",
+      "keyword": "연세대 성추행 나체男 추적",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "부부관계 6년 무, 둘째 16개월",
+      "keyword": "이정후 멀티히트 3할 복귀",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "장동혁 발언",
+      "keyword": "대산 1호 기업결합 심사 결과",
       "state": "n",
       "change": "0"
     }
