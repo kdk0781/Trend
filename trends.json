@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-19T23:56:08.559Z",
+  "updatedAt": "2026-08-20T00:53:26.968Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이완섭",
-      "traffic": "200+"
+      "keyword": "의사",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "손태영",
-      "traffic": "500+"
+      "keyword": "philadelphia vs inter miami",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "수능 원서 접수",
-      "traffic": "100+"
+      "keyword": "도경완",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "로켓",
-      "traffic": "500+"
+      "keyword": "민방위 대피소",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "오늘날씨",
-      "traffic": "500+"
+      "keyword": "전라남도",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "이연",
-      "traffic": "2000+"
+      "keyword": "하이닉스 채용",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "최준희",
+      "keyword": "황정음",
       "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "임금",
+      "keyword": "암호화폐",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "응급",
+      "keyword": "장기하",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "스콧 베선트",
-      "traffic": "1000+"
+      "keyword": "이완섭",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "비상경제본부회의 구윤철 부총리",
-      "state": "n",
+      "keyword": "구윤철 부총리 비상경제본부회의 참석",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이강인 데뷔골 폭발!",
-      "state": "-",
-      "change": "1"
+      "keyword": "이강인, 데뷔전 골 폭발",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "홍민기 배우",
+      "keyword": "정혜성, 젤리피쉬 전속계약",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "청년 주거 대책 간담회",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "태풍 사우델 한반도 영향 가능성",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 5,
-      "keyword": "미미, 11년 만에 솔로 데뷔",
-      "state": "s",
-      "change": "0"
+      "keyword": "홍민기 배우",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "트럼프 한미훈련 축소 경의",
+      "keyword": "하이닉스 주가 상승 기대",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "하영, 심신 불안으로 촬영 중단 후 복귀",
+      "keyword": "하정우·박해준·정성일 출연 확정",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "요소수 매점매석 금지 연장",
+      "keyword": "김상식호 베트남 말레이시아 완파",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "레아, 36개월 미소와 먹방 요정",
-      "state": "-",
-      "change": "1"
+      "keyword": "트럼프 결단에 경의 표한다",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "모더나 177% 폭등",
+      "keyword": "박홍근 장관, 미래대응기금 회의 참석",
       "state": "n",
       "change": "0"
     }
