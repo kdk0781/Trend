@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-20T21:01:22.006Z",
+  "updatedAt": "2026-08-20T21:37:33.320Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "무등일보",
-      "traffic": "200+"
+      "keyword": "일리아 토푸리아",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "삼성역",
+      "keyword": "살인",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "카카오",
-      "traffic": "100+"
+      "keyword": "이의리",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "브라질",
-      "traffic": "500+"
+      "keyword": "농협은행",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
+      "keyword": "무등일보",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "삼성역",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "브라질",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
       "keyword": "홍인규",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "트롬쇠 대 브라이턴",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "keyword": "크랙",
       "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "삼성 전자 주주 환원",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "이재용",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "이예빈",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "중수청 특례임용 검사 2375명 지원",
+      "keyword": "중수청 특례임용 지원 2375명",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "승리 기쁨 나누는 선수들",
-      "state": "+",
-      "change": "3"
+      "keyword": "승리 기쁨 나누는 롯데 선수들",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "기안84 AI 소개팅",
+      "keyword": "심철종, 이혼 고백",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "한국시니어아마추어선수권 공동 마감",
+      "keyword": "한국시니어아마추어선수권 그랜드시니어부 공동",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "전쟁놀이 못한 서울의 처지",
+      "keyword": "페루 6.7 강진 발생",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "태풍 사우델 북상 중부 비 남부 소나기",
-      "state": "+",
-      "change": "5"
+      "keyword": "18호 태풍 사우델 경로와 강도",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "사과 거부 쪼잔 남편",
+      "keyword": "홍진경 딸 라엘, 스키장 도전기",
       "state": "+",
-      "change": "5"
+      "change": "11"
     },
     {
       "rank": 8,
-      "keyword": "김태군 투런포로 한화의 희망 꺾다",
-      "state": "+",
-      "change": "1"
+      "keyword": "최태원과 비공개 만찬",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "페루 6.7 강진",
+      "keyword": "KIA 5연승, 한화 6연패 추락",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
       "keyword": "2026년 8월 21일 운세",
-      "state": "-",
-      "change": "2"
+      "state": "s",
+      "change": "0"
     }
   ]
 }
