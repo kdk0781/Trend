@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-20T16:52:08.318Z",
+  "updatedAt": "2026-08-20T17:20:42.655Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "이재용",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
       "keyword": "이예빈",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "일베",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "오디세이",
-      "traffic": "2000+"
+      "traffic": "5000+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "리플",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "이륙",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "욕조",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "강남구",
       "traffic": "100+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "한화",
       "traffic": "1000+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "코오롱티슈진",
       "traffic": "1000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "해리 왕자",
-      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "국힘 윤리위 4인 당원권 정지",
+      "keyword": "국힘 4인 당원권 정지",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "북, 탄도미사일 발사",
-      "state": "s",
-      "change": "0"
+      "keyword": "종합특검 심우정 기소",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "김정관 장관 귀국",
+      "keyword": "북한, 미사일 발사",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "종합특검 심우정 기소",
-      "state": "-",
+      "keyword": "김태군 투런포로 한화 6연패.",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "국회 본회의 통과",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "역전 투런포가 빛난다",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 7,
-      "keyword": "기안84 AI 연애 경험",
+      "keyword": "기이안 기안84 AI",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "keyword": "부총재에 권민수 부총재보",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "김정관 장관 귀국",
+      "state": "-",
+      "change": "5"
+    },
+    {
+      "rank": 8,
+      "keyword": "중수청 임용 지원 2375명",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "중수청 검사 지원 2375명",
-      "state": "-",
+      "keyword": "황영묵 선취 홈런",
+      "state": "+",
       "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "한반도 문제 소통 당부",
-      "state": "s",
-      "change": "0"
+      "keyword": "국회 본회의 통과",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
