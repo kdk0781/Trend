@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-20T22:54:32.800Z",
+  "updatedAt": "2026-08-20T23:17:55.578Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "weather",
-      "traffic": "2000+"
+      "keyword": "주성엔지니어링",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "김민재",
-      "traffic": "2000+"
+      "keyword": "유시민",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "สภาพอากาศ",
+      "keyword": "погода",
       "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "로스앤젤레스 다저스",
+      "keyword": "skhy",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "노동조합",
-      "traffic": "5000+"
+      "keyword": "weather",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "쓰레기봉투",
+      "keyword": "김민재",
       "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "lg 트윈스",
+      "keyword": "สภาพอากาศ",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "심우정",
-      "traffic": "100+"
+      "keyword": "로스앤젤레스 다저스",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "스페이스x",
-      "traffic": "100+"
+      "keyword": "노동조합",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "thời tiết",
-      "traffic": "2000+"
+      "keyword": "쓰레기봉투",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "페루 남부 6.7 강진",
-      "state": "s",
-      "change": "0"
+      "keyword": "18호 태풍 사우델 한반도 영향",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 2,
-      "keyword": "이정후 4경기 연속 안타",
-      "state": "+",
-      "change": "1"
+      "keyword": "이정후 3G 안타",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이혼 언급 남편 경악",
+      "keyword": "심철종, 아들에게 간이식받다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "태풍 대비 수목 정비",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
       "keyword": "이란 경제 압박 강화",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "keyword": "2026년 8월 21일 운세",
-      "state": "-",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "박혜진 국립오페라단장 465억",
+      "state": "+",
       "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "생산자물가 11개월 하락",
-      "state": "+",
-      "change": "1"
+      "keyword": "아들 사과 거부한 남편 경악",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "박혜진 국립오페라단장 465억",
-      "state": "+",
-      "change": "1"
+      "keyword": "안전 문제없다고 결론",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "헛구역질 경찰관 수사",
+      "keyword": "부동산 세제개편안에 서초구민",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김여정, 한미 연습 축소 조롱",
+      "keyword": "선우용여 시댁 재력 많아",
       "state": "n",
       "change": "0"
     }
