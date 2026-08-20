@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T15:44:03.996Z",
+  "updatedAt": "2026-08-20T16:13:00.855Z",
   "google": [
     {
       "rank": 1,
@@ -13,13 +13,13 @@
     },
     {
       "rank": 3,
-      "keyword": "야구 순위",
-      "traffic": "500+"
+      "keyword": "이륙",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "이륙",
-      "traffic": "200+"
+      "keyword": "야구 순위",
+      "traffic": "500+"
     },
     {
       "rank": 5,
@@ -55,19 +55,19 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "다수 개정안 국회 통과",
+      "keyword": "국회 본회의 통과",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "북 탄도미사일 10여 발사",
+      "keyword": "북 탄도미사일 발사",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "국힘 윤리위 당원권 정지",
+      "keyword": "국힘 윤리위 4인 당원권 정지",
       "state": "s",
       "change": "0"
     },
@@ -79,38 +79,38 @@
     },
     {
       "rank": 5,
-      "keyword": "김정관 장관 귀국중",
+      "keyword": "김정관 장관 귀국 중",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "중수청 수사관 2375명 지원",
+      "keyword": "중수청 특례임용에 검사 2375명 지원",
+      "state": "+",
+      "change": "5"
+    },
+    {
+      "rank": 7,
+      "keyword": "역전 투런포 연발",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "역전 투런포 시리즈",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 8,
-      "keyword": "기안84 AI 여친 등장",
-      "state": "-",
-      "change": "1"
+      "keyword": "기이안 기안84 AI",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
       "keyword": "부총재에 권민수 부총재보",
-      "state": "-",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "한반도 문제 소통",
-      "state": "n",
+      "keyword": "한반도 문제 소통 강조",
+      "state": "s",
       "change": "0"
     }
   ]
