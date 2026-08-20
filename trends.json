@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-20T07:09:23.504Z",
+  "updatedAt": "2026-08-20T07:54:08.037Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "기이안 연애",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "정청래",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "단발",
+      "keyword": "자주포",
       "traffic": "500+"
     },
     {
+      "rank": 2,
+      "keyword": "핵무기",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "신상진",
+      "traffic": "100+"
+    },
+    {
       "rank": 4,
-      "keyword": "16기 옥순",
+      "keyword": "국민성장펀드",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "고양이",
+      "keyword": "bigbang biiig",
       "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "유적",
+      "keyword": "부채",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "중소기업신문",
-      "traffic": "100+"
+      "keyword": "mlb",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "김성수",
-      "traffic": "2000+"
+      "keyword": "엘니뇨",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "civil defense drill",
-      "traffic": "200+"
+      "keyword": "김영옥",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "전쟁",
-      "traffic": "200+"
+      "keyword": "독촉",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "공습대비 민방위 훈련",
-      "state": "s",
-      "change": "0"
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "조정식 의장 김민석 대표 예방",
+      "keyword": "이재명 대통령 수석보좌관회의",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "이재명 대통령 수석보좌관회의",
-      "state": "+",
-      "change": "4"
+      "keyword": "김민석 대표 의총 참석",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "아이치 나고야 아시안게임 파이팅!",
-      "state": "-",
+      "keyword": "한성숙 총리 발언",
+      "state": "+",
       "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "홍민기 전여친, 법정 처벌 예고",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "SK하이닉스 주식 지급 60%",
+      "keyword": "홍민기 전여친 폭로 중단",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "SK하이닉스 성과급 60% 주식 지급",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "엔하이픈 커리어 최상 앨범",
-      "state": "-",
-      "change": "4"
+      "keyword": "2026 아이치·나고야 게임 준비 완료!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "16기 나는 솔로 옥순",
-      "state": "-",
-      "change": "3"
+      "keyword": "엔하이픈 커리어 최고 앨범",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "안규백 탈영 의혹 부인",
+      "keyword": "패스트트랙 본회의 통과",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "제네시스 GV90 공개",
-      "state": "n",
-      "change": "0"
+      "keyword": "조수미 데뷔 40주년 메달",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
