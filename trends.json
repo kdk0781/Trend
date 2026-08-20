@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-20T10:48:57.559Z",
+  "updatedAt": "2026-08-20T11:11:25.631Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이랜드그룹",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "박성광",
+      "keyword": "박소윤",
       "traffic": "2000+"
     },
     {
+      "rank": 2,
+      "keyword": "양정원",
+      "traffic": "500+"
+    },
+    {
       "rank": 3,
-      "keyword": "노벨상",
-      "traffic": "200+"
+      "keyword": "서울교통공사",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "배지환",
+      "keyword": "문보경",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "기아 pv5",
-      "traffic": "2000+"
+      "keyword": "피온",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "강원특별자치도",
+      "keyword": "이랜드그룹",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "김준호",
-      "traffic": "5000+"
+      "keyword": "박성광",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "김포시",
+      "keyword": "노벨상",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "배달의민족",
-      "traffic": "1000+"
+      "keyword": "배지환",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "앞머리",
-      "traffic": "200+"
+      "keyword": "기아 pv5",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "김정관 장관 방미 후 귀국",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "북, 단거리 미사일 무더기 발사",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "국회 본회의 통과",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
-      "rank": 4,
+      "rank": 2,
       "keyword": "종합특검 심우정 기소",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 3,
+      "keyword": "북, 탄도미사일 10여 발사",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "국회 본회의 통과한 법안들",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
       "keyword": "홍민기 배우",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "송민호 관리자 징역 1년 구형",
-      "state": "+",
-      "change": "1"
+      "keyword": "송민호 관리책임자 징역 1년 구형",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "영광의 시대로 돌아가자!",
+      "keyword": "어우홍 감독 추모 묵념",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
       "keyword": "하이닉스 성과급 주식 지급",
-      "state": "-",
-      "change": "3"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
       "keyword": "왕이 외교부장 접견",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "외국인 토지거래허가구역 1년",
-      "state": "-",
-      "change": "1"
+      "keyword": "무당 노슬비 제니 몸 원해",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
