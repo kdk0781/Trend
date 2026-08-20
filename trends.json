@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-20T03:59:44.670Z",
+  "updatedAt": "2026-08-20T04:41:03.332Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "황보라",
-      "traffic": "500+"
+      "keyword": "이휘향",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "배런 트럼프",
-      "traffic": "100+"
+      "keyword": "레이나",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "라면",
-      "traffic": "5000+"
+      "keyword": "빅터 레이예스",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "한푸",
-      "traffic": "2000+"
+      "keyword": "인시디어스",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "영화",
-      "traffic": "1000+"
+      "keyword": "지방정부",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "개",
-      "traffic": "2000+"
+      "keyword": "서울지하철",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "원 이",
-      "traffic": "10000+"
+      "keyword": "모두의 창업",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "기욤 패트리",
-      "traffic": "500+"
+      "keyword": "김새롬",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "장동혁",
-      "traffic": "2000+"
+      "keyword": "인천 ssg 랜더스필드",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "이정후",
-      "traffic": "5000+"
+      "keyword": "황신혜의 같이 삽시다",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "제네시스 GV90 공개",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "류준열 1인 2역 도전",
+      "keyword": "오세훈 용산공원 평행선",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "최인호 HUG 사장 전월세 간담회",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "안규백 국방부 장관",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "불법사이트 대응방안 발표",
+      "keyword": "들쥐 류준열 1인 2역 도전",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "김윤덕·오세훈 회동",
+      "rank": 4,
+      "keyword": "발언하는 정점식 원내대표",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "불법사이트 통합 방안 브리핑",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "안규백 국방부 장관 업무보고",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "정점식 원내대표 발언",
+      "keyword": "손흥민 27분 무득점 LAFC 0-1 패배",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "연세대 성추행 나체男 추적",
-      "state": "n",
+      "keyword": "대산 1호 기업결합 심사 결과",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이정후 멀티히트 3할 복귀",
-      "state": "n",
+      "keyword": "홍민기 사건 조사 중",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "대산 1호 기업결합 심사 결과",
-      "state": "n",
+      "keyword": "쪼잔부부",
+      "state": "s",
       "change": "0"
     }
   ]
