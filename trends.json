@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-20T20:39:13.373Z",
+  "updatedAt": "2026-08-20T21:01:22.006Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "브라질",
-      "traffic": "500+"
+      "keyword": "무등일보",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "트롬쇠 대 브라이턴",
+      "keyword": "삼성역",
       "traffic": "200+"
     },
     {
       "rank": 3,
+      "keyword": "카카오",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "브라질",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "홍인규",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "트롬쇠 대 브라이턴",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "크랙",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
       "keyword": "삼성 전자 주주 환원",
       "traffic": "1000+"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "keyword": "이재용",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 10,
       "keyword": "이예빈",
       "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "일베",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "오디세이",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "리플",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "강남구",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "욕조",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김여정의 가긍한 처지",
+      "keyword": "중수청 특례임용 검사 2375명 지원",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "기안84 AI 연애",
-      "state": "s",
-      "change": "0"
+      "keyword": "승리 기쁨 나누는 선수들",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 3,
-      "keyword": "중수청 특례임용 지원 2375명",
-      "state": "s",
+      "keyword": "기안84 AI 소개팅",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "승리 기쁨 나누는 롯데 선수들",
-      "state": "+",
-      "change": "1"
+      "keyword": "한국시니어아마추어선수권 공동 마감",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "한국시니어아마추어선수권 그랜드시니어부 공동",
+      "keyword": "전쟁놀이 못한 서울의 처지",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "사과 거부한 쪼잔 남편",
+      "keyword": "태풍 사우델 북상 중부 비 남부 소나기",
       "state": "+",
-      "change": "4"
+      "change": "5"
     },
     {
       "rank": 7,
-      "keyword": "비당권파 4인 당원권 정지",
-      "state": "n",
-      "change": "0"
+      "keyword": "사과 거부 쪼잔 남편",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 8,
-      "keyword": "김태군 투런포 한화 6연패",
-      "state": "-",
+      "keyword": "김태군 투런포로 한화의 희망 꺾다",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "홍진경 딸 라엘, 스키360도 도전",
-      "state": "-",
-      "change": "3"
+      "keyword": "페루 6.7 강진",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "최태원과 비공식 회동",
+      "keyword": "2026년 8월 21일 운세",
       "state": "-",
-      "change": "1"
+      "change": "2"
     }
   ]
 }
