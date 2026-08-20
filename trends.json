@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-20T21:37:33.320Z",
+  "updatedAt": "2026-08-20T21:58:10.946Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "장윤정",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "폐기물",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "중대범죄수사청",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
       "keyword": "일리아 토푸리아",
       "traffic": "100+"
     },
     {
-      "rank": 2,
+      "rank": 5,
       "keyword": "살인",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "keyword": "이의리",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "keyword": "농협은행",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "무등일보",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "삼성역",
       "traffic": "500+"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "keyword": "브라질",
       "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "홍인규",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "트롬쇠 대 브라이턴",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "크랙",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "중수청 특례임용 지원 2375명",
-      "state": "s",
+      "keyword": "2026년 8월 21일 운세",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "승리 기쁨 나누는 롯데 선수들",
+      "keyword": "KIA 3위, 한화 6연패!",
+      "state": "+",
+      "change": "7"
+    },
+    {
+      "rank": 3,
+      "keyword": "심철종 이혼 고백",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "심철종, 이혼 고백",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 4,
-      "keyword": "한국시니어아마추어선수권 그랜드시니어부 공동",
-      "state": "n",
-      "change": "0"
+      "keyword": "페루 6.7 강진 발생",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "페루 6.7 강진 발생",
-      "state": "n",
-      "change": "0"
+      "keyword": "사우델 태풍 경로 예상",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "18호 태풍 사우델 경로와 강도",
-      "state": "-",
-      "change": "2"
+      "keyword": "쪼잔 남편의 사과 거부",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 7,
-      "keyword": "홍진경 딸 라엘, 스키장 도전기",
-      "state": "+",
-      "change": "11"
+      "keyword": "중수청 특례임용 지원 2375명",
+      "state": "-",
+      "change": "6"
     },
     {
       "rank": 8,
-      "keyword": "최태원과 비공개 만찬",
+      "keyword": "이란 경제 압박 강화",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "KIA 5연승, 한화 6연패 추락",
+      "keyword": "모친 구속 장윤정 신곡에 마음 담아",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "2026년 8월 21일 운세",
-      "state": "s",
+      "keyword": "박혜진 국립오페라단장 465억",
+      "state": "n",
       "change": "0"
     }
   ]
