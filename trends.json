@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T18:25:53.660Z",
+  "updatedAt": "2026-08-20T19:09:14.658Z",
   "google": [
     {
       "rank": 1,
@@ -55,7 +55,7 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "국힘 윤리위, 4인 권 정지",
+      "keyword": "국힘 윤리위, 4인 당원권 정지",
       "state": "s",
       "change": "0"
     },
@@ -67,25 +67,25 @@
     },
     {
       "rank": 3,
-      "keyword": "김태군 투런포 한화 6연패",
+      "keyword": "김태군 투런포로 한화 6연패",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "기안84 AI 여친 등장",
+      "keyword": "AI 여친 등장에 기안84 미소",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김여정의 가긍한 처지",
+      "keyword": "김여정 전쟁놀이 못한 가긍한 처지",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "중수청 특례임용 지원자 2375명",
+      "keyword": "중수청 임용 지원 2375명",
       "state": "s",
       "change": "0"
     },
@@ -97,20 +97,20 @@
     },
     {
       "rank": 8,
-      "keyword": "국회 법안 통과",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "임요환 김가연 600억 재력",
+      "keyword": "임요환 김가연 600억 재력 사실",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "롯데 선수 기쁨 나눔",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "경산 아파트 방화 피의자 사망",
-      "state": "s",
+      "keyword": "한국시니어아마추어선수권 그랜드시니어부 공동",
+      "state": "n",
       "change": "0"
     }
   ]
