@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-20T04:41:03.332Z",
+  "updatedAt": "2026-08-20T05:15:57.898Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이휘향",
+      "keyword": "18 호 태풍",
       "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "레이나",
-      "traffic": "200+"
+      "keyword": "갑질",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "빅터 레이예스",
-      "traffic": "200+"
+      "keyword": "교장",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "인시디어스",
-      "traffic": "200+"
+      "keyword": "폴리마켓",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "지방정부",
-      "traffic": "5000+"
+      "keyword": "부천시",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "서울지하철",
-      "traffic": "200+"
+      "keyword": "박하선",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "모두의 창업",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "김새롬",
+      "keyword": "일기예보",
       "traffic": "100+"
     },
     {
+      "rank": 8,
+      "keyword": "서울날씨",
+      "traffic": "500+"
+    },
+    {
       "rank": 9,
-      "keyword": "인천 ssg 랜더스필드",
-      "traffic": "200+"
+      "keyword": "김종인",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "황신혜의 같이 삽시다",
-      "traffic": "500+"
+      "keyword": "이휘향",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "오세훈 용산공원 평행선",
-      "state": "+",
-      "change": "1"
+      "keyword": "오세훈 용산공원 논의 평행선",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "들쥐 류준열 1인 2역 도전",
-      "state": "-",
+      "keyword": "발언하는 정점식 원내대표",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "발언하는 정점식 원내대표",
-      "state": "s",
-      "change": "0"
+      "keyword": "류준열 설경구 이규형 스릴러",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "불법사이트 통합 방안 브리핑",
-      "state": "n",
-      "change": "0"
+      "keyword": "손흥민 27분 LAFC 0-1 패배",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "안규백 국방부 장관 업무보고",
+      "keyword": "대산 1호 기업결합 승인",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "안규백 장관의 업무 보고",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "홍민기 스토킹과 폭력 피해?",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "손흥민 27분 무득점 LAFC 0-1 패배",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "대산 1호 기업결합 심사 결과",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 9,
-      "keyword": "홍민기 사건 조사 중",
-      "state": "s",
-      "change": "0"
+      "keyword": "쪼잔부부",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "쪼잔부부",
-      "state": "s",
-      "change": "0"
+      "keyword": "SK하이닉스 주가 상승 기대",
+      "state": "-",
+      "change": "9"
     }
   ]
 }
