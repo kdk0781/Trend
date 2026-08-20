@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-20T15:03:58.912Z",
+  "updatedAt": "2026-08-20T15:44:03.996Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "오디세이",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "리플",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
       "keyword": "야구 순위",
       "traffic": "500+"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "keyword": "이륙",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 5,
+      "keyword": "욕조",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
       "keyword": "강남구",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "keyword": "한화",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "코오롱티슈진",
       "traffic": "1000+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "배우",
       "traffic": "500+"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "keyword": "김서현",
       "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "엘지트윈스",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "크보",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "사비뉴",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "조경태 진종오 당원권 정지",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "송민호 징역 1년 선고",
+      "keyword": "다수 개정안 국회 통과",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "북 탄도미사일 10여 발사",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 3,
-      "keyword": "부총재에 권민수 부총재보",
+      "keyword": "국힘 윤리위 당원권 정지",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "트럼프의 북미 대화 이유",
+      "keyword": "종합특검 심우정 기소",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "기안84 AI 여친 등장",
+      "keyword": "김정관 장관 귀국중",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김태군 역전포 KIA 3위 도약",
-      "state": "n",
+      "keyword": "중수청 수사관 2375명 지원",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김정관 상당한 진전",
-      "state": "+",
-      "change": "3"
+      "keyword": "역전 투런포 시리즈",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "중수청 검사 지원",
+      "keyword": "기안84 AI 여친 등장",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "가수 나상도 팬클럽 기부금 기탁",
+      "keyword": "부총재에 권민수 부총재보",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "알프스서 남성 빙하 발견",
-      "state": "-",
-      "change": "1"
+      "keyword": "한반도 문제 소통",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
