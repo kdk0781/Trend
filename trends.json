@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-20T20:03:13.668Z",
+  "updatedAt": "2026-08-20T20:39:13.373Z",
   "google": [
     {
       "rank": 1,
       "keyword": "브라질",
-      "traffic": "100+"
+      "traffic": "500+"
     },
     {
       "rank": 2,
@@ -13,105 +13,105 @@
     },
     {
       "rank": 3,
-      "keyword": "크랙",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
       "keyword": "삼성 전자 주주 환원",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "keyword": "이재용",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "keyword": "이예빈",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "keyword": "일베",
       "traffic": "100+"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "keyword": "오디세이",
       "traffic": "5000+"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "keyword": "리플",
       "traffic": "100+"
     },
     {
+      "rank": 9,
+      "keyword": "강남구",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "이륙",
-      "traffic": "200+"
+      "keyword": "욕조",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김여정 서울의 가긍한 처지",
+      "keyword": "김여정의 가긍한 처지",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "기안84, AI로 연애 두근두근",
-      "state": "n",
+      "keyword": "기안84 AI 연애",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "중수청 특례임용 검사 지원 2375명",
+      "keyword": "중수청 특례임용 지원 2375명",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "한국시니어아마추어선수권 그랜드시니어부 마감",
+      "keyword": "승리 기쁨 나누는 롯데 선수들",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "한국시니어아마추어선수권 그랜드시니어부 공동",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "롯데 승리 기쁨 나눔",
+      "rank": 6,
+      "keyword": "사과 거부한 쪼잔 남편",
       "state": "+",
       "change": "4"
     },
     {
-      "rank": 6,
-      "keyword": "라엘 스키장 360도 도전!",
+      "rank": 7,
+      "keyword": "비당권파 4인 당원권 정지",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "김태군 투런포로 한화 6연패",
+      "rank": 8,
+      "keyword": "김태군 투런포 한화 6연패",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "홍진경 딸 라엘, 스키360도 도전",
       "state": "-",
       "change": "3"
     },
     {
-      "rank": 8,
-      "keyword": "국힘 윤리위 중징계 4인 정지",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "최태원과 비공개 회동",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 10,
-      "keyword": "사과 거부한 쪼잔 남편",
+      "keyword": "최태원과 비공식 회동",
       "state": "-",
-      "change": "2"
+      "change": "1"
     }
   ]
 }
