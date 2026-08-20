@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-08-20T19:09:14.658Z",
+  "updatedAt": "2026-08-20T19:42:15.885Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "트롬쇠 대 브라이턴",
+      "keyword": "브라질",
       "traffic": "100+"
     },
     {
       "rank": 2,
+      "keyword": "트롬쇠 대 브라이턴",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "크랙",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
       "keyword": "삼성 전자 주주 환원",
       "traffic": "1000+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "이재용",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "이예빈",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "일베",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "오디세이",
       "traffic": "2000+"
     },
     {
-      "rank": 7,
-      "keyword": "리플",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "강남구",
-      "traffic": "100+"
-    },
-    {
       "rank": 9,
-      "keyword": "욕조",
+      "keyword": "리플",
       "traffic": "100+"
     },
     {
@@ -55,63 +55,63 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "국힘 윤리위, 4인 당원권 정지",
+      "keyword": "김여정 가긍한 처지",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "부총재에 권민수 부총재보",
-      "state": "s",
-      "change": "0"
+      "keyword": "기안84 AI 여친 등장",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "김태군 투런포로 한화 6연패",
-      "state": "s",
-      "change": "0"
+      "keyword": "중수청 특례임용 지원 2375명",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 4,
-      "keyword": "AI 여친 등장에 기안84 미소",
-      "state": "s",
-      "change": "0"
+      "keyword": "김태군 투런포 한화 6연패",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "김여정 전쟁놀이 못한 가긍한 처지",
-      "state": "s",
-      "change": "0"
+      "keyword": "한국시니어아마추어선수권 그랜드시니어부 공동",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "중수청 임용 지원 2375명",
-      "state": "s",
-      "change": "0"
+      "keyword": "국힘 윤리위 중징계 4인 당원정지",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "황영묵 2점 홈런",
-      "state": "n",
-      "change": "0"
+      "keyword": "부총재에 권민수 부총재보",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "임요환 김가연 600억 재력 사실",
-      "state": "s",
+      "keyword": "사과 거부한 쪼잔 남편",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "롯데 선수 기쁨 나눔",
-      "state": "n",
+      "keyword": "승리 나누는 롯데 선수들",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "한국시니어아마추어선수권 그랜드시니어부 공동",
-      "state": "n",
-      "change": "0"
+      "keyword": "이민정, 이혼의 감정은?",
+      "state": "+",
+      "change": "24"
     }
   ]
 }
