@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-20T22:27:15.866Z",
+  "updatedAt": "2026-08-20T22:54:32.800Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "s&p 500",
-      "traffic": "1000+"
+      "keyword": "weather",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "오현규",
-      "traffic": "500+"
+      "keyword": "김민재",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "vix",
-      "traffic": "200+"
+      "keyword": "สภาพอากาศ",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "다우 존스 산업평균지수",
-      "traffic": "500+"
+      "keyword": "로스앤젤레스 다저스",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "미사일",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "우크라이나",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "장윤정",
+      "keyword": "노동조합",
       "traffic": "5000+"
     },
     {
+      "rank": 6,
+      "keyword": "쓰레기봉투",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "lg 트윈스",
+      "traffic": "1000+"
+    },
+    {
       "rank": 8,
-      "keyword": "폐기물",
-      "traffic": "500+"
+      "keyword": "심우정",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "중대범죄수사청",
-      "traffic": "500+"
+      "keyword": "스페이스x",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "일리아 토푸리아",
-      "traffic": "200+"
+      "keyword": "thời tiết",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "페루 남부 6.7 강진 발생",
+      "keyword": "페루 남부 6.7 강진",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "심철종 이혼 고백",
-      "state": "s",
-      "change": "0"
+      "keyword": "이정후 4경기 연속 안타",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "이정후 4G 연속 안타 2-5 패배",
+      "keyword": "이혼 언급 남편 경악",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "2026년 8월 21일 운세",
-      "state": "s",
-      "change": "0"
+      "keyword": "태풍 대비 수목 정비",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "사우델 태풍 경로 예상",
-      "state": "s",
-      "change": "0"
+      "keyword": "이란 경제 압박 강화",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "이란 경제 압박 강화",
-      "state": "s",
-      "change": "0"
+      "keyword": "2026년 8월 21일 운세",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "라엘, 스키 도전 후회 없는 인생",
-      "state": "s",
-      "change": "0"
+      "keyword": "생산자물가 11개월 하락",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "생산자물가 11개월 하락",
+      "keyword": "박혜진 국립오페라단장 465억",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "헛구역질 경찰관 수사",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "박혜진 국립오페라단장 465억",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 10,
-      "keyword": "한가인 자녀 얼굴 공개 논란",
+      "keyword": "김여정, 한미 연습 축소 조롱",
       "state": "n",
       "change": "0"
     }
