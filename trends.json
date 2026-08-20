@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-20T08:27:35.478Z",
+  "updatedAt": "2026-08-20T09:04:39.233Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "지휘관",
-      "traffic": "200+"
+      "keyword": "이수만",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "산사태",
+      "keyword": "빙하",
       "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "fc온라인",
+      "keyword": "푸바오",
       "traffic": "500+"
     },
     {
       "rank": 4,
+      "keyword": "금광",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "지휘관",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "아리엘 후라도",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "산사태",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "fc온라인",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
       "keyword": "성과급",
       "traffic": "2000+"
     },
     {
-      "rank": 5,
+      "rank": 10,
       "keyword": "공기업",
       "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "해피투게더",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "자주포",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "핵무기",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "신상진",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "국민성장펀드",
-      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명, 수석보좌관회의 참석",
+      "keyword": "패스트트랙 본회의 통과",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김민석 대표 의총 참석",
-      "state": "+",
-      "change": "1"
+      "keyword": "북 미상 발사체 발사",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "패스트트랙 본회의 통과",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 4,
-      "keyword": "홍민기 폭로와 복귀",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "훈련하는 수영 국가대표",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "민방위 훈련 참여 관광객들",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "한성숙 총리 발언",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "세계무대 데뷔 40주년",
+      "keyword": "수영 국가대표 훈련 중",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 9,
-      "keyword": "16기 옥순, 재혼 5개월 만 각자 길",
+      "rank": 4,
+      "keyword": "홍민기 폭로 삭제",
       "state": "-",
-      "change": "5"
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "조수미 40주년 기념메달",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "16기 옥순, 재혼 5개월 만에 결별",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "한성숙 총리 간담회 참석",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "코스피 5% 상승 마감",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "SK하이닉스 성과급 주식 지급",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "코스피 5% 상승 마감",
+      "keyword": "장동윤, 15년 만에 졸업",
       "state": "n",
       "change": "0"
     }
