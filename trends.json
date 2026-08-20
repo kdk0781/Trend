@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-20T23:17:55.578Z",
+  "updatedAt": "2026-08-20T23:43:11.281Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "주성엔지니어링",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "유시민",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "погода",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "skhy",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "weather",
+      "keyword": "도박",
       "traffic": "2000+"
     },
     {
+      "rank": 2,
+      "keyword": "브래드 갈링하우스",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "손태영",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "노화",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "유현주",
+      "traffic": "500+"
+    },
+    {
       "rank": 6,
-      "keyword": "김민재",
-      "traffic": "5000+"
+      "keyword": "스포츠",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "สภาพอากาศ",
-      "traffic": "1000+"
+      "keyword": "날씨",
+      "traffic": "500000+"
     },
     {
       "rank": 8,
-      "keyword": "로스앤젤레스 다저스",
-      "traffic": "200+"
+      "keyword": "몸매",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "노동조합",
-      "traffic": "5000+"
+      "keyword": "정철원",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "쓰레기봉투",
-      "traffic": "5000+"
+      "keyword": "암모니아 가스",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "18호 태풍 사우델 한반도 영향",
+      "keyword": "18호 태풍 사우델 강도 증가",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "이정후 3G 안타",
-      "state": "n",
-      "change": "0"
+      "keyword": "암모니아 가스 누출",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "심철종, 아들에게 간이식받다",
+      "keyword": "오현규 첫 골 시즌",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "송민호 관리 책임 징역 1년",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "이란 경제 압박 강화",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 5,
-      "keyword": "2026년 8월 21일 운세",
-      "state": "+",
-      "change": "1"
+      "keyword": "현대차 10년 만에 전면파업",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "박혜진 국립오페라단장 465억",
-      "state": "+",
-      "change": "2"
+      "keyword": "BMW 챔피언십 첫날",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "아들 사과 거부한 남편 경악",
+      "keyword": "권은비 9월 컴백 확정",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "안전 문제없다고 결론",
+      "keyword": "美, 이란 동참 압박",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "부동산 세제개편안에 서초구민",
+      "keyword": "선우용여 딸 시댁 재력?",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "선우용여 시댁 재력 많아",
+      "keyword": "이정후 4G 연속 안타, 팀 2-5 패배",
       "state": "n",
       "change": "0"
     }
