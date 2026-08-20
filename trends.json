@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-20T05:47:29.132Z",
+  "updatedAt": "2026-08-20T06:17:18.650Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "홍준표",
-      "traffic": "2000+"
+      "keyword": "김성수",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "서식스 공작 해리",
-      "traffic": "2000+"
+      "keyword": "civil defense drill",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "3g 서비스",
+      "keyword": "전쟁",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "개고기",
+      "keyword": "박수진",
       "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "18 호 태풍",
-      "traffic": "5000+"
+      "keyword": "이영표",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "갑질",
+      "keyword": "을지훈련",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "교장",
+      "keyword": "북한",
       "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "폴리마켓",
-      "traffic": "1000+"
+      "keyword": "홍준표",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "부천시",
-      "traffic": "500+"
+      "keyword": "서식스 공작 해리",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "박하선",
-      "traffic": "500+"
+      "keyword": "3g 서비스",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "오세훈 용산공원 논의 평행선",
+      "keyword": "민방위 훈련 중입니다.",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "민방위 훈련으로 대응력 강화",
+      "keyword": "오세훈 용산공원 논의",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "2026 아시안게임 기대해요",
-      "state": "n",
+      "keyword": "아이치나고야게임 D-30",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "류준열의 들쥐 이야기",
-      "state": "-",
-      "change": "1"
+      "keyword": "김민석 민주당 대표 예방",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "조정식 김민석 접견",
-      "state": "n",
-      "change": "0"
+      "keyword": "홍민기 초음파 공개",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "MC몽 대리처방 무혐의",
-      "state": "n",
-      "change": "0"
+      "keyword": "제네시스 GV90 네오룬 공개",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "제네시스 GV90 네오룬",
+      "keyword": "이재명 정부 평가",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "홍민기 초음파 사진 공개",
-      "state": "-",
-      "change": "1"
+      "keyword": "옥순, 재혼 3개월 이혼",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "쪼잔부부",
-      "state": "-",
-      "change": "3"
+      "keyword": "SK하이닉스 성과급 60% 자사주 지급",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이재명 2년차 평가",
+      "keyword": "엑디즈 탈퇴 건일, JYP 해지 동의 없을 것",
       "state": "n",
       "change": "0"
     }
