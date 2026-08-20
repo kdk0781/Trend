@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-20T00:53:26.968Z",
+  "updatedAt": "2026-08-20T02:12:01.703Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "의사",
+      "keyword": "메이플스토리",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "philadelphia vs inter miami",
+      "keyword": "병무청",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "도경완",
-      "traffic": "500+"
+      "keyword": "메이플",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "민방위 대피소",
-      "traffic": "1000+"
+      "keyword": "콜로라도 대 엘에이 fc",
+      "traffic": "20000+"
     },
     {
       "rank": 5,
-      "keyword": "전라남도",
-      "traffic": "200+"
+      "keyword": "이불",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "하이닉스 채용",
-      "traffic": "500+"
+      "keyword": "양도소득세",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "황정음",
+      "keyword": "농심",
       "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "암호화폐",
-      "traffic": "500+"
+      "keyword": "chatgpt",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "장기하",
-      "traffic": "200+"
+      "keyword": "openai",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "이완섭",
-      "traffic": "200+"
+      "keyword": "항공사",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "구윤철 부총리 비상경제본부회의 참석",
+      "keyword": "발언하는 장동혁 대표",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이강인, 데뷔전 골 폭발",
-      "state": "n",
+      "keyword": "코스피 급등 매수 발동",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "정혜성, 젤리피쉬 전속계약",
+      "keyword": "NCT 드림, 전원 재계약 완료",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "청년 주거 대책 간담회",
+      "keyword": "김민석 대표, 이해찬 묘역 참배",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "홍민기 배우",
-      "state": "-",
-      "change": "2"
+      "keyword": "하이닉스 주가 상승 기대",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 6,
-      "keyword": "하이닉스 주가 상승 기대",
-      "state": "n",
+      "keyword": "시장 공략 확대",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "하정우·박해준·정성일 출연 확정",
+      "keyword": "이정후 2루타 멀티히트",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김상식호 베트남 말레이시아 완파",
-      "state": "n",
-      "change": "0"
+      "keyword": "SKT, 3G 가입 중단",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 9,
-      "keyword": "트럼프 결단에 경의 표한다",
-      "state": "n",
-      "change": "0"
+      "keyword": "하정우 안보현 내부자들 프리퀄",
+      "state": "-",
+      "change": "6"
     },
     {
       "rank": 10,
-      "keyword": "박홍근 장관, 미래대응기금 회의 참석",
-      "state": "n",
-      "change": "0"
+      "keyword": "넷플릭스 하이틴 로맨스 제작",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
