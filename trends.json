@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-21T10:49:04.482Z",
+  "updatedAt": "2026-08-21T11:11:37.835Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "f1",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
+      "keyword": "화재",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 3,
       "keyword": "만평",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "keyword": "kia 타이거즈",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "여성 소방관",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "현대 자동차 그룹 메타 플랜트 아메리카",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "도지코인",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "lg 대 한화",
       "traffic": "10000+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "성주군",
       "traffic": "500+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "경기도교육청",
       "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "삼성 대 nc",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "롯데 대 두산",
-      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "삼성전자 주주환원 110조 예상",
-      "state": "s",
-      "change": "0"
+      "keyword": "거제·통영 재난지역 선포",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "거제 통영 특별재난지역 선포",
-      "state": "s",
+      "keyword": "삼성전자 110조 주주환원",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "규진 첫 시구 성공",
+      "keyword": "서교림 KLPGA 챔피언십 2R 1위 3위",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "통합 진에어 출범",
-      "state": "-",
-      "change": "1"
+      "keyword": "석유 가격 동결 1784원",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "황종우 가두리 점검",
-      "state": "+",
-      "change": "2"
+      "keyword": "황종우 장관, 충남 가두리 점검",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "서교림, 김민솔 2R 1·3위",
+      "keyword": "주택공급 서울 간담회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "석유 가격 동결",
+      "keyword": "안세영, 세계선수권 준결승 진출!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "하영 하차 요구 증가",
-      "state": "n",
+      "keyword": "하이닉스 성과급 주식 지급",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "종합특검, VIP 기소 논란",
-      "state": "+",
-      "change": "1"
+      "keyword": "카카오 노조 공동교섭 요구",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "정청래 아동학대 무혐의",
-      "state": "n",
-      "change": "0"
+      "keyword": "양현종 상대 기아전 하영민 선발",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
