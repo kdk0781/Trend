@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-21T02:55:23.642Z",
+  "updatedAt": "2026-08-21T03:42:58.653Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김지민",
-      "traffic": "10000+"
+      "keyword": "박현호",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "재산",
-      "traffic": "2000+"
+      "keyword": "스타뉴스",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "타자",
+      "keyword": "국민연금",
       "traffic": "100+"
     },
     {
       "rank": 4,
+      "keyword": "지마켓",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "김지민",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "재산",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "타자",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
       "keyword": "금융감독원",
       "traffic": "100+"
     },
     {
-      "rank": 5,
-      "keyword": "한국경제tv",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "양지은",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "두산베어스",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "챗",
-      "traffic": "200+"
-    },
-    {
       "rank": 9,
-      "keyword": "2xko",
-      "traffic": "200+"
+      "keyword": "한국경제tv",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "동맹",
-      "traffic": "1000+"
+      "keyword": "양지은",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "카카오 인적분할 추진",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 2,
-      "keyword": "기장 살해 무기징역",
+      "keyword": "노태우 비자금 압수수색",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "출근하는 조희대 대법원장",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "진종오 의원 기자회견",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "코스닥 매도 사이드카 발동",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "하이닉스 성과급 주식 지급",
-      "state": "-",
+      "rank": 2,
+      "keyword": "이태한 선관위 특검",
+      "state": "+",
       "change": "3"
     },
     {
-      "rank": 7,
-      "keyword": "권민수 한은 부총재 통화정책 신중히 판단",
-      "state": "-",
+      "rank": 3,
+      "keyword": "진종오 의원 입장 발표",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "카카오 인적분할 재편",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "지석진, 지예은♥바타 방해꾼",
+      "state": "+",
       "change": "2"
     },
     {
+      "rank": 6,
+      "keyword": "김효주 CPKC 공동 21위",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "권민수 부총재 금리 신중 결정",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "노태우 비자금 압수수색",
-      "state": "s",
+      "keyword": "지방교육재정교부금 개편반대",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "문근영·고아성·김시아, 연상호 예토 촬영 완료",
+      "keyword": "기장 살해 김동환 무기징역",
       "state": "-",
       "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "CPKC 첫날 공동",
-      "state": "-",
-      "change": "3"
+      "keyword": "국민의힘 의원총회",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
