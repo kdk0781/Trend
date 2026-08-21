@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T16:52:45.980Z",
+  "updatedAt": "2026-08-21T17:20:30.027Z",
   "google": [
     {
       "rank": 1,
@@ -55,8 +55,8 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "삼성전자 110조 환원",
-      "state": "n",
+      "keyword": "거제 통영 재난지역 선포",
+      "state": "s",
       "change": "0"
     },
     {
@@ -67,51 +67,51 @@
     },
     {
       "rank": 3,
-      "keyword": "거제·통영 재난지역 선포",
-      "state": "-",
+      "keyword": "KLPGA 챔피언십 2라운드 종료",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "BC카드 KLPGA 챔피언십 2라운드 완료",
-      "state": "n",
-      "change": "0"
+      "keyword": "대구세계마스터즈육상 선수단 입장",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
       "keyword": "강남 日 배우 논란",
-      "state": "s",
-      "change": "0"
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "대구세계마스터즈육상 선수단 입장",
-      "state": "s",
+      "keyword": "주택공급 서울 간담회",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김태형 감독의 5연승 축하",
+      "keyword": "카카오 노조, 26일 공동행동",
       "state": "+",
-      "change": "3"
+      "change": "4"
     },
     {
       "rank": 8,
-      "keyword": "황종우 장관, 충남 현장점검",
-      "state": "-",
-      "change": "1"
+      "keyword": "석유 최고가격 동결",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "주택공급 서울 간담회",
-      "state": "-",
-      "change": "1"
+      "keyword": "권성동 변호사 통일교 1억원 수수",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "카카오 노조 26일 공동행동",
-      "state": "n",
-      "change": "0"
+      "keyword": "삼성전자 110조 주주환원",
+      "state": "-",
+      "change": "7"
     }
   ]
 }
