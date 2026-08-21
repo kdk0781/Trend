@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T19:32:29.508Z",
+  "updatedAt": "2026-08-21T19:51:51.318Z",
   "google": [
     {
       "rank": 1,
@@ -55,19 +55,19 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "양현종 100이닝 13년",
+      "keyword": "양현종 13년 100이닝",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "노웅래 2심 무죄, 사과합니다",
+      "keyword": "노웅래 2심 무죄 사죄합니다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "BC카드 KLPGA 2라운드 종료",
+      "keyword": "BC카드 KLPGA 2라운드 완료",
       "state": "n",
       "change": "0"
     },
@@ -85,33 +85,33 @@
     },
     {
       "rank": 6,
-      "keyword": "박준형, 전유성 상 수상",
+      "keyword": "반발에 국토부 재검토",
       "state": "+",
-      "change": "6"
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "유세리 치어리더 사랑해!",
+      "keyword": "의정부 투신 소동 4시간 대치",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "반발에 국토부 재검토",
+      "keyword": "홍진경 정선희 더블데이트",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "의정부 옥상 투신 소동",
+      "keyword": "2026년 8월 22일 운세",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "홍진경 정선희 전남친과 친해",
-      "state": "n",
-      "change": "0"
+      "keyword": "한화, 6연패 탈출",
+      "state": "+",
+      "change": "3"
     }
   ]
 }
