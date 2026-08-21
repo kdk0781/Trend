@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-21T07:54:22.694Z",
+  "updatedAt": "2026-08-21T08:29:20.781Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "하주석",
-      "traffic": "1000+"
+      "keyword": "전투기 조종사",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "tài khoản ngân hàng",
-      "traffic": "100+"
+      "keyword": "채은성",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "방탄소년단",
+      "keyword": "하주석",
       "traffic": "2000+"
     },
     {
       "rank": 4,
+      "keyword": "tài khoản ngân hàng",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "방탄소년단",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 6,
       "keyword": "암",
       "traffic": "20000+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "신반포4차아파트",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "lig 디펜스 & 에어로 스페이스",
       "traffic": "500+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "ssg닷컴",
       "traffic": "100+"
     },
     {
-      "rank": 8,
-      "keyword": "딩하오",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "bmw 챔피언십",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "k패스",
-      "traffic": "200+"
+      "keyword": "딩하오",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "조정식 미셸 스틸 접견",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
       "keyword": "이재명 대통령 반부패정책협의회",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "이진숙 징계안 제출",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "통상교섭본부장에 박정성 임명",
-      "state": "-",
+      "state": "+",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "이상민 아내 권유로 하차",
+      "rank": 2,
+      "keyword": "이진숙 의원 징계안 제출",
       "state": "+",
-      "change": "4"
+      "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "정점식 암참 회장 접견",
-      "state": "s",
-      "change": "0"
+      "rank": 3,
+      "keyword": "조정식 미셸 스틸 접견",
+      "state": "-",
+      "change": "2"
     },
     {
-      "rank": 7,
-      "keyword": "금속노조 자동차업종 공동파업대회",
+      "rank": 4,
+      "keyword": "삼성전자는 보상격차 해소 요구",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "이혼하자 OST 공개",
+      "rank": 5,
+      "keyword": "이상민 아내 권유로 피의 게임X 중도 하차",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "금속노조 자동차파업",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "양현종 13시즌 100이닝 눈앞",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "코스피 6900선 복귀",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 9,
-      "keyword": "양현종 100이닝 도전",
+      "keyword": "최용호 대표 인사말",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "삼성전자 보상 해소 요구",
+      "keyword": "오디세이 600만 관객 돌파",
       "state": "n",
       "change": "0"
     }
