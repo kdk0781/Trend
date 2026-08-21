@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-08-21T15:43:19.745Z",
+  "updatedAt": "2026-08-21T16:11:28.336Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이미숙",
-      "traffic": "500+"
+      "keyword": "전화",
+      "traffic": "100+"
     },
     {
       "rank": 2,
+      "keyword": "이미숙",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
       "keyword": "정선희",
       "traffic": "200+"
     },
     {
-      "rank": 3,
-      "keyword": "탑승",
-      "traffic": "1000+"
-    },
-    {
       "rank": 4,
-      "keyword": "lck",
+      "keyword": "탑승",
       "traffic": "1000+"
     },
     {
@@ -28,72 +28,72 @@
     },
     {
       "rank": 6,
-      "keyword": "스포츠",
-      "traffic": "500+"
+      "keyword": "lck",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
+      "keyword": "스포츠",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
       "keyword": "lck 순위",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "엘지트윈스",
       "traffic": "100+"
     },
     {
-      "rank": 9,
-      "keyword": "노동절",
-      "traffic": "1000+"
-    },
-    {
       "rank": 10,
-      "keyword": "이대형",
+      "keyword": "노동절",
       "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "삼성전자 올해 최대 110조 환원",
+      "keyword": "삼성전자 올해 110조 주주환원",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "양현종 13년 연속 100이닝",
+      "keyword": "양현종, 13년 100이닝 달성",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "거제 통영 특별재난지역 선포",
+      "keyword": "거제·통영 특별재난지역 선포",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "KLPGA 챔피언십 2라운드 완료",
-      "state": "n",
+      "keyword": "KLPGA 챔피언십 2라운드 마무리",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "내년 3월 통합 진에어 출범",
+      "keyword": "통합 진에어 출범",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "방준혁 넷마블 지분 13.4% 인수",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "오디세이 600만 관객 돌파",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 7,
-      "keyword": "방준혁 넷마블 지분 인수",
-      "state": "s",
-      "change": "0"
+      "keyword": "“강남 日 배우 논란”",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 8,
@@ -103,9 +103,9 @@
     },
     {
       "rank": 9,
-      "keyword": "강남, 日 배우 우익 논란",
+      "keyword": "김태형 감독의 롯데 5연승",
       "state": "-",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 10,
