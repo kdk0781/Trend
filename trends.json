@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-21T23:33:43.716Z",
+  "updatedAt": "2026-08-21T23:54:02.680Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "염증",
-      "traffic": "2000+"
+      "keyword": "재정",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "수도권 광역급행철도 c노선",
-      "traffic": "100+"
+      "keyword": "베트남 축구 국가대표팀",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "처서",
-      "traffic": "1000+"
+      "keyword": "김준호",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "김요한",
-      "traffic": "500+"
+      "keyword": "유세리",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "국내총생산",
+      "keyword": "thứ hạng của arsenal gặp câu lạc bộ bóng đá coventry city",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "치맥",
-      "traffic": "200+"
+      "keyword": "염증",
+      "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "죽음의 조",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "테일러 프리츠",
+      "keyword": "수도권 광역급행철도 c노선",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "김요한",
+      "traffic": "500+"
+    },
+    {
       "rank": 9,
-      "keyword": "세단",
-      "traffic": "100+"
+      "keyword": "국내총생산",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "이란 대통령",
-      "traffic": "2000+"
+      "keyword": "치맥",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "폭염 후 슈퍼태풍 경고",
+      "keyword": "폭염과 폭우 뒤 슈퍼태풍 경고",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
       "keyword": "테슬라 300만대 리콜",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "KLPGA 챔피언십 2라운드",
+      "keyword": "BC카드 KLPGA 2라운드 마무리",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "뉴욕증시 반등",
+      "keyword": "박위 낙상사고 사과",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "정선희 안재환 잃고 힘들어",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "이현이 전교 1등 귀신 씌움",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
       "keyword": "낮 최고 34도 무더위 계속",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 6,
+      "keyword": "정선희 오열 전쟁 느껴져",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "2만원대 하이닉스 잭팟",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "이상민 연봉 15억 공개",
+      "keyword": "김정은과 10억 남편",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "2만원대에 전원주 하이닉스",
-      "state": "n",
-      "change": "0"
+      "keyword": "뉴욕증시 저가 매수에 반등",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 10,
-      "keyword": "10억 남편과 홍콩서 만남",
+      "keyword": "러시아 쇼핑몰 드론 공습",
       "state": "n",
       "change": "0"
     }
