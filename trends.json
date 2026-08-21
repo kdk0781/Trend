@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-21T13:04:56.264Z",
+  "updatedAt": "2026-08-21T13:53:09.625Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "공원",
-      "traffic": "200+"
+      "keyword": "김구라",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "김예건",
-      "traffic": "1000+"
+      "keyword": "노웅래",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "이정범",
-      "traffic": "200+"
+      "keyword": "조현준",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "twitch",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "f-35a",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "최준희",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "전원주",
+      "keyword": "우선주",
       "traffic": "10000+"
     },
     {
-      "rank": 8,
-      "keyword": "구속영장",
+      "rank": 5,
+      "keyword": "나띠",
       "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "정유라",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "박원숙",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "법관",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "의료과실",
-      "traffic": "200+"
+      "keyword": "내가 만난 사이코패스",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "김대호",
-      "traffic": "100+"
+      "keyword": "공원",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "양현종, 13년 연속 100이닝",
+      "keyword": "KIA 양현종 13년 연속 100이닝",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 2,
-      "keyword": "대구세계마스터즈육상 선수단 입장",
+      "keyword": "거제 통영 특별재난지역",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "박준형, 전유성 상 수상",
-      "state": "s",
+      "keyword": "의정부 아파트서 흔적",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "25일 신임 만찬",
+      "keyword": "19개월 딸 굶어 숨져 친모 징역 12년",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "유세리 사랑해!",
+      "keyword": "대구세계마스터즈육상 선수단 입장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "권성동 변호사 등록 취소",
-      "state": "+",
-      "change": "1"
+      "keyword": "한화 왕옌청 폐렴 입원",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "태풍 사우델 한국 영향?",
-      "state": "-",
+      "keyword": "안세영과 왕즈이 준결승 대결",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "안세영, 세계선수권 4강 진출",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "채연, 선정성 논란 고백",
+      "keyword": "트럼프 이란 전쟁 재론",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "박준형, 전유성 상 수상!",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "가족관계증명서",
+      "keyword": "두산 벤자민 말소",
       "state": "s",
       "change": "0"
     }
