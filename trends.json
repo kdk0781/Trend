@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-08-21T17:53:21.744Z",
+  "updatedAt": "2026-08-21T18:24:03.966Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "전화",
+      "keyword": "al-riyadh vs al-nassr",
       "traffic": "100+"
     },
     {
       "rank": 2,
+      "keyword": "전화",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
       "keyword": "이미숙",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "정선희",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "탑승",
       "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "배재준",
-      "traffic": "200+"
     },
     {
       "rank": 6,
@@ -33,49 +33,49 @@
     },
     {
       "rank": 7,
-      "keyword": "스포츠",
+      "keyword": "배재준",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "lck 순위",
+      "keyword": "스포츠",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "엘지트윈스",
-      "traffic": "100+"
+      "keyword": "lck 순위",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "노동절",
-      "traffic": "2000+"
+      "keyword": "엘지트윈스",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "양현종 13년 100이닝",
-      "state": "+",
-      "change": "1"
+      "keyword": "양현종 13시즌 100이닝달성",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "거제·통영 특별재난지역 선포",
-      "state": "-",
-      "change": "1"
+      "keyword": "대구 세계마스터즈 육상 선수단 입장",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "대구세계마스터즈육상 선수단 입장",
+      "keyword": "노웅래 2심 무죄에 사죄합니다",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 4,
-      "keyword": "KLPGA 챔피언십 2R 마무리",
-      "state": "-",
-      "change": "1"
+      "keyword": "BC카드 챔피언십 2라운드",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
@@ -85,33 +85,33 @@
     },
     {
       "rank": 6,
-      "keyword": "김태형 감독의 5연승 이루다",
+      "keyword": "주택공급 구청장 간담회",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "주택공급 관련 간담회",
-      "state": "-",
+      "keyword": "석유 최고가격 동결",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "삼성전자 110조 환원",
+      "keyword": "거제·통영 재난지역 선포",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "9차 석유 동결 유지",
-      "state": "n",
+      "keyword": "권성동 변호사 등록 취소",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "안세영 세계선수권 4강 진출",
-      "state": "n",
-      "change": "0"
+      "keyword": "박준형 전유성 상 수상",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
