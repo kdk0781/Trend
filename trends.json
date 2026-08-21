@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-21T12:03:12.663Z",
+  "updatedAt": "2026-08-21T13:04:56.264Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "f-35a",
+      "keyword": "공원",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "최준희",
-      "traffic": "10000+"
+      "keyword": "김예건",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "수익",
-      "traffic": "500+"
+      "keyword": "이정범",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "전원주",
-      "traffic": "2000+"
+      "keyword": "twitch",
+      "traffic": "100+"
     },
     {
       "rank": 5,
+      "keyword": "f-35a",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "최준희",
+      "traffic": "20000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "전원주",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 8,
       "keyword": "구속영장",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "의료과실",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "김대호",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "f1",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "화재",
-      "traffic": "10000+"
-    },
-    {
       "rank": 10,
-      "keyword": "꽃게",
+      "keyword": "김대호",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "대구세계마스터즈육상 선수단 입장",
+      "keyword": "양현종, 13년 연속 100이닝",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "양현종, 13시즌 100이닝 달성",
-      "state": "n",
-      "change": "0"
+      "keyword": "대구세계마스터즈육상 선수단 입장",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "주택공급 간담회 한성숙",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "박준형 전유성 상 수상",
+      "keyword": "박준형, 전유성 상 수상",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "25일 신임 만찬",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "석유 최고가격 동결",
+      "keyword": "유세리 사랑해!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "안세영, 세계선수권 4강 진출!",
-      "state": "-",
-      "change": "3"
+      "keyword": "권성동 변호사 등록 취소",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "거제 통영 특별재난지역",
+      "keyword": "태풍 사우델 한국 영향?",
       "state": "-",
-      "change": "6"
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "삼성전자 주주환원 110조",
-      "state": "n",
-      "change": "0"
+      "keyword": "안세영, 세계선수권 4강 진출",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "소나기와 35도 무더위",
+      "keyword": "채연, 선정성 논란 고백",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "SK하이닉스 성과급 주가 보전",
-      "state": "-",
-      "change": "3"
+      "keyword": "가족관계증명서",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
