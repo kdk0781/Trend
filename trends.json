@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-21T23:01:36.906Z",
+  "updatedAt": "2026-08-21T23:33:43.716Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "오세훈",
+      "keyword": "염증",
       "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "이란 대통령",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "박성현",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "육아휴직",
+      "keyword": "수도권 광역급행철도 c노선",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "처서",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "김요한",
+      "traffic": "500+"
+    },
+    {
       "rank": 5,
-      "keyword": "혈당",
-      "traffic": "2000+"
+      "keyword": "국내총생산",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "손성빈",
-      "traffic": "500+"
+      "keyword": "치맥",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "vix",
-      "traffic": "200+"
+      "keyword": "죽음의 조",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "주식",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "tsla",
+      "keyword": "테일러 프리츠",
       "traffic": "200+"
     },
     {
+      "rank": 9,
+      "keyword": "세단",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "lng선",
-      "traffic": "500+"
+      "keyword": "이란 대통령",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "폭염 뒤 슈퍼태풍 경고",
-      "state": "+",
-      "change": "2"
+      "keyword": "폭염 후 슈퍼태풍 경고",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "2026년 8월 22일 운세",
-      "state": "-",
-      "change": "1"
+      "keyword": "테슬라 300만대 리콜",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "박위 낙상사고 결국 사과",
-      "state": "-",
-      "change": "1"
+      "keyword": "KLPGA 챔피언십 2라운드",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "韓 역대 2위 등극 임박",
-      "state": "+",
-      "change": "1"
+      "keyword": "뉴욕증시 반등",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "트럼프 백악관 공사 허용",
-      "state": "+",
-      "change": "3"
+      "keyword": "정선희 안재환 잃고 힘들어",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "BC카드 한경 챔피언십 2라운드 마무리",
+      "keyword": "이현이 전교 1등 귀신 씌움",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "스웨덴 고교 흉기 난동 발생",
-      "state": "-",
-      "change": "1"
+      "keyword": "낮 최고 34도 무더위 계속",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "안보현 정은채 시신 이동 사건",
+      "keyword": "이상민 연봉 15억 공개",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "낮 최고 34도 무더위 계속",
+      "keyword": "2만원대에 전원주 하이닉스",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "형제 사망 사건 발생",
+      "keyword": "10억 남편과 홍콩서 만남",
       "state": "n",
       "change": "0"
     }
