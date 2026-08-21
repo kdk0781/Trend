@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-21T05:42:30.160Z",
+  "updatedAt": "2026-08-21T06:16:59.617Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "민형배",
-      "traffic": "200+"
+      "keyword": "박현경",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "경주기행",
-      "traffic": "200+"
+      "keyword": "서초구",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "노시환",
+      "keyword": "수출",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "곰",
+      "keyword": "jyp엔터테인먼트",
       "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "롯데백화점 미아점",
+      "keyword": "방화",
       "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "아덴 만",
-      "traffic": "500+"
+      "keyword": "영제이",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "약국",
+      "keyword": "us 오픈",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "명태균",
-      "traffic": "500+"
+      "keyword": "미스트롯",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "권영진",
-      "traffic": "500+"
+      "keyword": "현대자동차그룹 메타플랜트 아메리카",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "김옥숙",
-      "traffic": "5000+"
+      "keyword": "롯데자이언츠",
+      "traffic": "100+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "지방교육재정교부금 개편 브리핑",
-      "state": "+",
-      "change": "1"
+      "keyword": "노태우 김옥숙 자택 등",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "검찰 김옥숙 자택 압수수색",
+      "keyword": "오세훈 항소심 첫 공판",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "술타기 이재룡 10월",
+      "keyword": "유아인 빌리언스와 전속계약",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "르노코리아 임단협 결정",
-      "state": "s",
+      "keyword": "UFS 조기 종료",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "UFS 연습 오늘 종료",
-      "state": "n",
-      "change": "0"
+      "keyword": "지방교육재정교부금 최교진 장관",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "조희대 대법원장 출석",
-      "state": "s",
-      "change": "0"
+      "keyword": "르노코리아 임단협 합의",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "손승원 징역 2년 확정",
-      "state": "n",
-      "change": "0"
+      "keyword": "조희대 대법원장 출석",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "이태한 특검, 경찰청 방문",
+      "keyword": "손승원 징역 2년 확정",
       "state": "-",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "제니 28일 EP FALLEN ANGEL 출시",
-      "state": "n",
-      "change": "0"
+      "keyword": "이태한 특검 경찰 예방",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
