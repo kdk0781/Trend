@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-21T20:16:05.065Z",
+  "updatedAt": "2026-08-21T20:42:25.753Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "f 35a",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
+      "keyword": "arsenal vs coventry",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "premier league",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
       "keyword": "아스날",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 5,
       "keyword": "포로",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "keyword": "아스널 대 코번트리",
       "traffic": "5000+"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "keyword": "al-riyadh vs al-nassr",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "pl",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "전화",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "keyword": "이미숙",
       "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "정선희",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "탑승",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "배재준",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "노웅래 2심 무죄에 사과합니다",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "KLPGA 챔피언십 2라운드 완료",
-      "state": "+",
-      "change": "1"
+      "keyword": "KIA 김호령 만루포 성공",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "박위 낙상사고 결국 삭제",
+      "keyword": "홍진경 정선희 이혼 이야기",
       "state": "+",
-      "change": "17"
+      "change": "3"
     },
     {
       "rank": 4,
-      "keyword": "KIA 김호령 만루포 성공",
+      "keyword": "BC카드 KLPGA 2라운드 경기",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "권성동 변호사 등록 취소",
-      "state": "s",
-      "change": "0"
+      "keyword": "박위, 사고 영상 비판 여론.",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "김태형 감독의 롯데 5연승",
+      "keyword": "2026년 8월 22일 운세",
       "state": "+",
-      "change": "4"
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "의정부 옥상 투신 소동",
-      "state": "s",
-      "change": "0"
+      "keyword": "나 혼자 산다",
+      "state": "+",
+      "change": "74"
     },
     {
       "rank": 8,
-      "keyword": "홍진경 정선희 언니 전남친과 친해",
-      "state": "n",
-      "change": "0"
+      "keyword": "의정부 투신 소동 4시간 대치",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "2026년 8월 22일 운세",
-      "state": "s",
-      "change": "0"
+      "keyword": "스웨덴 고교 흉기 난동",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "반발에 국토부 재검토",
-      "state": "-",
-      "change": "4"
+      "keyword": "왕옌청 폐렴 입원",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
