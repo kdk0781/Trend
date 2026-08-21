@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-21T10:14:00.418Z",
+  "updatedAt": "2026-08-21T10:49:04.482Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "삼성 대 nc",
-      "traffic": "2000+"
+      "keyword": "만평",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "롯데 대 두산",
+      "keyword": "kia 타이거즈",
       "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "kt 대 ssg",
-      "traffic": "2000+"
+      "keyword": "여성 소방관",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "kia 대 키움",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "통상교섭본부장",
+      "keyword": "현대 자동차 그룹 메타 플랜트 아메리카",
       "traffic": "200+"
     },
     {
+      "rank": 5,
+      "keyword": "도지코인",
+      "traffic": "100+"
+    },
+    {
       "rank": 6,
-      "keyword": "황신혜",
-      "traffic": "1000+"
+      "keyword": "lg 대 한화",
+      "traffic": "10000+"
     },
     {
       "rank": 7,
-      "keyword": "비트코인",
-      "traffic": "2000+"
+      "keyword": "성주군",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "스코티 셰플러",
-      "traffic": "500+"
+      "keyword": "경기도교육청",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "이종석",
-      "traffic": "500+"
+      "keyword": "삼성 대 nc",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "소방관",
-      "traffic": "2000+"
+      "keyword": "롯데 대 두산",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "삼성전자 올해 110조원 주주환원",
+      "keyword": "삼성전자 주주환원 110조 예상",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "통합 진에어 내년 출범",
+      "keyword": "거제 통영 특별재난지역 선포",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "거제 통영 특별재난지역",
+      "keyword": "규진 첫 시구 성공",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "방준혁 넷마블 지분 인수",
+      "keyword": "통합 진에어 출범",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "SK하이닉스 주가 현금 보전",
-      "state": "-",
-      "change": "1"
+      "keyword": "황종우 가두리 점검",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "황종우 해수부 장관, 충남 점검",
+      "keyword": "서교림, 김민솔 2R 1·3위",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "과태료와 대리주차 논란",
-      "state": "-",
-      "change": "2"
+      "keyword": "석유 가격 동결",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김원형 감독의 승리 다짐",
-      "state": "-",
-      "change": "1"
+      "keyword": "하영 하차 요구 증가",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "손승원 징역 2년 확정",
-      "state": "-",
+      "keyword": "종합특검, VIP 기소 논란",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "종합특검, VIP 기소 진행",
+      "keyword": "정청래 아동학대 무혐의",
       "state": "n",
       "change": "0"
     }
