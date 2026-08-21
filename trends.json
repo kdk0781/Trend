@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-21T22:14:50.803Z",
+  "updatedAt": "2026-08-21T22:43:06.717Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "lng선",
+      "keyword": "박성현",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "다우 존스 산업평균지수",
-      "traffic": "2000+"
+      "keyword": "혈당",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "schd",
-      "traffic": "200+"
+      "keyword": "손성빈",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "콜레스테롤",
+      "keyword": "vix",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "감전",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "시청률",
+      "keyword": "주식",
       "traffic": "5000+"
     },
     {
+      "rank": 6,
+      "keyword": "tsla",
+      "traffic": "200+"
+    },
+    {
       "rank": 7,
-      "keyword": "오디세이",
-      "traffic": "2000+"
+      "keyword": "lng선",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "신인감독 김연경",
+      "keyword": "다우 존스 산업평균지수",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "서식스 공작부인 메건",
+      "keyword": "schd",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "부동산",
-      "traffic": "2000+"
+      "keyword": "콜레스테롤",
+      "traffic": "500+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "한화, 6연패 탈출",
+      "keyword": "박위 KTX 낙상사고",
       "state": "+",
-      "change": "6"
+      "change": "10"
     },
     {
       "rank": 3,
-      "keyword": "홍진경 정선희 이혼 이유",
-      "state": "s",
-      "change": "0"
+      "keyword": "태풍 사우델 영향 비 바람 주말 폭염",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "주말 폭염 속 비 태풍 영향",
-      "state": "s",
-      "change": "0"
+      "keyword": "양현종, 13시즌 연속 100이닝 달성",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 5,
-      "keyword": "고승민 만루포, 롯데 5연승!",
+      "keyword": "韓 역대 2위 기록",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "노웅래 2심 무죄에 사과합니다",
-      "state": "-",
+      "keyword": "스웨덴 고교 흉기 난동",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "강남 우익 배우 논란",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "젤렌스키 고향 공습 사망 15명",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "KLPGA 챔피언십 2라운드",
+      "keyword": "안보현·정은채, 시신 이동 수사",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "스웨덴 고교 흉기 난동",
-      "state": "-",
+      "rank": 8,
+      "keyword": "백악관 연회장 공사",
+      "state": "+",
       "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "홍진경 정선희 이혼 이유",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 10,
+      "keyword": "장영란, 경희대 석사 졸업",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
