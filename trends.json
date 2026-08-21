@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-21T22:43:06.717Z",
+  "updatedAt": "2026-08-21T23:01:36.906Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "박성현",
-      "traffic": "200+"
+      "keyword": "오세훈",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "혈당",
-      "traffic": "1000+"
+      "keyword": "이란 대통령",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "손성빈",
+      "keyword": "박성현",
       "traffic": "500+"
     },
     {
       "rank": 4,
+      "keyword": "육아휴직",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "혈당",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "손성빈",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
       "keyword": "vix",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "주식",
       "traffic": "5000+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "tsla",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "lng선",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "다우 존스 산업평균지수",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "schd",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "콜레스테롤",
+      "keyword": "lng선",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "2026년 8월 22일 운세",
-      "state": "s",
-      "change": "0"
+      "keyword": "폭염 뒤 슈퍼태풍 경고",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "박위 KTX 낙상사고",
-      "state": "+",
-      "change": "10"
+      "keyword": "2026년 8월 22일 운세",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "태풍 사우델 영향 비 바람 주말 폭염",
-      "state": "+",
+      "keyword": "박위 낙상사고 결국 사과",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "양현종, 13시즌 연속 100이닝 달성",
+      "keyword": "韓 역대 2위 등극 임박",
       "state": "+",
-      "change": "4"
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "韓 역대 2위 기록",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "스웨덴 고교 흉기 난동",
+      "keyword": "트럼프 백악관 공사 허용",
       "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "안보현·정은채, 시신 이동 수사",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "백악관 연회장 공사",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "홍진경 정선희 이혼 이유",
-      "state": "-",
       "change": "3"
     },
     {
+      "rank": 6,
+      "keyword": "BC카드 한경 챔피언십 2라운드 마무리",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "스웨덴 고교 흉기 난동 발생",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "안보현 정은채 시신 이동 사건",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "낮 최고 34도 무더위 계속",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "장영란, 경희대 석사 졸업",
+      "keyword": "형제 사망 사건 발생",
       "state": "n",
       "change": "0"
     }
