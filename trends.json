@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-21T21:55:09.185Z",
+  "updatedAt": "2026-08-21T22:14:50.803Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "감전",
+      "keyword": "lng선",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "시청률",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "오디세이",
+      "keyword": "다우 존스 산업평균지수",
       "traffic": "2000+"
     },
     {
+      "rank": 3,
+      "keyword": "schd",
+      "traffic": "200+"
+    },
+    {
       "rank": 4,
-      "keyword": "신인감독 김연경",
+      "keyword": "콜레스테롤",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "서식스 공작부인 메건",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "부동산",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "장동혁",
+      "keyword": "감전",
       "traffic": "500+"
     },
     {
+      "rank": 6,
+      "keyword": "시청률",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "오디세이",
+      "traffic": "2000+"
+    },
+    {
       "rank": 8,
-      "keyword": "검단호수공원",
+      "keyword": "신인감독 김연경",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "도박",
+      "keyword": "서식스 공작부인 메건",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "한화오션",
-      "traffic": "100+"
+      "keyword": "부동산",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "2026년 8월 22일 운세",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 2,
-      "keyword": "롯데 김태형 감독의 기대 상승",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "한화, 6연패 탈출",
+      "state": "+",
+      "change": "6"
+    },
+    {
       "rank": 3,
-      "keyword": "홍진경, 정선희 유튜브 이혼 고백",
+      "keyword": "홍진경 정선희 이혼 이유",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "주말 폭염 속 태풍 영향 비",
-      "state": "+",
-      "change": "2"
+      "keyword": "주말 폭염 속 비 태풍 영향",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "노웅래 2심 무죄에 사과합니다",
-      "state": "-",
-      "change": "4"
+      "keyword": "고승민 만루포, 롯데 5연승!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "강남, 日 우익 배우 삭제",
-      "state": "n",
-      "change": "0"
+      "keyword": "노웅래 2심 무죄에 사과합니다",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "젤렌스키 고향 공습 사망 부상",
-      "state": "n",
-      "change": "0"
+      "keyword": "강남 우익 배우 논란",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "한화 6연패 탈출!",
-      "state": "+",
+      "keyword": "젤렌스키 고향 공습 사망 15명",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "스웨덴 고교 흉기 난동",
-      "state": "-",
-      "change": "1"
+      "keyword": "KLPGA 챔피언십 2라운드",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "BC카드 챔피언십 2라운드 결과",
-      "state": "n",
-      "change": "0"
+      "keyword": "스웨덴 고교 흉기 난동",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
