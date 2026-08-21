@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-21T05:01:29.463Z",
+  "updatedAt": "2026-08-21T05:42:30.160Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "징역형",
+      "keyword": "민형배",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "권영진",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "김옥숙",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "이재명",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "이슬람 혁명 수비대",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "새만금",
+      "keyword": "경주기행",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "김동환",
+      "rank": 3,
+      "keyword": "노시환",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "곰",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "롯데백화점 미아점",
       "traffic": "1000+"
     },
     {
+      "rank": 6,
+      "keyword": "아덴 만",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "약국",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "게임",
+      "keyword": "명태균",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "박진영",
-      "traffic": "5000+"
+      "keyword": "권영진",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "배현진",
-      "traffic": "2000+"
+      "keyword": "김옥숙",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
+      "keyword": "정동영 장관 간담회",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 2,
       "keyword": "지방교육재정교부금 개편 브리핑",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 2,
-      "keyword": "의원총회 정점식 원내대표",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 3,
-      "keyword": "이재룡 10월 법정 선다",
+      "keyword": "검찰 김옥숙 자택 압수수색",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "정동영 장관 인사말",
-      "state": "+",
-      "change": "1"
+      "keyword": "술타기 이재룡 10월",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이태한 특검 경찰청 예방",
-      "state": "-",
-      "change": "4"
+      "keyword": "르노코리아 임단협 결정",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
+      "keyword": "UFS 연습 오늘 종료",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
       "keyword": "조희대 대법원장 출석",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "노태우 비자금 압수수색",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 8,
-      "keyword": "일본 쿨재팬 폐지",
+      "keyword": "손승원 징역 2년 확정",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "손승원 징역 2년형",
-      "state": "n",
-      "change": "0"
+      "keyword": "이태한 특검, 경찰청 방문",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "조나단, 대한흑인협회 결성",
+      "keyword": "제니 28일 EP FALLEN ANGEL 출시",
       "state": "n",
       "change": "0"
     }
