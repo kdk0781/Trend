@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-21T00:00:31.934Z",
+  "updatedAt": "2026-08-21T01:52:34.788Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "선우용여",
-      "traffic": "1000+"
+      "keyword": "김가연",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "디즈니+",
-      "traffic": "1000+"
+      "keyword": "챗",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "도박",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "초대형 방사포",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "손태영",
+      "keyword": "2xko",
       "traffic": "100+"
     },
     {
+      "rank": 4,
+      "keyword": "동맹",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "심 철종",
+      "traffic": "500+"
+    },
+    {
       "rank": 6,
-      "keyword": "노화",
-      "traffic": "2000+"
+      "keyword": "한국 영화",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "대학 병원",
+      "keyword": "한국형 차기 구축함",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "유현주",
+      "keyword": "국민임대주택",
       "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "스포츠",
+      "keyword": "band",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "날씨",
-      "traffic": "500000+"
+      "keyword": "엘레나 리바키나",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "강력 태풍 한반도 상륙 가능성",
+      "keyword": "출근하는 조희대 대법원장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "선유도역 암모니아 누출",
+      "keyword": "코스피 하락 시작",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "권은비 9월 3일 컴백",
-      "state": "+",
-      "change": "4"
+      "keyword": "8월 반도체 수출 급증",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "조규성 시즌 첫 골",
+      "keyword": "문근영 예토 촬영 완료",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "송민호 징역 1년 구형",
+      "keyword": "세계 3대 디자인상 석권 소식",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "홍민기, 전 여친 주장 반박",
+      "keyword": "이정후 4경기 연속 안타",
       "state": "+",
-      "change": "1"
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "이정후 4경기 연속 안타",
-      "state": "n",
+      "keyword": "시장상황점검회의 구윤철 부총리",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "현대차 노조 10년 만에 파업",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 9,
-      "keyword": "최진실 하늘에서 천불?",
+      "keyword": "코스닥 급락에 사이드카 발동",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "정점식 원내대표 원내대책회의 참석",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 10,
-      "keyword": "모솔 영수, 39세 결혼",
+      "keyword": "대중 소비재 수출 점검",
       "state": "n",
       "change": "0"
     }
