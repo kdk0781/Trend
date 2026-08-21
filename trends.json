@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-21T15:01:15.548Z",
+  "updatedAt": "2026-08-21T15:43:19.745Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "lck",
-      "traffic": "1000+"
+      "keyword": "이미숙",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "배재준",
+      "keyword": "정선희",
       "traffic": "200+"
     },
     {
       "rank": 3,
+      "keyword": "탑승",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "lck",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "배재준",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "스포츠",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
       "keyword": "lck 순위",
       "traffic": "200+"
     },
     {
-      "rank": 4,
-      "keyword": "스포츠",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
+      "rank": 8,
       "keyword": "엘지트윈스",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "노동절",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "keyword": "이대형",
       "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "박문성",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "백하나",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "크보",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "양현종, 13시즌 100이닝 달성",
+      "keyword": "삼성전자 올해 최대 110조 환원",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "형제 동생 사망 사건",
-      "state": "n",
+      "keyword": "양현종 13년 연속 100이닝",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "부패 청산 엄정 정리",
-      "state": "n",
+      "keyword": "거제 통영 특별재난지역 선포",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "딸 굶어 숨져 친모 징역 12년",
+      "keyword": "KLPGA 챔피언십 2라운드 완료",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "상실형 오세훈 2심 전략 수정",
-      "state": "n",
-      "change": "0"
+      "keyword": "내년 3월 통합 진에어 출범",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "박준형, 전유성 상 수상 기쁨",
+      "keyword": "오디세이 600만 관객 돌파",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "방준혁 넷마블 지분 인수",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "삼성전자 110조 환원",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 8,
-      "keyword": "세계선수권 준결승서 안세영과",
-      "state": "n",
+      "keyword": "대구세계마스터즈육상 선수단 입장",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "KLPGA 챔피언십 2라운드 종료",
-      "state": "n",
-      "change": "0"
+      "keyword": "강남, 日 배우 우익 논란",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "강남 일본 배우 우익 논란",
-      "state": "n",
+      "keyword": "황종우 장관, 충남 양식장 점검",
+      "state": "s",
       "change": "0"
     }
   ]
