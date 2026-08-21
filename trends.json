@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-21T06:16:59.617Z",
+  "updatedAt": "2026-08-21T07:10:00.189Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "박현경",
-      "traffic": "1000+"
+      "keyword": "딩하오",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "서초구",
-      "traffic": "100+"
+      "keyword": "bmw 챔피언십",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "수출",
-      "traffic": "100+"
+      "keyword": "k패스",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "jyp엔터테인먼트",
-      "traffic": "2000+"
+      "keyword": "빌리언스",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "방화",
-      "traffic": "1000+"
+      "keyword": "검수완박",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "영제이",
-      "traffic": "200+"
+      "keyword": "간호",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "us 오픈",
-      "traffic": "200+"
+      "keyword": "김태규",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "미스트롯",
-      "traffic": "200+"
+      "keyword": "암세포",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "현대자동차그룹 메타플랜트 아메리카",
-      "traffic": "100+"
+      "keyword": "mlb",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "롯데자이언츠",
-      "traffic": "100+"
+      "keyword": "이호준",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정동영 장관 간담회",
-      "state": "s",
+      "keyword": "조정식 미셸 스틸 접견",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "노태우 김옥숙 자택 등",
+      "keyword": "이재명 대통령 반부패정책협의회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "오세훈 항소심 첫 공판",
-      "state": "n",
-      "change": "0"
+      "keyword": "오세훈, 항소심 첫 공판 출석",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
       "keyword": "유아인 빌리언스와 전속계약",
-      "state": "n",
-      "change": "0"
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "UFS 조기 종료",
+      "keyword": "양현종, 13시즌 연속 100이닝 눈앞",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "지방교육재정교부금 최교진 장관",
-      "state": "-",
-      "change": "4"
+      "keyword": "의정부 형제 타살 흔적",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "르노코리아 임단협 합의",
-      "state": "-",
-      "change": "2"
+      "keyword": "하이닉스 성과급 주식 지급",
+      "state": "+",
+      "change": "13"
     },
     {
       "rank": 8,
-      "keyword": "조희대 대법원장 출석",
-      "state": "-",
-      "change": "1"
+      "keyword": "이상민 아내 덕분에 출연 결정",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "손승원 징역 2년 확정",
-      "state": "-",
-      "change": "1"
+      "keyword": "UFS 조기 종료",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이태한 특검 경찰 예방",
+      "keyword": "주택 신속공급 방안 설명회",
       "state": "-",
-      "change": "1"
+      "change": "3"
     }
   ]
 }
