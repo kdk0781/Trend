@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-21T08:29:20.781Z",
+  "updatedAt": "2026-08-21T09:07:59.488Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "전투기 조종사",
+      "keyword": "두산에너 빌리티",
       "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "채은성",
-      "traffic": "200+"
+      "keyword": "금호건설",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "하주석",
+      "keyword": "천위페이",
       "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "tài khoản ngân hàng",
-      "traffic": "100+"
+      "keyword": "적금",
+      "traffic": "10000+"
     },
     {
       "rank": 5,
-      "keyword": "방탄소년단",
-      "traffic": "2000+"
+      "keyword": "빅뱅 콘서트",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "암",
-      "traffic": "20000+"
+      "keyword": "전투기 조종사",
+      "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "신반포4차아파트",
+      "keyword": "채은성",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "lig 디펜스 & 에어로 스페이스",
-      "traffic": "500+"
+      "keyword": "하주석",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "ssg닷컴",
+      "keyword": "tài khoản ngân hàng",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "딩하오",
-      "traffic": "500+"
+      "keyword": "방탄소년단",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 대통령 반부패정책협의회",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "이진숙 의원 징계안 제출",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "조정식 미셸 스틸 접견",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "삼성전자는 보상격차 해소 요구",
+      "keyword": "삼성전자 올해 110조 주주환원",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "이상민 아내 권유로 피의 게임X 중도 하차",
-      "state": "s",
+      "rank": 2,
+      "keyword": "이진숙 징계안 제출",
+      "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "금속노조 자동차파업",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "양현종 13시즌 100이닝 눈앞",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "코스피 6900선 복귀",
+      "rank": 3,
+      "keyword": "오디세이 600만 돌파",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 9,
+      "rank": 4,
+      "keyword": "김원형 감독의 막판 스퍼트",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "코스피 6900선 회복",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "내년 3월 통합 진에어 출범",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
       "keyword": "최용호 대표 인사말",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 8,
+      "keyword": "금속노조 자동차업종 대회",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "형제 의정부 사망 사건",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "오디세이 600만 관객 돌파",
+      "keyword": "방준혁 넷마블 13.4% 인수",
       "state": "n",
       "change": "0"
     }
