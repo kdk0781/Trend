@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-21T11:43:22.114Z",
+  "updatedAt": "2026-08-21T12:03:12.663Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "최준희",
-      "traffic": "5000+"
+      "keyword": "f-35a",
+      "traffic": "200+"
     },
     {
       "rank": 2,
+      "keyword": "최준희",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "수익",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
       "keyword": "전원주",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "구속영장",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "의료과실",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "김대호",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "f1",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "화재",
       "traffic": "10000+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "꽃게",
       "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "만평",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "kia 타이거즈",
-      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "거제 통영 특별재난지역",
-      "state": "s",
-      "change": "0"
+      "keyword": "대구세계마스터즈육상 선수단 입장",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "대구세계마스터즈육상 선수단 입장",
-      "state": "s",
+      "keyword": "양현종, 13시즌 100이닝 달성",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "안세영 세계선수권 4강 진출",
+      "keyword": "주택공급 간담회 한성숙",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
       "keyword": "박준형 전유성 상 수상",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
       "keyword": "석유 최고가격 동결",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "서울 구청장과 간담회 하는 총리",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "하이닉스 성과급 주식 지급",
-      "state": "+",
+      "rank": 6,
+      "keyword": "안세영, 세계선수권 4강 진출!",
+      "state": "-",
       "change": "3"
     },
     {
+      "rank": 7,
+      "keyword": "거제 통영 특별재난지역",
+      "state": "-",
+      "change": "6"
+    },
+    {
       "rank": 8,
-      "keyword": "전국 소나기와 35도",
+      "keyword": "삼성전자 주주환원 110조",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "채연 노팬티 논란 해명",
+      "keyword": "소나기와 35도 무더위",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "카카오 노조 26일 공동행동",
-      "state": "s",
-      "change": "0"
+      "keyword": "SK하이닉스 성과급 주가 보전",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
