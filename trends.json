@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T18:24:03.966Z",
+  "updatedAt": "2026-08-21T19:04:43.723Z",
   "google": [
     {
       "rank": 1,
@@ -8,110 +8,110 @@
     },
     {
       "rank": 2,
+      "keyword": "pl",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
       "keyword": "전화",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "이미숙",
       "traffic": "2000+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "정선희",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "탑승",
       "traffic": "1000+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "lck",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "배재준",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "스포츠",
       "traffic": "200+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "lck 순위",
       "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "엘지트윈스",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "양현종 13시즌 100이닝달성",
+      "keyword": "13시즌 연속 100이닝",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "대구 세계마스터즈 육상 선수단 입장",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
       "keyword": "노웅래 2심 무죄에 사죄합니다",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 4,
-      "keyword": "BC카드 챔피언십 2라운드",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "강남 日 배우 논란",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "주택공급 구청장 간담회",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 3,
+      "keyword": "BC카드 KLPGA 챔피언십 2라운드 마무리",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "강남 日 배우 논란",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "권성동 변호사 자격 취소",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "대구세계마스터즈육상 선수단 입장",
+      "state": "-",
+      "change": "4"
+    },
+    {
       "rank": 7,
-      "keyword": "석유 최고가격 동결",
+      "keyword": "박위 실수 사건 영상 공개 비판",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "거제·통영 재난지역 선포",
+      "keyword": "유세리 치어리더 사랑해요",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "제주 실종 여성 경찰 수사 시작",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "권성동 변호사 등록 취소",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 10,
-      "keyword": "박준형 전유성 상 수상",
-      "state": "+",
-      "change": "2"
+      "keyword": "삼성전자 110조 주주환원",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
