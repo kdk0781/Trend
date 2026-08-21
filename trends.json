@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T19:04:43.723Z",
+  "updatedAt": "2026-08-21T19:32:29.508Z",
   "google": [
     {
       "rank": 1,
@@ -29,7 +29,7 @@
     {
       "rank": 6,
       "keyword": "탑승",
-      "traffic": "1000+"
+      "traffic": "2000+"
     },
     {
       "rank": 7,
@@ -55,61 +55,61 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "13시즌 연속 100이닝",
+      "keyword": "양현종 100이닝 13년",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "노웅래 2심 무죄에 사죄합니다",
-      "state": "+",
-      "change": "1"
+      "keyword": "노웅래 2심 무죄, 사과합니다",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "BC카드 KLPGA 챔피언십 2라운드 마무리",
+      "keyword": "BC카드 KLPGA 2라운드 종료",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
       "keyword": "강남 日 배우 논란",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
       "keyword": "권성동 변호사 자격 취소",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "대구세계마스터즈육상 선수단 입장",
-      "state": "-",
-      "change": "4"
+      "keyword": "박준형, 전유성 상 수상",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 7,
-      "keyword": "박위 실수 사건 영상 공개 비판",
+      "keyword": "유세리 치어리더 사랑해!",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "유세리 치어리더 사랑해요",
-      "state": "+",
-      "change": "1"
+      "keyword": "반발에 국토부 재검토",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "제주 실종 여성 경찰 수사 시작",
+      "keyword": "의정부 옥상 투신 소동",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "삼성전자 110조 주주환원",
+      "keyword": "홍진경 정선희 전남친과 친해",
       "state": "n",
       "change": "0"
     }
