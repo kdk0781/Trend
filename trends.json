@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-22T19:38:50.811Z",
+  "updatedAt": "2026-08-22T19:53:22.130Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "편의점",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
+      "keyword": "에스파뇰 대 레알 마드리드",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 3,
       "keyword": "브렌트포드",
       "traffic": "100+"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "keyword": "바이에른 뮌헨",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "인테르",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "첼시",
       "traffic": "100+"
     },
     {
-      "rank": 5,
-      "keyword": "레알마드리드",
-      "traffic": "200+"
+      "rank": 7,
+      "keyword": "laliga",
+      "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "일본 지진",
       "traffic": "2000+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "地震",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "brentford vs spurs",
       "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "유영우",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "k뷰티",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "우서윤, 미스코리아 진 당선",
-      "state": "+",
-      "change": "1"
+      "keyword": "우지원 딸, 미스코리아 진 됐다.",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "1238회 로또 1등 번호 2, 13, 18, 32, 38, 42",
-      "state": "+",
-      "change": "1"
+      "keyword": "1238회 로또 1등 번호와 당첨금",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "KLPGA 챔피언십 3라운드 성적 요약",
+      "keyword": "BC카드 챔피언십 3라운드",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "오싹한 연애",
+      "keyword": "서울, 안양 7-0 대승!",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "에너지의 날 소등행사",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "KIA, 7연승 실패! 키움 5연패 탈출!",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "서울, 안양에 7-0 대승!",
-      "state": "+",
-      "change": "8"
-    },
-    {
-      "rank": 6,
-      "keyword": "하윤경의 혼술과 내장탕",
-      "state": "-",
-      "change": "5"
-    },
-    {
       "rank": 7,
-      "keyword": "에너지의 날 소등행사",
-      "state": "-",
-      "change": "3"
+      "keyword": "박위 CCTV 논란 악플 세례",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "안우진 완벽투 KIA 5연패 탈출",
+      "keyword": "김형준 역전 홈런",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "박위 CCTV 논란과 악플",
-      "state": "+",
-      "change": "1"
+      "keyword": "오싹한 연애",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 10,
-      "keyword": "김태훈 역전 2점 홈런",
+      "keyword": "18·19·20호 태풍 동시에 발생",
       "state": "+",
-      "change": "15"
+      "change": "5"
     }
   ]
 }
