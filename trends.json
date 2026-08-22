@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-22T00:45:17.518Z",
+  "updatedAt": "2026-08-22T02:05:01.361Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "대치동은마아파트",
-      "traffic": "500+"
+      "keyword": "금값",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "독소",
+      "keyword": "김병지",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "학대",
-      "traffic": "200+"
+      "keyword": "안재환",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "미인 대회",
-      "traffic": "100+"
+      "keyword": "경복궁",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "앱솔 릭스",
-      "traffic": "200+"
+      "keyword": "일본 엔",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "이진우",
-      "traffic": "200+"
+      "keyword": "오동운",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "안성재",
+      "keyword": "ban vs aus",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "무궁화호",
-      "traffic": "200+"
+      "keyword": "강원도민일보",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "나는 solo",
-      "traffic": "1000+"
+      "keyword": "한국마사회",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "재정",
+      "keyword": "bangladesh vs australia",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "테슬라, 中서 300만대 리콜",
-      "state": "+",
-      "change": "1"
+      "keyword": "소녀시대 효리수 31일",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "KLPGA 2라운드 결과",
+      "keyword": "파레데스 10경기 출전정지",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "공효진 유부녀 킬러 1위 행진",
+      "keyword": "테슬라 300만대 리콜",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "트럼프 쇠고기 관세 반발",
-      "state": "n",
-      "change": "0"
+      "keyword": "임성재 PGA 공동 4위",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "비비 워터밤 선정성 사람",
-      "state": "n",
-      "change": "0"
+      "keyword": "전국 곳곳 소나기 온다",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "박위, 낙상 CCTV 공개 사과",
+      "keyword": "비비, 선정성 논란 후 소신 즐겨요",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "전국 무더위 지속",
+      "keyword": "승리, 후덕한 근황",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "우크라 쇼핑몰 드론공습 15명 사망",
+      "keyword": "박위, CCTV 공개 후 사과 생각 짧았다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "안재환 빚에 힘든 정선희",
+      "keyword": "트럼프 이란 합의 원해",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "승리 후덕해진 베트남",
+      "keyword": "이강인 시민권 검토",
       "state": "n",
       "change": "0"
     }
