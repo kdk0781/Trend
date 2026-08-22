@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-22T11:58:47.609Z",
+  "updatedAt": "2026-08-22T12:40:55.666Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김용필",
-      "traffic": "500+"
+      "keyword": "쿠팡플레이",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "hull city đấu với man utd",
+      "keyword": "투수",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "hull vs man united",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "김영웅",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "동남아시아 축구 연맹 선수권 대회",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "lck",
+      "keyword": "xsmb",
       "traffic": "1000+"
     },
     {
+      "rank": 4,
+      "keyword": "안산 그리너스 대 성남",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "미국 상품거래위원회",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "원종해",
+      "traffic": "100+"
+    },
+    {
       "rank": 7,
-      "keyword": "헐 시티 대 맨유",
-      "traffic": "20000+"
+      "keyword": "김용필",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "상장지수 펀드",
-      "traffic": "100+"
+      "keyword": "hull vs man united",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "lck 2026",
-      "traffic": "100+"
+      "keyword": "hull city đấu với man utd",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "천안시티 대 수원",
-      "traffic": "2000+"
+      "keyword": "김영웅",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "제주 경찰관 긴급체포",
+      "keyword": "손태진 사랑이 온다 OST 발표",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 2,
+      "keyword": "김형준 역전 홈런",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 2,
-      "keyword": "서교림 3R 1위",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 3,
-      "keyword": "대청도 생홍어 맛집 탐방",
+      "keyword": "김광규 결혼 포기 선언",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김민석 90도 인사 논란",
+      "keyword": "1238회 로또 1등 번호 2, 13, 18, 32, 38, 42",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "손태진, 노래하며 결혼 생각 중",
+      "keyword": "KIA 연승 종료, 키움 5연패 탈출",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "홍현희 10KG 감량 퍼레이드",
+      "keyword": "김민석 90도 인사 논란 해결",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "놀면 뭐하니",
+      "keyword": "대청도 자연의 맛",
       "state": "-",
       "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "미인대회 뺑소니 이력 밝혀져",
-      "state": "n",
-      "change": "0"
+      "keyword": "안세영, 한웨 완파하고 우승 한 걸음!",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "박명수 드디어 노홍철 만났다",
+      "keyword": "그것이 알고 싶다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "KIA 올러 1실점",
+      "keyword": "송지은 SNS 악플 세례",
       "state": "n",
       "change": "0"
     }
