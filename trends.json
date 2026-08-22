@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-22T20:13:08.092Z",
+  "updatedAt": "2026-08-22T20:41:24.155Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "편의점",
-      "traffic": "1000+"
+      "keyword": "오타니",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "에스파뇰 대 레알 마드리드",
+      "keyword": "편의점",
       "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "tottenham",
-      "traffic": "200+"
+      "keyword": "에스파뇰 대 레알 마드리드",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "브렌트포드",
+      "keyword": "la liga",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "바이에른 뮌헨",
+      "keyword": "real madrid",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "첼시",
-      "traffic": "100+"
+      "keyword": "tottenham",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "인테르",
+      "keyword": "브렌트포드",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "일본 지진",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "地震",
+      "keyword": "바이에른 뮌헨",
       "traffic": "200+"
     },
     {
+      "rank": 9,
+      "keyword": "인테르",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "지진",
-      "traffic": "1000+"
+      "keyword": "첼시",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "1238회 로또 1등 23명 11억씩",
+      "keyword": "변우석과 박지훈, 꽃파당 관전 포인트",
       "state": "+",
-      "change": "1"
+      "change": "4"
     },
     {
       "rank": 2,
-      "keyword": "BC카드 KLPGA 3라운드 성적",
-      "state": "n",
-      "change": "0"
+      "keyword": "하윤경, 국밥집에서 혼술 즐겨",
+      "state": "+",
+      "change": "28"
     },
     {
       "rank": 3,
-      "keyword": "우지원 딸 서윤 미스코리아 진",
-      "state": "-",
-      "change": "2"
+      "keyword": "BC카드 한경 대회 3라운드 결과",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
       "keyword": "에너지의 날 소등행사",
-      "state": "+",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "안우진 완벽투, KIA 5연패 탈출!",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "서울, 안양 7-0 대승",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "박위 CCTV 논란 주의하세요.",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "오싹한 연애",
-      "state": "+",
+      "keyword": "우서윤 미스코리아 진 당선",
+      "state": "-",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "박위 CCTV 논란과 악플 세례",
+      "state": "+",
+      "change": "5"
+    },
+    {
+      "rank": 7,
+      "keyword": "처서 태풍 3개 동시 발생",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 8,
+      "keyword": "안세영 강력한 결승 진출",
+      "state": "-",
+      "change": "6"
+    },
+    {
       "rank": 9,
-      "keyword": "2026년 8월 23일 운세",
-      "state": "n",
-      "change": "0"
+      "keyword": "서울 7-0 안양 대승",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "태풍 경로 주목",
-      "state": "s",
-      "change": "0"
+      "keyword": "2026년 8월 23일 운세",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
