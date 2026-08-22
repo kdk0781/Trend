@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-22T03:51:19.799Z",
+  "updatedAt": "2026-08-22T04:23:42.089Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "xrp",
-      "traffic": "100+"
+      "keyword": "놀면 뭐하니?",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "탈영",
-      "traffic": "200+"
+      "keyword": "당구",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "테슬라",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "테니스",
+      "keyword": "공대공 미사일",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "무덤",
+      "traffic": "1000+"
+    },
+    {
       "rank": 5,
-      "keyword": "살해",
-      "traffic": "500+"
+      "keyword": "박지현",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "비트코인",
-      "traffic": "2000+"
+      "keyword": "분사기",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "휴머노이드",
+      "keyword": "특별재난지역",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "supreme",
-      "traffic": "200+"
+      "keyword": "승리",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "논설위원",
+      "keyword": "스위스",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "홍혜걸",
+      "keyword": "xrp",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "크루 연합 런 화이팅!",
+      "keyword": "KGM 연합 런 화이팅!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "주수빈 CPKC 2위 도약",
+      "keyword": "이정후 무안타와 수비 실수",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "캣츠아이, 영국 앨범 2위 달성",
-      "state": "+",
-      "change": "3"
+      "keyword": "미스터 서와 조, 7기 옥순 쟁탈전",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "트럼프 이란 합의 필요해",
-      "state": "-",
-      "change": "3"
+      "keyword": "우크라 러 북한군 8500명 드론 운용",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "무안타 이정후의 안 풀린 하루",
+      "keyword": "트럼프 이란 합의 원해",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "도경완 장윤정 시계 자랑",
-      "state": "n",
-      "change": "0"
+      "keyword": "숙행, 유부남과 키스 재판 결과 내달 발표",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "박위, KTX 낙상 CCTV 사과",
+      "keyword": "한복과 한푸의 차이",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "북한군 8500명 파병",
-      "state": "-",
-      "change": "1"
+      "keyword": "노웅래 무죄 한동훈 책임론",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "비공식 베트남 방문",
+      "keyword": "법률상 실종 성인 15명",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "테슬라 중국서 300만대 리콜",
-      "state": "s",
+      "keyword": "귀신 이현이 집에선",
+      "state": "n",
       "change": "0"
     }
   ]
