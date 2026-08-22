@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-22T07:40:47.328Z",
+  "updatedAt": "2026-08-22T08:02:06.078Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "신랑",
+      "keyword": "오싹한 연애",
       "traffic": "500+"
     },
     {
       "rank": 2,
+      "keyword": "신랑",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
       "keyword": "골드뱅킹",
       "traffic": "500+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "사장님 귀는 당나귀 귀",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "야마모토 요시노부",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "명진스님",
       "traffic": "500+"
     },
     {
-      "rank": 6,
-      "keyword": "추석 민생지원금",
-      "traffic": "2000+"
-    },
-    {
       "rank": 7,
-      "keyword": "고우석",
-      "traffic": "500+"
+      "keyword": "추석 민생지원금",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
+      "keyword": "고우석",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 9,
       "keyword": "south korea",
       "traffic": "200+"
     },
     {
-      "rank": 9,
-      "keyword": "루이스 홀",
-      "traffic": "100+"
-    },
-    {
       "rank": 10,
-      "keyword": "오타니 쇼헤이",
-      "traffic": "500+"
+      "keyword": "루이스 홀",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "명진스님 제주서 입적",
-      "state": "+",
-      "change": "1"
+      "keyword": "봉은사 명진스님 입적",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
       "keyword": "김영배 서울시당위원장 오세훈",
-      "state": "-",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "설종진 감독 이야기",
-      "state": "n",
+      "keyword": "설종진 감독 생각 중",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "하영 증조부 친일 재산 논란",
-      "state": "-",
-      "change": "2"
+      "keyword": "팬스타 아크로호 북극항로 운항",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "팬스타 아크로호 북극항로 시범운항",
+      "keyword": "李대통령 청와대 오찬",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "도경완 급성 골수염 수술 고백",
-      "state": "n",
-      "change": "0"
+      "keyword": "광교 도마뱀 11일 만에 포획",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "미·캐나다 50% 관세",
+      "keyword": "하영 증조부 친일 재산 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "광교 도심 도마뱀 11일 만에 포획",
+      "keyword": "앤트로픽 2조달러 IPO 추진",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "韓 축구 0명 탈출!",
+      "keyword": "평양 명품 매장 증가",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이정후 눈앞 통산 1호",
+      "keyword": "트럼프 호르무즈해협 이란",
       "state": "n",
       "change": "0"
     }
