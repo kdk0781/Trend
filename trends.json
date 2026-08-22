@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-22T22:13:05.626Z",
+  "updatedAt": "2026-08-22T22:40:22.018Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "집중호우",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
+      "keyword": "백하나",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "인공지능",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "해리 케인",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
       "keyword": "안세영",
       "traffic": "2000+"
     },
     {
-      "rank": 2,
-      "keyword": "아파트",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "방탄소년단",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "투자",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "pba 팀리그",
-      "traffic": "100+"
-    },
-    {
       "rank": 6,
-      "keyword": "오동운",
-      "traffic": "200+"
+      "keyword": "방탄소년단",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "이가 시비옹테크",
-      "traffic": "500+"
+      "keyword": "이준영",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "서승재",
+      "keyword": "투자",
       "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "오세훈",
+      "keyword": "아파트",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "김경문",
-      "traffic": "200+"
+      "keyword": "pba 팀리그",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "대세 변우석-박지훈, 꽃파당 관전 포인트",
-      "state": "s",
-      "change": "0"
+      "keyword": "안세영, 왕즈이 꺾고 결승 진출",
+      "state": "+",
+      "change": "15"
     },
     {
       "rank": 2,
-      "keyword": "BC카드 챔피언십 3라운드 순위 상승",
-      "state": "n",
-      "change": "0"
+      "keyword": "인터뷰하는 이중근 대한노인회장",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 3,
-      "keyword": "2026년 8월 23일 운세",
-      "state": "s",
-      "change": "0"
+      "keyword": "김동완, 박위 논란 소신",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "우지원 딸 우서윤 미스코리아 진",
-      "state": "s",
-      "change": "0"
+      "keyword": "태풍 동시 발생",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "김동완 박위 논란 소신 발언",
-      "state": "+",
-      "change": "10"
+      "keyword": "변우석 박지훈 꽃파당 포인트",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 6,
-      "keyword": "18·19·20호 태풍 동시 발생",
-      "state": "+",
-      "change": "1"
+      "keyword": "2026년 8월 23일 운세",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "인터뷰하는 이중근 대한노인회장",
+      "keyword": "오싹한 연애",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "안세영, 왕즈이 제압! 결승 진출",
-      "state": "+",
-      "change": "2"
+      "keyword": "베트남, 태국 2-0 승리",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "오싹한 연애",
+      "keyword": "BC카드 한경 챔피언십 3라운드",
       "state": "-",
-      "change": "1"
+      "change": "7"
     },
     {
       "rank": 10,
-      "keyword": "이휘향, 조폭 출신 남편과 결혼 결심",
-      "state": "-",
-      "change": "5"
+      "keyword": "이휘향, 조폭 남편과의 육아생활",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
