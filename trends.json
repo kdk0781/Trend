@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-22T11:25:01.363Z",
+  "updatedAt": "2026-08-22T11:42:15.929Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "헐 시티 대 맨유",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "상장지수 펀드",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
       "keyword": "lck 2026",
       "traffic": "100+"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "keyword": "천안시티 대 수원",
       "traffic": "1000+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "기상",
       "traffic": "2000+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "안우진",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "xsmn",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "부천 대 포항",
-      "traffic": "1000+"
+      "traffic": "2000+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "제주 대 김천상무",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "창원시",
       "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "안양 대 fc 서울",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "전북 대 울산",
-      "traffic": "5000+"
     }
   ],
   "domestic": [
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "명진스님 입적 사고 발생",
-      "state": "+",
-      "change": "1"
+      "keyword": "서교림 3R 1위",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "BC카드 KLPGA 3라운드",
-      "state": "-",
-      "change": "1"
+      "keyword": "대청도 생홍어 맛집 탐방",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "서울 김기동 감독 연고지 더비 각오",
+      "keyword": "김민석 90도 인사 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "놀면 뭐하니",
+      "keyword": "손태진, 노래하며 결혼 생각 중",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "19호 태풍 정체 예상",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "미인대회 왕관 박탈과 결혼 이력",
+      "keyword": "홍현희 10KG 감량 퍼레이드",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "놀면 뭐하니",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 8,
-      "keyword": "美 미인대회 우승 일주일 후 왕관 박탈",
+      "keyword": "미인대회 뺑소니 이력 밝혀져",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "여수 화력발전소 화재 진화 지연",
+      "keyword": "박명수 드디어 노홍철 만났다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "KIA 올러 승리 이끈다",
+      "keyword": "KIA 올러 1실점",
       "state": "n",
       "change": "0"
     }
