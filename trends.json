@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-21T23:54:02.680Z",
+  "updatedAt": "2026-08-22T00:45:17.518Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "재정",
-      "traffic": "200+"
+      "keyword": "대치동은마아파트",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "베트남 축구 국가대표팀",
+      "keyword": "독소",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "김준호",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "유세리",
+      "keyword": "학대",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "미인 대회",
+      "traffic": "100+"
+    },
+    {
       "rank": 5,
-      "keyword": "thứ hạng của arsenal gặp câu lạc bộ bóng đá coventry city",
+      "keyword": "앱솔 릭스",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "염증",
-      "traffic": "5000+"
+      "keyword": "이진우",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "수도권 광역급행철도 c노선",
+      "keyword": "안성재",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "김요한",
-      "traffic": "500+"
+      "keyword": "무궁화호",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "국내총생산",
-      "traffic": "500+"
+      "keyword": "나는 solo",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "치맥",
-      "traffic": "200+"
+      "keyword": "재정",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "폭염과 폭우 뒤 슈퍼태풍 경고",
-      "state": "s",
-      "change": "0"
+      "keyword": "테슬라, 中서 300만대 리콜",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "테슬라 300만대 리콜",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "BC카드 KLPGA 2라운드 마무리",
+      "keyword": "KLPGA 2라운드 결과",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "공효진 유부녀 킬러 1위 행진",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 4,
-      "keyword": "박위 낙상사고 사과",
+      "keyword": "트럼프 쇠고기 관세 반발",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "낮 최고 34도 무더위 계속",
-      "state": "+",
-      "change": "2"
+      "keyword": "비비 워터밤 선정성 사람",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "정선희 오열 전쟁 느껴져",
+      "keyword": "박위, 낙상 CCTV 공개 사과",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "2만원대 하이닉스 잭팟",
+      "keyword": "전국 무더위 지속",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김정은과 10억 남편",
+      "keyword": "우크라 쇼핑몰 드론공습 15명 사망",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "뉴욕증시 저가 매수에 반등",
-      "state": "-",
-      "change": "5"
+      "keyword": "안재환 빚에 힘든 정선희",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "러시아 쇼핑몰 드론 공습",
+      "keyword": "승리 후덕해진 베트남",
       "state": "n",
       "change": "0"
     }
