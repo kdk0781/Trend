@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-22T05:51:04.526Z",
+  "updatedAt": "2026-08-22T06:24:43.690Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "아시아나항공",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "이의리",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "트럼프",
+      "keyword": "집",
       "traffic": "1000+"
     },
     {
+      "rank": 2,
+      "keyword": "코인니스",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "유방녕",
+      "traffic": "100+"
+    },
+    {
       "rank": 4,
-      "keyword": "티 프로스",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "박보경",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "기상청",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "서울대학교 관악캠퍼스",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "강남",
+      "keyword": "임요환",
       "traffic": "200+"
     },
     {
+      "rank": 5,
+      "keyword": "골드만삭스",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "김대호",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "아시아나항공",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "이의리",
+      "traffic": "1000+"
+    },
+    {
       "rank": 9,
-      "keyword": "일론 머스크",
-      "traffic": "500+"
+      "keyword": "티 프로스",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "공대공 미사일",
-      "traffic": "2000+"
+      "keyword": "트럼프",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "미·캐나다 결렬 50% 관세",
-      "state": "n",
+      "keyword": "미·캐나다 50% 관세 발효",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "메시, 상대 가격해 벌금 징계",
+      "keyword": "메시, 상대 선수 벌금 징계",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "11일 만에 도마뱀 포획",
-      "state": "+",
-      "change": "1"
+      "keyword": "김재중 18년 만에 뮤직뱅크 출연",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "28일 청와대 오찬",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "강소휘 베트남 3-1 승리",
+      "keyword": "하영 증조부 2700평 환수 논란",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "28일 민주당 오찬",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 6,
-      "keyword": "홍준표 노웅래 한동훈은",
+      "keyword": "광교 도마뱀 11일 만에 포획",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "호르무즈해협 미국 영토",
+      "keyword": "강소휘 20점 베트남 제압",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "비비, 워터밤 논란 후 소신 돈 냈다.",
+      "keyword": "열창하는 초등부 공연",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "임요환 6살 차이 장인",
+      "keyword": "김영배 서울시당위원장 브리핑",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "75개국 이민 비자 제동",
+      "keyword": "트럼프, 이란 합의 원해",
       "state": "n",
       "change": "0"
     }
