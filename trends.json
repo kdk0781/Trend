@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-22T19:53:22.130Z",
+  "updatedAt": "2026-08-22T20:13:08.092Z",
   "google": [
     {
       "rank": 1,
       "keyword": "편의점",
-      "traffic": "500+"
+      "traffic": "1000+"
     },
     {
       "rank": 2,
@@ -13,17 +13,17 @@
     },
     {
       "rank": 3,
+      "keyword": "tottenham",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
       "keyword": "브렌트포드",
       "traffic": "100+"
     },
     {
-      "rank": 4,
-      "keyword": "바이에른 뮌헨",
-      "traffic": "100+"
-    },
-    {
       "rank": 5,
-      "keyword": "인테르",
+      "keyword": "바이에른 뮌헨",
       "traffic": "100+"
     },
     {
@@ -33,13 +33,13 @@
     },
     {
       "rank": 7,
-      "keyword": "laliga",
+      "keyword": "인테르",
       "traffic": "100+"
     },
     {
       "rank": 8,
       "keyword": "일본 지진",
-      "traffic": "2000+"
+      "traffic": "1000+"
     },
     {
       "rank": 9,
@@ -48,70 +48,70 @@
     },
     {
       "rank": 10,
-      "keyword": "brentford vs spurs",
-      "traffic": "200+"
+      "keyword": "지진",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "우지원 딸, 미스코리아 진 됐다.",
-      "state": "s",
-      "change": "0"
+      "keyword": "1238회 로또 1등 23명 11억씩",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "1238회 로또 1등 번호와 당첨금",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "BC카드 챔피언십 3라운드",
+      "keyword": "BC카드 KLPGA 3라운드 성적",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "우지원 딸 서윤 미스코리아 진",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 4,
-      "keyword": "서울, 안양 7-0 대승!",
+      "keyword": "에너지의 날 소등행사",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "에너지의 날 소등행사",
-      "state": "+",
-      "change": "2"
+      "keyword": "안우진 완벽투, KIA 5연패 탈출!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "KIA, 7연승 실패! 키움 5연패 탈출!",
+      "keyword": "서울, 안양 7-0 대승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "박위 CCTV 논란 악플 세례",
-      "state": "+",
-      "change": "2"
+      "keyword": "박위 CCTV 논란 주의하세요.",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김형준 역전 홈런",
+      "keyword": "오싹한 연애",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "2026년 8월 23일 운세",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "오싹한 연애",
-      "state": "-",
-      "change": "5"
-    },
-    {
       "rank": 10,
-      "keyword": "18·19·20호 태풍 동시에 발생",
-      "state": "+",
-      "change": "5"
+      "keyword": "태풍 경로 주목",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
