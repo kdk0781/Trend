@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-22T22:59:49.568Z",
+  "updatedAt": "2026-08-22T23:24:08.112Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "킬리안 음바페",
-      "traffic": "200+"
+      "keyword": "국가유공자",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "축구 감독",
-      "traffic": "500+"
+      "keyword": "왕 즈이",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "집중호우",
+      "keyword": "여수시",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "백하나",
+      "keyword": "김영옥",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "인공지능",
+      "keyword": "킬리안 음바페",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "해리 케인",
-      "traffic": "200+"
+      "keyword": "모병제",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "안세영",
-      "traffic": "2000+"
+      "keyword": "축구 감독",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "방탄소년단",
-      "traffic": "1000+"
+      "keyword": "집중호우",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "이준영",
+      "keyword": "인공지능",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "투자",
-      "traffic": "1000+"
+      "keyword": "백하나",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "안세영, 왕즈이 꺾고 결승 진출",
+      "keyword": "안세영, 세계선수권 결승 상대 야마구치",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "지진 발생 정보",
+      "keyword": "태풍 사우델, 한반도 날씨 영향",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "인터뷰하는 이중근 대한노인회장",
+      "state": "+",
+      "change": "11"
+    },
+    {
+      "rank": 4,
+      "keyword": "우지원 딸 서윤, 미스코리아 진 당선",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "우지원 딸 서윤, 미스코리아 당선",
+      "rank": 5,
+      "keyword": "오싹한 연애",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "김동완 박위 논란 소신은 무엇?",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "오싹한 연애",
-      "state": "+",
-      "change": "2"
-    },
-    {
       "rank": 6,
-      "keyword": "인터뷰하는 이중근 대한노인회장",
-      "state": "-",
+      "keyword": "김동완 박위 지지했다 악플 세례",
+      "state": "+",
       "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "변우석 박지훈, 꽃파당 관전 포인트",
-      "state": "-",
-      "change": "2"
+      "keyword": "이란 제재 동참 적경고",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "사랑이 온다 OST 손태진 발표",
+      "keyword": "이휘향, 역할 아니면 일반인으로",
       "state": "+",
-      "change": "3"
+      "change": "8"
     },
     {
       "rank": 9,
-      "keyword": "2026년 8월 23일 운세",
+      "keyword": "꽃파당 관전 포인트",
       "state": "-",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "악역 대가 이휘향 은퇴 고민",
-      "state": "s",
+      "keyword": "서인영의 바디슈트 워터밤",
+      "state": "n",
       "change": "0"
     }
   ]
