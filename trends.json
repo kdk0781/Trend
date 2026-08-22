@@ -1,69 +1,69 @@
 {
-  "updatedAt": "2026-08-22T08:42:15.339Z",
+  "updatedAt": "2026-08-22T09:04:34.131Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "mlb",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
+      "keyword": "박재현",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
       "keyword": "해군사관학교",
       "traffic": "1000+"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "keyword": "엔비디아",
       "traffic": "1000+"
     },
     {
-      "rank": 3,
-      "keyword": "초과근무",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "송치",
-      "traffic": "200+"
-    },
-    {
       "rank": 5,
-      "keyword": "오싹한 연애",
+      "keyword": "초과근무",
       "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "신랑",
-      "traffic": "1000+"
+      "keyword": "송치",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "골드뱅킹",
+      "keyword": "오싹한 연애",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "사장님 귀는 당나귀 귀",
-      "traffic": "1000+"
+      "keyword": "신랑",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "야마모토 요시노부",
-      "traffic": "100+"
+      "keyword": "골드뱅킹",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "명진스님",
+      "keyword": "사장님 귀는 당나귀 귀",
       "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "우천으로 취소된 경기 추후 편성",
-      "state": "+",
-      "change": "1"
+      "keyword": "우천 취소 경기 재편성",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "봉은사 명진스님 입적",
-      "state": "-",
-      "change": "1"
+      "keyword": "제주 실종여성 가족에 장난전화 10대",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 3,
@@ -73,43 +73,43 @@
     },
     {
       "rank": 4,
-      "keyword": "북극항로 시범운항 아크로호",
-      "state": "n",
+      "keyword": "팬스타 아크로호 북극항로 운항",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "제주 실종자 가족 괴롭힌 10대 검거",
+      "keyword": "열창하는 대학 일반부 노래 목록",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 6,
+      "keyword": "설종진 감독의 다양한 모습",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "김영배 용산공원 1CM도",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "설종진 감독과의 순간",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "李대통령과 오찬 참석 예상",
-      "state": "+",
-      "change": "3"
-    },
-    {
       "rank": 8,
-      "keyword": "결렬 50% 관세",
+      "keyword": "김지수 브렌트포드 1군 합류!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "열창하는 대학·일반부 공연",
+      "keyword": "내년부터 노동절에 휴일대체",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "고지용 이혼 허양임",
+      "keyword": "미, 캐나다 200억 관세",
       "state": "n",
       "change": "0"
     }
