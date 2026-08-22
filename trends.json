@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-22T17:30:43.785Z",
+  "updatedAt": "2026-08-22T17:53:03.194Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "로베르토 데 제르비",
+      "keyword": "brentford vs spurs",
       "traffic": "100+"
     },
     {
       "rank": 2,
+      "keyword": "k뷰티",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "유영우",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "로베르토 데 제르비",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
       "keyword": "토트넘",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "keyword": "최홍만",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "keyword": "블리치",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "타짜",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "청소업체",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "keyword": "우 서윤",
       "traffic": "10000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "고레츠카",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "정재환",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "챔피언십",
-      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "BC카드 KLPGA 3라운드 요약",
+      "keyword": "제주 경찰관 긴급체포",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 2,
+      "keyword": "KLPGA 챔피언십 3라운드 성적",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 2,
-      "keyword": "제주 경찰관 긴급체포",
+      "rank": 3,
+      "keyword": "우지원 딸 서윤, 미스코리아 진",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "우서윤, 미스코리아 진 됐다.",
-      "state": "+",
-      "change": "3"
-    },
-    {
       "rank": 4,
-      "keyword": "서울, 안양 7-0 대승",
+      "keyword": "안양 연고지 더비 0-7 패배",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "1238회 로또 1등 23명 각 11억",
-      "state": "+",
-      "change": "2"
+      "keyword": "1238회 로또 1등 당첨 번호",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "하윤경의 혼술 도전",
-      "state": "-",
-      "change": "2"
+      "keyword": "KIA 7연승 무산",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "떡잎부터 남다른 꽃파당 포인트",
-      "state": "-",
-      "change": "4"
+      "keyword": "김형준 역전 홈런",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김태훈 역전 홈런",
+      "keyword": "롯데월드 소등행사 참여",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "KIA 7연승 저지, 키움 탈출",
+      "keyword": "김동완 박위 논란 소신",
       "state": "+",
-      "change": "3"
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "롯데월드타워 10분 소등참여",
-      "state": "s",
+      "keyword": "봉은사 주지 지낸 입적",
+      "state": "n",
       "change": "0"
     }
   ]
