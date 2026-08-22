@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-22T12:40:55.666Z",
+  "updatedAt": "2026-08-22T13:19:31.266Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "쿠팡플레이",
-      "traffic": "5000+"
+      "keyword": "태국 대 베트남",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "투수",
-      "traffic": "500+"
+      "keyword": "헐시티 맨유",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "xsmb",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "안산 그리너스 대 성남",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "미국 상품거래위원회",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "원종해",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "김용필",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "hull vs man united",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "hull city đấu với man utd",
+      "keyword": "경장",
       "traffic": "500+"
     },
     {
-      "rank": 10,
-      "keyword": "김영웅",
+      "rank": 4,
+      "keyword": "ดูบอลสด",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "이란",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "로또1238",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "fotmob",
       "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "버밍엄 대 브리스틀 시티",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "해외축구",
+      "traffic": "200+"
+    },
+    {
+      "rank": 10,
+      "keyword": "투수",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "손태진 사랑이 온다 OST 발표",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "김형준 역전 홈런",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "1238회 로또 1등 23명",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 3,
-      "keyword": "김광규 결혼 포기 선언",
-      "state": "n",
-      "change": "0"
+      "keyword": "김형준 역전 홈런",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "1238회 로또 1등 번호 2, 13, 18, 32, 38, 42",
+      "keyword": "오싹한 연애",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "KIA 연승 종료, 키움 5연패 탈출",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "김민석 90도 인사 논란 해결",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "대청도 자연의 맛",
+      "keyword": "제주 경찰관 긴급체포",
       "state": "-",
       "change": "2"
     },
     {
+      "rank": 6,
+      "keyword": "KIA 연승 중단, 키움 5연패 탈출",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "안세영, 세계선수권 두 번째 우승 도전",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "안세영, 한웨 완파하고 우승 한 걸음!",
+      "keyword": "대청도 자연의 맛",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "그것이 알고 싶다",
+      "keyword": "김민석 90도 인사법 개정 필요",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "송지은 SNS 악플 세례",
-      "state": "n",
-      "change": "0"
+      "keyword": "그것이 알고 싶다",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
