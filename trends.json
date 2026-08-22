@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-22T02:05:01.361Z",
+  "updatedAt": "2026-08-22T03:03:10.580Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "금값",
+      "keyword": "테니스",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "김병지",
-      "traffic": "200+"
+      "keyword": "살해",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "안재환",
+      "keyword": "비트코인",
       "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "경복궁",
-      "traffic": "1000+"
+      "keyword": "supreme",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "일본 엔",
-      "traffic": "500+"
+      "keyword": "휴머노이드",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "오동운",
+      "keyword": "논설위원",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "ban vs aus",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "강원도민일보",
+      "keyword": "홍혜걸",
       "traffic": "100+"
     },
     {
+      "rank": 8,
+      "keyword": "금값",
+      "traffic": "1000+"
+    },
+    {
       "rank": 9,
-      "keyword": "한국마사회",
-      "traffic": "200+"
+      "keyword": "김병지",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "bangladesh vs australia",
-      "traffic": "500+"
+      "keyword": "어벤져스: 엔드게임",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "소녀시대 효리수 31일",
+      "keyword": "트럼프 이란 합의 원해",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
       "keyword": "파레데스 10경기 출전정지",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 3,
+      "keyword": "박위, CCTV 공개 후 사과",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "테슬라 300만대 리콜",
-      "state": "s",
+      "rank": 4,
+      "keyword": "북한군 8500명 파병",
+      "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "임성재 PGA 공동 4위",
+      "rank": 5,
+      "keyword": "임성재 공동 4위 확보",
       "state": "-",
       "change": "2"
     },
     {
-      "rank": 5,
-      "keyword": "전국 곳곳 소나기 온다",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 6,
-      "keyword": "비비, 선정성 논란 후 소신 즐겨요",
+      "keyword": "NCT 드림 10주년 팬미팅",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "승리, 후덕한 근황",
+      "keyword": "후덕해진 승리 베트남 방문",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "박위, CCTV 공개 후 사과 생각 짧았다",
+      "keyword": "비비, 논란 후 소신 발언",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "트럼프 이란 합의 원해",
+      "keyword": "테슬라 중국 300만대 리콜",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이강인 시민권 검토",
+      "keyword": "캣츠아이 앨범 2위 쾌거",
       "state": "n",
       "change": "0"
     }
