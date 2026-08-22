@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-22T09:54:38.296Z",
+  "updatedAt": "2026-08-22T10:14:14.899Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "경비원",
+      "keyword": "예산",
       "traffic": "500+"
     },
     {
       "rank": 2,
+      "keyword": "인천e음",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "리벨리온",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "경비원",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
       "keyword": "도지",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "keyword": "대전광역시",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "keyword": "원태인",
       "traffic": "200+"
     },
     {
-      "rank": 5,
-      "keyword": "베를린",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
+      "rank": 8,
       "keyword": "참교육",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "로카르노 영화제",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "버크셔 해서웨이",
-      "traffic": "200+"
-    },
-    {
       "rank": 9,
-      "keyword": "박신혜",
+      "keyword": "베를린",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "카자흐스탄",
+      "keyword": "로카르노 영화제",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "우천 취소 추후 편성",
+      "keyword": "우천 취소 후 편성",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "제주 실종자 가족 10대 장난전화",
+      "keyword": "제주 실종자 가족에 장난전화 10대",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
       "keyword": "하영 증조부 친일 재산 조사",
-      "state": "-",
-      "change": "2"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "명진스님 입적, 향년 76세",
-      "state": "+",
-      "change": "1"
+      "keyword": "명진스님 사고 입적",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "열창하는 대학 일반부 공연",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "BC카드 챔피언십 3라운드",
+      "keyword": "BC카드 KLPGA 3라운드 진행",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "열창하는 대학 일반부",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "민주당 의원 청와대 오찬",
+      "keyword": "대통령과 민주당 오찬",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이휘향이 박신혜에게 미안해",
+      "keyword": "앤트로픽 2조 IPO 도전",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "손태진 사랑이 온다 OST 발표",
-      "state": "-",
-      "change": "1"
+      "keyword": "강다니엘 7억 손배소 승소",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "스페이스X 몸값 2조 IPO 추진",
+      "keyword": "광교 도심 도마뱀 11일 만에 포획",
       "state": "n",
       "change": "0"
     }
