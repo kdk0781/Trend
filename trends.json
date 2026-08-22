@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-08-22T18:16:49.555Z",
+  "updatedAt": "2026-08-22T18:50:48.870Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "일본 지진",
-      "traffic": "2000+"
+      "keyword": "레알마드리드",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "地震",
-      "traffic": "200+"
+      "keyword": "일본 지진",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "brentford vs spurs",
-      "traffic": "200+"
+      "keyword": "지진",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "박지원",
+      "keyword": "地震",
       "traffic": "200+"
     },
     {
@@ -33,83 +33,83 @@
     },
     {
       "rank": 7,
-      "keyword": "로베르토 데 제르비",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
       "keyword": "토트넘",
       "traffic": "2000+"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "keyword": "최홍만",
       "traffic": "200+"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "keyword": "블리치",
-      "traffic": "200+"
+      "traffic": "500+"
+    },
+    {
+      "rank": 10,
+      "keyword": "타짜",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "제주 경찰관 긴급체포",
-      "state": "s",
-      "change": "0"
+      "keyword": "변우석 박지훈 떡잎부터 남달랐다",
+      "state": "+",
+      "change": "27"
     },
     {
       "rank": 2,
-      "keyword": "KLPGA 챔피언십 3라운드",
-      "state": "s",
-      "change": "0"
+      "keyword": "하윤경, 국밥집 혼술 즐겨",
+      "state": "+",
+      "change": "25"
     },
     {
       "rank": 3,
-      "keyword": "우서윤, 미스코리아 진!",
+      "keyword": "안세영, 왕즈이 꺾고 결승 진출",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "1238회 로또 1등 23명 당첨",
-      "state": "+",
-      "change": "1"
+      "keyword": "제주 경찰관 긴급체포",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "안양 연고지 더비 대패",
+      "keyword": "우지원 딸 우서윤 미스코리아 진",
       "state": "-",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "안우진 완벽투로 KIA 5연패 탈출!",
-      "state": "n",
-      "change": "0"
+      "keyword": "BC카드 KLPGA 3라운드 결과",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "롯데타워 소등행사 참여",
-      "state": "n",
-      "change": "0"
+      "keyword": "박위 CCTV 논란 악플 세례",
+      "state": "+",
+      "change": "49"
     },
     {
       "rank": 8,
-      "keyword": "김형준 역전 홈런",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "김동완 박위 소신 논란",
+      "keyword": "서울 7-0 안양 대승!",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "김형준 역전 홈런",
+      "state": "-",
+      "change": "3"
+    },
+    {
       "rank": 10,
-      "keyword": "높이뛰기 2Ｍ16 실패",
+      "keyword": "처서에도 태풍 발생",
       "state": "n",
       "change": "0"
     }
