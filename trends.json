@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-22T15:52:51.338Z",
+  "updatedAt": "2026-08-22T16:13:51.205Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "블리치",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
+      "keyword": "giải vô địch đná",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "청소업체",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
       "keyword": "우 서윤",
       "traffic": "5000+"
     },
     {
-      "rank": 2,
+      "rank": 5,
       "keyword": "고레츠카",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "keyword": "정재환",
       "traffic": "2000+"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "keyword": "챔피언십",
       "traffic": "5000+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "공항",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "도경완",
       "traffic": "2000+"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "keyword": "꽃파당",
       "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "thailand vs vietnam",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "kick",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "삼성라이온즈",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "변우석 박지훈 꽃파당 포인트",
+      "keyword": "꽃파당 관전 포인트 공개",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "BC카드 KLPGA 3라운드 결과",
+      "keyword": "KLPGA 챔피언십 3라운드 성적",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
       "keyword": "제주 경찰관 긴급체포",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "우지원 딸 서윤, 미스코리아 됐다.",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "오싹한 연애",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "우천 취소 후 재편성",
+      "rank": 4,
+      "keyword": "하윤경의 국밥 혼술",
       "state": "+",
-      "change": "1"
+      "change": "5"
+    },
+    {
+      "rank": 5,
+      "keyword": "안세영, 세계선수권 결승 진출",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "우서윤 미스코리아 진",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 7,
-      "keyword": "안세영, 왕즈이와 4강 혈투 24-22 승리!",
-      "state": "+",
+      "keyword": "우천 취소 후 재편성",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "이휘향, 박신혜 따귀에 미안해",
+      "keyword": "오싹한 연애",
       "state": "-",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "하윤경의 국밥 혼술 이야기",
+      "keyword": "로또 1등 번호 2, 13, 18, 32, 38, 42",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "열창하는 대학 일반부 노래들",
+      "keyword": "서울, 안양 격돌 대파 7-0 승리",
       "state": "n",
       "change": "0"
     }
