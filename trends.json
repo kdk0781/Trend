@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-22T04:23:42.089Z",
+  "updatedAt": "2026-08-22T04:57:27.477Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "놀면 뭐하니?",
-      "traffic": "500+"
+      "keyword": "오늘 날씨",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "당구",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "공대공 미사일",
+      "keyword": "강남",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "일론 머스크",
+      "traffic": "500+"
+    },
+    {
       "rank": 4,
-      "keyword": "무덤",
+      "keyword": "놀면 뭐하니?",
       "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "박지현",
-      "traffic": "200+"
+      "keyword": "공대공 미사일",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
+      "keyword": "당구",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "무덤",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
       "keyword": "분사기",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "특별재난지역",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "승리",
-      "traffic": "5000+"
-    },
-    {
       "rank": 9,
-      "keyword": "스위스",
-      "traffic": "100+"
+      "keyword": "박지현",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "xrp",
+      "keyword": "특별재난지역",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "KGM 연합 런 화이팅!",
+      "keyword": "크루 연합 런 화이팅!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이정후 무안타와 수비 실수",
+      "keyword": "박위, 낙상 CCTV 삭제 및 사과",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "미스터 서와 조, 7기 옥순 쟁탈전",
+      "keyword": "광교서 도마뱀 11일 만에 포획",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "우크라 러 북한군 8500명 드론 운용",
+      "keyword": "노웅래 한동훈은 조선제일껌",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "트럼프 이란 합의 원해",
+      "keyword": "미국 영토 이란 합의 필요",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "숙행, 유부남과 키스 재판 결과 내달 발표",
-      "state": "+",
-      "change": "3"
+      "keyword": "이정후 침묵의 실수",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "한복과 한푸의 차이",
-      "state": "n",
+      "keyword": "한복은 한푸가 아니다",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "노웅래 무죄 한동훈 책임론",
-      "state": "n",
-      "change": "0"
+      "keyword": "숙행, 유부남 상간녀 재판 결과 기다린다",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "법률상 실종 성인 15명",
+      "keyword": "베트남 행사 승리 포착",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "귀신 이현이 집에선",
+      "keyword": "채연 속옷 논란 노이즈",
       "state": "n",
       "change": "0"
     }
