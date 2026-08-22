@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-22T10:42:04.320Z",
+  "updatedAt": "2026-08-22T11:00:13.047Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "xsmn",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
+      "keyword": "부천 대 포항",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "제주 대 김천상무",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "창원시",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
       "keyword": "전북 대 울산",
       "traffic": "5000+"
     },
     {
-      "rank": 2,
+      "rank": 6,
       "keyword": "안양 대 fc 서울",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
+      "rank": 7,
       "keyword": "대한민국 방위사업청",
-      "traffic": "100+"
+      "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 8,
       "keyword": "qld",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "keyword": "예산",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 10,
       "keyword": "인천e음",
       "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "리벨리온",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "경비원",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "도지",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "대전광역시",
-      "traffic": "500+"
     }
   ],
   "domestic": [
