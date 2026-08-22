@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-22T13:47:07.273Z",
+  "updatedAt": "2026-08-22T14:00:44.862Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "실종자",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "범죄",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
       "keyword": "우서윤",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "keyword": "thái lan đấu với việt nam",
-      "traffic": "500+"
+      "traffic": "2000+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "lotto result 6/45",
       "traffic": "100+"
     },
     {
-      "rank": 4,
-      "keyword": "래시포드",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "keyword": "폐암",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "keyword": "래시포드",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
       "keyword": "태국 대 베트남",
       "traffic": "2000+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "맨유 경기",
       "traffic": "500+"
     },
     {
-      "rank": 8,
-      "keyword": "경장",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "keyword": "ดูบอลสด",
       "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "이란",
-      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "손태진, 사랑이 온다 OST 발표",
-      "state": "s",
-      "change": "0"
+      "keyword": "우서윤, 미스코리아 진 됐다",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "박위 KTX 낙상 논란",
-      "state": "n",
+      "keyword": "박위 KTX 사과 논란",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "트럼프 호르무즈 미국 영토 이란 압박",
-      "state": "s",
+      "keyword": "제주 실종자 가족에 장난전화 10대 검거",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "제주 경찰관 긴급체포",
-      "state": "-",
-      "change": "3"
+      "keyword": "오싹한 연애",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "오싹한 연애",
-      "state": "+",
-      "change": "2"
+      "keyword": "서울, 안양에 7-0 대승!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "KIA 7연승 무산, 키움 5연패 탈출!",
+      "keyword": "트럼프 호르무즈 이란 합의 준비",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김태훈 역전 홈런",
+      "keyword": "김지수 브렌트포드 합류!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "캐리비안베이 탈의실 몰카 20대",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "김민석, 90도 인사 논란",
+      "keyword": "이휘향, 악역 고민 중",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "안세영 세계선수권 두 번째 우승",
+      "rank": 9,
+      "keyword": "안세영, 세계선수권 두 번째 우승까지!",
       "state": "+",
-      "change": "3"
+      "change": "1"
+    },
+    {
+      "rank": 10,
+      "keyword": "김민석 90도 인사 논란 다듬을 것",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
