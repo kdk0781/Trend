@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-22T17:53:03.194Z",
+  "updatedAt": "2026-08-22T18:16:49.555Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "brentford vs spurs",
-      "traffic": "100+"
+      "keyword": "일본 지진",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
+      "keyword": "地震",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "brentford vs spurs",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "박지원",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
       "keyword": "k뷰티",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "keyword": "유영우",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "keyword": "로베르토 데 제르비",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "토트넘",
       "traffic": "2000+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "최홍만",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "keyword": "블리치",
       "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "타짜",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "청소업체",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "우 서윤",
-      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "제주 경찰관 긴급체포",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "KLPGA 챔피언십 3라운드 성적",
-      "state": "n",
+      "keyword": "KLPGA 챔피언십 3라운드",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "우지원 딸 서윤, 미스코리아 진",
+      "keyword": "우서윤, 미스코리아 진!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "안양 연고지 더비 0-7 패배",
+      "keyword": "1238회 로또 1등 23명 당첨",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "안양 연고지 더비 대패",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "안우진 완벽투로 KIA 5연패 탈출!",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "1238회 로또 1등 당첨 번호",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "KIA 7연승 무산",
-      "state": "+",
-      "change": "3"
-    },
-    {
       "rank": 7,
-      "keyword": "김형준 역전 홈런",
+      "keyword": "롯데타워 소등행사 참여",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "롯데월드 소등행사 참여",
-      "state": "n",
-      "change": "0"
+      "keyword": "김형준 역전 홈런",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "김동완 박위 논란 소신",
-      "state": "+",
-      "change": "2"
+      "keyword": "김동완 박위 소신 논란",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "봉은사 주지 지낸 입적",
+      "keyword": "높이뛰기 2Ｍ16 실패",
       "state": "n",
       "change": "0"
     }
