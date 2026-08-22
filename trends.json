@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-08-22T04:57:27.477Z",
+  "updatedAt": "2026-08-22T05:24:24.737Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "서울대학교 관악캠퍼스",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
       "keyword": "오늘 날씨",
       "traffic": "2000+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "강남",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "일론 머스크",
       "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "놀면 뭐하니?",
-      "traffic": "1000+"
     },
     {
       "rank": 5,
@@ -28,88 +28,88 @@
     },
     {
       "rank": 6,
+      "keyword": "놀면 뭐하니?",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
       "keyword": "당구",
       "traffic": "2000+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "무덤",
       "traffic": "2000+"
     },
     {
-      "rank": 8,
-      "keyword": "분사기",
-      "traffic": "200+"
-    },
-    {
       "rank": 9,
-      "keyword": "박지현",
-      "traffic": "200+"
+      "keyword": "분사기",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "특별재난지역",
-      "traffic": "100+"
+      "keyword": "박지현",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "크루 연합 런 화이팅!",
+      "keyword": "미·캐나다 협상 결렬, 50% 관세 발효",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "박위, 낙상 CCTV 삭제 및 사과",
+      "keyword": "메시, 상대 선수 때려 벌금 징계",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "광교서 도마뱀 11일 만에 포획",
+      "keyword": "광교 도마뱀 11일 만에 포획",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "노웅래 한동훈은 조선제일껌",
+      "keyword": "KGM 크루 런 화이팅!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "미국 영토 이란 합의 필요",
+      "keyword": "28일 청와대 오찬",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "이정후 침묵의 실수",
+      "keyword": "한복과 한푸는 다르다",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 7,
+      "keyword": "채연 속옷 논란 노이즈 마케팅",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 8,
+      "keyword": "트럼프 이란 합의 필요",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "한복은 한푸가 아니다",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "숙행, 유부남 상간녀 재판 결과 기다린다",
-      "state": "-",
-      "change": "2"
-    },
-    {
       "rank": 9,
-      "keyword": "베트남 행사 승리 포착",
+      "keyword": "제주 실종 성인 15명",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "채연 속옷 논란 노이즈",
+      "keyword": "국토부, 고시원 욕조 재검토",
       "state": "n",
       "change": "0"
     }
