@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T16:42:08.235Z",
+  "updatedAt": "2026-08-22T17:00:35.308Z",
   "google": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
     {
       "rank": 2,
       "keyword": "최홍만",
-      "traffic": "5000+"
+      "traffic": "200+"
     },
     {
       "rank": 3,
@@ -55,63 +55,63 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "변우석 박지훈 꽃파당 포인트",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "KLPGA 3라운드 결과",
+      "keyword": "KLPGA 챔피언십 3라운드",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "keyword": "제주 경찰관 긴급체포",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "하윤경의 혼술 국밥집",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "안세영, 세계선수권 결승행!",
+      "rank": 3,
+      "keyword": "변우석 박지훈 꽃파당 관전 포인트",
       "state": "-",
-      "change": "1"
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "하윤경, 국밥 혼술 즐겨요.",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "안세영, 왕즈이 꺾고 결승 진출",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "우지원 딸 우서윤, 미스코리아 진",
+      "keyword": "우지원 딸 서윤, 미스코리아 진!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "연고지 더비 7-0 대패",
-      "state": "n",
-      "change": "0"
+      "keyword": "1238회 로또 1등 23명 당첨",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "1238회 로또 1등 번호는 2, 13, 18, 32, 38, 42",
-      "state": "s",
-      "change": "0"
+      "keyword": "연고지 더비 안양 대패",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "역전 홈런 기쁨",
+      "keyword": "김형준 역전 홈런",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "박위 논란 김동완 등판",
-      "state": "s",
-      "change": "0"
+      "keyword": "롯데월드타워 소등행사 참여",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
