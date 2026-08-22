@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-22T19:16:41.338Z",
+  "updatedAt": "2026-08-22T19:38:50.811Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "바이에른 뮌헨",
+      "keyword": "브렌트포드",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "첼시",
+      "keyword": "바이에른 뮌헨",
       "traffic": "100+"
     },
     {
@@ -18,23 +18,23 @@
     },
     {
       "rank": 4,
+      "keyword": "첼시",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
       "keyword": "레알마드리드",
       "traffic": "200+"
     },
     {
-      "rank": 5,
-      "keyword": "일본 지진",
-      "traffic": "1000+"
-    },
-    {
       "rank": 6,
-      "keyword": "地震",
-      "traffic": "200+"
+      "keyword": "일본 지진",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "지진",
-      "traffic": "1000+"
+      "keyword": "地震",
+      "traffic": "200+"
     },
     {
       "rank": 8,
@@ -43,75 +43,75 @@
     },
     {
       "rank": 9,
-      "keyword": "k뷰티",
+      "keyword": "유영우",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "유영우",
+      "keyword": "k뷰티",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "하윤경, 혼술 즐기다",
+      "keyword": "우서윤, 미스코리아 진 당선",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "우지원 딸 우서윤 미스코리아 진",
+      "keyword": "1238회 로또 1등 번호 2, 13, 18, 32, 38, 42",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "1238회 로또 1등 당첨자 23명",
-      "state": "+",
-      "change": "7"
+      "keyword": "KLPGA 챔피언십 3라운드 성적 요약",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "BC카드 KLPGA 3라운드",
+      "keyword": "오싹한 연애",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "변우석 박지훈 꽃파당 포인트",
-      "state": "-",
-      "change": "4"
+      "keyword": "서울, 안양에 7-0 대승!",
+      "state": "+",
+      "change": "8"
     },
     {
       "rank": 6,
-      "keyword": "안세영, 왕즈이 꺾고 결승 진출",
+      "keyword": "하윤경의 혼술과 내장탕",
+      "state": "-",
+      "change": "5"
+    },
+    {
+      "rank": 7,
+      "keyword": "에너지의 날 소등행사",
       "state": "-",
       "change": "3"
     },
     {
-      "rank": 7,
-      "keyword": "김형준 역전 홈런",
-      "state": "+",
-      "change": "2"
-    },
-    {
       "rank": 8,
-      "keyword": "제주 실종 경찰 긴급체포",
+      "keyword": "안우진 완벽투 KIA 5연패 탈출",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "사랑이 온다 OST 발표",
-      "state": "n",
-      "change": "0"
+      "keyword": "박위 CCTV 논란과 악플",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "박위 CCTV 논란과 악플",
-      "state": "-",
-      "change": "3"
+      "keyword": "김태훈 역전 2점 홈런",
+      "state": "+",
+      "change": "15"
     }
   ]
 }
