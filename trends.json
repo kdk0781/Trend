@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-22T20:41:24.155Z",
+  "updatedAt": "2026-08-22T21:00:57.864Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "오타니",
+      "keyword": "espanyol vs real madrid",
       "traffic": "500+"
     },
     {
@@ -19,99 +19,99 @@
     {
       "rank": 4,
       "keyword": "la liga",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "real madrid",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "tottenham",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "keyword": "브렌트포드",
       "traffic": "100+"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "keyword": "바이에른 뮌헨",
       "traffic": "200+"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "keyword": "인테르",
       "traffic": "100+"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "keyword": "첼시",
       "traffic": "100+"
+    },
+    {
+      "rank": 9,
+      "keyword": "일본 지진",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 10,
+      "keyword": "地震",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "변우석과 박지훈, 꽃파당 관전 포인트",
+      "keyword": "하윤경 혼술 국밥집 방문",
       "state": "+",
-      "change": "4"
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "하윤경, 국밥집에서 혼술 즐겨",
-      "state": "+",
-      "change": "28"
+      "keyword": "BC카드 KLPGA 3라운드 결과",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "BC카드 한경 대회 3라운드 결과",
+      "keyword": "오싹한 연애",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "에너지의 날 소등행사",
+      "keyword": "롯데월드타워 소등 동참",
       "state": "-",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "우서윤 미스코리아 진 당선",
-      "state": "-",
-      "change": "1"
+      "keyword": "우지원 딸 우서윤 미스코리아 진",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "박위 CCTV 논란과 악플 세례",
-      "state": "+",
-      "change": "5"
+      "keyword": "조심하세요, 박위 악플 논란",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "처서 태풍 3개 동시 발생",
-      "state": "+",
-      "change": "4"
+      "keyword": "태풍 18·19·20호 동시에",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "안세영 강력한 결승 진출",
+      "keyword": "변우석 박지훈 꽃파당 포인트",
       "state": "-",
-      "change": "6"
+      "change": "7"
     },
     {
       "rank": 9,
-      "keyword": "서울 7-0 안양 대승",
-      "state": "-",
-      "change": "3"
+      "keyword": "2026년 8월 23일 운세",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "2026년 8월 23일 운세",
+      "keyword": "안세영 왕즈이 세계선수권",
       "state": "-",
-      "change": "3"
+      "change": "7"
     }
   ]
 }
