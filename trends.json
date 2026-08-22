@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-22T18:50:48.870Z",
+  "updatedAt": "2026-08-22T19:16:41.338Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "레알마드리드",
+      "keyword": "바이에른 뮌헨",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "일본 지진",
-      "traffic": "1000+"
+      "keyword": "첼시",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "지진",
-      "traffic": "1000+"
+      "keyword": "인테르",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "地震",
+      "keyword": "레알마드리드",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "k뷰티",
-      "traffic": "100+"
+      "keyword": "일본 지진",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "유영우",
-      "traffic": "100+"
+      "keyword": "地震",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "토트넘",
-      "traffic": "2000+"
+      "keyword": "지진",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "최홍만",
+      "keyword": "brentford vs spurs",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "블리치",
-      "traffic": "500+"
+      "keyword": "k뷰티",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "타짜",
+      "keyword": "유영우",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "변우석 박지훈 떡잎부터 남달랐다",
+      "keyword": "하윤경, 혼술 즐기다",
       "state": "+",
-      "change": "27"
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "하윤경, 국밥집 혼술 즐겨",
+      "keyword": "우지원 딸 우서윤 미스코리아 진",
       "state": "+",
-      "change": "25"
+      "change": "3"
     },
     {
       "rank": 3,
-      "keyword": "안세영, 왕즈이 꺾고 결승 진출",
-      "state": "s",
-      "change": "0"
+      "keyword": "1238회 로또 1등 당첨자 23명",
+      "state": "+",
+      "change": "7"
     },
     {
       "rank": 4,
-      "keyword": "제주 경찰관 긴급체포",
-      "state": "-",
-      "change": "3"
+      "keyword": "BC카드 KLPGA 3라운드",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "우지원 딸 우서윤 미스코리아 진",
+      "keyword": "변우석 박지훈 꽃파당 포인트",
       "state": "-",
-      "change": "3"
+      "change": "4"
     },
     {
       "rank": 6,
-      "keyword": "BC카드 KLPGA 3라운드 결과",
+      "keyword": "안세영, 왕즈이 꺾고 결승 진출",
       "state": "-",
       "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "박위 CCTV 논란 악플 세례",
+      "keyword": "김형준 역전 홈런",
       "state": "+",
-      "change": "49"
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "서울 7-0 안양 대승!",
-      "state": "s",
+      "keyword": "제주 실종 경찰 긴급체포",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김형준 역전 홈런",
-      "state": "-",
-      "change": "3"
+      "keyword": "사랑이 온다 OST 발표",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "처서에도 태풍 발생",
-      "state": "n",
-      "change": "0"
+      "keyword": "박위 CCTV 논란과 악플",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
