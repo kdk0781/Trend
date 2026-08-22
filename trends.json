@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-22T09:04:34.131Z",
+  "updatedAt": "2026-08-22T09:36:12.879Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "mlb",
-      "traffic": "500+"
+      "keyword": "대전광역시",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "박재현",
+      "keyword": "원태인",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "해군사관학교",
-      "traffic": "1000+"
+      "keyword": "베를린",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "엔비디아",
-      "traffic": "1000+"
+      "keyword": "참교육",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "초과근무",
-      "traffic": "1000+"
+      "keyword": "로카르노 영화제",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "송치",
+      "keyword": "버크셔 해서웨이",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "오싹한 연애",
-      "traffic": "1000+"
+      "keyword": "박신혜",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "신랑",
-      "traffic": "2000+"
+      "keyword": "카자흐스탄",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "골드뱅킹",
+      "keyword": "초과 근무",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "사장님 귀는 당나귀 귀",
-      "traffic": "1000+"
+      "keyword": "항공기",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "우천 취소 경기 재편성",
+      "keyword": "우천 취소 추후 편성",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "제주 실종여성 가족에 장난전화 10대",
-      "state": "+",
-      "change": "3"
+      "keyword": "제주 실종 여성 가족에 장난전화 10대 검거",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "하영 증조부 친일 논란 2700평 조사",
-      "state": "n",
+      "keyword": "하영 증조부 친일 재산 논란",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "팬스타 아크로호 북극항로 운항",
-      "state": "s",
-      "change": "0"
+      "keyword": "열창하는 대학부 10인",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "열창하는 대학 일반부 노래 목록",
-      "state": "+",
-      "change": "4"
+      "keyword": "명진스님 프리다이빙 사고로 입적",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "설종진 감독의 다양한 모습",
-      "state": "s",
+      "keyword": "백진희 주식 하락에 속앓이",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
       "keyword": "김영배 용산공원 1CM도",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김지수 브렌트포드 1군 합류!",
+      "keyword": "손태진, 사랑이 온다 OST 발표",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "내년부터 노동절에 휴일대체",
+      "keyword": "앤트로픽 2조 IPO 추진",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "미, 캐나다 200억 관세",
+      "keyword": "KLPGA 3라운드 주목",
       "state": "n",
       "change": "0"
     }
