@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-22T21:00:57.864Z",
+  "updatedAt": "2026-08-22T21:31:04.340Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "espanyol vs real madrid",
+      "keyword": "지상렬",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "편의점",
+      "keyword": "조국",
       "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "에스파뇰 대 레알 마드리드",
-      "traffic": "2000+"
+      "keyword": "브레이브스 대 브루어스",
+      "traffic": "200+"
     },
     {
       "rank": 4,
+      "keyword": "dortmund vs bayern",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "espanyol vs real madrid",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "편의점",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "에스파뇰 대 레알 마드리드",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 8,
       "keyword": "la liga",
       "traffic": "200+"
     },
     {
-      "rank": 5,
-      "keyword": "브렌트포드",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "바이에른 뮌헨",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "인테르",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "첼시",
-      "traffic": "100+"
-    },
-    {
       "rank": 9,
-      "keyword": "일본 지진",
-      "traffic": "2000+"
+      "keyword": "tottenham",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "地震",
-      "traffic": "200+"
+      "keyword": "브렌트포드",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "하윤경 혼술 국밥집 방문",
-      "state": "+",
-      "change": "1"
+      "keyword": "KLPGA 챔피언십 3라운드",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "BC카드 KLPGA 3라운드 결과",
-      "state": "n",
-      "change": "0"
+      "keyword": "2026년 8월 23일 운세",
+      "state": "+",
+      "change": "7"
     },
     {
       "rank": 3,
       "keyword": "오싹한 연애",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "롯데월드타워 소등 동참",
-      "state": "-",
-      "change": "2"
+      "keyword": "우지원 딸 서윤, 미스코리아 진!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "우지원 딸 우서윤 미스코리아 진",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "조심하세요, 박위 악플 논란",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "태풍 18·19·20호 동시에",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "변우석 박지훈 꽃파당 포인트",
-      "state": "-",
-      "change": "7"
-    },
-    {
-      "rank": 9,
-      "keyword": "2026년 8월 23일 운세",
+      "keyword": "김동완, 박위에 소신 발언",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 10,
-      "keyword": "안세영 왕즈이 세계선수권",
+      "rank": 6,
+      "keyword": "18·19·20호 태풍 발효",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "하윤경, 자격증 취득한 대세 배우",
       "state": "-",
-      "change": "7"
+      "change": "6"
+    },
+    {
+      "rank": 8,
+      "keyword": "안세영, 왕즈이 제압 세계선수권 결승행",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "일본 5.9 지진 발생",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "베트남, 결승 2-0 승리",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
