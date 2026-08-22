@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2026-08-22T16:13:51.205Z",
+  "updatedAt": "2026-08-22T16:42:08.235Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "블리치",
-      "traffic": "100+"
+      "keyword": "토트넘",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "giải vô địch đná",
-      "traffic": "200+"
+      "keyword": "최홍만",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
+      "keyword": "블리치",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "타짜",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
       "keyword": "청소업체",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "우 서윤",
-      "traffic": "5000+"
+      "traffic": "10000+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "고레츠카",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "정재환",
       "traffic": "2000+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "챔피언십",
       "traffic": "5000+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "공항",
       "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "도경완",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "꽃파당",
-      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "꽃파당 관전 포인트 공개",
+      "keyword": "변우석 박지훈 꽃파당 포인트",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "KLPGA 챔피언십 3라운드 성적",
+      "keyword": "KLPGA 3라운드 결과",
       "state": "n",
       "change": "0"
     },
@@ -73,44 +73,44 @@
     },
     {
       "rank": 4,
-      "keyword": "하윤경의 국밥 혼술",
+      "keyword": "하윤경의 혼술 국밥집",
       "state": "+",
-      "change": "5"
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "안세영, 세계선수권 결승 진출",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "우서윤 미스코리아 진",
-      "state": "-",
-      "change": "5"
-    },
-    {
-      "rank": 7,
-      "keyword": "우천 취소 후 재편성",
+      "keyword": "안세영, 세계선수권 결승행!",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "우지원 딸 우서윤, 미스코리아 진",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "연고지 더비 7-0 대패",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "오싹한 연애",
-      "state": "-",
-      "change": "3"
+      "keyword": "1238회 로또 1등 번호는 2, 13, 18, 32, 38, 42",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "로또 1등 번호 2, 13, 18, 32, 38, 42",
-      "state": "+",
-      "change": "3"
+      "keyword": "역전 홈런 기쁨",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "서울, 안양 격돌 대파 7-0 승리",
-      "state": "n",
+      "keyword": "박위 논란 김동완 등판",
+      "state": "s",
       "change": "0"
     }
   ]
