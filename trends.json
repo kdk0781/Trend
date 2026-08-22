@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-22T05:24:24.737Z",
+  "updatedAt": "2026-08-22T05:51:04.526Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "아시아나항공",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
+      "keyword": "이의리",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "트럼프",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "티 프로스",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "박보경",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "기상청",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
       "keyword": "서울대학교 관악캠퍼스",
       "traffic": "100+"
     },
     {
-      "rank": 2,
-      "keyword": "오늘 날씨",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
+      "rank": 8,
       "keyword": "강남",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "keyword": "일론 머스크",
       "traffic": "500+"
     },
     {
-      "rank": 5,
-      "keyword": "공대공 미사일",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "놀면 뭐하니?",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "당구",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "무덤",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "분사기",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "박지현",
-      "traffic": "200+"
+      "keyword": "공대공 미사일",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "미·캐나다 협상 결렬, 50% 관세 발효",
+      "keyword": "미·캐나다 결렬 50% 관세",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "메시, 상대 선수 때려 벌금 징계",
+      "keyword": "메시, 상대 가격해 벌금 징계",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "광교 도마뱀 11일 만에 포획",
-      "state": "n",
-      "change": "0"
+      "keyword": "11일 만에 도마뱀 포획",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "KGM 크루 런 화이팅!",
-      "state": "n",
-      "change": "0"
+      "keyword": "28일 청와대 오찬",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "28일 청와대 오찬",
+      "keyword": "강소휘 베트남 3-1 승리",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "한복과 한푸는 다르다",
-      "state": "-",
-      "change": "3"
+      "keyword": "홍준표 노웅래 한동훈은",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "채연 속옷 논란 노이즈 마케팅",
-      "state": "-",
-      "change": "3"
+      "keyword": "호르무즈해협 미국 영토",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "트럼프 이란 합의 필요",
+      "keyword": "비비, 워터밤 논란 후 소신 돈 냈다.",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "제주 실종 성인 15명",
+      "keyword": "임요환 6살 차이 장인",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "국토부, 고시원 욕조 재검토",
+      "keyword": "75개국 이민 비자 제동",
       "state": "n",
       "change": "0"
     }
