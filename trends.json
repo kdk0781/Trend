@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-22T17:00:35.308Z",
+  "updatedAt": "2026-08-22T17:30:43.785Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "로베르토 데 제르비",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
       "keyword": "토트넘",
       "traffic": "2000+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "최홍만",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "블리치",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "타짜",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "청소업체",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "우 서윤",
       "traffic": "10000+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "고레츠카",
       "traffic": "100+"
     },
     {
-      "rank": 8,
-      "keyword": "정재환",
-      "traffic": "2000+"
-    },
-    {
       "rank": 9,
-      "keyword": "챔피언십",
-      "traffic": "5000+"
+      "keyword": "정재환",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "공항",
-      "traffic": "100+"
+      "keyword": "챔피언십",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "KLPGA 챔피언십 3라운드",
+      "keyword": "BC카드 KLPGA 3라운드 요약",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
       "keyword": "제주 경찰관 긴급체포",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "변우석 박지훈 꽃파당 관전 포인트",
-      "state": "-",
-      "change": "2"
+      "keyword": "우서윤, 미스코리아 진 됐다.",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 4,
-      "keyword": "하윤경, 국밥 혼술 즐겨요.",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "안세영, 왕즈이 꺾고 결승 진출",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "우지원 딸 서윤, 미스코리아 진!",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "1238회 로또 1등 23명 당첨",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "연고지 더비 안양 대패",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "김형준 역전 홈런",
+      "keyword": "서울, 안양 7-0 대승",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "롯데월드타워 소등행사 참여",
+      "rank": 5,
+      "keyword": "1238회 로또 1등 23명 각 11억",
       "state": "+",
       "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "하윤경의 혼술 도전",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "떡잎부터 남다른 꽃파당 포인트",
+      "state": "-",
+      "change": "4"
+    },
+    {
+      "rank": 8,
+      "keyword": "김태훈 역전 홈런",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "KIA 7연승 저지, 키움 탈출",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 10,
+      "keyword": "롯데월드타워 10분 소등참여",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
