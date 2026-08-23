@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2026-08-23T09:05:18.010Z",
+  "updatedAt": "2026-08-23T09:37:27.723Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "박근혜",
-      "traffic": "500+"
+      "keyword": "반도체",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "새만금",
+      "keyword": "이강준",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "기아 키움",
-      "traffic": "200+"
+      "keyword": "야구",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "무죄",
+      "keyword": "오은영",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "연금",
-      "traffic": "10000+"
+      "keyword": "증상",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "김태군",
-      "traffic": "100+"
+      "keyword": "키움",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "서교림",
+      "keyword": "기아타이거즈",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "원종현",
-      "traffic": "200+"
+      "keyword": "숲",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "집",
-      "traffic": "5000+"
+      "keyword": "박근혜",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "주식 분할",
-      "traffic": "5000+"
+      "keyword": "새만금",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "오세훈 시장 서울뷰티위크 참석",
-      "state": "+",
-      "change": "1"
+      "keyword": "김재현 끝내기 만루",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김태군 투런포 폭발",
+      "keyword": "오세훈 시장의 모습",
       "state": "s",
       "change": "0"
     },
@@ -73,43 +73,43 @@
     },
     {
       "rank": 4,
-      "keyword": "오싹한 연애",
+      "keyword": "쿠팡 물류센터 40대 심정지",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "서교림 시즌 4승 달성",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 5,
-      "keyword": "쿠팡 물류센터 40대 심정지",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 6,
-      "keyword": "당정 거주 인정 확대 공감대",
-      "state": "n",
-      "change": "0"
+      "keyword": "오싹한 연애",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "파리바게뜨, 25일부터 인상",
+      "keyword": "안세영 결승 흥분",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "거제시장 복구 시민 호소",
-      "state": "n",
-      "change": "0"
+      "keyword": "김태군 투런포 쾅!",
+      "state": "-",
+      "change": "6"
     },
     {
       "rank": 9,
-      "keyword": "태풍 사우델 경로는?",
-      "state": "+",
-      "change": "1"
+      "keyword": "주말 소나기 태풍 경로는?",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김재현 끝내기 그랜드슬램!",
+      "keyword": "오디세이 19일 700만 돌파",
       "state": "n",
       "change": "0"
     }
