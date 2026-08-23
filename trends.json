@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-23T20:21:50.044Z",
+  "updatedAt": "2026-08-23T20:45:42.731Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "장도연",
+      "keyword": "elche vs barcelona",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "엘체 대 바르셀로나",
-      "traffic": "1000+"
+      "keyword": "은가은",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "양민혁",
+      "keyword": "수출",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "일베",
-      "traffic": "100+"
+      "keyword": "어머니",
+      "traffic": "10000+"
     },
     {
       "rank": 5,
-      "keyword": "디씨",
+      "keyword": "토리노 대 밀란",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "thứ hạng của man city gặp bournemouth",
-      "traffic": "200+"
+      "keyword": "장도연",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "첼시",
-      "traffic": "100+"
+      "keyword": "엘체 대 바르셀로나",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "세리에",
+      "keyword": "양민혁",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "유벤투스",
+      "keyword": "일베",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "훌리안 알바레스",
+      "keyword": "디씨",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "안세영, 세계선수권 정상 탈환",
+      "keyword": "안세영 세계선수권 정상 탈환",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "88세까지 빅뱅 20주년",
-      "state": "n",
-      "change": "0"
+      "keyword": "오싹한 연애",
+      "state": "+",
+      "change": "7"
     },
     {
       "rank": 3,
-      "keyword": "2026년 8월 24일 운세",
-      "state": "s",
-      "change": "0"
+      "keyword": "하석진, 안희연 사랑에 흔들린다",
+      "state": "+",
+      "change": "9"
     },
     {
       "rank": 4,
-      "keyword": "7이닝 무실점 두산",
-      "state": "s",
-      "change": "0"
+      "keyword": "2026년 8월 24일 운세",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "중축구협회, 성접대 의혹 증거 無",
-      "state": "s",
-      "change": "0"
+      "keyword": "이수근 당구 대결 성사",
+      "state": "+",
+      "change": "8"
     },
     {
       "rank": 6,
-      "keyword": "KTX 낙상 영상 박위 역풍",
+      "keyword": "박위, 강연 일정 위기",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "일본 홋카이도 6.0 지진",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "이강인 67분 2-2 무승부",
+      "keyword": "LG 단독 3위 탈환",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 8,
+      "keyword": "서울 폭염과 태풍 3개 활동 중",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "오싹한 연애",
-      "state": "+",
-      "change": "2"
+      "keyword": "홋카이도 6.0 지진",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "병동 환자 폭행 60대 체포",
+      "keyword": "팔팔하게 88세까지 빅뱅",
       "state": "n",
       "change": "0"
     }
