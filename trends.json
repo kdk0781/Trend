@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-23T21:00:40.760Z",
+  "updatedAt": "2026-08-23T21:31:14.611Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "psg",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "elche vs barcelona",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "은가은",
+      "keyword": "교사",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "대한민국의 대법관",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "주주",
+      "traffic": "1000+"
+    },
+    {
       "rank": 4,
-      "keyword": "수출",
-      "traffic": "100+"
+      "keyword": "psg",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "토리노 대 밀란",
+      "keyword": "김수현",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "장도연",
+      "keyword": "elche vs barcelona",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "엘체 대 바르셀로나",
-      "traffic": "2000+"
+      "keyword": "은가은",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "양민혁",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "일베",
+      "keyword": "수출",
       "traffic": "100+"
     },
     {
-      "rank": 10,
-      "keyword": "thứ hạng của man city gặp bournemouth",
+      "rank": 9,
+      "keyword": "토리노 대 밀란",
       "traffic": "200+"
+    },
+    {
+      "rank": 10,
+      "keyword": "장도연",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "안세영 3년 만에 정상 탈환",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "오싹한 연애",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "하석진, 안희연 사랑에 흔들린다",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "2026년 8월 24일 운세",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "신동엽 이수근 당구 대결",
+      "keyword": "안세영 세계선수권 우승",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
+      "rank": 2,
+      "keyword": "2026년 8월 24일 운세",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 3,
+      "keyword": "오싹한 연애",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "하석진이 사랑에 흔들린다",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
       "keyword": "LG 단독 3위 탈환",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "박위, 팬심 등 돌려 KTX 사고 영상 업로드",
-      "state": "-",
+      "rank": 6,
+      "keyword": "서울공예박위 제주탐방",
+      "state": "+",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "일본 홋카이도 6.0 지진 발생",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "이강인 67분 후 극적 2-2 무승부",
+      "rank": 7,
+      "keyword": "태풍 3개 활동 중",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 8,
+      "keyword": "일본 홋카이도 6.0 지진",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "이강인, 67분 뛰고 2-2 무승부",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "펜스, 한국산 미사일 우크라 배치 주장",
-      "state": "-",
-      "change": "1"
+      "keyword": "미우새 신동엽 이수근 칭찬",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
