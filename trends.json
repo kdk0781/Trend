@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-23T22:39:38.642Z",
+  "updatedAt": "2026-08-23T22:56:27.986Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "염경엽",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "사장님 귀는 당나귀 귀",
+      "keyword": "나솔",
       "traffic": "500+"
     },
     {
+      "rank": 2,
+      "keyword": "화사",
+      "traffic": "200+"
+    },
+    {
       "rank": 3,
-      "keyword": "이시영",
+      "keyword": "지드래곤",
       "traffic": "200+"
     },
     {
       "rank": 4,
+      "keyword": "염경엽",
+      "traffic": "20000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "해리 케인",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "사장님 귀는 당나귀 귀",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "이시영",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "롯데그룹",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
       "keyword": "pga",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 10,
       "keyword": "송가인",
       "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "토트넘 홋스퍼 fc",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "삼성 갤럭시",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "xrp 레저",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "북한",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "베트남 축구 국가대표팀",
-      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "2026년 8월 24일 운세",
-      "state": "s",
-      "change": "0"
+      "keyword": "이강인 67분, 2-2 무승부",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "이강인 67분 소화 2-2 무승부",
+      "keyword": "2026년 8월 24일 운세",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "박위, 100만 구독자 잃었다",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "공익 저격 박위, 구독자 감소",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 4,
-      "keyword": "폭염과 태풍 3개 활동 중",
-      "state": "+",
-      "change": "1"
+      "keyword": "서울 폭염과 태풍 3개 활동 중",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "안세영 대관식 눈물",
-      "state": "+",
-      "change": "1"
+      "keyword": "캣츠아이 美 1위 달성",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "하석진, 안희연 사랑에 흔들린다",
-      "state": "+",
-      "change": "1"
+      "keyword": "하석진, 안희연에게 사랑이 온다",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
+      "keyword": "안세영 세계선수권 우승 감탄",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 8,
       "keyword": "오싹한 연애",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "펜스 우크라 미사일 배치",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 9,
-      "keyword": "웃기지도 않아 장도연",
-      "state": "n",
-      "change": "0"
+      "keyword": "펜스, 韓미사일 우크라 배치",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "시몬스 포스코 고려제강 협력",
-      "state": "-",
-      "change": "1"
+      "keyword": "명진스님 영결식 추모",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
