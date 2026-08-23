@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-23T12:57:33.212Z",
+  "updatedAt": "2026-08-23T13:30:32.137Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "중간 선거",
-      "traffic": "100+"
+      "keyword": "man city vs bournemouth",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "스마트폰",
-      "traffic": "200+"
+      "keyword": "서울e 대 파주",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "치매",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "코로나",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "카라스코",
+      "keyword": "홀란드",
       "traffic": "100+"
     },
     {
+      "rank": 4,
+      "keyword": "네덜란드 그랑프리",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "골프",
+      "traffic": "5000+"
+    },
+    {
       "rank": 6,
-      "keyword": "수능원서접수",
+      "keyword": "황영조",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "지석진",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "나 혼자 산다",
+      "keyword": "삼성물산",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "배추",
+      "traffic": "1000+"
+    },
+    {
       "rank": 9,
-      "keyword": "bwf",
-      "traffic": "100+"
+      "keyword": "100일의 거짓말",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "미사일",
-      "traffic": "5000+"
+      "keyword": "페덱",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "하석진, 안희연 사랑에 흔들린다",
+      "keyword": "우지원 딸 서윤, 미스코리아 당선",
       "state": "+",
-      "change": "4"
+      "change": "18"
     },
     {
       "rank": 2,
-      "keyword": "이소희·백하나, 31년 만에 우승",
+      "keyword": "광주 쿠팡 지게차 사고 심정지",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "빅뱅 20주년 콘서트 개최",
-      "state": "s",
+      "keyword": "구청장 권한 재개발 우려",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "실종 허위종결 경찰",
+      "keyword": "안세영, 배드민턴 세계선수권 우승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "1박 2일",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 6,
-      "keyword": "두산 선발 곽빈 역투",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "김동완과 박위는 관계 없다.",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "남은 연애 나이·직업 공개!",
+      "keyword": "국민연금 기초연금 감액 3배 늘어",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "서교림 첫 메이저 우승으로",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "빅뱅 20주년 활동 계속된다",
+      "state": "-",
+      "change": "5"
+    },
+    {
+      "rank": 8,
+      "keyword": "실종 경찰 허위종결",
+      "state": "-",
+      "change": "4"
+    },
+    {
       "rank": 9,
-      "keyword": "소주 막걸리 출고 감소",
+      "keyword": "전현무 부동산 투자 안 해",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "고영욱 웃기지도 않은데",
+      "keyword": "종합특검 기소 51명",
       "state": "n",
       "change": "0"
     }
