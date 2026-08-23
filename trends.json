@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-23T04:54:57.169Z",
+  "updatedAt": "2026-08-23T05:20:50.204Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "안규백",
-      "traffic": "1000+"
+      "keyword": "가사 도우미",
+      "traffic": "500+"
     },
     {
       "rank": 2,
+      "keyword": "김동완",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "정몽규",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "두산 베어스",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "안규백",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "선수",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
       "keyword": "sl vs ind",
       "traffic": "200+"
     },
     {
-      "rank": 3,
-      "keyword": "선수",
+      "rank": 8,
+      "keyword": "정기예금",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "keyword": "조나단",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 10,
       "keyword": "그레고리 로드리게스",
       "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "이정후",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "워렌 버핏",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "파울루 벤투",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "타릭 스쿠발",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "앤 해서웨이",
-      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "한성숙 총리와 김민석",
-      "state": "+",
-      "change": "1"
+      "keyword": "한성숙 김민석 나란히 입장",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이정후 보스턴전 끝내기 1안타",
-      "state": "s",
+      "keyword": "손흥민 LAFC 1-1",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김동완 박위 CCTV 논란",
+      "keyword": "김동완 박위 옹호 우려",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김윤덕·오세훈, 이번주 용산공원 회동",
+      "keyword": "허위 실종자 수색 문제",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "허위 종결 수색",
-      "state": "-",
-      "change": "2"
+      "keyword": "우서윤, 2026 미스코리아 진",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "비거주 1주택 인정 확대",
-      "state": "n",
-      "change": "0"
+      "keyword": "태풍 사우델 한반도 영향",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "주말 태풍 사우델 경로는?",
+      "keyword": "사랑이 온다",
+      "state": "+",
+      "change": "8"
+    },
+    {
+      "rank": 8,
+      "keyword": "천안 10대 아들 흉기 사건",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "우서윤 미스코리아 진",
-      "state": "-",
-      "change": "3"
-    },
-    {
       "rank": 9,
-      "keyword": "소유미 장원 경쟁",
-      "state": "s",
+      "keyword": "부득이한 인정 없애야",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "안세영, 왕즈이 2-0 완파 정상 도전",
-      "state": "+",
-      "change": "5"
+      "keyword": "후쿠시마 어획액 절반 줄어",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
