@@ -1,111 +1,111 @@
 {
-  "updatedAt": "2026-08-23T03:32:45.592Z",
+  "updatedAt": "2026-08-23T04:18:57.728Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "이정후",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "워렌 버핏",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 3,
       "keyword": "파울루 벤투",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "keyword": "타릭 스쿠발",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "앤 해서웨이",
       "traffic": "1000+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "스콧 베선트",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 7,
+      "keyword": "lionel messi",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
       "keyword": "폭염 경보",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "엘에이 fc 대 포틀랜드 팀버스",
       "traffic": "50000+"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "keyword": "두산베어스",
       "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "홍현희",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "bangladesh vs australia",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "중국",
-      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 비거주 사유 폭넓게 인정 필요",
+      "keyword": "김민석 비거주 1주택 사유 인정 필요",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "700만 관객 앞둔 오디세이",
+      "keyword": "700만 관객 돌파 앞둔",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이소미 CPKC 5위",
+      "keyword": "허위 종결 제주 수색",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "제네시스 GV90 테크 브리프",
+      "keyword": "손흥민 선발 복귀",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "우지원 딸 우서윤, 미스코리아 진",
+      "keyword": "발언하는 한성숙 국무총리",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "주말 소나기 태풍 경로는?",
-      "state": "+",
-      "change": "3"
+      "keyword": "태풍 사우델 경로는?",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "고가 법인주택 황제사택 사용",
-      "state": "n",
-      "change": "0"
+      "keyword": "이소미 CPKC 5위",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "손흥민 선발 복귀",
-      "state": "s",
-      "change": "0"
+      "keyword": "소유미 장원 경쟁",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "엔비디아 AI 서버 15% 인상",
-      "state": "n",
-      "change": "0"
+      "keyword": "김수현, 팬들 앞에 서다",
+      "state": "+",
+      "change": "8"
     },
     {
       "rank": 10,
