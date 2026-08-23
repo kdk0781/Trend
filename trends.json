@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-23T23:15:42.333Z",
+  "updatedAt": "2026-08-23T23:37:17.911Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "나스닥 100",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "스코티 셰플러",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "손성빈",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "상장",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "서식스 공작부인 메건",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
       "keyword": "elche cf vs fc barcelona standings",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 7,
       "keyword": "골프장",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 8,
       "keyword": "화사",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "keyword": "나솔",
       "traffic": "500+"
     },
     {
-      "rank": 5,
-      "keyword": "지드래곤",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "염경엽",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "해리 케인",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "사장님 귀는 당나귀 귀",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "이시영",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "롯데그룹",
+      "keyword": "록히드 마틴 f-35 라이트닝 ii",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이강인 67분 교체, 2-2 무승부",
-      "state": "s",
-      "change": "0"
+      "keyword": "서울 폭염과 태풍 3개",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "태풍 3개 활동 중",
+      "keyword": "펜스, 한국 미사일 우크라 지원",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "이정후, 보스턴전 무안타",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 4,
+      "keyword": "사랑이 온다 1위 기록",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 3,
-      "keyword": "2026년 8월 24일 운세",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "박위 KTX CCTV 논란 100만 깨졌다",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 5,
-      "keyword": "캣츠아이 美 1위 달성",
-      "state": "s",
-      "change": "0"
+      "keyword": "박위, 100만 구독 붕괴",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "안희연의 사랑이 온다",
-      "state": "s",
+      "keyword": "이낙준, 중증외상센터 수익 해명",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "펜스 우크라 요격미사일",
+      "keyword": "오싹한 연애",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "오싹한 연애",
-      "state": "s",
-      "change": "0"
+      "keyword": "안세영 세계 여제",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "안세영, 세계선수권 우승!",
-      "state": "-",
-      "change": "2"
+      "keyword": "시몬스 포스코 고려제강 협력",
+      "state": "+",
+      "change": "15"
     },
     {
       "rank": 10,
-      "keyword": "명진스님 추모 영결식",
-      "state": "s",
+      "keyword": "이강인 아틀레티코 비야레알 2-2 무",
+      "state": "n",
       "change": "0"
     }
   ]
