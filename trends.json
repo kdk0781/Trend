@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-23T15:00:53.382Z",
+  "updatedAt": "2026-08-23T15:32:09.007Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "세종특별자치시",
-      "traffic": "200+"
+      "keyword": "거제 섬꽃 축제",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "fotmob",
-      "traffic": "100+"
+      "keyword": "홈런",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "아틀레티코 마드리드 경기",
-      "traffic": "100+"
+      "keyword": "아틀레티코 대 비야레알",
+      "traffic": "10000+"
     },
     {
       "rank": 4,
-      "keyword": "청소",
+      "keyword": "ngoại hạng anh",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "아스톤빌라",
-      "traffic": "200+"
+      "keyword": "갑질",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "야구 감독",
-      "traffic": "2000+"
+      "keyword": "세종특별자치시",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "브라이튼",
+      "keyword": "fotmob",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "brighton vs aston villa",
-      "traffic": "100+"
+      "keyword": "아스톤빌라",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "манчестер сити – борнмут",
-      "traffic": "100+"
+      "keyword": "청소",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "맨시티 본머스",
-      "traffic": "500+"
+      "keyword": "야구 감독",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "진 우지원 딸 우서윤, 성형 논란",
-      "state": "n",
-      "change": "0"
+      "keyword": "안세영, 3년 만에 세계선수권 정상",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "쿠팡 물류센터 사고 심정지",
+      "keyword": "김재현 끝내기 만루포!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "안세영 세계선수권 정상 탈환",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "기초연금 감액 4년 새 3배 증가",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "오싹한 연애",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "빅뱅 20주년 신곡과 공연",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "꽃파당 재소환 변우석 박지훈 공승연",
+      "keyword": "제주 실종 허위 종결 경찰은 뭘 했나?",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 4,
+      "keyword": "빅뱅 20주년 공연",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "서교림, 메이저 우승!",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "지예은 주식 -47% 씁쓸",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 7,
+      "keyword": "광주 쿠팡 지게차 사고",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "실종 장미란 CCTV 삭제",
+      "keyword": "역투하는 두산 곽빈",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "구청장 권한 재개발 우려",
+      "keyword": "하하, 호빗족 제안 거절",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "지예은 주식 손실과 자랑",
-      "state": "-",
-      "change": "2"
+      "keyword": "한화, 경남에 30억원 지원",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
