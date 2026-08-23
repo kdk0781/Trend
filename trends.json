@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-08-23T19:00:06.015Z",
+  "updatedAt": "2026-08-23T19:25:30.675Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "thứ hạng của man city gặp bournemouth",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
       "keyword": "첼시",
       "traffic": "100+"
     },
     {
-      "rank": 2,
-      "keyword": "유벤투스",
-      "traffic": "100+"
-    },
-    {
       "rank": 3,
-      "keyword": "at마드리드 비야레알",
+      "keyword": "유벤투스",
       "traffic": "100+"
     },
     {
@@ -43,75 +43,75 @@
     },
     {
       "rank": 9,
-      "keyword": "마르무시",
+      "keyword": "atletico madrid",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "atletico madrid",
+      "keyword": "마르무시",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "안세영, 세계선수권 정상 탈환",
+      "keyword": "안세영 세계선수권 정상 탈환",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "빅뱅 20주년 콘서트",
+      "keyword": "빅뱅, 20주년 콘서트 준비 중",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "오싹한 연애",
-      "state": "+",
-      "change": "59"
-    },
-    {
-      "rank": 4,
-      "keyword": "하석진, 안희연 사랑에 흔들린다",
-      "state": "+",
-      "change": "13"
-    },
-    {
-      "rank": 5,
       "keyword": "2026년 8월 24일 운세",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "오싹한 연애",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "곽빈의 무실점 투구",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 6,
-      "keyword": "역투하는 두산 곽빈",
+      "keyword": "하석진, 안희연 사랑에 흔들린다",
       "state": "-",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "허위 종결 사태 제주 경찰 문제",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 8,
       "keyword": "박위 강연 일정 위기",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "중국축구, 성접대 의혹 증거 없어",
-      "state": "-",
+      "rank": 8,
+      "keyword": "이강인 67분 소화 2-2 무승부",
+      "state": "+",
       "change": "2"
     },
     {
-      "rank": 10,
-      "keyword": "우지원 딸 성형 논란",
+      "rank": 9,
+      "keyword": "실종 CCTV 118대 삭제",
       "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "일본 홋카이도 6.0 지진",
+      "state": "+",
+      "change": "6"
     }
   ]
 }
