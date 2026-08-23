@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-23T12:00:49.548Z",
+  "updatedAt": "2026-08-23T12:57:33.212Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "지석진",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "나 혼자 산다",
+      "keyword": "중간 선거",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "스마트폰",
+      "traffic": "200+"
+    },
+    {
       "rank": 3,
-      "keyword": "미사일",
-      "traffic": "2000+"
+      "keyword": "치매",
+      "traffic": "10000+"
     },
     {
       "rank": 4,
-      "keyword": "앞머리",
+      "keyword": "코로나",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "프로야구",
-      "traffic": "200+"
+      "keyword": "카라스코",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "아시아투데이",
+      "keyword": "수능원서접수",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "삼성전기",
-      "traffic": "2000+"
+      "keyword": "지석진",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "발데",
-      "traffic": "500+"
+      "keyword": "나 혼자 산다",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "워터밤",
-      "traffic": "5000+"
+      "keyword": "bwf",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "우주선",
-      "traffic": "200+"
+      "keyword": "미사일",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "1박 2일",
-      "state": "s",
-      "change": "0"
+      "keyword": "하석진, 안희연 사랑에 흔들린다",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 2,
-      "keyword": "31년 세계선수권 우승",
-      "state": "+",
-      "change": "5"
+      "keyword": "이소희·백하나, 31년 만에 우승",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "하하 반지의 제왕 런닝맨 거절",
+      "keyword": "빅뱅 20주년 콘서트 개최",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "제주 실종 사건 경찰 논란",
+      "keyword": "실종 허위종결 경찰",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "우지원 딸 서윤의 미모 화제",
-      "state": "s",
-      "change": "0"
+      "keyword": "1박 2일",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "역투하는 두산 곽빈",
-      "state": "n",
+      "keyword": "두산 선발 곽빈 역투",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "서울 폭염 태풍 3개 활동중",
+      "keyword": "김동완과 박위는 관계 없다.",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "남은 연애 나이·직업 공개!",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "명진스님 가르침 새길 것",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 9,
-      "keyword": "이아영 심규덕 오늘 결혼식",
+      "keyword": "소주 막걸리 출고 감소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "내 남은 연애 공개!",
+      "keyword": "고영욱 웃기지도 않은데",
       "state": "n",
       "change": "0"
     }
