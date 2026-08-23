@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-23T23:37:17.911Z",
+  "updatedAt": "2026-08-23T23:53:24.908Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "나스닥 100",
-      "traffic": "1000+"
+      "keyword": "아리엘 후라도",
+      "traffic": "100+"
     },
     {
       "rank": 2,
+      "keyword": "뉴스",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "klasemen elche vs barcelona",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "한겨레",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "나스닥 100",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
       "keyword": "스코티 셰플러",
       "traffic": "1000+"
     },
     {
-      "rank": 3,
+      "rank": 7,
       "keyword": "손성빈",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 8,
       "keyword": "상장",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "keyword": "서식스 공작부인 메건",
       "traffic": "100+"
     },
     {
-      "rank": 6,
-      "keyword": "elche cf vs fc barcelona standings",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "골프장",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "화사",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "나솔",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "록히드 마틴 f-35 라이트닝 ii",
-      "traffic": "100+"
+      "keyword": "elche cf vs fc barcelona standings",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "서울 폭염과 태풍 3개",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "펜스, 한국 미사일 우크라 지원",
-      "state": "n",
+      "keyword": "서울 폭염특보, 태풍 3개 활동 중",
+      "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "이정후, 보스턴전 무안타",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 4,
-      "keyword": "사랑이 온다 1위 기록",
+      "rank": 2,
+      "keyword": "사랑이 온다 1위 엔딩",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 5,
-      "keyword": "박위, 100만 구독 붕괴",
+      "rank": 3,
+      "keyword": "펜스 요격미사일 우크라 배치 가능",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "이정후 4타수 무안타",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 5,
+      "keyword": "여자화장실 휴대전화 사건",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "이낙준, 중증외상센터 수익 해명",
+      "keyword": "우서윤 성형 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "오싹한 연애",
-      "state": "+",
-      "change": "1"
+      "keyword": "인천 아파트 관리소 감전 사망",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "안세영 세계 여제",
+      "keyword": "명진스님 추모와 영결식",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "시몬스 포스코 고려제강 협력",
-      "state": "+",
-      "change": "15"
+      "keyword": "임성재, PO 진출 실패",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이강인 아틀레티코 비야레알 2-2 무",
+      "keyword": "권정열 김윤주 12년 차 투샷 공개",
       "state": "n",
       "change": "0"
     }
