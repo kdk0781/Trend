@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-23T07:09:41.613Z",
+  "updatedAt": "2026-08-23T07:44:46.498Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "비자금",
+      "keyword": "국민의힘",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "메르세데스-마이바흐",
-      "traffic": "500+"
+      "keyword": "유강남",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "장미란 시신",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "김남준",
+      "keyword": "시위",
       "traffic": "500+"
     },
     {
+      "rank": 4,
+      "keyword": "전준표",
+      "traffic": "100+"
+    },
+    {
       "rank": 5,
-      "keyword": "상추",
-      "traffic": "2000+"
+      "keyword": "수영구",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "수원 삼성 블루윙즈",
+      "keyword": "성리",
       "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "삼성",
-      "traffic": "10000+"
+      "keyword": "비자금",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "장윤주",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "india vs sri lanka",
+      "keyword": "메르세데스-마이바흐",
       "traffic": "500+"
     },
     {
+      "rank": 9,
+      "keyword": "장미란 시신",
+      "traffic": "20000+"
+    },
+    {
       "rank": 10,
-      "keyword": "김주형",
-      "traffic": "200+"
+      "keyword": "김남준",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "오세훈, 뷰티풀라이프 참석",
-      "state": "s",
+      "keyword": "뷰티풀라이프 인 서울 오세훈",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "명진스님 빈소 조문 시민",
+      "keyword": "당정 비거주자 거주 인정 확대 공감대",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 3,
+      "keyword": "김도영 시즌38호 홈런 폭발!",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "오디세이 700만 돌파",
-      "state": "+",
-      "change": "5"
-    },
-    {
       "rank": 4,
-      "keyword": "김도영 38호 홈런 폭발!",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 5,
-      "keyword": "당정 비거주자 거주 인정 확대 공감대",
+      "keyword": "김동완, 박위 친분이 없다",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 5,
+      "keyword": "박성준 수석대변인 브리핑",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "박성준 고위당정 브리핑",
+      "keyword": "오싹한 연애",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "사랑에 흔들리다 하석진",
+      "keyword": "명진스님 빈소 조문 시민들",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김동완, 박위 옹호 논란",
+      "keyword": "오디세이 700만 관객 기록",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "쿠팡 물류센터 40대 심정지 사고",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "신장식 조국혁신당 대표",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 10,
-      "keyword": "처서에도 무더위 폭염주의보",
+      "keyword": "컵라면 가격 인상",
       "state": "n",
       "change": "0"
     }
