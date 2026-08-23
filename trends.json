@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T07:44:46.498Z",
+  "updatedAt": "2026-08-23T08:02:24.299Z",
   "google": [
     {
       "rank": 1,
@@ -9,12 +9,12 @@
     {
       "rank": 2,
       "keyword": "유강남",
-      "traffic": "1000+"
+      "traffic": "2000+"
     },
     {
       "rank": 3,
       "keyword": "시위",
-      "traffic": "500+"
+      "traffic": "200+"
     },
     {
       "rank": 4,
@@ -56,60 +56,60 @@
     {
       "rank": 1,
       "keyword": "뷰티풀라이프 인 서울 오세훈",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "당정 비거주자 거주 인정 확대 공감대",
-      "state": "+",
-      "change": "2"
+      "keyword": "당정 비거주 인정 확대 공감대",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김도영 시즌38호 홈런 폭발!",
+      "keyword": "김도영, 시즌 38호 홈런 폭발!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김동완, 박위 친분이 없다",
-      "state": "+",
-      "change": "1"
+      "keyword": "김동완 박위 해명 논란",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "박성준 수석대변인 브리핑",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "오싹한 연애",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "명진스님 빈소 조문 시민들",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "오디세이 700만 관객 기록",
+      "keyword": "명진스님 빈소 추모",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 6,
+      "keyword": "오싹한 연애",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "박성준 고위당정협의회 결과",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "BTS 위켄드 선포 토론토 축제",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "쿠팡 물류센터 40대 심정지 사고",
+      "keyword": "쿠팡 물류센터 40대 심정지",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "컵라면 가격 인상",
+      "keyword": "박재현 2타점 3루타!",
       "state": "n",
       "change": "0"
     }
