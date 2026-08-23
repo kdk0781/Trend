@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-08-23T20:45:42.731Z",
+  "updatedAt": "2026-08-23T21:00:40.760Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "elche vs barcelona",
-      "traffic": "200+"
+      "keyword": "psg",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "은가은",
-      "traffic": "100+"
+      "keyword": "elche vs barcelona",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "수출",
-      "traffic": "100+"
+      "keyword": "은가은",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "어머니",
-      "traffic": "10000+"
+      "keyword": "수출",
+      "traffic": "100+"
     },
     {
       "rank": 5,
@@ -34,12 +34,12 @@
     {
       "rank": 7,
       "keyword": "엘체 대 바르셀로나",
-      "traffic": "1000+"
+      "traffic": "2000+"
     },
     {
       "rank": 8,
       "keyword": "양민혁",
-      "traffic": "100+"
+      "traffic": "200+"
     },
     {
       "rank": 9,
@@ -48,70 +48,70 @@
     },
     {
       "rank": 10,
-      "keyword": "디씨",
+      "keyword": "thứ hạng của man city gặp bournemouth",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "안세영 세계선수권 정상 탈환",
-      "state": "s",
-      "change": "0"
+      "keyword": "안세영 3년 만에 정상 탈환",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
       "keyword": "오싹한 연애",
-      "state": "+",
-      "change": "7"
-    },
-    {
-      "rank": 3,
-      "keyword": "하석진, 안희연 사랑에 흔들린다",
-      "state": "+",
-      "change": "9"
-    },
-    {
-      "rank": 4,
-      "keyword": "2026년 8월 24일 운세",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "이수근 당구 대결 성사",
-      "state": "+",
-      "change": "8"
-    },
-    {
-      "rank": 6,
-      "keyword": "박위, 강연 일정 위기",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
+      "rank": 3,
+      "keyword": "하석진, 안희연 사랑에 흔들린다",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "2026년 8월 24일 운세",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "신동엽 이수근 당구 대결",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
       "keyword": "LG 단독 3위 탈환",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "박위, 팬심 등 돌려 KTX 사고 영상 업로드",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "서울 폭염과 태풍 3개 활동 중",
+      "keyword": "일본 홋카이도 6.0 지진 발생",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "홋카이도 6.0 지진",
-      "state": "n",
-      "change": "0"
+      "keyword": "이강인 67분 후 극적 2-2 무승부",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "팔팔하게 88세까지 빅뱅",
-      "state": "n",
-      "change": "0"
+      "keyword": "펜스, 한국산 미사일 우크라 배치 주장",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
