@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-08-23T11:30:07.230Z",
+  "updatedAt": "2026-08-23T11:48:16.750Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "아시아투데이",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "삼성전기",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "발데",
+      "keyword": "지석진",
       "traffic": "500+"
     },
     {
+      "rank": 2,
+      "keyword": "나 혼자 산다",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "미사일",
+      "traffic": "2000+"
+    },
+    {
       "rank": 4,
-      "keyword": "워터밤",
-      "traffic": "5000+"
+      "keyword": "앞머리",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "우주선",
+      "keyword": "프로야구",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "lg 대 한화",
-      "traffic": "10000+"
+      "keyword": "아시아투데이",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "가락시장",
+      "keyword": "삼성전기",
       "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "고발",
-      "traffic": "2000+"
+      "keyword": "발데",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "호텔",
-      "traffic": "100+"
+      "keyword": "워터밤",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "코오롱 티슈 진",
+      "keyword": "우주선",
       "traffic": "200+"
     }
   ],
@@ -56,62 +56,62 @@
     {
       "rank": 1,
       "keyword": "1박 2일",
-      "state": "+",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "서교림 메이저 우승!",
-      "state": "-",
-      "change": "1"
+      "keyword": "서교림, 메이저 우승!",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "종합특검 58명 기소 7명 구속",
-      "state": "-",
-      "change": "1"
+      "keyword": "하하 반지의 제왕 거절 이유 런닝맨",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "하하, 런닝맨 때문에 반지의 제왕 거절",
+      "keyword": "종합특검 180일 수사 마무리",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "우서윤, 미스코리아 진 미모 주목",
-      "state": "n",
+      "keyword": "우지원 딸 서윤 미모 화제",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "안세영 결승 흥분",
-      "state": "-",
-      "change": "1"
+      "keyword": "하석진, 안희연 사랑에 흔들린다",
+      "state": "+",
+      "change": "10"
     },
     {
       "rank": 7,
-      "keyword": "앳하트 인기가요 출연",
-      "state": "-",
+      "keyword": "역투하는 선발 곽빈",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "역투하는 선발 곽빈",
+      "keyword": "명진스님 추모하겠습니다.",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "사우델 태풍 경로는?",
-      "state": "n",
-      "change": "0"
+      "keyword": "앳하트, 뉴잭스윙 사운드로 인기가요 접수",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "김동완, 박위와 관계없음.",
+      "keyword": "실종 허위종결 경찰 논란",
       "state": "-",
-      "change": "3"
+      "change": "6"
     }
   ]
 }
