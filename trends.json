@@ -1,87 +1,87 @@
 {
-  "updatedAt": "2026-08-23T08:02:24.299Z",
+  "updatedAt": "2026-08-23T08:43:17.606Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "국민의힘",
-      "traffic": "200+"
+      "keyword": "연금",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "유강남",
-      "traffic": "2000+"
+      "keyword": "김태군",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "시위",
+      "keyword": "서교림",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "전준표",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "수영구",
+      "keyword": "원종현",
       "traffic": "200+"
     },
     {
+      "rank": 5,
+      "keyword": "집",
+      "traffic": "5000+"
+    },
+    {
       "rank": 6,
-      "keyword": "성리",
+      "keyword": "주식 분할",
       "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "비자금",
-      "traffic": "200+"
+      "keyword": "노태우",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "메르세데스-마이바흐",
+      "keyword": "동아일보",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "장미란 시신",
-      "traffic": "20000+"
+      "keyword": "국민의힘",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "김남준",
-      "traffic": "500+"
+      "keyword": "유강남",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "뷰티풀라이프 인 서울 오세훈",
-      "state": "s",
+      "keyword": "뷰티풀라이프 서울 오세훈 활동",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "당정 비거주 인정 확대 공감대",
+      "keyword": "김태군 투런포 폭발",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김도영, 시즌 38호 홈런 폭발!",
-      "state": "s",
-      "change": "0"
+      "keyword": "방탄소년단 위켄드 선포",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 4,
-      "keyword": "김동완 박위 해명 논란",
-      "state": "n",
-      "change": "0"
+      "keyword": "당정 비거주자 거주 인정 확대",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "명진스님 빈소 추모",
-      "state": "+",
-      "change": "2"
+      "keyword": "파리바게뜨, 5% 가격 인상",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
@@ -91,27 +91,27 @@
     },
     {
       "rank": 7,
-      "keyword": "박성준 고위당정협의회 결과",
+      "keyword": "박재현 2타점 3루타",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "BTS 위켄드 선포 토론토 축제",
+      "keyword": "장우혁 폭행 1심 무죄 9월 재개",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "쿠팡 물류센터 40대 심정지",
+      "keyword": "쿠팡 물류센터 심정지 사고",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "박재현 2타점 3루타!",
-      "state": "n",
-      "change": "0"
+      "keyword": "주말 소나기 태풍 경로는?",
+      "state": "+",
+      "change": "5"
     }
   ]
 }
