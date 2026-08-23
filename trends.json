@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-23T13:30:32.137Z",
+  "updatedAt": "2026-08-23T13:56:38.614Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "man city vs bournemouth",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "서울e 대 파주",
+      "keyword": "맨시티",
       "traffic": "1000+"
     },
     {
+      "rank": 2,
+      "keyword": "man city đấu với bournemouth",
+      "traffic": "200+"
+    },
+    {
       "rank": 3,
-      "keyword": "홀란드",
+      "keyword": "부아디",
       "traffic": "100+"
     },
     {
       "rank": 4,
+      "keyword": "man city vs bournemouth",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "홀란드",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "서울e 대 파주",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
       "keyword": "네덜란드 그랑프리",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "골프",
       "traffic": "5000+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "황영조",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "삼성물산",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "배추",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "100일의 거짓말",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "페덱",
+      "keyword": "삼성물산",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "우지원 딸 서윤, 미스코리아 당선",
-      "state": "+",
-      "change": "18"
+      "keyword": "우지원 딸 우서윤 미스코리아 진",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "광주 쿠팡 지게차 사고 심정지",
-      "state": "n",
+      "keyword": "쿠팡 물류센터 40대 심정지",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "구청장 권한 재개발 우려",
+      "keyword": "안세영 세계선수권 정상 탈환",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "안세영, 배드민턴 세계선수권 우승",
+      "keyword": "기초연금 4년 새 3배 감액",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "국민연금 기초연금 감액 3배 늘어",
-      "state": "n",
-      "change": "0"
+      "keyword": "실종 허위종결 경찰",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "서교림 첫 메이저 우승으로",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "빅뱅 20주년 활동 계속된다",
-      "state": "-",
-      "change": "5"
-    },
-    {
-      "rank": 8,
-      "keyword": "실종 경찰 허위종결",
+      "keyword": "서교림 메이저 우승!",
       "state": "-",
       "change": "4"
     },
     {
-      "rank": 9,
-      "keyword": "전현무 부동산 투자 안 해",
+      "rank": 7,
+      "keyword": "구청장 권한으로 재건축",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "종합특검 기소 51명",
-      "state": "n",
+      "rank": 8,
+      "keyword": "오싹한 연애",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 9,
+      "keyword": "전현무 현금 녹고 있어",
+      "state": "s",
       "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "남부 50㎜ 소나기",
+      "state": "-",
+      "change": "8"
     }
   ]
 }
