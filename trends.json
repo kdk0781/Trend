@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T17:30:09.511Z",
+  "updatedAt": "2026-08-23T17:48:20.060Z",
   "google": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
     {
       "rank": 2,
       "keyword": "นิวคาสเซิล พบ ลิเวอร์พูล",
-      "traffic": "100+"
+      "traffic": "200+"
     },
     {
       "rank": 3,
@@ -19,12 +19,12 @@
     {
       "rank": 4,
       "keyword": "로메로",
-      "traffic": "200+"
+      "traffic": "100+"
     },
     {
       "rank": 5,
       "keyword": "100 일 의 거짓말",
-      "traffic": "1000+"
+      "traffic": "2000+"
     },
     {
       "rank": 6,
@@ -34,7 +34,7 @@
     {
       "rank": 7,
       "keyword": "newcastle vs liverpool",
-      "traffic": "200+"
+      "traffic": "500+"
     },
     {
       "rank": 8,
@@ -55,63 +55,63 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "안세영 세계선수권 정상 탈환",
+      "keyword": "안세영 세계선수권 우승",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "빅뱅 20주년 공연!",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "허위 종결 사건 왜 그랬나",
+      "keyword": "빅뱅 20주년 콘서트 막공",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "제주 실종 부실 수사",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 4,
-      "keyword": "서교림, 메이저 우승 기념",
+      "keyword": "서교림 메이저 우승",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
       "keyword": "역투하는 선발 곽빈",
-      "state": "+",
-      "change": "5"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "하하, 반지의 제왕 출연 거절",
+      "keyword": "하하 반지의 제왕 거절 이유",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "하석진, 안희연 사랑에 흔들린다",
-      "state": "s",
+      "keyword": "2026년 8월 24일 운세",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "오싹한 연애",
+      "keyword": "하석진, 안희연 사랑에 흔들린다",
       "state": "-",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "2026년 8월 24일 운세",
+      "keyword": "LG, 3위 탈환!",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "LG, 단독 3위 탈환!",
-      "state": "n",
-      "change": "0"
+      "keyword": "박위 강연 일정 걱정스럽다",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
