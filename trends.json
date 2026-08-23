@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-23T10:16:48.058Z",
+  "updatedAt": "2026-08-23T10:43:26.405Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "1박2일",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "경향신문",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "김재중",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "김동현",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "신청사",
+      "keyword": "코오롱 티슈 진",
       "traffic": "200+"
     },
     {
-      "rank": 6,
-      "keyword": "부모",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "윤이나",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "철도",
+      "rank": 2,
+      "keyword": "xsmn",
       "traffic": "1000+"
     },
     {
+      "rank": 3,
+      "keyword": "tesla",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "2026 lck",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "손태영",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "lck 플레이오프",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "허양임",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "원주시",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "지게차",
-      "traffic": "2000+"
+      "keyword": "lck 2026",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "lck",
+      "keyword": "1박2일",
       "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김재현 끝내기 만루포",
+      "keyword": "김재현 만루포 역전승",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "종합특검 기소 58명",
-      "state": "n",
+      "keyword": "서교림 메이저 우승!",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "서교림 메이저 우승!",
+      "keyword": "종합특검 58명 기소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "한화, 경남 30억원 지원",
-      "state": "-",
-      "change": "2"
+      "keyword": "하하 반지 제왕 출연 거절",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "오싹한 연애",
-      "state": "+",
-      "change": "2"
+      "keyword": "안세영 결승 흥분",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "안세영 결승 진출",
-      "state": "-",
-      "change": "1"
+      "keyword": "공군 훈련병 집단 식중독 의심",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "당정, 1주택 거주인정 확대",
-      "state": "n",
+      "keyword": "앳하트, 뉴잭스윙으로 접수",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "파리바게뜨 가격 5% 인상",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
       "keyword": "태풍 사우델 경로는?",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "하석진 진심에 흔들린 사랑",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 10,
-      "keyword": "공군 훈련병 집단 식중독 의심",
-      "state": "n",
+      "keyword": "박위 논란 공개 지적",
+      "state": "s",
       "change": "0"
     }
   ]
