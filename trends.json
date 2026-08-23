@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T19:25:30.675Z",
+  "updatedAt": "2026-08-23T19:43:05.001Z",
   "google": [
     {
       "rank": 1,
@@ -61,7 +61,7 @@
     },
     {
       "rank": 2,
-      "keyword": "빅뱅, 20주년 콘서트 준비 중",
+      "keyword": "빅뱅 20주년 공연 준비 중",
       "state": "s",
       "change": "0"
     },
@@ -73,45 +73,45 @@
     },
     {
       "rank": 4,
-      "keyword": "오싹한 연애",
-      "state": "s",
-      "change": "0"
+      "keyword": "곽빈 7이닝 무실점",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "곽빈의 무실점 투구",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "하석진, 안희연 사랑에 흔들린다",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "박위 강연 일정 위기",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "이강인 67분 소화 2-2 무승부",
+      "keyword": "중국축구협회, 성접대 의혹 증거 부족",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 6,
+      "keyword": "하석진 감정에 흔들린다",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "오싹한 연애",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 8,
+      "keyword": "이강인, 극적 2-2 무승부",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "실종 CCTV 118대 삭제",
-      "state": "n",
+      "keyword": "CCTV 118대 삭제",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "일본 홋카이도 6.0 지진",
-      "state": "+",
-      "change": "6"
+      "keyword": "홋카이도 6.0 지진",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
