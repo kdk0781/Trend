@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-23T11:00:52.930Z",
+  "updatedAt": "2026-08-23T11:30:07.230Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "lg 대 한화",
-      "traffic": "5000+"
+      "keyword": "아시아투데이",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "가락시장",
-      "traffic": "1000+"
+      "keyword": "삼성전기",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
+      "keyword": "발데",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "워터밤",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "우주선",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "lg 대 한화",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "가락시장",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
       "keyword": "고발",
       "traffic": "2000+"
     },
     {
-      "rank": 4,
-      "keyword": "코오롱 티슈 진",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "xsmn",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "t1",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "tesla",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "이중근",
+      "rank": 9,
+      "keyword": "호텔",
       "traffic": "100+"
     },
     {
-      "rank": 9,
-      "keyword": "손태영",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "허양임",
+      "keyword": "코오롱 티슈 진",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "서교림 메이저 우승",
+      "keyword": "1박 2일",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "종합특검 58명 기소 7명 구속",
-      "state": "+",
+      "keyword": "서교림 메이저 우승!",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "김재현 끝내기 만루포",
+      "keyword": "종합특검 58명 기소 7명 구속",
       "state": "-",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "하하 런닝맨 때문에 반지의 제왕 거절",
+      "keyword": "하하, 런닝맨 때문에 반지의 제왕 거절",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "안세영 결승 기대",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "앳하트 뉴잭스윙 접수",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "김동완, 박위와 관계 없음",
+      "keyword": "우서윤, 미스코리아 진 미모 주목",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "안세영 결승 흥분",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "앳하트 인기가요 출연",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "역투하는 두산 곽빈",
+      "keyword": "역투하는 선발 곽빈",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "공군 훈련병 70명 식중독 의심",
+      "keyword": "사우델 태풍 경로는?",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김우중 가사도우미 출신 500억 CEO",
-      "state": "n",
-      "change": "0"
+      "keyword": "김동완, 박위와 관계없음.",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
