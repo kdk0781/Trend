@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-23T21:31:14.611Z",
+  "updatedAt": "2026-08-23T21:52:16.335Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "교사",
-      "traffic": "200+"
+      "keyword": "베트남 축구 국가대표팀",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "대한민국의 대법관",
-      "traffic": "5000+"
+      "keyword": "보이콧",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "주주",
-      "traffic": "1000+"
+      "keyword": "rennes vs psg",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "psg",
+      "keyword": "주차",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "김수현",
+      "keyword": "서울특별시",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "elche vs barcelona",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "은가은",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "수출",
+      "keyword": "mc몽",
       "traffic": "100+"
     },
     {
-      "rank": 9,
-      "keyword": "토리노 대 밀란",
+      "rank": 7,
+      "keyword": "구청장",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "교사",
       "traffic": "200+"
     },
     {
+      "rank": 9,
+      "keyword": "대한민국의 대법관",
+      "traffic": "5000+"
+    },
+    {
       "rank": 10,
-      "keyword": "장도연",
+      "keyword": "주주",
       "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "안세영 세계선수권 우승",
+      "keyword": "2026년 8월 24일 운세",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 2,
+      "keyword": "이강인 67분 소화, 2-2 무승부",
+      "state": "+",
+      "change": "7"
+    },
+    {
+      "rank": 3,
+      "keyword": "박은빈 양세종 해피엔딩",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "하석진, 안희연 감정에 흔들린다",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "안세영 배드민턴 금메달!",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "박위, 100만 유튜버 타이틀 잃었다",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "서울 폭염 태풍 활동",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "시몬스-포스코-고려제강 협력",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 2,
-      "keyword": "2026년 8월 24일 운세",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 3,
-      "keyword": "오싹한 연애",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "하석진이 사랑에 흔들린다",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "LG 단독 3위 탈환",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "서울공예박위 제주탐방",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "태풍 3개 활동 중",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "일본 홋카이도 6.0 지진",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 9,
-      "keyword": "이강인, 67분 뛰고 2-2 무승부",
-      "state": "s",
-      "change": "0"
+      "keyword": "일본 홋카이도 6.0 지진 발생",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "미우새 신동엽 이수근 칭찬",
+      "keyword": "비거주 1주택 세금 완화",
       "state": "n",
       "change": "0"
     }
