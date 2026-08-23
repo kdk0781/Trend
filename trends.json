@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-23T15:32:09.007Z",
+  "updatedAt": "2026-08-23T15:52:59.520Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "김윤지",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
+      "keyword": "세계 배드민턴 선수권 대회",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "atlético madrid vs villarreal",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "학생",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "뉴캐슬 대 리버풀",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 6,
       "keyword": "거제 섬꽃 축제",
       "traffic": "2000+"
     },
     {
-      "rank": 2,
-      "keyword": "홈런",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
+      "rank": 7,
       "keyword": "아틀레티코 대 비야레알",
-      "traffic": "10000+"
+      "traffic": "20000+"
     },
     {
-      "rank": 4,
+      "rank": 8,
       "keyword": "ngoại hạng anh",
       "traffic": "500+"
     },
     {
-      "rank": 5,
-      "keyword": "갑질",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
+      "rank": 9,
       "keyword": "세종특별자치시",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "fotmob",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "아스톤빌라",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "청소",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "야구 감독",
+      "keyword": "fotmob",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "안세영, 3년 만에 세계선수권 정상",
-      "state": "+",
-      "change": "2"
+      "keyword": "안세영 세계선수권 정상 탈환",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
       "keyword": "김재현 끝내기 만루포!",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "제주 실종 허위 종결 경찰은 뭘 했나?",
-      "state": "+",
-      "change": "2"
+      "keyword": "허위 종결 의혹",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "빅뱅 20주년 공연",
-      "state": "+",
-      "change": "2"
+      "keyword": "빅뱅 20주년 콘서트 개최",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
       "keyword": "서교림, 메이저 우승!",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "지예은 주식 -47% 씁쓸",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 7,
-      "keyword": "광주 쿠팡 지게차 사고",
-      "state": "n",
+      "keyword": "지예은, 주식 폭락과 자랑",
+      "state": "s",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "한화, 경남 지원 30억원",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 8,
-      "keyword": "역투하는 두산 곽빈",
+      "keyword": "하하, 반지의 제왕 출연 불발",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "하하, 호빗족 제안 거절",
-      "state": "n",
-      "change": "0"
+      "keyword": "역투하는 두산 곽빈",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "한화, 경남에 30억원 지원",
+      "keyword": "종합특검 기소 58명",
       "state": "n",
       "change": "0"
     }
