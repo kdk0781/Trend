@@ -1,68 +1,68 @@
 {
-  "updatedAt": "2026-08-23T19:58:13.572Z",
+  "updatedAt": "2026-08-23T20:21:50.044Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "thứ hạng của man city gặp bournemouth",
+      "keyword": "장도연",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "첼시",
-      "traffic": "100+"
+      "keyword": "엘체 대 바르셀로나",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "세리에",
+      "keyword": "양민혁",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "유벤투스",
+      "keyword": "일베",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "훌리안 알바레스",
+      "keyword": "디씨",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "นิวคาสเซิล พบ ลิเวอร์พูล",
+      "keyword": "thứ hạng của man city gặp bournemouth",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "살라",
-      "traffic": "200+"
+      "keyword": "첼시",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "로메로",
+      "keyword": "세리에",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "100 일 의 거짓말",
-      "traffic": "2000+"
+      "keyword": "유벤투스",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "atletico madrid",
+      "keyword": "훌리안 알바레스",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "안세영 세계선수권 정상 탈환",
+      "keyword": "안세영, 세계선수권 정상 탈환",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "빅뱅 20주년 공연 준비 중",
-      "state": "s",
+      "keyword": "88세까지 빅뱅 20주년",
+      "state": "n",
       "change": "0"
     },
     {
@@ -73,44 +73,44 @@
     },
     {
       "rank": 4,
-      "keyword": "곽빈 7이닝 무실점",
-      "state": "+",
-      "change": "1"
+      "keyword": "7이닝 무실점 두산",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "중국축구협회, 성접대 의혹 증거 부족",
-      "state": "+",
-      "change": "2"
+      "keyword": "중축구협회, 성접대 의혹 증거 無",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "하석진 감정에 흔들린다",
+      "keyword": "KTX 낙상 영상 박위 역풍",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "오싹한 연애",
-      "state": "-",
-      "change": "3"
+      "keyword": "일본 홋카이도 6.0 지진",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "이강인, 극적 2-2 무승부",
-      "state": "s",
-      "change": "0"
+      "keyword": "이강인 67분 2-2 무승부",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "CCTV 118대 삭제",
-      "state": "s",
-      "change": "0"
+      "keyword": "오싹한 연애",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "홋카이도 6.0 지진",
-      "state": "s",
+      "keyword": "병동 환자 폭행 60대 체포",
+      "state": "n",
       "change": "0"
     }
   ]
