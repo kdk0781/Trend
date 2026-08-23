@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-23T05:52:16.845Z",
+  "updatedAt": "2026-08-23T06:26:22.020Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "타율",
+      "keyword": "수원 삼성 블루윙즈",
       "traffic": "2000+"
     },
     {
       "rank": 2,
+      "keyword": "삼성",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "장윤주",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "india vs sri lanka",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "김주형",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "카자흐스탄",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "타율",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
       "keyword": "엔비디아",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
+      "rank": 9,
       "keyword": "오버워치 월드컵",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 10,
       "keyword": "이바라키 현",
       "traffic": "5000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "가사 도우미",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "정몽규",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "두산 베어스",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "안규백",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "선수",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "sl vs ind",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "고위당정협의회 한성숙-김민석",
-      "state": "n",
+      "keyword": "신장식 조국혁신당 대표",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "손흥민 6경기 무득점",
+      "keyword": "손흥민 6경기 연속 침묵",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "오디세이 700만 돌파",
+      "keyword": "김동완, 박위 옹호 우려 활동",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "주유소 기름값 14주째 하락",
+      "keyword": "서울에서 찾은 시민들",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "폭우·폭염·태풍 증가한다.",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "김동완 박위 논란 입장 발표",
+      "keyword": "당정 500세대 이하 재건축 권한 이양",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "하석진, 안희연 사랑에 흔들린다",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "사랑이 온다",
+      "keyword": "폭우와 폭염 태풍 날씨 악화",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "계속 서울 전역 폭염주의보",
+      "keyword": "김윤덕·오세훈, 이번주 재회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "천안 10대 흉기 사건",
+      "keyword": "명진 스님 추모 발길 이어져",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "우지원 딸 서윤, 미코 진 비주얼 173CM 매력적",
-      "state": "-",
-      "change": "5"
+      "keyword": "참가자 폭행 50대 체포",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
