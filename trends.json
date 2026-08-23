@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T18:35:17.015Z",
+  "updatedAt": "2026-08-23T19:00:06.015Z",
   "google": [
     {
       "rank": 1,
@@ -13,33 +13,33 @@
     },
     {
       "rank": 3,
+      "keyword": "at마드리드 비야레알",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
       "keyword": "훌리안 알바레스",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "นิวคาสเซิล พบ ลิเวอร์พูล",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "살라",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "로메로",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "100 일 의 거짓말",
       "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "atletico madrid",
-      "traffic": "200+"
     },
     {
       "rank": 9,
@@ -48,68 +48,68 @@
     },
     {
       "rank": 10,
-      "keyword": "newcastle vs liverpool",
-      "traffic": "500+"
+      "keyword": "atletico madrid",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "안세영 세계선수권 정상 탈환",
+      "keyword": "안세영, 세계선수권 정상 탈환",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "빅뱅 20주년 콘서트 개최",
+      "keyword": "빅뱅 20주년 콘서트",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "허위 종결 사건 책임져야",
-      "state": "n",
-      "change": "0"
+      "keyword": "오싹한 연애",
+      "state": "+",
+      "change": "59"
     },
     {
       "rank": 4,
-      "keyword": "역투하는 두산 곽빈",
-      "state": "s",
-      "change": "0"
+      "keyword": "하석진, 안희연 사랑에 흔들린다",
+      "state": "+",
+      "change": "13"
     },
     {
       "rank": 5,
       "keyword": "2026년 8월 24일 운세",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "LG, 3위 탈환!",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "성접대 의혹 조사 증거 없어",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "하하, 호빗족 제안 고사",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "민심 싸늘한 박위 일정 위험",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "역투하는 두산 곽빈",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "허위 종결 사태 제주 경찰 문제",
+      "state": "-",
+      "change": "4"
+    },
+    {
+      "rank": 8,
+      "keyword": "박위 강연 일정 위기",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "중국축구, 성접대 의혹 증거 없어",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 10,
-      "keyword": "중국 코로나 52만, 한국 2.8배 증가",
+      "keyword": "우지원 딸 성형 논란",
       "state": "n",
       "change": "0"
     }
