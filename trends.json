@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-08-23T15:52:59.520Z",
+  "updatedAt": "2026-08-23T16:15:23.018Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김윤지",
-      "traffic": "500+"
+      "keyword": "중계",
+      "traffic": "200+"
     },
     {
       "rank": 2,
+      "keyword": "티비",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "스포츠토토",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "대학 입학",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "헐크",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "김윤지",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
       "keyword": "세계 배드민턴 선수권 대회",
       "traffic": "10000+"
     },
     {
-      "rank": 3,
+      "rank": 8,
       "keyword": "atlético madrid vs villarreal",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "keyword": "학생",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 10,
       "keyword": "뉴캐슬 대 리버풀",
       "traffic": "5000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "거제 섬꽃 축제",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "아틀레티코 대 비야레알",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "ngoại hạng anh",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "세종특별자치시",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "fotmob",
-      "traffic": "200+"
     }
   ],
   "domestic": [
@@ -67,51 +67,51 @@
     },
     {
       "rank": 3,
-      "keyword": "허위 종결 의혹",
+      "keyword": "제주 실종 사건 허위 종결",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
       "keyword": "빅뱅 20주년 콘서트 개최",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "서교림, 메이저 우승!",
+      "keyword": "서교림 메이저 우승 쾌거",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "지예은, 주식 폭락과 자랑",
+      "keyword": "지예은 주식 -47% 씁쓸",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "한화, 경남 지원 30억원",
-      "state": "+",
-      "change": "3"
+      "keyword": "하하, 런닝맨 촬영 위해 호빗족 제안 거절.",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "하하, 반지의 제왕 출연 불발",
+      "keyword": "종합특검 58명 기소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
       "keyword": "역투하는 두산 곽빈",
-      "state": "-",
-      "change": "1"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "종합특검 기소 58명",
-      "state": "n",
-      "change": "0"
+      "keyword": "한화, 경남에 30억원 지원",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
