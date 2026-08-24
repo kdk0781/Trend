@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-24T04:58:04.244Z",
+  "updatedAt": "2026-08-24T05:37:08.616Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "신슬기",
-      "traffic": "1000+"
+      "keyword": "김설현",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "심폐소생술",
-      "traffic": "200+"
+      "keyword": "백낙청",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "기안84",
-      "traffic": "1000+"
+      "keyword": "장례",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "명태균",
-      "traffic": "1000+"
+      "keyword": "부코페",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "징역형",
+      "keyword": "수해",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "초대형 방사포",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "화장품",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "박위 논란",
+      "keyword": "블라디미르 푸틴",
       "traffic": "500+"
     },
     {
+      "rank": 7,
+      "keyword": "핵무기",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "신슬기",
+      "traffic": "2000+"
+    },
+    {
       "rank": 9,
-      "keyword": "양세형",
-      "traffic": "10000+"
+      "keyword": "쥐",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "이연복",
+      "keyword": "심폐소생술",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 장동혁 예방 만남",
+      "keyword": "김민석 대표 접견",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "장미란 추정 시신 발견",
-      "state": "s",
-      "change": "0"
+      "keyword": "장미란씨 시신 발견",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "최민식과 한소희의 환상 호흡",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
       "keyword": "전장연, 지하철 시위 중단",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "KLPGA 챔피언십 결과 정리",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 5,
-      "keyword": "180일 수사 마친 권창영",
+      "keyword": "최민식·한소희 인턴 조합 기대해요",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "하이닉스 주가 향방은?",
-      "state": "s",
-      "change": "0"
+      "keyword": "조희대 대법원장 법의 지배 소중해",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "종합특검 수사결과 발표",
-      "state": "s",
-      "change": "0"
+      "keyword": "하이닉스 주가 향방은?",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "KLPGA 챔피언십 후반 아쉬움",
-      "state": "s",
-      "change": "0"
+      "keyword": "위패 환안 행차",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "대성전 위패 환안",
+      "keyword": "사랑이 온다 시청률 최고",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "태용, 마크 탈퇴 존중 응원",
-      "state": "+",
-      "change": "1"
+      "keyword": "NCT 127, 10주년 맞아 원팀으로 재결합!",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
