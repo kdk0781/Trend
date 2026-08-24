@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-24T10:29:13.486Z",
+  "updatedAt": "2026-08-24T11:02:17.923Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "홍혜걸",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "장학금",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "천궁",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "마르코스 로드리게스 판토하",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "최영중",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "조희대",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "특별감찰관",
+      "keyword": "마르코스 로드리게스 판 토하",
       "traffic": "500+"
     },
     {
-      "rank": 8,
-      "keyword": "공효진",
+      "rank": 2,
+      "keyword": "신동욱",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "한소희",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "회사",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "여군",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "스토크 시티 fc",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "대환장 기 안장",
       "traffic": "2000+"
     },
     {
+      "rank": 8,
+      "keyword": "국채",
+      "traffic": "500+"
+    },
+    {
       "rank": 9,
-      "keyword": "이범수",
+      "keyword": "xổ số miền nam",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "영종구청장",
+      "keyword": "대한축구협회",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "스피카 양지원, 결혼 후 엄마 된다",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
       "keyword": "법무부 정성호 장관",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "하이브 신인 튜이드 데뷔 목표",
+      "rank": 2,
+      "keyword": "스피카 양지원, 결혼 후 엄마 된다",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "전원주 제작진 하차 이유 궁금해",
+      "state": "+",
+      "change": "5"
+    },
+    {
       "rank": 4,
-      "keyword": "제주 실종 감찰 착수",
-      "state": "-",
+      "keyword": "제주서 실종자 사체 발견 4명째",
+      "state": "+",
       "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "김시아의 가족 비광 승리 가능성",
+      "keyword": "류승룡 하지원 김시아 비광 주역",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "옹성우, 오싹한 연애로 새 모습 발견",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "전원주 유튜브 제작진 하차",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "LG생활건강 에이본 매각",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "日 인플루언서 자조 유머 바꿀 수 있습니다.",
+      "keyword": "송자호, 박규리와 결별 후 가수 데뷔",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "박위 논란에 모든 장애인",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "월미도 디스코팡팡 나가",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "옹성우, 오싹한 연애 소감 밝혀",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 10,
-      "keyword": "송자호, 박규리와 결별 후 데뷔",
+      "keyword": "들국화 최구희 별세",
       "state": "n",
       "change": "0"
     }
