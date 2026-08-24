@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-24T08:05:23.217Z",
+  "updatedAt": "2026-08-24T08:59:16.399Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김희철",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "간호",
+      "keyword": "최두호",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "추가경정예산",
+      "traffic": "100+"
+    },
+    {
       "rank": 3,
-      "keyword": "인천대교",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "엔씨",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "황의조",
+      "keyword": "김건희",
       "traffic": "2000+"
     },
     {
+      "rank": 4,
+      "keyword": "동원령",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "타율",
+      "traffic": "500+"
+    },
+    {
       "rank": 6,
-      "keyword": "만평",
+      "keyword": "대한민국 해병대",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "건설",
-      "traffic": "200+"
+      "keyword": "클로드 장애",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "조성진",
-      "traffic": "200+"
+      "keyword": "김희철",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "감시",
+      "keyword": "간호",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "감전",
-      "traffic": "2000+"
+      "keyword": "인천대교",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "양준모 양지원 결혼 발표",
+      "keyword": "양준모 혼전 임신 결혼 발표",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
       "keyword": "최길수 특별감찰관 지명",
-      "state": "+",
-      "change": "8"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이태한 선관위 특검",
+      "keyword": "하이브 신인 튜이드 데뷔",
+      "state": "+",
+      "change": "7"
+    },
+    {
+      "rank": 4,
+      "keyword": "하지원 욕설 연기 20점",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "매니페스토 약속대상 수상",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "매니페스토 약속대상 수상",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 5,
-      "keyword": "실종 허위 종결 논란",
-      "state": "+",
-      "change": "5"
-    },
-    {
       "rank": 6,
-      "keyword": "조생종 벼 수확 중",
-      "state": "+",
-      "change": "1"
+      "keyword": "명태균 보석 석방 인정",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "비광 하지원 욕 배운다",
+      "keyword": "롯데 손성빈 경기 출전 가능",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김민석, 고소당하다",
+      "keyword": "조생종 벼 수확 가을 다가옴",
       "state": "-",
       "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "손성빈, 7월 씬-스틸러상 수상",
-      "state": "n",
-      "change": "0"
+      "keyword": "이억원 위원장 관련 활동",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "이억원 위원장 관련 기사들",
-      "state": "-",
-      "change": "2"
+      "keyword": "페라리 루체 한국 상륙",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
