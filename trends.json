@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-24T11:38:21.306Z",
+  "updatedAt": "2026-08-24T11:58:20.242Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김치",
+      "keyword": "용산공원",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "박항서",
-      "traffic": "500+"
+      "keyword": "민희진",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "lg 트윈스",
+      "keyword": "김치",
       "traffic": "1000+"
     },
     {
       "rank": 4,
+      "keyword": "박항서",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "lg 트윈스",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
       "keyword": "전원주",
       "traffic": "20000+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "동복댐",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "타이타닉",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "제주항공",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "김효주",
       "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "마르코스 로드리게스 판 토하",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "신동욱",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정성호 장관 청사 나서다",
+      "keyword": "법무부 정성호 장관",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "양지원, 마흔에 결혼 엄마 된다",
+      "keyword": "양지원, 마흔에 엄마 된다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "제주 실종자 사체 4명 발견",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "전원주 유튜브 제작진 하차 이유 궁금해",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "김시아와 주역들 각선미 자랑",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "튜이드 데뷔 자신감",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 7,
-      "keyword": "하이닉스 주가 향방",
-      "state": "+",
-      "change": "8"
-    },
-    {
-      "rank": 8,
-      "keyword": "모든 장애인 폄하 말길",
+      "keyword": "제주 실종자 시신 4명 발견",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "전원주 유튜브 제작진 급하차 걱정 많이",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "조희대 법의지배 소중한 자리",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "최구희 별세 위암 투병",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "야탑역 20대 난동 배상",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "주말이 기다리는 사랑",
+      "state": "+",
+      "change": "4"
+    },
+    {
       "rank": 9,
-      "keyword": "월미도 30대 디스코팡팡 부상",
+      "keyword": "60㎜ 소나기와 36도 더위",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "한빈 첫 솔로 출격",
-      "state": "n",
-      "change": "0"
+      "keyword": "김시아 비광 주역 등장",
+      "state": "-",
+      "change": "5"
     }
   ]
 }
