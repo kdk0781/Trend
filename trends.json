@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-23T23:53:24.908Z",
+  "updatedAt": "2026-08-24T00:47:51.538Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "아리엘 후라도",
-      "traffic": "100+"
+      "keyword": "장기전세주택",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "뉴스",
-      "traffic": "2000+"
+      "keyword": "손범수",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "klasemen elche vs barcelona",
+      "keyword": "빗썸",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "한겨레",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "나스닥 100",
+      "keyword": "브레이브스 대 브루어스",
       "traffic": "500+"
     },
     {
+      "rank": 5,
+      "keyword": "제시카 페굴라",
+      "traffic": "200+"
+    },
+    {
       "rank": 6,
-      "keyword": "스코티 셰플러",
-      "traffic": "1000+"
+      "keyword": "송성문",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "손성빈",
-      "traffic": "200+"
+      "keyword": "전기",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "상장",
-      "traffic": "200+"
+      "keyword": "유",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "서식스 공작부인 메건",
+      "keyword": "환율 달러",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "elche cf vs fc barcelona standings",
-      "traffic": "500+"
+      "keyword": "아리엘 후라도",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "서울 폭염특보, 태풍 3개 활동 중",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "사랑이 온다 1위 엔딩",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 3,
-      "keyword": "펜스 요격미사일 우크라 배치 가능",
+      "keyword": "이재명 지지율 40.2% 6주 하락",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "삼성전자 히트펌프 보일러",
+      "state": "+",
+      "change": "6"
+    },
+    {
+      "rank": 3,
+      "keyword": "손범수와 진양혜의 행복한 이야기",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 4,
-      "keyword": "이정후 4타수 무안타",
+      "keyword": "박은빈과 양세종 해피엔딩",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "여자화장실 휴대전화 사건",
+      "keyword": "이재성, 시즌 첫 경기 도움 포칼 9-0 대승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "우서윤 성형 논란",
+      "keyword": "박위 구독자 100만 이탈",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "인천 아파트 관리소 감전 사망",
+      "keyword": "이정후 4타수 무안타 충격",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 8,
+      "keyword": "현대차 대규모 채용 실시",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "명진스님 추모와 영결식",
-      "state": "+",
-      "change": "3"
-    },
-    {
       "rank": 9,
-      "keyword": "임성재, PO 진출 실패",
+      "keyword": "고영욱 장도연 저격",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "권정열 김윤주 12년 차 투샷 공개",
-      "state": "n",
+      "keyword": "셀트리온 키트루다 바이오시밀러",
+      "state": "s",
       "change": "0"
     }
   ]
