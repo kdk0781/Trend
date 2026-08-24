@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-24T16:26:07.645Z",
+  "updatedAt": "2026-08-24T17:03:32.166Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "롯데마트",
+      "keyword": "영화관",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "lg유플러스",
+      "keyword": "신봉선",
       "traffic": "100+"
     },
     {
       "rank": 3,
+      "keyword": "한국거래소",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "롯데마트",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "lg유플러스",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
       "keyword": "트로트",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "keyword": "트럼프",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "하나머티리얼즈",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "설 영우",
       "traffic": "2000+"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "keyword": "김도환",
       "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "월미도",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "sk 하이닉스 채용",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "박애리",
-      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정성호 법무부 장관 퇴청",
+      "keyword": "정성호 장관 법무부 청사 나감",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "제주 실종 시신 4구 발견",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "튜이드, 하이브 신인 걸그룹 데뷔!",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "전원주 유튜브 제작진 전원 하차 이유는?",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "김민수 레인저스 이적 임박",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "양준모와 양지원의 전부 발표",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "박위 휠체어 사고 논란",
+      "keyword": "제주서 시신 4구 발견",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "전원주 유튜브 제작진 전원 하차",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "김민수 레인저스 이적 임박!",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "들국화 최구희 별세",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "더크로스 김혁건, 박위 논란 장애인 폄하 않길",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "양준모의 결혼 소식",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "비거주 1주택 공제 논의",
+      "keyword": "50대 여성 피살",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "신병 시즌 4",
-      "state": "+",
-      "change": "1"
+      "keyword": "하이브 신인 튜이드, 오늘 데뷔!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "내 남은 연애",
+      "keyword": "비거주 1주택 종부세 검토",
       "state": "-",
-      "change": "1"
+      "change": "2"
     }
   ]
 }
