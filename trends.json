@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-24T21:22:01.291Z",
+  "updatedAt": "2026-08-24T21:51:20.925Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "ฟูลัม พบ เชลซี",
+      "keyword": "김다예",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "이의리",
+      "keyword": "天气",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "기초노령연금",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "김수현",
+      "keyword": "기상청",
       "traffic": "200+"
     },
     {
-      "rank": 5,
-      "keyword": "fulham vs chelsea",
+      "rank": 4,
+      "keyword": "현대자동차",
       "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "엔비디아 주가",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "fc 서울",
-      "traffic": "100+"
+      "keyword": "뉴스",
+      "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "철도",
-      "traffic": "100+"
+      "keyword": "오싹한 연애",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "오스틴 딘",
-      "traffic": "100+"
+      "keyword": "ฟูลัม พบ เชลซี",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "쿠팡플레이",
-      "traffic": "500+"
+      "keyword": "사비뉴",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "유조선",
-      "traffic": "2000+"
+      "keyword": "이의리",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "美 이란 제재 강화",
+      "keyword": "이란 경제 고립 제재",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "내 남은 연애 출연진 직업 공개",
+      "keyword": "내 남은 연애 출연진 나이와 직업 공개",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "박위 논란에 대한 소신 발언",
+      "keyword": "박위 논란 소신 발언",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "트럼프 캐나다 자동차 50% 관세",
+      "keyword": "트럼프 자동차 관세 50% 부과",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "소나기와 폭염 지속",
-      "state": "n",
-      "change": "0"
+      "keyword": "전문직 비자 수수료 1억 원",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "전문직 비자 수수료 10만 달러",
-      "state": "-",
+      "keyword": "21호 태풍 앗사니 발생 중",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "태풍 21호 앗사니 발생",
-      "state": "-",
-      "change": "1"
+      "keyword": "한미 외교장관 통화 강화",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 8,
-      "keyword": "신병 시즌 4",
-      "state": "-",
-      "change": "1"
+      "keyword": "최구희 위암 투병 별세",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "들국화 최구희 별세",
-      "state": "-",
-      "change": "2"
+      "keyword": "소나기 36도 폭염",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "양준모, 다양한 발표",
-      "state": "-",
-      "change": "5"
+      "keyword": "2026년 8월 25일 운세",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
