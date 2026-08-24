@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-24T20:20:25.499Z",
+  "updatedAt": "2026-08-24T20:55:51.024Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "유조선",
-      "traffic": "1000+"
+      "keyword": "이의리",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "풀럼 대 첼시",
+      "keyword": "기초노령연금",
       "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "베센트",
-      "traffic": "500+"
+      "keyword": "김수현",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "유시민",
-      "traffic": "1000+"
+      "keyword": "fulham vs chelsea",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "돈",
-      "traffic": "10000+"
+      "keyword": "fc 서울",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "경주마",
-      "traffic": "200+"
+      "keyword": "철도",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "영화관",
-      "traffic": "200+"
+      "keyword": "오스틴 딘",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "신봉선",
-      "traffic": "200+"
+      "keyword": "쿠팡플레이",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "한국거래소",
-      "traffic": "200+"
+      "keyword": "유조선",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "롯데마트",
-      "traffic": "200+"
+      "keyword": "풀럼 대 첼시",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "美 이란 제재 확대",
+      "keyword": "미 이란 제재 확대",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "차재이 뉴욕대 조기 졸업 이유",
-      "state": "n",
+      "keyword": "연애 출연진 직업 나이 공개",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김민수 레인저스 임박",
+      "keyword": "박위 휠체어 사고 논란",
+      "state": "+",
+      "change": "5"
+    },
+    {
+      "rank": 4,
+      "keyword": "양지원과 양준모, 4단 발표",
+      "state": "+",
+      "change": "26"
+    },
+    {
+      "rank": 5,
+      "keyword": "전문직 비자 수수료 1억 이상",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "제주 실종자 시신 발견",
-      "state": "-",
+      "rank": 6,
+      "keyword": "트럼프 캐나다 자동차 50% 관세",
+      "state": "+",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "50대 여성 흉기살해",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "남은 연애의 놀라운 인연들",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 7,
-      "keyword": "전문직 비자 10만 달러 수수료",
-      "state": "s",
+      "keyword": "태풍 21호 앗사니 발생",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "트럼프 캐나다 자동차 관세 인상",
+      "keyword": "들국화 최구희 위암으로 별세",
       "state": "+",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "박위 휠체어 사고 논란",
-      "state": "-",
-      "change": "1"
+      "keyword": "외교장관 통화 공조",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "한미 외교장관 통화",
+      "keyword": "곳곳 더위 계속",
       "state": "n",
       "change": "0"
     }
