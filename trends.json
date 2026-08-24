@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-24T00:47:51.538Z",
+  "updatedAt": "2026-08-24T02:12:28.027Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "장기전세주택",
-      "traffic": "500+"
+      "keyword": "안동농협",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "손범수",
-      "traffic": "500+"
+      "keyword": "부산은행",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "빗썸",
-      "traffic": "100+"
+      "keyword": "아버지",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "브레이브스 대 브루어스",
+      "keyword": "니어스랩",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "제시카 페굴라",
-      "traffic": "200+"
+      "keyword": "새마을금고",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "송성문",
-      "traffic": "200+"
+      "keyword": "농업인",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "전기",
-      "traffic": "500+"
+      "keyword": "고용노동부",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "유",
-      "traffic": "500+"
+      "keyword": "zoom",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "환율 달러",
-      "traffic": "100+"
+      "keyword": "장기전세주택",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "아리엘 후라도",
-      "traffic": "100+"
+      "keyword": "손범수",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 지지율 40.2% 6주 하락",
+      "keyword": "하이닉스 주가 향방은?",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 2,
+      "keyword": "2027학년도 수능 접수 시작",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 2,
-      "keyword": "삼성전자 히트펌프 보일러",
-      "state": "+",
-      "change": "6"
-    },
-    {
       "rank": 3,
-      "keyword": "손범수와 진양혜의 행복한 이야기",
-      "state": "+",
-      "change": "2"
+      "keyword": "손범수와 진양혜 행복한 며느리",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "박은빈과 양세종 해피엔딩",
-      "state": "-",
-      "change": "1"
+      "keyword": "발언하는 장동혁 대표",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이재성, 시즌 첫 경기 도움 포칼 9-0 대승",
-      "state": "n",
+      "keyword": "코스피 하락 출발",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "박위 구독자 100만 이탈",
+      "keyword": "임영웅, 집중호우 2억 기부",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "이정후 4타수 무안타 충격",
+      "keyword": "삼성 EHS 보일러 생산",
       "state": "-",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "현대차 대규모 채용 실시",
-      "state": "n",
-      "change": "0"
+      "keyword": "이정후 4타수 무안타",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 9,
-      "keyword": "고영욱 장도연 저격",
+      "keyword": "이진숙, 김민석 히틀러 발언 고소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "셀트리온 키트루다 바이오시밀러",
-      "state": "s",
-      "change": "0"
+      "keyword": "제주 경찰관 구속영장 신청",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
