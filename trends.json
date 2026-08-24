@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-24T09:50:49.294Z",
+  "updatedAt": "2026-08-24T10:29:13.486Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "조희대",
-      "traffic": "2000+"
+      "keyword": "홍혜걸",
+      "traffic": "200+"
     },
     {
       "rank": 2,
+      "keyword": "장학금",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "천궁",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "마르코스 로드리게스 판토하",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "최영중",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "조희대",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 7,
       "keyword": "특별감찰관",
       "traffic": "500+"
     },
     {
-      "rank": 3,
+      "rank": 8,
       "keyword": "공효진",
       "traffic": "2000+"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "keyword": "이범수",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "영종구청장",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "피싱",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
-      "keyword": "l g 에너지 솔루션",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "코스피",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "튜이드",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "아이티센글로벌",
+      "keyword": "영종구청장",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "양지원, 마흔에 엄마 된다",
+      "keyword": "스피카 양지원, 결혼 후 엄마 된다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "제주 실종 사건 진상규명 필요",
+      "keyword": "법무부 정성호 장관",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "하이브 신인 튜이드 DEBUT!",
+      "keyword": "하이브 신인 튜이드 데뷔 목표",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "비광 하지원 욕설 20점",
-      "state": "s",
-      "change": "0"
+      "keyword": "제주 실종 감찰 착수",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "여론조사 명태균 보석",
+      "keyword": "김시아의 가족 비광 승리 가능성",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "롯데 손성빈 출전 가능",
-      "state": "s",
-      "change": "0"
+      "keyword": "옹성우, 오싹한 연애로 새 모습 발견",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "법무부 정성호 장관",
-      "state": "n",
-      "change": "0"
+      "keyword": "전원주 유튜브 제작진 하차",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "매니페스토 약속대상 수상",
+      "keyword": "LG생활건강 에이본 매각",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "주말이 기다려져 사랑 온다",
+      "keyword": "日 인플루언서 자조 유머 바꿀 수 있습니다.",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "LG생활건강 에이본 매각",
-      "state": "s",
+      "keyword": "송자호, 박규리와 결별 후 데뷔",
+      "state": "n",
       "change": "0"
     }
   ]
