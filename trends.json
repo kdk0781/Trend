@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-24T12:50:33.317Z",
+  "updatedAt": "2026-08-24T13:42:50.830Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "여론 조사",
-      "traffic": "5000+"
+      "keyword": "이다현",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "이태양",
-      "traffic": "200+"
+      "keyword": "낙상",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "빈곤",
+      "keyword": "레이 달리오",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "xsmb",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "유현조",
+      "keyword": "차화연",
       "traffic": "100+"
     },
     {
+      "rank": 5,
+      "keyword": "설영우",
+      "traffic": "500+"
+    },
+    {
       "rank": 6,
-      "keyword": "김영록",
-      "traffic": "1000+"
+      "keyword": "디지털 자산",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "괴롭힘",
+      "keyword": "明天的天氣",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "용산공원",
+      "keyword": "사관학교",
       "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "민희진",
-      "traffic": "1000+"
+      "keyword": "소형모듈원자로",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "김치",
-      "traffic": "2000+"
+      "keyword": "광명시장",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "제주 실종자 시신 4구 발견",
-      "state": "s",
+      "keyword": "尹 여론조사 무상제공 보석 재판",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "장혁 현타 안 왔다",
+      "keyword": "조희대 법의 지배 소중한 가치",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김민수 이적료 2위 확정!",
+      "keyword": "정성호 장관 법무부 떠남",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "소나기 낮 최고",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "양지원♥양준모 하루에 4단 발표",
-      "state": "-",
-      "change": "2"
-    },
-    {
       "rank": 5,
-      "keyword": "차화연 조기졸업 이유는 시체 역할",
-      "state": "s",
+      "keyword": "월미도 디스코 30대 부상",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "박솔라, 가족관계증명서 예쁘고 얄밉다",
-      "state": "-",
-      "change": "2"
+      "keyword": "조가빈, 황민수와 결혼",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김혁건, 장애인 폄하 논란",
+      "keyword": "혼전임신을 양준모 발표",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "태풍과 폭염 영향",
-      "state": "n",
-      "change": "0"
+      "keyword": "제주 실종자 시신 4구 발견",
+      "state": "-",
+      "change": "6"
     },
     {
       "rank": 9,
-      "keyword": "전국 60㎜ 소나기 계속",
+      "keyword": "전원주 유튜브 제작진 모두 하차",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "최구희 별세 위암투병",
-      "state": "n",
-      "change": "0"
+      "keyword": "차화연, 은퇴 후 이혼과 학비 벌기",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
