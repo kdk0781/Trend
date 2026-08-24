@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-24T08:59:16.399Z",
+  "updatedAt": "2026-08-24T09:50:49.294Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "최두호",
-      "traffic": "200+"
+      "keyword": "조희대",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "추가경정예산",
-      "traffic": "100+"
+      "keyword": "특별감찰관",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "김건희",
+      "keyword": "공효진",
       "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "동원령",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "타율",
+      "keyword": "이범수",
       "traffic": "500+"
     },
     {
-      "rank": 6,
-      "keyword": "대한민국 해병대",
+      "rank": 5,
+      "keyword": "영종구청장",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "피싱",
+      "traffic": "1000+"
+    },
+    {
       "rank": 7,
-      "keyword": "클로드 장애",
-      "traffic": "100+"
+      "keyword": "l g 에너지 솔루션",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "김희철",
+      "keyword": "코스피",
       "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "간호",
+      "keyword": "튜이드",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "인천대교",
-      "traffic": "500+"
+      "keyword": "아이티센글로벌",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "양준모 혼전 임신 결혼 발표",
+      "keyword": "양지원, 마흔에 엄마 된다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "최길수 특별감찰관 지명",
+      "keyword": "제주 실종 사건 진상규명 필요",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "하이브 신인 튜이드 데뷔",
-      "state": "+",
-      "change": "7"
+      "keyword": "하이브 신인 튜이드 DEBUT!",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "하지원 욕설 연기 20점",
-      "state": "n",
+      "keyword": "비광 하지원 욕설 20점",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "매니페스토 약속대상 수상",
-      "state": "-",
-      "change": "1"
+      "keyword": "여론조사 명태균 보석",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "명태균 보석 석방 인정",
-      "state": "n",
+      "keyword": "롯데 손성빈 출전 가능",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "롯데 손성빈 경기 출전 가능",
+      "keyword": "법무부 정성호 장관",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "조생종 벼 수확 가을 다가옴",
+      "keyword": "매니페스토 약속대상 수상",
       "state": "-",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "이억원 위원장 관련 활동",
-      "state": "-",
-      "change": "3"
+      "keyword": "주말이 기다려져 사랑 온다",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "페라리 루체 한국 상륙",
-      "state": "n",
+      "keyword": "LG생활건강 에이본 매각",
+      "state": "s",
       "change": "0"
     }
   ]
