@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-24T17:03:32.166Z",
+  "updatedAt": "2026-08-24T17:39:43.196Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "영화관",
+      "keyword": "첼시",
       "traffic": "100+"
     },
     {
       "rank": 2,
+      "keyword": "영화관",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
       "keyword": "신봉선",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "한국거래소",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "롯데마트",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "lg유플러스",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "트로트",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "트럼프",
       "traffic": "100+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "하나머티리얼즈",
       "traffic": "200+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "설 영우",
       "traffic": "2000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "김도환",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정성호 장관 법무부 청사 나감",
+      "keyword": "정성호 장관, 법무부 청사 출입",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "제주서 시신 4구 발견",
+      "keyword": "추정 시신 발견",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "전원주 유튜브 제작진 전원 하차",
-      "state": "s",
-      "change": "0"
+      "keyword": "최구희 별세 위암 투병",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "김민수 레인저스 이적 임박!",
+      "keyword": "김민수 레인저스 이적",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "들국화 최구희 별세",
+      "keyword": "전원주 유튜브 제작진 전원 하차",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "김혁건 박위 논란, 장애인 폄하 우려",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "더크로스 김혁건, 박위 논란 장애인 폄하 않길",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 7,
-      "keyword": "양준모의 결혼 소식",
-      "state": "+",
-      "change": "1"
+      "keyword": "나인뮤지스 조가빈 10월",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "50대 여성 피살",
-      "state": "n",
-      "change": "0"
+      "keyword": "비거주 1주택 공제 논의",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "하이브 신인 튜이드, 오늘 데뷔!",
-      "state": "n",
-      "change": "0"
+      "keyword": "차화연 딸 재이 뉴욕대 입학",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "비거주 1주택 종부세 검토",
-      "state": "-",
-      "change": "2"
+      "keyword": "“딸 앞에서 아내 살해”",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
