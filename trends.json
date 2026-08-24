@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-24T13:42:50.830Z",
+  "updatedAt": "2026-08-24T14:26:25.370Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이다현",
-      "traffic": "500+"
+      "keyword": "월미도",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
+      "keyword": "sk 하이닉스 채용",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "박애리",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "애플",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "tradingview",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "이다현",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
       "keyword": "낙상",
       "traffic": "1000+"
     },
     {
-      "rank": 3,
+      "rank": 8,
       "keyword": "레이 달리오",
-      "traffic": "100+"
+      "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "keyword": "차화연",
       "traffic": "100+"
     },
     {
-      "rank": 5,
-      "keyword": "설영우",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "디지털 자산",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "明天的天氣",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "사관학교",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "소형모듈원자로",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "광명시장",
-      "traffic": "200+"
+      "keyword": "설영우",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "尹 여론조사 무상제공 보석 재판",
-      "state": "n",
+      "keyword": "제주 실종자 사흘 발견",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "조희대 법의 지배 소중한 가치",
-      "state": "n",
+      "keyword": "무상제공 명태균 인용",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "정성호 장관 법무부 떠남",
-      "state": "-",
-      "change": "1"
+      "keyword": "조희대 법의 지배 가치 높다",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "소나기 낮 최고",
-      "state": "n",
+      "keyword": "소나기와 무더위",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
       "keyword": "월미도 디스코 30대 부상",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "조가빈, 황민수와 결혼",
+      "keyword": "조가빈 뮤지컬 배우와 결혼해요.",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "혼전임신을 양준모 발표",
+      "keyword": "50대 여성 사망, 전직 경찰 용의자",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "김혁건 장애인 폄하 반대",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "제주 실종자 시신 4구 발견",
-      "state": "-",
-      "change": "6"
-    },
-    {
       "rank": 9,
-      "keyword": "전원주 유튜브 제작진 모두 하차",
+      "keyword": "신병 시즌 4",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "차화연, 은퇴 후 이혼과 학비 벌기",
+      "keyword": "차재이, 뉴욕대 조기 졸업 이유",
       "state": "-",
-      "change": "2"
+      "change": "3"
     }
   ]
 }
