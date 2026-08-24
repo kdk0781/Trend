@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-24T17:39:43.196Z",
+  "updatedAt": "2026-08-24T18:02:10.239Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "첼시",
-      "traffic": "100+"
+      "keyword": "돈",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "영화관",
-      "traffic": "200+"
+      "keyword": "화장실",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "신봉선",
+      "keyword": "경주마",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "한국거래소",
+      "keyword": "첼시",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "롯데마트",
+      "keyword": "영화관",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "lg유플러스",
+      "keyword": "신봉선",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "트로트",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "트럼프",
+      "keyword": "한국거래소",
       "traffic": "100+"
     },
     {
-      "rank": 9,
-      "keyword": "하나머티리얼즈",
+      "rank": 8,
+      "keyword": "롯데마트",
       "traffic": "200+"
     },
     {
+      "rank": 9,
+      "keyword": "lg유플러스",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "설 영우",
-      "traffic": "2000+"
+      "keyword": "트로트",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정성호 장관, 법무부 청사 출입",
-      "state": "s",
-      "change": "0"
+      "keyword": "장미란 추정 시신 발견",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "추정 시신 발견",
-      "state": "s",
-      "change": "0"
+      "keyword": "들국화 최구희 별세",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "최구희 별세 위암 투병",
+      "keyword": "김민수, 레인저스 이적 임박!",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "김민수 레인저스 이적",
-      "state": "s",
-      "change": "0"
+      "keyword": "전원주 유튜브 제작진 전원 하차",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "전원주 유튜브 제작진 전원 하차",
-      "state": "-",
-      "change": "2"
+      "keyword": "정성호 장관 입장 발표",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김혁건 박위 논란, 장애인 폄하 우려",
+      "keyword": "더크로스 김혁건 박위, 장애인 폄하 우려",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "나인뮤지스 조가빈 10월",
-      "state": "n",
-      "change": "0"
+      "keyword": "일본 스키 은퇴 폭로",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "비거주 1주택 공제 논의",
-      "state": "+",
-      "change": "2"
+      "keyword": "트럼프 캐나다 자동차 관세 50% 인상",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "차화연 딸 재이 뉴욕대 입학",
-      "state": "+",
-      "change": "2"
+      "keyword": "월미도 30대 추락 사건",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "“딸 앞에서 아내 살해”",
-      "state": "n",
-      "change": "0"
+      "keyword": "차화연 딸 차재이, 뉴욕대 조기 졸업",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
