@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-24T23:30:41.506Z",
+  "updatedAt": "2026-08-24T23:52:46.206Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "송해나",
-      "traffic": "1000+"
+      "keyword": "스테이블코인",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "아버지",
-      "traffic": "1000+"
+      "keyword": "장교",
+      "traffic": "100+"
     },
     {
       "rank": 3,
+      "keyword": "에코프로비엠",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "송해나",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "아버지",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 6,
       "keyword": "빅뱅",
       "traffic": "1000+"
     },
     {
-      "rank": 4,
-      "keyword": "김승현",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
+      "rank": 7,
       "keyword": "중앙그룹",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 8,
+      "keyword": "김승현",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
       "keyword": "天気",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "keyword": "비트코인",
       "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "로베르토 데 제르비",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "사업",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "tsla",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프, 김정은과 사진 올림",
-      "state": "n",
-      "change": "0"
+      "keyword": "양지원과 양준모 결혼 발표",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "양지원·양준모 예식 앞당김",
+      "keyword": "현대차 성과금 400%+1270만원",
       "state": "+",
-      "change": "2"
+      "change": "5"
     },
     {
       "rank": 3,
       "keyword": "김예건, 즈베즈다 5년 계약",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "박위 CCTV 공개 목적 의문 제기",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "차화연 딸, 뉴욕대 조기졸업 이유",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 6,
-      "keyword": "폭염 속 소나기와 태풍은 어디로",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "현대차 성과금 400%+1270만원",
+      "rank": 4,
+      "keyword": "박위 공개 논란 지속",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "태풍 사우델 관측 중",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "도경수 선예매 매진",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "신병 시즌 4",
+      "rank": 7,
+      "keyword": "장미란 실종 사건",
       "state": "+",
-      "change": "3"
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "정동영 장관 세미나 참석",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "정동영 장관 세미나 참석",
+      "keyword": "지수 신곡 CLICK 예고",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "최구희, 위암 투병 끝 별세 67세.",
+      "keyword": "경제적 고립 작전 개시",
       "state": "n",
       "change": "0"
     }
