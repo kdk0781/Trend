@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-24T22:46:31.182Z",
+  "updatedAt": "2026-08-24T23:03:30.620Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "weather",
-      "traffic": "1000+"
+      "keyword": "tsla",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "나스닥 100",
-      "traffic": "1000+"
+      "keyword": "날씨",
+      "traffic": "100000+"
     },
     {
       "rank": 3,
-      "keyword": "vix",
-      "traffic": "200+"
+      "keyword": "이상민",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "광주광역시",
+      "keyword": "엔비디아",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "필라델피아 반도체 지수",
-      "traffic": "500+"
+      "keyword": "오늘의 날씨",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "mu",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "погода",
+      "keyword": "나스닥 100",
       "traffic": "1000+"
     },
     {
+      "rank": 7,
+      "keyword": "vix",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "ionq",
-      "traffic": "500+"
+      "keyword": "weather",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "soxl",
-      "traffic": "500+"
+      "keyword": "天氣",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "qqq",
-      "traffic": "100+"
+      "keyword": "광주광역시",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이란 경제적 왕따 제재",
+      "keyword": "美, 이란 제재 작전 개시",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김예건 즈베즈다 계약",
+      "keyword": "김예건 즈베즈다 입단 19번 계약",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "코르티스 가사 논란에",
-      "state": "+",
-      "change": "11"
-    },
-    {
-      "rank": 4,
-      "keyword": "현대차 노사 임금 합의",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "태풍 21호 앗사니 발생",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "뉴욕증시 혼조 마감",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "한미 외교 통화 북핵 공조",
+      "keyword": "박위 CCTV 공개 목적 의문 제기",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 4,
+      "keyword": "양지원, 이혼남 양준모와 결혼",
+      "state": "+",
+      "change": "6"
+    },
+    {
+      "rank": 5,
+      "keyword": "코르티스 가사 논란에",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "폭염 속 소나기 태풍은 어디로",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "현대차 노사 임협 잠정합의",
+      "state": "-",
+      "change": "3"
+    },
+    {
       "rank": 8,
-      "keyword": "흉기로 살해한 혐의로",
+      "keyword": "뉴욕증시 혼조 마감",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "살해한 경찰 긴급체포",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "내 남은 연애 출연진 나이·직업 공개",
-      "state": "-",
-      "change": "7"
-    },
-    {
       "rank": 10,
-      "keyword": "양준모 임신 발표",
-      "state": "+",
-      "change": "1"
+      "keyword": "한미 통화 북핵 공조",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
