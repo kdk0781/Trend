@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-24T21:51:20.925Z",
+  "updatedAt": "2026-08-24T22:17:00.757Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김다예",
-      "traffic": "200+"
+      "keyword": "skhy",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "天气",
+      "keyword": "사랑이 온다",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "기상청",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "현대자동차",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "엔비디아 주가",
+      "keyword": "일기예보",
       "traffic": "100+"
     },
     {
+      "rank": 4,
+      "keyword": "현대",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "포스코",
+      "traffic": "10000+"
+    },
+    {
       "rank": 6,
-      "keyword": "뉴스",
-      "traffic": "5000+"
+      "keyword": "중대범죄수사청",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "오싹한 연애",
-      "traffic": "1000+"
+      "keyword": "김다예",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "ฟูลัม พบ เชลซี",
-      "traffic": "200+"
+      "keyword": "天气",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "사비뉴",
+      "keyword": "헌법재판소",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "이의리",
-      "traffic": "500+"
+      "keyword": "죽음",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이란 경제 고립 제재",
+      "keyword": "美 이란 제재 확대",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "내 남은 연애 출연진 나이와 직업 공개",
+      "keyword": "내 남은 연애 출연자 나이와 직업 공개",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "박위 논란 소신 발언",
-      "state": "s",
+      "keyword": "국가대표 설영우 이적",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "트럼프 자동차 관세 50% 부과",
-      "state": "s",
-      "change": "0"
+      "keyword": "박위 논란에 소신 발언",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "전문직 비자 수수료 1억 원",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "21호 태풍 앗사니 발생 중",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "한미 외교장관 통화 강화",
+      "keyword": "현대차 노사 임금 합의",
       "state": "+",
       "change": "4"
     },
     {
+      "rank": 6,
+      "keyword": "태풍 또 발생, 21호 앗사니 활동 중",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "전문직 비자 수수료 강행",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "최구희 위암 투병 별세",
+      "keyword": "뉴욕증시 혼조 마감",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "소나기 36도 폭염",
+      "keyword": "폭염 속 36도 소나기",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "2026년 8월 25일 운세",
-      "state": "n",
-      "change": "0"
+      "keyword": "한미 외교 통화 공조 강화",
+      "state": "+",
+      "change": "3"
     }
   ]
 }
