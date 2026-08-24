@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-24T15:52:49.170Z",
+  "updatedAt": "2026-08-24T16:26:07.645Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "트로트",
-      "traffic": "200+"
+      "keyword": "롯데마트",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "트럼프",
+      "keyword": "lg유플러스",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "하나머티리얼즈",
+      "keyword": "트로트",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "설 영우",
-      "traffic": "2000+"
+      "keyword": "트럼프",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "김도환",
+      "keyword": "하나머티리얼즈",
       "traffic": "200+"
     },
     {
       "rank": 6,
+      "keyword": "설 영우",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "김도환",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
       "keyword": "월미도",
       "traffic": "5000+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "sk 하이닉스 채용",
       "traffic": "100+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "박애리",
       "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "tradingview",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "이다현",
-      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정성호 장관 법무부 떠남",
+      "keyword": "정성호 법무부 장관 퇴청",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "튜이드, 신인 걸그룹 데뷔!",
+      "keyword": "제주 실종 시신 4구 발견",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "제주 실종 추정 시신 4구 발견",
-      "state": "+",
-      "change": "4"
+      "keyword": "튜이드, 하이브 신인 걸그룹 데뷔!",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "최길수 특별감찰관 지명",
-      "state": "-",
+      "keyword": "전원주 유튜브 제작진 전원 하차 이유는?",
+      "state": "+",
       "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "양준모 4단 발표",
-      "state": "n",
-      "change": "0"
+      "keyword": "김민수 레인저스 이적 임박",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "비광 하지원, 가족사와 삶의 고뇌",
+      "keyword": "양준모와 양지원의 전부 발표",
       "state": "-",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "김민수 레인저스 이적 임박",
-      "state": "n",
+      "keyword": "박위 휠체어 사고 논란",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "여론조사 명태균 보석 석방",
-      "state": "-",
-      "change": "2"
+      "keyword": "비거주 1주택 공제 논의",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "전원주 유튜브 제작진 하차 소식",
-      "state": "n",
-      "change": "0"
+      "keyword": "신병 시즌 4",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
       "keyword": "내 남은 연애",
-      "state": "n",
-      "change": "0"
+      "state": "-",
+      "change": "1"
     }
   ]
 }
