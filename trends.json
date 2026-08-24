@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-24T11:02:17.923Z",
+  "updatedAt": "2026-08-24T11:38:21.306Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "마르코스 로드리게스 판 토하",
+      "keyword": "김치",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "신동욱",
-      "traffic": "200+"
+      "keyword": "박항서",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "한소희",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "회사",
+      "keyword": "lg 트윈스",
       "traffic": "1000+"
     },
     {
+      "rank": 4,
+      "keyword": "전원주",
+      "traffic": "20000+"
+    },
+    {
       "rank": 5,
-      "keyword": "여군",
-      "traffic": "500+"
+      "keyword": "동복댐",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "스토크 시티 fc",
-      "traffic": "500+"
+      "keyword": "타이타닉",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "대환장 기 안장",
-      "traffic": "2000+"
+      "keyword": "제주항공",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "국채",
+      "keyword": "김효주",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "xổ số miền nam",
+      "keyword": "마르코스 로드리게스 판 토하",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "대한축구협회",
+      "keyword": "신동욱",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "법무부 정성호 장관",
+      "keyword": "정성호 장관 청사 나서다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "스피카 양지원, 결혼 후 엄마 된다",
+      "keyword": "양지원, 마흔에 결혼 엄마 된다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "전원주 제작진 하차 이유 궁금해",
+      "keyword": "제주 실종자 사체 4명 발견",
       "state": "+",
-      "change": "5"
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "제주서 실종자 사체 발견 4명째",
-      "state": "+",
-      "change": "2"
+      "keyword": "전원주 유튜브 제작진 하차 이유 궁금해",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "류승룡 하지원 김시아 비광 주역",
+      "keyword": "김시아와 주역들 각선미 자랑",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "송자호, 박규리와 결별 후 가수 데뷔",
-      "state": "n",
-      "change": "0"
+      "keyword": "튜이드 데뷔 자신감",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 7,
-      "keyword": "박위 논란에 모든 장애인",
-      "state": "n",
-      "change": "0"
+      "keyword": "하이닉스 주가 향방",
+      "state": "+",
+      "change": "8"
     },
     {
       "rank": 8,
-      "keyword": "월미도 디스코팡팡 나가",
+      "keyword": "모든 장애인 폄하 말길",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "옹성우, 오싹한 연애 소감 밝혀",
-      "state": "+",
-      "change": "1"
+      "keyword": "월미도 30대 디스코팡팡 부상",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "들국화 최구희 별세",
+      "keyword": "한빈 첫 솔로 출격",
       "state": "n",
       "change": "0"
     }
