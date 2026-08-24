@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-24T23:03:30.620Z",
+  "updatedAt": "2026-08-24T23:30:41.506Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "tsla",
-      "traffic": "100+"
+      "keyword": "송해나",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "날씨",
-      "traffic": "100000+"
+      "keyword": "아버지",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "이상민",
-      "traffic": "2000+"
+      "keyword": "빅뱅",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "엔비디아",
+      "keyword": "김승현",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "오늘의 날씨",
+      "keyword": "중앙그룹",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "나스닥 100",
-      "traffic": "1000+"
+      "keyword": "天気",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "vix",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "weather",
+      "keyword": "비트코인",
       "traffic": "1000+"
     },
     {
-      "rank": 9,
-      "keyword": "天氣",
+      "rank": 8,
+      "keyword": "로베르토 데 제르비",
       "traffic": "200+"
     },
     {
+      "rank": 9,
+      "keyword": "사업",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "광주광역시",
-      "traffic": "200+"
+      "keyword": "tsla",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "美, 이란 제재 작전 개시",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "김예건 즈베즈다 입단 19번 계약",
+      "keyword": "트럼프, 김정은과 사진 올림",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "박위 CCTV 공개 목적 의문 제기",
+      "rank": 2,
+      "keyword": "양지원·양준모 예식 앞당김",
       "state": "+",
       "change": "2"
+    },
+    {
+      "rank": 3,
+      "keyword": "김예건, 즈베즈다 5년 계약",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "양지원, 이혼남 양준모와 결혼",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 5,
-      "keyword": "코르티스 가사 논란에",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "폭염 속 소나기 태풍은 어디로",
+      "keyword": "박위 CCTV 공개 목적 의문 제기",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 5,
+      "keyword": "차화연 딸, 뉴욕대 조기졸업 이유",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 6,
+      "keyword": "폭염 속 소나기와 태풍은 어디로",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "현대차 노사 임협 잠정합의",
-      "state": "-",
-      "change": "3"
+      "keyword": "현대차 성과금 400%+1270만원",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "뉴욕증시 혼조 마감",
-      "state": "-",
-      "change": "2"
+      "keyword": "신병 시즌 4",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "살해한 경찰 긴급체포",
+      "keyword": "정동영 장관 세미나 참석",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "한미 통화 북핵 공조",
-      "state": "-",
-      "change": "3"
+      "keyword": "최구희, 위암 투병 끝 별세 67세.",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
