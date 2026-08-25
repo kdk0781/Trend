@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T18:26:53.335Z",
+  "updatedAt": "2026-08-25T19:07:41.856Z",
   "google": [
     {
       "rank": 1,
@@ -24,7 +24,7 @@
     {
       "rank": 5,
       "keyword": "유재석",
-      "traffic": "1000+"
+      "traffic": "2000+"
     },
     {
       "rank": 6,
@@ -34,7 +34,7 @@
     {
       "rank": 7,
       "keyword": "장원영",
-      "traffic": "1000+"
+      "traffic": "2000+"
     },
     {
       "rank": 8,
@@ -55,63 +55,63 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "오스틴 대기록 사이클링 히트",
+      "keyword": "이호연 만루포 끝내기",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "이재명 대통령 만찬",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
       "keyword": "중국인 여대생 검거",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 4,
-      "keyword": "송하예 100만 유튜버",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "삼성 선발 보스 투구",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "기아 6년 무분규 합의",
-      "state": "+",
-      "change": "8"
+      "rank": 3,
+      "keyword": "송하예 100만 유튜버",
+      "state": "s",
+      "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "캐나다, 美 보복관세 700품목 50%",
+      "rank": 4,
+      "keyword": "박위 CCTV 공개에 KTX 직원 서운함",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "기아, 6년 연속 무분규 합의",
+      "state": "+",
+      "change": "6"
+    },
+    {
+      "rank": 6,
+      "keyword": "홍민기 전여친, 약물 난동 아니다.",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "캐나다 미국산 보복관세 시행",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "역투하는 두산 선발투수",
+      "keyword": "장동윤 팬 기만 없다",
       "state": "-",
       "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "홍민기 전여친 약물 난동 아냐",
-      "state": "n",
-      "change": "0"
+      "keyword": "다른 점 찾으면 원수",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "윤석민 김수현 부부 이야기",
-      "state": "-",
-      "change": "1"
+      "keyword": "대만 치어리더 페이페이",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
