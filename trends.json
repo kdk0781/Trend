@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-25T04:35:05.220Z",
+  "updatedAt": "2026-08-25T05:08:14.302Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "신라젠",
-      "traffic": "100+"
+      "keyword": "청소",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
+      "keyword": "조상우",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "로봇",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "고려아연",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "가상화폐",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "신라젠",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "포스코노동조합",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
       "keyword": "황 유민",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
+      "rank": 9,
       "keyword": "김태균",
       "traffic": "500+"
     },
     {
-      "rank": 4,
-      "keyword": "살인",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "육군사관학교",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "김혁건",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "하루",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "전력",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "넥토리얼",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "광주 도시철도",
-      "traffic": "200+"
+      "keyword": "살인",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이창동 감독과 가능한 사랑",
-      "state": "s",
+      "keyword": "이창동 감독 신작 가능해졌네",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이진숙 제명 결의안",
-      "state": "s",
-      "change": "0"
+      "keyword": "명진스님 영결식",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 3,
-      "keyword": "제주 지휘라인 대기발령",
+      "keyword": "대통합 추진단 첫 회의",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "김승윤 SNS 포스터 공개",
+      "keyword": "장동윤, 김승윤 SNS 티내다",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "류지현호 코칭진 완성",
+      "keyword": "제주 지휘라인 대기발령",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 6,
+      "keyword": "서울 정승원 K리그1 MVP",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "명진스님 영결식",
-      "state": "+",
-      "change": "5"
-    },
-    {
       "rank": 7,
-      "keyword": "오세훈 시장 인사말",
+      "keyword": "에이피알 유럽 성공 가능성",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "삼성전자 게임스컴 2026",
-      "state": "s",
+      "keyword": "교육재정 개편 반대",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "대통합추진단 김민석 당대표",
-      "state": "s",
+      "keyword": "이진숙 제명촉구결의안 국힘",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "에이피알, 3조 매출 기대",
-      "state": "n",
+      "keyword": "조현 장관 활동",
+      "state": "s",
       "change": "0"
     }
   ]
