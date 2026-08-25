@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-08-25T21:55:49.760Z",
+  "updatedAt": "2026-08-25T22:19:05.185Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "골 때리는 그녀들",
+      "keyword": "누리 호",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "한국경제",
-      "traffic": "200+"
+      "keyword": "김은지",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "오늘의 운세",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "이진숙",
+      "keyword": "배충식",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "한국경제",
+      "traffic": "500+"
+    },
+    {
       "rank": 5,
-      "keyword": "이수경",
+      "keyword": "골 때리는 그녀들",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "전현무",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "프로야구 순위",
+      "keyword": "오늘의 운세",
       "traffic": "500+"
     },
     {
+      "rank": 7,
+      "keyword": "이진숙",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "연금",
-      "traffic": "2000+"
+      "keyword": "이수경",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "야구",
-      "traffic": "1000+"
+      "keyword": "전현무",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "박은정",
+      "keyword": "프로야구 순위",
       "traffic": "500+"
     }
   ],
@@ -56,60 +56,60 @@
     {
       "rank": 1,
       "keyword": "이란·오만 호르무즈 합의",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "LG 오스틴 사이클링 히트",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "중국인 유학생 살해 용의자 검거",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "캐나다, 미국 보복관세 700품목",
+      "rank": 2,
+      "keyword": "대만 치어리더 페이페이 매력적",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 3,
+      "keyword": "캐나다 미국산 품목 보복관세",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "윤석민 김수현 갈등과 사랑",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "장동윤 사비 제작 펀딩",
-      "state": "+",
-      "change": "1"
+      "keyword": "중국인 유학생 살해 피의자 압송",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "대만 치어리더 페이페이, 매력 넘쳐",
-      "state": "+",
-      "change": "3"
+      "keyword": "KTX 직원들, 박위 CCTV 반응",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "뉴욕증시 상승",
+      "keyword": "오스틴, 사이클링 히트",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "신병 시즌 4",
+      "keyword": "장동윤 팬 기만 없었다",
       "state": "-",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "태풍 많지만 한반도 무풍지대",
-      "state": "+",
-      "change": "13"
+      "keyword": "뉴욕증시 상승",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "장례식장 과일·주류 반입 가능",
+      "keyword": "용산역 의사 체포",
       "state": "n",
       "change": "0"
     }
