@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-25T23:11:02.324Z",
+  "updatedAt": "2026-08-25T23:39:46.485Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "극초음속 활공체",
-      "traffic": "200+"
+      "keyword": "한국고속철도",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "장우혁",
+      "keyword": "돌리 파튼",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "중국인",
-      "traffic": "10000+"
+      "keyword": "서식 스 공작부 인 메건",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "nvda",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "이민정",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "미국 국방부",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "성과급",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "폴더블 스마트폰",
+      "keyword": "이다현",
       "traffic": "1000+"
     },
     {
+      "rank": 5,
+      "keyword": "김숙",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "에코프로",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "mu",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "트렌드",
+      "traffic": "100+"
+    },
+    {
       "rank": 9,
-      "keyword": "skhy",
-      "traffic": "500+"
+      "keyword": "카르다노",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "보그",
+      "keyword": "극초음속 활공체",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이란·오만 호르무즈 합의",
-      "state": "s",
-      "change": "0"
+      "keyword": "이준석 오늘 사퇴",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 2,
-      "keyword": "캐나다, 美 보복관세 700품목",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "사이클링 히트 오스틴",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "윤석민 도마뱀 50마리",
+      "keyword": "美·이란 휴전 합의",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "KTX 직원 박위, 300번 도움 후 서운한 사건",
-      "state": "s",
+      "rank": 3,
+      "keyword": "박위, KTX 도움 후 서운한 후폭풍",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "아이들 소연 9월 컴백",
+      "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "김승윤 사인회 팬 펀딩",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "장동윤 사인회 김승윤 주연작",
-      "state": "s",
-      "change": "0"
+      "keyword": "올해 태풍 많고 한반도는 무풍지대",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "이준석 오늘 사퇴 책임져",
+      "keyword": "뉴욕증시 상승 0.66%",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "나스닥 0.66% 상승",
-      "state": "-",
-      "change": "1"
+      "keyword": "박수홍 가족 1시간 지연",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "태풍 한국 피해 적지만 변수 존재",
-      "state": "+",
-      "change": "1"
+      "keyword": "수도권·강원 비와 36도 더위",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "장미란씨 실종 수사 구멍",
+      "keyword": "장미란씨 실종 사건 수사 구멍",
       "state": "n",
       "change": "0"
     }
