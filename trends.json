@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-08-25T22:48:35.508Z",
+  "updatedAt": "2026-08-25T23:11:02.324Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "극초음속 활공체",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
+      "keyword": "장우혁",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
       "keyword": "중국인",
       "traffic": "10000+"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "keyword": "nvda",
       "traffic": "500+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "이민정",
       "traffic": "200+"
     },
     {
-      "rank": 4,
-      "keyword": "성과급",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "폴더블 스마트폰",
-      "traffic": "500+"
-    },
-    {
       "rank": 6,
-      "keyword": "김서현",
+      "keyword": "미국 국방부",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "skhy",
+      "keyword": "성과급",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "보그",
-      "traffic": "200+"
+      "keyword": "폴더블 스마트폰",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "vix",
-      "traffic": "200+"
+      "keyword": "skhy",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "나스닥 지수",
+      "keyword": "보그",
       "traffic": "200+"
     }
   ],
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "캐나다 美 보복관세 700개",
+      "keyword": "캐나다, 美 보복관세 700품목",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "윤석민 도마뱀 50마리 700만원",
-      "state": "n",
-      "change": "0"
+      "keyword": "사이클링 히트 오스틴",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "오스틴 사이클링 히트",
-      "state": "n",
-      "change": "0"
+      "keyword": "윤석민 도마뱀 50마리",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "KTX 직원 박위 서운 후폭풍",
+      "keyword": "KTX 직원 박위, 300번 도움 후 서운한 사건",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
       "keyword": "장동윤 사인회 김승윤 주연작",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "나스닥 0.66% 상승",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "유연석 차태현 연말 대상은 안돼",
+      "rank": 7,
+      "keyword": "이준석 오늘 사퇴 책임져",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "중국인 유학생 살해 피의자 압송",
+      "rank": 8,
+      "keyword": "나스닥 0.66% 상승",
       "state": "-",
-      "change": "3"
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "태풍 한국 피해 적지만 변수 존재",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "가을 변수, 태풍 많고 한반도 무풍",
-      "state": "-",
-      "change": "1"
+      "keyword": "장미란씨 실종 수사 구멍",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
