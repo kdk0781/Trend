@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-08-25T17:52:33.876Z",
+  "updatedAt": "2026-08-25T18:26:53.335Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "대한상공회의소",
-      "traffic": "100+"
+      "keyword": "휴 민트",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "sk 하이닉스",
-      "traffic": "500+"
+      "keyword": "대한상공회의소",
+      "traffic": "100+"
     },
     {
       "rank": 3,
@@ -18,100 +18,100 @@
     },
     {
       "rank": 4,
+      "keyword": "리그컵",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
       "keyword": "유재석",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "에어부산",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "장원영",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "불량연애2 2기",
       "traffic": "100+"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "keyword": "하석진",
       "traffic": "2000+"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "keyword": "누리호",
       "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "재벌x형사 2",
-      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "민주당 지도부와 만찬",
-      "state": "s",
-      "change": "0"
+      "keyword": "오스틴 대기록 사이클링 히트",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "오스틴 사이클링 히트 달성!",
-      "state": "s",
+      "keyword": "이재명 대통령 만찬",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "허위 종결 경찰관 구속",
-      "state": "s",
-      "change": "0"
+      "keyword": "중국인 여대생 검거",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 4,
       "keyword": "송하예 100만 유튜버",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "삼성 선발 보스 투구",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "삼성 선발 보스의 도전",
+      "rank": 6,
+      "keyword": "기아 6년 무분규 합의",
       "state": "+",
-      "change": "6"
+      "change": "8"
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "keyword": "캐나다, 美 보복관세 700품목 50%",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "역투하는 두산 선발투수",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 9,
       "keyword": "홍민기 전여친 약물 난동 아냐",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "기아, 6년 무분규 합의",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "캐나다, 美산 품목에 보복관세",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "송강 BTS 뷔와 군대서 친해짐",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 10,
-      "keyword": "장동윤 사비 펀딩",
-      "state": "s",
-      "change": "0"
+      "keyword": "윤석민 김수현 부부 이야기",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
