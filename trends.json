@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-25T07:59:38.144Z",
+  "updatedAt": "2026-08-25T08:47:55.384Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "두산 베어스",
+      "keyword": "투어 챔피언십",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "요나단 페라자",
-      "traffic": "200+"
+      "keyword": "대전광역시",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "털",
+      "keyword": "보잉",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "마이크론 테크놀로지",
+      "keyword": "하정우",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "육군",
-      "traffic": "200+"
+      "keyword": "사표",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "법원행정처장",
-      "traffic": "10000+"
+      "keyword": "방시혁",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "세무조사",
+      "keyword": "송성문",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "김소희",
-      "traffic": "10000+"
+      "keyword": "공무원 노동조합",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "입찰",
+      "keyword": "채무",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "난간",
-      "traffic": "500+"
+      "keyword": "윤이나",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 대표, 정순택 예방",
-      "state": "s",
-      "change": "0"
+      "keyword": "남산 곤돌라 예정지 점검",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "아시안게임 각오 밝히는 선수들",
+      "keyword": "장동윤의 뮤즈 김승윤",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "장동윤, 김승윤 뮤즈였다",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "서울시의회 국민의힘 긴급",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "송강 이준영 피아노 연주 긴장 불편",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "코스피 0.68% 상승 마감",
+      "keyword": "제주 시신 장미란 확인",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "용산공원 주택 공급 재논의",
+      "rank": 4,
+      "keyword": "아시안게임 공개훈련하는 황선우",
       "state": "-",
       "change": "2"
     },
     {
+      "rank": 5,
+      "keyword": "드래곤포니 편성현 탈퇴",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "김민석 정순택 대주교",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "코스피 6740선 마감",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "박위 아내 연좌제 논란",
+      "keyword": "부전~마산 복선전철 내년 4월 부분개통",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "하이닉스 주가 상승",
-      "state": "-",
-      "change": "3"
+      "keyword": "전현무 즉흥 여행 알마티 촬영",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "4개월 아들 학대 친모 감형",
-      "state": "n",
+      "keyword": "아이브 안유진 장원영, 의문의 계정 오픈",
+      "state": "s",
       "change": "0"
     }
   ]
