@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-25T00:47:04.373Z",
+  "updatedAt": "2026-08-25T02:08:40.730Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "대한민국",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "장서희",
+      "keyword": "한웨",
       "traffic": "500+"
     },
     {
+      "rank": 2,
+      "keyword": "드라이브",
+      "traffic": "200+"
+    },
+    {
       "rank": 3,
-      "keyword": "인플레이션",
-      "traffic": "2000+"
+      "keyword": "공군사관학교",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "합계출산율",
-      "traffic": "100+"
+      "keyword": "삼성생명",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "장동윤",
-      "traffic": "2000+"
+      "keyword": "컨테이너선",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "수능원서",
-      "traffic": "100+"
+      "keyword": "달",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "대한전선",
-      "traffic": "200+"
+      "keyword": "이의 리",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "스테이블코인",
-      "traffic": "200+"
+      "keyword": "디에고 시메오네",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "축제",
+      "keyword": "브래드 갈링하우스",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "에코프로비엠",
-      "traffic": "100+"
+      "keyword": "임금",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김승윤과 장동윤 결혼 소식",
+      "keyword": "장동윤 김승윤 10월 결혼",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "2027년 예산안 당정협의",
+      "keyword": "이재명 대통령 국무회의",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "31년 만에 여자복식 우승",
-      "state": "+",
-      "change": "6"
+      "keyword": "장서희 관리 비결",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "양지원·양준모 예식 앞당김",
+      "keyword": "SK하이닉스 잠정합의안 부결",
       "state": "-",
       "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "취재진과 인터뷰하는 감독",
+      "keyword": "2027년 예산안 당정협의",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "윤해영",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "갤럭시 퀀텀7 출시",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 7,
-      "keyword": "송강 김소현 하얀 스캔들 캐스팅 확정",
-      "state": "n",
+      "keyword": "갤럭시 퀀텀7 출시 AI 추가",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "학교폭력 없는 1000일 인사",
+      "keyword": "최길수 특별감찰관 후보자",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "태풍 영향 한낮 더위 증가",
-      "state": "-",
-      "change": "5"
+      "keyword": "지방대 등록금 지원",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "현대차 노사 잠정합의",
+      "keyword": "9월 컴백 대전",
       "state": "n",
       "change": "0"
     }
