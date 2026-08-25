@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-25T07:10:47.391Z",
+  "updatedAt": "2026-08-25T07:59:38.144Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "해변",
+      "keyword": "두산 베어스",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "난간",
-      "traffic": "500+"
+      "keyword": "요나단 페라자",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "류지현",
+      "keyword": "털",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "유어 아너",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "임금피크제",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "정형돈",
+      "keyword": "마이크론 테크놀로지",
       "traffic": "200+"
     },
     {
+      "rank": 5,
+      "keyword": "육군",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "법원행정처장",
+      "traffic": "10000+"
+    },
+    {
       "rank": 7,
-      "keyword": "최영중",
+      "keyword": "세무조사",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "광명시",
-      "traffic": "2000+"
+      "keyword": "김소희",
+      "traffic": "10000+"
     },
     {
       "rank": 9,
-      "keyword": "배구",
-      "traffic": "2000+"
+      "keyword": "입찰",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "좌석",
-      "traffic": "1000+"
+      "keyword": "난간",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 예방 일정",
+      "keyword": "김민석 대표, 정순택 예방",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "아시안게임 각오 밝히는",
+      "keyword": "아시안게임 각오 밝히는 선수들",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "서울시의회 국민의힘 결의문 발표",
+      "keyword": "장동윤, 김승윤 뮤즈였다",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "서울시의회 국민의힘 긴급",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "송강 이준영 피아노 연주 긴장 불편",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "코스피 0.68% 상승 마감",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "송강 이준영 피아노 대결",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "하이닉스 주가 순항 중",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 6,
-      "keyword": "윤형근의 집 언론공개회",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 7,
-      "keyword": "박위, 골절 없는데 사고 과장?",
-      "state": "n",
-      "change": "0"
+      "keyword": "용산공원 주택 공급 재논의",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "여론조사 명태균 석방",
-      "state": "-",
-      "change": "3"
+      "keyword": "박위 아내 연좌제 논란",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "프로야구 정규시즌 10월 7일 종료",
-      "state": "+",
-      "change": "8"
+      "keyword": "하이닉스 주가 상승",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "민주연구원 혁신 TF 회의",
-      "state": "-",
-      "change": "3"
+      "keyword": "4개월 아들 학대 친모 감형",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
