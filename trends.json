@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T19:41:43.339Z",
+  "updatedAt": "2026-08-25T20:02:38.794Z",
   "google": [
     {
       "rank": 1,
@@ -18,32 +18,32 @@
     },
     {
       "rank": 4,
-      "keyword": "블라디미르 푸틴",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 5,
       "keyword": "대한상공회의소",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "keyword": "수능접수",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "keyword": "리그컵",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "keyword": "유재석",
       "traffic": "2000+"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "keyword": "에어부산",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
+      "keyword": "kt wiz",
       "traffic": "100+"
     },
     {
@@ -55,61 +55,61 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이호연 끝내기 만루포",
+      "keyword": "이호연 만루포 끝내다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "대구 중국인 여대생 사망",
+      "keyword": "중국인 여대생 검거",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "송하예 깜짝 결혼 발표",
+      "keyword": "송하예, 100만 유튜버와 결혼",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "기아, 6년 연속 무분규 임단협 합의",
+      "keyword": "기아 6년 무분규 합의",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "캐나다 미국산 보복관세 9월 8일 시행",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "박위 CCTV 공개에 KTX 직원 서운해",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "장동윤 사비 제작",
+      "keyword": "캐나다, 보복관세 50% 적용",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "박위 CCTV 공개에 KTX 직원 서운함",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "이란·오만 호르무즈 임시항로 개설",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "이란·오만 호르무즈 임시항로 합의",
+      "keyword": "대만 치어리더 페이페이",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "대만 치어리더 페이페이",
-      "state": "-",
-      "change": "1"
+      "keyword": "장례식장 주류 반입 가능해진다",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "용산역 불법촬영 의사",
+      "keyword": "토트넘 사비뉴 5년 계약",
       "state": "n",
       "change": "0"
     }
