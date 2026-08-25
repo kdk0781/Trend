@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-25T05:44:05.236Z",
+  "updatedAt": "2026-08-25T06:16:46.304Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "광명시",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "배구",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "박준형",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "좌석",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "원태인",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
       "keyword": "화환",
       "traffic": "500+"
     },
     {
-      "rank": 2,
+      "rank": 7,
+      "keyword": "동학농민운동",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
       "keyword": "꽃게",
       "traffic": "200+"
     },
     {
-      "rank": 3,
-      "keyword": "박하선",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "보조금",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "박원숙",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "청소",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "조상우",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "로봇",
-      "traffic": "2000+"
-    },
-    {
       "rank": 9,
-      "keyword": "고려아연",
-      "traffic": "200+"
+      "keyword": "박하선",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "가상화폐",
-      "traffic": "200+"
+      "keyword": "보조금",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "대통합 추진단 인사말",
+      "keyword": "아시안게임 각오 밝히는 선수들",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 2,
+      "keyword": "민주연구원 혁신 TF 회의",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "도경수 9월 8일 컴백!",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 2,
-      "keyword": "이창동 8년 만의 사랑 이야기",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "KBO 잔여 일정 확정",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 4,
       "keyword": "장미란 실종 사건",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "도경수 9월 8일 솔로 컴백",
+      "keyword": "이하늘 명예훼손 첫 재판",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "장동윤 결혼 소식에 행복해",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 7,
-      "keyword": "전현무 즉흥여행 의혹",
+      "keyword": "질문에 답하는 감독과 출연진",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "장동윤 결혼 축하해",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "한-쿠웨이트 외교장관 회담",
+      "keyword": "프랜차이즈 창업박람회 개막",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "아시안게임 밝히는 다이빙",
+      "keyword": "스타벅스 외친 배재고 학생 2명 야구 접다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "명진스님 영결식 엄수",
-      "state": "-",
-      "change": "8"
+      "keyword": "용산공원 주택 공급 논의 재개",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
