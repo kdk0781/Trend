@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-25T05:08:14.302Z",
+  "updatedAt": "2026-08-25T05:44:05.236Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "청소",
-      "traffic": "1000+"
+      "keyword": "화환",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "조상우",
-      "traffic": "100+"
+      "keyword": "꽃게",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "로봇",
+      "keyword": "박하선",
       "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "고려아연",
-      "traffic": "200+"
+      "keyword": "보조금",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "가상화폐",
-      "traffic": "200+"
+      "keyword": "박원숙",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "신라젠",
-      "traffic": "200+"
+      "keyword": "청소",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "포스코노동조합",
-      "traffic": "100+"
+      "keyword": "조상우",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "황 유민",
+      "keyword": "로봇",
       "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "김태균",
-      "traffic": "500+"
+      "keyword": "고려아연",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "살인",
-      "traffic": "5000+"
+      "keyword": "가상화폐",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이창동 감독 신작 가능해졌네",
-      "state": "n",
-      "change": "0"
+      "keyword": "대통합 추진단 인사말",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "명진스님 영결식",
-      "state": "+",
-      "change": "3"
+      "keyword": "이창동 8년 만의 사랑 이야기",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "대통합 추진단 첫 회의",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "장동윤, 김승윤 SNS 티내다",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "제주 지휘라인 대기발령",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 6,
-      "keyword": "서울 정승원 K리그1 MVP",
+      "keyword": "KBO 잔여 일정 확정",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "장미란 실종 사건",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "도경수 9월 8일 솔로 컴백",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "장동윤 결혼 소식에 행복해",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 7,
-      "keyword": "에이피알 유럽 성공 가능성",
-      "state": "s",
+      "keyword": "전현무 즉흥여행 의혹",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "교육재정 개편 반대",
+      "keyword": "한-쿠웨이트 외교장관 회담",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이진숙 제명촉구결의안 국힘",
+      "keyword": "아시안게임 밝히는 다이빙",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "조현 장관 활동",
-      "state": "s",
-      "change": "0"
+      "keyword": "명진스님 영결식 엄수",
+      "state": "-",
+      "change": "8"
     }
   ]
 }
