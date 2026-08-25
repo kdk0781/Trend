@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-25T03:09:53.221Z",
+  "updatedAt": "2026-08-25T03:56:55.690Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "디즈니+",
-      "traffic": "2000+"
+      "keyword": "두시탈출 컬투쇼",
+      "traffic": "200+"
     },
     {
       "rank": 2,
+      "keyword": "하루",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "전력",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "황유민",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "넥토리얼",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "광주 도시철도",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "아시아나",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "디즈니+",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 9,
       "keyword": "김병주",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 10,
       "keyword": "에어로케이",
       "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "박성현",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "태권도",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "김상순",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "파운드리",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "대한상공회의소",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "교직원공제회",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "아틀레티코 마드리드",
-      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김승윤 SNS 티내다",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "이재명 대통령 국무회의",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "이진숙 제명 결의안 가결",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "이창동 감독의 가능한 사랑",
+      "keyword": "이창동의 가능한 사랑",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "최길수 특별감찰관 후보자",
-      "state": "+",
+      "rank": 2,
+      "keyword": "발언하는 이재명 대통령",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "김승윤 SNS 티내다",
+      "state": "-",
       "change": "1"
     },
     {
+      "rank": 4,
+      "keyword": "이진숙 제명 결의안",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "프로심판평가협의체 개편 비심판",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "프로심판평가협의체 비심판 확대",
+      "keyword": "제주 지휘라인 대기발령",
       "state": "+",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "SK하이닉스 임단협 부결",
+      "keyword": "오세훈 시장 발언",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "발언하는 한병도 원내대표",
-      "state": "n",
-      "change": "0"
+      "keyword": "삼성전자 게임스컴 2026",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "지방국립대 등록금 지원",
-      "state": "-",
-      "change": "2"
+      "keyword": "장미란 사건 허점 지적",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "경찰 가장 큰 권력 개혁기구",
+      "keyword": "명진스님 영결식 진행",
       "state": "n",
       "change": "0"
     }
