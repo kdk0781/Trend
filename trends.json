@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-25T15:20:47.711Z",
+  "updatedAt": "2026-08-25T16:06:33.083Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "재벌x형사 2",
-      "traffic": "2000+"
+      "keyword": "장원영",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "이재명 지지율",
+      "keyword": "하석진",
       "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "사이클링 히트",
-      "traffic": "1000+"
+      "keyword": "누리호",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "이재 시",
-      "traffic": "1000+"
+      "keyword": "재벌x형사 2",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "휴민트",
+      "keyword": "이재명 지지율",
       "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "윤석민",
-      "traffic": "500+"
+      "keyword": "이재 시",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "서 건창",
-      "traffic": "500+"
+      "keyword": "휴민트",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
+      "keyword": "맥미니",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 9,
       "keyword": "apple",
       "traffic": "200+"
     },
     {
-      "rank": 9,
-      "keyword": "kbo 순위",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "원자력 발전소",
-      "traffic": "100+"
+      "keyword": "윤석민",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "민주당 신임 만찬",
-      "state": "n",
+      "keyword": "이 대통령, 민주당과 만찬",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "허위 경찰관 구속",
-      "state": "-",
+      "keyword": "제주 경찰관 구속",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "이호연 만루포로 끝내기",
+      "keyword": "오스틴 사이클링 히트!",
       "state": "+",
-      "change": "3"
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "전현무 즉흥여행 지원 없었다",
-      "state": "n",
+      "keyword": "SK이노베이션 SKIET 흡수합병",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "SK이노베이션 SKIET 흡수합병",
-      "state": "n",
+      "keyword": "전현무 즉흥여행 조작 논란",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "중국인 여대생 검거",
-      "state": "-",
+      "keyword": "중국인 유학생 실종 사건",
+      "state": "+",
       "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "부전~마산 내년 4월 개통",
+      "keyword": "윤석민 남편 갑질 고발 부부",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이창동 감독 가능한 사랑 아카데미 출품",
-      "state": "n",
-      "change": "0"
+      "keyword": "대한상의 상근부회장에 김정일",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "아시안게임 공개훈련하는 황선우",
+      "keyword": "아시안게임 공개훈련하는 김우민",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "대한상의 상근부회장에 김정일",
+      "keyword": "박위 CCTV 공개에 KTX 직원 서운함",
       "state": "n",
       "change": "0"
     }
