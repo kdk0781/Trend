@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-25T12:50:20.832Z",
+  "updatedAt": "2026-08-25T13:41:21.882Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "sk 하이닉스 채용",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "파리바게뜨",
+      "keyword": "진기주",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "뉴데일리",
+      "traffic": "100+"
+    },
+    {
       "rank": 3,
-      "keyword": "황재균",
-      "traffic": "500+"
+      "keyword": "pga 투어",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "슈퍼맨이 돌아왔다",
+      "keyword": "강혜연",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "박주봉",
-      "traffic": "100+"
+      "keyword": "안도 미키",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "조매력",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "incheon",
+      "keyword": "sk 하이닉스 채용",
       "traffic": "100+"
     },
     {
+      "rank": 7,
+      "keyword": "파리바게뜨",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "jp모건 체이스",
-      "traffic": "2000+"
+      "keyword": "황재균",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "튀니지",
+      "keyword": "슈퍼맨이 돌아왔다",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "김보라",
-      "traffic": "1000+"
+      "keyword": "박주봉",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김병기 사건 1개월 처리",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 2,
-      "keyword": "서건창 홈런 질주",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 3,
-      "keyword": "송하예, 결혼 발표",
+      "keyword": "허위 종결 경찰관 구속",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "박위 CCTV 공개 후폭풍",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "이재명 만찬 간담회",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 4,
-      "keyword": "다른 점 찾으면 원수",
+      "keyword": "장례식장 화환 유족 소유",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "구자욱 동점 2타점 적시타",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "신병 시즌 4",
-      "state": "+",
+      "keyword": "송하예 100만 유튜버",
+      "state": "-",
       "change": "4"
     },
     {
+      "rank": 6,
+      "keyword": "차태현 진기주 영입 이야기",
+      "state": "+",
+      "change": "8"
+    },
+    {
       "rank": 7,
-      "keyword": "홍민기 전여친 의식불명 중환자실",
+      "keyword": "회삿돈으로 200억 세무조사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이웃 아내 추행 경찰관 체포 바꿀 수 있습니다.",
-      "state": "n",
+      "keyword": "삼성 선발 보스의 역투",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "오세훈 장동혁 직격",
-      "state": "n",
-      "change": "0"
+      "keyword": "중국인 여대생 검거",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "한남동 주택에 세무조사",
+      "keyword": "이휘향",
       "state": "n",
       "change": "0"
     }
