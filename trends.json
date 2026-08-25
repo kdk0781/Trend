@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-25T23:39:46.485Z",
+  "updatedAt": "2026-08-25T23:57:33.500Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "한국고속철도",
+      "keyword": "판결",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "돌리 파튼",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "서식 스 공작부 인 메건",
+      "keyword": "스코티 셰플러",
       "traffic": "2000+"
     },
     {
+      "rank": 3,
+      "keyword": "베라 루빈",
+      "traffic": "200+"
+    },
+    {
       "rank": 4,
-      "keyword": "이다현",
-      "traffic": "1000+"
+      "keyword": "돌리 파튼",
+      "traffic": "200+"
     },
     {
       "rank": 5,
+      "keyword": "한국고속철도",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "서식 스 공작부 인 메건",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "이다현",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
       "keyword": "김숙",
       "traffic": "10000+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "에코프로",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "keyword": "mu",
       "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "트렌드",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "카르다노",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "극초음속 활공체",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이준석 오늘 사퇴",
-      "state": "+",
-      "change": "6"
+      "keyword": "이준석, 오늘 사퇴한다",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "美·이란 휴전 합의",
-      "state": "-",
+      "keyword": "김혁건 박위 논란 발언 응원",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "박위, KTX 도움 후 서운한 후폭풍",
-      "state": "+",
-      "change": "2"
+      "keyword": "방탄소년단, 프랑스서 10번째 골드",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "아이들 소연 9월 컴백",
+      "keyword": "양현준 1호 도움 UCL 불발",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김승윤 사인회 팬 펀딩",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "올해 태풍 많고 한반도는 무풍지대",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 7,
-      "keyword": "뉴욕증시 상승 0.66%",
+      "keyword": "이란 합의 호르무즈",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "태풍 사우델, 나라 한반도 무풍?",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "박수홍 가족 대한항공 재탑승 허용",
+      "state": "+",
+      "change": "5"
+    },
+    {
       "rank": 8,
-      "keyword": "박수홍 가족 1시간 지연",
+      "keyword": "제작진 하차까지 유튜브",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "수도권·강원 비와 36도 더위",
-      "state": "n",
-      "change": "0"
+      "keyword": "아이들 소연 9월 컴백",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 10,
-      "keyword": "장미란씨 실종 사건 수사 구멍",
+      "keyword": "브루노, PFA 선수상 수상",
       "state": "n",
       "change": "0"
     }
