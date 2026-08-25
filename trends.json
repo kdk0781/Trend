@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-24T23:52:46.206Z",
+  "updatedAt": "2026-08-25T00:47:04.373Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "스테이블코인",
+      "keyword": "대한민국",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "장교",
-      "traffic": "100+"
+      "keyword": "장서희",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "에코프로비엠",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "송해나",
+      "keyword": "인플레이션",
       "traffic": "2000+"
     },
     {
+      "rank": 4,
+      "keyword": "합계출산율",
+      "traffic": "100+"
+    },
+    {
       "rank": 5,
-      "keyword": "아버지",
+      "keyword": "장동윤",
       "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "빅뱅",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "중앙그룹",
+      "keyword": "수능원서",
       "traffic": "100+"
     },
     {
+      "rank": 7,
+      "keyword": "대한전선",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "김승현",
-      "traffic": "500+"
+      "keyword": "스테이블코인",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "天気",
+      "keyword": "축제",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "비트코인",
-      "traffic": "1000+"
+      "keyword": "에코프로비엠",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "양지원과 양준모 결혼 발표",
-      "state": "+",
-      "change": "1"
+      "keyword": "김승윤과 장동윤 결혼 소식",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "현대차 성과금 400%+1270만원",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 3,
-      "keyword": "김예건, 즈베즈다 5년 계약",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "박위 공개 논란 지속",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "태풍 사우델 관측 중",
+      "keyword": "2027년 예산안 당정협의",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 3,
+      "keyword": "31년 만에 여자복식 우승",
+      "state": "+",
+      "change": "6"
+    },
+    {
+      "rank": 4,
+      "keyword": "양지원·양준모 예식 앞당김",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "취재진과 인터뷰하는 감독",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "도경수 선예매 매진",
+      "keyword": "갤럭시 퀀텀7 출시",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "장미란 실종 사건",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "정동영 장관 세미나 참석",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "지수 신곡 CLICK 예고",
+      "keyword": "송강 김소현 하얀 스캔들 캐스팅 확정",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "학교폭력 없는 1000일 인사",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "태풍 영향 한낮 더위 증가",
+      "state": "-",
+      "change": "5"
+    },
+    {
       "rank": 10,
-      "keyword": "경제적 고립 작전 개시",
+      "keyword": "현대차 노사 잠정합의",
       "state": "n",
       "change": "0"
     }
