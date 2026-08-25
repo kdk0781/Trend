@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T17:23:47.853Z",
+  "updatedAt": "2026-08-25T17:52:33.876Z",
   "google": [
     {
       "rank": 1,
@@ -55,63 +55,63 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "민주당 신임 만찬",
+      "keyword": "민주당 지도부와 만찬",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "오스틴 33호 사이클링 히트",
+      "keyword": "오스틴 사이클링 히트 달성!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "허위 종결 경찰 구속",
-      "state": "n",
+      "keyword": "허위 종결 경찰관 구속",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "송하예 예비신랑 100만 유튜버",
-      "state": "+",
-      "change": "1"
+      "keyword": "송하예 100만 유튜버",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "중국인 유학생 살해 용의자 압송",
-      "state": "-",
-      "change": "1"
+      "keyword": "삼성 선발 보스의 도전",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 6,
-      "keyword": "캐나다, 美 보복관세 700개",
+      "keyword": "홍민기 전여친 약물 난동 아냐",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "기아, 6년 연속 무분규 합의",
+      "keyword": "기아, 6년 무분규 합의",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "트럼프 호르무즈 기뢰 제거",
+      "keyword": "캐나다, 美산 품목에 보복관세",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "홍민기 전여친 난동 주장 거짓",
+      "keyword": "송강 BTS 뷔와 군대서 친해짐",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "장동윤 펀딩 사비 제작",
-      "state": "-",
-      "change": "7"
+      "keyword": "장동윤 사비 펀딩",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
