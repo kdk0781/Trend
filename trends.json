@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-25T06:16:46.304Z",
+  "updatedAt": "2026-08-25T07:10:47.391Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "광명시",
-      "traffic": "1000+"
+      "keyword": "해변",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "배구",
-      "traffic": "2000+"
+      "keyword": "난간",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "박준형",
+      "keyword": "류지현",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "좌석",
-      "traffic": "200+"
+      "keyword": "유어 아너",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "원태인",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "화환",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "동학농민운동",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "꽃게",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "박하선",
+      "keyword": "임금피크제",
       "traffic": "5000+"
     },
     {
+      "rank": 6,
+      "keyword": "정형돈",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "최영중",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "광명시",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "배구",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "보조금",
-      "traffic": "500+"
+      "keyword": "좌석",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "아시안게임 각오 밝히는 선수들",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "민주연구원 혁신 TF 회의",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "도경수 9월 8일 컴백!",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "장미란 실종 사건",
+      "keyword": "김민석 예방 일정",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "이하늘 명예훼손 첫 재판",
+      "rank": 2,
+      "keyword": "아시안게임 각오 밝히는",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "서울시의회 국민의힘 결의문 발표",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "송강 이준영 피아노 대결",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "하이닉스 주가 순항 중",
+      "state": "+",
+      "change": "5"
+    },
+    {
       "rank": 6,
-      "keyword": "질문에 답하는 감독과 출연진",
+      "keyword": "윤형근의 집 언론공개회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "장동윤 결혼 축하해",
-      "state": "-",
-      "change": "1"
+      "keyword": "박위, 골절 없는데 사고 과장?",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "프랜차이즈 창업박람회 개막",
-      "state": "n",
-      "change": "0"
+      "keyword": "여론조사 명태균 석방",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "스타벅스 외친 배재고 학생 2명 야구 접다",
-      "state": "n",
-      "change": "0"
+      "keyword": "프로야구 정규시즌 10월 7일 종료",
+      "state": "+",
+      "change": "8"
     },
     {
       "rank": 10,
-      "keyword": "용산공원 주택 공급 논의 재개",
-      "state": "n",
-      "change": "0"
+      "keyword": "민주연구원 혁신 TF 회의",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
