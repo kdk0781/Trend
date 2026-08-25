@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-08-25T13:41:21.882Z",
+  "updatedAt": "2026-08-25T14:28:10.702Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "진기주",
-      "traffic": "200+"
+      "keyword": "kbo 순위",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "뉴데일리",
+      "keyword": "원자력 발전소",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "pga 투어",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "강혜연",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "안도 미키",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "sk 하이닉스 채용",
+      "keyword": "크보",
       "traffic": "100+"
     },
     {
+      "rank": 4,
+      "keyword": "스디파",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "재벌x형사",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "매매",
+      "traffic": "200+"
+    },
+    {
       "rank": 7,
-      "keyword": "파리바게뜨",
+      "keyword": "충남혁신도시",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "황재균",
-      "traffic": "500+"
+      "keyword": "과천시",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "슈퍼맨이 돌아왔다",
-      "traffic": "200+"
+      "keyword": "k리그1 순위",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "박주봉",
+      "keyword": "진기주",
       "traffic": "200+"
     }
   ],
@@ -61,55 +61,55 @@
     },
     {
       "rank": 2,
-      "keyword": "박위 CCTV 공개 후폭풍",
+      "keyword": "박위 CCTV 후폭풍",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 3,
+      "keyword": "서울, 부천 1-0 꺾고 3연승!",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
       "keyword": "이재명 만찬 간담회",
       "state": "+",
       "change": "3"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "장례식장 화환 유족 소유",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "송하예 100만 유튜버",
-      "state": "-",
-      "change": "4"
-    },
-    {
       "rank": 6,
-      "keyword": "차태현 진기주 영입 이야기",
-      "state": "+",
-      "change": "8"
+      "keyword": "춘천 진기주 생일 닭갈비 파티",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "회삿돈으로 200억 세무조사",
+      "keyword": "송하예 100만 유튜버 결혼",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "오스틴 사이클링 히트",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "교사 지하철 성추행 검거",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "삼성 선발 보스의 역투",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "중국인 여대생 검거",
-      "state": "+",
-      "change": "2"
-    },
-    {
       "rank": 10,
-      "keyword": "이휘향",
+      "keyword": "김민석 여당답게 일하겠다",
       "state": "n",
       "change": "0"
     }
