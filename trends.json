@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-25T16:50:56.597Z",
+  "updatedAt": "2026-08-25T17:23:47.853Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "대한상공회의소",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
+      "keyword": "sk 하이닉스",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "수능접수",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
       "keyword": "유재석",
       "traffic": "1000+"
     },
     {
-      "rank": 2,
+      "rank": 5,
       "keyword": "에어부산",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "keyword": "장원영",
       "traffic": "1000+"
     },
     {
-      "rank": 4,
-      "keyword": "누리호",
+      "rank": 7,
+      "keyword": "불량연애2 2기",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "하석진",
       "traffic": "2000+"
     },
     {
-      "rank": 6,
-      "keyword": "재벌x형사 2",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "이재명 지지율",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "이재 시",
-      "traffic": "1000+"
-    },
-    {
       "rank": 9,
-      "keyword": "휴민트",
-      "traffic": "2000+"
+      "keyword": "누리호",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "apple",
-      "traffic": "500+"
+      "keyword": "재벌x형사 2",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "민주당 신임 지도부 만찬",
+      "keyword": "민주당 신임 만찬",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이호연 만루포 끝내기",
+      "keyword": "오스틴 33호 사이클링 히트",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "허위 경찰관 구속",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "전현무 여행 조작 의혹",
+      "keyword": "허위 종결 경찰 구속",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "중국인 유학생 실종",
+      "rank": 4,
+      "keyword": "송하예 예비신랑 100만 유튜버",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "SK이노베이션 SKIET 흡수합병",
+      "rank": 5,
+      "keyword": "중국인 유학생 살해 용의자 압송",
       "state": "-",
-      "change": "2"
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "캐나다, 美 보복관세 700개",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "송하예 결혼 100만 유튜버",
-      "state": "+",
-      "change": "2"
+      "keyword": "기아, 6년 연속 무분규 합의",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "수사심의위, 김병기 사건 1개월 처리",
+      "keyword": "트럼프 호르무즈 기뢰 제거",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "삼성 선발 보스의 힘찬 투구",
-      "state": "-",
-      "change": "1"
+      "keyword": "홍민기 전여친 난동 주장 거짓",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "윤석민 각방 생활 11년째",
+      "keyword": "장동윤 펀딩 사비 제작",
       "state": "-",
-      "change": "3"
+      "change": "7"
     }
   ]
 }
