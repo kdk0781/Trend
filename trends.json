@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-25T20:39:15.245Z",
+  "updatedAt": "2026-08-25T21:00:05.482Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "천궁",
-      "traffic": "1000+"
+      "keyword": "tving",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "노팅엄 포레스트 대 리즈 유나이티드",
-      "traffic": "200+"
+      "keyword": "김연경",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "서식스 공작 해리",
+      "keyword": "al-ettifaq vs al-nassr",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "맨체스터 유나이티드 fc",
+      "keyword": "종합병원",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "dolly parton",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "퍼플렉시티",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "휴 민트",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "대한상공회의소",
+      "keyword": "게임스컴 2026",
       "traffic": "100+"
     },
     {
-      "rank": 9,
-      "keyword": "수능접수",
+      "rank": 6,
+      "keyword": "노팅엄 포레스트 대 리즈 유나이티드",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "천궁",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "서식스 공작 해리",
       "traffic": "200+"
     },
     {
+      "rank": 9,
+      "keyword": "대만",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "리그컵",
+      "keyword": "맨체스터 유나이티드 fc",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이호연 만루포 끝내다",
+      "keyword": "이호연 만루포 역전승",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "중국인 여대생 검거",
+      "keyword": "중국인 실종 발견 30대 체포",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "송하예와 결혼할 유튜버",
-      "state": "s",
-      "change": "0"
+      "keyword": "KTX 직원들, 박위 CCTV 공개에 서운함 느껴",
+      "state": "+",
+      "change": "7"
     },
     {
       "rank": 4,
-      "keyword": "기아 6년 무분규 합의",
-      "state": "s",
-      "change": "0"
+      "keyword": "신병 시즌 4",
+      "state": "+",
+      "change": "51"
     },
     {
       "rank": 5,
-      "keyword": "캐나다 미국산 보복관세 9월 발효",
-      "state": "s",
-      "change": "0"
+      "keyword": "장동윤 펀딩 진실이었다",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 6,
-      "keyword": "이란 오만 임시 항로 조성",
-      "state": "+",
+      "keyword": "캐나다 미국산 보복관세 발효",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "대만 치어리더 페이페이 매력폭발",
-      "state": "+",
+      "keyword": "이란·오만 호르무즈 임시항로 추진",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "장례식장 주류 반입 가능",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "토트넘 사비뉴 영입 계약",
+      "keyword": "최애의 사원",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "대만 치어리더 페이페이, 매력 만점",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 10,
-      "keyword": "장동윤 펀딩 진실",
-      "state": "+",
-      "change": "1"
+      "keyword": "가을 태풍이 많아 한반도 무풍",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
