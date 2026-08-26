@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-26T08:01:02.220Z",
+  "updatedAt": "2026-08-26T08:56:34.084Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이진숙 제명",
-      "traffic": "500+"
+      "keyword": "임현식",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "군수 산업",
+      "keyword": "홍준표",
       "traffic": "5000+"
     },
     {
       "rank": 3,
+      "keyword": "강백호",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "자폭형 무인 항공기",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "존 f. 케네디 센터",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "이진숙 제명",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "군수 산업",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 8,
       "keyword": "투신",
       "traffic": "2000+"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "keyword": "내포신도시",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "김민석",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "종언 의 잔영",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "오스탈",
       "traffic": "100+"
     },
     {
-      "rank": 8,
-      "keyword": "전주월드컵경기장",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "면허",
-      "traffic": "20000+"
-    },
-    {
       "rank": 10,
-      "keyword": "구속",
-      "traffic": "10000+"
+      "keyword": "김민석",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이진숙 제명안 가결",
+      "keyword": "이진숙 제명안 통과",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "국군사관학교 창설 공청회",
+      "keyword": "정성호 장관 이임식",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "정성호 장관 이임식",
-      "state": "n",
+      "keyword": "국군사관학교 창설 공청회",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "10주년 SF9 비상하길 바래",
-      "state": "+",
-      "change": "1"
+      "keyword": "일한 의원단 접견",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "현우진 1심 무죄 판결",
-      "state": "+",
-      "change": "2"
+      "keyword": "아가미 강하늘, 숟가락 얹었다!",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "폭발물 설치 협박 메일",
-      "state": "n",
+      "keyword": "삼성전자 SSD 공개",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
+      "keyword": "김태형 감독 활동상",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "대법, 서부지법 손배소 제기",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
       "keyword": "백범 김구 문화주간",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "호세 무뇨스 현대차 사장 발표",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "삼성전자 포터블 SSD 공개",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 10,
-      "keyword": "예타 통과 사업",
-      "state": "n",
-      "change": "0"
+      "keyword": "현우진 1심 무죄 판결",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
