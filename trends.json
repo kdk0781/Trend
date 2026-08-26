@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-26T16:20:05.171Z",
+  "updatedAt": "2026-08-26T18:07:28.780Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "tim curry",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
+      "keyword": "국세청",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "한국고속철도",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "단발",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "황석정",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
       "keyword": "포수",
       "traffic": "500+"
     },
     {
-      "rank": 2,
-      "keyword": "한기범",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "근로장려금 신청",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "cd 나시오날",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "박현주",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "nepal",
-      "traffic": "100+"
-    },
-    {
       "rank": 7,
-      "keyword": "인천대교",
+      "keyword": "근로장려금 신청",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "합계출산율",
-      "traffic": "200+"
+      "keyword": "한기범",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "물류",
-      "traffic": "200+"
+      "keyword": "cd 나시오날",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "수영",
-      "traffic": "200+"
+      "keyword": "giải vô địch đná",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "네팔 홍수 한국인 8명 연락두절",
-      "state": "s",
+      "keyword": "네팔 홍수 한국인 고립 10명",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "정성호 장관 이임식",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "대법, 서부지법 폭력 5명 손배소",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
       "keyword": "3년 연속 1000만 관중",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "경찰 지휘부 소집",
+      "rank": 3,
+      "keyword": "김도영 홈런 세리머니",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "김동한 유용하 계약 종료",
+      "rank": 4,
+      "keyword": "황석정, 30년 전 男 연락",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "미국 7월 PCE 3.7% 상승",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "LG 임찬규 호투",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "홈런 치는 김도영",
+      "keyword": "알츠하이머 핵심 인자 발견",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "르노코리아 임단협 타결",
+      "keyword": "중앙대 오해종 감독 우승 기쁨",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "서인영 명품백 처분 결정",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "LG 선발 임찬규",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 10,
-      "keyword": "미국 7월 PCE 3.7%↑",
-      "state": "n",
-      "change": "0"
+      "keyword": "케이윌 마운자 중단 고백",
+      "state": "-",
+      "change": "6"
     }
   ]
 }
