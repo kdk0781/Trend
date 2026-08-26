@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-26T19:58:49.868Z",
+  "updatedAt": "2026-08-26T22:46:54.096Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "레알 마드리드 대 레알 소시에다드",
+      "keyword": "스타벅스",
       "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "재난",
+      "keyword": "real madrid vs real sociedad standings",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "tory burch",
-      "traffic": "100+"
+      "keyword": "thời tiết",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "tim curry",
-      "traffic": "200+"
+      "keyword": "이수경",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "장려금",
-      "traffic": "500+"
+      "keyword": "류현진",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "국세청",
-      "traffic": "100+"
+      "keyword": "김무열",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "팀 커리",
-      "traffic": "500+"
+      "keyword": "ionq",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "한국고속철도",
-      "traffic": "500+"
+      "keyword": "schd",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "단발",
-      "traffic": "500+"
+      "keyword": "nvda",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "황석정",
-      "traffic": "100+"
+      "keyword": "기부",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "네팔 홍수 한국인 9명 연락두절",
-      "state": "s",
-      "change": "0"
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "프로야구 3년 연속 1000만 관중",
+      "keyword": "내일 엔비디아 실적 발표",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "황석정, 호프 후 30년 전男 연락",
-      "state": "n",
+      "keyword": "김상식 베트남 2연패 달성",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "미국 7월 PCE 3.7%↑",
-      "state": "s",
+      "keyword": "황석정 호프 35년 만남",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
       "keyword": "알츠하이머 핵심 인자 규명",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "카스트로 만루홈런",
-      "state": "s",
-      "change": "0"
+      "keyword": "상반기 순익 증가",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "케이윌 마운자 중단 고백",
-      "state": "s",
+      "keyword": "태풍 비껴간 바다의 파도",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "최형우 김영웅 만루포",
+      "keyword": "왕사남 이준혁의 다작 비결",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김상식 매직 베트남 2연패!",
+      "keyword": "2026년 8월 27일 운세",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "김현수 역전 끝내기, KT 선두 수성!",
+      "keyword": "박위, 강연료 의혹 파문",
       "state": "+",
-      "change": "1"
+      "change": "2"
     }
   ]
 }
