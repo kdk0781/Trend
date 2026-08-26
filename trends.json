@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-26T04:20:33.296Z",
+  "updatedAt": "2026-08-26T05:02:31.322Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "조세",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "콜레스테롤",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "박수홍 비행기",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "로스앤젤레스 fc",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "lask",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
       "keyword": "오크 스트리트의 마지막 날",
       "traffic": "100+"
     },
     {
-      "rank": 2,
+      "rank": 7,
       "keyword": "배틀그라운드",
       "traffic": "1000+"
     },
     {
-      "rank": 3,
+      "rank": 8,
+      "keyword": "전략적 팀 전투",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
       "keyword": "재혼황후",
       "traffic": "200+"
     },
     {
-      "rank": 4,
-      "keyword": "황광희",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "부대",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "탄천물재생센터",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "us 오픈",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "롤 패치 노트",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "김의성",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "아침",
-      "traffic": "1000+"
+      "keyword": "황광희",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "자폭 드론 검증 실험",
+      "keyword": "자폭 드론 해상 검증",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
       "keyword": "장동혁 대표 배식 봉사",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "구교환 신승호 멜로 재회",
+      "keyword": "부활남, 구교환과 신승호의 액션 케미",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "탄천 부지 공급 검토",
+      "keyword": "오세훈 탄천물재생센터 제안",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "성폭행 혐의 국민참여재판",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "차세대 반도체 전시회",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 6,
-      "keyword": "유재성 경찰청장 직무대행",
+      "keyword": "KG 레이디스 오픈 개막",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김연경 AVC 위촉",
+      "keyword": "이마트 축수산 선물세트",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "가을 꽃게 경매 시작",
-      "state": "n",
-      "change": "0"
+      "keyword": "박위 논란 심경 밝혀요",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "대한민국특별자치시도 행정협의회",
+      "keyword": "장관 회의 참석",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "박수홍 대한항공 지연 논란",
+      "keyword": "산업용 전기료 10%↓",
       "state": "n",
       "change": "0"
     }
