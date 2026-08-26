@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-26T13:25:12.492Z",
+  "updatedAt": "2026-08-26T14:09:08.543Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "베트남 대 태국",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "보잉 f-15ex 이글 ii",
+      "keyword": "양수경",
       "traffic": "1000+"
     },
     {
+      "rank": 2,
+      "keyword": "이대호",
+      "traffic": "100+"
+    },
+    {
       "rank": 3,
-      "keyword": "테슬라 사이버캡",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "예비타당성조사",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "투표",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "해변",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "스마트폰",
+      "keyword": "보잉 f 15ex 이글 ii",
       "traffic": "2000+"
     },
     {
+      "rank": 4,
+      "keyword": "trực tiếp bóng đá",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "เวียดนาม พบ ไทย",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "lck 플레이인",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "무안군",
+      "traffic": "100+"
+    },
+    {
       "rank": 8,
-      "keyword": "유학생",
-      "traffic": "10000+"
+      "keyword": "이수민",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "제임스 매디슨",
+      "keyword": "pce",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "소방관",
-      "traffic": "2000+"
+      "keyword": "k리그1 순위",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "네팔 홍수 실종 384명",
-      "state": "n",
+      "keyword": "네팔 홍수 한국인 8명 실종",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "대법, 서부지법 손배소 5명에 11억",
-      "state": "n",
-      "change": "0"
+      "keyword": "이진숙 제명 촉구 결의안 가결",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "민폐는 박수홍 지연",
+      "keyword": "명문대 전문직 듀오 가입 후 실망",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "국회 이진숙 제명촉구 가결",
-      "state": "n",
-      "change": "0"
+      "keyword": "홈런 치는 김도영",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "홈런 치는 김도영",
+      "keyword": "서울 부동산 경매 역대 최대",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "명문대 듀오 광고 뻥튀기",
+      "keyword": "김형자 손녀 차와 집",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "손녀에 집 요구에",
-      "state": "n",
-      "change": "0"
+      "keyword": "역투하는 선발 구창모",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "역투하는 선발 구창모",
+      "keyword": "윤은혜 드레스 코드 해명",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "여친과 헤어져 아들 감금한 70대",
-      "state": "n",
+      "keyword": "여친과 헤어져 아들 감금한 아버지",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "샘킴 집 5채 부자였다",
-      "state": "n",
-      "change": "0"
+      "keyword": "서인영 명품백 전부 처분",
+      "state": "-",
+      "change": "7"
     }
   ]
 }
