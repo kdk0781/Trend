@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-25T23:57:33.500Z",
+  "updatedAt": "2026-08-26T01:11:23.762Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "yeouido",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
+      "keyword": "이준석",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "한겨레",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
       "keyword": "판결",
       "traffic": "100+"
     },
     {
-      "rank": 2,
+      "rank": 5,
       "keyword": "스코티 셰플러",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
-      "keyword": "베라 루빈",
-      "traffic": "200+"
+      "rank": 6,
+      "keyword": "이요원",
+      "traffic": "1000+"
     },
     {
-      "rank": 4,
+      "rank": 7,
+      "keyword": "베라 루빈",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
       "keyword": "돌리 파튼",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "keyword": "한국고속철도",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 10,
       "keyword": "서식 스 공작부 인 메건",
       "traffic": "5000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "이다현",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "김숙",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "에코프로",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "mu",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이준석, 오늘 사퇴한다",
-      "state": "s",
+      "keyword": "취임 1주년 장동혁 참배",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김혁건 박위 논란 발언 응원",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "방탄소년단, 프랑스서 10번째 골드",
+      "keyword": "이준석 대표 사퇴",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "박수홍, 비행기 지연 사과",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 4,
-      "keyword": "양현준 1호 도움 UCL 불발",
-      "state": "n",
+      "keyword": "백승호 1호 도움 완패",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이란 합의 호르무즈",
-      "state": "n",
-      "change": "0"
+      "keyword": "방탄소년단 스윔 프랑스 골드 10번째",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "태풍 사우델, 나라 한반도 무풍?",
+      "keyword": "안동 최고위원회의 발언하는",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "박수홍 가족 대한항공 재탑승 허용",
-      "state": "+",
-      "change": "5"
+      "keyword": "김정은 정치국 회의 주재",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "제작진 하차까지 유튜브",
+      "keyword": "유명 의사 불법 촬영",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "아이들 소연 9월 컴백",
+      "keyword": "박위, KTX CCTV 논란으로 홍보대사 해촉 위기",
       "state": "-",
-      "change": "5"
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "브루노, PFA 선수상 수상",
+      "keyword": "미 이란 휴전 합의",
       "state": "n",
       "change": "0"
     }
