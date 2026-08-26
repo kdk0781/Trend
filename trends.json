@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-26T01:11:23.762Z",
+  "updatedAt": "2026-08-26T02:39:26.708Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "yeouido",
-      "traffic": "500+"
+      "keyword": "과태료",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "이준석",
+      "keyword": "정선희",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "한겨레",
+      "keyword": "nol",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "판결",
+      "keyword": "모두의창업",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "스코티 셰플러",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "이요원",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "베라 루빈",
+      "keyword": "국회",
       "traffic": "500+"
     },
     {
+      "rank": 6,
+      "keyword": "부천 상동 역 롯데 캐슬",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "톱스타뉴스",
+      "traffic": "1000+"
+    },
+    {
       "rank": 8,
-      "keyword": "돌리 파튼",
+      "keyword": "경복궁 야간개장",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "한국고속철도",
+      "keyword": "sk이노베이션",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "서식 스 공작부 인 메건",
-      "traffic": "5000+"
+      "keyword": "미국 대통령",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "취임 1주년 장동혁 참배",
-      "state": "n",
-      "change": "0"
+      "keyword": "이준석 대표 사퇴",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "이준석 대표 사퇴",
+      "keyword": "장동혁 취임 1주년 회견",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "박수홍, 비행기 지연 사과",
-      "state": "-",
-      "change": "1"
+      "keyword": "박수홍 비행기 사과",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "백승호 1호 도움 완패",
+      "keyword": "김정은 정치국 회의 개최",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "방탄소년단 스윔 프랑스 골드 10번째",
-      "state": "-",
-      "change": "2"
+      "keyword": "KG 레이디스 오픈 개최",
+      "state": "+",
+      "change": "9"
     },
     {
       "rank": 6,
-      "keyword": "안동 최고위원회의 발언하는",
-      "state": "s",
-      "change": "0"
+      "keyword": "LG CNS, 액체냉각 도입",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "김정은 정치국 회의 주재",
-      "state": "n",
-      "change": "0"
+      "keyword": "LG전자 1000HZ 게이밍 모니터",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "유명 의사 불법 촬영",
+      "keyword": "재혼 황후 11월 4일 공개",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "박위, KTX CCTV 논란으로 홍보대사 해촉 위기",
+      "keyword": "김윤덕 장관, 오세훈 시장 회동",
       "state": "-",
       "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "미 이란 휴전 합의",
-      "state": "n",
-      "change": "0"
+      "keyword": "하이닉스 주가 조정",
+      "state": "+",
+      "change": "8"
     }
   ]
 }
