@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-26T14:59:24.288Z",
+  "updatedAt": "2026-08-26T16:20:05.171Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "합계출산율",
-      "traffic": "200+"
+      "keyword": "포수",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "물류",
+      "keyword": "한기범",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "수영",
-      "traffic": "200+"
+      "keyword": "근로장려금 신청",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "치어리더",
-      "traffic": "5000+"
+      "keyword": "cd 나시오날",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "vietnam vs thailand",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "전관예우",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "양수경",
+      "keyword": "박현주",
       "traffic": "1000+"
     },
     {
+      "rank": 6,
+      "keyword": "nepal",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "인천대교",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "이대호",
+      "keyword": "합계출산율",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "보잉 f 15ex 이글 ii",
-      "traffic": "2000+"
+      "keyword": "물류",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "trực tiếp bóng đá",
-      "traffic": "5000+"
+      "keyword": "수영",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "비행기 지연 박수홍 사과",
-      "state": "n",
+      "keyword": "네팔 홍수 한국인 8명 연락두절",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "탄천 대안 검토",
-      "state": "n",
+      "keyword": "정성호 장관 이임식",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "네팔 한국인 8명 연락두절",
-      "state": "-",
-      "change": "2"
+      "keyword": "대법, 서부지법 폭력 5명 손배소",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "국회 이진숙 제명촉구",
+      "keyword": "3년 연속 1000만 관중",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "실종자 통화 없는 경찰관",
-      "state": "n",
+      "keyword": "경찰 지휘부 소집",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "3년 연속 관중 1000만 돌파",
-      "state": "-",
-      "change": "2"
+      "keyword": "김동한 유용하 계약 종료",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "하나은행 외부인 사기 24억",
-      "state": "n",
+      "keyword": "홈런 치는 김도영",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "명문대 전문직 광고에 속았다",
-      "state": "n",
-      "change": "0"
+      "keyword": "르노코리아 임단협 타결",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "윤은혜, 하객 논란 해명",
-      "state": "n",
-      "change": "0"
+      "keyword": "LG 선발 임찬규",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "임찬규 다승 공동 1위 등극",
+      "keyword": "미국 7월 PCE 3.7%↑",
       "state": "n",
       "change": "0"
     }
