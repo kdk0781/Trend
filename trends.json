@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-26T10:49:41.634Z",
+  "updatedAt": "2026-08-26T11:15:04.989Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "안양 대 인천",
-      "traffic": "1000+"
+      "keyword": "키움 히어로즈",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "종합격투기",
+      "keyword": "공군사관학교",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "반도체 메모리",
+      "keyword": "골프장",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "천안시",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "이세영",
+      "keyword": "공연",
       "traffic": "200+"
     },
     {
+      "rank": 5,
+      "keyword": "강원 대 광주",
+      "traffic": "2000+"
+    },
+    {
       "rank": 6,
-      "keyword": "스페이스x",
+      "keyword": "전략사령부",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "안산시",
-      "traffic": "200+"
+      "keyword": "메리츠화재",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "식장",
+      "keyword": "안양 대 인천",
       "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "한국 반도체",
-      "traffic": "1000+"
+      "keyword": "종합격투기",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "의사",
+      "keyword": "반도체 메모리",
       "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "르노코리아 임단협 타결",
+      "keyword": "네팔 홍수 한국인 8명 고립",
       "state": "+",
-      "change": "4"
+      "change": "9"
     },
     {
       "rank": 2,
-      "keyword": "역투하는 NC 선발",
+      "keyword": "역투하는 NC 구창모",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "위아이 김동한 유용하, 계약 종료",
-      "state": "+",
-      "change": "1"
+      "keyword": "르노코리아 임단협 타결",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "윤호중 제주 실종사건 조사",
-      "state": "+",
+      "keyword": "김동한·유용하 계약 종료",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "시즌 39호 김도영",
+      "keyword": "홈런 치는 김도영",
       "state": "-",
       "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "정성호 법무부 떠나며 요구한 개혁",
+      "keyword": "제주 실종사건 철저 조사 필요",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "공익 저격 박위, 상 못 받아 재조명",
-      "state": "n",
+      "keyword": "박위 강연료 논란",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
       "keyword": "리허설하는 레오니다스 카바코스",
-      "state": "+",
-      "change": "2"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "하이닉스 주가 조정",
-      "state": "+",
-      "change": "4"
+      "keyword": "휴온스 휴온스랩 합병",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "네팔 홍수 한국인 8명 고립",
+      "keyword": "차가원 대표 300억 사기",
       "state": "n",
       "change": "0"
     }
