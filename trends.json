@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-08-26T09:35:54.380Z",
+  "updatedAt": "2026-08-26T10:09:38.471Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "의사",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "한국 반도체",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "김태효",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "이정은",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "관리 종목",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "광주 도시철도 2호선",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
       "keyword": "1기 신도시",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 8,
       "keyword": "제주항공",
       "traffic": "200+"
     },
     {
-      "rank": 3,
-      "keyword": "버스",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "한국반도체",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "기생충",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "미래에셋",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "시어머니",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "임현식",
-      "traffic": "200+"
-    },
-    {
       "rank": 9,
-      "keyword": "강백호",
+      "keyword": "기생충",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "자폭형 무인 항공기",
+      "keyword": "버스",
       "traffic": "2000+"
     }
   ],
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "이진숙 제명 결의안 가결",
-      "state": "n",
+      "keyword": "대법, 서부지법 폭동 가담자 손배소",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "대법, 서부지법 손배소 11억 적용",
-      "state": "+",
-      "change": "2"
+      "keyword": "긴급 경찰 회의 소집",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
+      "keyword": "롯데, 김태형 감독 이이무라로 마무리 변경",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
       "keyword": "싸이, 수면제 대리수령 약식기소",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "강하늘 더빙 도전",
-      "state": "-",
-      "change": "2"
-    },
-    {
       "rank": 6,
-      "keyword": "경찰 지휘부 회의",
-      "state": "+",
-      "change": "2"
+      "keyword": "현우진 문항 거래 무죄",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "삼성전자 포터블 SSD 공개",
-      "state": "-",
-      "change": "3"
+      "keyword": "하영 중증외상센터 시즌2 없다",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "롯데 반전 모색, 김태형 이이무라 선택",
-      "state": "-",
-      "change": "2"
+      "keyword": "르노코리아 임단협 타결",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "예타 통과 소식",
+      "keyword": "SK하이닉스 주가 상승세",
       "state": "-",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "현우진 문항 거래 1심 무죄",
-      "state": "n",
-      "change": "0"
+      "keyword": "예타 통과 도로사업들",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
