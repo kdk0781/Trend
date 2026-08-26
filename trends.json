@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-26T05:44:53.699Z",
+  "updatedAt": "2026-08-26T06:18:51.461Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "여론",
-      "traffic": "10000+"
+      "keyword": "최강야구",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "정치인",
+      "keyword": "동전주",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "에너지",
-      "traffic": "200+"
+      "keyword": "가덕도신공항",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "박수홍",
-      "traffic": "10000+"
+      "keyword": "인요한",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "위쳐 3 리마스터",
-      "traffic": "1000+"
+      "keyword": "엔비디아 실적 발표",
+      "traffic": "20000+"
     },
     {
       "rank": 6,
-      "keyword": "배런 트럼프",
-      "traffic": "1000+"
+      "keyword": "김윤식",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "조세",
-      "traffic": "2000+"
+      "keyword": "허영만",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "콜레스테롤",
-      "traffic": "1000+"
+      "keyword": "비광",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "로스앤젤레스 fc",
-      "traffic": "2000+"
+      "keyword": "여론",
+      "traffic": "10000+"
     },
     {
       "rank": 10,
-      "keyword": "sk아이이테크놀로지",
-      "traffic": "500+"
+      "keyword": "극초음속 무기",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "서도호 전시작 완벽한 집",
-      "state": "+",
-      "change": "1"
+      "keyword": "이재명, 중앙지방협력회의 발언",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "카카오 공동교섭 선포식",
+      "keyword": "국립현대미술관 서도호 개인전",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "부활남 구교환의 귀환",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "KG 레이디스 오픈 시작",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "이진숙 사퇴 촉구 민주당",
+      "keyword": "이진숙 의원 제명 촉구",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "카카오 노조 결의 모임",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "산업용 전기요금제 공청회",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 6,
-      "keyword": "12·29 여객기 참사 수사결과",
+      "keyword": "성폭행 남경주 국민참여재판",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김윤덕, 용산 제외 탄천 공급?토",
+      "keyword": "장미란씨 실종 사망",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "산업용 전기료 10%↓",
+      "keyword": "KG 레이디스 오픈 시작",
       "state": "-",
-      "change": "1"
+      "change": "4"
     },
     {
       "rank": 9,
-      "keyword": "남경주 제자 성폭행 재판 11월 개최",
-      "state": "+",
-      "change": "1"
+      "keyword": "12·29 여객기 참사 수사 결과",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "2세대 스마트팜 개발",
+      "keyword": "중국 유학생 살해 강사",
       "state": "n",
       "change": "0"
     }
