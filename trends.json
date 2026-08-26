@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-26T03:36:51.158Z",
+  "updatedAt": "2026-08-26T04:20:33.296Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "오크 스트리트의 마지막 날",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
+      "keyword": "배틀그라운드",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "재혼황후",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
       "keyword": "황광희",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 5,
       "keyword": "부대",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
-      "keyword": "탄천물재생센터",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "us 오픈",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "롤 패치 노트",
-      "traffic": "1000+"
-    },
-    {
       "rank": 6,
-      "keyword": "김의성",
+      "keyword": "탄천물재생센터",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "과태료",
-      "traffic": "10000+"
+      "keyword": "us 오픈",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "정선희",
+      "keyword": "롤 패치 노트",
       "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "nol",
-      "traffic": "100+"
+      "keyword": "김의성",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "모두의창업",
-      "traffic": "100+"
+      "keyword": "아침",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "취임 1주년 기자회견",
+      "keyword": "자폭 드론 검증 실험",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "오세훈 서울시장 김윤덕",
+      "keyword": "장동혁 대표 배식 봉사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "차세대 패키징 전시회",
-      "state": "-",
-      "change": "1"
+      "keyword": "구교환 신승호 멜로 재회",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "구교환 신승호 재회 멜로처럼 바라봐",
-      "state": "+",
-      "change": "6"
+      "keyword": "탄천 부지 공급 검토",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "유재성 경찰청장 직무대행",
-      "state": "+",
-      "change": "2"
+      "keyword": "차세대 반도체 전시회",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "KG 레이디스 오픈 우승 예고",
-      "state": "-",
-      "change": "1"
+      "keyword": "유재성 경찰청장 직무대행",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김민석, 인요한 인준 재고 요청",
+      "keyword": "김연경 AVC 위촉",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "박수홍 비행기 지연 사과",
-      "state": "-",
-      "change": "5"
+      "keyword": "가을 꽃게 경매 시작",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "LG전자 1000HZ 게이밍 모니터 출시",
+      "keyword": "대한민국특별자치시도 행정협의회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "LG CNS 액체냉각 도입",
-      "state": "-",
-      "change": "1"
+      "keyword": "박수홍 대한항공 지연 논란",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
