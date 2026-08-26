@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-26T08:56:34.084Z",
+  "updatedAt": "2026-08-26T09:35:54.380Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "임현식",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "홍준표",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "강백호",
+      "keyword": "1기 신도시",
       "traffic": "200+"
     },
     {
-      "rank": 4,
-      "keyword": "자폭형 무인 항공기",
+      "rank": 2,
+      "keyword": "제주항공",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "버스",
       "traffic": "2000+"
     },
     {
-      "rank": 5,
-      "keyword": "존 f. 케네디 센터",
+      "rank": 4,
+      "keyword": "한국반도체",
       "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "기생충",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "이진숙 제명",
-      "traffic": "500+"
+      "keyword": "미래에셋",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "군수 산업",
+      "keyword": "시어머니",
       "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "투신",
-      "traffic": "2000+"
+      "keyword": "임현식",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "내포신도시",
-      "traffic": "100+"
+      "keyword": "강백호",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "김민석",
-      "traffic": "5000+"
+      "keyword": "자폭형 무인 항공기",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이진숙 제명안 통과",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
       "keyword": "정성호 장관 이임식",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "국군사관학교 창설 공청회",
-      "state": "s",
+      "rank": 2,
+      "keyword": "이진숙 제명 결의안 가결",
+      "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "대법, 서부지법 손배소 11억 적용",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 4,
-      "keyword": "일한 의원단 접견",
-      "state": "s",
+      "keyword": "싸이, 수면제 대리수령 약식기소",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "아가미 강하늘, 숟가락 얹었다!",
-      "state": "s",
-      "change": "0"
+      "keyword": "강하늘 더빙 도전",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "삼성전자 SSD 공개",
-      "state": "s",
-      "change": "0"
+      "keyword": "경찰 지휘부 회의",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "김태형 감독 활동상",
-      "state": "n",
-      "change": "0"
+      "keyword": "삼성전자 포터블 SSD 공개",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "대법, 서부지법 손배소 제기",
-      "state": "n",
-      "change": "0"
+      "keyword": "롯데 반전 모색, 김태형 이이무라 선택",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "백범 김구 문화주간",
-      "state": "+",
-      "change": "1"
+      "keyword": "예타 통과 소식",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "현우진 1심 무죄 판결",
-      "state": "-",
-      "change": "2"
+      "keyword": "현우진 문항 거래 1심 무죄",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
