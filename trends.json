@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-26T02:39:26.708Z",
+  "updatedAt": "2026-08-26T03:36:51.158Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "과태료",
-      "traffic": "5000+"
+      "keyword": "황광희",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "정선희",
-      "traffic": "500+"
+      "keyword": "부대",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "nol",
+      "keyword": "탄천물재생센터",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "모두의창업",
+      "keyword": "us 오픈",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "국회",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "부천 상동 역 롯데 캐슬",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "톱스타뉴스",
+      "keyword": "롤 패치 노트",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
-      "keyword": "경복궁 야간개장",
+      "rank": 6,
+      "keyword": "김의성",
       "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "과태료",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "정선희",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "sk이노베이션",
-      "traffic": "200+"
+      "keyword": "nol",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "미국 대통령",
-      "traffic": "200+"
+      "keyword": "모두의창업",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이준석 대표 사퇴",
-      "state": "+",
-      "change": "1"
+      "keyword": "취임 1주년 기자회견",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "장동혁 취임 1주년 회견",
+      "keyword": "오세훈 서울시장 김윤덕",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "박수홍 비행기 사과",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "김정은 정치국 회의 개최",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "KG 레이디스 오픈 개최",
-      "state": "+",
-      "change": "9"
-    },
-    {
-      "rank": 6,
-      "keyword": "LG CNS, 액체냉각 도입",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 7,
-      "keyword": "LG전자 1000HZ 게이밍 모니터",
-      "state": "+",
+      "keyword": "차세대 패키징 전시회",
+      "state": "-",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "재혼 황후 11월 4일 공개",
+      "rank": 4,
+      "keyword": "구교환 신승호 재회 멜로처럼 바라봐",
+      "state": "+",
+      "change": "6"
+    },
+    {
+      "rank": 5,
+      "keyword": "유재성 경찰청장 직무대행",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "KG 레이디스 오픈 우승 예고",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "김민석, 인요한 인준 재고 요청",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "김윤덕 장관, 오세훈 시장 회동",
+      "rank": 8,
+      "keyword": "박수홍 비행기 지연 사과",
       "state": "-",
-      "change": "2"
+      "change": "5"
+    },
+    {
+      "rank": 9,
+      "keyword": "LG전자 1000HZ 게이밍 모니터 출시",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "하이닉스 주가 조정",
-      "state": "+",
-      "change": "8"
+      "keyword": "LG CNS 액체냉각 도입",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
