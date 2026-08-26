@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-26T14:09:08.543Z",
+  "updatedAt": "2026-08-26T14:59:24.288Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "양수경",
-      "traffic": "1000+"
+      "keyword": "합계출산율",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "이대호",
-      "traffic": "100+"
+      "keyword": "물류",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "보잉 f 15ex 이글 ii",
-      "traffic": "2000+"
+      "keyword": "수영",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "trực tiếp bóng đá",
-      "traffic": "2000+"
+      "keyword": "치어리더",
+      "traffic": "5000+"
     },
     {
       "rank": 5,
-      "keyword": "เวียดนาม พบ ไทย",
+      "keyword": "vietnam vs thailand",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "lck 플레이인",
+      "keyword": "전관예우",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "무안군",
-      "traffic": "100+"
+      "keyword": "양수경",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "이수민",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "pce",
+      "keyword": "이대호",
       "traffic": "200+"
     },
     {
+      "rank": 9,
+      "keyword": "보잉 f 15ex 이글 ii",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "k리그1 순위",
-      "traffic": "100+"
+      "keyword": "trực tiếp bóng đá",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "네팔 홍수 한국인 8명 실종",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "이진숙 제명 촉구 결의안 가결",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 3,
-      "keyword": "명문대 전문직 듀오 가입 후 실망",
+      "keyword": "비행기 지연 박수홍 사과",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "탄천 대안 검토",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "네팔 한국인 8명 연락두절",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 4,
-      "keyword": "홈런 치는 김도영",
-      "state": "+",
-      "change": "1"
+      "keyword": "국회 이진숙 제명촉구",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "서울 부동산 경매 역대 최대",
+      "keyword": "실종자 통화 없는 경찰관",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김형자 손녀 차와 집",
+      "keyword": "3년 연속 관중 1000만 돌파",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "하나은행 외부인 사기 24억",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "역투하는 선발 구창모",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 8,
-      "keyword": "윤은혜 드레스 코드 해명",
+      "keyword": "명문대 전문직 광고에 속았다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "여친과 헤어져 아들 감금한 아버지",
-      "state": "s",
+      "keyword": "윤은혜, 하객 논란 해명",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "서인영 명품백 전부 처분",
-      "state": "-",
-      "change": "7"
+      "keyword": "임찬규 다승 공동 1위 등극",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
