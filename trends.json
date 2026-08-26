@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-08-26T11:46:30.507Z",
+  "updatedAt": "2026-08-26T12:17:24.554Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "네팔",
-      "traffic": "200+"
+      "keyword": "정정용",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "도지코인",
-      "traffic": "200+"
+      "keyword": "난징 지하철",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "한국여자프로농구",
+      "keyword": "김시아",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "사다리차",
-      "traffic": "500+"
+      "keyword": "네팔",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "상주소방서",
+      "keyword": "도지코인",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "삼성 엑시노스",
-      "traffic": "200+"
+      "keyword": "한국여자프로농구",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "키움 히어로즈",
+      "keyword": "사다리차",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "공군사관학교",
+      "keyword": "상주소방서",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "골프장",
-      "traffic": "500+"
+      "keyword": "삼성 엑시노스",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "공연",
-      "traffic": "200+"
+      "keyword": "공군사관학교",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "네팔 홍수 한국인 고립 18명",
+      "keyword": "네팔 홍수 한국인 8명 고립",
       "state": "s",
       "change": "0"
     },
@@ -67,51 +67,51 @@
     },
     {
       "rank": 3,
-      "keyword": "홈런 치는 김도영",
+      "keyword": "홈런 하는 김도영",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
       "keyword": "박위 강연료 논란",
-      "state": "+",
-      "change": "4"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "경찰, 실종사건 점검 원칙적 종결 금지",
+      "keyword": "윤은혜 하객 드레스 해명",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "한기범 자폐 고백식당",
+      "keyword": "한기범 아들 자폐 고백",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "천적 만루포로 삼성",
+      "keyword": "대법, 서부지법 폭력 5명에 손배소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김민석 건의 검토 예정",
+      "keyword": "서인영, 명품백 2개 처분",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "대법, 5명에 손배소",
+      "keyword": "여친과 헤어져 아들 감금한 70대",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "최형우 1회 그랜드 슬램 미소짓다",
-      "state": "-",
-      "change": "4"
+      "keyword": "욕설 고성 오간 국군사관학교",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
