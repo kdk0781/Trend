@@ -1,103 +1,103 @@
 {
-  "updatedAt": "2026-08-26T12:17:24.554Z",
+  "updatedAt": "2026-08-26T13:25:12.492Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "정정용",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "난징 지하철",
+      "keyword": "베트남 대 태국",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
-      "keyword": "김시아",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "네팔",
+      "rank": 2,
+      "keyword": "보잉 f-15ex 이글 ii",
       "traffic": "1000+"
     },
     {
+      "rank": 3,
+      "keyword": "테슬라 사이버캡",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "예비타당성조사",
+      "traffic": "200+"
+    },
+    {
       "rank": 5,
-      "keyword": "도지코인",
+      "keyword": "투표",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "한국여자프로농구",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "사다리차",
+      "keyword": "해변",
       "traffic": "500+"
     },
     {
+      "rank": 7,
+      "keyword": "스마트폰",
+      "traffic": "2000+"
+    },
+    {
       "rank": 8,
-      "keyword": "상주소방서",
-      "traffic": "200+"
+      "keyword": "유학생",
+      "traffic": "10000+"
     },
     {
       "rank": 9,
-      "keyword": "삼성 엑시노스",
+      "keyword": "제임스 매디슨",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "공군사관학교",
-      "traffic": "500+"
+      "keyword": "소방관",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "네팔 홍수 한국인 8명 고립",
-      "state": "s",
+      "keyword": "네팔 홍수 실종 384명",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "역투하는 NC 선발",
-      "state": "s",
+      "keyword": "대법, 서부지법 손배소 5명에 11억",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "홈런 하는 김도영",
-      "state": "s",
+      "keyword": "민폐는 박수홍 지연",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "박위 강연료 논란",
-      "state": "s",
+      "keyword": "국회 이진숙 제명촉구 가결",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "윤은혜 하객 드레스 해명",
+      "keyword": "홈런 치는 김도영",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "한기범 아들 자폐 고백",
+      "keyword": "명문대 듀오 광고 뻥튀기",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "대법, 서부지법 폭력 5명에 손배소",
+      "keyword": "손녀에 집 요구에",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "서인영, 명품백 2개 처분",
+      "keyword": "역투하는 선발 구창모",
       "state": "n",
       "change": "0"
     },
@@ -109,7 +109,7 @@
     },
     {
       "rank": 10,
-      "keyword": "욕설 고성 오간 국군사관학교",
+      "keyword": "샘킴 집 5채 부자였다",
       "state": "n",
       "change": "0"
     }
