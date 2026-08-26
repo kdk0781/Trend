@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-26T18:07:28.780Z",
+  "updatedAt": "2026-08-26T19:58:49.868Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "레알 마드리드 대 레알 소시에다드",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "재난",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "tory burch",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
       "keyword": "tim curry",
       "traffic": "200+"
     },
     {
-      "rank": 2,
+      "rank": 5,
+      "keyword": "장려금",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
       "keyword": "국세청",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 7,
+      "keyword": "팀 커리",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
       "keyword": "한국고속철도",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "keyword": "단발",
       "traffic": "500+"
     },
     {
-      "rank": 5,
-      "keyword": "황석정",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "포수",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "근로장려금 신청",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "한기범",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "cd 나시오날",
-      "traffic": "100+"
-    },
-    {
       "rank": 10,
-      "keyword": "giải vô địch đná",
+      "keyword": "황석정",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "네팔 홍수 한국인 고립 10명",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "3년 연속 1000만 관중",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "김도영 홈런 세리머니",
+      "keyword": "네팔 홍수 한국인 9명 연락두절",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "황석정, 30년 전 男 연락",
+      "rank": 2,
+      "keyword": "프로야구 3년 연속 1000만 관중",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "황석정, 호프 후 30년 전男 연락",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "미국 7월 PCE 3.7%↑",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "미국 7월 PCE 3.7% 상승",
+      "keyword": "알츠하이머 핵심 인자 규명",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "LG 임찬규 호투",
-      "state": "-",
-      "change": "1"
+      "keyword": "카스트로 만루홈런",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "알츠하이머 핵심 인자 발견",
+      "keyword": "케이윌 마운자 중단 고백",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "중앙대 오해종 감독 우승 기쁨",
+      "keyword": "최형우 김영웅 만루포",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "서인영 명품백 처분 결정",
+      "keyword": "김상식 매직 베트남 2연패!",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "케이윌 마운자 중단 고백",
-      "state": "-",
-      "change": "6"
+      "keyword": "김현수 역전 끝내기, KT 선두 수성!",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
