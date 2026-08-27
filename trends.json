@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-26T22:46:54.096Z",
+  "updatedAt": "2026-08-27T04:03:59.645Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "스타벅스",
-      "traffic": "2000+"
+      "keyword": "크래프톤",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "real madrid vs real sociedad standings",
-      "traffic": "200+"
+      "keyword": "김하성",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "thời tiết",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "이수경",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "류현진",
+      "keyword": "쿠사마 야요이",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "재벌x형사 2",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "고기압",
+      "traffic": "2000+"
+    },
+    {
       "rank": 6,
-      "keyword": "김무열",
+      "keyword": "차영현",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "ionq",
+      "keyword": "스와치",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "schd",
-      "traffic": "200+"
+      "keyword": "여객기",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "nvda",
-      "traffic": "1000+"
+      "keyword": "충청권 광역철도",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "기부",
-      "traffic": "500+"
+      "keyword": "타이거 우즈",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "네팔 홍수 한국인 9명 연락두절",
+      "keyword": "한은 총재 금리 인상 전망",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "내일 엔비디아 실적 발표",
+      "keyword": "이재명 기초단체장 오찬간담회",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김상식 베트남 2연패 달성",
-      "state": "s",
-      "change": "0"
+      "keyword": "네팔 대홍수 발생",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "황석정 호프 35년 만남",
+      "keyword": "브루노 마스, 내년 5월 한국 공연",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "중국인 유학생 살해 피의자",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "누리호 5차 10월 7일 발사",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "알츠하이머 핵심 인자 규명",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "상반기 순익 증가",
-      "state": "+",
-      "change": "3"
-    },
-    {
       "rank": 7,
-      "keyword": "태풍 비껴간 바다의 파도",
+      "keyword": "김하성 끝내기 묵직한 방망이",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "왕사남 이준혁의 다작 비결",
-      "state": "s",
+      "keyword": "엔하이픈 다섯 번째 밀리언셀러",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "2026년 8월 27일 운세",
-      "state": "+",
-      "change": "1"
+      "keyword": "한성숙 총리 공공누리집 위원회 참석",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "박위, 강연료 의혹 파문",
-      "state": "+",
-      "change": "2"
+      "keyword": "이유영 둘째 만삭 화보 공개",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
