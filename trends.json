@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-27T15:08:36.332Z",
+  "updatedAt": "2026-08-28T00:23:09.495Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "휴머노이드",
-      "traffic": "200+"
+      "keyword": "fm 챔피언십",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "장진혁",
+      "keyword": "금융감독원",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "정국",
-      "traffic": "1000+"
+      "keyword": "리벨리온",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "한가인",
-      "traffic": "5000+"
+      "keyword": "회사",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "김경문",
-      "traffic": "1000+"
+      "keyword": "박지현",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "총장",
+      "keyword": "발로란트",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "농민신문",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "세단",
+      "keyword": "민경훈",
       "traffic": "500+"
     },
     {
+      "rank": 8,
+      "keyword": "화사",
+      "traffic": "2000+"
+    },
+    {
       "rank": 9,
-      "keyword": "샘 올 트먼",
-      "traffic": "200+"
+      "keyword": "날씨",
+      "traffic": "200000+"
     },
     {
       "rank": 10,
-      "keyword": "uefa 챔피언스리그",
-      "traffic": "200+"
+      "keyword": "골드뱅킹",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "허위 종결 경찰 수사 필요",
-      "state": "n",
-      "change": "0"
+      "keyword": "김세영, FM 챔피언십 단독 선두",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "강북 모텔 살인 김소영 무기징역",
+      "keyword": "네팔 대홍수 수색 중",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "구사마 야요이 별세 97세",
-      "state": "n",
+      "keyword": "박위 KTX 탑승 태도 논란",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "1라운드 KG 레이디스",
+      "keyword": "김수현, 공식석상 복귀",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "갤럭시 S26 FE 내달 출시",
-      "state": "+",
-      "change": "1"
+      "keyword": "삼성바이오로직스 유상증자 인수",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "베트남 유학생 살해",
+      "keyword": "발언하는 김민석 대표",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "밤 스쿨존 속도 완화 논란",
-      "state": "s",
-      "change": "0"
+      "keyword": "태풍 대비 점검",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "네팔 홍수 피해 심각",
-      "state": "-",
-      "change": "7"
-    },
-    {
-      "rank": 9,
-      "keyword": "BJ 케이, 수면제 대리처방 인정",
+      "keyword": "삼성전자 게임스컴 2026",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "소연, 퇴사할게여 선언",
+      "state": "-",
+      "change": "5"
+    },
+    {
       "rank": 10,
-      "keyword": "태국과 0-3 배구 완패",
-      "state": "n",
+      "keyword": "나솔사계",
+      "state": "s",
       "change": "0"
     }
   ]
