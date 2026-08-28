@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-28T00:23:09.495Z",
+  "updatedAt": "2026-08-28T11:35:16.365Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "fm 챔피언십",
-      "traffic": "100+"
+      "keyword": "england vs pakistan",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "금융감독원",
+      "keyword": "롯데백화점",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "리벨리온",
-      "traffic": "100+"
+      "keyword": "최지 만",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "회사",
+      "keyword": "교통",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "박지현",
-      "traffic": "200+"
+      "keyword": "코로나 바이러스",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "발로란트",
-      "traffic": "200+"
+      "keyword": "실종자",
+      "traffic": "10000+"
     },
     {
       "rank": 7,
-      "keyword": "민경훈",
-      "traffic": "500+"
+      "keyword": "고희진",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "화사",
-      "traffic": "2000+"
+      "keyword": "청년",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "날씨",
-      "traffic": "200000+"
+      "keyword": "정원오",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "골드뱅킹",
-      "traffic": "500+"
+      "keyword": "주차장",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김세영, FM 챔피언십 단독 선두",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "네팔 대홍수 수색 중",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "박위 KTX 탑승 태도 논란",
+      "keyword": "퇴근하는 조희대 대법원장",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "노웅래 상고 포기 무죄 확정",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "제8회 한류엑스포 축하공연",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 4,
-      "keyword": "김수현, 공식석상 복귀",
+      "keyword": "노승희 2R 단독 선두",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "삼성바이오로직스 유상증자 인수",
-      "state": "n",
-      "change": "0"
+      "keyword": "광주 군공항 무안 면소재지 확정",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "발언하는 김민석 대표",
+      "keyword": "김성환 장관, 지역 주민 간담회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "태풍 대비 점검",
-      "state": "-",
-      "change": "1"
+      "keyword": "신입생 지방대 등록금 0원",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "삼성전자 게임스컴 2026",
+      "keyword": "부경장 통화 거짓말",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "소연, 퇴사할게여 선언",
-      "state": "-",
-      "change": "5"
+      "keyword": "한덕수 5년 징역 구형",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "나솔사계",
-      "state": "s",
+      "keyword": "고희진 감독 자진 사퇴",
+      "state": "n",
       "change": "0"
     }
   ]
