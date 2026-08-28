@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-28T11:35:16.365Z",
+  "updatedAt": "2026-08-28T21:30:23.694Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "england vs pakistan",
-      "traffic": "200+"
+      "keyword": "상장폐지",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "롯데백화점",
+      "keyword": "คริสตัลพาเลซ พบ แมนซิตี",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "최지 만",
-      "traffic": "1000+"
+      "keyword": "박진만",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "교통",
-      "traffic": "200+"
+      "keyword": "전투기",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "코로나 바이러스",
-      "traffic": "1000+"
+      "keyword": "훌리안 알바레스",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "실종자",
-      "traffic": "10000+"
+      "keyword": "청두 j 10",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "고희진",
+      "keyword": "기상",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "청년",
+      "keyword": "아틀레티코 마드리드",
       "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "정원오",
-      "traffic": "500+"
+      "keyword": "palace vs man city",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "주차장",
-      "traffic": "1000+"
+      "keyword": "베트남",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "퇴근하는 조희대 대법원장",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "노웅래 상고 포기 무죄 확정",
+      "keyword": "네팔 대홍수 사망자와 실종자",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 2,
+      "keyword": "송지은 나노 단위 박위 논란",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 3,
-      "keyword": "제8회 한류엑스포 축하공연",
+      "keyword": "KG 레이디스 오픈 2라운드 결과",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "노승희 2R 단독 선두",
-      "state": "n",
+      "keyword": "한소희 절반 차지하면 망가져",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "광주 군공항 무안 면소재지 확정",
-      "state": "-",
-      "change": "3"
+      "keyword": "워시 연준의장, 물가 우려",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김성환 장관, 지역 주민 간담회",
+      "keyword": "들쥐 위해 17㎏ 찌운 이관훈",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "신입생 지방대 등록금 0원",
-      "state": "n",
+      "keyword": "기안84의 친환경 생활법",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "부경장 통화 거짓말",
+      "keyword": "이찬원, 결혼 계획 소중해",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "한덕수 5년 징역 구형",
+      "keyword": "2026년 8월 29일 운세",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "고희진 감독 자진 사퇴",
+      "keyword": "홍진경, 딸 수업 중 숙면 폭로",
       "state": "n",
       "change": "0"
     }
