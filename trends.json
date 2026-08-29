@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-28T21:30:23.694Z",
+  "updatedAt": "2026-08-29T03:21:13.516Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "상장폐지",
+      "keyword": "찰스 3세",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "คริสตัลพาเลซ พบ แมนซิตี",
-      "traffic": "200+"
+      "keyword": "고우석",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "박진만",
-      "traffic": "100+"
+      "keyword": "공장",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "전투기",
+      "keyword": "달러",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "훌리안 알바레스",
-      "traffic": "100+"
+      "keyword": "기뢰",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "청두 j 10",
-      "traffic": "500+"
+      "keyword": "올영세일",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "기상",
-      "traffic": "1000+"
+      "keyword": "경상북도",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "아틀레티코 마드리드",
-      "traffic": "1000+"
+      "keyword": "ssg",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "palace vs man city",
+      "keyword": "인천광역시경제자유구역청",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "베트남",
-      "traffic": "100+"
+      "keyword": "박정훈",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "네팔 대홍수 사망자와 실종자",
-      "state": "+",
-      "change": "1"
+      "keyword": "한성숙 총리 서울 재개발 점검",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "송지은 나노 단위 박위 논란",
+      "keyword": "투어 챔피언십 공동 15위",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "KG 레이디스 오픈 2라운드 결과",
+      "keyword": "마동석 아이 엠 복서 금상 수상",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "한소희 절반 차지하면 망가져",
-      "state": "s",
+      "keyword": "의왕역서 코레일 직원 사망",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "워시 연준의장, 물가 우려",
-      "state": "s",
+      "keyword": "KGM 크루 연합",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "들쥐 위해 17㎏ 찌운 이관훈",
+      "keyword": "중국 유학생 살해 강사 수색",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "기안84의 친환경 생활법",
+      "keyword": "스쿠발 6이닝 1실점 호투",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이찬원, 결혼 계획 소중해",
+      "keyword": "제주 20대 아들 실종",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "2026년 8월 29일 운세",
-      "state": "n",
-      "change": "0"
+      "keyword": "전남 해남 2.6 지진 발생",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "홍진경, 딸 수업 중 숙면 폭로",
+      "keyword": "코로나 끝난 CGV 폐관",
       "state": "n",
       "change": "0"
     }
