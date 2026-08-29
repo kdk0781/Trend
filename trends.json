@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-29T03:21:13.516Z",
+  "updatedAt": "2026-08-29T10:16:50.470Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "찰스 3세",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "고우석",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "공장",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "달러",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "기뢰",
+      "keyword": "bfx",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "tvn",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "집단감염",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "북한이탈주민",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "목욕탕",
+      "traffic": "500+"
+    },
+    {
       "rank": 6,
-      "keyword": "올영세일",
-      "traffic": "100+"
+      "keyword": "반도체",
+      "traffic": "10000+"
     },
     {
       "rank": 7,
-      "keyword": "경상북도",
+      "keyword": "lck 플레이오프",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "ssg",
-      "traffic": "200+"
+      "keyword": "홍상수",
+      "traffic": "10000+"
     },
     {
       "rank": 9,
-      "keyword": "인천광역시경제자유구역청",
-      "traffic": "200+"
+      "keyword": "아이폰",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "박정훈",
+      "keyword": "mlb",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "한성숙 총리 서울 재개발 점검",
-      "state": "s",
+      "keyword": "제주 실종 20대 숨진 채 발견",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "투어 챔피언십 공동 15위",
-      "state": "s",
-      "change": "0"
+      "keyword": "이민영 부친상 소식",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 3,
-      "keyword": "마동석 아이 엠 복서 금상 수상",
-      "state": "n",
-      "change": "0"
+      "keyword": "KG 레이디스 오픈 3라운드",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "의왕역서 코레일 직원 사망",
-      "state": "n",
-      "change": "0"
+      "keyword": "승리한 트로피 시상",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "KGM 크루 연합",
-      "state": "n",
-      "change": "0"
+      "keyword": "김민석 국힘, 이진숙 내쫓아야",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "중국 유학생 살해 강사 수색",
+      "keyword": "경찰 실험까지 가능하다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "스쿠발 6이닝 1실점 호투",
-      "state": "s",
-      "change": "0"
+      "keyword": "소방관 파이터 신동국 승리 선언",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "제주 20대 아들 실종",
+      "keyword": "북한 청년절 기념행사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "전남 해남 2.6 지진 발생",
-      "state": "-",
-      "change": "3"
+      "keyword": "권은비 사업 실패 고백",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "코로나 끝난 CGV 폐관",
+      "keyword": "전국에 비 50㎜ 예상",
       "state": "n",
       "change": "0"
     }
