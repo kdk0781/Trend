@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-29T18:23:30.218Z",
+  "updatedAt": "2026-08-29T21:02:15.262Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "혈압",
+      "traffic": "200+"
+    },
+    {
+      "rank": 2,
+      "keyword": "유벤투스 대 파르마",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "세비야 대 아틀레티코",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "한반도",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "pl",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
       "keyword": "fotmob",
       "traffic": "100+"
     },
     {
-      "rank": 2,
-      "keyword": "오마르 마르무시",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "spurs vs newcastle",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "마르무시",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "토트넘",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "인플루언서",
-      "traffic": "500+"
-    },
-    {
       "rank": 7,
-      "keyword": "토트넘 대 뉴캐슬",
-      "traffic": "20000+"
+      "keyword": "헐크",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "김진욱",
-      "traffic": "500+"
+      "keyword": "해외축구",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "제주특별자치도",
+      "keyword": "spurs vs newcastle",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "bournemouth vs everton",
-      "traffic": "100+"
+      "keyword": "오마르 마르무시",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "네팔 대홍수 대응 진행",
-      "state": "s",
-      "change": "0"
+      "keyword": "사랑이 온다 주말극 인기",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "이용주 44세 별세",
-      "state": "s",
-      "change": "0"
+      "keyword": "헬기 수색 성과 없어",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 3,
-      "keyword": "안양 유병훈 감독 기자회견 불참",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "106세 잔프람 금메달",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "KG 레이디스 오픈 3라운드 경기",
+      "keyword": "이용주 심장마비 사망",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 4,
+      "keyword": "유병훈 감독 기자회견 불참",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 5,
+      "keyword": "연장 10회말 끝내기",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 6,
-      "keyword": "하석진 사랑이 온다 인기 상승",
+      "keyword": "송강과 이준영의 충격 오프닝",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "박정우, 연장 끝내기!",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "제3회 서울조각상 입선 작가들",
+      "keyword": "박위 구독자 폭락 논란",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 9,
-      "keyword": "선우용여 뇌경색 15년 지기",
-      "state": "n",
+      "rank": 8,
+      "keyword": "이관훈, 본업으로 들쥐 위해 찌웠다",
+      "state": "s",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "선우용여, 뇌경색의 15년 지기 매니저",
+      "state": "+",
+      "change": "4"
+    },
+    {
       "rank": 10,
-      "keyword": "안재석 투런포 역전승!",
-      "state": "n",
+      "keyword": "이민영 부친상 소속사 대표와 빈소",
+      "state": "s",
       "change": "0"
     }
   ]
