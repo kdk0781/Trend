@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-29T21:02:15.262Z",
+  "updatedAt": "2026-08-29T23:14:06.783Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "혈압",
+      "keyword": "김태균",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "유벤투스 대 파르마",
-      "traffic": "200+"
+      "keyword": "날씨",
+      "traffic": "200000+"
     },
     {
       "rank": 3,
-      "keyword": "세비야 대 아틀레티코",
-      "traffic": "10000+"
+      "keyword": "สภาพอากาศ",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "한반도",
+      "keyword": "天气",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "pl",
-      "traffic": "200+"
+      "keyword": "thời tiết",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "fotmob",
+      "keyword": "자산",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "헐크",
-      "traffic": "100+"
+      "keyword": "배당",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "해외축구",
-      "traffic": "200+"
+      "keyword": "김포 fc",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "spurs vs newcastle",
-      "traffic": "500+"
+      "keyword": "우크라이나",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "오마르 마르무시",
-      "traffic": "500+"
+      "keyword": "왕즈이",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "사랑이 온다 주말극 인기",
+      "keyword": "주말극 하석진 사랑 인기 상승",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 2,
       "keyword": "헬기 수색 성과 없어",
-      "state": "+",
-      "change": "3"
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이용주 심장마비 사망",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "유병훈 감독 기자회견 불참",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 5,
-      "keyword": "연장 10회말 끝내기",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "송강과 이준영의 충격 오프닝",
+      "keyword": "이강인 1호 도움 활약",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "선우용여, 매니저와 눈물의 간병",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "이용주 심장마비 사망",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "2026년 8월 30일 운세",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 7,
       "keyword": "박위 구독자 폭락 논란",
-      "state": "+",
-      "change": "2"
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이관훈, 본업으로 들쥐 위해 찌웠다",
+      "keyword": "호우주의보 해제",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "선우용여, 뇌경색의 15년 지기 매니저",
+      "keyword": "세리에 A",
       "state": "+",
-      "change": "4"
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "이민영 부친상 소속사 대표와 빈소",
-      "state": "s",
+      "keyword": "미쳤다! 엄지성 무패행진",
+      "state": "n",
       "change": "0"
     }
   ]
