@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-29T10:16:50.470Z",
+  "updatedAt": "2026-08-29T15:05:57.195Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "bfx",
-      "traffic": "200+"
+      "keyword": "황석정",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "tvn",
-      "traffic": "200+"
+      "keyword": "챔피언십",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "집단감염",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "북한이탈주민",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "목욕탕",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "반도체",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "lck 플레이오프",
+      "keyword": "이은결",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "야구순위",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "무뇨스",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "우마르 누르마고메도프",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "박정우",
+      "traffic": "1000+"
+    },
+    {
       "rank": 8,
-      "keyword": "홍상수",
-      "traffic": "10000+"
+      "keyword": "박위 논란",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "아이폰",
-      "traffic": "500+"
+      "keyword": "이민영",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "mlb",
-      "traffic": "500+"
+      "keyword": "lck",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "제주 실종 20대 숨진 채 발견",
-      "state": "n",
+      "keyword": "이용주, 어머니 아픔과 심장마비",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이민영 부친상 소식",
-      "state": "+",
-      "change": "3"
+      "keyword": "송강, 포핸즈 천재의 과거사",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "KG 레이디스 오픈 3라운드",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "승리한 트로피 시상",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 5,
-      "keyword": "김민석 국힘, 이진숙 내쫓아야",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "경찰 실험까지 가능하다",
+      "keyword": "의왕역 직원 투입 반발",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "소방관 파이터 신동국 승리 선언",
+      "rank": 4,
+      "keyword": "박정원, 네팔 도착",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "박정우, 연장 끝내기!",
+      "state": "+",
+      "change": "5"
+    },
+    {
+      "rank": 6,
+      "keyword": "그것이 알고 싶다",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 7,
+      "keyword": "울산 야고 2골, 김천 3-1 승리",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "북한 청년절 기념행사",
+      "keyword": "제주 실종 허위 진술",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "권은비 사업 실패 고백",
-      "state": "n",
-      "change": "0"
+      "keyword": "사랑이 온다 주말극 인기",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 10,
-      "keyword": "전국에 비 50㎜ 예상",
+      "keyword": "유병훈 감독, 기자회견 불참",
       "state": "n",
       "change": "0"
     }
