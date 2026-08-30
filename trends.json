@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-29T23:14:06.783Z",
+  "updatedAt": "2026-08-30T01:16:51.043Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김태균",
+      "keyword": "메르세데스-벤츠 s 클래스",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "날씨",
-      "traffic": "200000+"
+      "keyword": "inter miami vs montréal",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "สภาพอากาศ",
-      "traffic": "1000+"
+      "keyword": "스페이스x",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "天气",
+      "keyword": "차두리",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "thời tiết",
-      "traffic": "2000+"
+      "keyword": "일본 엔",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "자산",
-      "traffic": "100+"
+      "keyword": "국민일보",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "배당",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "김포 fc",
+      "keyword": "서영교",
       "traffic": "100+"
     },
     {
+      "rank": 8,
+      "keyword": "dc 유나이티드 대 엘에이 fc",
+      "traffic": "20000+"
+    },
+    {
       "rank": 9,
-      "keyword": "우크라이나",
+      "keyword": "범죄",
       "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "왕즈이",
-      "traffic": "1000+"
+      "keyword": "할인",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "주말극 하석진 사랑 인기 상승",
-      "state": "+",
-      "change": "1"
+      "keyword": "이용주 별세 소식",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "헬기 수색 성과 없어",
+      "keyword": "플레이갤럭시 컵 2026 개최",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이강인 1호 도움 활약",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "선우용여, 매니저와 눈물의 간병",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "이용주 심장마비 사망",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "2026년 8월 30일 운세",
+      "keyword": "이강인, 세비야 3-1 승리",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 4,
+      "keyword": "챔피언십 3R 공동 13위",
+      "state": "+",
+      "change": "6"
+    },
+    {
+      "rank": 5,
+      "keyword": "리노, 네팔 대홍수 1억 기부",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "KT-서울대-KAIST AI 공동연구",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "박위 구독자 폭락 논란",
+      "keyword": "모솔 박서진, 황혜선 집 방문",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "호우주의보 해제",
-      "state": "s",
+      "keyword": "롯데百 K-스낵 팝업스토어",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "세리에 A",
-      "state": "+",
-      "change": "3"
+      "keyword": "이정후 2안타 1타점",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "미쳤다! 엄지성 무패행진",
+      "keyword": "정부 1주택 종부세 14억",
       "state": "n",
       "change": "0"
     }
