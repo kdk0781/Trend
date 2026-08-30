@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-30T16:43:47.303Z",
+  "updatedAt": "2026-08-30T19:28:39.643Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "man united vs ipswich town",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "신지",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "man utd đấu với ipswich town",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "이스라엘",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "реал мадрид – малага",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "แมนยู พบ อิปสวิช",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "재혼 황후",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "real madrid vs málaga",
+      "keyword": "스포티비뉴스",
       "traffic": "500+"
     },
     {
+      "rank": 2,
+      "keyword": "설영우",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "premier league",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "살림하는 남자들",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "la liga",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "나폴리 대 코모",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "그것이 알고 싶다",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "맨유 경기",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "맨유 대 입스위치",
-      "traffic": "10000+"
+      "keyword": "man united vs ipswich town",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "레알 마드리드 대 말라가",
-      "traffic": "10000+"
+      "keyword": "real madrid đấu với malaga",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "최민석, 승리 도전!",
-      "state": "+",
-      "change": "1"
+      "keyword": "마세라티 사고 40대 구속",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "최현욱 만취 라이브 논란",
-      "state": "+",
-      "change": "2"
+      "keyword": "최민석, 다승 단독 선두",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "중대본 1단계 가동 시작",
-      "state": "-",
-      "change": "2"
+      "keyword": "김준호 김지민 임신 눈물",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "마세라티 사고 40대 구속",
-      "state": "+",
-      "change": "3"
+      "keyword": "이용주 사망에 연예계 추모",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "사랑이 오는 주말극 인기",
-      "state": "+",
-      "change": "1"
+      "keyword": "네팔 대홍수 사망자 증가",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "신다인 KG오픈 2연패",
+      "keyword": "두산 세베리노 KBO리그",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "김나희, 비연예인과 결혼",
-      "state": "+",
-      "change": "2"
+      "keyword": "김나희 비연예인과 결혼",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이용주 사망에 애도 물결",
-      "state": "+",
-      "change": "2"
+      "keyword": "김민석 유튜버 감찰 지시",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "아이슬란드 EU 가입 반대 53%",
-      "state": "+",
-      "change": "4"
+      "keyword": "유부녀 킬러와 들쥐 남자?",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "정정용 감독 마지막 기회",
-      "state": "n",
-      "change": "0"
+      "keyword": "고두심, 재혼 생각 없어",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
