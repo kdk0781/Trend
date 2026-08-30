@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-30T01:16:51.043Z",
+  "updatedAt": "2026-08-30T06:44:45.640Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "메르세데스-벤츠 s 클래스",
-      "traffic": "200+"
+      "keyword": "법인세",
+      "traffic": "10000+"
     },
     {
       "rank": 2,
-      "keyword": "inter miami vs montréal",
-      "traffic": "500+"
+      "keyword": "조선민주주의인민공화국",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "스페이스x",
-      "traffic": "200+"
+      "keyword": "홍수",
+      "traffic": "10000+"
     },
     {
       "rank": 4,
-      "keyword": "차두리",
-      "traffic": "500+"
+      "keyword": "스캔들",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "일본 엔",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "국민일보",
+      "keyword": "뉴데일리",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "서영교",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "dc 유나이티드 대 엘에이 fc",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "범죄",
+      "rank": 6,
+      "keyword": "전투기",
       "traffic": "2000+"
     },
     {
+      "rank": 7,
+      "keyword": "약국",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "의료관광",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "한동희",
+      "traffic": "500+"
+    },
+    {
       "rank": 10,
-      "keyword": "할인",
+      "keyword": "마라톤",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이용주 별세 소식",
+      "keyword": "용혜인 30대 워킹맘 책임감",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "플레이갤럭시 컵 2026 개최",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "이강인, 세비야 3-1 승리",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "챔피언십 3R 공동 13위",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 5,
-      "keyword": "리노, 네팔 대홍수 1억 기부",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "KT-서울대-KAIST AI 공동연구",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "모솔 박서진, 황혜선 집 방문",
+      "keyword": "강신철 국방장관 후보 이력",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "롯데百 K-스낵 팝업스토어",
+      "rank": 3,
+      "keyword": "오디세이 외화 1위",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "최종 라운드 경기 종료",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "한강공원 수영장 오늘까지 운영",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "주택 거래 위축 전망",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "구윤철 G20 예정대로 출국",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "이정후 타율 0.291 유지",
+      "state": "-",
+      "change": "5"
+    },
+    {
       "rank": 9,
-      "keyword": "이정후 2안타 1타점",
+      "keyword": "네팔 홍수 사망자 750명 증가",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "정부 1주택 종부세 14억",
-      "state": "n",
+      "keyword": "인건비 부담 분식점 감소",
+      "state": "s",
       "change": "0"
     }
   ]
