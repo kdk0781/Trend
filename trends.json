@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-30T12:15:56.801Z",
+  "updatedAt": "2026-08-30T16:43:47.303Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "우박",
-      "traffic": "200+"
+      "keyword": "man united vs ipswich town",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "이다해",
-      "traffic": "500+"
+      "keyword": "신지",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "lg vs lotte",
-      "traffic": "100+"
+      "keyword": "man utd đấu với ipswich town",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "여객기",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "수원fc 대 부산",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "청년문화예술패스",
+      "keyword": "이스라엘",
       "traffic": "100+"
     },
     {
+      "rank": 5,
+      "keyword": "реал мадрид – малага",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "แมนยู พบ อิปสวิช",
+      "traffic": "200+"
+    },
+    {
       "rank": 7,
-      "keyword": "포헨즈",
-      "traffic": "1000+"
+      "keyword": "재혼 황후",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "특별 경보",
-      "traffic": "2000+"
+      "keyword": "real madrid vs málaga",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "제주 대 대전",
-      "traffic": "2000+"
+      "keyword": "맨유 대 입스위치",
+      "traffic": "10000+"
     },
     {
       "rank": 10,
-      "keyword": "강원 대 포항",
-      "traffic": "2000+"
+      "keyword": "레알 마드리드 대 말라가",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이용주 장례식 참석 부탁드립니다.",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "최현욱 아침부터 만취 라이브",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "두산 세베리노 KBO리그",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "리센느, 장기흥행 중!",
+      "keyword": "최민석, 승리 도전!",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 2,
+      "keyword": "최현욱 만취 라이브 논란",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 3,
+      "keyword": "중대본 1단계 가동 시작",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "마세라티 사고 40대 구속",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 5,
-      "keyword": "전소민",
+      "keyword": "사랑이 오는 주말극 인기",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "김민석 2루타 세리머니",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "인사하는 코르티스 성현",
-      "state": "+",
+      "keyword": "신다인 KG오픈 2연패",
+      "state": "-",
       "change": "1"
     },
     {
+      "rank": 7,
+      "keyword": "김나희, 비연예인과 결혼",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 8,
-      "keyword": "중국 배추 용의자 3명 검거",
-      "state": "n",
-      "change": "0"
+      "keyword": "이용주 사망에 애도 물결",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "최민식 흰머리 비결 알레르기",
-      "state": "n",
-      "change": "0"
+      "keyword": "아이슬란드 EU 가입 반대 53%",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 10,
-      "keyword": "‘7개월 딸 울음소리 육아’",
+      "keyword": "정정용 감독 마지막 기회",
       "state": "n",
       "change": "0"
     }
