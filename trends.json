@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-08-31T18:11:10.351Z",
+  "updatedAt": "2026-08-31T22:52:58.848Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "수능",
-      "traffic": "100+"
+      "keyword": "서울경제",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "리사",
-      "traffic": "200+"
+      "keyword": "다우 존스 산업평균지수",
+      "traffic": "10000+"
     },
     {
       "rank": 3,
-      "keyword": "유리",
-      "traffic": "200+"
+      "keyword": "용궐산 하늘길",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "오선우",
+      "keyword": "barcelona đấu với rayo",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "fc온라인",
+      "keyword": "이지혜",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "한국장학재단",
-      "traffic": "200+"
+      "keyword": "барселона – райо вальекано",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "메시",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "송성문",
+      "keyword": "조선소",
       "traffic": "500+"
     },
     {
-      "rank": 9,
-      "keyword": "srt",
+      "rank": 8,
+      "keyword": "시내버스",
       "traffic": "200+"
     },
     {
-      "rank": 10,
-      "keyword": "fc",
+      "rank": 9,
+      "keyword": "aston villa đấu với arsenal",
       "traffic": "100+"
+    },
+    {
+      "rank": 10,
+      "keyword": "설운도",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "네팔 귀국한 직원 9명",
-      "state": "s",
+      "keyword": "미·이란 충돌 하락",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "니콜라스 감독 생각 중",
+      "keyword": "아르헨티나 대표팀 은퇴",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "코미디언 유성 별세 88세",
+      "keyword": "남은 연애 김선호의 데이트 이야기",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김민석 대표 조문 완료",
-      "state": "s",
+      "keyword": "트럼프 금리 인하 압박",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "연애 혼란과 선택",
-      "state": "+",
-      "change": "3"
+      "keyword": "네팔 구조 총력전",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "검찰 장윤기 사형 구형",
-      "state": "n",
-      "change": "0"
+      "keyword": "용혜인 의원 겸직 문제",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "포효하는 여준석",
+      "keyword": "현대차 임협 타결",
       "state": "+",
-      "change": "12"
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "김동준 한가인 입원",
-      "state": "n",
-      "change": "0"
+      "keyword": "태풍 크로반 일본 남부 향해",
+      "state": "+",
+      "change": "16"
     },
     {
       "rank": 9,
-      "keyword": "한학자 징역 2년 판결",
-      "state": "s",
+      "keyword": "유호석 재벌설 해명",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "용혜인 장관 자격 논란",
-      "state": "s",
+      "keyword": "하영, 중증외상센터 하차",
+      "state": "n",
       "change": "0"
     }
   ]
