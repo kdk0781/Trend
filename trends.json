@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-31T00:14:32.128Z",
+  "updatedAt": "2026-08-31T05:39:38.965Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "외국인",
-      "traffic": "200+"
+      "keyword": "주차",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "보증금",
+      "keyword": "자기주식",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "국민연금공단",
+      "keyword": "이혜영",
       "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "경기도교육감",
+      "keyword": "주문도",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "as 모나코 대 마르세유",
-      "traffic": "100+"
+      "keyword": "김윤지",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "목진석",
+      "keyword": "테니스",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "연금 개혁",
-      "traffic": "200+"
+      "keyword": "김호창",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "창원시",
+      "keyword": "종합 부동산 세",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "엄태웅",
-      "traffic": "500+"
+      "keyword": "강진군",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "로보택시",
-      "traffic": "500+"
+      "keyword": "미용실",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "故이용주 발인식",
-      "state": "s",
+      "keyword": "구정아 우스모스 리움미술관",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "7월 소비 2.4%↓ 투자 7.5%↑",
-      "state": "s",
+      "keyword": "중국산 김치 안정성 점검",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김효주 FM 챔피언십 준우승",
+      "keyword": "김민석 메가성장 회의 참석",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "임영웅 타이틀곡 또또와 시월이",
-      "state": "n",
+      "keyword": "이용주 떠나보낸 백봉기 발인 함께",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "용혜인 논란",
-      "state": "-",
-      "change": "1"
+      "keyword": "나혼산 촬영 협조 받아",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "하석진 사랑이 온다 인기 급상승",
-      "state": "-",
+      "keyword": "용혜인 장관 쟁점 험로",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "이준영 포핸즈 존재감 증명",
+      "keyword": "고우석, 미네소타 이관",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "SK온, 美 9GWH 배터리 공급",
+      "keyword": "허위종결 63건 미입력",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "설영우 1호 도움",
+      "keyword": "빠니보틀 미모의 신혼여행",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "성매매 벌금형 지나, 복귀 축복받은",
-      "state": "n",
-      "change": "0"
+      "keyword": "정소민",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
