@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-08-31T05:39:38.965Z",
+  "updatedAt": "2026-08-31T11:49:53.945Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "주차",
-      "traffic": "500+"
+      "keyword": "이수연",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "자기주식",
-      "traffic": "500+"
+      "keyword": "자연재해",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "이혜영",
-      "traffic": "2000+"
+      "keyword": "손빈",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "주문도",
+      "keyword": "sk이노베이션",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "김윤지",
-      "traffic": "500+"
+      "keyword": "숲",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "테니스",
-      "traffic": "200+"
+      "keyword": "최동석",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "김호창",
+      "keyword": "김태군",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "종합 부동산 세",
-      "traffic": "500+"
+      "keyword": "박지원",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "강진군",
-      "traffic": "200+"
+      "keyword": "진",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "미용실",
-      "traffic": "200+"
+      "keyword": "장기전세주택",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "구정아 우스모스 리움미술관",
-      "state": "n",
+      "keyword": "조희대 대법원장 빈소 조문",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "중국산 김치 안정성 점검",
+      "keyword": "네팔 홍수 구조 9명 귀국",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김민석 메가성장 회의 참석",
+      "keyword": "니콜라스 감독 생각 중",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이용주 떠나보낸 백봉기 발인 함께",
-      "state": "s",
-      "change": "0"
+      "keyword": "오디세이 27일 900만 돌파",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "나혼산 촬영 협조 받아",
-      "state": "n",
-      "change": "0"
+      "keyword": "장윤기에 사형 구형",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "용혜인 장관 쟁점 험로",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "고우석, 미네소타 이관",
+      "keyword": "형 믿고 끝까지 간다, 이용주 영정 앞 인사",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "용혜인 의원직 논란",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 8,
-      "keyword": "허위종결 63건 미입력",
-      "state": "n",
-      "change": "0"
+      "keyword": "이준영, 포핸즈 액션 촬영 겸손",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "빠니보틀 미모의 신혼여행",
+      "keyword": "여준석의 덩크",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "정소민",
-      "state": "+",
-      "change": "2"
+      "keyword": "유해진 이민호 1위 예매율",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
