@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-08-30T21:58:41.523Z",
+  "updatedAt": "2026-08-31T00:14:32.128Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "민생지원금",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "나는 solo",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "수사",
+      "keyword": "외국인",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "보증금",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "국민연금공단",
+      "traffic": "2000+"
+    },
+    {
       "rank": 4,
-      "keyword": "오윤아",
+      "keyword": "경기도교육감",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "박진만",
-      "traffic": "500+"
+      "keyword": "as 모나코 대 마르세유",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "김하성",
-      "traffic": "1000+"
+      "keyword": "목진석",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "김서현",
-      "traffic": "2000+"
+      "keyword": "연금 개혁",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "박미선",
+      "keyword": "창원시",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "중대범죄수사청",
-      "traffic": "200+"
+      "keyword": "엄태웅",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "f-35a",
-      "traffic": "200+"
+      "keyword": "로보택시",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "네팔 대홍수 사망 800명 이상",
+      "keyword": "故이용주 발인식",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "고두심 재혼 생각 없다",
+      "keyword": "7월 소비 2.4%↓ 투자 7.5%↑",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김민수 레인저스 데뷔전!",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 4,
-      "keyword": "故이용주, 심장마비로 영면",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "사랑이 온다 대세 이유",
+      "keyword": "김효주 FM 챔피언십 준우승",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "2026년 8월 31일 운세",
+      "rank": 4,
+      "keyword": "임영웅 타이틀곡 또또와 시월이",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "용혜인 논란",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "하석진 사랑이 온다 인기 급상승",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "김나희 비연예인 결혼",
-      "state": "n",
+      "keyword": "이준영 포핸즈 존재감 증명",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "포핸즈 첫방 시선강탈",
-      "state": "+",
-      "change": "1"
+      "keyword": "SK온, 美 9GWH 배터리 공급",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "최민석 다승 선두",
-      "state": "-",
-      "change": "5"
+      "keyword": "설영우 1호 도움",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김효주·김세영 FM 챔피언십 2위",
+      "keyword": "성매매 벌금형 지나, 복귀 축복받은",
       "state": "n",
       "change": "0"
     }
