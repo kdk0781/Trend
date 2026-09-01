@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-01T06:44:17.874Z",
+  "updatedAt": "2026-09-01T12:03:06.578Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "사교육",
-      "traffic": "100+"
+      "keyword": "lck",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "맘스터치",
+      "keyword": "해외",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "가정폭력",
+      "keyword": "심유진",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "강호동",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "대형주",
+      "keyword": "화물",
       "traffic": "200+"
     },
     {
-      "rank": 6,
-      "keyword": "코레일",
-      "traffic": "1000+"
+      "rank": 5,
+      "keyword": "공무원 임금 인상",
+      "traffic": "500+"
     },
     {
-      "rank": 7,
-      "keyword": "리쥬란",
+      "rank": 6,
+      "keyword": "교통",
       "traffic": "100+"
     },
     {
+      "rank": 7,
+      "keyword": "서울대 10개 만들기",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "고우석",
-      "traffic": "2000+"
+      "keyword": "หวย",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "전기 요금",
-      "traffic": "2000+"
+      "keyword": "방신실",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "kbo 리그 월간 mvp",
-      "traffic": "500+"
+      "keyword": "이승민",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정기국회 개회식 참석자들",
+      "keyword": "2026 운동하는 서울광장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "추석 성수품 공급 확대",
+      "keyword": "송찬의 역전 홈런!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "정부, 종부세 기본공제 12억 유지",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "네팔 홍수 피해",
+      "keyword": "황보라 엄마 우울증 진단",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "양지원 재혼식 하객들 축하",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "아마루 활동 중단 6인 체제",
+      "keyword": "KIA 김도영 집중타격",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "모레노 임시 감독 6경기 지휘",
-      "state": "n",
+      "keyword": "용혜인, 주택 매매로 2000만원 이익",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "외국인 추납 연금 수령",
-      "state": "n",
-      "change": "0"
+      "keyword": "서울대 만들기 본격 시작",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "불법무기류 신고 기간",
+      "keyword": "DB 손해보험",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "2026 서울 주얼리 위크",
+      "keyword": "윤후, 카투사 불합격",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "공정위 롯데렌탈 인수 승인",
+      "keyword": "임신 예비신부 두고 외도한 공무원",
       "state": "n",
       "change": "0"
     }
