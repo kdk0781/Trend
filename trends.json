@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-01T21:58:23.887Z",
+  "updatedAt": "2026-09-01T23:49:44.646Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "아이폰",
-      "traffic": "500+"
+      "keyword": "9월 모의고사",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "병사",
-      "traffic": "200+"
+      "keyword": "오타니 쇼헤이",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "배준호",
-      "traffic": "200+"
+      "keyword": "엔조",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "패션",
+      "keyword": "골키퍼",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "노인 돌봄",
-      "traffic": "200+"
+      "keyword": "스타뉴스",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "대한민국 국세청",
-      "traffic": "500+"
+      "keyword": "노화",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "군수산업",
+      "keyword": "코인니스 - 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "3기 신도시",
+      "keyword": "경북일보",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "정오 의 희망곡",
-      "traffic": "1000+"
+      "keyword": "화장",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "중위소득",
-      "traffic": "200+"
+      "keyword": "보조금",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "2026 브랜드 대상 수상작들",
+      "keyword": "8월 물가 3.1% 상승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이장원 할아버지 별세 소식",
+      "keyword": "이장원 할아버지 별세",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "황희찬 이적 확정!",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "美, 이틀만에 이란 공습",
+      "keyword": "호르무즈서 韓 유조선 피격",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "부활한 태풍 사우델 이동 경로",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 5,
-      "keyword": "선관위 특검보 5명 임명",
+      "keyword": "민희, 12일 결혼!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김영옥 남편 사별 100일",
-      "state": "+",
-      "change": "3"
+      "keyword": "이란 보복 작전 개시",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "입건에도 SNS 계속한 과즙세연",
+      "keyword": "정준하 지상렬 술로 진상",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김민경, 46세에 아들 출산",
-      "state": "s",
+      "keyword": "신병4 총기 은폐 분노",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "2026년 9월 2일 운세",
+      "keyword": "하영, 일본으로 떠나라",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "해외긴급구호대 네팔로 출발",
+      "keyword": "과즙세연과 케이, 마약 혐의 입건",
       "state": "n",
       "change": "0"
     }
