@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-01T19:31:56.080Z",
+  "updatedAt": "2026-09-01T21:58:23.887Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "jyp 엔터테인먼트",
-      "traffic": "200+"
+      "keyword": "아이폰",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "기아 쏘렌토",
-      "traffic": "1000+"
+      "keyword": "병사",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "박신혜",
+      "keyword": "배준호",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "이민정",
-      "traffic": "1000+"
+      "keyword": "패션",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "파기환송",
-      "traffic": "2000+"
+      "keyword": "노인 돌봄",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "중대범죄 수사청",
-      "traffic": "1000+"
+      "keyword": "대한민국 국세청",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "경북대",
-      "traffic": "5000+"
+      "keyword": "군수산업",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "케이",
-      "traffic": "1000+"
+      "keyword": "3기 신도시",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "정오의 희망곡",
+      "keyword": "정오 의 희망곡",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "유튜브 광고",
-      "traffic": "100+"
+      "keyword": "중위소득",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "2026 브랜드 대상 수상작",
+      "keyword": "2026 브랜드 대상 수상작들",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "경찰청 김종철 고범석",
-      "state": "s",
-      "change": "0"
+      "keyword": "이장원 할아버지 별세 소식",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "송찬의 역전 홈런!",
-      "state": "s",
-      "change": "0"
+      "keyword": "황희찬 이적 확정!",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "과즙세연, 케이와 함께 투약 혐의",
-      "state": "s",
+      "keyword": "美, 이틀만에 이란 공습",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "선관위 특검보에 박혁과 김은정 임명",
+      "keyword": "선관위 특검보 5명 임명",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "이장원 할아버지 마지막 여름 추모",
-      "state": "-",
-      "change": "1"
+      "keyword": "김영옥 남편 사별 100일",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "김민석 강민구 해임",
-      "state": "s",
+      "keyword": "입건에도 SNS 계속한 과즙세연",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "보스 7이닝 무실점, 삼성 6연승",
+      "keyword": "김민경, 46세에 아들 출산",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "운동하는 서울광장",
-      "state": "+",
-      "change": "1"
+      "keyword": "2026년 9월 2일 운세",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이호준 감독 블레인 만루포!",
-      "state": "+",
-      "change": "4"
+      "keyword": "해외긴급구호대 네팔로 출발",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
