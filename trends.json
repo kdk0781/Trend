@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-01T12:03:06.578Z",
+  "updatedAt": "2026-09-01T16:32:38.736Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "lck",
-      "traffic": "1000+"
+      "keyword": "박신혜",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "해외",
-      "traffic": "500+"
+      "keyword": "이민정",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "심유진",
+      "keyword": "케이",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "화물",
-      "traffic": "200+"
+      "keyword": "정오의 희망곡",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "공무원 임금 인상",
-      "traffic": "500+"
+      "keyword": "조국",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "교통",
+      "keyword": "유튜브 광고",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "서울대 10개 만들기",
+      "keyword": "공무원 노동조합",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "หวย",
+      "keyword": "강민구",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "방신실",
-      "traffic": "100+"
+      "keyword": "미국 중간선거",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "이승민",
+      "keyword": "k-패스",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "2026 운동하는 서울광장",
+      "keyword": "서울대 10개 만든다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "송찬의 역전 홈런!",
+      "keyword": "이민성 감독 훈련 발언",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "황보라 엄마 우울증 진단",
+      "keyword": "2026 올해의 브랜드 대상 수상기업",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "양지원 재혼식 하객들 축하",
+      "keyword": "경찰청 김종철 고범석",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "KIA 김도영 집중타격",
-      "state": "n",
+      "keyword": "윤후 카투사 불합격",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "용혜인, 주택 매매로 2000만원 이익",
+      "keyword": "송찬의 역전 스리런",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "서울대 만들기 본격 시작",
-      "state": "-",
-      "change": "2"
+      "keyword": "김용범 정책실장 사퇴",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "DB 손해보험",
-      "state": "+",
-      "change": "2"
+      "keyword": "선관위 특검보 5명 임명",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "윤후, 카투사 불합격",
-      "state": "n",
-      "change": "0"
+      "keyword": "김민석, 강민구 해임",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "임신 예비신부 두고 외도한 공무원",
-      "state": "n",
-      "change": "0"
+      "keyword": "과즙세연, 케이와 투약 혐의",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
