@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-01T01:31:32.871Z",
+  "updatedAt": "2026-09-01T06:44:17.874Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "훈련",
-      "traffic": "500+"
+      "keyword": "사교육",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "육아휴직",
-      "traffic": "200+"
+      "keyword": "맘스터치",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "김봉곤",
-      "traffic": "200+"
+      "keyword": "가정폭력",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "제주서부경찰서",
-      "traffic": "5000+"
+      "keyword": "강호동",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "항소이유서",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "광주은행",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "경기지역화폐",
+      "keyword": "대형주",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "코레일",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "리쥬란",
+      "traffic": "100+"
+    },
+    {
       "rank": 8,
-      "keyword": "김용범",
+      "keyword": "고우석",
       "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "최윤범",
-      "traffic": "100+"
+      "keyword": "전기 요금",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "마이크로덕",
-      "traffic": "100+"
+      "keyword": "kbo 리그 월간 mvp",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김용범 사퇴, 사표 수리",
+      "keyword": "정기국회 개회식 참석자들",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "하영, 중증외상센터 하차",
+      "keyword": "추석 성수품 공급 확대",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "8월 수출 983억 달러 역대 3위",
+      "keyword": "정부, 종부세 기본공제 12억 유지",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "출근하는 이형일 후보자",
-      "state": "s",
+      "keyword": "네팔 홍수 피해",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "중국인 정창성 살해 사건",
-      "state": "s",
+      "keyword": "아마루 활동 중단 6인 체제",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "부산국제영화제 개최 기자회견",
+      "keyword": "모레노 임시 감독 6경기 지휘",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "고우석 FA 선택 LG 복귀 가능",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "119만원 갤럭시 북6 출시",
-      "state": "s",
+      "keyword": "외국인 추납 연금 수령",
+      "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "불법무기류 신고 기간",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 9,
-      "keyword": "이현균 결혼 대박",
+      "keyword": "2026 서울 주얼리 위크",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김봉곤 훈장과 딸 진소리",
-      "state": "-",
-      "change": "1"
+      "keyword": "공정위 롯데렌탈 인수 승인",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
