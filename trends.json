@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-09-01T23:49:44.646Z",
+  "updatedAt": "2026-09-02T01:28:01.502Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "9월 모의고사",
+      "keyword": "외환위기",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "오타니 쇼헤이",
-      "traffic": "500+"
+      "keyword": "육아휴직",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "엔조",
+      "keyword": "브루어스 대 컵스",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "골키퍼",
+      "keyword": "카를로스 카라스코",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "스타뉴스",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "노화",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "코인니스 - 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
+      "keyword": "대한민국 의 경찰청장",
       "traffic": "500+"
     },
     {
+      "rank": 6,
+      "keyword": "지예은",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "리센느",
+      "traffic": "2000+"
+    },
+    {
       "rank": 8,
-      "keyword": "경북일보",
-      "traffic": "200+"
+      "keyword": "이영택",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "화장",
-      "traffic": "100+"
+      "keyword": "윤이나",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "보조금",
-      "traffic": "5000+"
+      "keyword": "매일경제신문",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "8월 물가 3.1% 상승",
+      "keyword": "2027학년도 9월 모의평가",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이장원 할아버지 별세",
-      "state": "+",
+      "keyword": "지예은과 바타 결혼 약속",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "호르무즈서 韓 유조선 피격",
-      "state": "n",
+      "keyword": "8월 소비자물가 3.1%",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "부활한 태풍 사우델 이동 경로",
+      "keyword": "코스피 하락 시작",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "민희, 12일 결혼!",
+      "keyword": "황희찬 샬케 임대 확정",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "아동학대 대응 대책 발표",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "이란 보복 작전 개시",
-      "state": "-",
-      "change": "2"
-    },
-    {
       "rank": 7,
-      "keyword": "정준하 지상렬 술로 진상",
-      "state": "n",
+      "keyword": "김민종, MC몽 고소 조치",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "신병4 총기 은폐 분노",
-      "state": "n",
-      "change": "0"
+      "keyword": "교육혁신포럼 축사하는 인사들",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "하영, 일본으로 떠나라",
+      "keyword": "용혜인 우려 알아 듣겠다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "과즙세연과 케이, 마약 혐의 입건",
-      "state": "n",
+      "keyword": "엄지성 2경기 연속 1골",
+      "state": "s",
       "change": "0"
     }
   ]
