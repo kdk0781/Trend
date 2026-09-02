@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-02T11:22:11.865Z",
+  "updatedAt": "2026-09-02T15:10:30.524Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "알 테오 젠",
-      "traffic": "200+"
+      "keyword": "포항시장",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "과일",
-      "traffic": "5000+"
+      "keyword": "리사",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "땅",
-      "traffic": "500+"
+      "keyword": "보물",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "가상자산",
-      "traffic": "500+"
+      "keyword": "정일우",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "용 혜인 남편",
-      "traffic": "1000+"
+      "keyword": "xbox",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "sk스퀘어",
-      "traffic": "200+"
+      "keyword": "미국 상원",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "노스 다코타",
-      "traffic": "1000+"
+      "keyword": "lck",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "스타 크래프트 넥슨",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "파산",
+      "keyword": "권순표",
       "traffic": "200+"
     },
     {
+      "rank": 9,
+      "keyword": "샤인 머스 캣",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "롯데 자이언츠",
-      "traffic": "1000+"
+      "keyword": "t1",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "박재홍 아나운서",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "부산 앞바다 예인선 실종 6명",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "2일 선발 역투",
+      "keyword": "CJ 나이트 참석 인물",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "지예은♥바타 결혼 약속 재조명",
+      "rank": 2,
+      "keyword": "정몽규 경찰 출석",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "과즙세연 마약 혐의 조사",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "부산 예인선 실종자 수색",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 5,
-      "keyword": "홈플러스 정상화 길 열리다",
+      "keyword": "김형준 밀어내기 볼넷!",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "KIA 나성범 홈런 2연타",
-      "state": "-",
-      "change": "1"
+      "keyword": "초등생 교사 폭행",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김현정 12KG 감량 롱다리 미녀",
+      "keyword": "광수 12년 만에 여자 손잡다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "청하, 얼굴 돌려깎기 의심",
+      "keyword": "지예은·바타 행복한 사랑 이야기",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김민혁 1타점 적시타",
-      "state": "n",
-      "change": "0"
+      "keyword": "소나기 최고 33도",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "재혼해도 따로 살겠다",
-      "state": "n",
-      "change": "0"
+      "keyword": "문정빈 홈런으로 승리한 LG",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
