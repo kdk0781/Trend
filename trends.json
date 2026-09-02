@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-02T15:10:30.524Z",
+  "updatedAt": "2026-09-02T18:44:57.386Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "포항시장",
+      "keyword": "카사마츠 쇼",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "리사",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "보물",
+      "keyword": "투표용지",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "여자 야구",
+      "traffic": "1000+"
+    },
+    {
       "rank": 4,
-      "keyword": "정일우",
+      "keyword": "박재홍",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "xbox",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "미국 상원",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "lck",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "권순표",
+      "keyword": "아시안 게임 야구",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "mbk 파트너스",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "포항시장",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "리사",
+      "traffic": "1000+"
+    },
+    {
       "rank": 9,
-      "keyword": "샤인 머스 캣",
-      "traffic": "2000+"
+      "keyword": "보물",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "t1",
-      "traffic": "500+"
+      "keyword": "정일우",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "CJ 나이트 참석 인물",
+      "keyword": "CJ 나이트 참석자",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "정몽규 경찰 출석",
-      "state": "n",
+      "keyword": "부산 예인선 실종자 수색",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "과즙세연 마약 혐의 조사",
-      "state": "-",
-      "change": "1"
+      "keyword": "김형준 밀어내기 볼넷",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "부산 예인선 실종자 수색",
-      "state": "-",
-      "change": "1"
+      "keyword": "정몽규 경찰 조사 마침",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김형준 밀어내기 볼넷!",
+      "keyword": "지예은-바타, 결혼 소감 공유",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "초등생 교사 폭행",
-      "state": "n",
+      "keyword": "문정빈 홈런 LG 환호",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "광수 12년 만에 여자 손잡다",
-      "state": "n",
-      "change": "0"
+      "keyword": "용혜인 의원의 유시민 발언",
+      "state": "+",
+      "change": "62"
     },
     {
       "rank": 8,
-      "keyword": "지예은·바타 행복한 사랑 이야기",
+      "keyword": "박재홍 아나운서 뇌경색 진단",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 9,
+      "keyword": "김종철 제주 방문 점검",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "소나기 최고 33도",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 10,
-      "keyword": "문정빈 홈런으로 승리한 LG",
-      "state": "-",
-      "change": "1"
+      "keyword": "이다영 수영복 몸매 주목",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
