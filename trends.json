@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-02T21:20:24.414Z",
+  "updatedAt": "2026-09-02T23:26:39.186Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "에코프로비엠",
-      "traffic": "100+"
+      "keyword": "로제",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "vfl 오스나브뤼크 대 바이에른",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "카사마츠 쇼",
+      "keyword": "블루제이스 대 가디언즈",
       "traffic": "100+"
     },
     {
-      "rank": 4,
-      "keyword": "투표용지",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "여자 야구",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "박재홍",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "아시안 게임 야구",
+      "rank": 3,
+      "keyword": "존리",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "한일전",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "신정환",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "수의사",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "충남 함",
+      "traffic": "2000+"
+    },
+    {
       "rank": 8,
-      "keyword": "mbk 파트너스",
+      "keyword": "울산광역시",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "포항시장",
+      "keyword": "다우 존스 산업평균지수",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "리사",
-      "traffic": "2000+"
+      "keyword": "mbk파트너스",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정몽규 경찰 조사 마침",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "김형준 밀어내기 볼넷!",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "지예은♥바타 결혼 소감 공개",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "가장 좋아하는 의원 용혜인 이유",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "박재홍, 뇌경색 진단",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "카사마츠 쇼 한국어 실력",
+      "keyword": "용혜인 겸직 논란再浮上",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "염경엽 감독 승리 축하",
+      "rank": 2,
+      "keyword": "트럼프 공격, 오래가지 않을 것",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "권은비 아이즈원 재결합 희망",
+      "state": "+",
+      "change": "10"
+    },
+    {
+      "rank": 4,
+      "keyword": "지예은과 바타의 결혼 꿈꾸며 살겠다",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "박재홍 뇌경색 진단",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "김민재 뮌헨 4-1 대승",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "제15차 전국교원대회 개막",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 8,
-      "keyword": "이다영, 화장실서 비키니 촬영",
-      "state": "s",
-      "change": "0"
+      "keyword": "국채금리 반등한 뉴욕증시",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "새마을금고 이사장 수사",
-      "state": "s",
+      "keyword": "박진영 美 출장 주의 조치",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "李대통령, 강남 급락 원인 살펴봐라",
+      "keyword": "홍명보 선임 의혹 조사",
       "state": "n",
       "change": "0"
     }
