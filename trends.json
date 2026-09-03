@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-03T01:16:37.155Z",
+  "updatedAt": "2026-09-03T05:52:21.124Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "브루어스 대 컵스",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "왕 즈이",
+      "keyword": "대한민국의 법무부 장관",
       "traffic": "2000+"
     },
     {
+      "rank": 2,
+      "keyword": "농협",
+      "traffic": "1000+"
+    },
+    {
       "rank": 3,
-      "keyword": "대한민국 독립유공자",
+      "keyword": "공공기관 통폐합",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "내야수",
-      "traffic": "500+"
+      "keyword": "난간",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "외환시장",
-      "traffic": "100+"
+      "keyword": "외환보유고",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "빙하 붕괴",
+      "keyword": "마비노기 이터니티",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "사우 델",
-      "traffic": "500+"
+      "keyword": "gemini 3.8 flash",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "정책",
-      "traffic": "100+"
+      "keyword": "한국전력공사",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "중앙일보 오늘의 운세",
+      "keyword": "습관",
       "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "코레일",
+      "keyword": "황신혜",
       "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "강신철 후보자 첫 소감",
-      "state": "+",
-      "change": "5"
+      "keyword": "정부 이전 추진",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "출근하는 장관 후보자",
+      "keyword": "티빙 3954만 계정 유출",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "갤럭시 S26 FE 4일 출시",
-      "state": "-",
-      "change": "2"
+      "keyword": "용혜인의 안쓰러운 모습 재조명",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "홍현석, 미트윌란 임대 이적",
-      "state": "-",
-      "change": "1"
+      "keyword": "안세영, 중국 마스터스 8강 진출",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "유아, 링컴즈와 전속계약",
+      "keyword": "석촌호수 NCT 아트벌룬",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "네이버 보안 AI 사업자 선정",
+      "keyword": "인천공항, ACI 최고등급 5년 연속",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "한화오션, 대만서 6척 수주",
+      "keyword": "추석 예초기 점검",
       "state": "-",
       "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "김정관 장관, 국제 회의 및 면담",
-      "state": "-",
-      "change": "6"
+      "keyword": "서울 시내버스 16일 파업",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이창동 감독, 미국 밀밸리 어터상 수상",
+      "keyword": "하이브 방시혁 불구속 송치",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김종철 경찰청장 대행 제주 방문",
+      "keyword": "서울대 10개 관련 기자회견",
       "state": "n",
       "change": "0"
     }
