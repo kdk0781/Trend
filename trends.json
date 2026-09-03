@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-03T14:40:17.745Z",
+  "updatedAt": "2026-09-03T18:06:03.125Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "중독",
-      "traffic": "1000+"
+      "keyword": "폐쇄회로 텔레비전",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "호르무즈 파병",
+      "keyword": "스낳대",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "명예훼손",
-      "traffic": "200+"
+      "keyword": "제미나이",
+      "traffic": "10000+"
     },
     {
       "rank": 4,
-      "keyword": "용적률",
-      "traffic": "100+"
+      "keyword": "챗gpt",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "이보람",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "농림축산식품부",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "대한민국 여자 배구 국가대표팀",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "관세",
+      "keyword": "챗",
       "traffic": "100+"
     },
     {
+      "rank": 6,
+      "keyword": "ai",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "저작권",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "chatgpt",
+      "traffic": "20000+"
+    },
+    {
       "rank": 9,
-      "keyword": "가수",
-      "traffic": "1000+"
+      "keyword": "시부모",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "민생회복 소비쿠폰",
-      "traffic": "50000+"
+      "keyword": "거점국립대학교",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "미 교육구 AI 사용 금지",
-      "state": "n",
+      "keyword": "포즈 취하는 배우들",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "가해자 누나 KBS 출연",
-      "state": "n",
+      "keyword": "오스틴 시즌 36호 홈런",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "30년 IMF 빚 청산 대통령 덕분",
-      "state": "n",
+      "keyword": "곽시양·유지애 11월 결혼",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "곽시양 유지애 11월 결혼",
-      "state": "n",
+      "keyword": "서울라이트 DDP 개막",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "포즈 취한 배우들",
-      "state": "-",
-      "change": "2"
+      "keyword": "LG 박시원 무실점 5이닝",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "취객 사망 경찰 무죄",
-      "state": "-",
-      "change": "3"
+      "keyword": "용혜인 재산 신고",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "딸 잃은 배영만의 사연 공개",
-      "state": "+",
-      "change": "5"
+      "keyword": "글로리아 스타이넘 별세",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "서울라이트 DDP 개막",
-      "state": "-",
-      "change": "2"
+      "keyword": "호르무즈 파병 사실 무관",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
       "keyword": "변요한, 티파니와 결혼 결심 이유",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "용혜인과 논란",
-      "state": "-",
-      "change": "2"
+      "keyword": "KT 선두 복귀",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
