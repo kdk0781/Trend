@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-02T23:26:39.186Z",
+  "updatedAt": "2026-09-03T01:16:37.155Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "로제",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "블루제이스 대 가디언즈",
+      "keyword": "브루어스 대 컵스",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "왕 즈이",
+      "traffic": "2000+"
+    },
+    {
       "rank": 3,
-      "keyword": "존리",
+      "keyword": "대한민국 독립유공자",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "한일전",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "신정환",
+      "keyword": "내야수",
       "traffic": "500+"
     },
     {
+      "rank": 5,
+      "keyword": "외환시장",
+      "traffic": "100+"
+    },
+    {
       "rank": 6,
-      "keyword": "수의사",
-      "traffic": "200+"
+      "keyword": "빙하 붕괴",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "충남 함",
-      "traffic": "2000+"
+      "keyword": "사우 델",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "울산광역시",
+      "keyword": "정책",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "다우 존스 산업평균지수",
-      "traffic": "200+"
+      "keyword": "중앙일보 오늘의 운세",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "mbk파트너스",
-      "traffic": "500+"
+      "keyword": "코레일",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "용혜인 겸직 논란再浮上",
+      "keyword": "강신철 후보자 첫 소감",
       "state": "+",
-      "change": "1"
+      "change": "5"
     },
     {
       "rank": 2,
-      "keyword": "트럼프 공격, 오래가지 않을 것",
+      "keyword": "출근하는 장관 후보자",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "갤럭시 S26 FE 4일 출시",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "홍현석, 미트윌란 임대 이적",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 3,
-      "keyword": "권은비 아이즈원 재결합 희망",
-      "state": "+",
-      "change": "10"
-    },
-    {
-      "rank": 4,
-      "keyword": "지예은과 바타의 결혼 꿈꾸며 살겠다",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 5,
-      "keyword": "박재홍 뇌경색 진단",
-      "state": "+",
-      "change": "2"
+      "keyword": "유아, 링컴즈와 전속계약",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김민재 뮌헨 4-1 대승",
+      "keyword": "네이버 보안 AI 사업자 선정",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "제15차 전국교원대회 개막",
-      "state": "+",
+      "keyword": "한화오션, 대만서 6척 수주",
+      "state": "-",
       "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "국채금리 반등한 뉴욕증시",
-      "state": "+",
-      "change": "1"
+      "keyword": "김정관 장관, 국제 회의 및 면담",
+      "state": "-",
+      "change": "6"
     },
     {
       "rank": 9,
-      "keyword": "박진영 美 출장 주의 조치",
+      "keyword": "이창동 감독, 미국 밀밸리 어터상 수상",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "홍명보 선임 의혹 조사",
+      "keyword": "김종철 경찰청장 대행 제주 방문",
       "state": "n",
       "change": "0"
     }
