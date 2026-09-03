@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-03T20:56:42.944Z",
+  "updatedAt": "2026-09-03T23:01:41.797Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이재영",
-      "traffic": "200+"
+      "keyword": "들쥐",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "러시아",
-      "traffic": "200+"
+      "keyword": "김혜수",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "폐쇄회로 텔레비전",
-      "traffic": "500+"
+      "keyword": "항공모함",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "스낳대",
+      "keyword": "알렉산드라 에알라",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "제미나이",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "챗gpt",
+      "keyword": "기아",
       "traffic": "2000+"
     },
     {
+      "rank": 6,
+      "keyword": "spcx",
+      "traffic": "200+"
+    },
+    {
       "rank": 7,
-      "keyword": "저작권",
-      "traffic": "100+"
+      "keyword": "멸종",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "gpt",
-      "traffic": "10000+"
+      "keyword": "이다영",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "chatgpt",
-      "traffic": "5000+"
+      "keyword": "tving",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "시부모",
-      "traffic": "100+"
+      "keyword": "초계기",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "전혜원 알리바이 조작 포착",
-      "state": "+",
-      "change": "3"
+      "keyword": "전혜원, 알리바이 조작 포착",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "호르무즈 파병 사실 아냐",
-      "state": "-",
-      "change": "1"
+      "keyword": "월러 금리 동결 지지",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "KT 선두 탈환",
-      "state": "+",
-      "change": "2"
+      "keyword": "유지애 곽시양 결혼",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이웅평 귀순 보상금 미사용 이유",
-      "state": "n",
+      "keyword": "용혜인 의혹 청문회 전운",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "기안84, AI 연애 긴장 증가",
+      "keyword": "이정후, 대타 1타점 2루타",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "용혜인 부부 결재 논란",
-      "state": "+",
-      "change": "14"
-    },
-    {
-      "rank": 7,
-      "keyword": "곽시양과 유지애 결혼 발표",
-      "state": "+",
-      "change": "8"
-    },
-    {
-      "rank": 8,
-      "keyword": "美 반도체 관세 대비 필요",
+      "keyword": "안선영, 모친 빚 1억 또 있었다",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "태풍 사우델과 크로반 영향",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "2026년 9월 4일 운세",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "서장훈, 고딩엄빠 재회",
+      "keyword": "고우석과 손주영 막고 싶다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "2026년 9월 4일 운세",
+      "keyword": "소득 무관 20만원 지원 지역은?",
       "state": "n",
       "change": "0"
     }
