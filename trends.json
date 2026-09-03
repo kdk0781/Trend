@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-03T10:27:13.404Z",
+  "updatedAt": "2026-09-03T14:40:17.745Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "조규성",
-      "traffic": "200+"
+      "keyword": "중독",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "김병만",
-      "traffic": "2000+"
+      "keyword": "호르무즈 파병",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "목동 윤슬 자이",
+      "keyword": "명예훼손",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "아시안 게임",
-      "traffic": "1000+"
+      "keyword": "용적률",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "보잉",
-      "traffic": "200+"
+      "keyword": "이보람",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "굴착기",
-      "traffic": "5000+"
+      "keyword": "농림축산식품부",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "한국방송대상",
+      "keyword": "대한민국 여자 배구 국가대표팀",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "노동 쟁의",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "jtbc",
+      "keyword": "관세",
       "traffic": "100+"
     },
     {
-      "rank": 10,
-      "keyword": "히샬리송",
+      "rank": 9,
+      "keyword": "가수",
       "traffic": "1000+"
+    },
+    {
+      "rank": 10,
+      "keyword": "민생회복 소비쿠폰",
+      "traffic": "50000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "전혜원과 설정환 신경전",
-      "state": "s",
+      "keyword": "미 교육구 AI 사용 금지",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김종철 경찰청장 대행 야자수 현장 방문",
-      "state": "+",
-      "change": "1"
+      "keyword": "가해자 누나 KBS 출연",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이준익 아버지 집밥 숏폼 도전",
-      "state": "+",
-      "change": "1"
+      "keyword": "30년 IMF 빚 청산 대통령 덕분",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "곽시양과 유지애 결혼 발표",
+      "keyword": "곽시양 유지애 11월 결혼",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "포즈 취한 배우들",
       "state": "-",
       "change": "2"
     },
     {
-      "rank": 5,
-      "keyword": "지소연 향한 부적절 발언",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 6,
-      "keyword": "북한 제15차 전국교원대회",
-      "state": "+",
-      "change": "5"
+      "keyword": "취객 사망 경찰 무죄",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "티빙 고객 보상 계획",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "시몬스 포토콜 참석자들",
+      "keyword": "딸 잃은 배영만의 사연 공개",
       "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 9,
-      "keyword": "고우석 세이브 가능성",
-      "state": "-",
       "change": "5"
     },
     {
-      "rank": 10,
-      "keyword": "하이닉스 주가",
+      "rank": 8,
+      "keyword": "서울라이트 DDP 개막",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "변요한, 티파니와 결혼 결심 이유",
       "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "용혜인과 논란",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
