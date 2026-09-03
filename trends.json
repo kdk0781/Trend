@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-09-03T18:06:03.125Z",
+  "updatedAt": "2026-09-03T20:56:42.944Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "폐쇄회로 텔레비전",
+      "keyword": "이재영",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "스낳대",
+      "keyword": "러시아",
       "traffic": "200+"
     },
     {
       "rank": 3,
+      "keyword": "폐쇄회로 텔레비전",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "스낳대",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
       "keyword": "제미나이",
       "traffic": "10000+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "챗gpt",
       "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "챗",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "ai",
-      "traffic": "200+"
     },
     {
       "rank": 7,
@@ -38,79 +38,79 @@
     },
     {
       "rank": 8,
-      "keyword": "chatgpt",
-      "traffic": "20000+"
+      "keyword": "gpt",
+      "traffic": "10000+"
     },
     {
       "rank": 9,
-      "keyword": "시부모",
-      "traffic": "100+"
+      "keyword": "chatgpt",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "거점국립대학교",
-      "traffic": "200+"
+      "keyword": "시부모",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "포즈 취하는 배우들",
-      "state": "s",
-      "change": "0"
+      "keyword": "전혜원 알리바이 조작 포착",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 2,
-      "keyword": "오스틴 시즌 36호 홈런",
-      "state": "s",
-      "change": "0"
+      "keyword": "호르무즈 파병 사실 아냐",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "곽시양·유지애 11월 결혼",
-      "state": "s",
-      "change": "0"
+      "keyword": "KT 선두 탈환",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "서울라이트 DDP 개막",
-      "state": "s",
+      "keyword": "이웅평 귀순 보상금 미사용 이유",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "LG 박시원 무실점 5이닝",
-      "state": "s",
+      "keyword": "기안84, AI 연애 긴장 증가",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "용혜인 재산 신고",
-      "state": "s",
-      "change": "0"
+      "keyword": "용혜인 부부 결재 논란",
+      "state": "+",
+      "change": "14"
     },
     {
       "rank": 7,
-      "keyword": "글로리아 스타이넘 별세",
-      "state": "s",
-      "change": "0"
+      "keyword": "곽시양과 유지애 결혼 발표",
+      "state": "+",
+      "change": "8"
     },
     {
       "rank": 8,
-      "keyword": "호르무즈 파병 사실 무관",
-      "state": "s",
+      "keyword": "美 반도체 관세 대비 필요",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "변요한, 티파니와 결혼 결심 이유",
-      "state": "s",
+      "keyword": "서장훈, 고딩엄빠 재회",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "KT 선두 복귀",
-      "state": "s",
+      "keyword": "2026년 9월 4일 운세",
+      "state": "n",
       "change": "0"
     }
   ]
