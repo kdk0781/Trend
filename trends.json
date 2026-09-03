@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-03T05:52:21.124Z",
+  "updatedAt": "2026-09-03T10:27:13.404Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "대한민국의 법무부 장관",
-      "traffic": "2000+"
+      "keyword": "조규성",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "농협",
-      "traffic": "1000+"
+      "keyword": "김병만",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "공공기관 통폐합",
+      "keyword": "목동 윤슬 자이",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "난간",
-      "traffic": "2000+"
+      "keyword": "아시안 게임",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "외환보유고",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "마비노기 이터니티",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "gemini 3.8 flash",
+      "keyword": "보잉",
       "traffic": "200+"
     },
     {
-      "rank": 8,
-      "keyword": "한국전력공사",
+      "rank": 6,
+      "keyword": "굴착기",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "한국방송대상",
       "traffic": "500+"
     },
     {
-      "rank": 9,
-      "keyword": "습관",
+      "rank": 8,
+      "keyword": "노동 쟁의",
       "traffic": "2000+"
     },
     {
+      "rank": 9,
+      "keyword": "jtbc",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "황신혜",
+      "keyword": "히샬리송",
       "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정부 이전 추진",
-      "state": "n",
+      "keyword": "전혜원과 설정환 신경전",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "티빙 3954만 계정 유출",
-      "state": "n",
-      "change": "0"
+      "keyword": "김종철 경찰청장 대행 야자수 현장 방문",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "용혜인의 안쓰러운 모습 재조명",
-      "state": "n",
-      "change": "0"
+      "keyword": "이준익 아버지 집밥 숏폼 도전",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "안세영, 중국 마스터스 8강 진출",
-      "state": "n",
-      "change": "0"
+      "keyword": "곽시양과 유지애 결혼 발표",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "석촌호수 NCT 아트벌룬",
-      "state": "n",
-      "change": "0"
+      "keyword": "지소연 향한 부적절 발언",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "인천공항, ACI 최고등급 5년 연속",
-      "state": "n",
-      "change": "0"
+      "keyword": "북한 제15차 전국교원대회",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 7,
-      "keyword": "추석 예초기 점검",
-      "state": "-",
-      "change": "3"
+      "keyword": "티빙 고객 보상 계획",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "서울 시내버스 16일 파업",
-      "state": "n",
-      "change": "0"
+      "keyword": "시몬스 포토콜 참석자들",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 9,
-      "keyword": "하이브 방시혁 불구속 송치",
-      "state": "n",
-      "change": "0"
+      "keyword": "고우석 세이브 가능성",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 10,
-      "keyword": "서울대 10개 관련 기자회견",
+      "keyword": "하이닉스 주가",
       "state": "n",
       "change": "0"
     }
