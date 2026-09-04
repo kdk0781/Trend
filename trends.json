@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-04T19:30:20.090Z",
+  "updatedAt": "2026-09-04T21:45:42.867Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "입스위치 대 리버풀",
-      "traffic": "1000+"
+      "keyword": "한국경제",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "레알 베티스 대 레알 마드리드",
-      "traffic": "1000+"
+      "keyword": "psg",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "에이브러햄 링컨",
-      "traffic": "1000+"
+      "keyword": "ipswich town vs liverpool",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "장영란",
-      "traffic": "500+"
+      "keyword": "안선영",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "스낳대",
-      "traffic": "500+"
+      "keyword": "피의자",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "의료",
+      "keyword": "텐배거",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "곽튜브",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "이혼",
+      "keyword": "손흥민",
       "traffic": "5000+"
     },
     {
+      "rank": 8,
+      "keyword": "최강희",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "유가 람",
-      "traffic": "1000+"
+      "keyword": "나솔",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "박세완",
-      "traffic": "1000+"
+      "keyword": "카를로스 알카라스",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "밤하늘 전야제 불꽃",
-      "state": "s",
+      "keyword": "2026년 9월 5일 운세",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "고우석 KBO 5연승",
-      "state": "s",
-      "change": "0"
+      "keyword": "변우혁의 끝내기 세레모니",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 3,
-      "keyword": "美 8월 고용 서프라이즈 증가",
-      "state": "s",
+      "keyword": "김신영, 일본 여행 논란",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "프리덤250 불꽃쇼",
+      "keyword": "한국인 9명 수색 불허",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "박준형 아내 최초 공개",
+      "keyword": "트럼프 이란 곡괭이산 공격 가능성",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "현대제철 미국 제철소 첫발",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "한동희 스리런 폭발!",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 7,
-      "keyword": "오수민, 버디 잡고 파이팅!",
-      "state": "s",
-      "change": "0"
+      "keyword": "용혜인, 7년 전 인연 폭탄",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "송현옥 물결 대표 인터뷰",
-      "state": "s",
+      "keyword": "고용 증가로 금리 인상 가능성",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이영지 1억 기부",
-      "state": "s",
-      "change": "0"
+      "keyword": "인사로 마무리",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "변우혁 끝내기 기쁨 나눔",
-      "state": "+",
-      "change": "4"
+      "keyword": "유족, 경찰에 막혔다",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
