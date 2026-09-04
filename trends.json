@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-04T13:43:50.602Z",
+  "updatedAt": "2026-09-04T17:07:08.988Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "유가람",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "부상",
+      "keyword": "스낳대",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "의료",
+      "traffic": "100+"
+    },
+    {
       "rank": 3,
-      "keyword": "장수",
+      "keyword": "곽튜브",
       "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "농심",
-      "traffic": "1000+"
+      "keyword": "이혼",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "쇼메이커",
-      "traffic": "100+"
+      "keyword": "유가 람",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "스토킹",
-      "traffic": "200+"
+      "keyword": "박세완",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "리사",
-      "traffic": "10000+"
+      "keyword": "최대호",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "항공 승무원",
-      "traffic": "200+"
+      "keyword": "여수세계박람회장",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "불꽃놀이",
-      "traffic": "500+"
+      "keyword": "부상",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "충북청주 대 서울e",
-      "traffic": "500+"
+      "keyword": "장수",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "주택건설 개발업계 만난 한성숙",
-      "state": "+",
-      "change": "2"
+      "keyword": "초대 중수청장 후보 4명",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "밤하늘 전야제 불꽃",
+      "keyword": "주택건설 개발업계 만난 한성숙",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "지성, 완벽 시구",
-      "state": "+",
+      "keyword": "통영 특별재난지역 선포",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "세이브 삼성과 고우석은",
+      "keyword": "밤하늘 전야제 불꽃",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "유부녀 킬러 드라마",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "프리덤250 불꽃쇼",
-      "state": "+",
+      "keyword": "고우석 복귀 LG 5연승",
+      "state": "-",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "박준형 아내 최초 공개",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "이민정 보고 차 세운 고영욱",
-      "state": "n",
+      "keyword": "美 8월 고용 서프라이즈 증가",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "통영 특별재난지역 선포",
-      "state": "-",
-      "change": "6"
+      "keyword": "신상열 부사장, SKT 직원과 결혼",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이숙캠 박민철, 김앤장 퇴사",
-      "state": "n",
+      "keyword": "프리덤250 불꽃쇼",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "신상열 부사장 SKT 직원과 결혼",
-      "state": "-",
-      "change": "1"
+      "keyword": "지성의 완벽 시구",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
