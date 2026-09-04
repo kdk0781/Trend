@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-04T17:07:08.988Z",
+  "updatedAt": "2026-09-04T19:30:20.090Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "스낳대",
-      "traffic": "200+"
+      "keyword": "입스위치 대 리버풀",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "의료",
-      "traffic": "100+"
+      "keyword": "레알 베티스 대 레알 마드리드",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "곽튜브",
+      "keyword": "에이브러햄 링컨",
       "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "이혼",
-      "traffic": "2000+"
+      "keyword": "장영란",
+      "traffic": "500+"
     },
     {
       "rank": 5,
+      "keyword": "스낳대",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "의료",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "곽튜브",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "이혼",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 9,
       "keyword": "유가 람",
       "traffic": "1000+"
     },
     {
-      "rank": 6,
-      "keyword": "박세완",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "최대호",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "여수세계박람회장",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "부상",
-      "traffic": "200+"
-    },
-    {
       "rank": 10,
-      "keyword": "장수",
+      "keyword": "박세완",
       "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "초대 중수청장 후보 4명",
+      "keyword": "밤하늘 전야제 불꽃",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "주택건설 개발업계 만난 한성숙",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "통영 특별재난지역 선포",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "밤하늘 전야제 불꽃",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "고우석 복귀 LG 5연승",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "박준형 아내 최초 공개",
+      "keyword": "고우석 KBO 5연승",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
+      "rank": 3,
       "keyword": "美 8월 고용 서프라이즈 증가",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "프리덤250 불꽃쇼",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "박준형 아내 최초 공개",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "한동희 스리런 폭발!",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "오수민, 버디 잡고 파이팅!",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "신상열 부사장, SKT 직원과 결혼",
+      "keyword": "송현옥 물결 대표 인터뷰",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "프리덤250 불꽃쇼",
+      "keyword": "이영지 1억 기부",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "지성의 완벽 시구",
-      "state": "s",
-      "change": "0"
+      "keyword": "변우혁 끝내기 기쁨 나눔",
+      "state": "+",
+      "change": "4"
     }
   ]
 }
