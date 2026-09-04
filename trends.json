@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-04T05:09:42.131Z",
+  "updatedAt": "2026-09-04T09:38:50.672Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "배영만",
-      "traffic": "500+"
+      "keyword": "kt 대 kia",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "사고",
-      "traffic": "5000+"
+      "keyword": "한화 대 롯데",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "안철수",
-      "traffic": "500+"
+      "keyword": "nc 대 키움",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "세종문화회관",
+      "keyword": "이효리",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "피의자",
-      "traffic": "100+"
+      "keyword": "장 한별",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "새덕후",
+      "keyword": "국립순천대학교",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "목줄",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "도널드 j. 트럼프",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "지귀연",
+      "keyword": "조명우",
       "traffic": "1000+"
     },
     {
+      "rank": 8,
+      "keyword": "노동자",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "최지 만",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "김건모",
-      "traffic": "2000+"
+      "keyword": "뷔",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "금융노조 지방이전 반대",
-      "state": "n",
+      "keyword": "동대문구 신축 사업 점검",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "호르무즈 파병 검토",
-      "state": "+",
-      "change": "3"
+      "keyword": "인턴 최민식, 로버트와 비교 불경하다",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "추석 준비 분주",
+      "keyword": "국대 박서진, 집중 준비!",
+      "state": "+",
+      "change": "5"
+    },
+    {
+      "rank": 4,
+      "keyword": "김성환 비상근부회장 선임",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "안세영 김가은과 야마구치와",
-      "state": "+",
-      "change": "8"
-    },
-    {
       "rank": 5,
-      "keyword": "더보이즈 큐, 전지현과 전속계약",
-      "state": "+",
-      "change": "1"
+      "keyword": "권민아 언니, 8억 횡령 후 연락두절",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "ETF 국민사기 고발",
+      "keyword": "사과 전현무 즉흥여행",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "조정식 의장, 미즈시마 대사 면담",
-      "state": "-",
-      "change": "3"
+      "keyword": "청주 어린이집 3세 남아 심정지 수사",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "전혜원, 장서희의 불륜 유포 포착",
-      "state": "+",
-      "change": "2"
+      "keyword": "SKC, 앱솔릭스 출자",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김성환 장관 기념사",
+      "keyword": "유가람↔박사랑 트레이드",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "6~9일 프랑스 국빈방문",
+      "keyword": "부산 추락사 유족 청원 1000명 달성",
       "state": "n",
       "change": "0"
     }
