@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-04T00:47:06.437Z",
+  "updatedAt": "2026-09-04T05:09:42.131Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "코레일",
+      "keyword": "배영만",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "자기주식",
-      "traffic": "1000+"
+      "keyword": "사고",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "gpt6",
-      "traffic": "10000+"
+      "keyword": "안철수",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "쓰레기통",
+      "keyword": "세종문화회관",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "진학사",
-      "traffic": "1000+"
+      "keyword": "피의자",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "브루어스 대 컵스",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "불꽃축제",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "매일경제신문",
+      "keyword": "새덕후",
       "traffic": "200+"
     },
     {
+      "rank": 7,
+      "keyword": "목줄",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "도널드 j. 트럼프",
+      "traffic": "500+"
+    },
+    {
       "rank": 9,
-      "keyword": "아스트라",
-      "traffic": "100+"
+      "keyword": "지귀연",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "자동차",
+      "keyword": "김건모",
       "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "용혜인 성평등가족부장관 후보자",
+      "keyword": "금융노조 지방이전 반대",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "7월 경상수지 흑자 420억 달러",
+      "keyword": "호르무즈 파병 검토",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 3,
+      "keyword": "추석 준비 분주",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "아이유 9월 10일 컴백",
+      "rank": 4,
+      "keyword": "안세영 김가은과 야마구치와",
+      "state": "+",
+      "change": "8"
+    },
+    {
+      "rank": 5,
+      "keyword": "더보이즈 큐, 전지현과 전속계약",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "ETF 국민사기 고발",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "조정식 의장, 미즈시마 대사 면담",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 8,
+      "keyword": "전혜원, 장서희의 불륜 유포 포착",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 4,
-      "keyword": "전혜원 알리바이 조작 포착",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 5,
-      "keyword": "이정후 4경기 만에 안타",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "IFA 2026 크리에이터 허브",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 7,
-      "keyword": "임시완 부산국제영화제 폐막식",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "과즙세연 연인 마약",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 9,
-      "keyword": "곽시양♥유지애 결혼 인연",
+      "keyword": "김성환 장관 기념사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "임시 감독의 막중한 책임",
+      "keyword": "6~9일 프랑스 국빈방문",
       "state": "n",
       "change": "0"
     }
