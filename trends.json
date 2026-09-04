@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-03T23:01:41.797Z",
+  "updatedAt": "2026-09-04T00:47:06.437Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "들쥐",
-      "traffic": "1000+"
+      "keyword": "코레일",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "김혜수",
+      "keyword": "자기주식",
       "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "항공모함",
-      "traffic": "1000+"
+      "keyword": "gpt6",
+      "traffic": "10000+"
     },
     {
       "rank": 4,
-      "keyword": "알렉산드라 에알라",
+      "keyword": "쓰레기통",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "기아",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "spcx",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "멸종",
+      "keyword": "진학사",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
-      "keyword": "이다영",
+      "rank": 6,
+      "keyword": "브루어스 대 컵스",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "불꽃축제",
       "traffic": "500+"
     },
     {
+      "rank": 8,
+      "keyword": "매일경제신문",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "tving",
-      "traffic": "2000+"
+      "keyword": "아스트라",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "초계기",
-      "traffic": "200+"
+      "keyword": "자동차",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "전혜원, 알리바이 조작 포착",
-      "state": "s",
+      "keyword": "용혜인 성평등가족부장관 후보자",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "월러 금리 동결 지지",
-      "state": "s",
+      "keyword": "7월 경상수지 흑자 420억 달러",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "유지애 곽시양 결혼",
-      "state": "s",
-      "change": "0"
+      "keyword": "아이유 9월 10일 컴백",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "용혜인 의혹 청문회 전운",
-      "state": "s",
-      "change": "0"
+      "keyword": "전혜원 알리바이 조작 포착",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "이정후, 대타 1타점 2루타",
+      "keyword": "이정후 4경기 만에 안타",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "안선영, 모친 빚 1억 또 있었다",
-      "state": "n",
-      "change": "0"
+      "keyword": "IFA 2026 크리에이터 허브",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "태풍 사우델과 크로반 영향",
+      "keyword": "임시완 부산국제영화제 폐막식",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "2026년 9월 4일 운세",
-      "state": "-",
-      "change": "1"
+      "keyword": "과즙세연 연인 마약",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "고우석과 손주영 막고 싶다",
+      "keyword": "곽시양♥유지애 결혼 인연",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "소득 무관 20만원 지원 지역은?",
+      "keyword": "임시 감독의 막중한 책임",
       "state": "n",
       "change": "0"
     }
