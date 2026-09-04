@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-04T09:38:50.672Z",
+  "updatedAt": "2026-09-04T13:43:50.602Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "kt 대 kia",
-      "traffic": "2000+"
+      "keyword": "유가람",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "한화 대 롯데",
-      "traffic": "2000+"
+      "keyword": "부상",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "nc 대 키움",
+      "keyword": "장수",
       "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "이효리",
-      "traffic": "200+"
+      "keyword": "농심",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "장 한별",
-      "traffic": "200+"
+      "keyword": "쇼메이커",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "국립순천대학교",
+      "keyword": "스토킹",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "조명우",
-      "traffic": "1000+"
+      "keyword": "리사",
+      "traffic": "10000+"
     },
     {
       "rank": 8,
-      "keyword": "노동자",
-      "traffic": "1000+"
+      "keyword": "항공 승무원",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "최지 만",
-      "traffic": "100+"
+      "keyword": "불꽃놀이",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "뷔",
-      "traffic": "5000+"
+      "keyword": "충북청주 대 서울e",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "동대문구 신축 사업 점검",
-      "state": "s",
-      "change": "0"
+      "keyword": "주택건설 개발업계 만난 한성숙",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "인턴 최민식, 로버트와 비교 불경하다",
-      "state": "s",
+      "keyword": "밤하늘 전야제 불꽃",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "국대 박서진, 집중 준비!",
+      "keyword": "지성, 완벽 시구",
       "state": "+",
-      "change": "5"
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "김성환 비상근부회장 선임",
+      "keyword": "세이브 삼성과 고우석은",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "권민아 언니, 8억 횡령 후 연락두절",
+      "keyword": "유부녀 킬러 드라마",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "사과 전현무 즉흥여행",
-      "state": "n",
-      "change": "0"
+      "keyword": "프리덤250 불꽃쇼",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "청주 어린이집 3세 남아 심정지 수사",
+      "keyword": "이민정 보고 차 세운 고영욱",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "SKC, 앱솔릭스 출자",
-      "state": "n",
-      "change": "0"
+      "keyword": "통영 특별재난지역 선포",
+      "state": "-",
+      "change": "6"
     },
     {
       "rank": 9,
-      "keyword": "유가람↔박사랑 트레이드",
+      "keyword": "이숙캠 박민철, 김앤장 퇴사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "부산 추락사 유족 청원 1000명 달성",
-      "state": "n",
-      "change": "0"
+      "keyword": "신상열 부사장 SKT 직원과 결혼",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
