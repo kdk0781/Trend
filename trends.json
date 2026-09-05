@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-05T15:43:07.965Z",
+  "updatedAt": "2026-09-05T17:41:36.364Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "토트넘 노팅엄",
-      "traffic": "100+"
+      "keyword": "분데스리가",
+      "traffic": "200+"
     },
     {
       "rank": 2,
+      "keyword": "샬케 대 바이에른",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "f1",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "agi",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
       "keyword": "실시간스포츠",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "keyword": "nottm forest vs spurs",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "athletic vs atlético madrid",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 7,
+      "keyword": "athletic vs atlético madrid",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
       "keyword": "로또 1240",
       "traffic": "1000+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "man city vs coventry",
       "traffic": "500+"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "keyword": "아틀레틱 대 아틀레티코",
       "traffic": "20000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "김민종",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "호펜하임 대 도르트문트",
-      "traffic": "500+"
-    },
-    {
-      "rank": 10,
-      "keyword": "김재윤",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "중국인 1명 구조",
-      "state": "s",
-      "change": "0"
+      "keyword": "가을 밤하늘 화려한 불꽃",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 2,
-      "keyword": "OK저축은행 읏맨 오픈 2라운드 상황",
+      "keyword": "여의나루역 무정차 통과",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "여의나루역 무정차 해제",
-      "state": "s",
-      "change": "0"
+      "keyword": "강민호와 삼성, 선두 탈환!",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 4,
-      "keyword": "이상순 라디오 7일째 불참",
-      "state": "s",
-      "change": "0"
+      "keyword": "MC몽 김민종에 공개 사과",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "사랑이 오는 OST 5일 발표",
-      "state": "+",
-      "change": "2"
+      "keyword": "네팔서 중국인 구조",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 6,
-      "keyword": "선생님과 정미조 스캔들 정면 돌파",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "하르그섬 폭발음 미확인",
+      "keyword": "이상순 라디오 7일째 불참",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "MC몽, 김민종에 공개 사과",
+      "rank": 7,
+      "keyword": "이란, 韓 호르무즈 파병 경고",
       "state": "+",
-      "change": "1"
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "로또 1등 16명 각 17억9000만원",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "김성현 은퇴식 개최",
+      "keyword": "조현 장관 네팔 도착",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "강민호 연장 결승타",
-      "state": "n",
-      "change": "0"
+      "keyword": "김성현 은퇴식 이야기",
+      "state": "+",
+      "change": "3"
     }
   ]
 }
