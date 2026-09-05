@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-05T21:38:51.601Z",
+  "updatedAt": "2026-09-05T23:16:01.657Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "아들",
-      "traffic": "2000+"
+      "keyword": "문근영",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "샤오 미",
-      "traffic": "500+"
+      "keyword": "최준희",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "athletic bilbao vs atlético madrid standings",
+      "keyword": "거래소",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "석유",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "분데스리가",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "샬케 대 바이에른",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "f1",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "실시간스포츠",
+      "keyword": "정현창",
       "traffic": "100+"
     },
     {
-      "rank": 9,
-      "keyword": "nottm forest vs spurs",
+      "rank": 5,
+      "keyword": "카밀라 발리예바",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "서울경제",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "충돌",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "이다영",
       "traffic": "200+"
     },
     {
+      "rank": 9,
+      "keyword": "불후의 명곡: 전설을 노래하다",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "아틀레티코 마드리드 경기",
-      "traffic": "1000+"
+      "keyword": "하석진",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "밤하늘 수놓은 불꽃",
-      "state": "n",
-      "change": "0"
+      "keyword": "사랑이 온다 OST 발표",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "사랑이 온다 OST 5일 발표",
-      "state": "s",
-      "change": "0"
+      "keyword": "이란 유조선 3척 타격",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "효연 소녀시대 숙소 사용",
-      "state": "s",
-      "change": "0"
+      "keyword": "효연 소녀시대 숙소 혼자 사용",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "조현 장관 네팔 도착",
-      "state": "s",
-      "change": "0"
+      "keyword": "2026년 9월 6일 운세",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "네팔 중국인 구조 1명 실종 9명",
-      "state": "s",
+      "keyword": "중국인 1명 더 있었다",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "태연, 김시아 댄스 반해 SM 원해",
-      "state": "n",
-      "change": "0"
+      "keyword": "안세영 결승 우익 논란",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "한석준 기립성 저혈압 쓰러짐",
+      "keyword": "50명 파병안 검토 부담 커져",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이란 유조선 3척 타격",
-      "state": "+",
-      "change": "2"
+      "keyword": "일요일 최저기온 20도",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "임영웅 고양 스타디움 입성",
+      "keyword": "오늘 낮 최고 31도",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "10대 소녀 성범죄 재판",
+      "keyword": "태풍 크로반 피해 속출",
       "state": "n",
       "change": "0"
     }
