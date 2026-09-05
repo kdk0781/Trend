@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-05T12:52:52.119Z",
+  "updatedAt": "2026-09-05T15:43:07.965Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이상순",
-      "traffic": "200+"
+      "keyword": "토트넘 노팅엄",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "윤혜진",
-      "traffic": "1000+"
+      "keyword": "실시간스포츠",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "주유소",
+      "keyword": "nottm forest vs spurs",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "젠지",
-      "traffic": "100+"
+      "keyword": "athletic vs atlético madrid",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "해피투게더",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "이상영",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "불꽃축제 일정",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "newcastle vs bournemouth",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "법원",
+      "keyword": "로또 1240",
       "traffic": "1000+"
     },
     {
+      "rank": 6,
+      "keyword": "man city vs coventry",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "아틀레틱 대 아틀레티코",
+      "traffic": "20000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "김민종",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "호펜하임 대 도르트문트",
+      "traffic": "500+"
+    },
+    {
       "rank": 10,
-      "keyword": "아리엘 후라도",
-      "traffic": "200+"
+      "keyword": "김재윤",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "마포구청장 불꽃축제 안전 점검",
+      "keyword": "중국인 1명 구조",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "사랑이 온다 OST 발표",
+      "keyword": "OK저축은행 읏맨 오픈 2라운드 상황",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이범호 감독 칭찬 릴레이",
-      "state": "+",
-      "change": "1"
+      "keyword": "여의나루역 무정차 해제",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이상순, 라디오 7일 불참",
-      "state": "+",
-      "change": "1"
+      "keyword": "이상순 라디오 7일째 불참",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "태연, 김시아 댄스 반해 SM 원해",
+      "keyword": "사랑이 오는 OST 5일 발표",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "성리와 장한별 최종 우승",
-      "state": "s",
-      "change": "0"
+      "keyword": "선생님과 정미조 스캔들 정면 돌파",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "이란, 한국 전쟁 참여 간주",
-      "state": "+",
+      "keyword": "하르그섬 폭발음 미확인",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "1240회 로또 1등 16명 각 17억9천만원",
-      "state": "n",
-      "change": "0"
+      "keyword": "MC몽, 김민종에 공개 사과",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "MC몽, 김민종에 사과",
-      "state": "n",
-      "change": "0"
+      "keyword": "김성현 은퇴식 개최",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "중국인 1명 구조",
-      "state": "-",
-      "change": "7"
+      "keyword": "강민호 연장 결승타",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
