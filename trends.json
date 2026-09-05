@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-04T23:21:54.751Z",
+  "updatedAt": "2026-09-05T01:10:11.369Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "삼성sdi",
-      "traffic": "500+"
+      "keyword": "이민정",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "대한민국 축구 국가대표팀",
-      "traffic": "1000+"
+      "keyword": "야구 순위",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "이재명",
-      "traffic": "1000+"
+      "keyword": "이승기",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "real betis vs real madrid standings",
+      "keyword": "김소영",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "피겨스케이팅",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "la liga",
+      "keyword": "습관",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "이소영",
+      "rank": 6,
+      "keyword": "thứ hạng của real betis gặp real madrid",
       "traffic": "100+"
     },
     {
+      "rank": 7,
+      "keyword": "재혼",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "대한민국 문화체육관광부",
+      "keyword": "청도군",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "gpt-6",
-      "traffic": "1000+"
+      "keyword": "나혼산",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "테슬라 주가",
+      "keyword": "테니스",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "美 루이지애나 제철소 착공",
-      "state": "n",
-      "change": "0"
+      "keyword": "유부녀 킬러 정준원, 공효진 정체 알았다",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "윤보미♥ 라도 썸데이의 힘든 과거",
-      "state": "n",
-      "change": "0"
+      "keyword": "주유소 기름값 하락",
+      "state": "+",
+      "change": "7"
     },
     {
       "rank": 3,
-      "keyword": "김상혁 쇼호스트 김라희에게",
-      "state": "n",
+      "keyword": "PSG 개막 무승",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "제주 남해안 태풍 강풍",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 5,
-      "keyword": "서강준 실물 미술품 대단할까",
+      "keyword": "美 제철소, 미래 산업 지원",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "박준형 아내 공개 12년 만",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "고우석 복귀전 5연승!",
+      "keyword": "자전거 탄 노인 치어 사망",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "차태현 알고 저작권료",
-      "state": "n",
-      "change": "0"
+      "keyword": "인터뷰하는 김길성 중구청장",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "조권은 밥 두 공기 먹고도 몸무게 변화 없음",
+      "keyword": "끝도 김혜수 지금 불륜",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "뉴욕증시 다우 0.51%",
+      "keyword": "보아, 친오빠 별세",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "빅뱅 대성 한강뷰 아파트",
+      "keyword": "전국교원대회 참가자들과 기념촬영",
       "state": "n",
       "change": "0"
     }
