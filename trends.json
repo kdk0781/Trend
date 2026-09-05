@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-05T09:25:11.145Z",
+  "updatedAt": "2026-09-05T12:52:52.119Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "라이머",
+      "keyword": "이상순",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "김성현",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "국제결혼",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "열대 저기압",
+      "keyword": "윤혜진",
       "traffic": "1000+"
     },
     {
+      "rank": 3,
+      "keyword": "주유소",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "젠지",
+      "traffic": "100+"
+    },
+    {
       "rank": 5,
-      "keyword": "새마을 금고",
+      "keyword": "해피투게더",
       "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "스캔들",
-      "traffic": "2000+"
+      "keyword": "이상영",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "가상화폐",
-      "traffic": "100+"
+      "keyword": "불꽃축제 일정",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "김준호",
-      "traffic": "10000+"
+      "keyword": "newcastle vs bournemouth",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "발견",
-      "traffic": "2000+"
+      "keyword": "법원",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "미숙",
-      "traffic": "500+"
+      "keyword": "아리엘 후라도",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "하르그섬 폭발음 미확인",
+      "keyword": "마포구청장 불꽃축제 안전 점검",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "OK저축은행 읏맨 오픈 2라운드",
+      "keyword": "사랑이 온다 OST 발표",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "아이브 리즈 언리얼 클립",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "한성숙 서울세계불꽃축제 안전관리",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "양궁 국가대표 소음 훈련",
+      "keyword": "이범호 감독 칭찬 릴레이",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 4,
+      "keyword": "이상순, 라디오 7일 불참",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "태연, 김시아 댄스 반해 SM 원해",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 6,
-      "keyword": "영종도 해상 전복 9명 구조",
-      "state": "n",
+      "keyword": "성리와 장한별 최종 우승",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "이상순 건강 이상설 7일 불참",
-      "state": "n",
-      "change": "0"
+      "keyword": "이란, 한국 전쟁 참여 간주",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "시신도 찾지 못한 채 장례식",
+      "keyword": "1240회 로또 1등 16명 각 17억9천만원",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "황재균, 1100만원 휴지함 공개",
+      "keyword": "MC몽, 김민종에 사과",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "슬픔에 잠긴 네팔",
-      "state": "n",
-      "change": "0"
+      "keyword": "중국인 1명 구조",
+      "state": "-",
+      "change": "7"
     }
   ]
 }
