@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-05T05:43:22.095Z",
+  "updatedAt": "2026-09-05T09:25:11.145Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "엘니뇨",
-      "traffic": "1000+"
+      "keyword": "라이머",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "문무",
-      "traffic": "1000+"
+      "keyword": "김성현",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "허지웅",
-      "traffic": "100+"
+      "keyword": "국제결혼",
+      "traffic": "10000+"
     },
     {
       "rank": 4,
-      "keyword": "정우주",
-      "traffic": "200+"
+      "keyword": "열대 저기압",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "벤 셸턴",
-      "traffic": "100+"
+      "keyword": "새마을 금고",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "닌텐도 다이렉트",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "결혼식",
+      "keyword": "스캔들",
       "traffic": "2000+"
     },
     {
+      "rank": 7,
+      "keyword": "가상화폐",
+      "traffic": "100+"
+    },
+    {
       "rank": 8,
-      "keyword": "과천시",
-      "traffic": "1000+"
+      "keyword": "김준호",
+      "traffic": "10000+"
     },
     {
       "rank": 9,
-      "keyword": "종합 부동산 세",
-      "traffic": "1000+"
+      "keyword": "발견",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "코디 폰세",
-      "traffic": "10000+"
+      "keyword": "미숙",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "조현 외교부 장관 네팔 방문",
+      "keyword": "하르그섬 폭발음 미확인",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "안세영, 야마구치 완파",
-      "state": "n",
+      "keyword": "OK저축은행 읏맨 오픈 2라운드",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "박상민 모친상 애도 부탁",
-      "state": "s",
+      "keyword": "아이브 리즈 언리얼 클립",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "키모우이 패션쇼 참석해요",
-      "state": "s",
+      "keyword": "한성숙 서울세계불꽃축제 안전관리",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "용혜인 당비 절세 논란",
-      "state": "s",
-      "change": "0"
+      "keyword": "양궁 국가대표 소음 훈련",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "란제리룩 고아성 관심이자",
+      "keyword": "영종도 해상 전복 9명 구조",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "이동건 제주 카페 폐업 소문",
+      "keyword": "이상순 건강 이상설 7일 불참",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "만루에서 루킹 삼진이라니",
+      "keyword": "시신도 찾지 못한 채 장례식",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "총련 교육일꾼 대표단 만난",
-      "state": "-",
-      "change": "2"
+      "keyword": "황재균, 1100만원 휴지함 공개",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "美 생산 스페이스",
+      "keyword": "슬픔에 잠긴 네팔",
       "state": "n",
       "change": "0"
     }
