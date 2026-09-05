@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-05T17:41:36.364Z",
+  "updatedAt": "2026-09-05T19:33:24.729Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "분데스리가",
+      "keyword": "석유",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "샬케 대 바이에른",
-      "traffic": "5000+"
+      "keyword": "분데스리가",
+      "traffic": "200+"
     },
     {
       "rank": 3,
+      "keyword": "샬케 대 바이에른",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 4,
       "keyword": "f1",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "agi",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "실시간스포츠",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "nottm forest vs spurs",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "keyword": "athletic vs atlético madrid",
       "traffic": "500+"
     },
     {
-      "rank": 8,
-      "keyword": "로또 1240",
-      "traffic": "1000+"
-    },
-    {
       "rank": 9,
-      "keyword": "man city vs coventry",
-      "traffic": "500+"
+      "keyword": "로또 1240",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "아틀레틱 대 아틀레티코",
-      "traffic": "20000+"
+      "keyword": "man city vs coventry",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "가을 밤하늘 화려한 불꽃",
-      "state": "+",
-      "change": "3"
+      "keyword": "형형색색 밤하늘 불꽃",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "여의나루역 무정차 통과",
+      "keyword": "강민호 선두 탈환",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "강민호와 삼성, 선두 탈환!",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 4,
       "keyword": "MC몽 김민종에 공개 사과",
       "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 5,
-      "keyword": "네팔서 중국인 구조",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 6,
-      "keyword": "이상순 라디오 7일째 불참",
-      "state": "-",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "이란, 韓 호르무즈 파병 경고",
-      "state": "+",
+      "rank": 4,
+      "keyword": "하니 지원군의 사랑이 온다",
+      "state": "-",
       "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "조현 장관 네팔 도착",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "1240회 로또 1등 16명",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "효연, 소녀시대 숙소 독차지",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "로또 1등 16명 각 17억9000만원",
-      "state": "+",
-      "change": "2"
+      "keyword": "OK저축은행 오픈 경기 장면",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "조현 장관 네팔 도착",
+      "keyword": "이란, 한국 호르무즈 개입 전쟁 간주",
       "state": "+",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "김성현 은퇴식 이야기",
-      "state": "+",
-      "change": "3"
+      "keyword": "김성현 은퇴식 감사 인사",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
