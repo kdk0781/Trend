@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-05T23:16:01.657Z",
+  "updatedAt": "2026-09-06T01:01:37.283Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "문근영",
-      "traffic": "100+"
+      "keyword": "유현주",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "최준희",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "거래소",
+      "keyword": "inter miami vs atlanta united",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "스타뉴스",
+      "traffic": "200+"
+    },
+    {
       "rank": 4,
-      "keyword": "정현창",
+      "keyword": "us open",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "카밀라 발리예바",
-      "traffic": "2000+"
+      "keyword": "알렉산드라 에알라",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "서울경제",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "충돌",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "이다영",
+      "keyword": "오정연",
       "traffic": "200+"
     },
     {
-      "rank": 9,
-      "keyword": "불후의 명곡: 전설을 노래하다",
+      "rank": 7,
+      "keyword": "메르카토르 도법",
       "traffic": "100+"
     },
     {
+      "rank": 8,
+      "keyword": "왕 즈이",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "롯데 자이언츠",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "하석진",
-      "traffic": "500+"
+      "keyword": "대통령",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "사랑이 온다 OST 발표",
+      "keyword": "하나금융 착한계란 공급",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "이란 유조선 3척 타격",
-      "state": "-",
-      "change": "1"
+      "keyword": "이강인 골대 강타, 0-3 패배",
+      "state": "+",
+      "change": "14"
     },
     {
       "rank": 3,
-      "keyword": "효연 소녀시대 숙소 혼자 사용",
-      "state": "+",
-      "change": "1"
+      "keyword": "KT 5G 슬라이싱 안전관리",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "2026년 9월 6일 운세",
-      "state": "+",
-      "change": "1"
+      "keyword": "김민재 벤치, 황희찬 제외",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "중국인 1명 더 있었다",
+      "keyword": "2030년 서울 전역 종부세",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "안세영 결승 우익 논란",
-      "state": "+",
-      "change": "3"
+      "keyword": "양현준 AG 출전 앞두고 연속골!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "50명 파병안 검토 부담 커져",
+      "keyword": "신성, 아버지 위암 투병 고백",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "일요일 최저기온 20도",
+      "keyword": "우리은행 7.5% 적금",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "오늘 낮 최고 31도",
+      "keyword": "리사, 태국 아이돌과 스킨십?",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "태풍 크로반 피해 속출",
+      "keyword": "구조된 중국인 근처 생존자 1명",
       "state": "n",
       "change": "0"
     }
