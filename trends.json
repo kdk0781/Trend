@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-06T05:50:26.574Z",
+  "updatedAt": "2026-09-06T09:58:56.223Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "엘에이 fc",
+      "keyword": "하하",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "여주시",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "김밥",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "농구",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "이혜영",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "앤트로픽",
+      "keyword": "인도네시아 화산",
       "traffic": "1000+"
     },
     {
+      "rank": 3,
+      "keyword": "다음 뉴스",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "민주노동조합총연맹",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "1 박 2 일",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "자폐",
+      "traffic": "10000+"
+    },
+    {
       "rank": 7,
-      "keyword": "인턴",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "레드삭스 대 오리올스",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "장애인",
+      "keyword": "차영현",
       "traffic": "500+"
     },
     {
+      "rank": 8,
+      "keyword": "대한민국의 국방부 장관",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "이수",
+      "traffic": "10000+"
+    },
+    {
       "rank": 10,
-      "keyword": "무안국제공항",
-      "traffic": "200+"
+      "keyword": "기사",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "경찰 개혁 기구 이번 주 출범",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "손흥민 1골 1도움 활약",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "추석 차례상 비용 상승",
+      "keyword": "조현, 네팔 수색 요청",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "최예림 첫 우승",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "오디세이 천만 돌파",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 4,
-      "keyword": "사랑이 온다, 감정 폭발",
-      "state": "+",
+      "keyword": "미주신경기능저하란",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "천만 관객 돌파 앞둔 오디세이",
+      "keyword": "수색 후 복귀하는 긴급구호대",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "피터팬 아빠",
+      "keyword": "전경철, 마음 기억하겠다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "주말 전기차 요금 할인",
-      "state": "n",
-      "change": "0"
+      "keyword": "알칸타라 NC 8연승 저지",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "2027 대입 수시모집 시작",
+      "keyword": "반민정, 오늘 결혼해요!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "현장으로 한국 해외긴급구호대",
-      "state": "-",
-      "change": "1"
+      "keyword": "권상우 딸 사춘기 행동 문제",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "우승 정조준 선수들",
+      "keyword": "트럼프, 한국 천궁-Ⅱ 우크라 공유",
       "state": "n",
       "change": "0"
     }
