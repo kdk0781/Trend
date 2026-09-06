@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-06T18:27:41.699Z",
+  "updatedAt": "2026-09-06T20:38:30.958Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "라민 야말",
+      "keyword": "이강철",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "첼시",
-      "traffic": "500+"
+      "keyword": "유벤투스 대 밀란",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "อาร์เซนอล พบ เชลซี",
+      "keyword": "가능한 사랑",
       "traffic": "200+"
     },
     {
       "rank": 4,
+      "keyword": "라민 야말",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "อาร์เซนอล พบ เชลซี",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
       "keyword": "모건 로저스",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "김승현",
       "traffic": "2000+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "arsenal vs chelsea",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "꽃게",
       "traffic": "2000+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "거점 국립 대학교",
       "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "валенсия – барселона",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "아스널 대 첼시",
-      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 부부 프랑스 도착",
-      "state": "s",
+      "keyword": "이재명 프랑스 입국",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김도영, 40홈런 아쉽다",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "이창동의 가능한 사랑 초심으로 돌아가다",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "삼성 후라도 5⅔이닝 4실점",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "김승원 의혹 증폭",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "사카구치 켄타로 깜짝 결혼 발표",
+      "keyword": "사카구치 켄타로 결혼 발표",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "강원 안양 3-0 완파",
+      "rank": 3,
+      "keyword": "김도영 4안타 KIA 3연승",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "2026년 9월 7일 운세",
       "state": "+",
       "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "사랑이 온다 감정 폭발",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "강원, 안양 3-0 완파",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "탁재훈 LA 여성과 2천억 매출",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "레바논 남부 4명 사망",
-      "state": "n",
-      "change": "0"
+      "keyword": "트럼프 특사, 젤렌스키 논의",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "피터팬 아빠 전경철 별세",
-      "state": "n",
-      "change": "0"
+      "keyword": "김승원 의혹 확산",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "타구에 맞은 스기모토",
-      "state": "+",
-      "change": "2"
+      "keyword": "조현, 네팔에 협조 요청",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
