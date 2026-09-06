@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-06T09:58:56.223Z",
+  "updatedAt": "2026-09-06T13:27:06.261Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "하하",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "인도네시아 화산",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "다음 뉴스",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "민주노동조합총연맹",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "1 박 2 일",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "자폐",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "차영현",
+      "keyword": "เอฟเวอร์ตัน พบ แมนยู",
       "traffic": "500+"
     },
     {
-      "rank": 8,
-      "keyword": "대한민국의 국방부 장관",
-      "traffic": "1000+"
+      "rank": 2,
+      "keyword": "everton đấu với man utd",
+      "traffic": "200+"
     },
     {
-      "rank": 9,
-      "keyword": "이수",
+      "rank": 3,
+      "keyword": "정준호",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "everton vs man utd",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "에버턴 대 맨유",
       "traffic": "10000+"
     },
     {
-      "rank": 10,
-      "keyword": "기사",
+      "rank": 6,
+      "keyword": "모델",
       "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "이하정",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "persib bandung vs psm makassar",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "롤드컵",
+      "traffic": "100+"
+    },
+    {
+      "rank": 10,
+      "keyword": "트레킹",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "조현, 네팔 수색 요청",
+      "keyword": "이 대통령, 프랑스 방문 출발",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "최예림 첫 우승",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "오디세이 천만 돌파",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "미주신경기능저하란",
+      "keyword": "사랑이 온다, 감정 폭발",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 3,
+      "keyword": "조현, 네팔 지원 요청",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "오디세이 1000만 관객突破",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "수색 후 복귀하는 긴급구호대",
+      "keyword": "제주 강풍과 비",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "전경철, 마음 기억하겠다",
+      "keyword": "유병훈 감독 사퇴 결심 철회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "알칸타라 NC 8연승 저지",
-      "state": "+",
-      "change": "1"
+      "keyword": "호르무즈 보복 악순환",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "반민정, 오늘 결혼해요!",
+      "keyword": "한동훈 김승원 불법 유출",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "권상우 딸 사춘기 행동 문제",
+      "keyword": "수색 마치고 복귀하는",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "트럼프, 한국 천궁-Ⅱ 우크라 공유",
+      "keyword": "건강 이상순 이효리",
       "state": "n",
       "change": "0"
     }
