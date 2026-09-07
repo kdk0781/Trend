@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-07T19:11:17.120Z",
+  "updatedAt": "2026-09-07T22:02:28.736Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김새론",
+      "keyword": "나솔",
       "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "윤종훈",
-      "traffic": "10000+"
+      "keyword": "공무원",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "로또 1 등도 출근 합니다",
-      "traffic": "20000+"
+      "keyword": "엘니뇨",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "피의자",
-      "traffic": "1000+"
+      "keyword": "브레이브스 대 필리스",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "나는 solo",
-      "traffic": "2000+"
+      "keyword": "공희용",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "지동원",
+      "keyword": "엘체 대 레알 소시에다드",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "공대공 미사일",
-      "traffic": "1000+"
+      "keyword": "경제",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "하현승",
-      "traffic": "200+"
+      "keyword": "조명우",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "빌보드",
-      "traffic": "200+"
+      "keyword": "택시",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "화산",
-      "traffic": "2000+"
+      "keyword": "이종범",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "대통령 영화인과의 대화",
+      "keyword": "윤종훈과 한은서, 신인 풋풋함",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "윤종훈 11월 결혼",
+      "keyword": "이재명, 영화영상 라운드테이블",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "대구도시철도 3호선 운행",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "박기원 감독의 태국, 아시아선수권 8강 진출",
+      "keyword": "이재명 영화 라운드테이블",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "남은 연애의 흔들림, 삼각관계 속으로",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 5,
-      "keyword": "북한, 한미일 훈련 반발 조치",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "네팔 국가 애도의 날 추모",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "호르무즈 파병 반대 행진",
+      "keyword": "북, 한미일 훈련 반발",
       "state": "-",
       "change": "2"
     },
     {
-      "rank": 8,
-      "keyword": "이정후 며느리 이상형",
-      "state": "+",
+      "rank": 6,
+      "keyword": "네팔, 한국인 실종 도보 수색 협조",
+      "state": "-",
       "change": "2"
     },
     {
-      "rank": 9,
-      "keyword": "하현승 12K 첫 승 한국",
+      "rank": 7,
+      "keyword": "중학생 탁구채 14만원 판매",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "민주당 오빠들 게이트",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "방검복 3년 만에 누명 벗음",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "강남언니 22만명 개인정보 유출",
+      "keyword": "강남언니 22만명 정보 유출",
       "state": "n",
       "change": "0"
     }
