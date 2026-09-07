@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-06T22:19:05.217Z",
+  "updatedAt": "2026-09-07T00:01:39.289Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "연비",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "여자 농구",
+      "keyword": "아시안 게임",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "교통",
+      "traffic": "500+"
+    },
+    {
       "rank": 3,
-      "keyword": "넷플릭스",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "기상",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "코디 폰세",
+      "keyword": "agi",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "최준희",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "디에고 시메오네",
+      "traffic": "1000+"
+    },
+    {
       "rank": 6,
-      "keyword": "관광객",
+      "keyword": "이정효",
       "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "thứ hạng của arsenal gặp chelsea",
-      "traffic": "200+"
+      "keyword": "동탄역 롯데캐슬",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "valencia cf vs fc barcelona standings",
-      "traffic": "100+"
+      "keyword": "대도서관",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "문보경",
-      "traffic": "100+"
+      "keyword": "종합부동산세",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "김윤지",
-      "traffic": "5000+"
+      "keyword": "마르세유 대 파리",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명, 프랑스 도착",
+      "keyword": "북한 구축함 강건호 취역",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "사랑이 온다, 감정 폭발",
+      "keyword": "백진희 결혼, 정혜성 발언 재조명",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "사카구치 켄타로 결혼 발표",
-      "state": "s",
-      "change": "0"
+      "keyword": "하석진, 사랑 폭발하다",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "김도영 최연소 40홈런",
-      "state": "s",
-      "change": "0"
+      "keyword": "이스탄불 JETEX-IGA 터미널",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "2026년 9월 7일 운세",
-      "state": "n",
-      "change": "0"
+      "keyword": "이재성 5-0 도움",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "이란 호르무즈 통제구역 선포",
-      "state": "+",
+      "keyword": "임영웅 10주년 축제 100만 관객",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "안세영, 2연속 퍼펙트 우승",
-      "state": "+",
-      "change": "1"
+      "keyword": "이정후 2타점 적시타",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "린, 이수와 이혼 상담 언급",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "귀요미 백진희 드러난 잔근육",
+      "keyword": "태풍 크로반 제주 강풍",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "미주신경 기능저하란",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 10,
-      "keyword": "이번 주 美 금리 주목",
+      "keyword": "이대통령 지지율 37.4% 최저치",
       "state": "n",
       "change": "0"
     }
