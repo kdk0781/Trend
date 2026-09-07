@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-07T00:01:39.289Z",
+  "updatedAt": "2026-09-07T04:26:25.682Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "아시안 게임",
-      "traffic": "100+"
+      "keyword": "병사",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "교통",
-      "traffic": "500+"
+      "keyword": "맥스 할로웨이",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "agi",
+      "keyword": "번트",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "최준희",
+      "keyword": "수출",
       "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "디에고 시메오네",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "이정효",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "동탄역 롯데캐슬",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "대도서관",
+      "keyword": "afc u-20 아시안컵",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "해군",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "신인감독 김연경",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "사관학교",
+      "traffic": "1000+"
+    },
+    {
       "rank": 9,
-      "keyword": "종합부동산세",
+      "keyword": "반도체 메모리",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "마르세유 대 파리",
+      "keyword": "주민등록 사실조사",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "북한 구축함 강건호 취역",
+      "keyword": "교섭단체 김민석 대표",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "백진희 결혼, 정혜성 발언 재조명",
-      "state": "s",
+      "keyword": "이흥구 대법관 퇴임식",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "하석진, 사랑 폭발하다",
+      "keyword": "특검보 소개하는 이태한",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "이현중, 포틀랜드와 계약",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "이스탄불 JETEX-IGA 터미널",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 5,
-      "keyword": "이재성 5-0 도움",
-      "state": "-",
-      "change": "1"
+      "keyword": "가능한 사랑 베니스 7분 박수",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "임영웅 10주년 축제 100만 관객",
-      "state": "-",
+      "keyword": "오세훈 시장, 서울아이앰버서더 발대식 참석",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "이정후 2타점 적시타",
-      "state": "-",
-      "change": "3"
+      "keyword": "불꽃축제 불법촬영 남 검거",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "태풍 크로반 제주 강풍",
+      "keyword": "진보당, 파병 입장 촉구",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "미주신경 기능저하란",
-      "state": "-",
+      "keyword": "류긍선 카카오모빌리티 대표",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "이대통령 지지율 37.4% 최저치",
-      "state": "n",
-      "change": "0"
+      "keyword": "전속계약 효력정지 가처분",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
