@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-07T09:32:35.811Z",
+  "updatedAt": "2026-09-07T15:11:19.769Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김옥빈",
-      "traffic": "100+"
+      "keyword": "피의자",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "간암",
+      "keyword": "한은서",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "산삼",
-      "traffic": "5000+"
+      "keyword": "나는 solo",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "배틀그라운드",
+      "keyword": "지동원",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "기본소득당",
-      "traffic": "1000+"
+      "keyword": "공대공 미사일",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "김지용 변호사",
-      "traffic": "1000+"
+      "keyword": "하현승",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "김용현",
-      "traffic": "500+"
+      "keyword": "빌보드",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "분당구",
-      "traffic": "1000+"
+      "keyword": "화산",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "권혁빈",
-      "traffic": "500+"
+      "keyword": "공연",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "하이닉스",
-      "traffic": "1000+"
+      "keyword": "아시아 남자 배구 선수권 대회",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "초대 중수청장 김지용",
+      "keyword": "윤종훈, 한은서와 결혼 11월 1일",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "함께 걷는 한-프랑스 정상",
-      "state": "n",
+      "keyword": "이재명 영화인과의 대화",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김도영 8월 MVP 수상",
-      "state": "+",
-      "change": "1"
+      "keyword": "지지율 37.4% 8주 하락",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "뉴진스 해린 첫 공식석상",
-      "state": "+",
-      "change": "1"
+      "keyword": "대구 3호선 운행 중단",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이란, 한국에 심각한 결과 경고",
-      "state": "+",
-      "change": "1"
+      "keyword": "강신철 아들 상가 누락",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "이재명, 뤼미에르 개막",
+      "keyword": "박기원 감독 태국 패배",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "장동혁 대표, 베트남 국회의장 만남",
+      "keyword": "강남언니 개인정보 유출",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "피지컬 AI 현장 방문",
-      "state": "s",
-      "change": "0"
+      "keyword": "호르무즈 파병 반대 행진",
+      "state": "+",
+      "change": "7"
     },
     {
       "rank": 9,
-      "keyword": "사랑이 온다, 민진웅 오열",
-      "state": "s",
+      "keyword": "김민석 손 내밀었지만 야당 싸늘",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김병기 구속영장 신청 수사 1년",
+      "keyword": "네팔 희생자 추모",
       "state": "n",
       "change": "0"
     }
