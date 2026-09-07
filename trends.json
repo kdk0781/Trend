@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-07T15:11:19.769Z",
+  "updatedAt": "2026-09-07T19:11:17.120Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "피의자",
+      "keyword": "김새론",
       "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "한은서",
-      "traffic": "500+"
+      "keyword": "윤종훈",
+      "traffic": "10000+"
     },
     {
       "rank": 3,
+      "keyword": "로또 1 등도 출근 합니다",
+      "traffic": "20000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "피의자",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
       "keyword": "나는 solo",
       "traffic": "2000+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "지동원",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "공대공 미사일",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "keyword": "공대공 미사일",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
       "keyword": "하현승",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "빌보드",
       "traffic": "200+"
     },
     {
-      "rank": 8,
-      "keyword": "화산",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "공연",
-      "traffic": "2000+"
-    },
-    {
       "rank": 10,
-      "keyword": "아시아 남자 배구 선수권 대회",
-      "traffic": "500+"
+      "keyword": "화산",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "윤종훈, 한은서와 결혼 11월 1일",
+      "keyword": "대통령 영화인과의 대화",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이재명 영화인과의 대화",
+      "keyword": "윤종훈 11월 결혼",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "지지율 37.4% 8주 하락",
-      "state": "n",
+      "keyword": "대구도시철도 3호선 운행",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "대구 3호선 운행 중단",
+      "keyword": "박기원 감독의 태국, 아시아선수권 8강 진출",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "강신철 아들 상가 누락",
-      "state": "n",
-      "change": "0"
+      "keyword": "북한, 한미일 훈련 반발 조치",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "박기원 감독 태국 패배",
-      "state": "n",
-      "change": "0"
+      "keyword": "네팔 국가 애도의 날 추모",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "강남언니 개인정보 유출",
-      "state": "n",
-      "change": "0"
+      "keyword": "호르무즈 파병 반대 행진",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "호르무즈 파병 반대 행진",
+      "keyword": "이정후 며느리 이상형",
       "state": "+",
-      "change": "7"
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "김민석 손 내밀었지만 야당 싸늘",
-      "state": "n",
+      "keyword": "하현승 12K 첫 승 한국",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "네팔 희생자 추모",
+      "keyword": "강남언니 22만명 개인정보 유출",
       "state": "n",
       "change": "0"
     }
