@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-08T17:25:50.412Z",
+  "updatedAt": "2026-09-08T20:00:39.377Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "풍자",
-      "traffic": "100+"
+      "keyword": "레알 마드리드 대 인테르",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "양구",
-      "traffic": "500+"
+      "keyword": "포르투 대 맨 시티",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "메이드인코리아 시즌2",
-      "traffic": "1000+"
+      "keyword": "sbs",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "신병",
+      "keyword": "club brugge vs aston villa",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "한화에어로스페이스",
+      "keyword": "인플루언서",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "gta6",
-      "traffic": "500+"
+      "keyword": "풍자",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "수시원서접수",
-      "traffic": "100+"
+      "keyword": "양구",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "고려대",
+      "keyword": "메이드인코리아 시즌2",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "사회복지사",
-      "traffic": "500+"
+      "keyword": "신병",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "챔피언스리그",
+      "keyword": "한화에어로스페이스",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 무명용사 참배",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
       "keyword": "국방부 호르무즈 조사단 파견",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "김혜경·마크롱 여사 한지 전시 관람",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 3,
-      "keyword": "김도영, 40호 홈런!",
-      "state": "s",
-      "change": "0"
+      "keyword": "40홈런 친 김도영",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "엘리제궁에서 만난 한-프랑스 정상",
+      "keyword": "백진희 예비신랑은 평범한 직장인",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "백진희 예비신랑 평범한 직장인",
-      "state": "s",
-      "change": "0"
+      "keyword": "이란 항공사 제재",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "김혜경·마크롱 여사 한지 선물",
-      "state": "s",
+      "keyword": "하영민 6이닝 무실점 호투",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "한성숙 총리, 이시바 면담",
-      "state": "s",
+      "keyword": "안전공업 대표 영장 기각",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "블랙핑크 지수, 미모와 사랑",
-      "state": "+",
-      "change": "1"
+      "keyword": "안세영 100주 1위",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "양우현 적시타",
-      "state": "+",
-      "change": "1"
+      "keyword": "수색 이어가는 한국해외긴급구호대",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "미스트랄 AI와 반도체 AI 개발",
+      "keyword": "꺾고 3연패 탈출",
       "state": "n",
       "change": "0"
     }
