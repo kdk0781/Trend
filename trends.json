@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-08T04:41:02.611Z",
+  "updatedAt": "2026-09-08T09:07:10.614Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "주차장",
+      "keyword": "병무청",
       "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "아시아나항공",
-      "traffic": "500+"
+      "keyword": "연휴",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "프로골퍼",
+      "keyword": "최저임금",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "티빙 보상신청",
-      "traffic": "200+"
+      "keyword": "홍서범",
+      "traffic": "5000+"
     },
     {
       "rank": 5,
-      "keyword": "시위",
+      "keyword": "운악산",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "안재환",
+      "keyword": "경기일보",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "울산 웨일즈",
-      "traffic": "100+"
+      "keyword": "lng선",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "외국인",
-      "traffic": "2000+"
+      "keyword": "최수종",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "자책점",
-      "traffic": "200+"
+      "keyword": "재혼",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "웨이브",
-      "traffic": "500+"
+      "keyword": "반려견",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이소영 장관 후보자",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "로또 1등 이준혁, 얼굴 잘생긴 팀장",
+      "keyword": "결혼한 한은서, 윤종훈과 투샷 공개",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 3,
-      "keyword": "정점식 원내대표 교섭단체 연설",
+      "rank": 2,
+      "keyword": "코스피 하락 마감",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "핸드볼경기장 물품 반출",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "정재희 K리그1 MVP",
+      "rank": 3,
+      "keyword": "아시안게임 훈련 중인 안세영",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "한성숙 총리 주재 국무회의",
+      "rank": 4,
+      "keyword": "김민석 헌정회 방문",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "이민호 진실 추구 시대",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "이춘석 불구속 기소",
+      "state": "+",
+      "change": "4"
+    },
+    {
       "rank": 7,
-      "keyword": "조정식 의장과 상원 의장 회담",
+      "keyword": "조정식 의장, 이시바 접견",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "정찬성, 김중우 퇴출",
+      "keyword": "부산 크리스찬 음주운전 적발",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "농협유통 2026 추석전",
+      "keyword": "유해진 왕사남 사랑과 감사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "항만공사 통합 반대",
-      "state": "n",
-      "change": "0"
+      "keyword": "2026 서울여성대회 개최",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
