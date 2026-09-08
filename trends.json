@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-08T00:14:41.515Z",
+  "updatedAt": "2026-09-08T04:41:02.611Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "여수시",
-      "traffic": "100+"
+      "keyword": "주차장",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "르윈 디아즈",
-      "traffic": "100+"
+      "keyword": "아시아나항공",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "땅",
-      "traffic": "1000+"
+      "keyword": "프로골퍼",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "노태문",
+      "keyword": "티빙 보상신청",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "한병도",
+      "keyword": "시위",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "챔피언스리그",
-      "traffic": "100+"
+      "keyword": "안재환",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "국제선",
-      "traffic": "500+"
+      "keyword": "울산 웨일즈",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "세종문화회관",
-      "traffic": "500+"
+      "keyword": "외국인",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "용준형",
+      "keyword": "자책점",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "us open",
-      "traffic": "100+"
+      "keyword": "웨이브",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "윤종훈과 한은서 결혼 소식",
+      "keyword": "이소영 장관 후보자",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "2분기 GDP 0.6%↑",
-      "state": "s",
-      "change": "0"
+      "keyword": "로또 1등 이준혁, 얼굴 잘생긴 팀장",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "방탄소년단 북미 투어 성료",
+      "keyword": "정점식 원내대표 교섭단체 연설",
       "state": "-",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "지동원 은퇴 여정 마무리",
+      "keyword": "핸드볼경기장 물품 반출",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "국민의힘 경상북도 예산정책협의회에서",
-      "state": "n",
-      "change": "0"
+      "keyword": "정재희 K리그1 MVP",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "용혜인 부적격 전달 오보",
+      "keyword": "한성숙 총리 주재 국무회의",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "이재명, 뤼미에르 참석",
-      "state": "n",
-      "change": "0"
+      "keyword": "조정식 의장과 상원 의장 회담",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "국제선 승객 심사 누락",
+      "keyword": "정찬성, 김중우 퇴출",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김이나 사칭 주의!",
+      "keyword": "농협유통 2026 추석전",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "노엘, 음주운전 달라졌다",
+      "keyword": "항만공사 통합 반대",
       "state": "n",
       "change": "0"
     }
