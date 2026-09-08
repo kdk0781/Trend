@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-08T20:00:39.377Z",
+  "updatedAt": "2026-09-08T22:34:07.127Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "레알 마드리드 대 인테르",
-      "traffic": "2000+"
+      "keyword": "코레일 추석예매",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "포르투 대 맨 시티",
-      "traffic": "2000+"
+      "keyword": "한화오션",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "sbs",
+      "keyword": "일본 엔",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "club brugge vs aston villa",
-      "traffic": "100+"
+      "keyword": "후티",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "인플루언서",
-      "traffic": "200+"
+      "keyword": "주가",
+      "traffic": "10000+"
     },
     {
       "rank": 6,
-      "keyword": "풍자",
+      "keyword": "킬리안 음바페",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "양구",
-      "traffic": "500+"
+      "keyword": "real madrid",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "메이드인코리아 시즌2",
+      "keyword": "경마",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "신병",
-      "traffic": "100+"
+      "keyword": "이완규",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "한화에어로스페이스",
-      "traffic": "500+"
+      "keyword": "реал мадрид – интер",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "국방부 호르무즈 조사단 파견",
+      "keyword": "호르무즈 긴밀 공조",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김혜경·마크롱 여사 한지 전시 관람",
-      "state": "+",
-      "change": "1"
+      "keyword": "김혜경·마크롱 행사 관람",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "40홈런 친 김도영",
-      "state": "-",
-      "change": "1"
+      "keyword": "공동언론발표 마친 한-프랑스 정상",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "백진희 예비신랑은 평범한 직장인",
+      "keyword": "김희은 윤대현, 1만평 농장 공개",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이란 항공사 제재",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "하영민 6이닝 무실점 호투",
-      "state": "n",
+      "keyword": "발롱도르 후보 30인 발표",
+      "state": "s",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "트럼프, 캐나다산 제외",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 7,
-      "keyword": "안전공업 대표 영장 기각",
+      "keyword": "미군 하르그섬 유조선 타격",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "안세영 100주 1위",
+      "keyword": "뉴욕증시 하락 다우 1.18%↓",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "수색 이어가는 한국해외긴급구호대",
+      "keyword": "조나단 탈모 고백",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "꺾고 3연패 탈출",
-      "state": "n",
-      "change": "0"
+      "keyword": "홍윤화 40KG 감량 후 요요",
+      "state": "-",
+      "change": "4"
     }
   ]
 }
