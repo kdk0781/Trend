@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-07T22:02:28.736Z",
+  "updatedAt": "2026-09-08T00:14:41.515Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "나솔",
-      "traffic": "1000+"
+      "keyword": "여수시",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "공무원",
-      "traffic": "500+"
+      "keyword": "르윈 디아즈",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "엘니뇨",
-      "traffic": "200+"
+      "keyword": "땅",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "브레이브스 대 필리스",
+      "keyword": "노태문",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "공희용",
+      "keyword": "한병도",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "엘체 대 레알 소시에다드",
-      "traffic": "500+"
+      "keyword": "챔피언스리그",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "경제",
+      "keyword": "국제선",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "조명우",
-      "traffic": "1000+"
+      "keyword": "세종문화회관",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "택시",
-      "traffic": "2000+"
+      "keyword": "용준형",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "이종범",
-      "traffic": "200+"
+      "keyword": "us open",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "윤종훈과 한은서, 신인 풋풋함",
+      "keyword": "윤종훈과 한은서 결혼 소식",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이재명, 영화영상 라운드테이블",
+      "keyword": "2분기 GDP 0.6%↑",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이재명 영화 라운드테이블",
+      "keyword": "방탄소년단 북미 투어 성료",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "지동원 은퇴 여정 마무리",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "남은 연애의 흔들림, 삼각관계 속으로",
-      "state": "+",
-      "change": "2"
-    },
-    {
       "rank": 5,
-      "keyword": "북, 한미일 훈련 반발",
-      "state": "-",
-      "change": "2"
+      "keyword": "국민의힘 경상북도 예산정책협의회에서",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "네팔, 한국인 실종 도보 수색 협조",
-      "state": "-",
-      "change": "2"
+      "keyword": "용혜인 부적격 전달 오보",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "중학생 탁구채 14만원 판매",
-      "state": "s",
+      "keyword": "이재명, 뤼미에르 참석",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "민주당 오빠들 게이트",
+      "keyword": "국제선 승객 심사 누락",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "방검복 3년 만에 누명 벗음",
+      "keyword": "김이나 사칭 주의!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "강남언니 22만명 정보 유출",
+      "keyword": "노엘, 음주운전 달라졌다",
       "state": "n",
       "change": "0"
     }
