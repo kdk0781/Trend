@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-09T13:53:44.714Z",
+  "updatedAt": "2026-09-09T17:26:48.014Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "서정진",
+      "keyword": "틈만나면,",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "검수완박",
-      "traffic": "100+"
+      "keyword": "barcelona vs feyenoord",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "정치인",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "사이언스 투데이",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "예비역",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "김민석",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "민주노동조합총연맹",
+      "keyword": "뷔",
       "traffic": "200+"
     },
     {
-      "rank": 8,
-      "keyword": "고영표",
+      "rank": 4,
+      "keyword": "바르셀로나 대 페예노르트",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "서안",
       "traffic": "100+"
     },
     {
-      "rank": 9,
-      "keyword": "오 스탈",
+      "rank": 6,
+      "keyword": "개헌",
       "traffic": "500+"
     },
     {
+      "rank": 7,
+      "keyword": "apple",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "신탁",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "제주 sk fc",
+      "traffic": "200+"
+    },
+    {
       "rank": 10,
-      "keyword": "전희철",
-      "traffic": "500+"
+      "keyword": "뉴데일리",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "네팔 2진 파견 준비 중",
-      "state": "n",
-      "change": "0"
+      "keyword": "이재명 대통령 프랑스 간담회",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "이재명 대통령 임기 제한",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "김도영 빠진 KIA NC전 7연패",
+      "keyword": "부산 예인선 실종자 시신 포항 발견",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 4,
-      "keyword": "용혜인 의원직 위기",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "티파니 변요한 효연 만남",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 6,
-      "keyword": "두산 곽빈, SSG에 2연패",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "이숭용 200승 기념",
+      "rank": 3,
+      "keyword": "김도영 코뼈 골절 상황",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "헌법상 명확하게 제한돼",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "이재용 홍라희 삼성전자 주식 매수",
+      "state": "-",
+      "change": "4"
+    },
+    {
+      "rank": 6,
+      "keyword": "티파니 변요한 효연 만남",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "네팔 긴급구호 2진 파견",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "부동산 교란 1000건 넘었다",
-      "state": "n",
-      "change": "0"
+      "keyword": "카트만두로 이동하는 한국구호대",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "이혁재 음주 해명 논란",
-      "state": "n",
-      "change": "0"
+      "keyword": "이숭용 감독 200승 기념",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "11세 쇠사슬로 외할머니",
-      "state": "n",
-      "change": "0"
+      "keyword": "호르무즈 파병 논의 중",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
