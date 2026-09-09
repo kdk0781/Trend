@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-08T22:34:07.127Z",
+  "updatedAt": "2026-09-09T00:31:28.930Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "코레일 추석예매",
-      "traffic": "1000+"
+      "keyword": "dwcs",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "한화오션",
-      "traffic": "1000+"
+      "keyword": "홍윤화",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "일본 엔",
+      "keyword": "리버풀 fc",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "후티",
-      "traffic": "1000+"
+      "keyword": "삼성sds",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "주가",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "킬리안 음바페",
+      "keyword": "이종상",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "폭발",
+      "traffic": "500+"
+    },
+    {
       "rank": 7,
-      "keyword": "real madrid",
-      "traffic": "100+"
+      "keyword": "의왕역",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "경마",
-      "traffic": "100+"
+      "keyword": "황희찬",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "이완규",
-      "traffic": "1000+"
+      "keyword": "아이온큐",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "реал мадрид – интер",
+      "keyword": "교사",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "호르무즈 긴밀 공조",
-      "state": "s",
+      "keyword": "용혜인 장관 후보자",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김혜경·마크롱 행사 관람",
+      "keyword": "8월 취업자 증가",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "공동언론발표 마친 한-프랑스 정상",
+      "keyword": "김혜준의 사랑과 로코 이야기",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김희은 윤대현, 1만평 농장 공개",
-      "state": "s",
+      "keyword": "이란 유조선 5척 파괴",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "발롱도르 후보 30인 발표",
+      "keyword": "발롱도르 후보 공개",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "트럼프, 캐나다산 제외",
-      "state": "+",
-      "change": "2"
+      "keyword": "설악산 출입금지 고립",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "미군 하르그섬 유조선 타격",
+      "keyword": "이한범, UCL 빌라에 패배",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "뉴욕증시 하락 다우 1.18%↓",
+      "keyword": "이하늘, 김창열에 2년 만에 연락",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "조나단 탈모 고백",
+      "keyword": "트럼프 캐나다산 제외 지시",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "홍윤화 40KG 감량 후 요요",
-      "state": "-",
-      "change": "4"
+      "keyword": "이켠 쇄골 인대 파열 6개월 철심",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
