@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-09-09T05:08:24.876Z",
+  "updatedAt": "2026-09-09T09:39:33.012Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "미스터트롯",
-      "traffic": "1000+"
+      "keyword": "lg 대 한화",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "최승호",
-      "traffic": "100+"
+      "keyword": "한돈",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "류현진",
-      "traffic": "200+"
+      "keyword": "지방",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "송진우",
-      "traffic": "500+"
+      "keyword": "김설현",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "조혜련",
-      "traffic": "500+"
+      "keyword": "소나무재선충",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "이재명",
-      "traffic": "5000+"
+      "keyword": "그린란드",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "목동윤슬자이",
+      "keyword": "정영숙",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "박주호",
-      "traffic": "100+"
+      "keyword": "레버리지",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "소방",
-      "traffic": "100+"
+      "keyword": "노동조합",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "진중권",
-      "traffic": "500+"
+      "keyword": "중앙그룹",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김승원 후보자 관련 발언",
-      "state": "s",
-      "change": "0"
+      "keyword": "변요한 10KG 감량 베드신 준비",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "고려아연 백인규 선임",
-      "state": "n",
-      "change": "0"
+      "keyword": "훈련 중인 핸드볼 남자 대표",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "손예진 지창욱 나나 스캔들",
-      "state": "-",
+      "keyword": "스마일게이트 권혁빈 이혼 재산 분할",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "유도 국가대표 선수들",
-      "state": "+",
-      "change": "1"
+      "keyword": "김민석 수첩 정청래 불쾌",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "지혜복 교사 원복 소식",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "기후행동 온라인 플랫폼",
+      "keyword": "국대 구민지, 정확하고 멀리 날린다",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 6,
+      "keyword": "‘반딧불 뮤지컬’로 변경됩니다.",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 7,
-      "keyword": "NC 어깨 대체 선수 계약",
+      "keyword": "호르무즈 파병 논의 중",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "가계대출 증가폭 축소",
+      "keyword": "김건희 징역 7년 구형",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "정은경 장관 경기도 방문",
+      "keyword": "김원형 교체 박준순에",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "공개하는 장경태 의원",
-      "state": "s",
+      "keyword": "피터팬 아빠 전경철 영면",
+      "state": "n",
       "change": "0"
     }
   ]
