@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-09T17:26:48.014Z",
+  "updatedAt": "2026-09-09T19:56:06.433Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "틈만나면,",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "barcelona vs feyenoord",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "뷔",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "바르셀로나 대 페예노르트",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "서안",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "개헌",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "apple",
+      "keyword": "psg 대 슬로반 브라티슬라바",
       "traffic": "1000+"
     },
     {
+      "rank": 2,
+      "keyword": "나폴리 대 아스널",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "첼시 대 리즈 유나이티드",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "리버풀 대 아틀레티코",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "폴드8",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "iphone",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "애플",
+      "traffic": "5000+"
+    },
+    {
       "rank": 8,
-      "keyword": "신탁",
+      "keyword": "보통주",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "제주 sk fc",
-      "traffic": "200+"
+      "keyword": "파주 냉동창고",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "뉴데일리",
-      "traffic": "1000+"
+      "keyword": "정치",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 대통령 프랑스 간담회",
-      "state": "+",
-      "change": "1"
+      "keyword": "이재명 OECD 사무총장 접견",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "부산 예인선 실종자 시신 포항 발견",
-      "state": "+",
-      "change": "2"
+      "keyword": "김도영 코뼈 골절",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김도영 코뼈 골절 상황",
+      "keyword": "부산 예인선 실종자 시신 발견",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "헌법상 명확하게 제한돼",
+      "keyword": "애플 아이폰 듀오 공개",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "이재용 홍라희 삼성전자 주식 매수",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 6,
-      "keyword": "티파니 변요한 효연 만남",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "네팔 긴급구호 2진 파견",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "카트만두로 이동하는 한국구호대",
+      "keyword": "200승 이숭용 감독",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "서울대 총장 후보 4명 확정",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "이정은, 이효리 연기 스승",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "전북, 강원과 1-1 무승부",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "이숭용 감독 200승 기념",
-      "state": "-",
-      "change": "1"
+      "keyword": "KT 역투 고영표 박영현",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "호르무즈 파병 논의 중",
-      "state": "-",
-      "change": "3"
+      "keyword": "2026년 9월 10일 운세",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
