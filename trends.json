@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-09-09T19:56:06.433Z",
+  "updatedAt": "2026-09-09T22:09:51.662Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "psg 대 슬로반 브라티슬라바",
-      "traffic": "1000+"
+      "keyword": "투자",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "나폴리 대 아스널",
-      "traffic": "1000+"
+      "keyword": "김나영",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "첼시 대 리즈 유나이티드",
+      "keyword": "콜레스테롤",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "리버풀 대 아틀레티코",
-      "traffic": "5000+"
+      "keyword": "첼시",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "폴드8",
-      "traffic": "2000+"
+      "keyword": "태풍",
+      "traffic": "10000+"
     },
     {
       "rank": 6,
-      "keyword": "iphone",
-      "traffic": "200+"
+      "keyword": "원자력",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "애플",
-      "traffic": "5000+"
+      "keyword": "아시아나항공",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "보통주",
-      "traffic": "200+"
+      "keyword": "미라 안드레예바",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "파주 냉동창고",
+      "keyword": "윤후",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "정치",
-      "traffic": "5000+"
+      "keyword": "เชลซี พบ ลีดส์",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 OECD 사무총장 접견",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "김도영 코뼈 골절",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "부산 예인선 실종자 시신 발견",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
       "keyword": "애플 아이폰 듀오 공개",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "200승 이숭용 감독",
-      "state": "+",
+      "rank": 2,
+      "keyword": "이재명 OECD 총장 접견",
+      "state": "-",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "서울대 총장 후보 4명 확정",
+      "rank": 3,
+      "keyword": "중간선거 직후 이란전 끝",
       "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 4,
+      "keyword": "스윙스 마운자로 짜장면 3그릇",
+      "state": "+",
+      "change": "5"
+    },
+    {
+      "rank": 5,
+      "keyword": "나는 솔로",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 6,
+      "keyword": "김도영 코뼈 골절 부상",
+      "state": "-",
       "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "이정은, 이효리 연기 스승",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "전북, 강원과 1-1 무승부",
+      "keyword": "제 임기는 헌법상 제한돼",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "2026년 9월 10일 운세",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "KT 역투 고영표 박영현",
-      "state": "s",
+      "keyword": "美 바이백 60억 달러 확대",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "2026년 9월 10일 운세",
-      "state": "s",
+      "keyword": "네팔 귀국 2진 준비",
+      "state": "n",
       "change": "0"
     }
   ]
