@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-09T22:09:51.662Z",
+  "updatedAt": "2026-09-10T00:11:45.596Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "투자",
-      "traffic": "2000+"
+      "keyword": "ios27",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "김나영",
-      "traffic": "500+"
+      "keyword": "이정후",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "콜레스테롤",
+      "keyword": "송영길",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "첼시",
+      "keyword": "에코프로",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "태풍",
-      "traffic": "10000+"
+      "keyword": "운세",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "원자력",
-      "traffic": "500+"
+      "keyword": "축제",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "아시아나항공",
-      "traffic": "500+"
+      "keyword": "liverpool f.c. vs atlético madrid standings",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "미라 안드레예바",
-      "traffic": "100+"
+      "keyword": "시어머니",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "윤후",
-      "traffic": "500+"
+      "keyword": "자동차",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "เชลซี พบ ลีดส์",
-      "traffic": "200+"
+      "keyword": "이재 시",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
+      "keyword": "구윤철 부총리 회의 주재",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 2,
       "keyword": "애플 아이폰 듀오 공개",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 2,
-      "keyword": "이재명 OECD 총장 접견",
+      "rank": 3,
+      "keyword": "이정후, 동점 2타점 2루타 대폭발",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 3,
-      "keyword": "중간선거 직후 이란전 끝",
-      "state": "+",
-      "change": "3"
-    },
-    {
       "rank": 4,
-      "keyword": "스윙스 마운자로 짜장면 3그릇",
-      "state": "+",
-      "change": "5"
+      "keyword": "나는 솔로",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "나는 솔로",
+      "keyword": "김도영, AG 포기 없는 투혼",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "김도영 코뼈 골절 부상",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "제 임기는 헌법상 제한돼",
+      "keyword": "김민종, MC몽 고소 취소",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "이강인 59분 리버풀에 1-2 패",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "2026년 9월 10일 운세",
+      "keyword": "민티07 준비하는 김민석 대표",
       "state": "-",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "美 바이백 60억 달러 확대",
+      "keyword": "러시아의 젤렌스키 드론 암살 시도",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "네팔 귀국 2진 준비",
-      "state": "n",
-      "change": "0"
+      "keyword": "유가 100달러 넘겨",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
