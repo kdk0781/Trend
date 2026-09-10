@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-09-10T17:09:25.258Z",
+  "updatedAt": "2026-09-10T19:39:07.851Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "채무",
+      "keyword": "바이에른 대 보되/글림트",
       "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "google",
+      "keyword": "skt",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "jyp엔터테인먼트",
-      "traffic": "2000+"
+      "keyword": "아스널 fc",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "구글",
-      "traffic": "1000+"
+      "keyword": "챔스",
+      "traffic": "20000+"
     },
     {
       "rank": 5,
-      "keyword": "유해진",
-      "traffic": "200+"
+      "keyword": "숲",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "히 샬리 송",
-      "traffic": "200+"
+      "keyword": "google usa",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "웹툰",
+      "keyword": "한우랑 사과랑 축제",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "무신사",
-      "traffic": "200+"
+      "keyword": "전국삼성전자노동조합",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "신지",
-      "traffic": "1000+"
+      "keyword": "ai",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "금메달",
+      "keyword": "먹방",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "KB금융 챔피언십 1라운드 경기",
+      "keyword": "KB금융 챔피언십 1라운드 경기결과",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "승리, 특수폭행 피소",
+      "keyword": "ECB 두 번째 금리 인상",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이강철 감독 600승 달성",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "송미령 농식품부 장관",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "ECB 두 번째 금리 인상",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 6,
-      "keyword": "호르무즈 파병 논의",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
       "keyword": "크로아티아에 천무 18대 수출",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 8,
+      "rank": 4,
+      "keyword": "이강철 감독 600승 달성",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "승리, 특수폭행 혐의 피소",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 6,
       "keyword": "WTI 100달러 돌파",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "메이저 우승 기대해주세요",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "칭다오 화물선 화재 5명 사망",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "한동훈 의원, 야당 의원 사찰 의혹",
-      "state": "-",
-      "change": "5"
+      "keyword": "아쉬운 파 세이브",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "아시안게임 각오 선수들",
-      "state": "n",
+      "keyword": "사파리 남편 외도 증거",
+      "state": "s",
       "change": "0"
     }
   ]
