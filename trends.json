@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-09-10T19:39:07.851Z",
+  "updatedAt": "2026-09-10T21:52:33.740Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "바이에른 대 보되/글림트",
-      "traffic": "2000+"
+      "keyword": "잠수함",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "skt",
-      "traffic": "100+"
+      "keyword": "콩",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "아스널 fc",
+      "keyword": "버스",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "챔스",
-      "traffic": "20000+"
+      "keyword": "아시아 남자 배구 선수권 대회",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "숲",
+      "keyword": "혈당",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "google usa",
+      "keyword": "윤석열",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "한우랑 사과랑 축제",
-      "traffic": "100+"
+      "keyword": "man utd vs sabah",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "전국삼성전자노동조합",
-      "traffic": "500+"
+      "keyword": "맨체스터 유나이티드 fc",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "ai",
+      "keyword": "경로당",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "먹방",
+      "keyword": "แมนยู พบ สโมสรฟุตบอลซาบาห์",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "KB금융 챔피언십 1라운드 경기결과",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "ECB 두 번째 금리 인상",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "크로아티아에 천무 18대 수출",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "이강철 감독 600승 달성",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "승리, 특수폭행 혐의 피소",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 6,
       "keyword": "WTI 100달러 돌파",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "메이저 우승 기대해주세요",
+      "rank": 2,
+      "keyword": "이강철 감독 600승 선두탈환",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "홍진경, 뇌 검사 결과 우울감 발견",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 4,
+      "keyword": "30년물 2007년 최고",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "용혜인 청문회 주시 필요",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "2026년 9월 11일 운세",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "파 세이브 후 파이팅",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "칭다오 화물선 화재 5명 사망",
-      "state": "+",
-      "change": "3"
+      "keyword": "이호선 눈물 남편 상담",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "아쉬운 파 세이브",
+      "keyword": "김정관 방미 협상 진행",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "사파리 남편 외도 증거",
-      "state": "s",
+      "keyword": "한동훈 총리 사찰 사건",
+      "state": "n",
       "change": "0"
     }
   ]
