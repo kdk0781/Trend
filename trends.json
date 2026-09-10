@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-10T21:52:33.740Z",
+  "updatedAt": "2026-09-10T23:34:47.060Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "잠수함",
-      "traffic": "1000+"
+      "keyword": "앤 트로픽",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "콩",
-      "traffic": "500+"
+      "keyword": "manchester united f.c. vs sabah fk standings",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "버스",
+      "keyword": "요르단",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "아시아 남자 배구 선수권 대회",
-      "traffic": "200+"
+      "keyword": "삼성 전자 월세",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "혈당",
+      "keyword": "ott 서비스",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "윤석열",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "man utd vs sabah",
+      "keyword": "양민혁",
       "traffic": "200+"
     },
     {
+      "rank": 7,
+      "keyword": "베트남 축구 국가대표팀",
+      "traffic": "100+"
+    },
+    {
       "rank": 8,
-      "keyword": "맨체스터 유나이티드 fc",
+      "keyword": "카카오모빌리티",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "경로당",
+      "keyword": "암호화폐",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "แมนยู พบ สโมสรฟุตบอลซาบาห์",
-      "traffic": "200+"
+      "keyword": "폴더 블 스마트 폰",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "WTI 100달러 돌파",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "이강철 감독 600승 선두탈환",
+      "keyword": "추석 물류센터 분주",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "홍진경, 뇌 검사 결과 우울감 발견",
+      "rank": 2,
+      "keyword": "김민재 결장 뮌헨 5-0 대승",
       "state": "+",
-      "change": "4"
+      "change": "6"
     },
     {
-      "rank": 4,
-      "keyword": "30년물 2007년 최고",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "용혜인 청문회 주시 필요",
+      "rank": 3,
+      "keyword": "야당 의원 용혜인 정면돌파",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "2026년 9월 11일 운세",
+      "rank": 4,
+      "keyword": "특수폭행 피소 승리, 억울함 호소",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "뉴욕증시 유가 국채금리",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "협상 김정관 미국행",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "파 세이브 후 파이팅",
+      "keyword": "탈북 여성 시신 발견",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이호선 눈물 남편 상담",
+      "keyword": "화장품 외판원 10억 날려",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김정관 방미 협상 진행",
+      "keyword": "박수홍 98억 소송 연기",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "한동훈 총리 사찰 사건",
+      "keyword": "정숙, 미스터 최 배신에 분노 폭발",
       "state": "n",
       "change": "0"
     }
