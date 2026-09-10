@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-09-10T04:46:25.257Z",
+  "updatedAt": "2026-09-10T09:12:59.508Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "오륙도",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "김하성",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "단체교섭",
+      "keyword": "인천 도시철도 2호선",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "연방준비제도",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "설경구",
+      "traffic": "2000+"
+    },
+    {
       "rank": 4,
-      "keyword": "습관",
-      "traffic": "1000+"
+      "keyword": "김성경",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "주드 테리",
-      "traffic": "500+"
+      "keyword": "추석",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "mls",
-      "traffic": "500+"
+      "keyword": "배그",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "코리아 디스카운트",
+      "keyword": "법안",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "조용필",
-      "traffic": "2000+"
+      "keyword": "파키스탄",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "마이크론 테크놀로지",
-      "traffic": "1000+"
+      "keyword": "박스오피스",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "레즈 대 다저스",
-      "traffic": "2000+"
+      "keyword": "리브 골프",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 대표의 환경미화원 점검",
+      "keyword": "허장 재정경제부 차관",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "둘러보는 강호동 농협중앙회장",
-      "state": "n",
-      "change": "0"
+      "keyword": "백진희, 헨리 결혼 소식",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "추석 원산지 점검",
-      "state": "+",
-      "change": "1"
+      "keyword": "이진숙 의원 집회 참석",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "야구 영웅 장훈 별세 86세",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "허진호 감독의 작품과 고민",
+      "keyword": "조용형·이재홍 합류",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "정점식 원내대표 브리핑 진행",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 7,
-      "keyword": "레버리지 사태 김용범",
+      "rank": 5,
+      "keyword": "변우석, 한남더힐 전액 매입",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "김종철 경찰청장 직무대행",
+      "rank": 6,
+      "keyword": "용혜인 기자회견 마침",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "코스피 7000선 턱걸이",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "삼성바이오, 유럽 제약사 CMO 계약",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "1500만 그릇 비빔밥",
-      "state": "n",
+      "keyword": "한동훈 의원 질의",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "G3 서울플랜 발표",
-      "state": "n",
+      "keyword": "장윤정母 징역 10개월",
+      "state": "s",
       "change": "0"
     }
   ]
