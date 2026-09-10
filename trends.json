@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-10T13:37:54.878Z",
+  "updatedAt": "2026-09-10T17:09:25.258Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "송미령",
+      "keyword": "채무",
       "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "ppi",
-      "traffic": "200+"
+      "keyword": "google",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "미스 트롯 포유",
+      "keyword": "jyp엔터테인먼트",
       "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "도둑",
+      "keyword": "구글",
       "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "jyp 엔터테인먼트",
-      "traffic": "500+"
+      "keyword": "유해진",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "카페",
-      "traffic": "5000+"
+      "keyword": "히 샬리 송",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "강선영",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "방아쇠",
+      "keyword": "웹툰",
       "traffic": "100+"
     },
     {
+      "rank": 8,
+      "keyword": "무신사",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "승리",
-      "traffic": "2000+"
+      "keyword": "신지",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "김종규",
+      "keyword": "금메달",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이 대통령 공소청 수정 지시",
-      "state": "+",
-      "change": "3"
+      "keyword": "KB금융 챔피언십 1라운드 경기",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "KB금융 챔피언십 1라운드 경기 모습",
-      "state": "-",
-      "change": "1"
+      "keyword": "승리, 특수폭행 피소",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "송미령 장관 기자회견",
-      "state": "n",
+      "keyword": "이강철 감독 600승 달성",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "승리, 특수폭행 피소",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "최태원, 동거인 노소영 불기소",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "ECB 금리 0.25% 인상",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 7,
-      "keyword": "한동훈, 과한 사찰 발언",
+      "keyword": "송미령 농식품부 장관",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "이태원 술집 50대 사망",
-      "state": "n",
+      "rank": 5,
+      "keyword": "ECB 두 번째 금리 인상",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 6,
+      "keyword": "호르무즈 파병 논의",
+      "state": "s",
       "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "크로아티아에 천무 18대 수출",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "WTI 100달러 돌파",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "차예련 주상욱 딸 화보 소질",
-      "state": "n",
-      "change": "0"
+      "keyword": "한동훈 의원, 야당 의원 사찰 의혹",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 10,
-      "keyword": "변우석, 130억 한남더힐 주민 돼",
+      "keyword": "아시안게임 각오 선수들",
       "state": "n",
       "change": "0"
     }
