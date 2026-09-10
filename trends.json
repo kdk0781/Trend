@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-09-10T09:12:59.508Z",
+  "updatedAt": "2026-09-10T13:37:54.878Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "인천 도시철도 2호선",
-      "traffic": "200+"
+      "keyword": "송미령",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "연방준비제도",
-      "traffic": "100+"
+      "keyword": "ppi",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "설경구",
+      "keyword": "미스 트롯 포유",
       "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "김성경",
-      "traffic": "2000+"
+      "keyword": "도둑",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "추석",
-      "traffic": "2000+"
+      "keyword": "jyp 엔터테인먼트",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "배그",
-      "traffic": "200+"
+      "keyword": "카페",
+      "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "법안",
+      "keyword": "강선영",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "파키스탄",
-      "traffic": "200+"
+      "keyword": "방아쇠",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "박스오피스",
-      "traffic": "200+"
+      "keyword": "승리",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "리브 골프",
+      "keyword": "김종규",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "허장 재정경제부 차관",
+      "keyword": "이 대통령 공소청 수정 지시",
       "state": "+",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 2,
-      "keyword": "백진희, 헨리 결혼 소식",
-      "state": "+",
-      "change": "2"
+      "keyword": "KB금융 챔피언십 1라운드 경기 모습",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "이진숙 의원 집회 참석",
+      "keyword": "송미령 장관 기자회견",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "조용형·이재홍 합류",
-      "state": "+",
+      "keyword": "승리, 특수폭행 피소",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "변우석, 한남더힐 전액 매입",
+      "keyword": "최태원, 동거인 노소영 불기소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "용혜인 기자회견 마침",
-      "state": "n",
-      "change": "0"
+      "keyword": "ECB 금리 0.25% 인상",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "코스피 7000선 턱걸이",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "삼성바이오, 유럽 제약사 CMO 계약",
+      "keyword": "한동훈, 과한 사찰 발언",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 8,
+      "keyword": "이태원 술집 50대 사망",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "한동훈 의원 질의",
-      "state": "s",
+      "keyword": "차예련 주상욱 딸 화보 소질",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "장윤정母 징역 10개월",
-      "state": "s",
+      "keyword": "변우석, 130억 한남더힐 주민 돼",
+      "state": "n",
       "change": "0"
     }
   ]
