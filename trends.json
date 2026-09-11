@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-11T21:06:50.245Z",
+  "updatedAt": "2026-09-11T23:12:33.092Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "청바지",
-      "traffic": "200+"
+      "keyword": "이강인",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "대통령",
-      "traffic": "200+"
+      "keyword": "중앙일보 오늘의 운세",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "홍현희",
-      "traffic": "200+"
+      "keyword": "세계지식포럼",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "부동산 거품",
-      "traffic": "200+"
+      "keyword": "명태균",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "한지민",
-      "traffic": "500+"
+      "keyword": "유격수",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "알렉산더 즈베레프",
+      "keyword": "루카스 베리발",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "아스트라 ai",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "혈당",
+      "keyword": "체포",
       "traffic": "2000+"
     },
     {
+      "rank": 8,
+      "keyword": "대학",
+      "traffic": "500+"
+    },
+    {
       "rank": 9,
-      "keyword": "기쁜 우리 좋은 날",
+      "keyword": "us 오픈",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "이서진",
-      "traffic": "2000+"
+      "keyword": "박재현",
+      "traffic": "20000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "美 8월 물가 예상 웃돌아",
+      "keyword": "북한, 동해 미상 발사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "KT 4연승 선두 유지",
-      "state": "s",
-      "change": "0"
+      "keyword": "류화영 오늘 결혼",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "경복궁 소리 채집 도전",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "신제품 파티 참석",
+      "keyword": "韓 대표 열악한 숙소",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "2026년 9월 12일 운세",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 5,
-      "keyword": "샤이니 민호 연애관 솔직 고백",
+      "keyword": "트럼프 9·11 테러는 잊지 않을 악",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "2026년 9월 12일 운세",
-      "state": "+",
-      "change": "1"
+      "keyword": "경복궁 소리 채집 도전",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "최저 12도 일교차 15도",
+      "keyword": "뉴욕증시 5일 만에 반등",
       "state": "+",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "혼자 산다 특별한 이유",
+      "keyword": "현빈 손예진 아들 외모 화제",
       "state": "-",
       "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "9·11 25주년 추모식 진행",
-      "state": "+",
-      "change": "1"
+      "keyword": "주말 일교차 15도",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "후티, 바브엘만데브 해협 장악",
-      "state": "-",
-      "change": "1"
+      "keyword": "비서진 서인영, 이서진과 연애 상담 후 속옷 화보 촬영.",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
