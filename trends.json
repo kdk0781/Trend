@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-11T11:28:41.068Z",
+  "updatedAt": "2026-09-11T15:08:11.867Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "남편",
+      "keyword": "중앙일보",
       "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "서현숙",
-      "traffic": "500+"
+      "keyword": "니콜 키드먼",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "동아일보",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "이준기",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "아버지",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "xsmn",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "박정훈",
+      "keyword": "공인중개사",
       "traffic": "500+"
     },
     {
-      "rank": 8,
-      "keyword": "홍정도",
-      "traffic": "200+"
+      "rank": 4,
+      "keyword": "김원호",
+      "traffic": "500+"
     },
     {
-      "rank": 9,
-      "keyword": "nc 대 한화",
+      "rank": 5,
+      "keyword": "대한민국의 대법관",
       "traffic": "5000+"
     },
     {
+      "rank": 6,
+      "keyword": "마무리 투수",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "경복궁",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "cpi 발표",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
+      "keyword": "라이머",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "인도",
-      "traffic": "1000+"
+      "keyword": "전소연",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "장동혁 해군사관학교 방문",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 2,
-      "keyword": "KB금융 차기 회장 이재근",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "문도엽, 신한동해오픈 2R 선두",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "서울 시내버스 16일 파업 예고",
+      "keyword": "유부녀 킬러 드라마",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "직원의 개입에 총리",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "美 8월 물가 상승 3.4%",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "주말 아침 쌀쌀하나 낮엔 덥다",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "김승원 자녀 교육위장전입 송구",
+      "keyword": "이주은 PD 웨딩 재혼",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "종로한복축제 개막 퍼레이드",
-      "state": "s",
-      "change": "0"
+      "keyword": "KB금융 챔피언십 2라운드",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "용산공원 청년주택 반대",
-      "state": "n",
-      "change": "0"
+      "keyword": "안현모와 이혼 라이머",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "힐리어드, 2타점 활약",
-      "state": "n",
-      "change": "0"
+      "keyword": "수시 원서접수 1시간 연장",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "K-BATTERY SHOW 2026에서 혁신 소개",
+      "keyword": "박위 케냐 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "벌레 나와 전액 환불",
+      "keyword": "단풍 30일 설악산부터",
       "state": "n",
       "change": "0"
     }
