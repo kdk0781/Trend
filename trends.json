@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-11T18:26:31.417Z",
+  "updatedAt": "2026-09-11T21:06:50.245Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "x",
-      "traffic": "500+"
+      "keyword": "청바지",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "손예진 아들",
+      "keyword": "대통령",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "코믹월드",
-      "traffic": "100+"
+      "keyword": "홍현희",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "타짜",
-      "traffic": "100+"
+      "keyword": "부동산 거품",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "원자로",
+      "keyword": "한지민",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "네이버웹툰",
+      "keyword": "알렉산더 즈베레프",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "파이널 테이블",
-      "traffic": "1000+"
+      "keyword": "아스트라 ai",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "이엘리야",
-      "traffic": "200+"
+      "keyword": "혈당",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "더커뮤니티2",
+      "keyword": "기쁜 우리 좋은 날",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "옵세션",
-      "traffic": "1000+"
+      "keyword": "이서진",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "美 8월 물가 3.4% 상승",
-      "state": "s",
+      "keyword": "美 8월 물가 예상 웃돌아",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "수시 원서접수 1시간 연장",
-      "state": "+",
-      "change": "1"
+      "keyword": "KT 4연승 선두 유지",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "KB금융 챔피언십 2라운드",
-      "state": "n",
+      "keyword": "경복궁 소리 채집 도전",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "경복궁 소리 채집 도전",
-      "state": "+",
-      "change": "7"
-    },
-    {
-      "rank": 5,
-      "keyword": "종로한복축제 개막 퍼레이드",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "KT 4연승 선두 수성",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 7,
-      "keyword": "이혼 3년차 라이머, 충격 집 상태",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "김승원 자녀 위장전입 송구",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 9,
-      "keyword": "굽네 신제품 런칭 참석",
+      "keyword": "신제품 파티 참석",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "박명수 할명수 제작진에 용돈 쾌척",
+      "rank": 5,
+      "keyword": "샤이니 민호 연애관 솔직 고백",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "2026년 9월 12일 운세",
       "state": "+",
-      "change": "3"
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "최저 12도 일교차 15도",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "혼자 산다 특별한 이유",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "9·11 25주년 추모식 진행",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 10,
+      "keyword": "후티, 바브엘만데브 해협 장악",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
