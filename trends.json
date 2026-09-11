@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-11T06:16:45.287Z",
+  "updatedAt": "2026-09-11T11:28:41.068Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "mlb",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "홍준표",
+      "keyword": "남편",
       "traffic": "2000+"
     },
     {
+      "rank": 2,
+      "keyword": "서현숙",
+      "traffic": "500+"
+    },
+    {
       "rank": 3,
-      "keyword": "갤럽",
+      "keyword": "동아일보",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "테니스",
-      "traffic": "2000+"
+      "keyword": "이준기",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "jtbc",
-      "traffic": "500+"
+      "keyword": "아버지",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "귀금속",
-      "traffic": "2000+"
+      "keyword": "xsmn",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "김강우",
+      "keyword": "박정훈",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "이용진",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "앤 해서웨이",
+      "keyword": "홍정도",
       "traffic": "200+"
     },
     {
+      "rank": 9,
+      "keyword": "nc 대 한화",
+      "traffic": "5000+"
+    },
+    {
       "rank": 10,
-      "keyword": "유보영",
-      "traffic": "100+"
+      "keyword": "인도",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "호르무즈 파병 한 이란",
-      "state": "s",
-      "change": "0"
+      "keyword": "장동혁 해군사관학교 방문",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 2,
-      "keyword": "제넨셀 세종메디칼 피해자회견",
-      "state": "s",
-      "change": "0"
+      "keyword": "KB금융 차기 회장 이재근",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "한성숙 총리, 암참 간담회 참석",
+      "keyword": "문도엽, 신한동해오픈 2R 선두",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "증인 출석하는 김종인",
-      "state": "n",
+      "keyword": "서울 시내버스 16일 파업 예고",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김수현 소송 승소",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 6,
-      "keyword": "명태균 여론조사 윤 석열 징역 4년",
+      "keyword": "김승원 자녀 교육위장전입 송구",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "종로한복축제 개막 퍼레이드",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "법원의 날 조희대 대법원장",
+      "keyword": "용산공원 청년주택 반대",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "한동훈 의원 발언",
-      "state": "-",
-      "change": "1"
+      "keyword": "힐리어드, 2타점 활약",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이동건 측, 제주 카페 정리 완료",
+      "keyword": "K-BATTERY SHOW 2026에서 혁신 소개",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이재명 대통령 수석보좌관회의",
+      "keyword": "벌레 나와 전액 환불",
       "state": "n",
       "change": "0"
     }
