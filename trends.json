@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-11T15:08:11.867Z",
+  "updatedAt": "2026-09-11T18:26:31.417Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "중앙일보",
-      "traffic": "2000+"
+      "keyword": "x",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "니콜 키드먼",
+      "keyword": "손예진 아들",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "공인중개사",
-      "traffic": "500+"
+      "keyword": "코믹월드",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "김원호",
-      "traffic": "500+"
+      "keyword": "타짜",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "대한민국의 대법관",
-      "traffic": "5000+"
+      "keyword": "원자로",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "마무리 투수",
+      "keyword": "네이버웹툰",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "경복궁",
-      "traffic": "200+"
+      "keyword": "파이널 테이블",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "cpi 발표",
-      "traffic": "500+"
+      "keyword": "이엘리야",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "라이머",
-      "traffic": "100+"
+      "keyword": "더커뮤니티2",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "전소연",
-      "traffic": "500+"
+      "keyword": "옵세션",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "유부녀 킬러 드라마",
+      "keyword": "美 8월 물가 3.4% 상승",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "직원의 개입에 총리",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "美 8월 물가 상승 3.4%",
-      "state": "-",
+      "keyword": "수시 원서접수 1시간 연장",
+      "state": "+",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "주말 아침 쌀쌀하나 낮엔 덥다",
+      "rank": 3,
+      "keyword": "KB금융 챔피언십 2라운드",
       "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "경복궁 소리 채집 도전",
+      "state": "+",
+      "change": "7"
     },
     {
       "rank": 5,
-      "keyword": "이주은 PD 웨딩 재혼",
-      "state": "n",
-      "change": "0"
+      "keyword": "종로한복축제 개막 퍼레이드",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "KB금융 챔피언십 2라운드",
-      "state": "-",
-      "change": "2"
+      "keyword": "KT 4연승 선두 수성",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "안현모와 이혼 라이머",
-      "state": "-",
+      "keyword": "이혼 3년차 라이머, 충격 집 상태",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "수시 원서접수 1시간 연장",
+      "keyword": "김승원 자녀 위장전입 송구",
       "state": "-",
       "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "박위 케냐 논란",
+      "keyword": "굽네 신제품 런칭 참석",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "단풍 30일 설악산부터",
-      "state": "n",
-      "change": "0"
+      "keyword": "박명수 할명수 제작진에 용돈 쾌척",
+      "state": "+",
+      "change": "3"
     }
   ]
 }
