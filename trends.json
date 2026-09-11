@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-10T23:34:47.060Z",
+  "updatedAt": "2026-09-11T01:25:12.092Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "앤 트로픽",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "manchester united f.c. vs sabah fk standings",
+      "keyword": "슈퍼맨이 돌아왔다",
       "traffic": "1000+"
     },
     {
-      "rank": 3,
-      "keyword": "요르단",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "삼성 전자 월세",
+      "rank": 2,
+      "keyword": "대한민국 의 대법관",
       "traffic": "500+"
     },
     {
-      "rank": 5,
-      "keyword": "ott 서비스",
+      "rank": 3,
+      "keyword": "리노베이션",
       "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "제시카 페굴라",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "pba 팀리그",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "양민혁",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "베트남 축구 국가대표팀",
+      "keyword": "스페이스x",
       "traffic": "100+"
     },
     {
+      "rank": 7,
+      "keyword": "마우리시오 포체티노",
+      "traffic": "500+"
+    },
+    {
       "rank": 8,
-      "keyword": "카카오모빌리티",
-      "traffic": "200+"
+      "keyword": "연금복권720+",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "암호화폐",
-      "traffic": "200+"
+      "keyword": "코모",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "폴더 블 스마트 폰",
-      "traffic": "2000+"
+      "keyword": "반찬",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "추석 물류센터 분주",
+      "keyword": "답하는 김승원 후보자",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김민재 결장 뮌헨 5-0 대승",
-      "state": "+",
-      "change": "6"
+      "keyword": "코스피 하락 시작",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "야당 의원 용혜인 정면돌파",
-      "state": "-",
+      "keyword": "탑, 자카르타 공연 취소",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "특수폭행 피소 승리, 억울함 호소",
-      "state": "-",
-      "change": "1"
+      "keyword": "김하성 2타점 적시타로 팀 승리",
+      "state": "+",
+      "change": "7"
     },
     {
       "rank": 5,
-      "keyword": "뉴욕증시 유가 국채금리",
+      "keyword": "발언하는 정점식 원내대표",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "일자리 으뜸기업 2년 선정",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "협상 김정관 미국행",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 7,
-      "keyword": "탈북 여성 시신 발견",
-      "state": "n",
-      "change": "0"
+      "keyword": "9월 수출 역대 최대",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "화장품 외판원 10억 날려",
-      "state": "n",
-      "change": "0"
+      "keyword": "기아, 우정사업본부에 PV5 공급",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "박수홍 98억 소송 연기",
+      "keyword": "제네시스 GV90 특별 전시",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "정숙, 미스터 최 배신에 분노 폭발",
+      "keyword": "대한항공 스타링크 무료 와이파이",
       "state": "n",
       "change": "0"
     }
