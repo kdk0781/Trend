@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-11T23:12:33.092Z",
+  "updatedAt": "2026-09-12T01:08:36.007Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이강인",
-      "traffic": "2000+"
+      "keyword": "김호령",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "중앙일보 오늘의 운세",
-      "traffic": "1000+"
+      "keyword": "벤 셸턴",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "세계지식포럼",
-      "traffic": "100+"
+      "keyword": "도루",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "명태균",
-      "traffic": "2000+"
+      "keyword": "아스트리드 공주",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "유격수",
-      "traffic": "200+"
+      "keyword": "天気",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "루카스 베리발",
-      "traffic": "500+"
+      "keyword": "박명수",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "체포",
-      "traffic": "2000+"
+      "keyword": "통장",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "대학",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "us 오픈",
+      "keyword": "m",
       "traffic": "200+"
     },
     {
+      "rank": 9,
+      "keyword": "안세영",
+      "traffic": "5000+"
+    },
+    {
       "rank": 10,
-      "keyword": "박재현",
-      "traffic": "20000+"
+      "keyword": "송지호 바다하늘길",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "북한, 동해 미상 발사",
-      "state": "n",
+      "keyword": "북 탄도미사일 발사",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "류화영 오늘 결혼",
-      "state": "+",
-      "change": "2"
+      "keyword": "NC 클레빈저 영입",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "韓 대표 열악한 숙소",
+      "keyword": "류화영 오늘 결혼",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "2026년 9월 12일 운세",
+      "keyword": "인터뷰하는 김지홍 대표변호사",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "트럼프 9·11 테러는 잊지 않을 악",
+      "keyword": "한동훈 비밀누설 의혹",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "경복궁 소리 채집 도전",
-      "state": "-",
-      "change": "4"
+      "keyword": "4년 만에 근황 공개",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "뉴욕증시 5일 만에 반등",
-      "state": "+",
-      "change": "3"
+      "keyword": "하이브 걸 그룹 성추행",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "현빈 손예진 아들 외모 화제",
-      "state": "-",
-      "change": "2"
+      "keyword": "이유영, 둘째 출산했다",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "주말 일교차 15도",
+      "keyword": "이호재 첫 선발 다름슈타트도",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "비서진 서인영, 이서진과 연애 상담 후 속옷 화보 촬영.",
+      "keyword": "황희찬 데뷔전서 도움",
       "state": "n",
       "change": "0"
     }
