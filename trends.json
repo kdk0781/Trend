@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-12T05:43:39.345Z",
+  "updatedAt": "2026-09-12T09:36:50.345Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이범호",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "비행기",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "경찰",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "lck",
+      "keyword": "안리원",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
-      "keyword": "궁금한 이야기 y",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "오스틴 딘",
+      "rank": 2,
+      "keyword": "대한민국 교육부",
       "traffic": "500+"
     },
     {
-      "rank": 7,
-      "keyword": "사모펀드",
+      "rank": 3,
+      "keyword": "호시",
       "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "박수진",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "기부",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "술",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "persija jakarta vs persib bandung",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "유가",
-      "traffic": "200+"
+      "keyword": "k리그1",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "대한민국 과학기술정보통신부",
+      "keyword": "프랑코 마스탄투오노",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "집",
-      "traffic": "2000+"
+      "keyword": "t1",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "윤주석 KDRT 네팔 도착",
-      "state": "s",
-      "change": "0"
+      "keyword": "호르무즈 파병 반대행진",
+      "state": "+",
+      "change": "14"
     },
     {
       "rank": 2,
-      "keyword": "안정환 딸 취직 소식",
-      "state": "s",
-      "change": "0"
+      "keyword": "KB금융 챔피언십 3라운드 경기",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "김하성, 동점 끝내기 활약!",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "김승원, 검찰 중립성 지휘",
+      "keyword": "신지수 홍콩-서울 연애 2년 반",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "유부녀 킬러 드라마",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "60대 母 찌른 아들 체포",
+      "keyword": "강민호 선제 투런포",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "기독교 개종 이란인 난민 인정 필요",
+      "keyword": "수시 먹통 형평성 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "호시 부상 전방십자인대 파열",
-      "state": "s",
+      "keyword": "살인 피의자 냉동창고 주문",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "여고생 제자 3년 폭행 사건",
+      "keyword": "진도 해상 가족 3명 심정지",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "근로기준법 적용 집회",
-      "state": "n",
+      "keyword": "김도균 감독 승강 PO 필승 다짐",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "조이 예쁘지 않으면 불안해",
-      "state": "+",
-      "change": "66"
+      "keyword": "김보라 둘째 성별 공개",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
