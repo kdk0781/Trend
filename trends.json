@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-12T20:44:08.777Z",
+  "updatedAt": "2026-09-12T22:36:17.020Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "아시안 게임",
-      "traffic": "100+"
+      "keyword": "송혜교",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "real madrid vs rayo vallecano",
-      "traffic": "200+"
+      "keyword": "이강인",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "석유",
+      "keyword": "북한이탈주민",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "공휴일",
-      "traffic": "1000+"
+      "keyword": "회사",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "이지아",
-      "traffic": "500+"
+      "keyword": "맨체스터 유나이티드 fc",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "서정희",
-      "traffic": "200+"
+      "keyword": "에너지",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "아스날",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "추미애",
+      "keyword": "고우석",
       "traffic": "500+"
     },
     {
+      "rank": 8,
+      "keyword": "реал мадрид – райо вальекано",
+      "traffic": "100+"
+    },
+    {
       "rank": 9,
-      "keyword": "디아블로5",
+      "keyword": "xrp 레저",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "입양",
-      "traffic": "200+"
+      "keyword": "동아일보",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "사랑이 온다 남매 갈등",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 2,
-      "keyword": "프로야구 1100만 관중 돌파",
+      "keyword": "이창동, 가능한 사랑 베니스 심사위원대상",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "이지연, 21기 영철과 결혼 발표",
+      "rank": 2,
+      "keyword": "유기현-김영, 역사 앞에서",
       "state": "+",
-      "change": "29"
+      "change": "3"
+    },
+    {
+      "rank": 3,
+      "keyword": "2026년 9월 13일 운세",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "의사와 국세청 허성범 가족",
-      "state": "n",
+      "keyword": "너 말고 다른 연애",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이필모 부친상 소식",
-      "state": "-",
-      "change": "2"
+      "keyword": "이은결 마술에 200억 사용",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "포핸즈",
+      "keyword": "이지연, 21기 영철과 결혼 발표",
       "state": "+",
-      "change": "14"
+      "change": "5"
     },
     {
       "rank": 7,
-      "keyword": "2026년 9월 13일 운세",
-      "state": "-",
-      "change": "2"
+      "keyword": "바레인 호르무즈 불참",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "구창모 10승 달성!",
+      "keyword": "안정환 딸, 뉴욕대 졸업후 취직",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이은결 환상 현실 쾌감",
+      "keyword": "베트남 대표팀 부친상",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "KB금융 챔피언십 3라운드",
+      "keyword": "이필모 부친상 소식",
       "state": "+",
-      "change": "7"
+      "change": "3"
     }
   ]
 }
