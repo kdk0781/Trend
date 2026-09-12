@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-12T16:14:03.209Z",
+  "updatedAt": "2026-09-12T18:25:40.241Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "프리미어리그",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "블리치",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "광명시의회",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "ngoại hạng anh",
+      "keyword": "twitch",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "도경완",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "연애",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "토트넘 대 에버턴",
+      "traffic": "10000+"
+    },
+    {
       "rank": 5,
-      "keyword": "premier league",
+      "keyword": "pl",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "리버풀",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "허성범",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "เชลซี พบ ฮัลล์ซิตี",
+      "keyword": "이은결",
       "traffic": "200+"
     },
     {
+      "rank": 7,
+      "keyword": "프리미어리그",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "블리치",
+      "traffic": "500+"
+    },
+    {
       "rank": 9,
-      "keyword": "헐시티",
-      "traffic": "1000+"
+      "keyword": "epl",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "구창모",
-      "traffic": "100+"
+      "keyword": "ngoại hạng anh",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "KB금융 챔피언십 3라운드 경기",
-      "state": "s",
-      "change": "0"
+      "keyword": "브릭스 제재 반대",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "호르무즈 파병 반대",
+      "keyword": "프로야구 1100만 관중 돌파",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 3,
+      "keyword": "이필모 오늘 부친상",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "이필모 부친상 발표",
-      "state": "+",
-      "change": "6"
-    },
-    {
       "rank": 4,
-      "keyword": "브릭스 일방 제재 반대",
-      "state": "n",
-      "change": "0"
+      "keyword": "춘천인형극제 개막 퍼레이드",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "이지연, 영철과 결혼 밝혀",
-      "state": "+",
+      "keyword": "LG 4연패 탈출",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "오스틴 홈런 폭발",
-      "state": "n",
-      "change": "0"
+      "keyword": "KB금융 챔피언십 3라운드 경기",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 7,
-      "keyword": "너 말고 다른 연애",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "춘천인형극제 개막 퍼레이드",
+      "keyword": "1241회 로또 1등은 18명",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "허성범, IQ 151 영재고 1% 출신",
+      "rank": 8,
+      "keyword": "오상진 김소영, 자녀 교육 논란",
       "state": "+",
-      "change": "1"
+      "change": "3"
+    },
+    {
+      "rank": 9,
+      "keyword": "KT 5연승 계속",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이창동 사랑상 수상",
-      "state": "-",
-      "change": "7"
+      "keyword": "고명환 맛집 해외 진출",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
