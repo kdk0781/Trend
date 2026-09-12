@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-12T18:25:40.241Z",
+  "updatedAt": "2026-09-12T20:44:08.777Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "twitch",
+      "keyword": "아시안 게임",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "도경완",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "연애",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "토트넘 대 에버턴",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "pl",
+      "keyword": "real madrid vs rayo vallecano",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "석유",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "공휴일",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "이지아",
+      "traffic": "500+"
+    },
+    {
       "rank": 6,
-      "keyword": "이은결",
+      "keyword": "서정희",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "프리미어리그",
-      "traffic": "2000+"
+      "keyword": "아스날",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "블리치",
+      "keyword": "추미애",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "epl",
-      "traffic": "2000+"
+      "keyword": "디아블로5",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "ngoại hạng anh",
+      "keyword": "입양",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "브릭스 제재 반대",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "프로야구 1100만 관중 돌파",
+      "keyword": "사랑이 온다 남매 갈등",
       "state": "+",
       "change": "4"
     },
     {
-      "rank": 3,
-      "keyword": "이필모 오늘 부친상",
+      "rank": 2,
+      "keyword": "프로야구 1100만 관중 돌파",
       "state": "s",
       "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "이지연, 21기 영철과 결혼 발표",
+      "state": "+",
+      "change": "29"
     },
     {
       "rank": 4,
-      "keyword": "춘천인형극제 개막 퍼레이드",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "LG 4연패 탈출",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "KB금융 챔피언십 3라운드 경기",
-      "state": "-",
-      "change": "5"
-    },
-    {
-      "rank": 7,
-      "keyword": "1241회 로또 1등은 18명",
-      "state": "s",
+      "keyword": "의사와 국세청 허성범 가족",
+      "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "오상진 김소영, 자녀 교육 논란",
+      "rank": 5,
+      "keyword": "이필모 부친상 소식",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "포핸즈",
       "state": "+",
-      "change": "3"
+      "change": "14"
+    },
+    {
+      "rank": 7,
+      "keyword": "2026년 9월 13일 운세",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "구창모 10승 달성!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "KT 5연승 계속",
+      "keyword": "이은결 환상 현실 쾌감",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "고명환 맛집 해외 진출",
-      "state": "n",
-      "change": "0"
+      "keyword": "KB금융 챔피언십 3라운드",
+      "state": "+",
+      "change": "7"
     }
   ]
 }
