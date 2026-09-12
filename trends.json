@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-12T13:06:02.230Z",
+  "updatedAt": "2026-09-12T16:14:03.209Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "로또1241",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "사고",
+      "keyword": "프리미어리그",
       "traffic": "1000+"
     },
     {
-      "rank": 3,
-      "keyword": "아이폰 사전예약",
+      "rank": 2,
+      "keyword": "블리치",
       "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "광명시의회",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "블리자드 엔터테인먼트",
-      "traffic": "200+"
+      "keyword": "ngoại hạng anh",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "apple store",
+      "keyword": "premier league",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "하이마트",
-      "traffic": "100+"
+      "keyword": "리버풀",
+      "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "경찰관",
-      "traffic": "100+"
+      "keyword": "허성범",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "메이저 리그 베이스볼",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "mbc",
+      "keyword": "เชลซี พบ ฮัลล์ซิตี",
       "traffic": "200+"
     },
     {
+      "rank": 9,
+      "keyword": "헐시티",
+      "traffic": "1000+"
+    },
+    {
       "rank": 10,
-      "keyword": "김정은",
-      "traffic": "2000+"
+      "keyword": "구창모",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "사랑이 온다, 갈등이 깊어져.",
+      "keyword": "KB금융 챔피언십 3라운드 경기",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "춘천인형극제 개막 퍼레이드",
+      "keyword": "호르무즈 파병 반대",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "로또 1등 18명 16억3000만원",
+      "keyword": "이필모 부친상 발표",
+      "state": "+",
+      "change": "6"
+    },
+    {
+      "rank": 4,
+      "keyword": "브릭스 일방 제재 반대",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "LG 4연패 탈출!",
-      "state": "+",
-      "change": "2"
-    },
-    {
       "rank": 5,
-      "keyword": "KB금융 챔피언십 3라운드 경기",
-      "state": "-",
-      "change": "2"
+      "keyword": "이지연, 영철과 결혼 밝혀",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "브릭스 제재 반대",
+      "keyword": "오스틴 홈런 폭발",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "조민아, 허리와 성대 문제 발생",
-      "state": "+",
-      "change": "8"
+      "keyword": "너 말고 다른 연애",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "트럼프 이란 전쟁 중간선거 후 끝난다",
-      "state": "n",
+      "keyword": "춘천인형극제 개막 퍼레이드",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "개혁 선명성 경계해야",
-      "state": "n",
-      "change": "0"
+      "keyword": "허성범, IQ 151 영재고 1% 출신",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "자연임신 둘째 아들인가",
-      "state": "n",
-      "change": "0"
+      "keyword": "이창동 사랑상 수상",
+      "state": "-",
+      "change": "7"
     }
   ]
 }
