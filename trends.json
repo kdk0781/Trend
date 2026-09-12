@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-12T01:08:36.007Z",
+  "updatedAt": "2026-09-12T05:43:39.345Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김호령",
+      "keyword": "이범호",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "벤 셸턴",
-      "traffic": "200+"
+      "keyword": "비행기",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "도루",
-      "traffic": "200+"
+      "keyword": "경찰",
+      "traffic": "5000+"
     },
     {
       "rank": 4,
-      "keyword": "아스트리드 공주",
-      "traffic": "200+"
+      "keyword": "lck",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "天気",
+      "keyword": "궁금한 이야기 y",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "박명수",
-      "traffic": "100+"
+      "keyword": "오스틴 딘",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "통장",
-      "traffic": "100+"
+      "keyword": "사모펀드",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "m",
+      "keyword": "유가",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "안세영",
-      "traffic": "5000+"
+      "keyword": "대한민국 과학기술정보통신부",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "송지호 바다하늘길",
-      "traffic": "500+"
+      "keyword": "집",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "북 탄도미사일 발사",
+      "keyword": "윤주석 KDRT 네팔 도착",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "NC 클레빈저 영입",
-      "state": "n",
+      "keyword": "안정환 딸 취직 소식",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "류화영 오늘 결혼",
-      "state": "n",
+      "keyword": "김하성, 동점 끝내기 활약!",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "인터뷰하는 김지홍 대표변호사",
-      "state": "-",
-      "change": "1"
+      "keyword": "김승원, 검찰 중립성 지휘",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "한동훈 비밀누설 의혹",
+      "keyword": "60대 母 찌른 아들 체포",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "4년 만에 근황 공개",
+      "keyword": "기독교 개종 이란인 난민 인정 필요",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "하이브 걸 그룹 성추행",
-      "state": "n",
+      "keyword": "호시 부상 전방십자인대 파열",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이유영, 둘째 출산했다",
+      "keyword": "여고생 제자 3년 폭행 사건",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이호재 첫 선발 다름슈타트도",
+      "keyword": "근로기준법 적용 집회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "황희찬 데뷔전서 도움",
-      "state": "n",
-      "change": "0"
+      "keyword": "조이 예쁘지 않으면 불안해",
+      "state": "+",
+      "change": "66"
     }
   ]
 }
