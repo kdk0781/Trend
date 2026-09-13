@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-13T21:37:50.474Z",
+  "updatedAt": "2026-09-13T23:28:18.545Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "태풍",
-      "traffic": "2000+"
+      "keyword": "김기동",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "드라마",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "테슬라",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "알렉산더 즈베레프",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "이동국",
+      "keyword": "문동주",
       "traffic": "500+"
     },
     {
+      "rank": 3,
+      "keyword": "리노베이션",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "l g 에너지 솔루션",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "장인화",
+      "traffic": "200+"
+    },
+    {
       "rank": 6,
-      "keyword": "김주애",
+      "keyword": "전소미",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "알테오젠",
-      "traffic": "200+"
+      "keyword": "f-35a",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "하석진",
-      "traffic": "200+"
+      "keyword": "오늘날씨",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "대한민국의 대법관",
-      "traffic": "1000+"
+      "keyword": "김동관",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "오스틴 딘",
-      "traffic": "200+"
+      "keyword": "klasemen manchester united f.c. vs man city",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "카자흐스탄 대통령 방한",
-      "state": "s",
+      "keyword": "이재근 차기 회장 소감",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "주상욱, 김부장에 순금 선물",
-      "state": "+",
-      "change": "3"
+      "keyword": "이강인 아틀레티코 3-0 승리",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "사랑이 온다, 가족 갈등.",
+      "keyword": "하석진과 사랑이 온다",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "이란·걸프국 회의 연기",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "용혜인 후보직 사퇴",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "재벌 형사 시즌2",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "포핸즈 성인이 이준영 찾기",
-      "state": "-",
-      "change": "2"
+      "rank": 7,
+      "keyword": "포핸즈 송강, 이준영 찾기",
+      "state": "+",
+      "change": "1"
     },
     {
-      "rank": 6,
+      "rank": 8,
+      "keyword": "신동엽 소지섭 순금 선물",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
       "keyword": "23기 옥순",
       "state": "+",
       "change": "3"
     },
     {
-      "rank": 7,
-      "keyword": "트럼프, AI 속도조절 반대세력",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 8,
-      "keyword": "2026년 9월 14일 운세",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "하현승 7이닝 완봉승!",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 10,
-      "keyword": "용혜인 자진 사퇴",
+      "keyword": "대입 수시접수 구제 연장",
       "state": "n",
       "change": "0"
     }
