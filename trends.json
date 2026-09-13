@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-13T19:35:30.399Z",
+  "updatedAt": "2026-09-13T21:37:50.474Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "us open",
-      "traffic": "100+"
+      "keyword": "태풍",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "레알 소시에다드 대 아틀레티코",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "김민재",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "levante ud vs fc barcelona standings",
+      "keyword": "드라마",
       "traffic": "200+"
     },
     {
-      "rank": 5,
-      "keyword": "at마드리드",
-      "traffic": "100+"
+      "rank": 3,
+      "keyword": "테슬라",
+      "traffic": "200+"
     },
     {
-      "rank": 6,
-      "keyword": "프리미어리그",
+      "rank": 4,
+      "keyword": "알렉산더 즈베레프",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "이동국",
       "traffic": "500+"
     },
     {
+      "rank": 6,
+      "keyword": "김주애",
+      "traffic": "200+"
+    },
+    {
       "rank": 7,
-      "keyword": "pl",
-      "traffic": "100+"
+      "keyword": "알테오젠",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "nfl",
+      "keyword": "하석진",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "김원효",
-      "traffic": "200+"
+      "keyword": "대한민국의 대법관",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "라민 야말",
-      "traffic": "100+"
+      "keyword": "오스틴 딘",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "U-18 야구 8년 만에 정상",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "수시 원서 먹통 1200명 구제",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "손예진 아들, 배우 하기 힘든 비주얼",
+      "keyword": "카자흐스탄 대통령 방한",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "주상욱, 김부장에 순금 선물",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 3,
+      "keyword": "사랑이 온다, 가족 갈등.",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 4,
-      "keyword": "임찬규 100승 축하해요",
+      "keyword": "재벌 형사 시즌2",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "사랑의 갈등 온다",
-      "state": "s",
-      "change": "0"
+      "keyword": "포핸즈 성인이 이준영 찾기",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "재벌 형사 시즌2",
+      "keyword": "23기 옥순",
       "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "송강, 이준영 찾기 시작",
-      "state": "-",
       "change": "3"
     },
     {
+      "rank": 7,
+      "keyword": "트럼프, AI 속도조절 반대세력",
+      "state": "+",
+      "change": "6"
+    },
+    {
       "rank": 8,
-      "keyword": "서울 칼부림 80대 체포",
+      "keyword": "2026년 9월 14일 운세",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "하현승 7이닝 완봉승!",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "주상욱, 김부장 순금 선물",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 10,
-      "keyword": "2026년 9월 14일 운세",
+      "keyword": "용혜인 자진 사퇴",
       "state": "n",
       "change": "0"
     }
