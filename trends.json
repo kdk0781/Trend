@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-13T13:59:33.533Z",
+  "updatedAt": "2026-09-13T17:20:26.066Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "홍창기",
-      "traffic": "1000+"
+      "keyword": "헐크",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "정치",
-      "traffic": "1000+"
+      "keyword": "바이에른 뮌헨",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "al",
-      "traffic": "200+"
+      "keyword": "킹콩",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "f1",
-      "traffic": "1000+"
+      "keyword": "แมนยู พบ แมนซิตี",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "100 일 의 거짓말",
-      "traffic": "10000+"
+      "keyword": "man utd đấu với man city",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "김우빈",
-      "traffic": "2000+"
+      "keyword": "man utd vs man city",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "경제",
-      "traffic": "2000+"
+      "keyword": "고우림",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "삼성디스플레이",
-      "traffic": "200+"
+      "keyword": "леванте – барселона",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "선박 좌초",
-      "traffic": "200+"
+      "keyword": "맨유 대 맨 시티",
+      "traffic": "20000+"
     },
     {
       "rank": 10,
-      "keyword": "신탁",
-      "traffic": "500+"
+      "keyword": "재혼",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김도영 최연소 100득점",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "사랑이 온다 남매 갈등",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
       "keyword": "귀국하는 김정관 장관",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "부안 아파트 화재, 엄마 사망, 아들 추락",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "39호 오스틴 홈런",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "하현승, 노히트 완봉 우승",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 7,
-      "keyword": "지예은, 티파니 반지 받고 울다!",
+      "rank": 2,
+      "keyword": "김도영 최연소 40홈런-100타점-100득점",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "현빈 손예진 아들 자랑 후회",
-      "state": "-",
-      "change": "5"
-    },
-    {
-      "rank": 9,
-      "keyword": "당정 사법 통제부 검토",
-      "state": "-",
+      "rank": 3,
+      "keyword": "지예은, 티파니 반지 받다",
+      "state": "+",
       "change": "1"
     },
     {
+      "rank": 4,
+      "keyword": "당정 사법통제부 명칭 변경 검토",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "시스템 장애 원서접수 실패 1200여명",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "너 말고 다른 연애",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "용혜인 사퇴 사건",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "손예진 아들, 배우 하기 힘든 외모",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "신군부 정호용 사망",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 10,
-      "keyword": "두산, 세베리노와 양의지의 홈런 성폭발",
-      "state": "n",
-      "change": "0"
+      "keyword": "U-18 야구 8년 만에 정상 등극",
+      "state": "+",
+      "change": "7"
     }
   ]
 }
