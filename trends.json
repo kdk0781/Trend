@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-13T04:51:56.682Z",
+  "updatedAt": "2026-09-13T09:54:03.336Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "퇴직",
-      "traffic": "1000+"
+      "keyword": "런닝맨",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "트럭",
-      "traffic": "1000+"
+      "keyword": "이더리움",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "허인서",
-      "traffic": "100+"
+      "keyword": "한지은",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "인공지능",
-      "traffic": "200+"
+      "keyword": "당구",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "젠데이아",
-      "traffic": "100+"
+      "keyword": "신상열",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "fifa u-20 여자 월드컵",
-      "traffic": "200+"
+      "keyword": "고구마",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "종합부동산세",
-      "traffic": "1000+"
+      "keyword": "성현주",
+      "traffic": "10000+"
     },
     {
       "rank": 8,
-      "keyword": "이유비",
-      "traffic": "100+"
+      "keyword": "선박",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "코너 맥그리거",
-      "traffic": "1000+"
+      "keyword": "채권",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "이시언",
-      "traffic": "1000+"
+      "keyword": "오은영 리포트 - 결혼지옥",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "용혜인 장관 사퇴",
+      "keyword": "발언하는 김민석 대표",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "모레노 임시 감독의 포부",
-      "state": "n",
+      "keyword": "박보겸 메이저 우승",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "유부녀 킬러 드라마",
+      "keyword": "당정청 회의 중",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "홍서범 조갑경 아들 외도 결론",
+      "keyword": "재벌 형사 시즌2",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "손흥민 12호 도움, LAFC 1-3 패배",
-      "state": "n",
-      "change": "0"
+      "keyword": "유부녀 킬러 드라마",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "상철 영숙 계약 결혼?",
-      "state": "+",
-      "change": "4"
+      "keyword": "북한 여자 축구팀 훈련",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "휘발유값 연속 하락",
+      "keyword": "우리가 많이 사랑해 신민아",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "권은비, 24억 건물 매니저에 내줬다.",
-      "state": "n",
-      "change": "0"
+      "keyword": "사랑이 온다, 남매 갈등.",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "결승골 백승호가 버밍엄",
-      "state": "n",
-      "change": "0"
+      "keyword": "최소라 임신 D라인 자랑",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "어떡해요 입소 시청에",
+      "keyword": "포핸즈 성인 송강, 이준영 찾기",
       "state": "n",
       "change": "0"
     }
