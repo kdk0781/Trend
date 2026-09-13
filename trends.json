@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-13T17:20:26.066Z",
+  "updatedAt": "2026-09-13T19:35:30.399Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "헐크",
+      "keyword": "us open",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "바이에른 뮌헨",
-      "traffic": "200+"
+      "keyword": "레알 소시에다드 대 아틀레티코",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "킹콩",
-      "traffic": "100+"
+      "keyword": "김민재",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "แมนยู พบ แมนซิตี",
+      "keyword": "levante ud vs fc barcelona standings",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "man utd đấu với man city",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "man utd vs man city",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "고우림",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "леванте – барселона",
+      "keyword": "at마드리드",
       "traffic": "100+"
     },
     {
+      "rank": 6,
+      "keyword": "프리미어리그",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "pl",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "nfl",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "맨유 대 맨 시티",
-      "traffic": "20000+"
+      "keyword": "김원효",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "재혼",
-      "traffic": "1000+"
+      "keyword": "라민 야말",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "귀국하는 김정관 장관",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "김도영 최연소 40홈런-100타점-100득점",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "지예은, 티파니 반지 받다",
+      "keyword": "U-18 야구 8년 만에 정상",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 2,
+      "keyword": "수시 원서 먹통 1200명 구제",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "손예진 아들, 배우 하기 힘든 비주얼",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 4,
-      "keyword": "당정 사법통제부 명칭 변경 검토",
+      "keyword": "임찬규 100승 축하해요",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "시스템 장애 원서접수 실패 1200여명",
-      "state": "+",
-      "change": "2"
+      "keyword": "사랑의 갈등 온다",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "너 말고 다른 연애",
+      "keyword": "재벌 형사 시즌2",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "용혜인 사퇴 사건",
-      "state": "+",
-      "change": "2"
+      "keyword": "송강, 이준영 찾기 시작",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "손예진 아들, 배우 하기 힘든 외모",
-      "state": "+",
-      "change": "2"
+      "keyword": "서울 칼부림 80대 체포",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "신군부 정호용 사망",
-      "state": "+",
-      "change": "2"
+      "keyword": "주상욱, 김부장 순금 선물",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "U-18 야구 8년 만에 정상 등극",
-      "state": "+",
-      "change": "7"
+      "keyword": "2026년 9월 14일 운세",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
