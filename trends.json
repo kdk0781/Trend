@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-09-13T23:28:18.545Z",
+  "updatedAt": "2026-09-14T01:24:11.501Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김기동",
-      "traffic": "100+"
+      "keyword": "신랑",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "문동주",
+      "keyword": "폴란드",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "리노베이션",
-      "traffic": "100+"
+      "keyword": "차상현",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "l g 에너지 솔루션",
-      "traffic": "100+"
+      "keyword": "노벨상",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "장인화",
-      "traffic": "200+"
+      "keyword": "이성주",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "전소미",
-      "traffic": "200+"
+      "keyword": "허준이",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "f-35a",
-      "traffic": "100+"
+      "keyword": "벌쏘임",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "오늘날씨",
-      "traffic": "100+"
+      "keyword": "afc u-23 아시안컵",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "김동관",
+      "keyword": "유웨이",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "klasemen manchester united f.c. vs man city",
-      "traffic": "100+"
+      "keyword": "마리야 샤라포바",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재근 차기 회장 소감",
-      "state": "n",
+      "keyword": "단독 콘서트 개최",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이강인 아틀레티코 3-0 승리",
+      "keyword": "출근하는 장관 후보자",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "하석진과 사랑이 온다",
+      "keyword": "발언하는 장동혁 대표",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "이란·걸프국 회의 연기",
+      "keyword": "이재근 회장 후보 1등 안주 안 해",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "용혜인 후보직 사퇴",
-      "state": "+",
-      "change": "1"
+      "keyword": "츠베레프, 메이저 2관왕 등극",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "재벌 형사 시즌2",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "포핸즈 송강, 이준영 찾기",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "신동엽 소지섭 순금 선물",
+      "keyword": "26년 슈퍼가루다실드 훈련",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "개혁신당 비대위원장에 이기인",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "추석 대책 마련",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "23기 옥순",
-      "state": "+",
-      "change": "3"
+      "keyword": "오디세이 40일 연속 1위",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "대입 수시접수 구제 연장",
-      "state": "n",
+      "keyword": "삼성·SK, 한전 25조 제안 거절",
+      "state": "s",
       "change": "0"
     }
   ]
