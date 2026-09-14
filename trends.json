@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-09-14T01:24:11.501Z",
+  "updatedAt": "2026-09-14T06:36:50.334Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "신랑",
-      "traffic": "500+"
+      "keyword": "자전거",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "폴란드",
-      "traffic": "500+"
+      "keyword": "나성범",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "차상현",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "노벨상",
+      "keyword": "축제",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "공효진",
+      "traffic": "2000+"
+    },
+    {
       "rank": 5,
-      "keyword": "이성주",
-      "traffic": "100+"
+      "keyword": "윤건영",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "허준이",
-      "traffic": "100+"
+      "keyword": "대형주",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "벌쏘임",
+      "keyword": "세무조사",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "afc u-23 아시안컵",
-      "traffic": "500+"
+      "keyword": "이봉주",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "유웨이",
-      "traffic": "500+"
+      "keyword": "배우",
+      "traffic": "20000+"
     },
     {
       "rank": 10,
-      "keyword": "마리야 샤라포바",
-      "traffic": "200+"
+      "keyword": "여객기",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "단독 콘서트 개최",
+      "keyword": "로베르트 모레노 감독 인사",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "출근하는 장관 후보자",
+      "keyword": "추석 앞둔 조기 지급",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "발언하는 장동혁 대표",
+      "keyword": "권은비, 차량 사고로 일정 취소",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "이재근 회장 후보 1등 안주 안 해",
+      "keyword": "파주 냉동창고 살인 피의자 호송",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "조희대 대법원장 총회 참석",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "츠베레프, 메이저 2관왕 등극",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 6,
-      "keyword": "26년 슈퍼가루다실드 훈련",
+      "keyword": "김종철 경찰청장 직무대행",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "개혁신당 비대위원장에 이기인",
+      "keyword": "이재명, 아시아개발은행 총재 접견",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "여자 배구팀 인터뷰",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "포핸즈 극적 귀환",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "추석 대책 마련",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "오디세이 40일 연속 1위",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 10,
-      "keyword": "삼성·SK, 한전 25조 제안 거절",
-      "state": "s",
+      "keyword": "아시안게임 D-5, 아직 준비 중",
+      "state": "n",
       "change": "0"
     }
   ]
