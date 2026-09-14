@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-09-14T18:40:52.721Z",
+  "updatedAt": "2026-09-14T22:05:29.913Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "함소원",
+      "keyword": "백신",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "마약",
+      "keyword": "삼성물산",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "전투기 조종사",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "그랜드 테프트 오토 vi",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "트리니티항공",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "후보",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "정혁",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "강균성",
+      "keyword": "통합특별시",
       "traffic": "1000+"
     },
     {
+      "rank": 4,
+      "keyword": "아크인베스트",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "우도",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "김구라",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "창신메모리테크놀로지",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "이다해",
+      "traffic": "500+"
+    },
+    {
       "rank": 9,
-      "keyword": "프리시전 캐스트 파츠",
+      "keyword": "홍석천",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "中村ゆり",
+      "keyword": "당구",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "U-18 야구대표팀 귀국",
+      "keyword": "美 10년 국채 금리 5% 돌파",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "투르크메니스탄 대통령 방한",
-      "state": "s",
+      "keyword": "현숙 광수 연애 갈등",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "정예지와 김선호의 눈물 나는 사랑",
+      "keyword": "원현준 이수진과 결혼",
       "state": "+",
-      "change": "6"
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "김민지 해트트릭 5-0 승리",
-      "state": "s",
+      "keyword": "트럼프 AI 음모 비판",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "KRX 애프터마켓 첫날 1.8조 거래",
-      "state": "s",
-      "change": "0"
+      "keyword": "생산적 금융 5년간 1560조 지원",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "美 10년물 국채 금리 5% 돌파",
+      "keyword": "김선호의 갈등",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김혜경 여사, 우즈벡 영부인과 관람",
-      "state": "n",
+      "keyword": "2026년 9월 15일 운세",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김승원 의혹 논란",
-      "state": "s",
+      "keyword": "정용화 박신혜 짝사랑 회상",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "현숙과 광수 연애전쟁",
-      "state": "+",
-      "change": "2"
+      "keyword": "아시안게임 태풍 영향 우려",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "추미애 사퇴 청원 1만명突破",
-      "state": "s",
+      "keyword": "형이 신고에도 걱정",
+      "state": "n",
       "change": "0"
     }
   ]
