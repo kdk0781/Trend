@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-09-14T13:17:46.345Z",
+  "updatedAt": "2026-09-14T18:40:52.721Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "전현무계획",
-      "traffic": "1000+"
+      "keyword": "함소원",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "lng선",
-      "traffic": "2000+"
+      "keyword": "마약",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "염경엽",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "파업",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "두산에너 빌리티",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "오타니 쇼헤이",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "임시 공휴일",
+      "keyword": "전투기 조종사",
       "traffic": "5000+"
     },
     {
-      "rank": 8,
-      "keyword": "조훈현",
+      "rank": 4,
+      "keyword": "그랜드 테프트 오토 vi",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "트리니티항공",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "후보",
       "traffic": "200+"
     },
     {
+      "rank": 7,
+      "keyword": "정혁",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "강균성",
+      "traffic": "1000+"
+    },
+    {
       "rank": 9,
-      "keyword": "삼성전자 채용",
+      "keyword": "프리시전 캐스트 파츠",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "프리시전 캐스트파츠",
-      "traffic": "200+"
+      "keyword": "中村ゆり",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "원현준 이수진 10월 결혼",
+      "keyword": "U-18 야구대표팀 귀국",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "로또 1등도 출근합니다",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 3,
       "keyword": "투르크메니스탄 대통령 방한",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "5-0으로 앞서나가는 대한민국",
+      "rank": 3,
+      "keyword": "정예지와 김선호의 눈물 나는 사랑",
       "state": "+",
-      "change": "2"
+      "change": "6"
+    },
+    {
+      "rank": 4,
+      "keyword": "김민지 해트트릭 5-0 승리",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이다해♥세븐 임신 확인喜?",
-      "state": "-",
-      "change": "3"
+      "keyword": "KRX 애프터마켓 첫날 1.8조 거래",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "추미애 사퇴 청원 1만명 넘쳐",
+      "keyword": "美 10년물 국채 금리 5% 돌파",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "재벌 형사 시즌2",
-      "state": "s",
+      "keyword": "김혜경 여사, 우즈벡 영부인과 관람",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김혜경 여사, 우즈벡 영부인 교류",
-      "state": "n",
+      "keyword": "김승원 의혹 논란",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "시드니 스위니",
-      "state": "n",
-      "change": "0"
+      "keyword": "현숙과 광수 연애전쟁",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "KRX 애프터마켓 첫날 거래 활발",
-      "state": "n",
+      "keyword": "추미애 사퇴 청원 1만명突破",
+      "state": "s",
       "change": "0"
     }
   ]
