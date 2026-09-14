@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-14T06:36:50.334Z",
+  "updatedAt": "2026-09-14T13:17:46.345Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "자전거",
-      "traffic": "2000+"
+      "keyword": "전현무계획",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "나성범",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "축제",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "공효진",
+      "keyword": "lng선",
       "traffic": "2000+"
     },
     {
+      "rank": 3,
+      "keyword": "염경엽",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "파업",
+      "traffic": "1000+"
+    },
+    {
       "rank": 5,
-      "keyword": "윤건영",
-      "traffic": "500+"
+      "keyword": "두산에너 빌리티",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "대형주",
+      "keyword": "오타니 쇼헤이",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "세무조사",
-      "traffic": "200+"
+      "keyword": "임시 공휴일",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "이봉주",
+      "keyword": "조훈현",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "배우",
-      "traffic": "20000+"
+      "keyword": "삼성전자 채용",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "여객기",
-      "traffic": "2000+"
+      "keyword": "프리시전 캐스트파츠",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "로베르트 모레노 감독 인사",
+      "keyword": "원현준 이수진 10월 결혼",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "추석 앞둔 조기 지급",
+      "keyword": "로또 1등도 출근합니다",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 3,
+      "keyword": "투르크메니스탄 대통령 방한",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "권은비, 차량 사고로 일정 취소",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 4,
-      "keyword": "파주 냉동창고 살인 피의자 호송",
+      "keyword": "5-0으로 앞서나가는 대한민국",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "조희대 대법원장 총회 참석",
-      "state": "n",
-      "change": "0"
+      "keyword": "이다해♥세븐 임신 확인喜?",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "김종철 경찰청장 직무대행",
-      "state": "n",
+      "keyword": "추미애 사퇴 청원 1만명 넘쳐",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "이재명, 아시아개발은행 총재 접견",
-      "state": "-",
-      "change": "1"
+      "keyword": "재벌 형사 시즌2",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "여자 배구팀 인터뷰",
-      "state": "-",
-      "change": "2"
+      "keyword": "김혜경 여사, 우즈벡 영부인 교류",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "포핸즈 극적 귀환",
+      "keyword": "시드니 스위니",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "아시안게임 D-5, 아직 준비 중",
+      "keyword": "KRX 애프터마켓 첫날 거래 활발",
       "state": "n",
       "change": "0"
     }
