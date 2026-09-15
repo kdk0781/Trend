@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-15T10:07:11.949Z",
+  "updatedAt": "2026-09-15T14:56:34.575Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "kt 대 한화",
-      "traffic": "5000+"
+      "keyword": "정종철",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "lg 대 nc",
-      "traffic": "2000+"
+      "keyword": "기름",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "마라톤",
+      "keyword": "양상국",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "cgv",
+      "keyword": "대한민국 교육부",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "부정승차",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "로버트 패틴슨",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "kia 대 ssg",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "휴지",
+      "keyword": "패션",
       "traffic": "1000+"
     },
     {
-      "rank": 9,
-      "keyword": "australia vs zimbabwe",
+      "rank": 6,
+      "keyword": "윤여정",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "양민혁",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "안현모",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "상장지수 펀드",
+      "traffic": "1000+"
+    },
+    {
       "rank": 10,
-      "keyword": "송가 인",
+      "keyword": "lg이노텍",
       "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "2026 소비자만족 1위 수상",
+      "keyword": "서울 시내버스 파업 결렬",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "한동훈 의원 관련 기자회견",
-      "state": "n",
+      "keyword": "엄지성 해트트릭 이민성호 카타르 제압",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "GTX-C 모형 공개",
+      "keyword": "문과라 치료제 문과",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "류지현 감독과 김도영",
+      "keyword": "이진숙 박지원 고소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "주연, A형 독감 확진",
+      "keyword": "정이한 피습 자작극은 부친과 관계 개선 원했다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "서울 시내버스 파업 예고",
-      "state": "s",
+      "keyword": "추미애 사퇴 청원 종료",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "송지은, 박위 침묵 속 눈물 방송",
+      "keyword": "가석방 60대 아내 찔러",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김동현, 넷째 득남 여섯 식구 됐다",
-      "state": "-",
-      "change": "3"
+      "keyword": "황정민 스토킹 항소",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "한-카자흐 MOU 체결",
-      "state": "n",
+      "keyword": "TRY EVERYTHING 2026에서 혁신 선보여",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이소영 규제 개선 필요",
-      "state": "n",
-      "change": "0"
+      "keyword": "로또 1등도 출근합니다",
+      "state": "-",
+      "change": "6"
     }
   ]
 }
