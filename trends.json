@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-15T18:40:43.877Z",
+  "updatedAt": "2026-09-15T21:46:47.358Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "톰 홀랜드",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "堀大輔",
+      "keyword": "토지거래허가제",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "อิปสวิช พบ อาร์เซนอล",
+      "traffic": "100+"
+    },
+    {
       "rank": 3,
-      "keyword": "서장훈의 이웃집 백만장자",
-      "traffic": "500+"
+      "keyword": "김부겸",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "퇴학",
+      "keyword": "장금상선",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "정종철",
-      "traffic": "500+"
+      "keyword": "치과의사",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "기름",
-      "traffic": "200+"
+      "keyword": "퀄컴",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "양상국",
-      "traffic": "500+"
+      "keyword": "기자회견",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "대한민국 교육부",
-      "traffic": "500+"
+      "keyword": "liverpool vs spurs",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "윤여정",
-      "traffic": "1000+"
+      "keyword": "광주공항",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "패션",
-      "traffic": "1000+"
+      "keyword": "아틀레티코 마드리드",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "서울 시내버스 파업 결렬",
-      "state": "s",
+      "keyword": "서울 시내버스 타결",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "엄지성 해트트릭 이민성호",
-      "state": "s",
+      "keyword": "엄지성 해트트릭 첫 승리",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이민성 감독의 집중력 개선 필요",
+      "keyword": "유승호 결혼식 동행 못 간다",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "김승원 청문회 종료",
+      "keyword": "김승원 청문회 14시간 만에 종료",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "박원숙 손녀에 오피스텔",
+      "keyword": "경쟁률 취소 검토",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "2026년 9월 16일 운세",
+      "state": "+",
+      "change": "7"
+    },
+    {
+      "rank": 7,
+      "keyword": "클래리티 법안 통과 가능성 하락",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "TRY EVERYTHING 2026서",
+      "rank": 8,
+      "keyword": "오하영 비키니 노출",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "고명준 역전 스리런포",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "조지아 구금 한국인 300명 소송",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 9,
-      "keyword": "선두 KT 7연승",
-      "state": "+",
-      "change": "1"
+      "keyword": "로또 1등도 출근합니다",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "로또 1등도 출근합니다",
-      "state": "+",
-      "change": "22"
+      "keyword": "구토할 때까지 급식 강요",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
