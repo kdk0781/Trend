@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-15T00:31:23.676Z",
+  "updatedAt": "2026-09-15T05:15:26.946Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "novig",
+      "keyword": "안젤리나 졸리",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "진중권",
-      "traffic": "2000+"
+      "keyword": "삼성 엑시노스",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "문형배",
-      "traffic": "1000+"
+      "keyword": "서동주",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "해협",
-      "traffic": "500+"
+      "keyword": "김승원",
+      "traffic": "5000+"
     },
     {
       "rank": 5,
-      "keyword": "맨체스터 유나이티드 fc",
-      "traffic": "200+"
+      "keyword": "스포츠",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "김호령",
-      "traffic": "1000+"
+      "keyword": "가출",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "박수홍",
-      "traffic": "1000+"
+      "keyword": "기뢰",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "주가",
-      "traffic": "200+"
+      "keyword": "가석방",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "띠별 운세",
+      "keyword": "옥순이",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "논술",
-      "traffic": "100+"
+      "keyword": "전인지",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "민생정책 발언하는 정책위의장",
+      "keyword": "이소영 후보자 답변",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "조규성 2도움 미트윌란 대승",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "임영웅 모이세 공개",
+      "keyword": "서울 시내버스 파업 예고",
       "state": "+",
-      "change": "8"
-    },
-    {
-      "rank": 4,
-      "keyword": "유학생 비자제한 제동",
-      "state": "-",
       "change": "3"
     },
     {
+      "rank": 3,
+      "keyword": "아시아나 마일리지 10년간 유지",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "아시안게임 기념품 매장",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 5,
-      "keyword": "태풍 두쥐안 발생 임박",
-      "state": "s",
+      "keyword": "타짜4 최국희 감독 건강 호전돼",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "최태원 변호사 불기소 항고",
+      "keyword": "정이한 자작극과 관계 개선",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김구라 이형택 택시 사건",
+      "keyword": "기묘한 세계 가을 축제",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이수진 배우",
-      "state": "-",
-      "change": "6"
+      "keyword": "관사에 12억 시민단체 고발",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "최진희 여왕 후계자 찾기 출연",
+      "keyword": "협력에 관한 양해각서 체결",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "아시안게임 출전 무산될까",
+      "keyword": "LG전자 히트펌프 아파트 설치",
       "state": "-",
-      "change": "3"
+      "change": "1"
     }
   ]
 }
