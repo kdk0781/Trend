@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-09-15T14:56:34.575Z",
+  "updatedAt": "2026-09-15T18:40:43.877Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "정종철",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "기름",
+      "keyword": "톰 홀랜드",
       "traffic": "100+"
     },
     {
-      "rank": 3,
-      "keyword": "양상국",
+      "rank": 2,
+      "keyword": "堀大輔",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "서장훈의 이웃집 백만장자",
+      "traffic": "500+"
+    },
+    {
       "rank": 4,
+      "keyword": "퇴학",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "정종철",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "기름",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "양상국",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
       "keyword": "대한민국 교육부",
       "traffic": "500+"
     },
     {
-      "rank": 5,
-      "keyword": "패션",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "윤여정",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "양민혁",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "안현모",
-      "traffic": "200+"
-    },
-    {
       "rank": 9,
-      "keyword": "상장지수 펀드",
+      "keyword": "윤여정",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "lg이노텍",
-      "traffic": "5000+"
+      "keyword": "패션",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
@@ -61,57 +61,57 @@
     },
     {
       "rank": 2,
-      "keyword": "엄지성 해트트릭 이민성호 카타르 제압",
+      "keyword": "엄지성 해트트릭 이민성호",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "문과라 치료제 문과",
-      "state": "n",
-      "change": "0"
+      "keyword": "이민성 감독의 집중력 개선 필요",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "이진숙 박지원 고소",
-      "state": "n",
-      "change": "0"
+      "keyword": "김승원 청문회 종료",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "정이한 피습 자작극은 부친과 관계 개선 원했다",
+      "keyword": "박원숙 손녀에 오피스텔",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "추미애 사퇴 청원 종료",
-      "state": "n",
+      "keyword": "TRY EVERYTHING 2026서",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "가석방 60대 아내 찔러",
-      "state": "n",
-      "change": "0"
+      "keyword": "고명준 역전 스리런포",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "황정민 스토킹 항소",
-      "state": "s",
-      "change": "0"
+      "keyword": "조지아 구금 한국인 300명 소송",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "TRY EVERYTHING 2026에서 혁신 선보여",
-      "state": "s",
-      "change": "0"
+      "keyword": "선두 KT 7연승",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
       "keyword": "로또 1등도 출근합니다",
-      "state": "-",
-      "change": "6"
+      "state": "+",
+      "change": "22"
     }
   ]
 }
