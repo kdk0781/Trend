@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-09-16T17:00:35.032Z",
+  "updatedAt": "2026-09-16T20:02:13.842Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이스라엘",
-      "traffic": "100+"
+      "keyword": "바르셀로나 대 라싱 산탄데르",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "중고",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "sk텔레콤",
+      "keyword": "냄비",
       "traffic": "1000+"
     },
     {
+      "rank": 3,
+      "keyword": "돈",
+      "traffic": "200+"
+    },
+    {
       "rank": 4,
-      "keyword": "서대구역",
+      "keyword": "atlético vs osasuna",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "집단 감염",
-      "traffic": "2000+"
+      "keyword": "금리",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "abl바이오",
-      "traffic": "200+"
+      "keyword": "엔씨",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "kbs",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "시어머니",
+      "keyword": "아틀레티코 대 오사수나",
       "traffic": "5000+"
     },
     {
+      "rank": 8,
+      "keyword": "이스라엘",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "혈우병",
+      "keyword": "중고",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "정해영",
+      "keyword": "sk텔레콤",
       "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "강선우 1억 공천헌금 징역 4년",
+      "keyword": "이재명 부부, 외빈 환송",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "리광천 감독 응원 중",
+      "keyword": "두산, 삼성 꺾고 5위 확정",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이재명 부부, 외빈 환송",
-      "state": "+",
-      "change": "2"
+      "keyword": "기준금리 0.25%P 인상",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "스윙스 래퍼 김감전 구속",
+      "keyword": "리센느 미나미 광고 요청 100개",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "수시 먹통 구제 388건 확정",
-      "state": "+",
-      "change": "1"
+      "keyword": "이탈로 역전골 전북 2-1 승리",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "추석 대비 화재 예방 홍보",
-      "state": "-",
-      "change": "3"
+      "keyword": "후티 반군 사우디 공격 확대",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "후티 반군 사우디 공격",
-      "state": "s",
+      "keyword": "검찰, 강선우 징역 4년 구형",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "서인영, 쥬얼리 시절 100만원 사건",
-      "state": "n",
-      "change": "0"
+      "keyword": "수시 먹통 388건 구제 확정",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "핵심광물 협력 강화",
-      "state": "n",
+      "keyword": "이승철, 할아버지 됐다!",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
       "keyword": "美 8월 소매판매 1.2%↑",
-      "state": "n",
+      "state": "s",
       "change": "0"
     }
   ]
