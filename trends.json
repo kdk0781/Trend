@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-15T23:44:46.350Z",
+  "updatedAt": "2026-09-16T01:43:24.930Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "조상우",
-      "traffic": "200+"
+      "keyword": "스페이스x",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "학대",
+      "keyword": "물 부족",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "구금",
-      "traffic": "200+"
+      "keyword": "브래드 갈링 하우스",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "육군사관학교",
-      "traffic": "200+"
+      "keyword": "베트남 축구 국가 대표팀",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "klasemen elche vs real madrid",
-      "traffic": "200+"
+      "keyword": "브레이브스 대 컵스",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "샌프란시스코 자이언츠",
+      "keyword": "맞춤형복지",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "thứ hạng của elche gặp real madrid",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "al ain fc vs al-nassr standings",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "다저스 대 레즈",
+      "keyword": "자녀",
       "traffic": "1000+"
     },
     {
-      "rank": 10,
-      "keyword": "대한민국 여자 배구 국가대표팀",
+      "rank": 8,
+      "keyword": "마취",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
+      "keyword": "장신영",
       "traffic": "500+"
+    },
+    {
+      "rank": 10,
+      "keyword": "코인니스 - 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "서울 버스 파업 철회",
+      "keyword": "SK하이닉스 임단협 수정안 가결",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "뉴시스와 노경필 법원행정처장",
-      "state": "s",
+      "keyword": "김성수 후보자 청문보고서 채택",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김재환 10월 7일 컴백",
+      "keyword": "18일 호르무즈 회담",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "젠슨 황, 트럼프와 AI 논의",
-      "state": "n",
-      "change": "0"
+      "keyword": "소연, 10억 저작권료 입 열다",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "상원 클래리티 법안 통과 가능성 하락",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "이승철 후회 타임머신",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 7,
-      "keyword": "더보이즈 상연, 오늘 전역!",
+      "keyword": "메시, 아르헨 고별전 확정",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "김승원 눈물 갱년기?",
-      "state": "+",
-      "change": "5"
+      "rank": 6,
+      "keyword": "AI 데이터센터 투자 확대",
+      "state": "-",
+      "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "오하영 비키니 완벽 몸매!",
-      "state": "-",
+      "rank": 7,
+      "keyword": "추석 연휴 안전 대책 마련",
+      "state": "+",
       "change": "3"
     },
     {
-      "rank": 10,
-      "keyword": "기쁜 우리 좋은 날",
+      "rank": 8,
+      "keyword": "셀트리온 자사주 소각",
       "state": "-",
       "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "한성숙 총리 회의 주재",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "해군 해병대 26년 합동훈련",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
