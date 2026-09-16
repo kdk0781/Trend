@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-09-16T20:02:13.842Z",
+  "updatedAt": "2026-09-16T22:52:37.684Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "바르셀로나 대 라싱 산탄데르",
+      "keyword": "리그컵",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "냄비",
-      "traffic": "1000+"
+      "keyword": "축구",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "돈",
+      "keyword": "최국희",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "atlético vs osasuna",
+      "keyword": "барселона – расинг",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "금리",
+      "keyword": "미군",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "엔씨",
+      "keyword": "barcelona đấu với racing santander",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "아틀레티코 대 오사수나",
-      "traffic": "5000+"
+      "keyword": "집",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "이스라엘",
+      "keyword": "렉서스 es",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "중고",
-      "traffic": "200+"
+      "keyword": "고기",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "sk텔레콤",
-      "traffic": "1000+"
+      "keyword": "최승호",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 부부, 외빈 환송",
+      "keyword": "3년 만에 금리 인상",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "두산, 삼성 꺾고 5위 확정",
+      "keyword": "이강인 리그 2호골 폭발!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "기준금리 0.25%P 인상",
-      "state": "s",
+      "keyword": "리센느 미나미 광고 문의 100건 넘쳐",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "리센느 미나미 광고 요청 100개",
-      "state": "s",
+      "keyword": "아르헨티나 1-0 꺾고 U-20 8강 진출",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이탈로 역전골 전북 2-1 승리",
+      "keyword": "2026년 9월 17일 운세",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "후티 반군 사우디 공격 확대",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "검찰, 강선우 징역 4년 구형",
+      "keyword": "유해진 흥행 부담 없다",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "추석 앞두고 태풍 북상하나",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "수시 먹통 388건 구제 확정",
-      "state": "-",
-      "change": "2"
+      "keyword": "송중기 최우식 발길 뚝",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이승철, 할아버지 됐다!",
-      "state": "s",
+      "keyword": "한동훈 무혐의 처분",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "美 8월 소매판매 1.2%↑",
-      "state": "s",
+      "keyword": "왕건 낙마 장애 판정",
+      "state": "n",
       "change": "0"
     }
   ]
