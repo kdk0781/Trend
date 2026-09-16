@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-16T06:49:06.552Z",
+  "updatedAt": "2026-09-16T12:11:36.439Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "포스코노동조합",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "오윤아",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "계엄",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "게임",
+      "keyword": "푸바 오",
       "traffic": "1000+"
     },
     {
+      "rank": 2,
+      "keyword": "강선우",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "대한축구협회",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "놀면 뭐하니?",
+      "traffic": "2000+"
+    },
+    {
       "rank": 5,
-      "keyword": "청년미래적금",
+      "keyword": "소방",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "만평",
+      "keyword": "acl two",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "병무청",
-      "traffic": "1000+"
+      "keyword": "지효",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "이재영",
-      "traffic": "1000+"
+      "keyword": "로컬 푸드",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "교섭단체",
-      "traffic": "200+"
+      "keyword": "이상화",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "처벌",
-      "traffic": "200+"
+      "keyword": "버거킹",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "수시 먹통 구제 논란 계속",
-      "state": "n",
+      "keyword": "강선우 1억 공천헌금 징역 4년 구형",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "한성숙 총리 국가테러대책회의 주재",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "류지현 감독 공개훈련 참석",
+      "keyword": "리광천 감독 손뼉과 지시",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "스윙스 김감전 구속",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 4,
-      "keyword": "이재명 중앙아시아 정상들",
-      "state": "-",
-      "change": "2"
+      "keyword": "수시 먹통 388건 검토 중",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "유죄인간 CP, 1년 걸린 임시완 캐스팅",
+      "keyword": "북한의 역전골 허용",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "각계각층에 추석 선물",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "호르무즈 파병 반대한다",
+      "keyword": "서인영 행사비 폭발 사건",
       "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "경찰 비위 간부 주요 보직 제한",
-      "state": "-",
       "change": "3"
     },
     {
+      "rank": 7,
+      "keyword": "전원주 출연료 70만원 아냐",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "로또 1등도 출근합니다",
+      "state": "+",
+      "change": "4"
+    },
+    {
       "rank": 9,
-      "keyword": "KBS 추락사 가해자 누나 논란",
-      "state": "-",
-      "change": "1"
+      "keyword": "모델인 줄 알았는데 사용에",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "리센느 미나미, 광고 제안 100건 이상",
-      "state": "n",
-      "change": "0"
+      "keyword": "양석환 솔로포 연속",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
