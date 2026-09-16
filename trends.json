@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-16T01:43:24.930Z",
+  "updatedAt": "2026-09-16T06:49:06.552Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "스페이스x",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "물 부족",
+      "keyword": "포스코노동조합",
       "traffic": "200+"
     },
     {
-      "rank": 3,
-      "keyword": "브래드 갈링 하우스",
+      "rank": 2,
+      "keyword": "오윤아",
       "traffic": "2000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "계엄",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "베트남 축구 국가 대표팀",
-      "traffic": "2000+"
+      "keyword": "게임",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "브레이브스 대 컵스",
-      "traffic": "2000+"
+      "keyword": "청년미래적금",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "맞춤형복지",
+      "keyword": "만평",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "자녀",
+      "keyword": "병무청",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "마취",
-      "traffic": "100+"
+      "keyword": "이재영",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "장신영",
-      "traffic": "500+"
+      "keyword": "교섭단체",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "코인니스 - 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
+      "keyword": "처벌",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "SK하이닉스 임단협 수정안 가결",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "김성수 후보자 청문보고서 채택",
+      "keyword": "수시 먹통 구제 논란 계속",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "한성숙 총리 국가테러대책회의 주재",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 3,
-      "keyword": "18일 호르무즈 회담",
+      "keyword": "류지현 감독 공개훈련 참석",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "소연, 10억 저작권료 입 열다",
-      "state": "+",
-      "change": "1"
+      "keyword": "이재명 중앙아시아 정상들",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "메시, 아르헨 고별전 확정",
+      "keyword": "유죄인간 CP, 1년 걸린 임시완 캐스팅",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "AI 데이터센터 투자 확대",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "추석 연휴 안전 대책 마련",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "셀트리온 자사주 소각",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "한성숙 총리 회의 주재",
+      "keyword": "각계각층에 추석 선물",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "호르무즈 파병 반대한다",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "경찰 비위 간부 주요 보직 제한",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 9,
+      "keyword": "KBS 추락사 가해자 누나 논란",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 10,
-      "keyword": "해군 해병대 26년 합동훈련",
+      "keyword": "리센느 미나미, 광고 제안 100건 이상",
       "state": "n",
       "change": "0"
     }
