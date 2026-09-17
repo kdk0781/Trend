@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-17T19:05:37.041Z",
+  "updatedAt": "2026-09-17T22:06:05.696Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "봉누도2",
-      "traffic": "500+"
+      "keyword": "산불",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "압구정 현대아파트",
-      "traffic": "500+"
+      "keyword": "연금",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "송지효",
-      "traffic": "200+"
+      "keyword": "배드민턴 선수",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "아스트라에 오라티오",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "시부모",
+      "keyword": "이동국",
       "traffic": "1000+"
     },
     {
+      "rank": 5,
+      "keyword": "김혜성",
+      "traffic": "500+"
+    },
+    {
       "rank": 6,
-      "keyword": "india vs afghanistan",
-      "traffic": "100+"
+      "keyword": "김미현",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "철산 자이",
+      "keyword": "위암",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "특공무술",
-      "traffic": "20000+"
+      "keyword": "스페이스x",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "안선영",
-      "traffic": "500+"
+      "keyword": "김혜수",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "전제완",
+      "keyword": "기부",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "민주노총 메가특구 대화 참여",
+      "keyword": "2026년 9월 18일 운세",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "하나금융그룹 챔피언십 1라운드",
-      "state": "n",
+      "keyword": "남의 편 남편 문제점",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "남의 편 남편, 아내 말 듣지 않음",
-      "state": "+",
-      "change": "1"
+      "keyword": "강원, 키치와 0-0 무승부",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "영국 금리 3.75% 동결",
-      "state": "+",
+      "keyword": "볼보 ES90 전기차 체험기",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "국대 오수민, 우승 도전!",
-      "state": "+",
-      "change": "1"
+      "keyword": "아이폰18 프로 오늘 국내 출시",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "농지 전수조사 추석 전 조치",
-      "state": "+",
-      "change": "1"
+      "keyword": "자폐 분자 지도로 치료 기대",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "지예은, 기안84 AI 여친 도발",
-      "state": "+",
-      "change": "1"
+      "keyword": "폭염에 생산자물가 한 달 만에",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "사우디 후티 반군 제지 요청",
-      "state": "+",
-      "change": "1"
+      "keyword": "나솔사계",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "자폐 유전자 분자 특성 정리",
-      "state": "+",
-      "change": "1"
+      "keyword": "트럼프 이란 공격 중대기",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "한준수 KIA 추격세",
+      "keyword": "장용 아내, 암 진단 후 자책 눈물",
       "state": "n",
       "change": "0"
     }
