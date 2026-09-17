@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-16T22:52:37.684Z",
+  "updatedAt": "2026-09-17T00:58:35.891Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "리그컵",
+      "keyword": "브레이브스 대 컵스",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "축구",
+      "keyword": "한국항공우주산업",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "최국희",
+      "keyword": "쓰레기봉투",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "барселона – расинг",
-      "traffic": "100+"
+      "keyword": "학과",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "미군",
+      "keyword": "상여금",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "barcelona đấu với racing santander",
-      "traffic": "100+"
+      "keyword": "살인",
+      "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "집",
+      "keyword": "fifa u-20 여자 월드컵",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "렉서스 es",
+      "keyword": "인천광역시",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "고기",
-      "traffic": "100+"
+      "keyword": "파라 타 항공",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "최승호",
-      "traffic": "5000+"
+      "keyword": "다저스 대 레즈",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "3년 만에 금리 인상",
-      "state": "s",
-      "change": "0"
+      "keyword": "나고야로 대한민국 선수단",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "이강인 리그 2호골 폭발!",
-      "state": "s",
-      "change": "0"
+      "keyword": "삼성 맞춤형 AI 가전",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "리센느 미나미 광고 문의 100건 넘쳐",
+      "keyword": "인턴, 오디세이 제치고 1위",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "아르헨티나 1-0 꺾고 U-20 8강 진출",
+      "keyword": "금리 인상 우려 확산",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "2026년 9월 17일 운세",
+      "keyword": "가상자산포럼 인사 및 강연",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "유해진 흥행 부담 없다",
+      "keyword": "CJ, 하반기 신입 공채 확대",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "추석 앞두고 태풍 북상하나",
-      "state": "+",
-      "change": "1"
+      "keyword": "이동국 딸 재시, 美대 휴학 이유는 환율",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "송중기 최우식 발길 뚝",
+      "keyword": "U-20 여자 월드컵 8강 진출",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "한동훈 무혐의 처분",
+      "keyword": "BJ 파이 성추행 무죄",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "왕건 낙마 장애 판정",
+      "keyword": "충격 2-0→2-3 역전패",
       "state": "n",
       "change": "0"
     }
