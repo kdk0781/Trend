@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-17T15:19:18.188Z",
+  "updatedAt": "2026-09-17T19:05:37.041Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "what is a data breach",
-      "traffic": "100+"
+      "keyword": "봉누도2",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "황유민",
-      "traffic": "100+"
+      "keyword": "압구정 현대아파트",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "지진희",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "로맥",
+      "keyword": "송지효",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "아스트라에 오라티오",
+      "traffic": "100+"
+    },
+    {
       "rank": 5,
-      "keyword": "웨이모",
+      "keyword": "시부모",
       "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "weather tomorrow",
-      "traffic": "2000+"
+      "keyword": "india vs afghanistan",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "cuaca besok",
+      "keyword": "철산 자이",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "thời tiết ngày mai",
-      "traffic": "1000+"
+      "keyword": "특공무술",
+      "traffic": "20000+"
     },
     {
       "rank": 9,
-      "keyword": "라이머",
-      "traffic": "2000+"
+      "keyword": "안선영",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "mcdonald's",
+      "keyword": "전제완",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "나나 자택 강도, 징역 10년 구형",
+      "keyword": "민주노총 메가특구 대화 참여",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "민주노총, 메가특구 대화 참여",
-      "state": "s",
+      "keyword": "하나금융그룹 챔피언십 1라운드",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "포항 공해상 침몰 3명 구조 1명 실종",
-      "state": "n",
-      "change": "0"
+      "keyword": "남의 편 남편, 아내 말 듣지 않음",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "지예은, AI 여친 기안84에 경악",
-      "state": "n",
-      "change": "0"
+      "keyword": "영국 금리 3.75% 동결",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "숙행, 불륜 소송 패소 후 복귀",
-      "state": "-",
-      "change": "2"
+      "keyword": "국대 오수민, 우승 도전!",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "하나금융그룹 챔피언십 경기",
-      "state": "n",
-      "change": "0"
+      "keyword": "농지 전수조사 추석 전 조치",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "남산 케이블카 독점 종료",
-      "state": "n",
-      "change": "0"
+      "keyword": "지예은, 기안84 AI 여친 도발",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "영국 금리 3.75% 동결",
+      "keyword": "사우디 후티 반군 제지 요청",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "염정아 절친 지진희 출격",
-      "state": "-",
-      "change": "2"
+      "keyword": "자폐 유전자 분자 특성 정리",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "오수민, 우승 도전!",
-      "state": "+",
-      "change": "4"
+      "keyword": "한준수 KIA 추격세",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
