@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-17T10:43:23.259Z",
+  "updatedAt": "2026-09-17T15:19:18.188Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "맘스터치 청사초롱",
-      "traffic": "200+"
+      "keyword": "what is a data breach",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "안전 공업 주",
-      "traffic": "2000+"
+      "keyword": "황유민",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "직위해제",
+      "keyword": "지진희",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "성남시",
+      "keyword": "로맥",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "추미애",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "당구",
+      "keyword": "웨이모",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
-      "keyword": "ssg 대 nc",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "lg 트윈스",
+      "rank": 6,
+      "keyword": "weather tomorrow",
       "traffic": "2000+"
     },
     {
+      "rank": 7,
+      "keyword": "cuaca besok",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "thời tiết ngày mai",
+      "traffic": "1000+"
+    },
+    {
       "rank": 9,
-      "keyword": "삼성중공업",
-      "traffic": "500+"
+      "keyword": "라이머",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "최두호",
+      "keyword": "mcdonald's",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "미국 건국 250주년 만찬",
-      "state": "+",
-      "change": "1"
+      "keyword": "나나 자택 강도, 징역 10년 구형",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김일국 체육상 방일",
-      "state": "-",
-      "change": "1"
+      "keyword": "민주노총, 메가특구 대화 참여",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "YG 프로듀서 페리 찾기",
+      "keyword": "포항 공해상 침몰 3명 구조 1명 실종",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "제주 유가족 14세 송치",
-      "state": "+",
-      "change": "3"
+      "keyword": "지예은, AI 여친 기안84에 경악",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "한국女축구 방글라 6-0 대승",
-      "state": "+",
-      "change": "1"
+      "keyword": "숙행, 불륜 소송 패소 후 복귀",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "포항서 北선박 침몰 3명 구조, 1명 실종",
+      "keyword": "하나금융그룹 챔피언십 경기",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "테크볼 복식 이준석-이태빈",
-      "state": "+",
-      "change": "2"
+      "keyword": "남산 케이블카 독점 종료",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "수시 3건 취소 권고",
-      "state": "n",
-      "change": "0"
+      "keyword": "영국 금리 3.75% 동결",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "검찰, 나나 강도에 징역 10년 구형",
-      "state": "n",
-      "change": "0"
+      "keyword": "염정아 절친 지진희 출격",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "하이닉스 주가 상승 3%",
-      "state": "-",
-      "change": "2"
+      "keyword": "오수민, 우승 도전!",
+      "state": "+",
+      "change": "4"
     }
   ]
 }
