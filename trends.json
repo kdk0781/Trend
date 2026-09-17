@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-17T05:50:18.918Z",
+  "updatedAt": "2026-09-17T10:43:23.259Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "임은정",
+      "keyword": "맘스터치 청사초롱",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "고기압",
-      "traffic": "100+"
+      "keyword": "안전 공업 주",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "레지던트 이블 0번째 밤",
-      "traffic": "500+"
+      "keyword": "직위해제",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "교통약자석",
+      "keyword": "성남시",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "양나래",
-      "traffic": "1000+"
+      "keyword": "추미애",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "biff",
-      "traffic": "200+"
+      "keyword": "당구",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "숙행",
-      "traffic": "2000+"
+      "keyword": "ssg 대 nc",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "타짜",
-      "traffic": "500+"
+      "keyword": "lg 트윈스",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "주거",
-      "traffic": "200+"
+      "keyword": "삼성중공업",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "육아",
-      "traffic": "2000+"
+      "keyword": "최두호",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김승원 청문보고서 채택",
-      "state": "s",
-      "change": "0"
+      "keyword": "미국 건국 250주년 만찬",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "토허가 구역 실거주 유예 연장",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "수원화성 미디어아트 개막",
+      "keyword": "김일국 체육상 방일",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "선관위특검, 9곳 압수수색",
+      "rank": 3,
+      "keyword": "YG 프로듀서 페리 찾기",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "아시안게임 선수단 일본 입성",
+      "rank": 4,
+      "keyword": "제주 유가족 14세 송치",
       "state": "+",
-      "change": "4"
+      "change": "3"
+    },
+    {
+      "rank": 5,
+      "keyword": "한국女축구 방글라 6-0 대승",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "박은지 아버지 중환자실 입원",
+      "keyword": "포항서 北선박 침몰 3명 구조, 1명 실종",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "파티 IEA 사무총장",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "조정식 의장, 라흐몬 면담",
-      "state": "-",
+      "keyword": "테크볼 복식 이준석-이태빈",
+      "state": "+",
       "change": "2"
     },
     {
+      "rank": 8,
+      "keyword": "수시 3건 취소 권고",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "윤석열 청탁법 위반 추가 기소",
-      "state": "-",
-      "change": "4"
+      "keyword": "검찰, 나나 강도에 징역 10년 구형",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "장모 살해 후 시신 유기 조재복",
-      "state": "n",
-      "change": "0"
+      "keyword": "하이닉스 주가 상승 3%",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
