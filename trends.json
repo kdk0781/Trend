@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-18T04:38:03.742Z",
+  "updatedAt": "2026-09-18T09:10:41.847Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "황석정",
-      "traffic": "500+"
+      "keyword": "뇌",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "gpt-5.6",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "삼전닉스",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "부산 상어",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "1기 신도시",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "미프진",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "고양이",
+      "keyword": "mlb",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
-      "keyword": "군사기밀",
+      "rank": 3,
+      "keyword": "오현규",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "이현중",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "김민전",
       "traffic": "500+"
     },
     {
+      "rank": 6,
+      "keyword": "특별재난지역",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "000660",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "오디세이",
+      "traffic": "1000+"
+    },
+    {
       "rank": 9,
-      "keyword": "맘스터치 청사초롱",
+      "keyword": "박진만",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "주가",
-      "traffic": "1000+"
+      "keyword": "김혜은",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 대통령 기자회견",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "李 대통령 농지 전수조사 목적은 농사 지원",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "최길수 특별감찰관 후보자",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "나고야 아시안게임 개막 하루 전",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "일본은행 금리 인상 1.25%",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "이종현 장애물 경기 출전",
+      "keyword": "장동혁 기자회견 비판",
       "state": "+",
       "change": "3"
     },
     {
-      "rank": 7,
-      "keyword": "김수용 꿈에 부모님",
+      "rank": 2,
+      "keyword": "퇴장하는 북한 선수단",
       "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "리센느 11월 컴백 확정",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "코스피 급등 마감",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "두산로보틱스 권영민 사장 선임",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 6,
+      "keyword": "9.19 평양공동선언 8주년 기념식",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "마줄스 감독 작전 지시",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "전북, 서울 공동 개최 제안",
-      "state": "n",
-      "change": "0"
+      "keyword": "부동산 허위광고 1만건 적발",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "아이유 데뷔 기부",
+      "keyword": "인천 물류센터 화재 1단계 대응",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "아이폰 18프로 출시",
+      "keyword": "공무직 위원회 출범식",
       "state": "n",
       "change": "0"
     }
