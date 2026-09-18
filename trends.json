@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-18T09:10:41.847Z",
+  "updatedAt": "2026-09-18T13:38:01.588Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "뇌",
-      "traffic": "2000+"
+      "keyword": "조민",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "mlb",
-      "traffic": "1000+"
+      "keyword": "사미자",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "오현규",
+      "keyword": "thời tiết ngày mai",
       "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "이현중",
-      "traffic": "1000+"
+      "keyword": "롯데",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "김민전",
+      "keyword": "경상남도",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "특별재난지역",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "000660",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "오디세이",
+      "keyword": "xsmb",
       "traffic": "1000+"
     },
     {
-      "rank": 9,
-      "keyword": "박진만",
+      "rank": 7,
+      "keyword": "청하",
       "traffic": "500+"
     },
     {
-      "rank": 10,
-      "keyword": "김혜은",
+      "rank": 8,
+      "keyword": "특별감찰관",
       "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "배그",
+      "traffic": "100+"
+    },
+    {
+      "rank": 10,
+      "keyword": "m",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "장동혁 기자회견 비판",
-      "state": "+",
-      "change": "3"
+      "keyword": "김성수 대법관 임명안 재가",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "퇴장하는 북한 선수단",
+      "keyword": "제주 경찰 변호사 알선 사건",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "리센느 11월 컴백 확정",
+      "keyword": "남자농구 결승 진출",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "코스피 급등 마감",
-      "state": "+",
-      "change": "1"
+      "keyword": "대통령 가격 평탄화 설명",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "두산로보틱스 권영민 사장 선임",
-      "state": "+",
-      "change": "3"
+      "keyword": "버핏, 버크셔 회장 퇴임",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 6,
-      "keyword": "9.19 평양공동선언 8주년 기념식",
-      "state": "s",
+      "keyword": "이재용 자택 앞 집회",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "마줄스 감독 작전 지시",
-      "state": "s",
-      "change": "0"
+      "keyword": "재벌 형사 시즌2",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "부동산 허위광고 1만건 적발",
+      "keyword": "김민하 체중계 버릴 것",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "인천 물류센터 화재 1단계 대응",
+      "keyword": "논란 속 홈쇼핑 취소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "공무직 위원회 출범식",
+      "keyword": "축의금 내고 답례금 챙긴 6명 송치",
       "state": "n",
       "change": "0"
     }
