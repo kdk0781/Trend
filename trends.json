@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-17T22:06:05.696Z",
+  "updatedAt": "2026-09-18T00:10:00.223Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "산불",
-      "traffic": "100+"
+      "keyword": "한화그룹",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "연금",
-      "traffic": "5000+"
+      "keyword": "노란봉투법",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "배드민턴 선수",
-      "traffic": "500+"
+      "keyword": "세무사",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "이동국",
-      "traffic": "1000+"
+      "keyword": "단발",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "김혜성",
-      "traffic": "500+"
+      "keyword": "사노피",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "김미현",
+      "keyword": "삼성 갤럭시 z 폴드 8",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "위암",
-      "traffic": "200+"
+      "keyword": "날씨",
+      "traffic": "100000+"
     },
     {
       "rank": 8,
-      "keyword": "스페이스x",
-      "traffic": "100+"
+      "keyword": "ionq",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "김혜수",
-      "traffic": "2000+"
+      "keyword": "김서현",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "기부",
-      "traffic": "200+"
+      "keyword": "하주연",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "2026년 9월 18일 운세",
-      "state": "s",
+      "keyword": "유류세 11월까지 연장",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "남의 편 남편 문제점",
+      "keyword": "아이폰18 프로 출시",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "강원, 키치와 0-0 무승부",
-      "state": "n",
+      "keyword": "이청아 교통사고로 하차",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "볼보 ES90 전기차 체험기",
-      "state": "-",
-      "change": "1"
+      "keyword": "오현규 베식타시 교체 출전",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "아이폰18 프로 오늘 국내 출시",
+      "keyword": "경주 왕릉 벌초 기사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "자폐 분자 지도로 치료 기대",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "폭염에 생산자물가 한 달 만에",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "나솔사계",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "트럼프 이란 공격 중대기",
+      "keyword": "구윤철 부총리 경제관계 회의 주재",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "이 대통령 기자회견 30분 연기",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "아시안게임 응원 컨셉",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "나솔사계",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "장용 아내, 암 진단 후 자책 눈물",
+      "keyword": "최철호 출연료 150만원",
       "state": "n",
       "change": "0"
     }
