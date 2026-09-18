@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-18T00:10:00.223Z",
+  "updatedAt": "2026-09-18T04:38:03.742Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "한화그룹",
-      "traffic": "200+"
+      "keyword": "황석정",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "노란봉투법",
+      "keyword": "gpt-5.6",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "세무사",
+      "keyword": "삼전닉스",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "단발",
+      "keyword": "부산 상어",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "사노피",
+      "keyword": "1기 신도시",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "삼성 갤럭시 z 폴드 8",
-      "traffic": "200+"
+      "keyword": "미프진",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "날씨",
-      "traffic": "100000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "ionq",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "김서현",
+      "keyword": "고양이",
       "traffic": "1000+"
     },
     {
+      "rank": 8,
+      "keyword": "군사기밀",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
+      "keyword": "맘스터치 청사초롱",
+      "traffic": "500+"
+    },
+    {
       "rank": 10,
-      "keyword": "하주연",
+      "keyword": "주가",
       "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "유류세 11월까지 연장",
-      "state": "n",
+      "keyword": "이재명 대통령 기자회견",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "아이폰18 프로 출시",
+      "keyword": "李 대통령 농지 전수조사 목적은 농사 지원",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이청아 교통사고로 하차",
+      "keyword": "최길수 특별감찰관 후보자",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "오현규 베식타시 교체 출전",
-      "state": "n",
+      "keyword": "나고야 아시안게임 개막 하루 전",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "경주 왕릉 벌초 기사",
+      "keyword": "일본은행 금리 인상 1.25%",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "구윤철 부총리 경제관계 회의 주재",
-      "state": "n",
-      "change": "0"
+      "keyword": "이종현 장애물 경기 출전",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "이 대통령 기자회견 30분 연기",
+      "keyword": "김수용 꿈에 부모님",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "아시안게임 응원 컨셉",
-      "state": "+",
-      "change": "2"
+      "keyword": "전북, 서울 공동 개최 제안",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "나솔사계",
-      "state": "s",
+      "keyword": "아이유 데뷔 기부",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "최철호 출연료 150만원",
+      "keyword": "아이폰 18프로 출시",
       "state": "n",
       "change": "0"
     }
