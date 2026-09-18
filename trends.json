@@ -1,98 +1,98 @@
 {
-  "updatedAt": "2026-09-18T13:38:01.588Z",
+  "updatedAt": "2026-09-18T17:11:03.042Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "조민",
+      "keyword": "팬심",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "사미자",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "thời tiết ngày mai",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "롯데",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "경상남도",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "xsmb",
+      "keyword": "마이크론 테크놀로지",
       "traffic": "1000+"
     },
     {
+      "rank": 3,
+      "keyword": "수성구",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "자동차산업",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "지창욱",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "이선민",
+      "traffic": "200+"
+    },
+    {
       "rank": 7,
-      "keyword": "청하",
-      "traffic": "500+"
+      "keyword": "비트코인 시세",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "특별감찰관",
+      "keyword": "장신영",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "배그",
-      "traffic": "100+"
+      "keyword": "업비트",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "m",
-      "traffic": "100+"
+      "keyword": "재벌형사2",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김성수 대법관 임명안 재가",
-      "state": "n",
+      "keyword": "김성수 대법관 재가",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "제주 경찰 변호사 알선 사건",
-      "state": "n",
+      "keyword": "남자 농구 결승 12년 만에",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "남자농구 결승 진출",
-      "state": "n",
-      "change": "0"
+      "keyword": "버핏, 버크셔 회장직 사임",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "대통령 가격 평탄화 설명",
+      "keyword": "이재용 자택 앞 노조 집회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "버핏, 버크셔 회장 퇴임",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 6,
-      "keyword": "이재용 자택 앞 집회",
-      "state": "n",
+      "keyword": "양희은 암 수술 후 각막이식",
+      "state": "s",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "인천 물류센터 화재 7시간 진화",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "재벌 형사 시즌2",
-      "state": "-",
+      "keyword": "석유 가격 동결 유지",
+      "state": "+",
       "change": "3"
     },
     {
@@ -103,14 +103,14 @@
     },
     {
       "rank": 9,
-      "keyword": "논란 속 홈쇼핑 취소",
+      "keyword": "UAE 행정청장 접견",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "축의금 내고 답례금 챙긴 6명 송치",
-      "state": "n",
+      "keyword": "차은우 도청 50대 여성 수사",
+      "state": "s",
       "change": "0"
     }
   ]
