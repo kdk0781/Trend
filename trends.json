@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-18T17:11:03.042Z",
+  "updatedAt": "2026-09-18T19:38:47.048Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "팬심",
-      "traffic": "500+"
+      "keyword": "바이에른 대 우니온 베를린",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "마이크론 테크놀로지",
-      "traffic": "1000+"
+      "keyword": "주한 미군 사령관",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "수성구",
-      "traffic": "100+"
+      "keyword": "레알 마드리드 cf",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "자동차산업",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "지창욱",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "이선민",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "비트코인 시세",
+      "keyword": "재귀적 자기 개선",
       "traffic": "100+"
     },
     {
-      "rank": 8,
-      "keyword": "장신영",
+      "rank": 5,
+      "keyword": "백종원",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "버크셔 해서웨이",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "넷플",
       "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "자동차 산업",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "업비트",
-      "traffic": "200+"
+      "keyword": "배틀그라운드",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "재벌형사2",
-      "traffic": "200+"
+      "keyword": "팬심",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김성수 대법관 재가",
+      "keyword": "워런 버핏, 버크셔 회장직 퇴임",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "남자 농구 결승 12년 만에",
+      "keyword": "오지환 2홈런 LG 5연승",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "버핏, 버크셔 회장직 사임",
-      "state": "+",
-      "change": "1"
+      "keyword": "양희은 암 투병 이야기",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이재용 자택 앞 노조 집회",
-      "state": "n",
+      "keyword": "재벌 형사 시즌2",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "양희은 암 수술 후 각막이식",
+      "keyword": "코리아하우스 개관식 기념사진",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "인천 물류센터 화재 7시간 진화",
-      "state": "+",
-      "change": "1"
+      "keyword": "차은우 도청한 50대 여성",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "석유 가격 동결 유지",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "김민하 체중계 버릴 것",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "UAE 행정청장 접견",
+      "keyword": "딘딘 유튜브 수익 1000만원 기부",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "강력하게 날리는 티샷",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "석유화학 경영진 담합 구속",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "차은우 도청 50대 여성 수사",
+      "keyword": "그린 카펫에 선 스타들",
       "state": "s",
       "change": "0"
     }
