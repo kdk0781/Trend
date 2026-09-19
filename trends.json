@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-19T21:34:52.001Z",
+  "updatedAt": "2026-09-19T23:28:28.869Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "ufc",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
+      "keyword": "유주상",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
       "keyword": "최예나",
       "traffic": "100+"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "keyword": "아스날",
       "traffic": "500+"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "keyword": "유영우",
       "traffic": "100+"
     },
     {
-      "rank": 4,
-      "keyword": "재벌형사",
+      "rank": 6,
+      "keyword": "재벌형사2",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "pl",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "로또번호",
       "traffic": "2000+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "토트넘",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "sxmb",
       "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "프로야구 순위",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "이승기",
-      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "아이치 나고야 아시안게임 개막식",
+      "keyword": "재벌 형사 시즌2",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "송강·이준영·장규리, 포핸즈 2막 시작",
-      "state": "s",
-      "change": "0"
+      "keyword": "서영은 사랑이 온다 OST 공개",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "리야드 공항 인근 불길",
-      "state": "s",
+      "keyword": "대구신세계 해외 디자이너관",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "날아올라라 나비",
+      "keyword": "정형돈 덕분에 독일 난사 피해",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "사랑이 온다 OST 공개",
-      "state": "-",
-      "change": "1"
+      "keyword": "아시안게임 응원 치킨",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 6,
-      "keyword": "2026년 9월 20일 운세",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "유영우 리센느 원이 절 받고 눈물",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "스님 꿈에 복권 당첨",
+      "keyword": "롯데百, 추석 선물 핸드캐리 증가",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "박한동 한국대학축구연맹 회장",
+      "rank": 7,
+      "keyword": "김승원 자진사퇴 결정",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "날아올라라 나비",
       "state": "-",
-      "change": "2"
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "신보람과 영탁 보람씨",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "재즈 공연 하는 펑키투나잇",
-      "state": "+",
-      "change": "3"
+      "keyword": "서울 1242회 로또 32억 당첨",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
