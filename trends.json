@@ -1,103 +1,103 @@
 {
-  "updatedAt": "2026-09-19T01:39:35.172Z",
+  "updatedAt": "2026-09-19T06:35:59.716Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "투자가",
-      "traffic": "200+"
+      "keyword": "축의금",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "중국",
-      "traffic": "500+"
+      "keyword": "펀더멘털",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "공무원",
+      "keyword": "네이버",
       "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "엘레나 리바 키나",
-      "traffic": "200+"
+      "keyword": "지진희",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "노시환",
-      "traffic": "100+"
+      "keyword": "대한민국의 법무부 장관",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "출연료",
-      "traffic": "100+"
+      "keyword": "이정후",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "사고",
-      "traffic": "2000+"
+      "keyword": "拓元",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "ai 데이터 센터",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "평택시",
+      "keyword": "서효림",
       "traffic": "2000+"
     },
     {
+      "rank": 9,
+      "keyword": "유튜브",
+      "traffic": "5000+"
+    },
+    {
       "rank": 10,
-      "keyword": "필리조선소",
+      "keyword": "원자폭탄",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김정은 군수공장 점검",
+      "keyword": "한동훈 의원 질문 답변",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "조직위 공식 사과",
-      "state": "-",
-      "change": "1"
+      "keyword": "테크볼 이준석 결승 진출",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "딘딘 유튜브 1000만원 기부",
+      "keyword": "이재명 청년의 날 기념식",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이승기 아버지 싸이 형이 찡한 가사",
+      "keyword": "레고 닌자고 15주년 축하해요!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "호르무즈 기여 의지",
-      "state": "+",
-      "change": "5"
+      "keyword": "안성 트럭 돌진 2명 심정지",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "조민 홈쇼핑 90분 전 취소",
-      "state": "+",
-      "change": "2"
+      "keyword": "소율, 아들 눈 멍 의혹 해명",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "무혐의 방송작가 유죄",
+      "keyword": "이미숙 며느리 올까 봐 여행",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "차은우 카페 도청 여성 입건",
+      "keyword": "한소희 말실수 사과",
       "state": "n",
       "change": "0"
     },
@@ -109,8 +109,8 @@
     },
     {
       "rank": 10,
-      "keyword": "유족, 가해 지목 과태료 무용지물",
-      "state": "n",
+      "keyword": "강석훈 율촌 대표변호사",
+      "state": "s",
       "change": "0"
     }
   ]
