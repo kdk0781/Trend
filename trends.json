@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-19T11:28:15.625Z",
+  "updatedAt": "2026-09-19T14:39:24.454Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "아프리카",
+      "keyword": "pl",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "아시안게임",
-      "traffic": "5000+"
+      "keyword": "로또번호",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "나고야",
-      "traffic": "100+"
+      "keyword": "토트넘",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "라이엇",
-      "traffic": "100+"
+      "keyword": "sxmb",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "넥슨",
-      "traffic": "100+"
+      "keyword": "프로야구 순위",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "프로야구",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "roblox",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "살림하는 남자들",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "축의금",
+      "keyword": "이승기",
       "traffic": "100+"
     },
     {
+      "rank": 7,
+      "keyword": "아프리카",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "시진핑",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
+      "keyword": "나고야",
+      "traffic": "200+"
+    },
+    {
       "rank": 10,
-      "keyword": "아시안게임 롤",
+      "keyword": "채수빈",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "2026 아이치 아시안게임",
+      "keyword": "2026 아시안게임 개회식",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김민석 대표 전시 관람",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 3,
-      "keyword": "올해의 아티스트 수상 소식",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "고우림 포레스텔라 댄스 데뷔",
+      "keyword": "변우석, 법적 조치 취함",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "서영은 사랑이 온다 OST 발표",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "포핸즈 2막 시작",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 5,
-      "keyword": "대한민국 입장",
+      "keyword": "재벌 형사 시즌2",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "김민석 대표 전시 관람",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "재벌 형사 시즌2",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 7,
-      "keyword": "불후의 명곡",
-      "state": "+",
-      "change": "1"
+      "keyword": "올해의 아티스트 수상",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "이재명 대통령 기념사",
-      "state": "-",
-      "change": "6"
+      "keyword": "고재현 박세진 2-0 승리",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "개막 공연의 하모니",
+      "keyword": "일본 조직위 사과",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "하나금융그룹 챔피언십 3라운드",
+      "keyword": "전통을 잇는 개막공연",
       "state": "n",
       "change": "0"
     }
