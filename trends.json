@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-18T23:46:13.270Z",
+  "updatedAt": "2026-09-19T01:39:35.172Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김영웅",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "장유여객터미널",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "약",
+      "keyword": "투자가",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "중국",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "공무원",
+      "traffic": "2000+"
+    },
+    {
       "rank": 4,
-      "keyword": "최두호",
-      "traffic": "100+"
+      "keyword": "엘레나 리바 키나",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "해군",
+      "keyword": "노시환",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "brentford f.c. vs chelsea f.c. standings",
-      "traffic": "1000+"
+      "keyword": "출연료",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "단풍",
-      "traffic": "200+"
+      "keyword": "사고",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "강남",
+      "keyword": "ai 데이터 센터",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "박재홍",
-      "traffic": "200+"
+      "keyword": "평택시",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "초과근무",
+      "keyword": "필리조선소",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "재벌 형사 시즌2",
-      "state": "s",
+      "keyword": "김정은 군수공장 점검",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "한미 외교장관 회담",
-      "state": "s",
-      "change": "0"
+      "keyword": "조직위 공식 사과",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "2026 아시안게임 코리아하우스",
+      "keyword": "딘딘 유튜브 1000만원 기부",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "트럼프 그린란드 미군 합의",
+      "keyword": "이승기 아버지 싸이 형이 찡한 가사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이서진, 손예진 꿀 줄까요?",
+      "keyword": "호르무즈 기여 의지",
       "state": "+",
-      "change": "1"
+      "change": "5"
     },
     {
       "rank": 6,
-      "keyword": "故오요안나 증인신문 포기",
-      "state": "n",
-      "change": "0"
+      "keyword": "조민 홈쇼핑 90분 전 취소",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "일본 사고, 한국 경위 해명",
+      "keyword": "무혐의 방송작가 유죄",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "강원 동해안 제주 비",
+      "keyword": "차은우 카페 도청 여성 입건",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "북, 제3차 강습회 개최",
+      "keyword": "SBS 개그맨 사칭 난동",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "李대통령 대법관 재가",
+      "keyword": "유족, 가해 지목 과태료 무용지물",
       "state": "n",
       "change": "0"
     }
