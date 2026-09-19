@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-09-19T06:35:59.716Z",
+  "updatedAt": "2026-09-19T11:28:15.625Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "축의금",
+      "keyword": "아프리카",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "펀더멘털",
-      "traffic": "200+"
+      "keyword": "아시안게임",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "네이버",
-      "traffic": "2000+"
+      "keyword": "나고야",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "지진희",
+      "keyword": "라이엇",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "대한민국의 법무부 장관",
-      "traffic": "200+"
+      "keyword": "넥슨",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "이정후",
-      "traffic": "2000+"
+      "keyword": "프로야구",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "拓元",
+      "keyword": "roblox",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "서효림",
-      "traffic": "2000+"
+      "keyword": "살림하는 남자들",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "유튜브",
-      "traffic": "5000+"
+      "keyword": "축의금",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "원자폭탄",
-      "traffic": "200+"
+      "keyword": "아시안게임 롤",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "한동훈 의원 질문 답변",
-      "state": "n",
+      "keyword": "2026 아이치 아시안게임",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "테크볼 이준석 결승 진출",
-      "state": "n",
-      "change": "0"
+      "keyword": "김민석 대표 전시 관람",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "이재명 청년의 날 기념식",
-      "state": "n",
+      "keyword": "올해의 아티스트 수상 소식",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "레고 닌자고 15주년 축하해요!",
+      "keyword": "고우림 포레스텔라 댄스 데뷔",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "안성 트럭 돌진 2명 심정지",
-      "state": "-",
-      "change": "1"
+      "keyword": "대한민국 입장",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "소율, 아들 눈 멍 의혹 해명",
-      "state": "n",
-      "change": "0"
+      "keyword": "재벌 형사 시즌2",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "이미숙 며느리 올까 봐 여행",
-      "state": "n",
-      "change": "0"
+      "keyword": "불후의 명곡",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "한소희 말실수 사과",
-      "state": "n",
-      "change": "0"
+      "keyword": "이재명 대통령 기념사",
+      "state": "-",
+      "change": "6"
     },
     {
       "rank": 9,
-      "keyword": "SBS 개그맨 사칭 난동",
+      "keyword": "개막 공연의 하모니",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "강석훈 율촌 대표변호사",
-      "state": "s",
+      "keyword": "하나금융그룹 챔피언십 3라운드",
+      "state": "n",
       "change": "0"
     }
   ]
