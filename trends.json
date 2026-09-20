@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T19:50:12.654Z",
+  "updatedAt": "2026-09-20T22:04:01.134Z",
   "google": [
     {
       "rank": 1,
@@ -55,63 +55,63 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "남자 농구 아시안게임 금메달",
+      "keyword": "황선우 도쿄 출전 이유",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "권성준 윤남노 동반 삭발",
-      "state": "s",
-      "change": "0"
+      "keyword": "남자 농구 팀 기뻐해요",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "시진핑 건강 우려, 중국 정부 침묵",
-      "state": "s",
+      "keyword": "트럼프 대이란 이란 대통령 만나나?",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "2026년 9월 21일 운세",
-      "state": "+",
+      "keyword": "준석 테크볼 원해요",
+      "state": "-",
       "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "이강인 마드리드 더비 활약",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "육은영쌤 강승구 발표",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 7,
-      "keyword": "사랑이 온다 하석진 가족 보호 나섰다",
-      "state": "s",
+      "keyword": "전현무, 이준 사진에 감탄",
+      "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "2026년 9월 21일 운세",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "하석진 하니 가족 보호 행보",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 8,
-      "keyword": "트럼프 개선문 군사화 계획",
+      "keyword": "이강인 마드리드 더비 승리!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "포핸즈 반전 열연",
+      "keyword": "김향기, 날아올라라 나비 좌절 성장기",
       "state": "-",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "김승원 성추행 현장 與 의원 사퇴",
-      "state": "n",
-      "change": "0"
+      "keyword": "농구에 미친 아들 현중이",
+      "state": "+",
+      "change": "8"
     }
   ]
 }
