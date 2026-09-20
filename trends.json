@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-19T23:28:28.869Z",
+  "updatedAt": "2026-09-20T01:25:15.624Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "ufc",
-      "traffic": "500+"
+      "keyword": "최두호",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "유주상",
-      "traffic": "100+"
+      "keyword": "ufc",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
+      "keyword": "유주상",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
       "keyword": "최예나",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "아스날",
       "traffic": "500+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "유영우",
       "traffic": "100+"
     },
     {
-      "rank": 6,
-      "keyword": "재벌형사2",
-      "traffic": "100+"
-    },
-    {
       "rank": 7,
-      "keyword": "pl",
+      "keyword": "재벌형사",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "로또번호",
-      "traffic": "2000+"
+      "keyword": "pl",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "토트넘",
-      "traffic": "1000+"
+      "keyword": "로또 당첨번호",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "sxmb",
-      "traffic": "200+"
+      "keyword": "토트넘",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "재벌 형사 시즌2",
+      "keyword": "강인한 디자인의 올 뉴 투싼 공개",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "서영은 사랑이 온다 OST 공개",
-      "state": "+",
+      "keyword": "재벌형사2 11.8% 종영",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "대구신세계 해외 디자이너관",
+      "keyword": "연기 펼치는 이용현",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "정형돈 덕분에 독일 난사 피해",
-      "state": "n",
-      "change": "0"
+      "keyword": "구자은 회장 AI로 변화 즐기자",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "아시안게임 응원 치킨",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 6,
-      "keyword": "롯데百, 추석 선물 핸드캐리 증가",
+      "keyword": "손흥민 리그 6호골",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "경찰, 토착비리 1863명 적발",
+      "state": "+",
+      "change": "10"
+    },
+    {
       "rank": 7,
-      "keyword": "김승원 자진사퇴 결정",
+      "keyword": "호텔신라 하노이에 신라모노그램",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "날아올라라 나비",
-      "state": "-",
-      "change": "1"
+      "keyword": "모자 참변 운전자 구속",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "신보람과 영탁 보람씨",
+      "keyword": "30년 비자금 재수사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "서울 1242회 로또 32억 당첨",
+      "keyword": "깔고 400억 부인했지만",
       "state": "n",
       "change": "0"
     }
