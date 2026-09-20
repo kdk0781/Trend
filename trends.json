@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-20T14:53:20.189Z",
+  "updatedAt": "2026-09-20T17:49:16.638Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "리버풀",
+      "keyword": "instagram",
       "traffic": "100+"
     },
     {
       "rank": 2,
+      "keyword": "레알마드리드",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "축구중계",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "리버풀",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
       "keyword": "맨시티",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "keyword": "google",
       "traffic": "100+"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "keyword": "sxmb",
       "traffic": "100+"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "keyword": "kbs",
       "traffic": "100+"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "keyword": "이현중",
       "traffic": "5000+"
     },
     {
-      "rank": 7,
-      "keyword": "김영범",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "백억커피",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "lafc",
-      "traffic": "100+"
-    },
-    {
       "rank": 10,
-      "keyword": "하피냐",
+      "keyword": "김영범",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이현중 NBA 도전 날개 달다",
+      "keyword": "남자 농구 금메달 획득",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "남자 농구 금메달",
-      "state": "s",
-      "change": "0"
+      "keyword": "권성준 윤남노, 시청률 3.8% 공약",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "아시안게임 기대감 낮아",
-      "state": "s",
+      "keyword": "육은영쌤 강승구 결혼 발표",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "하석진, 하니 가족 보호 나섰다",
+      "keyword": "2026년 9월 21일 운세",
       "state": "+",
-      "change": "3"
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "한동훈 김승원 사퇴하라",
-      "state": "n",
-      "change": "0"
+      "keyword": "시진핑 건강 이상설 나와",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 6,
-      "keyword": "시청률 3.8% 넘으면 삭발",
-      "state": "n",
-      "change": "0"
+      "keyword": "도쿄게임쇼 찾은 최휘영",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "제시카, 국내 무대 복귀",
+      "keyword": "이강인, 퇴장당할 뻔!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김정은, 이서진과 결별 후 눈물 방송",
-      "state": "n",
-      "change": "0"
+      "keyword": "송중기 과자 가방 인증",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "너 말고 다른 연애",
-      "state": "s",
-      "change": "0"
+      "keyword": "이준석의 테크볼 금빛 역전",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 10,
-      "keyword": "급발진 안성 참변",
-      "state": "n",
-      "change": "0"
+      "keyword": "김승원 결국 사퇴",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
