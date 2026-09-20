@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-20T11:46:05.329Z",
+  "updatedAt": "2026-09-20T14:53:20.189Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이현중",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "김영범",
+      "keyword": "리버풀",
       "traffic": "100+"
     },
     {
-      "rank": 3,
-      "keyword": "아시안게임",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "백억커피",
+      "rank": 2,
+      "keyword": "맨시티",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "google",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "sxmb",
+      "traffic": "100+"
+    },
+    {
       "rank": 5,
-      "keyword": "lafc",
+      "keyword": "kbs",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "하피냐",
-      "traffic": "100+"
+      "keyword": "이현중",
+      "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "최두호",
-      "traffic": "2000+"
+      "keyword": "김영범",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "ufc",
-      "traffic": "2000+"
+      "keyword": "백억커피",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "토토",
+      "keyword": "lafc",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "최예나",
+      "keyword": "하피냐",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "KBS 아시안게임 개막식 참석",
+      "keyword": "이현중 NBA 도전 날개 달다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김영범 자유형 100M 은메달",
+      "keyword": "남자 농구 금메달",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "‘퇴사 후 테크볼’으로 다시 일어선 이준석 엄마",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "북한, 또 미사일 발사",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "재벌 형사 시즌2",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 6,
-      "keyword": "사랑이 온다",
-      "state": "+",
-      "change": "7"
-    },
-    {
-      "rank": 7,
-      "keyword": "신상훈 골프존 우승",
+      "keyword": "아시안게임 기대감 낮아",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "도쿄게임쇼 찾은 최휘영",
-      "state": "-",
-      "change": "2"
+      "rank": 4,
+      "keyword": "하석진, 하니 가족 보호 나섰다",
+      "state": "+",
+      "change": "3"
     },
     {
-      "rank": 9,
-      "keyword": "성북 전세 한강벨트",
+      "rank": 5,
+      "keyword": "한동훈 김승원 사퇴하라",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "시청률 3.8% 넘으면 삭발",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "제시카, 국내 무대 복귀",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "김정은, 이서진과 결별 후 눈물 방송",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "너 말고 다른 연애",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "마줄스 감독 작전 지시",
+      "keyword": "급발진 안성 참변",
       "state": "n",
       "change": "0"
     }
