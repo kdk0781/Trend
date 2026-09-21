@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-09-21T10:29:51.987Z",
+  "updatedAt": "2026-09-21T16:33:00.940Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "아시안게임",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "dmz",
+      "keyword": "업비트",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "윤동희",
+      "traffic": "200+"
+    },
+    {
       "rank": 3,
-      "keyword": "발로란트 추석 이벤트",
-      "traffic": "1000+"
+      "keyword": "치지직",
+      "traffic": "500+"
     },
     {
       "rank": 4,
+      "keyword": "아시안게임",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "김영범",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "dmz",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "발로란트 추석 이벤트",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
       "keyword": "양승혜",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "keyword": "최지만",
       "traffic": "1000+"
     },
     {
-      "rank": 6,
-      "keyword": "드래프트",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "김다현",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "강훈식",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "부산국제영화제",
-      "traffic": "1000+"
-    },
-    {
       "rank": 10,
-      "keyword": "25사단",
-      "traffic": "2000+"
+      "keyword": "드래프트",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
@@ -62,56 +62,56 @@
     {
       "rank": 2,
       "keyword": "인사하는 이재명 대통령",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "모레노 감독 훈련 관찰",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 3,
+      "keyword": "추석 맞이 준비 중",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 4,
-      "keyword": "추석 연휴 무료 및 할인 소식",
+      "keyword": "암살자 VIP 시사회 참석者",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김대범 대리기사 폭행 해명",
-      "state": "n",
+      "keyword": "태국 배드민턴 스타 도핑 양성",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "벌금 감수하고 아시안게임 도전",
+      "keyword": "모레노 감독 훈련 지켜봐",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "박정성 통상교섭본부장 면담",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "이준영, 포핸즈 강비오 슬럼프 극복 예고",
+      "keyword": "프로포폴 투약 피부과 구속",
       "state": "+",
       "change": "2"
     },
     {
+      "rank": 8,
+      "keyword": "김대범, 대리기사 폭행 아니다",
+      "state": "+",
+      "change": "8"
+    },
+    {
       "rank": 9,
-      "keyword": "중수청 2차 임용 201명 신청",
+      "keyword": "배경훈 부총리, 추석맞이 방문",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "윤수정 동점골 1-1 무승부",
-      "state": "-",
-      "change": "1"
+      "keyword": "박정성 통상교섭본부장 면담",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
