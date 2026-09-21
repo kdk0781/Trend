@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-09-21T20:31:57.850Z",
+  "updatedAt": "2026-09-21T23:32:40.271Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "삼성전자 주가",
+      "traffic": "100+"
+    },
+    {
+      "rank": 2,
       "keyword": "구글",
       "traffic": "500+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "업비트",
       "traffic": "100+"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "윤동희",
       "traffic": "200+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "조병현",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "keyword": "치지직",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "keyword": "아시안게임",
       "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "김영범",
-      "traffic": "200+"
     },
     {
       "rank": 8,
@@ -55,61 +55,61 @@
   "domestic": [
     {
       "rank": 1,
-      "keyword": "곽빈, 대만에 5-0 완승!",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 2,
-      "keyword": "현숙, 광수 데이트 비용 모두 내가 부담",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "강훈식 사의 표명",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "여자배구 결승 좌절",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 5,
-      "keyword": "암살자 시사회 참석한 스타들",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "2026년 9월 22일 운세",
+      "keyword": "카이와 약속한 아시안게임 金",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "한미일 비핵화 재확인",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "하나금융그룹 챔피언십 최종 라운드",
+      "rank": 2,
+      "keyword": "이재명 대통령 도착",
       "state": "-",
-      "change": "6"
+      "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "김다현 심수봉 사과받아 마음 추스르기",
+      "rank": 3,
+      "keyword": "김다현, 심수봉에게 위로받다",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "리센느 11월 3일 컴백!",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "추석 연휴 대책 추진",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "나스닥 최고치 경신",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "김대범 대리기사 폭행 의혹",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "22기 현숙, 전남편 폭력",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "강훈식 사퇴에도 공세 계속",
+      "state": "+",
+      "change": "4"
+    },
+    {
       "rank": 10,
-      "keyword": "DMZ 수색 중 폭발 장병 3명 중상",
+      "keyword": "이강인 퇴장 반격!",
       "state": "n",
       "change": "0"
     }
