@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-21T16:33:00.940Z",
+  "updatedAt": "2026-09-21T20:31:57.850Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "구글",
+      "traffic": "500+"
+    },
+    {
+      "rank": 2,
       "keyword": "업비트",
       "traffic": "100+"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "윤동희",
       "traffic": "200+"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "keyword": "조병현",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
       "keyword": "치지직",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "keyword": "아시안게임",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "김영범",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "dmz",
       "traffic": "200+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "발로란트 추석 이벤트",
       "traffic": "2000+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "양승혜",
       "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "최지만",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "드래프트",
-      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김영범 자유형 금메달",
+      "keyword": "곽빈, 대만에 5-0 완승!",
+      "state": "+",
+      "change": "6"
+    },
+    {
+      "rank": 2,
+      "keyword": "현숙, 광수 데이트 비용 모두 내가 부담",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 2,
-      "keyword": "인사하는 이재명 대통령",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 3,
-      "keyword": "추석 맞이 준비 중",
-      "state": "-",
-      "change": "1"
+      "keyword": "강훈식 사의 표명",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "암살자 VIP 시사회 참석者",
+      "keyword": "여자배구 결승 좌절",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 5,
+      "keyword": "암살자 시사회 참석한 스타들",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "태국 배드민턴 스타 도핑 양성",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 6,
-      "keyword": "모레노 감독 훈련 지켜봐",
+      "keyword": "2026년 9월 22일 운세",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "프로포폴 투약 피부과 구속",
+      "keyword": "한미일 비핵화 재확인",
       "state": "+",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "김대범, 대리기사 폭행 아니다",
-      "state": "+",
-      "change": "8"
+      "keyword": "하나금융그룹 챔피언십 최종 라운드",
+      "state": "-",
+      "change": "6"
     },
     {
       "rank": 9,
-      "keyword": "배경훈 부총리, 추석맞이 방문",
+      "keyword": "김다현 심수봉 사과받아 마음 추스르기",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "박정성 통상교섭본부장 면담",
+      "keyword": "DMZ 수색 중 폭발 장병 3명 중상",
       "state": "n",
       "change": "0"
     }
