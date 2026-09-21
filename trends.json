@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-21T04:59:29.535Z",
+  "updatedAt": "2026-09-21T10:29:51.987Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "부산국제영화제",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "25사단",
+      "keyword": "아시안게임",
       "traffic": "500+"
     },
     {
+      "rank": 2,
+      "keyword": "dmz",
+      "traffic": "100+"
+    },
+    {
       "rank": 3,
-      "keyword": "ai",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "기상청 날씨누리",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "facebook",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "인스타그램",
+      "keyword": "발로란트 추석 이벤트",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
-      "keyword": "인스타",
+      "rank": 4,
+      "keyword": "양승혜",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "최지만",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "드래프트",
       "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "김다현",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "게임",
-      "traffic": "2000+"
+      "keyword": "강훈식",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "기상청",
-      "traffic": "200+"
+      "keyword": "부산국제영화제",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "크래프톤 주가",
-      "traffic": "200+"
+      "keyword": "25사단",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "강훈식 비서실장 사의",
-      "state": "n",
+      "keyword": "김영범 자유형 금메달",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김영범 대회 신기록",
-      "state": "n",
+      "keyword": "인사하는 이재명 대통령",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "2026 더불어민주당 예산정책협의회",
-      "state": "s",
-      "change": "0"
+      "keyword": "모레노 감독 훈련 관찰",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "심수봉 김다현 저격 논란",
-      "state": "s",
+      "keyword": "추석 연휴 무료 및 할인 소식",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "추석 연휴 병원 약국 운영",
+      "keyword": "김대범 대리기사 폭행 해명",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김승원 성추행 수사 단초 필요",
-      "state": "n",
-      "change": "0"
+      "keyword": "벌금 감수하고 아시안게임 도전",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "KBS 개그맨 대리기사 폭행 검거",
-      "state": "-",
-      "change": "2"
+      "keyword": "박정성 통상교섭본부장 면담",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "독감 접종 시작",
-      "state": "n",
-      "change": "0"
+      "keyword": "이준영, 포핸즈 강비오 슬럼프 극복 예고",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "시진핑-트럼프 회담 신경전",
-      "state": "-",
-      "change": "1"
+      "keyword": "중수청 2차 임용 201명 신청",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "25사단 DMZ 지뢰 폭발",
-      "state": "n",
-      "change": "0"
+      "keyword": "윤수정 동점골 1-1 무승부",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
