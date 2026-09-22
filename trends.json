@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-22T19:58:09.537Z",
+  "updatedAt": "2026-09-22T22:45:21.649Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "opus 5.5",
-      "traffic": "100+"
+      "keyword": "장윤정",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "연애전쟁",
-      "traffic": "1000+"
+      "keyword": "핑클",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "죽음",
-      "traffic": "1000+"
+      "keyword": "현대자동차",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "김혜수",
+      "keyword": "인공지능",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "무신사",
-      "traffic": "200+"
+      "keyword": "농민",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "신병",
+      "keyword": "재건축",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "대통령",
-      "traffic": "200+"
+      "keyword": "천궁",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "편의점",
+      "keyword": "익산시",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "혼인",
-      "traffic": "1000+"
+      "keyword": "김성주",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "박남정",
+      "keyword": "김우민",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "2호선 이대역 무정차 통과",
-      "state": "+",
-      "change": "1"
+      "keyword": "이재명 대통령 유엔",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "트럼프 이란과 결정할 것",
+      "keyword": "아시안게임 4일차 승부!",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "한국, 홍콩에 13-0 팀 퍼펙트 성공",
-      "state": "+",
-      "change": "3"
+      "keyword": "트럼프 이란과 결정할 것",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "이소영 임명안 재가",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "유니스, 26일 활동 종료",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "송세라 펜싱 금메달",
+      "keyword": "이소영 이정현 임명 재가",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "이민성호, 사우디 2-0 완파!",
+      "rank": 5,
+      "keyword": "김상겸 아내 카리나 공개",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "태국전 오원석 선발",
       "state": "+",
-      "change": "2"
+      "change": "3"
+    },
+    {
+      "rank": 7,
+      "keyword": "추석 연휴 행사 가득",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "北 대표단 日 망명 아시안게임 사건",
-      "state": "s",
+      "keyword": "가능한 사랑의 영화들",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "KF-21 1호기 배치",
+      "keyword": "MC딩동 폭행 논란 후 복귀",
       "state": "-",
       "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "한다감, 오늘 득남",
-      "state": "+",
-      "change": "2"
+      "keyword": "야구 중계방송",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
