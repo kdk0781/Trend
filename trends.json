@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-09-22T12:05:11.840Z",
+  "updatedAt": "2026-09-22T16:50:18.633Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "도깨비",
+      "keyword": "죽음",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "한덕수",
-      "traffic": "500+"
+      "keyword": "신병4",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "손담비",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "정은채",
+      "keyword": "김혜수",
       "traffic": "500+"
     },
     {
-      "rank": 5,
-      "keyword": "아시안 게임",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "홍콩",
+      "rank": 4,
+      "keyword": "무신사",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "중대범죄수사청",
+      "rank": 5,
+      "keyword": "대통령",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "편의점",
       "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "혼인",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "아시안게임 중계",
-      "traffic": "100+"
+      "keyword": "박남정",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "김승연",
-      "traffic": "100+"
+      "keyword": "노원구",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "현대 투싼",
+      "keyword": "삼성전기",
       "traffic": "500+"
     }
   ],
@@ -57,59 +57,59 @@
       "rank": 1,
       "keyword": "송세라 에페 금메달",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "한성숙 총리, 독일·프랑스 상의 만찬",
+      "keyword": "조희대 대법원장 재제청 거부 규탄",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이병헌 이민정 첫째 고통 고백",
+      "keyword": "이대역 무정차 통과",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이란, 7일내 호르무즈 재개방 제안",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "심수봉 정미애 저격설",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "전투기 KF-21 001호기",
-      "state": "-",
+      "keyword": "트럼프 이란 합의 결단 필요",
+      "state": "+",
       "change": "2"
     },
     {
+      "rank": 5,
+      "keyword": "추석 연휴 시작",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "유니스 26일 계약 종료",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "조희대 대법원장 규탄하는 민주당",
+      "keyword": "이소영 임명안 재가",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "최민석, AG 도전!",
-      "state": "-",
-      "change": "1"
+      "keyword": "한국 야구 팀 퍼펙트",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "이경실 딸 손수아 미인",
-      "state": "n",
-      "change": "0"
+      "keyword": "이민성 감독, 이제 결과 내야 한다",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "이민성 감독 이야기",
+      "keyword": "포스코퓨처엠 LFP 양극재 공급",
       "state": "-",
       "change": "2"
     }
