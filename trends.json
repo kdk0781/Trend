@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-09-22T16:50:18.633Z",
+  "updatedAt": "2026-09-22T19:58:09.537Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "죽음",
-      "traffic": "200+"
+      "keyword": "opus 5.5",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "신병4",
-      "traffic": "200+"
+      "keyword": "연애전쟁",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
+      "keyword": "죽음",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
       "keyword": "김혜수",
       "traffic": "500+"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "무신사",
       "traffic": "200+"
     },
     {
-      "rank": 5,
-      "keyword": "대통령",
-      "traffic": "500+"
+      "rank": 6,
+      "keyword": "신병",
+      "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "keyword": "대통령",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
       "keyword": "편의점",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "혼인",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "박남정",
       "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "노원구",
-      "traffic": "200+"
-    },
-    {
-      "rank": 10,
-      "keyword": "삼성전기",
-      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "송세라 에페 금메달",
+      "keyword": "2호선 이대역 무정차 통과",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "조희대 대법원장 재제청 거부 규탄",
-      "state": "n",
-      "change": "0"
+      "keyword": "트럼프 이란과 결정할 것",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "이대역 무정차 통과",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "트럼프 이란 합의 결단 필요",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "추석 연휴 시작",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "유니스 26일 계약 종료",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "이소영 임명안 재가",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "한국 야구 팀 퍼펙트",
+      "keyword": "한국, 홍콩에 13-0 팀 퍼펙트 성공",
       "state": "+",
       "change": "3"
     },
     {
-      "rank": 9,
-      "keyword": "이민성 감독, 이제 결과 내야 한다",
+      "rank": 4,
+      "keyword": "이소영 임명안 재가",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "유니스, 26일 활동 종료",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "송세라 펜싱 금메달",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "이민성호, 사우디 2-0 완파!",
       "state": "+",
-      "change": "1"
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "北 대표단 日 망명 아시안게임 사건",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "KF-21 1호기 배치",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "포스코퓨처엠 LFP 양극재 공급",
-      "state": "-",
+      "keyword": "한다감, 오늘 득남",
+      "state": "+",
       "change": "2"
     }
   ]
