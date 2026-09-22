@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-22T01:48:19.464Z",
+  "updatedAt": "2026-09-22T06:50:09.180Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "지도",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "게임",
+      "keyword": "타자",
       "traffic": "500+"
     },
     {
-      "rank": 3,
-      "keyword": "기상청 날씨누리",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "청약홈",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "기상청",
+      "rank": 2,
+      "keyword": "메타 뮤즈",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "제미나이",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "게임",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "기상청 날씨누리",
+      "traffic": "1000+"
+    },
+    {
       "rank": 6,
+      "keyword": "청약홈",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "달력",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
       "keyword": "하이닉스 주가",
       "traffic": "100+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "조선일보",
       "traffic": "100+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "삼성전자 주가",
       "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "x",
-      "traffic": "100+"
-    },
-    {
-      "rank": 10,
-      "keyword": "구글",
-      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이형일 강신철 홍지선 재가",
-      "state": "n",
+      "keyword": "추석 연휴 동안 여러 가지 대책과 행사 마련",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "추석 연휴 비상 진료 및 서비스 제공",
+      "keyword": "조희대 재제청 거부 발표",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "안세영 아시안게임 50승1패 압승",
+      "keyword": "김지연과 박서함의 전우애",
+      "state": "+",
+      "change": "7"
+    },
+    {
+      "rank": 4,
+      "keyword": "엑소 팬 아시안게임 金 감격 인증",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "LG전자, 엔비디아 AI 합류",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 5,
-      "keyword": "김정관 장관, 대미투자 보고",
-      "state": "n",
-      "change": "0"
+      "keyword": "피지컬 AI 체험관",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "이정후 시즌 종료",
-      "state": "+",
-      "change": "1"
+      "keyword": "원전 공론화 계획 발표",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "이응철 검찰국장 브리핑",
+      "keyword": "우버 배민 인수 착수",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "리센느 11월 3일 컴백",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 9,
-      "keyword": "삼성전자 독일 쇼룸 개관",
+      "keyword": "정몽규 검찰 송치",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 9,
+      "keyword": "강신철 국방부 장관 취임",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "정점식 원내대표 회의 참석",
+      "keyword": "김건희 매관매직 2심 징역 5년",
       "state": "n",
       "change": "0"
     }
