@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-23T00:57:10.482Z",
+  "updatedAt": "2026-09-23T05:28:45.967Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "추석인사",
-      "traffic": "100+"
+      "keyword": "이혼",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "25 사단 지뢰",
-      "traffic": "2000+"
+      "keyword": "김상겸",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "드래프트",
+      "keyword": "한준호",
       "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "유태빈",
-      "traffic": "500+"
+      "keyword": "대만",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "가덕도신공항",
-      "traffic": "100+"
+      "keyword": "김하성",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "롯데그룹",
-      "traffic": "100+"
+      "keyword": "열대 저압 부",
+      "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "부부의 세계",
-      "traffic": "200+"
+      "keyword": "신혼여행",
+      "traffic": "10000+"
     },
     {
       "rank": 8,
-      "keyword": "신봉선",
-      "traffic": "2000+"
+      "keyword": "김민국",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "관광",
-      "traffic": "500+"
+      "keyword": "암살자(들)",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "돈",
+      "keyword": "gpt 6 sol",
       "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이정현 대검 차장 출근",
+      "keyword": "추석 앞둔 전통시장 붐벼",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "아시안게임 중국 수영 금메달 15개",
-      "state": "-",
-      "change": "1"
+      "keyword": "송편 장동혁 대표",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "리센느 원, 민국과 결혼 꿈꿨다",
+      "keyword": "김건우, 은퇴 3개월 만에 사망",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "이강인 태클 발베르데 부상",
-      "state": "+",
-      "change": "1"
+      "keyword": "한국, 태국에 18-1 승",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이찬진 CEO 능력으로 뽑아야",
+      "keyword": "조희대 제청 절차 수긍 힘들어",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김혜경 여사, 멜라니아 오찬 참석",
-      "state": "-",
-      "change": "4"
+      "keyword": "울산 여중생 2명 추락, 1명 중상",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김구라 주차 논란 해명",
+      "keyword": "배드민턴 안세영 1-1",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이소영 장관 취임 환영과 기대",
-      "state": "+",
-      "change": "1"
+      "keyword": "강남 건강 이상 호소",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "박보검과 진영, 안갯길 리메이크",
+      "keyword": "힘차게 역영 중인 이희은",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "먹방과 건강 이상",
+      "keyword": "DMZ 부상 장병 위문",
       "state": "n",
       "change": "0"
     }
