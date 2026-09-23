@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-23T18:59:27.597Z",
+  "updatedAt": "2026-09-23T22:07:33.971Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "리성금",
-      "traffic": "2000+"
+      "keyword": "최준희",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "김수용",
-      "traffic": "10000+"
+      "keyword": "노동조합",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "신현준",
+      "keyword": "볼로디미르 젤렌스키",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "전주시",
+      "keyword": "승리",
       "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "김유정",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "지 창욱",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "무료영화",
+      "keyword": "상어",
       "traffic": "500+"
     },
     {
+      "rank": 6,
+      "keyword": "양자 컴퓨터",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "스포츠",
+      "traffic": "100+"
+    },
+    {
       "rank": 8,
-      "keyword": "차예련",
-      "traffic": "10000+"
+      "keyword": "박진영",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "주천희",
+      "keyword": "걷기",
       "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "젠슨 황",
-      "traffic": "1000+"
+      "keyword": "두산에너빌리티",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명, 투자 서밋 참석",
-      "state": "s",
+      "keyword": "추석 연휴 첫날 날씨 변동 심해",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "연기 펼치는 북한",
+      "keyword": "이재명, 투자서밋 2026",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "추석 연휴 점검 및 행사",
-      "state": "+",
-      "change": "1"
+      "keyword": "아시안게임에서 고령 자원봉사자들",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "혼성 혼계영 동메달 획득",
-      "state": "-",
+      "keyword": "안재석 끝내기 안타",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "아시안게임의 고령 자원봉사자들",
+      "keyword": "‘81세 선우용여, 시술 안 해’",
       "state": "+",
-      "change": "62"
+      "change": "6"
     },
     {
       "rank": 6,
-      "keyword": "안재석 끝내기 안타!",
-      "state": "+",
-      "change": "1"
+      "keyword": "트럼프와 조선협력 논의 기대",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "승리, 소주병으로 위협",
-      "state": "n",
+      "keyword": "김혜경 여사 송편 빚기 참석",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "트럼프와 조선협력 기대",
-      "state": "n",
+      "keyword": "남규홍 PD, 솔로는 낭만 계약결혼 현실",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "오상욱, 사브르 2연패",
-      "state": "n",
+      "keyword": "이란 대통령, 우린 테러 희생자",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "브라이언이 서인영 실명 공개",
-      "state": "-",
-      "change": "4"
+      "keyword": "이대호 후배들 한우 대게 쏘다",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
