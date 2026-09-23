@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-23T05:28:45.967Z",
+  "updatedAt": "2026-09-23T10:12:50.210Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이혼",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "김상겸",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "한준호",
+      "keyword": "오상욱",
       "traffic": "2000+"
     },
     {
-      "rank": 4,
-      "keyword": "대만",
+      "rank": 2,
+      "keyword": "메이드인코리아 시즌2",
       "traffic": "1000+"
     },
     {
+      "rank": 3,
+      "keyword": "영양소",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "김지민",
+      "traffic": "5000+"
+    },
+    {
       "rank": 5,
-      "keyword": "김하성",
+      "keyword": "삼성전자 배당",
       "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "열대 저압 부",
-      "traffic": "5000+"
+      "keyword": "장인섭",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "신혼여행",
-      "traffic": "10000+"
+      "keyword": "암살자들",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "김민국",
-      "traffic": "1000+"
+      "keyword": "kia 대 두산",
+      "traffic": "10000+"
     },
     {
       "rank": 9,
-      "keyword": "암살자(들)",
-      "traffic": "1000+"
+      "keyword": "반도체",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "gpt 6 sol",
-      "traffic": "5000+"
+      "keyword": "수도권 광역 급행 철도 c 노선",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "추석 앞둔 전통시장 붐벼",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "송편 장동혁 대표",
+      "keyword": "황선우 자유형 200M 은메달",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "김건우, 은퇴 3개월 만에 사망",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "한국, 태국에 18-1 승",
+      "rank": 2,
+      "keyword": "추석 연휴 준비 점검",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "OECD 올해 성장률 3.7% 전망",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "나훈아 고향역 울림 선물",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "조희대 제청 절차 수긍 힘들어",
+      "keyword": "공정위 현장조사 기각",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "울산 여중생 2명 추락, 1명 중상",
+      "keyword": "김수용, 211억 매수-239억 매도",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "배드민턴 안세영 1-1",
-      "state": "n",
-      "change": "0"
+      "keyword": "경기하는 김금영",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "강남 건강 이상 호소",
-      "state": "n",
-      "change": "0"
+      "keyword": "에콰도르전 훈련하는 모레노호와 손흥민",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 9,
-      "keyword": "힘차게 역영 중인 이희은",
-      "state": "n",
-      "change": "0"
+      "keyword": "김건우 경위 확인 중",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "DMZ 부상 장병 위문",
+      "keyword": "시진핑, 베이징 출발",
       "state": "n",
       "change": "0"
     }
