@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-23T15:02:42.971Z",
+  "updatedAt": "2026-09-23T18:59:27.597Z",
   "google": [
     {
       "rank": 1,
+      "keyword": "리성금",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 2,
+      "keyword": "김수용",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 3,
       "keyword": "신현준",
       "traffic": "500+"
     },
     {
-      "rank": 2,
-      "keyword": "김유정",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
+      "rank": 4,
       "keyword": "전주시",
       "traffic": "1000+"
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "keyword": "김유정",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 6,
       "keyword": "지 창욱",
       "traffic": "2000+"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "keyword": "무료영화",
       "traffic": "500+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "차예련",
       "traffic": "10000+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "주천희",
       "traffic": "2000+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "젠슨 황",
       "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "록히드 마틴 f-35 라이트닝 ii",
-      "traffic": "500+"
-    },
-    {
-      "rank": 10,
-      "keyword": "김창열",
-      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "추석엔 비상 근무",
-      "state": "n",
+      "keyword": "이재명, 투자 서밋 참석",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "북한의 연기 펼치기",
+      "keyword": "연기 펼치는 북한",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "추석 연휴 점검 및 행사",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "혼성 혼계영 동메달 획득",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 3,
-      "keyword": "이재명, 투자 서밋 참석",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 4,
-      "keyword": "소주병 든 승리 CCTV",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 5,
-      "keyword": "안재석 끝내기 안타",
+      "keyword": "아시안게임의 고령 자원봉사자들",
       "state": "+",
-      "change": "6"
+      "change": "62"
     },
     {
       "rank": 6,
-      "keyword": "지창욱, 현빈에 여보 웬일이야?",
-      "state": "n",
-      "change": "0"
+      "keyword": "안재석 끝내기 안타!",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "김유정 진영 눈물",
+      "keyword": "승리, 소주병으로 위협",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "귀성길 짙은 안개 주의",
+      "keyword": "트럼프와 조선협력 기대",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "간호사 병원 113일 사과",
+      "keyword": "오상욱, 사브르 2연패",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "NC 박건우, 내전근 손상 2주 이탈",
-      "state": "n",
-      "change": "0"
+      "keyword": "브라이언이 서인영 실명 공개",
+      "state": "-",
+      "change": "4"
     }
   ]
 }
