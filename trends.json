@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-23T22:07:33.971Z",
+  "updatedAt": "2026-09-24T00:27:12.293Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "최준희",
-      "traffic": "1000+"
+      "keyword": "습관",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "노동조합",
-      "traffic": "500+"
+      "keyword": "전설의 사내",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "볼로디미르 젤렌스키",
-      "traffic": "500+"
+      "keyword": "삼전닉스",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "승리",
-      "traffic": "1000+"
+      "keyword": "굿파트너",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "상어",
-      "traffic": "500+"
+      "keyword": "무안국제공항",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "양자 컴퓨터",
+      "keyword": "장윤주",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "스포츠",
-      "traffic": "100+"
+      "keyword": "재테크",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "박진영",
-      "traffic": "100+"
+      "keyword": "원자력 발전소",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "걷기",
-      "traffic": "2000+"
+      "keyword": "마이클 버리",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "두산에너빌리티",
-      "traffic": "500+"
+      "keyword": "마우스",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "추석 연휴 첫날 날씨 변동 심해",
-      "state": "n",
+      "keyword": "일본 여자 핸드볼, 아시안게임 4연승",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이재명, 투자서밋 2026",
+      "keyword": "트럼프, 시진핑 만남",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "아시안게임에서 고령 자원봉사자들",
+      "keyword": "방탄소년단, 글로벌 매출 1위",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "안재석 끝내기 안타",
-      "state": "+",
-      "change": "1"
+      "keyword": "우창윤, 우리 의사 아닌가?",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "‘81세 선우용여, 시술 안 해’",
-      "state": "+",
-      "change": "6"
+      "keyword": "미·중 무역 휴전 2개월 연장",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "트럼프와 조선협력 논의 기대",
-      "state": "s",
+      "keyword": "유재석 야윈 얼굴로 복귀",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김혜경 여사 송편 빚기 참석",
-      "state": "s",
+      "keyword": "회담서 핵잠 논의",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "남규홍 PD, 솔로는 낭만 계약결혼 현실",
-      "state": "s",
+      "keyword": "에릭센 계약 해지",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이란 대통령, 우린 테러 희생자",
-      "state": "s",
+      "keyword": "목사, 호의를 권리로 착각",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이대호 후배들 한우 대게 쏘다",
+      "keyword": "너 하나 죽이는 거",
       "state": "n",
       "change": "0"
     }
