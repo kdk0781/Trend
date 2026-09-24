@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-24T18:38:13.315Z",
+  "updatedAt": "2026-09-24T21:46:41.043Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "중추절",
-      "traffic": "200+"
+      "keyword": "안세영",
+      "traffic": "10000+"
     },
     {
       "rank": 2,
-      "keyword": "이창섭",
-      "traffic": "1000+"
+      "keyword": "서울특별시",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "박찬호",
-      "traffic": "1000+"
+      "keyword": "최진실",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "심형래",
-      "traffic": "200+"
+      "keyword": "norway vs denmark",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "신뢰도",
-      "traffic": "200+"
+      "keyword": "성유리",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "피파랭킹",
-      "traffic": "200+"
+      "keyword": "추신수",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "엘니뇨",
-      "traffic": "2000+"
+      "keyword": "심수봉",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "종합부동산세",
-      "traffic": "5000+"
+      "keyword": "nations league",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "조인성",
-      "traffic": "2000+"
+      "keyword": "portugal vs wales",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "사고",
-      "traffic": "1000+"
+      "keyword": "네이션스리그",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "모레노 감독 손흥민 승리",
+      "keyword": "이재명 대통령, 한·멕시코 관계 강화",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이재명 멕시코 영웅탑 참배",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "여서정 금메달 쾌거",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "김정은 방러 초청 일정 조율",
+      "keyword": "모레노 감독 첫 경기 준비 중",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "공동언론발표 마친 한-멕시코 정상",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "2026 아시안게임 주요 일정",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 5,
-      "keyword": "트럼프 안보와 기술 논의",
-      "state": "n",
-      "change": "0"
+      "keyword": "시진핑 미중 관계 개선",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "북한군 포로 한국행 정보 없어",
-      "state": "n",
-      "change": "0"
+      "keyword": "사파리 부부 외도 진실 밝혀진다",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "추석 연휴 즐거운 시간",
-      "state": "+",
+      "keyword": "북한 포로 송환 비공개",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "안세영, 왕즈이와 결승 대진 확정!",
+      "keyword": "손흥민 골 기쁨",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "李대통령 北포로",
-      "state": "n",
-      "change": "0"
+      "keyword": "기안84의 연애 고민",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 10,
-      "keyword": "싶다 북한군 송환",
-      "state": "n",
-      "change": "0"
+      "keyword": "어쩔수가 없다",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
