@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-24T00:27:12.293Z",
+  "updatedAt": "2026-09-24T05:09:47.637Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "습관",
-      "traffic": "500+"
+      "keyword": "적금",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "전설의 사내",
-      "traffic": "200+"
+      "keyword": "이승철",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "삼전닉스",
+      "keyword": "김나희",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "굿파트너",
-      "traffic": "200+"
+      "keyword": "성과급",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "무안국제공항",
-      "traffic": "100+"
+      "keyword": "남규홍",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "장윤주",
-      "traffic": "100+"
+      "keyword": "포탄",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "재테크",
-      "traffic": "500+"
+      "keyword": "한국수력원자력",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "원자력 발전소",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "마이클 버리",
+      "keyword": "단풍",
       "traffic": "500+"
     },
     {
+      "rank": 9,
+      "keyword": "건강",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "마우스",
-      "traffic": "200+"
+      "keyword": "며느리",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "일본 여자 핸드볼, 아시안게임 4연승",
-      "state": "s",
-      "change": "0"
+      "keyword": "남자 카약 4인승 금메달",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "트럼프, 시진핑 만남",
+      "keyword": "추석 연휴 시작 첫날 설렘",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "방탄소년단, 글로벌 매출 1위",
-      "state": "s",
-      "change": "0"
+      "keyword": "여자 농구 4강행",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 4,
-      "keyword": "우창윤, 우리 의사 아닌가?",
-      "state": "s",
-      "change": "0"
+      "keyword": "귀성객들로 붐비는 서울역",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "미·중 무역 휴전 2개월 연장",
+      "keyword": "400M 자영 출전 김우민",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "유재석 야윈 얼굴로 복귀",
-      "state": "n",
-      "change": "0"
+      "keyword": "유용원 북한 포로 한국 도착",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "회담서 핵잠 논의",
+      "keyword": "북포로 한국행 우크라 결실",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "에릭센 계약 해지",
+      "keyword": "이강인과 레알 마드리드 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "목사, 호의를 권리로 착각",
+      "keyword": "타율 0.113 김하성 무안타",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "너 하나 죽이는 거",
+      "keyword": "신유빈 13분만에 16강행",
       "state": "n",
       "change": "0"
     }
