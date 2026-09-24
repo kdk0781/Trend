@@ -1,117 +1,56 @@
 {
-  "updatedAt": "2026-09-24T09:56:50.886Z",
+  "updatedAt": "2026-09-24T14:36:22.906Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "우지원",
-      "traffic": "500+"
+      "keyword": "심형래",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "부동산",
-      "traffic": "5000+"
+      "keyword": "신뢰도",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "고우석",
-      "traffic": "1000+"
+      "keyword": "피파랭킹",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "롯데 대 lg",
-      "traffic": "10000+"
+      "keyword": "조인성",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "송지효",
+      "keyword": "종합부동산세",
       "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "김영희",
-      "traffic": "2000+"
+      "keyword": "엘니뇨",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "삼성 대 ssg",
-      "traffic": "20000+"
+      "keyword": "사고",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "비치발리볼",
-      "traffic": "500+"
+      "keyword": "일본 대 우루과이",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "삼성",
-      "traffic": "20000+"
+      "keyword": "암호화폐",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "조세",
-      "traffic": "1000+"
+      "keyword": "thời tiết ngày mai",
+      "traffic": "2000+"
     }
   ],
-  "domestic": [
-    {
-      "rank": 1,
-      "keyword": "추석 연휴 첫날 귀성객 몰려",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "장국희-이종준 스키트 단체전 2위",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "국방부 앞 1인 시위 한동훈",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "박수홍 김다예 기내 논란 후 두 돌 재이 최근 소식",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "연기 펼치는 류성현",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "유시민에 검찰 개혁",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "동메달에 환호하는 조성재",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "김지민 집안일 김준호 몫",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "여서정 K4 금메달 도전",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 10,
-      "keyword": "은지원 후 달라진 둘이서",
-      "state": "n",
-      "change": "0"
-    }
-  ]
+  "domestic": []
 }
