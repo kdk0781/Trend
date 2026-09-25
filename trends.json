@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-25T00:02:51.001Z",
+  "updatedAt": "2026-09-25T04:47:20.395Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "열차",
+      "keyword": "육군3사관학교",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "vix",
-      "traffic": "100+"
+      "keyword": "육상 경기",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "추석 차례상",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "天气",
+      "keyword": "추가은",
       "traffic": "500+"
     },
     {
+      "rank": 4,
+      "keyword": "은가은",
+      "traffic": "200+"
+    },
+    {
       "rank": 5,
-      "keyword": "해외여행",
-      "traffic": "100+"
+      "keyword": "설영우",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "ionq",
-      "traffic": "200+"
+      "keyword": "김지찬",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "서울지하철",
-      "traffic": "200+"
+      "keyword": "장윤정",
+      "traffic": "20000+"
     },
     {
       "rank": 8,
-      "keyword": "weather",
-      "traffic": "2000+"
+      "keyword": "조희대",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "차례상",
-      "traffic": "1000+"
+      "keyword": "비치발리볼",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "thời tiết",
-      "traffic": "1000+"
+      "keyword": "이혼",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "아시안게임 중 테러 발생",
+      "keyword": "카누 조광희 김효빈 2관왕",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "지방쓰는법",
-      "state": "+",
-      "change": "7"
+      "keyword": "추석 연휴 즐길 거리 추천",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "나솔사계",
+      "keyword": "서은혜 조영남 임신 발표",
       "state": "+",
       "change": "3"
     },
     {
       "rank": 4,
-      "keyword": "이히니오 마르티네스 멕시코",
+      "keyword": "장동혁 한동훈 복당 부적절",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "성폭행 음주운전한 긴급피난",
-      "state": "n",
-      "change": "0"
+      "keyword": "신유빈 4강 진출!",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "벌었는데 179억 파산",
+      "keyword": "박지현, 韓 최초 에미상 후보",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "손흥민·이강인 고통 끝!",
-      "state": "+",
-      "change": "3"
+      "keyword": "이재명 대통령과 멕시코 상원의장 대화",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "고속도로 교통상황",
+      "keyword": "스걸파2 우승 16세 댄서 사망",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "퇴출 어도어와 일상",
+      "keyword": "극대노 판정 해명",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "22기 현숙, 16기 광수와 각자의 길 가기로",
-      "state": "n",
-      "change": "0"
+      "keyword": "홍진경 해명 이모할머니 아니다",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
