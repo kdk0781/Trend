@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-25T09:49:48.658Z",
+  "updatedAt": "2026-09-25T14:46:03.376Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "증여세",
-      "traffic": "2000+"
+      "keyword": "이은결",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "주식",
-      "traffic": "5000+"
+      "keyword": "정은혜",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "성남시",
-      "traffic": "500+"
+      "keyword": "내일 날씨",
+      "traffic": "500000+"
     },
     {
       "rank": 4,
-      "keyword": "이효리",
-      "traffic": "500+"
+      "keyword": "금",
+      "traffic": "5000+"
     },
     {
       "rank": 5,
-      "keyword": "장쯔위",
+      "keyword": "thời tiết ngày mai",
       "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "삼전닉스",
-      "traffic": "1000+"
+      "keyword": "weather tomorrow",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "이승기",
-      "traffic": "1000+"
+      "keyword": "기사",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "이시영",
-      "traffic": "500+"
+      "keyword": "중산층",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "폭발",
-      "traffic": "1000+"
+      "keyword": "박현호",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "야마다 리아",
-      "traffic": "1000+"
+      "keyword": "스타벅스",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "장잔숴, 박태환 기록 갱신 7관왕",
-      "state": "+",
-      "change": "3"
+      "keyword": "남자 3대3 농구 첫 금메달",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "아이 갖지 않기로 합의",
+      "keyword": "서은혜 임신설 해명",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "여자 에페 단체전 결승!",
+      "keyword": "조엘진·비웨사 100M 메달 불발",
       "state": "+",
-      "change": "2"
+      "change": "6"
     },
     {
       "rank": 4,
-      "keyword": "장관 한-멕시코 방안",
+      "keyword": "16세 스걸파2 우승자 별세",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "지뢰폭발 조사 신속하고 철저",
-      "state": "n",
+      "keyword": "비웨사 다니엘 가사마",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "EXID 혜린, 탈모 진단 충격",
+      "keyword": "부캉이 보러 20만명 방문",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "오마이걸 미미, 꺼드럭 열받아",
-      "state": "n",
-      "change": "0"
+      "keyword": "세계 1위 무너짐",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "추석 한국 훔쳤어",
-      "state": "n",
-      "change": "0"
+      "keyword": "유퉁, 심수봉 논란",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "이효리, 이경규에 사과",
+      "keyword": "박명수 딸 대학 합격",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "여서정",
+      "keyword": "미미, 아이돌 저격!",
       "state": "n",
       "change": "0"
     }
