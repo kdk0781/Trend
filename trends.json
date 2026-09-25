@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-24T21:46:41.043Z",
+  "updatedAt": "2026-09-25T00:02:51.001Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "안세영",
-      "traffic": "10000+"
+      "keyword": "열차",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "서울특별시",
+      "keyword": "vix",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "최진실",
+      "keyword": "추석 차례상",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "norway vs denmark",
-      "traffic": "100+"
+      "keyword": "天气",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "성유리",
+      "keyword": "해외여행",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "추신수",
-      "traffic": "100+"
+      "keyword": "ionq",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "심수봉",
+      "keyword": "서울지하철",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "nations league",
-      "traffic": "100+"
+      "keyword": "weather",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "portugal vs wales",
-      "traffic": "500+"
+      "keyword": "차례상",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "네이션스리그",
-      "traffic": "200+"
+      "keyword": "thời tiết",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 대통령, 한·멕시코 관계 강화",
+      "keyword": "아시안게임 중 테러 발생",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "모레노 감독 첫 경기 준비 중",
-      "state": "s",
-      "change": "0"
+      "keyword": "지방쓰는법",
+      "state": "+",
+      "change": "7"
     },
     {
       "rank": 3,
-      "keyword": "공동언론발표 마친 한-멕시코 정상",
+      "keyword": "나솔사계",
       "state": "+",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 4,
-      "keyword": "2026 아시안게임 주요 일정",
-      "state": "-",
-      "change": "1"
+      "keyword": "이히니오 마르티네스 멕시코",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "시진핑 미중 관계 개선",
-      "state": "+",
-      "change": "3"
+      "keyword": "성폭행 음주운전한 긴급피난",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "사파리 부부 외도 진실 밝혀진다",
+      "keyword": "벌었는데 179억 파산",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "손흥민·이강인 고통 끝!",
       "state": "+",
       "change": "3"
     },
     {
-      "rank": 7,
-      "keyword": "북한 포로 송환 비공개",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 8,
-      "keyword": "손흥민 골 기쁨",
+      "keyword": "고속도로 교통상황",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "기안84의 연애 고민",
-      "state": "-",
-      "change": "4"
+      "keyword": "퇴출 어도어와 일상",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "어쩔수가 없다",
-      "state": "-",
-      "change": "3"
+      "keyword": "22기 현숙, 16기 광수와 각자의 길 가기로",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
