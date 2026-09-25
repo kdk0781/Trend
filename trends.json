@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-25T18:55:29.802Z",
+  "updatedAt": "2026-09-25T21:54:52.992Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "olympia",
+      "keyword": "여에스더",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "하주석",
+      "keyword": "심수봉",
       "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "맨시티",
-      "traffic": "1000+"
+      "keyword": "박지현",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "이승철",
-      "traffic": "500+"
+      "keyword": "후티",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "이은결",
+      "keyword": "이경규",
       "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "정은혜",
+      "keyword": "걷기",
       "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "내일 날씨",
-      "traffic": "500000+"
+      "keyword": "민호",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "금",
-      "traffic": "5000+"
+      "keyword": "장동혁",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "thời tiết ngày mai",
-      "traffic": "2000+"
+      "keyword": "트로트",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "weather tomorrow",
-      "traffic": "2000+"
+      "keyword": "적금",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 비즈니스 포럼",
+      "keyword": "한-멕시코 포럼 참석한 이재명",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "3대3 농구 사상 첫 금메달",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "박명수 딸 합격 축하",
+      "keyword": "여자 농구 아시안게임 동메달 쾌거",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "베트남 4-0 대파 준결승 진출",
+      "rank": 3,
+      "keyword": "박명수 딸 대학 합격",
       "state": "+",
-      "change": "4"
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "트럼프 시진핑 회동 연속",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "트럼프와 시진핑 회동 마무리",
-      "state": "-",
+      "keyword": "추석 연휴 즐길 거리",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "추가골 넣은 김지수",
-      "state": "-",
-      "change": "1"
+      "keyword": "2026년 9월 26일 운세",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "부캉이 보러 20만명 몰려",
-      "state": "-",
-      "change": "1"
+      "keyword": "결말 손예진도 좋아요",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "美무역대표 협상 진전",
-      "state": "-",
+      "keyword": "뉴욕증시 상승",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "추석 저녁 귀성길",
+      "keyword": "야구 경우의 수 복잡해졌다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "강아지가 친구 집들이",
+      "keyword": "의전은 있었으나 빅딜은 없다",
       "state": "n",
       "change": "0"
     }
