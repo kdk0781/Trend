@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-26T20:06:26.240Z",
+  "updatedAt": "2026-09-26T22:42:53.208Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "한채아",
-      "traffic": "200+"
+      "keyword": "복권",
+      "traffic": "20000+"
     },
     {
       "rank": 2,
-      "keyword": "종이팩",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "england vs spain",
+      "keyword": "육상 경기",
       "traffic": "500+"
     },
     {
+      "rank": 3,
+      "keyword": "100일의 거짓말",
+      "traffic": "200+"
+    },
+    {
       "rank": 4,
-      "keyword": "잉글랜드 대 스페인",
-      "traffic": "5000+"
+      "keyword": "심수봉",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "이창섭",
-      "traffic": "1000+"
+      "keyword": "england national football team vs spain national football team standings",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "윤아",
+      "keyword": "대통령",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "왕사남",
-      "traffic": "1000+"
+      "keyword": "박서진",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "지선",
-      "traffic": "200+"
+      "keyword": "김혜성",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "휴게소",
-      "traffic": "5000+"
+      "keyword": "전지적 참견 시점",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "조현아",
-      "traffic": "2000+"
+      "keyword": "외국인",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "여자농구 금메달 순간",
+      "keyword": "한국 남녀 농구 금메달",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이재명 대통령 부부 인사",
+      "keyword": "이재명 대통령 부부",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "환희, 8년 만에 컴백 트로트 활동",
+      "keyword": "박세리 타운하우스 이사",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "화려한 추석 드론-레이저쇼",
-      "state": "+",
-      "change": "1"
+      "keyword": "송강과 이준영의 포핸즈 서사",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "송강, 이준영 포핸즈 클래식 서사",
+      "keyword": "2026년 9월 27일 운세",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "왕과 사는 남자",
-      "state": "-",
-      "change": "3"
+      "keyword": "곽범, 이경영 성대모사 금지",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "박명수 딸 한예종 합격",
-      "state": "s",
-      "change": "0"
+      "keyword": "암살자들 논란",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "1243회 로또 1등 25억 12명",
-      "state": "s",
-      "change": "0"
+      "keyword": "추석 연휴 끝",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "암살자들 논란 계속된다",
-      "state": "s",
+      "keyword": "임예진 결혼 시댁 끊었다",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "박세리 타운하우스 공개",
-      "state": "n",
-      "change": "0"
+      "keyword": "왕과 사는 남자",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
