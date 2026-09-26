@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-26T00:16:55.768Z",
+  "updatedAt": "2026-09-26T05:06:17.415Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "과일",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "아시안 게임",
+      "keyword": "최수종",
       "traffic": "5000+"
     },
     {
-      "rank": 3,
-      "keyword": "박명수",
+      "rank": 2,
+      "keyword": "진양곤",
       "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "죽음",
+      "traffic": "5000+"
     },
     {
       "rank": 4,
-      "keyword": "김가연",
-      "traffic": "100+"
+      "keyword": "asian games men",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "퇴장",
-      "traffic": "100+"
+      "keyword": "뿌요뿌요",
+      "traffic": "20000+"
     },
     {
       "rank": 6,
-      "keyword": "연애전쟁",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "재건축",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "임영웅",
+      "keyword": "최태원",
       "traffic": "1000+"
     },
     {
+      "rank": 7,
+      "keyword": "nepal vs japan",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "카바디",
+      "traffic": "2000+"
+    },
+    {
       "rank": 9,
-      "keyword": "배틀그라운드",
-      "traffic": "200+"
+      "keyword": "김대호",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "날씨",
-      "traffic": "100000+"
+      "keyword": "페데리코 발베르데",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명, 한-멕 포럼 참석",
-      "state": "s",
+      "keyword": "아시안게임 은메달과 8강 시청률",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "여자 3X3 농구 아시안게임 메달 획득!",
-      "state": "s",
+      "keyword": "장상원 1인승 은메달",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "한국야구 日사회인에 참패",
+      "keyword": "추석 연휴 귀경길 정체",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "박명수 딸 대학 합격",
+      "keyword": "나나 강도범 역고소 무고",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "트럼프와 시진핑 회동 마무리",
+      "keyword": "최수종, 어머니 모친상 슬픔",
       "state": "-",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "2026년 9월 26일 운세",
+      "keyword": "백악관 CNN 탑승 차단",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "소파 긁었다고 50만원?",
+      "keyword": "안세영 20분 완승!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "곽튜브 아내 가족사진 포착",
+      "keyword": "엉덩이가 기억을 중단 부른",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "서은혜 초음파 사진 삭제",
+      "keyword": "靑, 원칙 따라 대응",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "뉴욕증시 다우 상승",
+      "keyword": "윤호중 장관 외교 활동",
       "state": "n",
       "change": "0"
     }
