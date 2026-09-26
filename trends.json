@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-26T13:54:20.239Z",
+  "updatedAt": "2026-09-26T17:30:56.033Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "오원석",
-      "traffic": "200+"
+      "keyword": "이창섭",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "왕과사는남자",
-      "traffic": "200+"
+      "keyword": "윤아",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "휴게소",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "조현아",
+      "keyword": "왕사남",
       "traffic": "1000+"
     },
     {
+      "rank": 4,
+      "keyword": "지선",
+      "traffic": "200+"
+    },
+    {
       "rank": 5,
+      "keyword": "휴게소",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "조현아",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
       "keyword": "lotto result 6/45",
       "traffic": "200+"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "keyword": "sbs",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "한소희",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "정시아",
-      "traffic": "1000+"
-    },
-    {
       "rank": 9,
-      "keyword": "로또",
-      "traffic": "10000+"
+      "keyword": "한소희",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "경복궁",
-      "traffic": "2000+"
+      "keyword": "정시아",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "아시안게임 야구로 로또 지연",
+      "keyword": "남자 사브르 4연패 달성",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "왕과 사는 남자",
-      "state": "s",
-      "change": "0"
+      "keyword": "여자농구 AG 금메달",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "송강과 이준영, 포핸즈 클래식 서사",
-      "state": "+",
-      "change": "3"
+      "keyword": "이재명 대통령 부부 인사",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "DMZ 폭발사고 조사 진행",
-      "state": "s",
-      "change": "0"
+      "keyword": "DMZ 지뢰 폭발 조사 준비",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 5,
       "keyword": "박명수 딸 한예종 합격",
-      "state": "n",
-      "change": "0"
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "우크라 北포로 송환 논란",
-      "state": "n",
+      "keyword": "화려한 추석 드론-레이저쇼",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "연휴 마지막 날 비",
+      "keyword": "환희, 8년 만에 트로트 컴백",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "안세영 하루 2연승!",
-      "state": "n",
+      "keyword": "1243회 로또 1등 12명 당첨",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "스윙스의 변신? 최민식 앞 신인",
+      "keyword": "박세리 갈치김치 타운하우스 공개",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이혼 14년 첫눈에",
-      "state": "n",
-      "change": "0"
+      "keyword": "암살자들 논란",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
