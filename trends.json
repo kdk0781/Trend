@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-26T17:30:56.033Z",
+  "updatedAt": "2026-09-26T20:06:26.240Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이창섭",
-      "traffic": "500+"
+      "keyword": "한채아",
+      "traffic": "200+"
     },
     {
       "rank": 2,
+      "keyword": "종이팩",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "england vs spain",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "잉글랜드 대 스페인",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "이창섭",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
       "keyword": "윤아",
       "traffic": "500+"
     },
     {
-      "rank": 3,
+      "rank": 7,
       "keyword": "왕사남",
       "traffic": "1000+"
     },
     {
-      "rank": 4,
+      "rank": 8,
       "keyword": "지선",
       "traffic": "200+"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "keyword": "휴게소",
       "traffic": "5000+"
     },
     {
-      "rank": 6,
+      "rank": 10,
       "keyword": "조현아",
       "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "lotto result 6/45",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "sbs",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "한소희",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "정시아",
-      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "남자 사브르 4연패 달성",
+      "keyword": "여자농구 금메달 순간",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "여자농구 AG 금메달",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
       "keyword": "이재명 대통령 부부 인사",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "DMZ 지뢰 폭발 조사 준비",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "박명수 딸 한예종 합격",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "화려한 추석 드론-레이저쇼",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "환희, 8년 만에 컴백 트로트 활동",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "화려한 추석 드론-레이저쇼",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "송강, 이준영 포핸즈 클래식 서사",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "왕과 사는 남자",
+      "state": "-",
+      "change": "3"
+    },
+    {
       "rank": 7,
-      "keyword": "환희, 8년 만에 트로트 컴백",
-      "state": "n",
+      "keyword": "박명수 딸 한예종 합격",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "1243회 로또 1등 12명 당첨",
+      "keyword": "1243회 로또 1등 25억 12명",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "박세리 갈치김치 타운하우스 공개",
-      "state": "n",
+      "keyword": "암살자들 논란 계속된다",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "암살자들 논란",
-      "state": "-",
-      "change": "3"
+      "keyword": "박세리 타운하우스 공개",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
