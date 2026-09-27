@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-26T22:42:53.208Z",
+  "updatedAt": "2026-09-27T00:55:24.172Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "복권",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "육상 경기",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "100일의 거짓말",
+      "keyword": "김상식",
       "traffic": "200+"
     },
     {
-      "rank": 4,
-      "keyword": "심수봉",
+      "rank": 2,
+      "keyword": "한옥",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "스타벅스",
       "traffic": "2000+"
     },
     {
+      "rank": 4,
+      "keyword": "최동석",
+      "traffic": "200+"
+    },
+    {
       "rank": 5,
-      "keyword": "england national football team vs spain national football team standings",
+      "keyword": "증여세",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "대통령",
-      "traffic": "500+"
+      "keyword": "공무원",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "박서진",
-      "traffic": "500+"
+      "keyword": "김하성",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "김혜성",
-      "traffic": "500+"
+      "keyword": "소송",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "전지적 참견 시점",
-      "traffic": "500+"
+      "keyword": "이경실",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "외국인",
-      "traffic": "200+"
+      "keyword": "어린이 배우",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "한국 남녀 농구 금메달",
+      "keyword": "아시안게임 야구 결승 한국 5연패 도전",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이재명 대통령 부부",
-      "state": "s",
+      "keyword": "LH 서리풀1지구 내년 3월 보상 착수",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "박세리 타운하우스 이사",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "송강과 이준영의 포핸즈 서사",
-      "state": "s",
+      "keyword": "김하성 2년 만에 첫 멀티 득점",
+      "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "2026년 9월 27일 운세",
-      "state": "+",
+      "rank": 4,
+      "keyword": "에이티즈 산 열애설 부인",
+      "state": "-",
       "change": "1"
     },
     {
+      "rank": 5,
+      "keyword": "카페 고백 경찰 강등",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "곽범, 이경영 성대모사 금지",
-      "state": "+",
-      "change": "2"
+      "keyword": "아이브 레이 첫 OST 발매",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "암살자들 논란",
-      "state": "+",
-      "change": "3"
+      "keyword": "송강과 이준영의 포핸즈 서사",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "추석 연휴 끝",
-      "state": "+",
-      "change": "3"
+      "keyword": "암살자들 논란",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 9,
-      "keyword": "임예진 결혼 시댁 끊었다",
+      "keyword": "연휴 마지막날 귀경길 정체",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "왕과 사는 남자",
-      "state": "-",
-      "change": "3"
+      "keyword": "김기태 사망 가족관계증명서",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
