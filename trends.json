@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-27T16:10:22.833Z",
+  "updatedAt": "2026-09-27T19:46:53.698Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "심진화",
-      "traffic": "500+"
+      "keyword": "norway vs portugal",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "나경원",
+      "keyword": "신병",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "로봇",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "빨래",
+      "keyword": "로드리고 벤탕쿠르",
       "traffic": "500+"
     },
     {
+      "rank": 4,
+      "keyword": "gpt-6 아스트라",
+      "traffic": "1000+"
+    },
+    {
       "rank": 5,
-      "keyword": "우상혁",
-      "traffic": "2000+"
+      "keyword": "심진화",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "미운 우리 새끼",
+      "keyword": "나경원",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "박유천",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "레버리지",
+      "keyword": "로봇",
       "traffic": "2000+"
     },
     {
+      "rank": 8,
+      "keyword": "빨래",
+      "traffic": "1000+"
+    },
+    {
       "rank": 9,
-      "keyword": "이정후",
-      "traffic": "10000+"
+      "keyword": "우상혁",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "영천시",
-      "traffic": "200+"
+      "keyword": "미운 우리 새끼",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
       "keyword": "한국 야구 5연속 금메달",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "이재명 대통령 부부",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "량현량하 김량하 결혼 예정",
+      "rank": 2,
+      "keyword": "靑, 北포로 합의 부인 사과 요구",
       "state": "+",
-      "change": "1"
+      "change": "5"
     },
     {
-      "rank": 4,
-      "keyword": "추석 연휴 다사다난",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "우크라 합의 사과 요구",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
+      "rank": 3,
       "keyword": "스마일 점퍼 우상혁",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "군·유엔사 DMZ 조사 진행",
+      "rank": 4,
+      "keyword": "전현무 촬영 거부",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "권민아 저격 지민 근황 타투",
       "state": "-",
       "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "포핸즈와 반사이익",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "악수하는 이재명 대통령과",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "킴벌리 비렐 결승 출전",
+      "keyword": "주상욱 채정안 당황",
       "state": "-",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "11년 간 당한 권민아 저격 지민 근황",
+      "keyword": "DMZ 폭발",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김다현, 심수봉 논란 후 도전 다짐",
-      "state": "-",
-      "change": "2"
+      "keyword": "지뢰 폭발",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
