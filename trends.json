@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-27T00:55:24.172Z",
+  "updatedAt": "2026-09-27T06:02:54.029Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김상식",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "한옥",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "스타벅스",
+      "keyword": "은가은",
       "traffic": "2000+"
     },
     {
+      "rank": 2,
+      "keyword": "나 혼자 산다",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "살인",
+      "traffic": "10000+"
+    },
+    {
       "rank": 4,
-      "keyword": "최동석",
-      "traffic": "200+"
+      "keyword": "학생",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "증여세",
-      "traffic": "500+"
+      "keyword": "콘크리트",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "공무원",
+      "keyword": "선우은숙",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "김하성",
-      "traffic": "2000+"
+      "keyword": "상속",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "소송",
-      "traffic": "200+"
+      "keyword": "권 민아",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "이경실",
-      "traffic": "100+"
+      "keyword": "부산광역시",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "어린이 배우",
+      "keyword": "천연가스",
       "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "아시안게임 야구 결승 한국 5연패 도전",
+      "keyword": "아시안게임 야구 한일전 준비",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "LH 서리풀1지구 내년 3월 보상 착수",
-      "state": "n",
+      "keyword": "추석 연휴 마지막 날",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김하성 2년 만에 첫 멀티 득점",
-      "state": "n",
+      "keyword": "남동헌, 12년 만의 승마 금메달",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "에이티즈 산 열애설 부인",
+      "keyword": "안세영 항저우 4강 진출",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "카페 고백 경찰 강등",
-      "state": "n",
+      "keyword": "QWER 소년만화 스페셜 클립 공개",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "아이브 레이 첫 OST 발매",
+      "keyword": "DMZ 지뢰 고발",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "송강과 이준영의 포핸즈 서사",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "암살자들 논란",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 9,
-      "keyword": "연휴 마지막날 귀경길 정체",
+      "keyword": "아파트 전월세 보다 가격",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "부승찬 무혐의 천공 의혹",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "한화에어로 채용 사과",
+      "state": "-",
+      "change": "3"
+    },
+    {
       "rank": 10,
-      "keyword": "김기태 사망 가족관계증명서",
+      "keyword": "밝은 여자농구 대표팀",
       "state": "n",
       "change": "0"
     }
