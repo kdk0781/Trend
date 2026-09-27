@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-27T06:02:54.029Z",
+  "updatedAt": "2026-09-27T11:55:39.827Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "은가은",
-      "traffic": "2000+"
+      "keyword": "로또당첨",
+      "traffic": "20000+"
     },
     {
       "rank": 2,
-      "keyword": "나 혼자 산다",
+      "keyword": "미운 우리 새끼",
       "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "살인",
-      "traffic": "10000+"
+      "keyword": "박유천",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "학생",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "콘크리트",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "선우은숙",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "상속",
+      "keyword": "이정후",
       "traffic": "5000+"
     },
     {
+      "rank": 5,
+      "keyword": "레버리지",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "영천시",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "england vs sri lanka",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "권 민아",
+      "keyword": "아시안게임 야구",
       "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "부산광역시",
+      "keyword": "박준순",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "천연가스",
+      "keyword": "3 기 신도시",
       "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "아시안게임 야구 한일전 준비",
+      "keyword": "아시안게임 여자 사브르 금메달",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "추석 연휴 마지막 날",
+      "keyword": "軍·유엔사, DMZ 폭발 조사",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "남동헌, 12년 만의 승마 금메달",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "안세영 항저우 4강 진출",
-      "state": "-",
+      "keyword": "곽빈, 미즈타니 2루타 허용",
+      "state": "+",
       "change": "1"
     },
     {
+      "rank": 4,
+      "keyword": "량현량하 김량하, 내년 1월 결혼해요",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "QWER 소년만화 스페셜 클립 공개",
+      "keyword": "심형래 전성기 수입은 압구정 아파트 값",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "DMZ 지뢰 고발",
-      "state": "n",
+      "keyword": "추석 연휴 46만 방문객",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "아파트 전월세 보다 가격",
+      "keyword": "기아 타이거즈",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "부승찬 무혐의 천공 의혹",
+      "keyword": "타투 지웠지만 스윙스",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "한화에어로 채용 사과",
-      "state": "-",
-      "change": "3"
+      "keyword": "故 오요안나 가해자 신문 완료",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "밝은 여자농구 대표팀",
+      "keyword": "이형일 퇴직연금 논의",
       "state": "n",
       "change": "0"
     }
