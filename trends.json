@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-27T22:35:29.808Z",
+  "updatedAt": "2026-09-28T01:08:49.853Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "퇴직",
+      "keyword": "오유경 아나운서",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "청원",
-      "traffic": "200+"
+      "keyword": "columbus vs inter miami",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "이슬람 혁명 수비대",
-      "traffic": "500+"
+      "keyword": "오늘날씨",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "엘링 홀란",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "사과",
+      "keyword": "김시우",
       "traffic": "500+"
     },
     {
-      "rank": 6,
-      "keyword": "nations league",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "norway national football team vs portugal national football team standings",
+      "rank": 5,
+      "keyword": "콜럼버스 크루 대 인터 마이애미",
       "traffic": "2000+"
     },
     {
+      "rank": 6,
+      "keyword": "나는 solo",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "식중독",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "아파트",
-      "traffic": "1000+"
+      "keyword": "klasemen tim nasional sepak bola norwegia vs portugal",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "한화시스템",
-      "traffic": "200+"
+      "keyword": "엔비디아",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "징역형",
-      "traffic": "200+"
+      "keyword": "weather",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "양지인 아시안게임 금메달 도전",
+      "keyword": "아시안게임 야구장 욱일기 금지!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "靑 우크라 사과 요구",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "여에스더, 암살자들 불편해",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "전현무, 촬영 중단",
+      "keyword": "출근하는 조희대 대법원장",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "권민아 인스타와 가족문제",
+      "rank": 3,
+      "keyword": "미야오 안나의 미모와 고양이",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "트럼프 이란 추가 회담 예상",
-      "state": "+",
+      "rank": 4,
+      "keyword": "엔화 환율",
+      "state": "-",
       "change": "1"
     },
     {
+      "rank": 5,
+      "keyword": "이 대통령 지지율 2주 연속 상승",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "전인지 아칸소 챔피언십 공동 2위",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 7,
-      "keyword": "남자 400M 계주 실격",
+      "keyword": "리사 MTV VMA 베스트 팝 수상",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "2026년 9월 28일 운세",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "류지현 감독 인생 걸다",
+      "keyword": "발언하는 장동혁 대표",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "라이즈 앤톤, 매력적인 출국",
+      "state": "-",
+      "change": "4"
+    },
+    {
       "rank": 10,
-      "keyword": "건설공사 계약액 80.9조 증가",
+      "keyword": "하나금융 5G 특화망 구축",
       "state": "n",
       "change": "0"
     }
