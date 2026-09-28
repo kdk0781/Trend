@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-28T06:47:53.457Z",
+  "updatedAt": "2026-09-28T14:33:10.762Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "살림하는 남자들",
-      "traffic": "2000+"
+      "keyword": "채무",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "삼성전기",
+      "keyword": "김민수",
       "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "옥천군",
-      "traffic": "1000+"
+      "keyword": "김연자",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "마크 도스 산토스",
+      "keyword": "일본 우루과이",
       "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "박보검",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "윤아",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "돈",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "장재인",
+      "keyword": "포를란",
       "traffic": "2000+"
     },
     {
+      "rank": 6,
+      "keyword": "설영우",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "국가수사본부",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "tvn",
+      "traffic": "1000+"
+    },
+    {
       "rank": 9,
-      "keyword": "india vs afghanistan",
-      "traffic": "200+"
+      "keyword": "tv조선",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "홍준표",
-      "traffic": "5000+"
+      "keyword": "해외여행",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "아시안게임 금메달 신동 등장",
-      "state": "s",
-      "change": "0"
+      "keyword": "모레노 감독의 깊은 생각",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "이소영 중기부 장관 취임식",
-      "state": "+",
-      "change": "4"
+      "keyword": "김기현 1년 구형",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "양종타",
+      "keyword": "아시안게임 계주 메달 획득",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "3기 신도시 토론회",
+      "keyword": "DMZ 지뢰 폭발 북한 소행 가능성",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "여자 25M 권총 8위 봉서린",
+      "keyword": "우크라 포로 공개 사과 요구",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "고영욱 틱톡 계정 삭제",
+      "keyword": "30분 영업시간 단축",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김기현 징역 1년 구형",
-      "state": "+",
-      "change": "1"
+      "keyword": "사카구치 결혼 110회 신고",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "영화 암살자 왜곡 논란",
+      "keyword": "김승원 성추행 의혹 수사 착수",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "답변하는 이억원 금융위원장",
+      "keyword": "남양주 별장서 50대 구속",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "故이용주, 신병 출연 기뻐하다",
+      "keyword": "손흥민 A매치 58골",
       "state": "n",
       "change": "0"
     }
