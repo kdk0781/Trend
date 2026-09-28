@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-09-28T01:08:49.853Z",
+  "updatedAt": "2026-09-28T06:47:53.457Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "오유경 아나운서",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "columbus vs inter miami",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "오늘날씨",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "김시우",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "콜럼버스 크루 대 인터 마이애미",
+      "keyword": "살림하는 남자들",
       "traffic": "2000+"
     },
     {
-      "rank": 6,
-      "keyword": "나는 solo",
+      "rank": 2,
+      "keyword": "삼성전기",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "옥천군",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "마크 도스 산토스",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "박보검",
       "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "윤아",
+      "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "식중독",
-      "traffic": "200+"
+      "keyword": "돈",
+      "traffic": "10000+"
     },
     {
       "rank": 8,
-      "keyword": "klasemen tim nasional sepak bola norwegia vs portugal",
-      "traffic": "100+"
+      "keyword": "장재인",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "엔비디아",
-      "traffic": "500+"
+      "keyword": "india vs afghanistan",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "weather",
-      "traffic": "1000+"
+      "keyword": "홍준표",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "아시안게임 야구장 욱일기 금지!",
+      "keyword": "아시안게임 금메달 신동 등장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "출근하는 조희대 대법원장",
-      "state": "n",
-      "change": "0"
+      "keyword": "이소영 중기부 장관 취임식",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 3,
-      "keyword": "미야오 안나의 미모와 고양이",
-      "state": "-",
-      "change": "1"
+      "keyword": "양종타",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "엔화 환율",
-      "state": "-",
-      "change": "1"
+      "keyword": "3기 신도시 토론회",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이 대통령 지지율 2주 연속 상승",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "전인지 아칸소 챔피언십 공동 2위",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "리사 MTV VMA 베스트 팝 수상",
+      "keyword": "여자 25M 권총 8위 봉서린",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "고영욱 틱톡 계정 삭제",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "김기현 징역 1년 구형",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "발언하는 장동혁 대표",
+      "keyword": "영화 암살자 왜곡 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "라이즈 앤톤, 매력적인 출국",
-      "state": "-",
-      "change": "4"
+      "keyword": "답변하는 이억원 금융위원장",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "하나금융 5G 특화망 구축",
+      "keyword": "故이용주, 신병 출연 기뻐하다",
       "state": "n",
       "change": "0"
     }
