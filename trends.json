@@ -1,117 +1,56 @@
 {
-  "updatedAt": "2026-09-28T14:33:10.762Z",
+  "updatedAt": "2026-09-28T20:44:36.138Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "채무",
-      "traffic": "1000+"
+      "keyword": "보이스 피싱",
+      "traffic": "200+"
     },
     {
       "rank": 2,
+      "keyword": "토토",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "belgium vs france",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "벨기에 대 프랑스",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "박지선",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "전지현",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "선거",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "파운드리",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 9,
       "keyword": "김민수",
       "traffic": "2000+"
     },
     {
-      "rank": 3,
-      "keyword": "김연자",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "일본 우루과이",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "포를란",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "설영우",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "국가수사본부",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "tvn",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "tv조선",
-      "traffic": "500+"
-    },
-    {
       "rank": 10,
-      "keyword": "해외여행",
+      "keyword": "채무",
       "traffic": "1000+"
     }
   ],
-  "domestic": [
-    {
-      "rank": 1,
-      "keyword": "모레노 감독의 깊은 생각",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "김기현 1년 구형",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "아시안게임 계주 메달 획득",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "DMZ 지뢰 폭발 북한 소행 가능성",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "우크라 포로 공개 사과 요구",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "30분 영업시간 단축",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "사카구치 결혼 110회 신고",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "김승원 성추행 의혹 수사 착수",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "남양주 별장서 50대 구속",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 10,
-      "keyword": "손흥민 A매치 58골",
-      "state": "n",
-      "change": "0"
-    }
-  ]
+  "domestic": []
 }
