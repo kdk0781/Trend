@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-09-29T06:08:00.033Z",
+  "updatedAt": "2026-09-29T12:44:33.679Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "당뇨병",
+      "keyword": "강남구",
       "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "박나래",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "sonnet 5.5",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "허미미",
+      "keyword": "김혜성",
       "traffic": "1000+"
     },
     {
+      "rank": 3,
+      "keyword": "노동조합",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "산사태",
+      "traffic": "500+"
+    },
+    {
       "rank": 5,
-      "keyword": "망명",
-      "traffic": "200+"
+      "keyword": "콜레스테롤",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "신인감독 김연경",
+      "keyword": "공매도",
       "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "부부",
-      "traffic": "10000+"
+      "keyword": "항소",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "기초노령연금",
-      "traffic": "10000+"
+      "keyword": "북항친수공원",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "일본",
-      "traffic": "10000+"
+      "keyword": "강은탁",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "박성재",
+      "keyword": "미스코리아",
       "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "장동혁, 해병대 방문",
-      "state": "n",
-      "change": "0"
+      "keyword": "암살자들 비판 릴레이",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "태극전사들, 아시안게임 활약",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "부캉이 외해 구조작전",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "철거되는 검찰 간판",
+      "keyword": "정조대왕 능행차 기대해요!",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "김영옥 엄마가 미쳤어요 작품",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "은퇴하는 롯데 김태혁",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 5,
-      "keyword": "닛몰캐쉬 데이트폭력 인정",
+      "keyword": "100일의 거짓말, 진심 로맨스",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "안세영, 세계 최강 여왕",
       "state": "-",
       "change": "2"
     },
     {
-      "rank": 6,
-      "keyword": "조이현 최종면접 만남",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 7,
-      "keyword": "전력망 혁신대책 발표",
-      "state": "-",
-      "change": "1"
+      "keyword": "야간 군사훈련 야조",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "조희대 대법원장 전원합의체 참석",
+      "keyword": "아빌라 9이닝 1실점 완투",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "국회세종의사당 조정식 국회의장",
+      "keyword": "정조의 꿈 이야기",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "이승기 장인 주가조작 징역형",
-      "state": "n",
+      "keyword": "여자축구 결승 도전",
+      "state": "s",
       "change": "0"
     }
   ]
