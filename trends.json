@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-09-29T12:44:33.679Z",
+  "updatedAt": "2026-09-29T18:17:38.276Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "강남구",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "김혜성",
+      "keyword": "맨시티",
       "traffic": "1000+"
     },
     {
+      "rank": 2,
+      "keyword": "이수현",
+      "traffic": "500+"
+    },
+    {
       "rank": 3,
-      "keyword": "노동조합",
+      "keyword": "클로드",
       "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "산사태",
-      "traffic": "500+"
+      "keyword": "정부24",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "콜레스테롤",
+      "keyword": "천궁",
       "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "공매도",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "항소",
+      "keyword": "단발",
       "traffic": "1000+"
     },
     {
+      "rank": 7,
+      "keyword": "도맑음",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "북항친수공원",
+      "keyword": "wnba playoffs",
       "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "강은탁",
-      "traffic": "200+"
+      "keyword": "xrp",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "미스코리아",
-      "traffic": "2000+"
+      "keyword": "공군사관학교",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "암살자들 비판 릴레이",
-      "state": "+",
-      "change": "1"
+      "keyword": "나경원 DMZ 지뢰 결의안 발의",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "정조대왕 능행차 기대해요!",
-      "state": "n",
+      "keyword": "KIA 김도영 41호 홈런",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김영옥 엄마가 미쳤어요 작품",
-      "state": "n",
-      "change": "0"
+      "keyword": "한가인, 뒷광고 해명 구매내역 공개",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 4,
-      "keyword": "은퇴하는 롯데 김태혁",
-      "state": "+",
-      "change": "2"
+      "keyword": "여자 축구 일본에 패배",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "100일의 거짓말, 진심 로맨스",
-      "state": "n",
+      "keyword": "정조대왕 능행차 기대!",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "안세영, 세계 최강 여왕",
+      "keyword": "100일의 거짓말 로맨스 조합",
       "state": "-",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "야간 군사훈련 야조",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "아빌라 9이닝 1실점 완투",
+      "keyword": "경찰, 코스모로보틱스 압수수색",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "정조의 꿈 이야기",
+      "rank": 8,
+      "keyword": "13세 카타르 괴물 소년 40득점",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 9,
+      "keyword": "한강공원 흉기 위협 40대 구속",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "여자축구 결승 도전",
-      "state": "s",
+      "keyword": "2026년 9월 30일 운세",
+      "state": "n",
       "change": "0"
     }
   ]
