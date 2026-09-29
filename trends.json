@@ -1,56 +1,117 @@
 {
-  "updatedAt": "2026-09-28T20:44:36.138Z",
+  "updatedAt": "2026-09-29T00:35:35.714Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "보이스 피싱",
-      "traffic": "200+"
+      "keyword": "sl vs nep",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "토토",
-      "traffic": "100+"
+      "keyword": "재산",
+      "traffic": "10000+"
     },
     {
       "rank": 3,
-      "keyword": "belgium vs france",
-      "traffic": "200+"
+      "keyword": "창신메모리테크놀로지",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "벨기에 대 프랑스",
-      "traffic": "2000+"
+      "keyword": "대학",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "박지선",
+      "keyword": "골프",
       "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "전지현",
-      "traffic": "1000+"
+      "keyword": "수익률",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "선거",
-      "traffic": "2000+"
+      "keyword": "놀면 뭐하니?",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "파운드리",
-      "traffic": "2000+"
+      "keyword": "핑클",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "김민수",
-      "traffic": "2000+"
+      "keyword": "전설 의 사내",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "채무",
-      "traffic": "1000+"
+      "keyword": "날씨",
+      "traffic": "50000+"
     }
   ],
-  "domestic": []
+  "domestic": [
+    {
+      "rank": 1,
+      "keyword": "안세영, 아시안게임 2연패 경합",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 2,
+      "keyword": "삼성 6개사 헬릭스 10억 투자",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "박정희 반발 최고조",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "김영옥 엄마의 마지막 작품",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "박인비, 골프 명예의 전당 후보",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "김학도, 정은표와 한 무대",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "타짜4 1위 역주행",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "계약결혼 시청자 반응은?",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "K-자본시장특별위원회 실무 당정협의회",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "음주운전 후 개인전 홍보",
+      "state": "n",
+      "change": "0"
+    }
+  ]
 }
