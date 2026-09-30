@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-30T06:58:40.738Z",
+  "updatedAt": "2026-09-30T13:22:44.554Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "뉴스",
-      "traffic": "5000+"
+      "keyword": "송일국",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "주병진",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "김정은",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "샘 오취리",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "이혼",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "앱 스토어",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "건설근로자공제회",
+      "keyword": "이",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
-      "keyword": "채시라",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "뇌물",
+      "rank": 3,
+      "keyword": "안전",
       "traffic": "500+"
     },
     {
+      "rank": 4,
+      "keyword": "명태균",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "여자 농구",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "서승재",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "이동국",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "우즈베키스탄 u-23 대 일본 u-23",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "이완섭",
+      "traffic": "200+"
+    },
+    {
       "rank": 10,
-      "keyword": "성현주",
-      "traffic": "2000+"
+      "keyword": "혼외자",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "대통령 대호김종서함 진수식",
+      "keyword": "추경호 징역 20년 구형",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "클로즈 유어 아이즈 재즈 도전",
-      "state": "+",
-      "change": "1"
+      "keyword": "한국 양궁, 인도에 패배",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "컴파운드 혼성 은메달",
+      "keyword": "유도 장세윤 은메달",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "여고생 장윤기 무기징역",
-      "state": "s",
+      "keyword": "이휘향, 남편에게 담배 배워 쓰러져",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김승원 제넨셀 2심 징역 4년",
-      "state": "n",
-      "change": "0"
+      "keyword": "엄마가 미쳤어요",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "DMZ 지뢰 부상 장병 위문",
-      "state": "n",
+      "keyword": "강은탁 2세 중학교 환갑 준비",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "수능 D-50 학원 수험생 열중",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "2026년 전남광주 예산정책협의회",
+      "keyword": "국민과의 소통통로 SNS",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "북한 암살자들 유해진 공격 논란",
+      "rank": 8,
+      "keyword": "만삭 촬영 하는 한다감",
       "state": "-",
-      "change": "1"
+      "change": "4"
+    },
+    {
+      "rank": 9,
+      "keyword": "이도현 스포츠클라이밍 은메달",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "한성숙 총리 국가첨단전략산업위원회",
-      "state": "-",
-      "change": "1"
+      "keyword": "아들 판정 탈락 흉기 협박",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
