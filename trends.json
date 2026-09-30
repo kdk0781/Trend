@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-30T01:22:46.113Z",
+  "updatedAt": "2026-09-30T06:58:40.738Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "아시안게임 롤",
-      "traffic": "500+"
+      "keyword": "뉴스",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "라민 야말",
-      "traffic": "1000+"
+      "keyword": "주병진",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "다음",
+      "keyword": "김정은",
       "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "김사랑",
-      "traffic": "2000+"
+      "keyword": "샘 오취리",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "핵무기",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "빈곤",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "원주시",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "국군 의 날",
+      "keyword": "이혼",
       "traffic": "10000+"
     },
     {
-      "rank": 9,
-      "keyword": "연애전쟁",
+      "rank": 6,
+      "keyword": "앱 스토어",
       "traffic": "2000+"
     },
     {
-      "rank": 10,
-      "keyword": "송은이",
+      "rank": 7,
+      "keyword": "건설근로자공제회",
       "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "채시라",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "뇌물",
+      "traffic": "500+"
+    },
+    {
+      "rank": 10,
+      "keyword": "성현주",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "8월 소비 감소",
+      "keyword": "대통령 대호김종서함 진수식",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "출근하는 조희대 대법원장",
-      "state": "s",
-      "change": "0"
+      "keyword": "클로즈 유어 아이즈 재즈 도전",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "이민성호, 중국과 아시안게임 4강전",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "유엔사 정전협정 위반 확인",
+      "keyword": "컴파운드 혼성 은메달",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "여고생 장윤기 무기징역",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "윈터, 대송포진으로 불참",
-      "state": "+",
-      "change": "5"
+      "keyword": "김승원 제넨셀 2심 징역 4년",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "2차 국민참여성장펀드 출시",
+      "keyword": "DMZ 지뢰 부상 장병 위문",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "굿모닝! 수요 정책 아카데미",
-      "state": "n",
-      "change": "0"
+      "keyword": "수능 D-50 학원 수험생 열중",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "김하성, 4년 만의 삼진 교체",
+      "keyword": "2026년 전남광주 예산정책협의회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "확대 거시재정금융간담회",
+      "keyword": "북한 암살자들 유해진 공격 논란",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "KCSI 1위 석권",
-      "state": "n",
-      "change": "0"
+      "keyword": "한성숙 총리 국가첨단전략산업위원회",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
