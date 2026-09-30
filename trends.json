@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-30T13:22:44.554Z",
+  "updatedAt": "2026-09-30T18:29:35.516Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "송일국",
-      "traffic": "2000+"
+      "keyword": "fat bear",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "이",
+      "keyword": "담배",
       "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "안전",
-      "traffic": "500+"
+      "keyword": "이동진",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "명태균",
+      "keyword": "김형은",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "여자 농구",
-      "traffic": "500+"
+      "keyword": "wnba playoffs",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "서승재",
+      "keyword": "방탄소년단",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "이동국",
-      "traffic": "5000+"
+      "keyword": "비타민 c",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "우즈베키스탄 u-23 대 일본 u-23",
-      "traffic": "200+"
+      "keyword": "봉누도",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "이완섭",
-      "traffic": "200+"
+      "keyword": "서정희",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "혼외자",
-      "traffic": "1000+"
+      "keyword": "고현정",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "추경호 징역 20년 구형",
-      "state": "n",
-      "change": "0"
+      "keyword": "이도현 스포츠클라이밍 은메달",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "한국 양궁, 인도에 패배",
-      "state": "n",
+      "keyword": "美 8월 PCE 3.4% 하회",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "유도 장세윤 은메달",
-      "state": "n",
+      "keyword": "김정난 갑상샘암 투병 고백",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이휘향, 남편에게 담배 배워 쓰러져",
+      "keyword": "네타냐후 조종사 추락 시도",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "엄마가 미쳤어요",
+      "keyword": "나는 솔로",
       "state": "-",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "강은탁 2세 중학교 환갑 준비",
+      "keyword": "국중박 분장놀이 대상 수상자 발표",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 7,
+      "keyword": "2차 펀드 첫날 35.7% 판매",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "정준재 끝내기 안타",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "국민과의 소통통로 SNS",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "만삭 촬영 하는 한다감",
-      "state": "-",
-      "change": "4"
-    },
-    {
       "rank": 9,
-      "keyword": "이도현 스포츠클라이밍 은메달",
+      "keyword": "뇌물 수수 혐의 기소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "아들 판정 탈락 흉기 협박",
-      "state": "n",
-      "change": "0"
+      "keyword": "9회 역전포 권동진 포효",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
