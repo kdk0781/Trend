@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-30T18:29:35.516Z",
+  "updatedAt": "2026-09-30T22:29:48.346Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "fat bear",
-      "traffic": "200+"
+      "keyword": "김하성",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "담배",
-      "traffic": "1000+"
+      "keyword": "kf-21 보라매",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "이동진",
-      "traffic": "1000+"
+      "keyword": "상어",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "김형은",
+      "keyword": "погода",
       "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "wnba playoffs",
-      "traffic": "1000+"
+      "keyword": "철도",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "방탄소년단",
-      "traffic": "500+"
+      "keyword": "아이유",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "비타민 c",
+      "keyword": "신혼여행",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "봉누도",
+      "keyword": "마크 도스 산토스",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "서정희",
-      "traffic": "2000+"
+      "keyword": "경찰",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "고현정",
-      "traffic": "2000+"
+      "keyword": "제네시스",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이도현 스포츠클라이밍 은메달",
-      "state": "+",
-      "change": "2"
+      "keyword": "트럼프 알래스카 LNG 투자",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "美 8월 PCE 3.4% 하회",
+      "keyword": "나는 솔로",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김정난 갑상샘암 투병 고백",
+      "keyword": "박정윤, 아시안게임에서 두 메달 획득!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "네타냐후 조종사 추락 시도",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "나는 솔로",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "국중박 분장놀이 대상 수상자 발표",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 7,
-      "keyword": "2차 펀드 첫날 35.7% 판매",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "정준재 끝내기 안타",
+      "keyword": "김정난 갑상샘암 수술 고백",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "여객기 추락 시도",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "왜 암살자들 소환?",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "김정은 김일성대 창립 80주년 축하",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "마이크론 실적발표",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "뇌물 수수 혐의 기소",
+      "keyword": "엄마가 미쳤어요",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "9회 역전포 권동진 포효",
-      "state": "-",
-      "change": "1"
+      "keyword": "李대통령, 국민과 소통하자",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
