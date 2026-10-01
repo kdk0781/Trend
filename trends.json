@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-30T22:29:48.346Z",
+  "updatedAt": "2026-10-01T01:25:57.750Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김하성",
-      "traffic": "2000+"
+      "keyword": "김태형",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "kf-21 보라매",
+      "keyword": "돌싱글즈",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "상어",
+      "keyword": "토스증권",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "погода",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "철도",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "아이유",
+      "keyword": "손혁",
       "traffic": "1000+"
     },
     {
+      "rank": 5,
+      "keyword": "네이버",
+      "traffic": "20000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "chat gpt",
+      "traffic": "10000+"
+    },
+    {
       "rank": 7,
-      "keyword": "신혼여행",
-      "traffic": "500+"
+      "keyword": "우즈베키스탄 축구 국가대표팀",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "마크 도스 산토스",
-      "traffic": "500+"
+      "keyword": "챗gpt",
+      "traffic": "10000+"
     },
     {
       "rank": 9,
-      "keyword": "경찰",
-      "traffic": "500+"
+      "keyword": "argentina vs bolivia",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "제네시스",
-      "traffic": "200+"
+      "keyword": "양민혁",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 알래스카 LNG 투자",
-      "state": "n",
+      "keyword": "이형일 부총리 주재 회의",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "나는 솔로",
+      "keyword": "구교환, 이옥섭과 4년 전 혼인신고",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "박정윤, 아시안게임에서 두 메달 획득!",
+      "keyword": "아시안게임 금메달 여자농구와 정지민 동메달",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김정난 갑상샘암 수술 고백",
-      "state": "s",
+      "keyword": "9월 수출 최대치",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "여객기 추락 시도",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "왜 암살자들 소환?",
+      "keyword": "발언하는 장동혁 대표",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "코스피 하락 출발해",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "김정은 김일성대 창립 80주년 축하",
+      "keyword": "태권도 품새 정하은",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "마이크론 실적발표",
-      "state": "+",
-      "change": "1"
+      "keyword": "삼성전자 갤럭시 신제품 공개",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 9,
-      "keyword": "엄마가 미쳤어요",
+      "keyword": "뮤지컬 배우 임별, 10월 결혼한다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "李대통령, 국민과 소통하자",
-      "state": "n",
-      "change": "0"
+      "keyword": "알래스카 LNG 투자 확정 아냐",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
