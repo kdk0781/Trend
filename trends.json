@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-01T19:48:04.610Z",
+  "updatedAt": "2026-10-01T23:26:59.511Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "덴마크 대 포르투갈",
-      "traffic": "1000+"
+      "keyword": "패션",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "자동차",
-      "traffic": "2000+"
+      "keyword": "skhy",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "탄약",
+      "keyword": "김지원",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "분당구",
-      "traffic": "1000+"
+      "keyword": "박성현",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "포스코 퓨처 엠",
-      "traffic": "2000+"
+      "keyword": "육군사관학교",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "미사일",
-      "traffic": "10000+"
+      "keyword": "경제",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "군함",
-      "traffic": "2000+"
+      "keyword": "제미 나이 4 아르곤",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "강화도",
-      "traffic": "2000+"
+      "keyword": "영탁",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "청라하늘대교",
+      "keyword": "김희애",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "구속",
-      "traffic": "2000+"
+      "keyword": "이효리",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "검찰 깃발 내려가다",
-      "state": "s",
-      "change": "0"
+      "keyword": "아시안게임 한국은 銀 2 銅 3 획득",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "프로야구 1200만 관중",
-      "state": "s",
-      "change": "0"
+      "keyword": "김지용 후보자 재가",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "지승현 母 영어 실력 자랑",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "2026 서울라이트 빛섬축제",
+      "keyword": "방탄소년단, 보고타 명예 외빈 지정",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "트럼프 중간선거 후 이란 폭격 강화",
+      "rank": 4,
+      "keyword": "암살자들 논란 여당 내로남불",
       "state": "-",
       "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "LAFC 타마리트 임시 감독 선임",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "아시안게임 한국 은동 동메달 수확",
-      "state": "-",
-      "change": "1"
+      "keyword": "트럼프, 중간선거 앞내란법 시사",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "원자층 설계 원리 규명",
+      "keyword": "탈출한 말과 경찰",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "이숙캠 자극 부부 문제 행동",
+      "keyword": "최진실 18주기 추모",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "李대통령과 정청래 4시간 만찬",
-      "state": "+",
-      "change": "3"
+      "keyword": "나솔 26기 영수♥영숙 결혼 발표",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이재현 역전 투런포",
-      "state": "n",
-      "change": "0"
+      "keyword": "엄마가 미쳤어요",
+      "state": "+",
+      "change": "6"
     }
   ]
 }
