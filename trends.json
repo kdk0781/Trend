@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-01T07:26:30.612Z",
+  "updatedAt": "2026-10-01T14:39:27.031Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "심진화",
-      "traffic": "5000+"
+      "keyword": "분당구",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "부동산",
-      "traffic": "5000+"
+      "keyword": "포스코 퓨처 엠",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "신혜선",
-      "traffic": "1000+"
+      "keyword": "미사일",
+      "traffic": "5000+"
     },
     {
       "rank": 4,
-      "keyword": "눈꺼풀",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "사형",
+      "keyword": "군함",
       "traffic": "2000+"
     },
     {
-      "rank": 6,
-      "keyword": "지드래곤",
+      "rank": 5,
+      "keyword": "청라하늘대교",
       "traffic": "1000+"
     },
     {
+      "rank": 6,
+      "keyword": "구속",
+      "traffic": "2000+"
+    },
+    {
       "rank": 7,
-      "keyword": "병무청",
+      "keyword": "송강",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "정치",
+      "keyword": "최태원",
       "traffic": "10000+"
     },
     {
       "rank": 9,
-      "keyword": "이상준",
-      "traffic": "2000+"
+      "keyword": "최준희",
+      "traffic": "10000+"
     },
     {
       "rank": 10,
-      "keyword": "india vs sri lanka",
-      "traffic": "500+"
+      "keyword": "어벤지드 세븐폴드",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "얀 루스 외줄타기",
-      "state": "s",
+      "keyword": "김종호 남자 금메달 쾌거!",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "디거 톰 크루즈, 한국 사랑 전해요",
-      "state": "s",
+      "keyword": "서울 아파트 86주 연속 상승",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김종호 컴파운드 금메달",
-      "state": "s",
+      "keyword": "짐 캐리 민아 결혼",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "조계종 총무원장 진우스님 취임",
+      "keyword": "아나운서에 폭언 사건 발생",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김지용 중수청장 청문 요청 발송 예정",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "허미미 결승 진출",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 7,
-      "keyword": "김종철 청장 직무대행 경례",
+      "keyword": "송기윤, 덤프트럭 사고와 아내 눈물",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "2026 서울라이트 한강 축제",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "26기 영수 영숙 11월 결혼",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "김승원 의원 본회의 참석",
+      "keyword": "이민호 부국제 행사 취소",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "윤영경, 공무원 생활 마감",
-      "state": "+",
-      "change": "3"
+      "keyword": "이관희 유시은 데이트 해명",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이재명 대통령 수석보좌관회의",
-      "state": "-",
-      "change": "1"
+      "keyword": "내려가는 검찰 깃발",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
