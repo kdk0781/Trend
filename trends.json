@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-02T08:45:14.732Z",
+  "updatedAt": "2026-10-02T15:02:46.545Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "코스피",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "김태규",
+      "keyword": "최동원",
       "traffic": "500+"
     },
     {
+      "rank": 2,
+      "keyword": "여행",
+      "traffic": "10000+"
+    },
+    {
       "rank": 3,
-      "keyword": "최환희",
-      "traffic": "2000+"
+      "keyword": "진양곤",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "스티브 승준 유",
+      "keyword": "이상순",
       "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "신혼여행",
-      "traffic": "2000+"
+      "keyword": "김민수",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "쓰레기 봉투",
-      "traffic": "10000+"
+      "keyword": "신랑",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "사랑이 온다",
+      "keyword": "사우디 아라비아",
       "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "휴림로봇",
+      "keyword": "south korea vs venezuela",
       "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "풍자",
-      "traffic": "5000+"
+      "keyword": "인천국제공항",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "오세훈",
-      "traffic": "5000+"
+      "keyword": "무역수지",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "양궁 남자 단체 금메달",
-      "state": "+",
-      "change": "1"
+      "keyword": "최태원, SK 지분 매각 9440억",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "최태원 SK 지분 매각",
-      "state": "+",
-      "change": "3"
+      "keyword": "배우 집 앞 집회 예고",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "조희대 대법원장 신임 법관과 선서",
+      "keyword": "모레노 감독 경기 기다린다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이재명 대통령 민원해결",
+      "keyword": "김지용 아파트 2채 보유",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "故 안판석 유작 연애박사 로맨스",
-      "state": "n",
+      "keyword": "경찰, AI 해킹 내사 착수",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "오세훈 1년 6개월 구형",
+      "keyword": "송기윤 아내 덤프트럭이",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "코스피, 7000선 회복",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "틴틴파이브 멤버들 슬픔 함께",
+      "keyword": "리커브 인도 꺾고",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "노홍철, 의사와 결별",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "주병진 신혜선 만남 끝?",
-      "state": "-",
-      "change": "2"
+      "keyword": "탑♥나나 공개연애 시작",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "암살자 무대인사 취소",
-      "state": "-",
-      "change": "4"
+      "keyword": "장윤정 가족 없는 줄 알더라",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
