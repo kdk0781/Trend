@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-02T19:53:57.534Z",
+  "updatedAt": "2026-10-02T23:27:34.991Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "france vs italy",
-      "traffic": "100+"
+      "keyword": "1박 2일",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "장동혁",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "프랑스 대 이탈리아",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "야구",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "김민",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "최동원",
+      "keyword": "김구라",
       "traffic": "500+"
     },
     {
+      "rank": 3,
+      "keyword": "문가영",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "보그",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "경복궁",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "원자력",
+      "traffic": "100+"
+    },
+    {
       "rank": 7,
-      "keyword": "여행",
-      "traffic": "20000+"
+      "keyword": "은행",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "진양곤",
+      "keyword": "france national football team vs italy national football team standings",
       "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "이상순",
-      "traffic": "5000+"
+      "keyword": "배당",
+      "traffic": "10000+"
     },
     {
       "rank": 10,
-      "keyword": "신랑",
-      "traffic": "1000+"
+      "keyword": "s&p 500",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프와 협상 좋아져",
-      "state": "n",
+      "keyword": "북한, 동해상 미상 발사체 발사",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김민재와 모레노 감독 이야기",
-      "state": "n",
+      "keyword": "아시안게임 금메달 흠집 문제",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "美 9월 고용 증가 2.9만명 그쳐",
-      "state": "s",
-      "change": "0"
+      "keyword": "나나·탑 열애와 암살자 고발 논란",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 4,
-      "keyword": "배성재 김다영 임신 발표",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "금메달 불량 아시안게임",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "G7 경유 원유 1억배럴 방출",
+      "keyword": "김요한 오연희 오늘부터 1일",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "트럼프 알래스카 투자 압박",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "엄마가 미쳤어요",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 7,
-      "keyword": "은행 AI 해킹",
+      "keyword": "북 평양제2사범대학 완공",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이서진, 대세 리센느와의 만남",
-      "state": "s",
-      "change": "0"
+      "keyword": "부산 떠나기 싫어요 상어 부캉이",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "행사 줄취소 암살자들 후폭풍 어디까지?",
-      "state": "s",
+      "keyword": "이승기 아빠 못하잖아",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김민 집 발전기 라이프",
-      "state": "n",
-      "change": "0"
+      "keyword": "다다음주 혼자 산다 예고",
+      "state": "+",
+      "change": "6"
     }
   ]
 }
