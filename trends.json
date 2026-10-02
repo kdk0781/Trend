@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-02T02:25:34.164Z",
+  "updatedAt": "2026-10-02T08:45:14.732Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "필리스 대 브레이브스",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "챗gpt",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "chat gpt",
+      "keyword": "코스피",
       "traffic": "5000+"
     },
     {
+      "rank": 2,
+      "keyword": "김태규",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "최환희",
+      "traffic": "2000+"
+    },
+    {
       "rank": 4,
-      "keyword": "돔 경기장",
-      "traffic": "1000+"
+      "keyword": "스티브 승준 유",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "승부차기",
-      "traffic": "50000+"
+      "keyword": "신혼여행",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "태양광 발전",
-      "traffic": "200+"
+      "keyword": "쓰레기 봉투",
+      "traffic": "10000+"
     },
     {
       "rank": 7,
-      "keyword": "추성훈",
-      "traffic": "500+"
+      "keyword": "사랑이 온다",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "콜레스테롤",
-      "traffic": "500+"
+      "keyword": "휴림로봇",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "보증금",
-      "traffic": "200+"
+      "keyword": "풍자",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "패션",
-      "traffic": "1000+"
+      "keyword": "오세훈",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정동영 통일부 장관",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "발언하는 정점식 원내대표",
+      "keyword": "양궁 남자 단체 금메달",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 2,
+      "keyword": "최태원 SK 지분 매각",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 3,
-      "keyword": "양궁 리커브 은메달",
-      "state": "n",
+      "keyword": "조희대 대법원장 신임 법관과 선서",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "차승원 라미란 패밀리 포스",
+      "keyword": "이재명 대통령 민원해결",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "유영하 박정희 편지 공개",
-      "state": "+",
-      "change": "4"
+      "keyword": "故 안판석 유작 연애박사 로맨스",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "공소청 첫 날",
-      "state": "+",
-      "change": "2"
+      "keyword": "오세훈 1년 6개월 구형",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "버추얼 태권도 안향식",
-      "state": "-",
+      "keyword": "코스피, 7000선 회복",
+      "state": "+",
       "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "코스피 하락 출발",
+      "keyword": "틴틴파이브 멤버들 슬픔 함께",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이효리 이상순 복귀했다",
-      "state": "n",
-      "change": "0"
+      "keyword": "주병진 신혜선 만남 끝?",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "김민석 발언",
-      "state": "n",
-      "change": "0"
+      "keyword": "암살자 무대인사 취소",
+      "state": "-",
+      "change": "4"
     }
   ]
 }
