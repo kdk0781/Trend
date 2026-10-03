@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-03T02:12:28.410Z",
+  "updatedAt": "2026-10-03T08:09:54.633Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "천위페이",
-      "traffic": "5000+"
+      "keyword": "페라리",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "sri lanka vs bangladesh",
-      "traffic": "500+"
+      "keyword": "조선소",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "콜레스테롤",
+      "keyword": "정청래",
       "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "개천절",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "최준희",
+      "keyword": "서장훈",
       "traffic": "2000+"
     },
     {
+      "rank": 5,
+      "keyword": "sk하이닉스",
+      "traffic": "10000+"
+    },
+    {
       "rank": 6,
-      "keyword": "한화 이글스",
+      "keyword": "형사",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "1박 2일",
-      "traffic": "500+"
+      "keyword": "호텔 인터불고 엑스코",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "김구라",
-      "traffic": "2000+"
+      "keyword": "보이콧",
+      "traffic": "10000+"
     },
     {
       "rank": 9,
-      "keyword": "문가영",
-      "traffic": "500+"
+      "keyword": "노벨상",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "보그",
-      "traffic": "200+"
+      "keyword": "부산 kcc 대 창원 lg",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "아시안게임 역사 최악 비매너",
-      "state": "+",
-      "change": "1"
+      "keyword": "이우석 금메달 감사합니다",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "북한, 탄도미사일 700㎞ 비행",
-      "state": "-",
+      "keyword": "예가람저축은행 해킹 피해 추정",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "2026 춘천연합마라톤 출발",
-      "state": "n",
-      "change": "0"
+      "keyword": "암살자 200만 관객 돌파",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "스트레이 키즈 그래미 보이콧",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "강채영 8강 탈락 눈물",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "1호선 선로 60대 사망",
+      "keyword": "부캉이 북항 이동",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 5,
+      "keyword": "가스전 합의 불가시 트럼프 압박",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "출소 전날 알바 잠수",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "부산 상어 부캉이 스타와의 만남",
-      "state": "+",
-      "change": "2"
+      "keyword": "이스라엘 규탄 집회",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "슬랙라인 선수 얀 루스 인터뷰",
+      "keyword": "일본 심판에 억울한 패배",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김요한, 오연희 오늘부터 1일",
-      "state": "-",
-      "change": "1"
+      "keyword": "장윤기 무기징역 항소",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "육영수예요 암살자 청와대",
+      "keyword": "우크라 사과 추가",
       "state": "n",
       "change": "0"
     }
