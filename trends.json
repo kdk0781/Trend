@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-03T20:05:55.632Z",
+  "updatedAt": "2026-10-03T22:50:14.716Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "spain vs czechia",
+      "keyword": "기상",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "조세호",
+      "keyword": "해리 케인",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "기안84",
-      "traffic": "200+"
+      "keyword": "이동국",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "croatia vs england",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "크로아티아 대 잉글랜드",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "인도 대 브라질",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "금융위기",
+      "keyword": "원자력 발전소",
       "traffic": "200+"
     },
     {
+      "rank": 5,
+      "keyword": "불",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "김다영",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "송기윤",
+      "traffic": "500+"
+    },
+    {
       "rank": 8,
-      "keyword": "박서진",
-      "traffic": "5000+"
+      "keyword": "김소영",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "내일 날씨",
-      "traffic": "200000+"
+      "keyword": "시어머니",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "weather tomorrow",
-      "traffic": "2000+"
+      "keyword": "1244 회 로또",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "남자 축구 4연속 금메달",
+      "keyword": "일본의 아시안게임 성과",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "올데프 타잔 자취집 공개",
+      "keyword": "이민성 감독 4연패 도전",
       "state": "+",
-      "change": "1"
+      "change": "22"
     },
     {
       "rank": 3,
-      "keyword": "1244회 로또 1등 18명 발생",
+      "keyword": "올데프 타잔 가족 공개",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "이준영의 복수 포핸즈 관전포인트",
+      "keyword": "2026년 10월 4일 운세",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "최강희, 스토커에 매니저 동행",
+      "keyword": "중거리전략미사일 발사 훈련",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "광안리 밤하늘의 유산",
-      "state": "n",
+      "keyword": "양민혁 존재감 발휘",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "태연 노래 수용소행",
-      "state": "+",
-      "change": "1"
+      "keyword": "이준영의 마지막 복수 포인트",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "사랑이 온다 결방",
+      "keyword": "최강희 매니저 동행 이유",
       "state": "-",
-      "change": "1"
+      "change": "5"
     },
     {
       "rank": 9,
-      "keyword": "예멘 사우디 화염",
+      "keyword": "북한 미사일 훈련 3일 진행",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "오세훈 시장 강남페스티벌 참석",
+      "keyword": "과즙세연 방송 1억 매출",
       "state": "n",
       "change": "0"
     }
