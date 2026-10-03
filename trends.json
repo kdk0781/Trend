@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-02T23:27:34.991Z",
+  "updatedAt": "2026-10-03T02:12:28.410Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "1박 2일",
-      "traffic": "200+"
+      "keyword": "천위페이",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "김구라",
+      "keyword": "sri lanka vs bangladesh",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "문가영",
-      "traffic": "200+"
+      "keyword": "콜레스테롤",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "보그",
-      "traffic": "200+"
+      "keyword": "개천절",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "경복궁",
-      "traffic": "1000+"
+      "keyword": "최준희",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "원자력",
-      "traffic": "100+"
+      "keyword": "한화 이글스",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "은행",
-      "traffic": "100+"
+      "keyword": "1박 2일",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "france national football team vs italy national football team standings",
-      "traffic": "1000+"
+      "keyword": "김구라",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "배당",
-      "traffic": "10000+"
+      "keyword": "문가영",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "s&p 500",
-      "traffic": "500+"
+      "keyword": "보그",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "북한, 동해상 미상 발사체 발사",
-      "state": "s",
-      "change": "0"
+      "keyword": "아시안게임 역사 최악 비매너",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "아시안게임 금메달 흠집 문제",
-      "state": "s",
-      "change": "0"
+      "keyword": "북한, 탄도미사일 700㎞ 비행",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "나나·탑 열애와 암살자 고발 논란",
-      "state": "+",
-      "change": "3"
+      "keyword": "2026 춘천연합마라톤 출발",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김요한 오연희 오늘부터 1일",
+      "keyword": "스트레이 키즈 그래미 보이콧",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "트럼프 알래스카 투자 압박",
+      "keyword": "강채영 8강 탈락 눈물",
       "state": "-",
       "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "엄마가 미쳤어요",
+      "keyword": "1호선 선로 60대 사망",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "부산 상어 부캉이 스타와의 만남",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 7,
-      "keyword": "북 평양제2사범대학 완공",
+      "rank": 8,
+      "keyword": "슬랙라인 선수 얀 루스 인터뷰",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "부산 떠나기 싫어요 상어 부캉이",
+      "rank": 9,
+      "keyword": "김요한, 오연희 오늘부터 1일",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "이승기 아빠 못하잖아",
+      "rank": 10,
+      "keyword": "육영수예요 암살자 청와대",
       "state": "n",
       "change": "0"
-    },
-    {
-      "rank": 10,
-      "keyword": "다다음주 혼자 산다 예고",
-      "state": "+",
-      "change": "6"
     }
   ]
 }
