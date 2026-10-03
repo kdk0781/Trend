@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-03T08:09:54.633Z",
+  "updatedAt": "2026-10-03T13:20:23.388Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "페라리",
+      "keyword": "박서진",
       "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "조선소",
-      "traffic": "1000+"
+      "keyword": "내일 날씨",
+      "traffic": "200000+"
     },
     {
       "rank": 3,
-      "keyword": "정청래",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "서장훈",
+      "keyword": "weather tomorrow",
       "traffic": "2000+"
     },
     {
-      "rank": 5,
-      "keyword": "sk하이닉스",
+      "rank": 4,
+      "keyword": "북항친수공원",
       "traffic": "10000+"
     },
     {
+      "rank": 5,
+      "keyword": "이주승",
+      "traffic": "200+"
+    },
+    {
       "rank": 6,
-      "keyword": "형사",
+      "keyword": "김지수",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "호텔 인터불고 엑스코",
+      "keyword": "mbc",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "보이콧",
-      "traffic": "10000+"
+      "keyword": "유재석",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "노벨상",
-      "traffic": "1000+"
+      "keyword": "미스터 서",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "부산 kcc 대 창원 lg",
-      "traffic": "1000+"
+      "keyword": "복지",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이우석 금메달 감사합니다",
-      "state": "s",
-      "change": "0"
+      "keyword": "엄지성, 아시안게임 금빛 질주",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 2,
-      "keyword": "예가람저축은행 해킹 피해 추정",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "암살자 200만 관객 돌파",
+      "keyword": "사랑이 온다 결방",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 3,
+      "keyword": "김여정 중거리미사일 훈련 진행",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 4,
-      "keyword": "부캉이 북항 이동",
+      "keyword": "포핸즈 마지막 관전 포인트",
       "state": "+",
-      "change": "1"
+      "change": "4"
     },
     {
       "rank": 5,
-      "keyword": "가스전 합의 불가시 트럼프 압박",
+      "keyword": "태연 노래 듣고 수용소 가다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "출소 전날 알바 잠수",
+      "keyword": "배준호 군면제 확정!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "이스라엘 규탄 집회",
-      "state": "s",
-      "change": "0"
+      "keyword": "스포츠클라이밍 서채현 종목",
+      "state": "-",
+      "change": "6"
     },
     {
       "rank": 8,
-      "keyword": "일본 심판에 억울한 패배",
+      "keyword": "박정희, 아내 살해 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "장윤기 무기징역 항소",
+      "keyword": "AI 해킹에 비상",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "우크라 사과 추가",
+      "keyword": "그것이 알고 싶다",
       "state": "n",
       "change": "0"
     }
