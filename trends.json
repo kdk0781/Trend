@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-03T13:20:23.388Z",
+  "updatedAt": "2026-10-03T17:28:32.143Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "박서진",
-      "traffic": "2000+"
+      "keyword": "croatia vs england",
+      "traffic": "500+"
     },
     {
       "rank": 2,
+      "keyword": "크로아티아 대 잉글랜드",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "인도 대 브라질",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "금융위기",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "박서진",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 6,
       "keyword": "내일 날씨",
       "traffic": "200000+"
     },
     {
-      "rank": 3,
+      "rank": 7,
       "keyword": "weather tomorrow",
       "traffic": "2000+"
     },
     {
-      "rank": 4,
-      "keyword": "북항친수공원",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 5,
+      "rank": 8,
       "keyword": "이주승",
       "traffic": "200+"
     },
     {
-      "rank": 6,
-      "keyword": "김지수",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
+      "rank": 9,
       "keyword": "mbc",
       "traffic": "200+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "유재석",
       "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "미스터 서",
-      "traffic": "500+"
-    },
-    {
-      "rank": 10,
-      "keyword": "복지",
-      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "엄지성, 아시안게임 금빛 질주",
-      "state": "+",
-      "change": "4"
+      "keyword": "지시하는 이민성 감독",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "사랑이 온다 결방",
-      "state": "-",
-      "change": "1"
+      "keyword": "2026 강남페스티벌 퍼레이드",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김여정 중거리미사일 훈련 진행",
-      "state": "n",
+      "keyword": "김여정 오늘 동해 중거리미사일",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "포핸즈 마지막 관전 포인트",
-      "state": "+",
-      "change": "4"
+      "keyword": "태연 노래 듣고 수용소행",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "태연 노래 듣고 수용소 가다",
-      "state": "n",
+      "keyword": "한미일, 北 미사일 대응 논의",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "배준호 군면제 확정!",
+      "keyword": "올데프 타잔 가족과 자취집 공개",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "스포츠클라이밍 서채현 종목",
-      "state": "-",
-      "change": "6"
+      "keyword": "1244회 로또 1등 18명 당첨",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "박정희, 아내 살해 논란",
-      "state": "n",
-      "change": "0"
+      "keyword": "금융권 해킹 긴급 소집",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "AI 해킹에 비상",
-      "state": "n",
-      "change": "0"
+      "keyword": "최강희, 매니저 동행 이유는 공포",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 10,
-      "keyword": "그것이 알고 싶다",
+      "keyword": "암살자 200만 돌파",
       "state": "n",
       "change": "0"
     }
