@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-04T02:16:21.999Z",
+  "updatedAt": "2026-10-04T08:29:58.719Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "조여정",
+      "keyword": "미국",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "띠별 운세",
-      "traffic": "1000+"
+      "keyword": "남문철",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "argentina vs burkina faso",
-      "traffic": "2000+"
+      "keyword": "아들",
+      "traffic": "20000+"
     },
     {
       "rank": 4,
-      "keyword": "아르헨티나 대 부르키나파소",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "자전거",
+      "keyword": "분만",
       "traffic": "2000+"
     },
     {
+      "rank": 5,
+      "keyword": "김상욱",
+      "traffic": "500+"
+    },
+    {
       "rank": 6,
-      "keyword": "오타니 쇼헤이",
-      "traffic": "200+"
+      "keyword": "울산바위",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "보그",
+      "keyword": "원주 db 대 고양 소노",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "현대 투싼",
-      "traffic": "200+"
+      "keyword": "진중권",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "퇴직",
+      "keyword": "티빙",
       "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "김하성",
-      "traffic": "2000+"
+      "keyword": "kia 대 lg",
+      "traffic": "20000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정조대왕 능행차 공동재현",
-      "state": "s",
-      "change": "0"
+      "keyword": "부산 상어 부캉이",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 2,
-      "keyword": "유승민, 아시안게임 결산",
-      "state": "s",
-      "change": "0"
+      "keyword": "아시안게임 성적 저조",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "원현준, 9세 연하 이수진과 결혼",
-      "state": "s",
+      "keyword": "1200만 관중 최다",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "다저스 NLDS 승리",
+      "keyword": "조현아 연예인 집착 폭로",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "암살자 200만 관객 돌파",
-      "state": "-",
-      "change": "1"
+      "keyword": "전금융권 점검회의 개최",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김상욱 시장 첫 출석",
+      "keyword": "AI 해킹 경각심",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "유해진 자택 앞 집회",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "포핸즈 시청률 폭등",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 7,
-      "keyword": "2026 런 유어 웨이",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "사랑이 온다 애틋한 직진",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 9,
-      "keyword": "트럼프 김정은 잘 지내면 112개 핵",
+      "keyword": "하이트진로 챔피언십 성과",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "70대 설악산 추락",
+      "keyword": "장성규, 뉴스9 출연은 불가",
       "state": "n",
       "change": "0"
     }
