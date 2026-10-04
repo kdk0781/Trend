@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-04T14:17:37.735Z",
+  "updatedAt": "2026-10-04T18:12:14.441Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김희애",
-      "traffic": "1000+"
+      "keyword": "김혜자",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "넷플릭스",
-      "traffic": "10000+"
+      "keyword": "이희진",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "정년",
-      "traffic": "1000+"
+      "keyword": "김희애",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "과즙세연",
-      "traffic": "1000+"
+      "keyword": "넷플릭스",
+      "traffic": "20000+"
     },
     {
       "rank": 5,
-      "keyword": "기능사",
-      "traffic": "1000+"
+      "keyword": "정년",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
+      "keyword": "과즙세연",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "기능사",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
       "keyword": "허미미",
       "traffic": "1000+"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "keyword": "thời tiết ngày mai",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "keyword": "내일 날씨",
       "traffic": "100000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "머스캣",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 10,
-      "keyword": "weather tomorrow",
-      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "유해진 집 앞 집회",
+      "keyword": "아이치·나고야 아시안게임 종료",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "공장 안 지으면 300% 관세",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "군대 혐오시설?",
+      "keyword": "OCA 깃발 전달 말타기",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "AI 해킹 금융권 위협",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 4,
-      "keyword": "평택 공원 외국인 패싸움",
+      "keyword": "송강 이준영 재회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "포핸즈 시청률 폭증",
+      "keyword": "폐회식 피날레 공연",
       "state": "+",
-      "change": "32"
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "이희진과 데이트",
-      "state": "n",
+      "keyword": "장윤정, 시아버지 모발 이식",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "카타르의 승마 퍼포먼스",
+      "keyword": "조희대 국감 불응 사퇴해야",
       "state": "+",
-      "change": "4"
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "헤라완 대사 페스티벌 발언",
+      "keyword": "2026년 10월 5일 운세",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "메가박스 굿즈 논란 사과",
+      "keyword": "트럼프 안 지으면 관세 300%",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "아이 셋 15년 만의 결혼",
+      "keyword": "김희철 결혼 비관적 이유",
       "state": "n",
       "change": "0"
     }
