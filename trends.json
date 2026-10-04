@@ -1,73 +1,73 @@
 {
-  "updatedAt": "2026-10-04T18:12:14.441Z",
+  "updatedAt": "2026-10-04T21:30:16.805Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김혜자",
-      "traffic": "200+"
+      "keyword": "택시",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "이희진",
-      "traffic": "200+"
+      "keyword": "대청봉",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "김희애",
-      "traffic": "2000+"
+      "keyword": "관리 종목",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "넷플릭스",
-      "traffic": "20000+"
+      "keyword": "김대호",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "정년",
-      "traffic": "5000+"
+      "keyword": "신지애",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "과즙세연",
+      "keyword": "로스앤젤레스 다저스",
       "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "기능사",
-      "traffic": "2000+"
+      "keyword": "국민연금공단",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "허미미",
-      "traffic": "1000+"
+      "keyword": "bồ đào nha đấu với na uy",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "thời tiết ngày mai",
-      "traffic": "1000+"
+      "keyword": "엔비디아 테슬라",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "내일 날씨",
-      "traffic": "100000+"
+      "keyword": "portugal vs norway",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "아이치·나고야 아시안게임 종료",
+      "keyword": "장규리 포핸즈로 밝은 모습 꺼냈다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "OCA 깃발 전달 말타기",
-      "state": "n",
+      "keyword": "2026년 10월 5일 운세",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "AI 해킹 금융권 위협",
+      "keyword": "KIA가 LG 제치고 3위 됐다",
       "state": "s",
       "change": "0"
     },
@@ -79,37 +79,37 @@
     },
     {
       "rank": 5,
-      "keyword": "폐회식 피날레 공연",
-      "state": "+",
-      "change": "3"
+      "keyword": "사랑이 밀려온다",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "장윤정, 시아버지 모발 이식",
-      "state": "s",
-      "change": "0"
+      "keyword": "암살자들 티켓 논란 사과",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "조희대 국감 불응 사퇴해야",
-      "state": "+",
-      "change": "3"
+      "keyword": "너 말고 다른 연애",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "2026년 10월 5일 운세",
-      "state": "n",
-      "change": "0"
+      "keyword": "AI 해킹 위협 확대",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "트럼프 안 지으면 관세 300%",
+      "keyword": "김희철 결혼 비관적 이유",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김희철 결혼 비관적 이유",
+      "keyword": "56마리 개 방치된 5평 집",
       "state": "n",
       "change": "0"
     }
