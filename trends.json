@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-04T08:29:58.719Z",
+  "updatedAt": "2026-10-04T14:17:37.735Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "미국",
-      "traffic": "500+"
+      "keyword": "김희애",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "남문철",
-      "traffic": "500+"
+      "keyword": "넷플릭스",
+      "traffic": "10000+"
     },
     {
       "rank": 3,
-      "keyword": "아들",
-      "traffic": "20000+"
+      "keyword": "정년",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "분만",
-      "traffic": "2000+"
+      "keyword": "과즙세연",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "김상욱",
-      "traffic": "500+"
+      "keyword": "기능사",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "울산바위",
-      "traffic": "2000+"
+      "keyword": "허미미",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "원주 db 대 고양 소노",
-      "traffic": "200+"
+      "keyword": "thời tiết ngày mai",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "진중권",
-      "traffic": "5000+"
+      "keyword": "내일 날씨",
+      "traffic": "100000+"
     },
     {
       "rank": 9,
-      "keyword": "티빙",
-      "traffic": "2000+"
+      "keyword": "머스캣",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "kia 대 lg",
-      "traffic": "20000+"
+      "keyword": "weather tomorrow",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "부산 상어 부캉이",
-      "state": "+",
-      "change": "3"
+      "keyword": "유해진 집 앞 집회",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "아시안게임 성적 저조",
-      "state": "+",
-      "change": "1"
+      "keyword": "공장 안 지으면 300% 관세",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "1200만 관중 최다",
+      "keyword": "군대 혐오시설?",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "조현아 연예인 집착 폭로",
+      "keyword": "평택 공원 외국인 패싸움",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "전금융권 점검회의 개최",
-      "state": "n",
-      "change": "0"
+      "keyword": "포핸즈 시청률 폭증",
+      "state": "+",
+      "change": "32"
     },
     {
       "rank": 6,
-      "keyword": "AI 해킹 경각심",
+      "keyword": "이희진과 데이트",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "유해진 자택 앞 집회",
+      "keyword": "카타르의 승마 퍼포먼스",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 8,
+      "keyword": "헤라완 대사 페스티벌 발언",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "포핸즈 시청률 폭등",
-      "state": "+",
-      "change": "2"
-    },
-    {
       "rank": 9,
-      "keyword": "하이트진로 챔피언십 성과",
+      "keyword": "메가박스 굿즈 논란 사과",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "장성규, 뉴스9 출연은 불가",
+      "keyword": "아이 셋 15년 만의 결혼",
       "state": "n",
       "change": "0"
     }
