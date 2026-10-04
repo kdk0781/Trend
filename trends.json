@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-03T22:50:14.716Z",
+  "updatedAt": "2026-10-04T02:16:21.999Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "기상",
-      "traffic": "200+"
+      "keyword": "조여정",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "해리 케인",
-      "traffic": "200+"
+      "keyword": "띠별 운세",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "이동국",
+      "keyword": "argentina vs burkina faso",
       "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "원자력 발전소",
-      "traffic": "200+"
+      "keyword": "아르헨티나 대 부르키나파소",
+      "traffic": "10000+"
     },
     {
       "rank": 5,
-      "keyword": "불",
-      "traffic": "500+"
+      "keyword": "자전거",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "김다영",
+      "keyword": "오타니 쇼헤이",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "송기윤",
-      "traffic": "500+"
+      "keyword": "보그",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "김소영",
-      "traffic": "500+"
+      "keyword": "현대 투싼",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "시어머니",
-      "traffic": "5000+"
+      "keyword": "퇴직",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "1244 회 로또",
-      "traffic": "1000+"
+      "keyword": "김하성",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "일본의 아시안게임 성과",
+      "keyword": "정조대왕 능행차 공동재현",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이민성 감독 4연패 도전",
-      "state": "+",
-      "change": "22"
-    },
-    {
-      "rank": 3,
-      "keyword": "올데프 타잔 가족 공개",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "2026년 10월 4일 운세",
+      "keyword": "유승민, 아시안게임 결산",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "중거리전략미사일 발사 훈련",
+      "rank": 3,
+      "keyword": "원현준, 9세 연하 이수진과 결혼",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "다저스 NLDS 승리",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "양민혁 존재감 발휘",
-      "state": "s",
-      "change": "0"
+      "rank": 5,
+      "keyword": "암살자 200만 관객 돌파",
+      "state": "-",
+      "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "이준영의 마지막 복수 포인트",
-      "state": "-",
+      "rank": 6,
+      "keyword": "김상욱 시장 첫 출석",
+      "state": "+",
       "change": "2"
     },
     {
-      "rank": 8,
-      "keyword": "최강희 매니저 동행 이유",
+      "rank": 7,
+      "keyword": "2026 런 유어 웨이",
       "state": "-",
-      "change": "5"
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "사랑이 온다 애틋한 직진",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "북한 미사일 훈련 3일 진행",
+      "keyword": "트럼프 김정은 잘 지내면 112개 핵",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "과즙세연 방송 1억 매출",
+      "keyword": "70대 설악산 추락",
       "state": "n",
       "change": "0"
     }
