@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-05T12:30:45.456Z",
+  "updatedAt": "2026-10-05T20:53:07.223Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김현태",
-      "traffic": "2000+"
+      "keyword": "뇌물",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "이수영",
-      "traffic": "1000+"
+      "keyword": "달",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "윤이나",
-      "traffic": "1000+"
+      "keyword": "박근혜",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "전원주",
-      "traffic": "2000+"
+      "keyword": "게릿 콜",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "지뢰",
-      "traffic": "1000+"
+      "keyword": "france vs belgium",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "트럭",
-      "traffic": "2000+"
+      "keyword": "중국인",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "밤",
-      "traffic": "500+"
+      "keyword": "김재섭",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "스테이 블코 인",
-      "traffic": "5000+"
+      "keyword": "kbs",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "관광객",
-      "traffic": "1000+"
+      "keyword": "프랑스 대 벨기에",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "강원랜드",
-      "traffic": "2000+"
+      "keyword": "치어리더",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "빛 조종 뇌세포 3인 노벨",
-      "state": "n",
+      "keyword": "LG전자 5GW 냉각 수주",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "제31회 부산국제영화제 전야제",
+      "keyword": "우리들의 발라드2",
       "state": "+",
-      "change": "1"
+      "change": "14"
     },
     {
       "rank": 3,
-      "keyword": "엄마가 미쳤어요",
-      "state": "n",
-      "change": "0"
+      "keyword": "김재열 WOF 회장 선출",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "암살자들 과거 발언 논란",
+      "keyword": "주병진 대저택 떠난 이유",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "가족관계증명서",
-      "state": "s",
-      "change": "0"
+      "keyword": "AI 해킹 경고 금융권 대응 시급",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 6,
-      "keyword": "국힘 북 지뢰 대응 무능한 군대",
+      "keyword": "아침 기온 3도, 큰 일교차",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "주병진 일밤 몰래카메라 시초",
-      "state": "+",
+      "keyword": "이효리 결혼 후 쉬었음",
+      "state": "-",
       "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "KT, 5년 만에 정규시즌 우승!",
-      "state": "n",
-      "change": "0"
+      "keyword": "2026년 10월 6일 운세",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "태풍 3개 일본행",
-      "state": "-",
-      "change": "1"
+      "keyword": "이재정, 암살자들 보고 역사 왜곡?",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "감사패 받은 박해준",
-      "state": "-",
-      "change": "4"
+      "keyword": "송강 외로움과 사과 받다",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
