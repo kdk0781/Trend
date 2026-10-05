@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-04T21:30:16.805Z",
+  "updatedAt": "2026-10-05T00:07:45.722Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "택시",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "대청봉",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "관리 종목",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "김대호",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "신지애",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "로스앤젤레스 다저스",
+      "keyword": "나는 solo",
       "traffic": "2000+"
     },
     {
+      "rank": 2,
+      "keyword": "임신",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "100일의 거짓말",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "조현아",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "초과근무",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "검사",
+      "traffic": "200+"
+    },
+    {
       "rank": 7,
-      "keyword": "국민연금공단",
+      "keyword": "비트코인",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "bồ đào nha đấu với na uy",
-      "traffic": "100+"
+      "keyword": "금",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "엔비디아 테슬라",
-      "traffic": "200+"
+      "keyword": "삼전 닉스",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "portugal vs norway",
-      "traffic": "500+"
+      "keyword": "눈사태",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "장규리 포핸즈로 밝은 모습 꺼냈다",
-      "state": "s",
-      "change": "0"
+      "keyword": "제주 어선 전복 9명 구조",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "2026년 10월 5일 운세",
+      "keyword": "사랑이 온다 애틋한 직진",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "KIA가 LG 제치고 3위 됐다",
+      "keyword": "암살자들 티켓 사과 폐기",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "송강 이준영 재회",
-      "state": "n",
+      "keyword": "이준영, 포핸즈 마지막 작품 소감",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "사랑이 밀려온다",
-      "state": "-",
-      "change": "1"
+      "keyword": "28기 정희 결별",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "암살자들 티켓 논란 사과",
-      "state": "-",
-      "change": "2"
+      "keyword": "아시안게임 개최 논란",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "너 말고 다른 연애",
-      "state": "-",
-      "change": "2"
+      "keyword": "양육비 85만원 월 반박",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "AI 해킹 위협 확대",
-      "state": "-",
-      "change": "2"
+      "keyword": "유재석 앞에서 비비 폭탄 고백",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김희철 결혼 비관적 이유",
-      "state": "n",
-      "change": "0"
+      "keyword": "이선민 조카 리센느 파인다이닝",
+      "state": "+",
+      "change": "65"
     },
     {
       "rank": 10,
-      "keyword": "56마리 개 방치된 5평 집",
-      "state": "n",
-      "change": "0"
+      "keyword": "너 말고 다른 연애",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
