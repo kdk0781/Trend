@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-05T00:07:45.722Z",
+  "updatedAt": "2026-10-05T05:29:05.159Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "나는 solo",
-      "traffic": "2000+"
+      "keyword": "별사랑",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "임신",
-      "traffic": "500+"
+      "keyword": "김수현",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "100일의 거짓말",
+      "keyword": "이동건",
       "traffic": "5000+"
     },
     {
       "rank": 4,
-      "keyword": "조현아",
-      "traffic": "1000+"
+      "keyword": "오타니 쇼헤이",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "초과근무",
-      "traffic": "500+"
+      "keyword": "일라이",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "검사",
+      "keyword": "광주 도시철도 2호선",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "비트코인",
-      "traffic": "200+"
+      "keyword": "북한산 인수봉",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "금",
-      "traffic": "5000+"
+      "keyword": "볼로디미르 젤렌스키",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "삼전 닉스",
-      "traffic": "5000+"
+      "keyword": "김승연",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "눈사태",
+      "keyword": "두산베어스",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "제주 어선 전복 9명 구조",
-      "state": "+",
-      "change": "1"
+      "keyword": "윤이나, 롯데 챔피언십 2위 아쉬워",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "사랑이 온다 애틋한 직진",
-      "state": "s",
+      "keyword": "연휴 마지막 날 인파 북적",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "암살자들 티켓 사과 폐기",
-      "state": "s",
+      "keyword": "“장관 암살자 평가 자유, 민주주의 파괴”",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이준영, 포핸즈 마지막 작품 소감",
-      "state": "s",
-      "change": "0"
+      "keyword": "KT 이강철 감독, 매직넘버 감소",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "28기 정희 결별",
+      "keyword": "비수도권 올리브영 매출 증가",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "아시안게임 개최 논란",
-      "state": "+",
-      "change": "3"
+      "keyword": "임은정 김지용 비판",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "양육비 85만원 월 반박",
-      "state": "n",
-      "change": "0"
+      "keyword": "기름값 20주 내림세",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "유재석 앞에서 비비 폭탄 고백",
+      "keyword": "윤세아, 김민과 포핸즈 사진 공개",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 9,
+      "keyword": "평택서 외국인 난투극",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "이선민 조카 리센느 파인다이닝",
-      "state": "+",
-      "change": "65"
-    },
-    {
       "rank": 10,
-      "keyword": "너 말고 다른 연애",
-      "state": "+",
-      "change": "2"
+      "keyword": "거제 통영 금리 인하 정책",
+      "state": "-",
+      "change": "6"
     }
   ]
 }
