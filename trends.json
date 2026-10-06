@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-06T01:30:19.039Z",
+  "updatedAt": "2026-10-06T08:04:23.974Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "성현주",
-      "traffic": "1000+"
+      "keyword": "엑스포츠뉴스",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "우리은행",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "하나은행",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "클로드",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "엔화",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "1박 2일",
+      "keyword": "삼성그룹",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "비상사태",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "재산세",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "주식",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "창신메모리테크놀로지",
+      "traffic": "2000+"
+    },
+    {
       "rank": 7,
-      "keyword": "이자",
-      "traffic": "5000+"
+      "keyword": "식이",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "송강",
-      "traffic": "500+"
+      "keyword": "jyp엔터테인먼트",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "유승민",
-      "traffic": "100+"
+      "keyword": "퇴직금",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "백악관 대변인",
-      "traffic": "1000+"
+      "keyword": "nba",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "금융 공공기관 개인정보 회의",
+      "keyword": "낮과 밤은 서로에게",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "송지호, 결혼 소감 전해",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "조희대 대법원장 국회 방문",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "김종민 아내 임신 17주차",
+      "keyword": "코스피 하락 마감",
       "state": "+",
       "change": "3"
     },
     {
+      "rank": 3,
+      "keyword": "결혼과 임신 두 경사 소식",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "아이치-나고야 아시안패러게임 결단식",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "경찰 해킹 수사 28명 팀",
-      "state": "-",
+      "keyword": "질의 답하는 장관",
+      "state": "+",
       "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "갤럭시 탭 S12 출시",
-      "state": "-",
-      "change": "2"
+      "keyword": "검찰 미제 수사 이송",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김민석, 송치용 대표 접견",
-      "state": "n",
-      "change": "0"
+      "keyword": "이집트 정상회담 8일 개최",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "김재섭 의원 출석",
-      "state": "n",
-      "change": "0"
+      "keyword": "취임 100일 성과 발표",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "김희정 아들 문제 속앓이",
-      "state": "-",
-      "change": "4"
+      "keyword": "단기 박흥식 선수단장",
+      "state": "+",
+      "change": "7"
     },
     {
       "rank": 10,
-      "keyword": "유해란 메이저 우승 기념",
+      "keyword": "신세계, 워너브라더스 인수 투자",
       "state": "n",
       "change": "0"
     }
