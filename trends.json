@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-06T08:04:23.974Z",
+  "updatedAt": "2026-10-06T15:02:29.698Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "엑스포츠뉴스",
+      "keyword": "투수",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "삼성그룹",
+      "keyword": "남성진",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "비상사태",
-      "traffic": "2000+"
+      "keyword": "보이스 피싱",
+      "traffic": "5000+"
     },
     {
       "rank": 4,
-      "keyword": "재산세",
-      "traffic": "1000+"
+      "keyword": "전력",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "주식",
-      "traffic": "10000+"
+      "keyword": "world space week 2026",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "창신메모리테크놀로지",
-      "traffic": "2000+"
+      "keyword": "미국 상품거래위원회",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "식이",
-      "traffic": "2000+"
+      "keyword": "노벨 물리학상",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "jyp엔터테인먼트",
-      "traffic": "2000+"
+      "keyword": "유재명",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "퇴직금",
-      "traffic": "1000+"
+      "keyword": "서현진",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "nba",
-      "traffic": "200+"
+      "keyword": "웨스팅하우스",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "낮과 밤은 서로에게",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "코스피 하락 마감",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 3,
-      "keyword": "결혼과 임신 두 경사 소식",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "아이치-나고야 아시안패러게임 결단식",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "질의 답하는 장관",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "검찰 미제 수사 이송",
+      "keyword": "북한 침범 시 강력 대응",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "손흥민 A매치 최다골",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "인사하는 모레노 감독",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "노벨물리학상에 뉴트리노 관측",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "박진영 국감 출석에 아쉬움",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "부산국제영화제 개막식 참석하는",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "이집트 정상회담 8일 개최",
-      "state": "+",
-      "change": "2"
+      "keyword": "전세금 26억인데 경매",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "취임 100일 성과 발표",
-      "state": "+",
-      "change": "2"
+      "keyword": "키드냅 게임",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "단기 박흥식 선수단장",
-      "state": "+",
-      "change": "7"
+      "keyword": "레드카펫 팀 사랑과 꿈",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "신세계, 워너브라더스 인수 투자",
+      "keyword": "이병헌 아들 픽업 고민",
       "state": "n",
       "change": "0"
     }
