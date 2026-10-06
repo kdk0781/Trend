@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-10-06T20:11:07.367Z",
+  "updatedAt": "2026-10-06T23:50:24.025Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이천수",
-      "traffic": "500+"
+      "keyword": "한화 이글스",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "그랜드 테프트 오토 v",
+      "keyword": "인베스팅닷컴",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "김용림",
+      "keyword": "알파고",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "크로아티아 대 스페인",
+      "keyword": "아르헨티나 축구",
       "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "원현준",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "페스트",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "서영교",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "홍창기",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "어선",
+      "keyword": "파크 골프",
       "traffic": "200+"
     },
     {
-      "rank": 10,
-      "keyword": "키드냅게임",
+      "rank": 6,
+      "keyword": "원자력 잠수함",
       "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "수출",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "argentina vs benin",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "휴가",
+      "traffic": "500+"
+    },
+    {
+      "rank": 10,
+      "keyword": "england national football team vs czech republic national football team standings",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "인사하는 모레노 감독",
+      "keyword": "트럼프 관세 대가 지불하라",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "조희대 온전한 구성 노력",
+      "keyword": "리마에 BTS 대로 생겼다",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "연애박사 공대생의 허당 매력",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 3,
-      "keyword": "레드카펫 걷는 팀들",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 4,
-      "keyword": "손흥민 모레노호 2-0 승리",
-      "state": "-",
-      "change": "1"
+      "keyword": "에이티즈 산, 열애설 언급",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "골넣고 기뻐하는 오세훈",
-      "state": "s",
-      "change": "0"
+      "keyword": "암살자들 공방 예고",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "해킹 피해 정보 유출",
-      "state": "+",
-      "change": "3"
+      "keyword": "호날두 대표팀 이탈",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "부산영화제 온 스타들",
-      "state": "-",
+      "keyword": "박승수 인성 논란",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "내일 누리호 발사 예정",
+      "keyword": "미래서울 아침특강 개편안",
       "state": "-",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "배성재 김다영 결혼 소식",
-      "state": "n",
-      "change": "0"
+      "keyword": "이유진, 결혼+2세 겹경사",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "美 8월 무역적자 증가",
-      "state": "n",
+      "keyword": "엄마가 미쳤어요",
+      "state": "s",
       "change": "0"
     }
   ]
