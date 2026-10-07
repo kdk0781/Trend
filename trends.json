@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-10-07T10:32:22.663Z",
+  "updatedAt": "2026-10-07T17:31:10.549Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "레이 달리오",
-      "traffic": "100+"
+      "keyword": "67",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "소방관",
-      "traffic": "200+"
+      "keyword": "로또 1등도 출근합니다",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "조정식",
-      "traffic": "100+"
+      "keyword": "대학",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "손석구",
+      "keyword": "지현 원규",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "금",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "혼인",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "이태성",
+      "keyword": "송승기",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "피의자",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "한겨레",
+      "traffic": "500+"
+    },
+    {
       "rank": 8,
-      "keyword": "삼성 대 kt",
-      "traffic": "5000+"
+      "keyword": "김지원",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "두산 대 lg",
-      "traffic": "5000+"
+      "keyword": "정용진",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "nc 대 ssg",
-      "traffic": "2000+"
+      "keyword": "투자",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "누리호 5차 발사 성공",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "민주당 경기도당 압수수색",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 3,
-      "keyword": "역투하는 임찬규",
+      "keyword": "강신철 장관 질의 답변",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "최원준 204안타 기록",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "카강 소아이 노벨화학상 수상",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 4,
-      "keyword": "블랙신드롬 박영철 별세",
+      "keyword": "누리호 5차 성공발사",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "유해진 부일영화상 남우주연상",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "강신철 국방부 장관",
-      "state": "-",
-      "change": "3"
-    },
-    {
       "rank": 6,
-      "keyword": "노벨화학상에 앙리 소아이",
+      "keyword": "우크라 사실과 부적절",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김소희 둘째 임신 소식",
-      "state": "s",
-      "change": "0"
+      "keyword": "김종민 아들 2세 임신",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "잠실구장 마지막 맞대결",
+      "keyword": "리사 수, 삼성과 협력 논의",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "민주노총 복귀 표결 무산",
-      "state": "-",
-      "change": "3"
+      "keyword": "여고생 살해 장윤기 항소",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "리사 수 삼성·SK 회동",
-      "state": "-",
+      "keyword": "문보경 동점 적시타",
+      "state": "+",
       "change": "2"
     }
   ]
