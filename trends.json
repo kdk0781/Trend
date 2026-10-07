@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-07T03:32:27.957Z",
+  "updatedAt": "2026-10-07T10:32:22.663Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "인구감소지역",
+      "keyword": "레이 달리오",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "오타니 쇼헤이",
+      "keyword": "소방관",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "신협",
+      "keyword": "조정식",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "수학",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "병역",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "ins",
+      "keyword": "손석구",
       "traffic": "100+"
     },
     {
-      "rank": 7,
-      "keyword": "야마모토 요시노부",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "사과",
+      "rank": 5,
+      "keyword": "금",
       "traffic": "10000+"
     },
     {
-      "rank": 9,
-      "keyword": "전국체육대회",
+      "rank": 6,
+      "keyword": "혼인",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "이태성",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "삼성 대 kt",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "두산 대 lg",
+      "traffic": "5000+"
+    },
+    {
       "rank": 10,
-      "keyword": "브루노 페르난데스",
+      "keyword": "nc 대 ssg",
       "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "100일 오세훈 서울시장",
+      "keyword": "누리호 5차 발사 성공",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "리사 수 회장 AI 반도체 회의",
-      "state": "s",
-      "change": "0"
+      "keyword": "민주당 경기도당 압수수색",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "강신철 국방부 장관",
-      "state": "+",
-      "change": "1"
+      "keyword": "역투하는 임찬규",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "누리호 5차 발사 임박",
+      "keyword": "블랙신드롬 박영철 별세",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "이형일 부총리 간담회 발언",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "LG전자 3분기 영업익 4조 돌파",
-      "state": "+",
+      "keyword": "강신철 국방부 장관",
+      "state": "-",
       "change": "3"
     },
     {
-      "rank": 7,
-      "keyword": "부산 찾아온 매기 질렌할",
+      "rank": 6,
+      "keyword": "노벨화학상에 앙리 소아이",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "김소희 둘째 임신 소식",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "인구감소지역 재지정",
+      "keyword": "잠실구장 마지막 맞대결",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "메시, 고별전 1골 2도움",
-      "state": "+",
-      "change": "1"
+      "keyword": "민주노총 복귀 표결 무산",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "위철환 중앙선관위원장 직무대행",
+      "keyword": "리사 수 삼성·SK 회동",
       "state": "-",
       "change": "2"
     }
