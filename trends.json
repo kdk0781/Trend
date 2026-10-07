@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-06T23:50:24.025Z",
+  "updatedAt": "2026-10-07T03:32:27.957Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "한화 이글스",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "인베스팅닷컴",
+      "keyword": "인구감소지역",
       "traffic": "100+"
     },
     {
-      "rank": 3,
-      "keyword": "알파고",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "아르헨티나 축구",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "파크 골프",
+      "rank": 2,
+      "keyword": "오타니 쇼헤이",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "신협",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "수학",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "병역",
+      "traffic": "500+"
+    },
+    {
       "rank": 6,
-      "keyword": "원자력 잠수함",
+      "keyword": "ins",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "수출",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "argentina vs benin",
+      "keyword": "야마모토 요시노부",
       "traffic": "1000+"
     },
     {
+      "rank": 8,
+      "keyword": "사과",
+      "traffic": "10000+"
+    },
+    {
       "rank": 9,
-      "keyword": "휴가",
-      "traffic": "500+"
+      "keyword": "전국체육대회",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "england national football team vs czech republic national football team standings",
-      "traffic": "500+"
+      "keyword": "브루노 페르난데스",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 관세 대가 지불하라",
+      "keyword": "100일 오세훈 서울시장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "리마에 BTS 대로 생겼다",
-      "state": "n",
+      "keyword": "리사 수 회장 AI 반도체 회의",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "연애박사 공대생의 허당 매력",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "에이티즈 산, 열애설 언급",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "암살자들 공방 예고",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "호날두 대표팀 이탈",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "박승수 인성 논란",
+      "keyword": "강신철 국방부 장관",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "미래서울 아침특강 개편안",
+      "rank": 4,
+      "keyword": "누리호 5차 발사 임박",
       "state": "-",
-      "change": "2"
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "이형일 부총리 간담회 발언",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "LG전자 3분기 영업익 4조 돌파",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 7,
+      "keyword": "부산 찾아온 매기 질렌할",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "인구감소지역 재지정",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이유진, 결혼+2세 겹경사",
+      "keyword": "메시, 고별전 1골 2도움",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "엄마가 미쳤어요",
-      "state": "s",
-      "change": "0"
+      "keyword": "위철환 중앙선관위원장 직무대행",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
