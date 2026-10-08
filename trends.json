@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-07T22:14:04.654Z",
+  "updatedAt": "2026-10-08T01:58:03.245Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "양민혁",
-      "traffic": "1000+"
+      "keyword": "신세계",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "mu",
+      "keyword": "토미 에드먼",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "예산",
-      "traffic": "200+"
+      "keyword": "티빙 보상",
+      "traffic": "5000+"
     },
     {
       "rank": 4,
-      "keyword": "핑클",
-      "traffic": "2000+"
+      "keyword": "티빙 보상 신청",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "강신철",
+      "keyword": "카드뉴스",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "한화 이글스",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "신지",
+      "keyword": "송금",
       "traffic": "200+"
     },
     {
+      "rank": 7,
+      "keyword": "라이언 와이스",
+      "traffic": "500+"
+    },
+    {
       "rank": 8,
-      "keyword": "10월 9일",
-      "traffic": "100+"
+      "keyword": "제민일보",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "엔비디아",
-      "traffic": "500+"
+      "keyword": "최순실",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "홍명보",
-      "traffic": "500+"
+      "keyword": "10 월 9 일",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "2026년 10월 8일 운세",
-      "state": "+",
-      "change": "3"
+      "keyword": "삼성전자 3분기 영업익 100조 돌파",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "오만석 출연료 낮춤",
-      "state": "+",
-      "change": "1"
+      "keyword": "출근하는 조희대 대법원장",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "최원준 204안타 신기록",
-      "state": "n",
+      "keyword": "유정, 겨울 결혼 예고",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "알래스카 LNG 완수",
-      "state": "-",
-      "change": "3"
+      "keyword": "발언하는 장동혁 대표",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "금융지주 상반기 17.6조 순익",
-      "state": "+",
-      "change": "1"
+      "keyword": "호날두의 찬사, 영원히 남을 역사",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "양치승 20억 사기 피해",
-      "state": "+",
-      "change": "6"
+      "keyword": "알시시 이집트 대통령",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "손흥민 불만 은퇴소동",
+      "keyword": "코스피 상승 후 혼조세",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "뉴욕증시 하락",
+      "keyword": "26세 금융 해킹범",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "여성 수험생 뾰족구두 소음 피해",
+      "keyword": "제네시스 GV90 전시",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "유재석, 10년 전 미담 발생",
+      "keyword": "리튬 24만톤 확보",
       "state": "n",
       "change": "0"
     }
