@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-08T15:46:55.000Z",
+  "updatedAt": "2026-10-08T20:51:45.732Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "병목",
+      "keyword": "북한이탈주민",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "마이클 버리",
-      "traffic": "500+"
+      "keyword": "이정현",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "채널a",
-      "traffic": "200+"
+      "keyword": "쿠팡",
+      "traffic": "20000+"
     },
     {
       "rank": 4,
-      "keyword": "식중독",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "로맥",
+      "keyword": "ps",
       "traffic": "200+"
     },
     {
+      "rank": 5,
+      "keyword": "장민호",
+      "traffic": "100+"
+    },
+    {
       "rank": 6,
-      "keyword": "박지훈",
+      "keyword": "아리엘 후라도",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "이데일리",
+      "keyword": "수면제",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "김영광",
+      "keyword": "병목",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "로또1등도 출근합니다",
-      "traffic": "200+"
+      "keyword": "마이클 버리",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "하이마트",
-      "traffic": "100+"
+      "keyword": "채널a",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "캐나다 작가 앤 카슨",
+      "keyword": "캐나다 시인 앤 카슨",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "주우크라이나 대사 소환",
-      "state": "+",
-      "change": "1"
+      "keyword": "버디 정조준 선수들",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이재명, 극초음속 시험 발사 참관",
+      "keyword": "故 이주일 제주 별장 탐나는 집",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "취임 100일 현장행보",
-      "state": "s",
-      "change": "0"
+      "keyword": "유승호 임세주 결별 이유",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 5,
-      "keyword": "버디 퍼트 성공해라",
-      "state": "s",
-      "change": "0"
+      "keyword": "로또 1등도 출근합니다",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 6,
-      "keyword": "한기성 전 군단장 답변",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "김고은 액터스 하우스",
+      "keyword": "쿠팡 오류",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "김창민 감독 가해자 징역 구형",
+      "rank": 7,
+      "keyword": "수양딸 차별 의혹",
       "state": "+",
-      "change": "1"
+      "change": "7"
+    },
+    {
+      "rank": 8,
+      "keyword": "정혜성, 나솔사계 분위기 메이커",
+      "state": "+",
+      "change": "14"
     },
     {
       "rank": 9,
-      "keyword": "송하예 11월 결혼",
-      "state": "+",
-      "change": "1"
+      "keyword": "윤석열 김건희 영치금 21억",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 10,
-      "keyword": "정청래, 美 비자 지연 유감",
-      "state": "n",
-      "change": "0"
+      "keyword": "손 인사로 마무리",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
