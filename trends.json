@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-09T07:01:42.043Z",
+  "updatedAt": "2026-10-09T14:18:41.890Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "티빙",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "tving",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "수원 kt 대 고양 소노",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "서울경제",
+      "keyword": "부유세",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "sl vs pak",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "sbs",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "패션",
+      "traffic": "2000+"
+    },
+    {
       "rank": 5,
-      "keyword": "정우성",
-      "traffic": "500+"
+      "keyword": "주차",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "수원fc 대 화성",
+      "keyword": "양향자",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "고독사",
+      "keyword": "김가영",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "한국항공우주산업",
-      "traffic": "100+"
+      "keyword": "지스타",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "lg 대 롯데",
-      "traffic": "10000+"
+      "keyword": "김시아",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "k리그1",
-      "traffic": "200+"
+      "keyword": "필즈상",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "최태원 호남 반도체 착공 속도전",
-      "state": "s",
+      "keyword": "최태원 호남 반도체 용수·전기 확보",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "수능 비밀 영화제",
-      "state": "s",
+      "keyword": "나경원 감사 서한",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "‘SSG 홈 만원 시즌’",
+      "keyword": "우크라 감정보다 외교가",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김영광 보복 논란 사과",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "최유화, 식당서 모유수유 모습",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "나주 부부 살해 50대 출석",
+      "keyword": "정우성 이사직 이정재",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "아시안게임 전국체전 4관왕",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "여에스더, 홍혜걸 회사 매각 고민",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 7,
-      "keyword": "공공노동자 총력투쟁 결의대회",
+      "keyword": "삼성 10년 만에 2연승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "능력 없는 큰자리 요구",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "액터스 하우스 류승룡",
+      "keyword": "운전 국대 출신 김영광 보복 운전",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "이태성, 187CM 아들 전교 1등",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 10,
-      "keyword": "축하 꽃다발 김민성",
+      "keyword": "50대 구속 사건 답사",
       "state": "n",
       "change": "0"
     }
