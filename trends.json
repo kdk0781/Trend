@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-09T14:18:41.890Z",
+  "updatedAt": "2026-10-09T19:34:16.843Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "부유세",
+      "keyword": "김신영",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "sl vs pak",
-      "traffic": "1000+"
+      "keyword": "구창모",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "sbs",
-      "traffic": "100+"
+      "keyword": "판결",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "패션",
-      "traffic": "2000+"
+      "keyword": "광주광역시",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "주차",
-      "traffic": "100+"
+      "keyword": "암호화폐",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "양향자",
+      "keyword": "제니",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "김가영",
-      "traffic": "1000+"
+      "keyword": "김현",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "지스타",
-      "traffic": "200+"
+      "keyword": "부유세",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "김시아",
-      "traffic": "200+"
+      "keyword": "sri lanka vs pakistan",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "필즈상",
-      "traffic": "100+"
+      "keyword": "sl vs pak",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "최태원 호남 반도체 용수·전기 확보",
+      "keyword": "필라이 박수 치면 트럼프와 나눠야",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "나경원 감사 서한",
-      "state": "n",
-      "change": "0"
+      "keyword": "김신영, 밥 소믈리에 도전",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "우크라 감정보다 외교가",
-      "state": "n",
-      "change": "0"
+      "keyword": "여서정, 전국체전 4관왕",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "정우성 이사직 이정재",
-      "state": "n",
+      "keyword": "천우희, 이주승에 그림 선물",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "아시안게임 전국체전 4관왕",
+      "keyword": "2026 한강 불빛공연",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "여에스더, 홍혜걸 회사 매각 고민",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "삼성 10년 만에 2연승",
+      "keyword": "2026년 10월 운세",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "건물 3채 재산 2조설 부인",
+      "state": "+",
+      "change": "10"
+    },
+    {
       "rank": 8,
-      "keyword": "운전 국대 출신 김영광 보복 운전",
+      "keyword": "강이슬 우리은행 4강행",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이태성, 187CM 아들 전교 1등",
-      "state": "-",
-      "change": "2"
+      "keyword": "이태성 2500만원 집 공개",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "50대 구속 사건 답사",
+      "keyword": "강력한 티샷",
       "state": "n",
       "change": "0"
     }
