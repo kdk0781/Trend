@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-09T00:52:39.522Z",
+  "updatedAt": "2026-10-09T07:01:42.043Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "오윤아",
-      "traffic": "500+"
+      "keyword": "티빙",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "한고은",
+      "keyword": "tving",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "잠실 돔구장",
-      "traffic": "200+"
+      "keyword": "수원 kt 대 고양 소노",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "금양",
+      "keyword": "서울경제",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "해피투게더",
-      "traffic": "200+"
+      "keyword": "정우성",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "류필립",
-      "traffic": "100+"
+      "keyword": "수원fc 대 화성",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "박현경",
-      "traffic": "200+"
+      "keyword": "고독사",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "김승윤",
+      "keyword": "한국항공우주산업",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "한글날 100주년",
-      "traffic": "200+"
+      "keyword": "lg 대 롯데",
+      "traffic": "10000+"
     },
     {
       "rank": 10,
-      "keyword": "의료",
-      "traffic": "5000+"
+      "keyword": "k리그1",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김인석, 안젤라 박 2년 전 이혼",
-      "state": "+",
-      "change": "2"
+      "keyword": "최태원 호남 반도체 착공 속도전",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "윤소희 악플 테러",
-      "state": "-",
-      "change": "1"
+      "keyword": "수능 비밀 영화제",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "현대차 신형 투싼 일정 지연",
+      "keyword": "‘SSG 홈 만원 시즌’",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "북 당 창건일 경축 분위기",
-      "state": "s",
-      "change": "0"
+      "keyword": "김영광 보복 논란 사과",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "LH, 수도권 미분양 매입확약 추가",
+      "keyword": "최유화, 식당서 모유수유 모습",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "나주 부부 살해 50대 출석",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "쿠팡 접속 오류 발생",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 7,
-      "keyword": "유재석, 95가요제 준비 완료",
+      "keyword": "공공노동자 총력투쟁 결의대회",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "양수 터져 헬기 출산",
-      "state": "n",
+      "keyword": "능력 없는 큰자리 요구",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "앤 카슨 소감 미쳤네요!",
+      "keyword": "액터스 하우스 류승룡",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "명태균 오세훈 재판은?",
+      "keyword": "축하 꽃다발 김민성",
       "state": "n",
       "change": "0"
     }
