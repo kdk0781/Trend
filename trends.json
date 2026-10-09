@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-08T20:51:45.732Z",
+  "updatedAt": "2026-10-09T00:52:39.522Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "북한이탈주민",
-      "traffic": "200+"
+      "keyword": "오윤아",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "이정현",
+      "keyword": "한고은",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "쿠팡",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "ps",
+      "keyword": "잠실 돔구장",
       "traffic": "200+"
     },
     {
-      "rank": 5,
-      "keyword": "장민호",
+      "rank": 4,
+      "keyword": "금양",
       "traffic": "100+"
     },
     {
+      "rank": 5,
+      "keyword": "해피투게더",
+      "traffic": "200+"
+    },
+    {
       "rank": 6,
-      "keyword": "아리엘 후라도",
+      "keyword": "류필립",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "수면제",
-      "traffic": "100+"
+      "keyword": "박현경",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "병목",
-      "traffic": "500+"
+      "keyword": "김승윤",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "마이클 버리",
-      "traffic": "1000+"
+      "keyword": "한글날 100주년",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "채널a",
-      "traffic": "200+"
+      "keyword": "의료",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "캐나다 시인 앤 카슨",
-      "state": "s",
-      "change": "0"
+      "keyword": "김인석, 안젤라 박 2년 전 이혼",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "버디 정조준 선수들",
-      "state": "s",
-      "change": "0"
+      "keyword": "윤소희 악플 테러",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "故 이주일 제주 별장 탐나는 집",
-      "state": "s",
+      "keyword": "현대차 신형 투싼 일정 지연",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "유승호 임세주 결별 이유",
-      "state": "+",
-      "change": "6"
+      "keyword": "북 당 창건일 경축 분위기",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "로또 1등도 출근합니다",
-      "state": "+",
-      "change": "6"
+      "keyword": "LH, 수도권 미분양 매입확약 추가",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "쿠팡 오류",
+      "keyword": "쿠팡 접속 오류 발생",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "수양딸 차별 의혹",
-      "state": "+",
-      "change": "7"
+      "keyword": "유재석, 95가요제 준비 완료",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "정혜성, 나솔사계 분위기 메이커",
-      "state": "+",
-      "change": "14"
+      "keyword": "양수 터져 헬기 출산",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "윤석열 김건희 영치금 21억",
-      "state": "-",
-      "change": "5"
+      "keyword": "앤 카슨 소감 미쳤네요!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "손 인사로 마무리",
-      "state": "+",
-      "change": "2"
+      "keyword": "명태균 오세훈 재판은?",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
