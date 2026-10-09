@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-09T19:34:16.843Z",
+  "updatedAt": "2026-10-09T23:26:47.585Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김신영",
+      "keyword": "노윤서",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "구창모",
-      "traffic": "100+"
+      "keyword": "대한민국 축구 국가대표팀",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "판결",
-      "traffic": "200+"
+      "keyword": "황정음",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "광주광역시",
+      "keyword": "홍혜걸",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "암호화폐",
-      "traffic": "1000+"
+      "keyword": "조선민주주의인민공화국",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "제니",
-      "traffic": "1000+"
+      "keyword": "축구",
+      "traffic": "10000+"
     },
     {
       "rank": 7,
-      "keyword": "김현",
-      "traffic": "500+"
+      "keyword": "다우 존스 산업평균지수",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "부유세",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "sri lanka vs pakistan",
+      "keyword": "아침",
       "traffic": "1000+"
     },
     {
+      "rank": 9,
+      "keyword": "포스코",
+      "traffic": "200+"
+    },
+    {
       "rank": 10,
-      "keyword": "sl vs pak",
-      "traffic": "500+"
+      "keyword": "흡연",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "필라이 박수 치면 트럼프와 나눠야",
+      "keyword": "뉴욕증시 공급 상승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김신영, 밥 소믈리에 도전",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "여서정, 전국체전 4관왕",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "천우희, 이주승에 그림 선물",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "2026 한강 불빛공연",
+      "keyword": "김지원 닥터X 첫방 시청률 11%",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "윤소희 눈치 없는 행보",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "김영광 보복운전 해명",
+      "state": "+",
+      "change": "5"
+    },
+    {
+      "rank": 5,
+      "keyword": "이태성 중3 아들 전교 1등 유지",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 6,
-      "keyword": "2026년 10월 운세",
+      "keyword": "홍혜걸 회사 매각 고민",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "건물 3채 재산 2조설 부인",
+      "keyword": "미 증시 최고치, 코스피 박스권",
       "state": "+",
-      "change": "10"
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "강이슬 우리은행 4강행",
+      "keyword": "유재석도 반한 현대차",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 9,
+      "keyword": "우크라 감정보다 외교가",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "이태성 2500만원 집 공개",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 10,
-      "keyword": "강력한 티샷",
+      "keyword": "북 노동당 81주년 기념 행사",
       "state": "n",
       "change": "0"
     }
