@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-10T19:05:25.112Z",
+  "updatedAt": "2026-10-10T22:26:03.653Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "스포츠 중계",
-      "traffic": "200+"
+      "keyword": "민 도희",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "แมนยู พบ สเปอร์ส",
-      "traffic": "500+"
+      "keyword": "로스앤젤레스 fc",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "man utd đấu với tottenham",
-      "traffic": "500+"
+      "keyword": "황인범",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "논술",
+      "keyword": "맥도날드",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "la liga",
+      "keyword": "롯데월드",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "man utd vs spurs",
-      "traffic": "1000+"
+      "keyword": "남편",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "브라이튼",
-      "traffic": "100+"
+      "keyword": "미디어오늘",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "바르셀로나 대 헤타페",
-      "traffic": "5000+"
+      "keyword": "이민정",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "barcelona vs getafe",
-      "traffic": "1000+"
+      "keyword": "홍준표",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "맨유 대 토트넘",
-      "traffic": "20000+"
+      "keyword": "madrid vs villarreal",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김지원, 히히 집에 간다",
+      "keyword": "닥터X 촬영장 애교",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "충장축제 오리지널 퍼레이드",
-      "state": "s",
-      "change": "0"
+      "keyword": "2026년 10월 11일 운세",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "KIA 3위 매직넘버 남았다!",
+      "keyword": "이강인, 벤치 후반 교체",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김호영 법적 대응",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "사랑이 온다",
+      "keyword": "이혜정 남편 막말에 분노",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "비행기 보조배터리 화재 168명 대피",
+      "rank": 5,
+      "keyword": "인터뷰하는 김영훈 장관",
       "state": "+",
-      "change": "4"
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "사랑이 온다",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "야구 은퇴 황재균 눈물",
+      "keyword": "트럼프, 우크라 새 대통령 필요",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "신동 37KG 감량 해명",
-      "state": "+",
-      "change": "3"
+      "keyword": "설영우 무승부 2-2",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "파워 실어 날린다!",
-      "state": "-",
-      "change": "2"
+      "keyword": "리야드 공항 또 공격",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "안무가 시미즈, 억대 CEO였던 영앤리치",
-      "state": "-",
-      "change": "5"
+      "keyword": "각양각색 13개 동 주민들",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
