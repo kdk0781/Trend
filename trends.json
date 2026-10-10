@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-10T14:55:58.195Z",
+  "updatedAt": "2026-10-10T19:05:25.112Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "alavés vs atlético",
+      "keyword": "스포츠 중계",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "당구장",
-      "traffic": "200+"
+      "keyword": "แมนยู พบ สเปอร์ส",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "fotmob",
-      "traffic": "200+"
+      "keyword": "man utd đấu với tottenham",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "augsburg vs bayern",
-      "traffic": "200+"
+      "keyword": "논술",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "ngoại hạng anh",
+      "keyword": "la liga",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "알라베스 대 아틀레티코",
-      "traffic": "10000+"
+      "keyword": "man utd vs spurs",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "첼시 대 본머스",
-      "traffic": "5000+"
+      "keyword": "브라이튼",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "at마드리드",
-      "traffic": "200+"
+      "keyword": "바르셀로나 대 헤타페",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "아우크스부르크 대 바이에른",
-      "traffic": "10000+"
+      "keyword": "barcelona vs getafe",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "로또1245",
-      "traffic": "1000+"
+      "keyword": "맨유 대 토트넘",
+      "traffic": "20000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김지원, 닥터X로 귀여움 발산!",
+      "keyword": "김지원, 히히 집에 간다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "한동훈 딸 사건 논란",
-      "state": "n",
+      "keyword": "충장축제 오리지널 퍼레이드",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "충장축제 오리지널 퍼레이드",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 4,
-      "keyword": "네팔 실종자 곧 사망처리",
-      "state": "n",
+      "keyword": "KIA 3위 매직넘버 남았다!",
+      "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "김경문 손혁 한화 떠난다",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "keyword": "김호영 법적 대응",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "KIA 3위 매직 1! 김도영 폭발",
+      "rank": 5,
+      "keyword": "사랑이 온다",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "비행기 보조배터리 화재 168명 대피",
       "state": "+",
-      "change": "1"
+      "change": "4"
+    },
+    {
+      "rank": 7,
+      "keyword": "야구 은퇴 황재균 눈물",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "명색이 집권당 추미애 난감",
-      "state": "-",
-      "change": "1"
+      "keyword": "신동 37KG 감량 해명",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "그것이 알고 싶다",
-      "state": "+",
-      "change": "5"
+      "keyword": "파워 실어 날린다!",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "로또 1등 10명 각 30억 당첨",
+      "keyword": "안무가 시미즈, 억대 CEO였던 영앤리치",
       "state": "-",
       "change": "5"
     }
