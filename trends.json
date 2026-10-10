@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-09T23:26:47.585Z",
+  "updatedAt": "2026-10-10T02:32:03.533Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "노윤서",
-      "traffic": "100+"
+      "keyword": "2026",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "대한민국 축구 국가대표팀",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "황정음",
+      "keyword": "이태성",
       "traffic": "500+"
     },
     {
+      "rank": 3,
+      "keyword": "롯데온",
+      "traffic": "100+"
+    },
+    {
       "rank": 4,
-      "keyword": "홍혜걸",
-      "traffic": "200+"
+      "keyword": "고영욱",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "조선민주주의인민공화국",
-      "traffic": "200+"
+      "keyword": "동맹",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "축구",
-      "traffic": "10000+"
+      "keyword": "관광지",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "다우 존스 산업평균지수",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "아침",
+      "keyword": "매일경제신문",
       "traffic": "1000+"
     },
     {
+      "rank": 8,
+      "keyword": "어린이대공원",
+      "traffic": "500+"
+    },
+    {
       "rank": 9,
-      "keyword": "포스코",
-      "traffic": "200+"
+      "keyword": "al nassr",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "흡연",
-      "traffic": "200+"
+      "keyword": "나비 필라이",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "뉴욕증시 공급 상승",
-      "state": "n",
+      "keyword": "남창희 윤영경 임신 소식",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김지원 닥터X 첫방 시청률 11%",
-      "state": "n",
+      "keyword": "이수희 강동구청장 인터뷰",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "윤소희 눈치 없는 행보",
-      "state": "+",
-      "change": "1"
+      "keyword": "호날두 통산 980골",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김영광 보복운전 해명",
-      "state": "+",
-      "change": "5"
+      "keyword": "박기창 대사 귀국",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이태성 중3 아들 전교 1등 유지",
-      "state": "+",
-      "change": "1"
+      "keyword": "변요한과 윤소희, 사회성 결여",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "홍혜걸 회사 매각 고민",
+      "keyword": "연상호 감독 질문 답변",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "미 증시 최고치, 코스피 박스권",
+      "keyword": "닥터X 첫 방송 시청률 12.9%",
       "state": "+",
-      "change": "3"
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "유재석도 반한 현대차",
-      "state": "+",
-      "change": "3"
+      "keyword": "중동 바퀴벌레 부산 발견",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "우크라 감정보다 외교가",
+      "keyword": "여에스더 회사 매각 고민",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "북 노동당 81주년 기념 행사",
+      "keyword": "나나와 탑 열애 후폭풍",
       "state": "n",
       "change": "0"
     }
