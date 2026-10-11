@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-10-11T07:05:08.510Z",
+  "updatedAt": "2026-10-11T13:56:39.616Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "한윤서",
-      "traffic": "5000+"
+      "keyword": "주주",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "심판",
-      "traffic": "500+"
+      "keyword": "유현 조",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "김호영",
-      "traffic": "500+"
+      "keyword": "persib bandung vs dewa united",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "안병하",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "호랑이",
+      "keyword": "한화 이글스",
       "traffic": "5000+"
     },
     {
+      "rank": 5,
+      "keyword": "pak vs sl",
+      "traffic": "1000+"
+    },
+    {
       "rank": 6,
-      "keyword": "윤호중",
+      "keyword": "김승수",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "안양 정관장 대 창원 lg",
-      "traffic": "500+"
+      "keyword": "정친원",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "k리그2",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "수원삼성",
+      "keyword": "엑소 크리스",
       "traffic": "100+"
     },
     {
-      "rank": 10,
-      "keyword": "지폐",
+      "rank": 9,
+      "keyword": "cuaca besok",
       "traffic": "200+"
+    },
+    {
+      "rank": 10,
+      "keyword": "weather tomorrow",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "닥터X 시청률 15% 기록",
-      "state": "s",
-      "change": "0"
+      "keyword": "장모 살해·아내 납치 20대",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "KT 힐리어드 홈런 공동 1위",
+      "keyword": "닥터X : 하얀 마피아의 시대",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "대구 사고 보고 때 골프 치다 유감",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "임은정 감찰 지시",
-      "state": "+",
-      "change": "4"
-    },
-    {
       "rank": 4,
-      "keyword": "장모 살해·아내 납치 20대 체포",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "비트윈 투 러버스 부산 방문",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "KIA 아담 올러, 혼신의 피칭",
-      "state": "s",
+      "keyword": "오선진 은퇴 19년 프로 경력 종료",
+      "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "종이 상자 앞 정조대왕",
+      "rank": 5,
+      "keyword": "김승수 소이현과의 관계",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "우리은행 박신자컵 준우승",
       "state": "-",
-      "change": "5"
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "찰리 푸스 내한 공연",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "LAFC, 밴쿠버와 1-1 무승부",
-      "state": "s",
+      "keyword": "울산 29경기 만에 승리",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "12일부터 가격 인상",
+      "keyword": "의혹 한동훈은 김민석",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "중반 접어든 제31회 부산국제영화제",
-      "state": "n",
+      "keyword": "서울대 6년 해킹 1132건 유출",
+      "state": "s",
       "change": "0"
     }
   ]
