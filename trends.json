@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-11T01:06:04.241Z",
+  "updatedAt": "2026-10-11T07:05:08.510Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "뭔데뭔데! 이게 무슨 난리고",
-      "traffic": "200+"
+      "keyword": "한윤서",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "강선우",
-      "traffic": "1000+"
+      "keyword": "심판",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "inter miami vs d.c. united",
+      "keyword": "김호영",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "2026",
-      "traffic": "200+"
+      "keyword": "안병하",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "신진서",
-      "traffic": "200+"
+      "keyword": "호랑이",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "나루토",
-      "traffic": "100+"
+      "keyword": "윤호중",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "서장훈의 이웃집 백만장자",
-      "traffic": "100+"
+      "keyword": "안양 정관장 대 창원 lg",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "월스트리트 저널",
+      "keyword": "k리그2",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "원자력",
+      "keyword": "수원삼성",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "사관학교",
+      "keyword": "지폐",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "북 노동당 창건 81주년 맞이",
+      "keyword": "닥터X 시청률 15% 기록",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "닥터X 달리는 김지원",
-      "state": "s",
+      "keyword": "KT 힐리어드 홈런 공동 1위",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "암살자 300만 돌파 초읽기",
+      "keyword": "임은정 감찰 지시",
       "state": "+",
-      "change": "21"
+      "change": "4"
     },
     {
       "rank": 4,
-      "keyword": "이현지 세계선수권 최중량급",
+      "keyword": "장모 살해·아내 납치 20대 체포",
       "state": "+",
-      "change": "19"
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "정보석 아들, 3위 몸짱 빵집 사장",
+      "keyword": "비트윈 투 러버스 부산 방문",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "KIA 아담 올러, 혼신의 피칭",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "트럼프 우크라 새 대통령 필요",
-      "state": "-",
-      "change": "2"
-    },
-    {
       "rank": 7,
-      "keyword": "아우크스와 뮌헨 2-2 무승부",
-      "state": "n",
-      "change": "0"
+      "keyword": "종이 상자 앞 정조대왕",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 8,
-      "keyword": "호날두 대표팀 무단 이탈 징계",
-      "state": "n",
+      "keyword": "LAFC, 밴쿠버와 1-1 무승부",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "좋은 남편 꿈",
-      "state": "n",
+      "keyword": "12일부터 가격 인상",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "하리수 기자 질문에 분노",
+      "keyword": "중반 접어든 제31회 부산국제영화제",
       "state": "n",
       "change": "0"
     }
