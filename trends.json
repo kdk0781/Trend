@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-11T13:56:39.616Z",
+  "updatedAt": "2026-10-11T18:35:16.734Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "주주",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "유현 조",
+      "keyword": "황희찬",
       "traffic": "1000+"
     },
     {
+      "rank": 2,
+      "keyword": "ลิเวอร์พูล พบ แมนซิตี",
+      "traffic": "200+"
+    },
+    {
       "rank": 3,
-      "keyword": "persib bandung vs dewa united",
+      "keyword": "fotmob",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "한화 이글스",
-      "traffic": "5000+"
+      "keyword": "맨시티",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "pak vs sl",
-      "traffic": "1000+"
+      "keyword": "ngoại hạng anh",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "김승수",
+      "keyword": "김성한",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "정친원",
-      "traffic": "200+"
+      "keyword": "liverpool vs man city",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "엑소 크리스",
-      "traffic": "100+"
+      "keyword": "청년",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "cuaca besok",
-      "traffic": "200+"
+      "keyword": "레알 소시에다드 대 데포르티보",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "weather tomorrow",
-      "traffic": "2000+"
+      "keyword": "india vs west indies",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "장모 살해·아내 납치 20대",
-      "state": "+",
-      "change": "1"
+      "keyword": "트럼프 러-우크라 에너지 휴전",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "닥터X : 하얀 마피아의 시대",
-      "state": "-",
-      "change": "1"
+      "keyword": "찰리 푸스 내한 공연",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "대구 사고 보고 때 골프 치다 유감",
+      "keyword": "서울 뒤집기 역전승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "오선진 은퇴 19년 프로 경력 종료",
-      "state": "n",
+      "keyword": "서울대 6년 해킹 개인정보 유출",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김승수 소이현과의 관계",
-      "state": "n",
+      "keyword": "경찰 국정원 압수수색",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "우리은행 박신자컵 준우승",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "찰리 푸스 내한 공연",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "울산 29경기 만에 승리",
+      "keyword": "장모 살해 후 아내 납치한 20대",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "김민종, MC몽 고소 취하",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "우리은행 박신자컵 준우승",
+      "state": "-",
+      "change": "5"
+    },
+    {
       "rank": 9,
-      "keyword": "의혹 한동훈은 김민석",
-      "state": "s",
-      "change": "0"
+      "keyword": "소이현 셋째 원하지만 인교진 반대",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "서울대 6년 해킹 1132건 유출",
-      "state": "s",
-      "change": "0"
+      "keyword": "2026년 10월 운세",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
