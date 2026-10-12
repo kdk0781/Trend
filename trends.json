@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-11T22:24:39.741Z",
+  "updatedAt": "2026-10-12T01:27:35.452Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "погода",
-      "traffic": "500+"
+      "keyword": "김다예",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "키움 히어로즈",
-      "traffic": "200+"
+      "keyword": "하이닉스",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "제민일보",
-      "traffic": "500+"
+      "keyword": "기업은행",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "thời tiết",
-      "traffic": "1000+"
+      "keyword": "경찰청",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "สภาพอากาศ",
-      "traffic": "1000+"
+      "keyword": "국민카드",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "天气",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "오늘날씨",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "기상청",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "삼성전자",
+      "keyword": "claude",
       "traffic": "2000+"
     },
     {
+      "rank": 7,
+      "keyword": "우리은행",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "하나은행",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "국민신문고",
+      "traffic": "200+"
+    },
+    {
       "rank": 10,
-      "keyword": "국민의힘",
-      "traffic": "100+"
+      "keyword": "부산은행",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "에너지 휴전 합의",
+      "keyword": "발언하는 장동혁 대표",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김혜성 NLCS 로스터 제외",
-      "state": "+",
-      "change": "1"
+      "keyword": "대외경제장관회의 이형일 부총리",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김민종, MC몽 고소 취하 이유",
+      "keyword": "출근하는 정동영 장관",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "사우디 리야드 공항 미사일 피격",
-      "state": "s",
-      "change": "0"
+      "keyword": "북한 미상 발사체 발사",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "사랑이 온다",
-      "state": "s",
-      "change": "0"
+      "keyword": "하이닉스 주가 향방",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "2026년 10월 12일 운세",
-      "state": "s",
+      "keyword": "100일의 거짓말 첫 만남 악연",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "KIA LG와 3위 결정전",
-      "state": "s",
-      "change": "0"
+      "keyword": "양민혁 벨기에 데뷔골",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "김용지 결혼 김고은 배정남 축하",
+      "keyword": "마약 돈스파이크 당첨됐다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "아버지 살해한 40대 딸 구속",
-      "state": "-",
-      "change": "1"
+      "keyword": "암살자 300만 돌파",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "상담과 교수 강연료 차별",
+      "keyword": "중국, 판소리 문화유산 지정",
       "state": "n",
       "change": "0"
     }
