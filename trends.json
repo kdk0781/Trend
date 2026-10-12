@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-12T17:01:09.258Z",
+  "updatedAt": "2026-10-12T23:35:20.032Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "박항서",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "알 테오 젠",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "한국수력원자력",
+      "keyword": "cxmt",
       "traffic": "100+"
     },
     {
-      "rank": 4,
-      "keyword": "비타민",
-      "traffic": "1000+"
+      "rank": 2,
+      "keyword": "대장 암",
+      "traffic": "2000+"
     },
     {
-      "rank": 5,
-      "keyword": "챔스",
+      "rank": 3,
+      "keyword": "새만금",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "백지영",
       "traffic": "500+"
     },
     {
+      "rank": 5,
+      "keyword": "schd",
+      "traffic": "200+"
+    },
+    {
       "rank": 6,
-      "keyword": "차준환",
+      "keyword": "rj mitte",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "제주시민회관",
-      "traffic": "500+"
+      "keyword": "현대 투싼",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "김혜수",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "이주연",
+      "keyword": "손해율",
       "traffic": "100+"
     },
     {
+      "rank": 9,
+      "keyword": "날씨",
+      "traffic": "200000+"
+    },
+    {
       "rank": 10,
-      "keyword": "주식시장",
-      "traffic": "5000+"
+      "keyword": "ionq",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "안타 추가 롯데 레이예스",
+      "keyword": "트럼프 김정은 만날 수도",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "로버트 홀과 마이클 우드퍼드 노벨상",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 3,
-      "keyword": "잠실야구장 정규시즌 마지막",
+      "keyword": "북한 국방혁명박물관 개관",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "유현조 세계랭킹 42위",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 4,
-      "keyword": "서준맘 박세미, 결혼합니다!",
+      "keyword": "아내 남편 극단적 갈등",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "인권위, 윤 방어권 사과 결정",
-      "state": "n",
-      "change": "0"
+      "keyword": "故 김현이 추모 소식",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "KIA 김도영 역전포",
+      "keyword": "추영어 김소현, 시청률 급상승!",
       "state": "+",
       "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "LH 사장 집값 급락 가능성",
-      "state": "+",
-      "change": "1"
+      "keyword": "후티 사우디 리야드",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "한동훈 딸 재수사 필요성",
-      "state": "+",
-      "change": "2"
+      "keyword": "브레이킹 배드 배우 34세 비극적 사망",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "장모 죽이고 아내 납치한 20대",
-      "state": "n",
-      "change": "0"
+      "keyword": "우리들의 발라드2",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "성시경, 톰 크루즈 만남",
-      "state": "n",
-      "change": "0"
+      "keyword": "뉴욕증시 혼조 마감",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
