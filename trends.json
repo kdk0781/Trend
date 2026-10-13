@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-13T18:20:01.502Z",
+  "updatedAt": "2026-10-13T22:54:50.357Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "champions league",
-      "traffic": "100+"
+      "keyword": "집",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "이찬원",
-      "traffic": "500+"
+      "keyword": "강다은",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "렉서스",
-      "traffic": "500+"
+      "keyword": "한화오션",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "박성온",
+      "keyword": "ionq",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "롤러코스터",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "애플",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "장도연",
+      "keyword": "skhy",
       "traffic": "200+"
     },
     {
-      "rank": 8,
-      "keyword": "apple",
+      "rank": 6,
+      "keyword": "usa vs namibia",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "김도영",
       "traffic": "500+"
     },
     {
+      "rank": 8,
+      "keyword": "단풍",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "bangladesh vs afghanistan",
+      "keyword": "김지용",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "pakistan vs sri lanka",
-      "traffic": "1000+"
+      "keyword": "청바지",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "인천경찰청 흉기 난동 경위 보고",
+      "keyword": "이준혁 로또 1등이네",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "정성숙 감독 사퇴 표명",
-      "state": "s",
-      "change": "0"
+      "keyword": "트럼프 후티 공격 잊지 않겠다",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "에이티즈 밀라노 열애설 해명",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "김홍근 경기남부경찰청장 직무대리",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "이민정 아들 용돈 4만원 책정",
+      "keyword": "이강인, 맨유 2-0 완승!",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "나주 부부 범죄자 신상 공개",
+      "rank": 4,
+      "keyword": "알래스카 540억 투자",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 5,
+      "keyword": "故김현이 비보 전해져 추모",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "장모 살해 20대 구속",
+      "rank": 6,
+      "keyword": "이동준, 클레멘타인 52억 손실",
       "state": "-",
+      "change": "4"
+    },
+    {
+      "rank": 7,
+      "keyword": "2026년 10월 14일 운세",
+      "state": "+",
       "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "풍자 성형 1억5천",
+      "keyword": "날씬한 정보석의 15년 아침 메뉴는?",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "대전, 상하이 1-1 무승부",
-      "state": "+",
-      "change": "3"
+      "keyword": "한동훈 딸 수사무마 의혹 고발",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "박해민 선수협 회장 선출",
+      "keyword": "노소영 재산 2440억 분할",
       "state": "n",
       "change": "0"
     }
