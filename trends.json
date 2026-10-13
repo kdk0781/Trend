@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-12T23:35:20.032Z",
+  "updatedAt": "2026-10-13T03:48:41.800Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "cxmt",
+      "keyword": "수술",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "대장 암",
+      "keyword": "석장현",
       "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "새만금",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "백지영",
+      "keyword": "특허 괴물",
       "traffic": "500+"
     },
     {
+      "rank": 4,
+      "keyword": "장애인",
+      "traffic": "1000+"
+    },
+    {
       "rank": 5,
-      "keyword": "schd",
-      "traffic": "200+"
+      "keyword": "선로",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "rj mitte",
+      "keyword": "이범호",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "현대 투싼",
-      "traffic": "2000+"
+      "keyword": "유럽 연합군 최고 사령관",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "손해율",
-      "traffic": "100+"
+      "keyword": "놀",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "날씨",
-      "traffic": "200000+"
+      "keyword": "삼성전기 주가",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "ionq",
-      "traffic": "500+"
+      "keyword": "브레이킹 배드",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 김정은 만날 수도",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "북한 국방혁명박물관 개관",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "유현조 세계랭킹 42위",
+      "keyword": "답변하는 추미애 경기도지사",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "손인혁 헌법재판소 사무처장",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "코스피 6000선 붕괴",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 4,
-      "keyword": "아내 남편 극단적 갈등",
+      "keyword": "임기근 국조실장 활동",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "故 김현이 추모 소식",
-      "state": "+",
-      "change": "1"
+      "keyword": "한화 류지현 감독 선임",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "추영어 김소현, 시청률 급상승!",
-      "state": "+",
-      "change": "3"
+      "keyword": "두산 김지우 5억원 계약 최고액",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "후티 사우디 리야드",
+      "keyword": "김수현 아닌 연예인 A씨",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "브레이킹 배드 배우 34세 비극적 사망",
+      "keyword": "김태승 코레일 사장 질의 응답",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "IMF, 韓 성장률 3.3% 상향",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "우리들의 발라드2",
-      "state": "-",
-      "change": "3"
-    },
-    {
       "rank": 10,
-      "keyword": "뉴욕증시 혼조 마감",
+      "keyword": "광주 루아 MVP 선정",
       "state": "-",
-      "change": "2"
+      "change": "1"
     }
   ]
 }
