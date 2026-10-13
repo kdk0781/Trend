@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-13T03:48:41.800Z",
+  "updatedAt": "2026-10-13T11:10:46.676Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "수술",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "석장현",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "특허 괴물",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "장애인",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "선로",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "이범호",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "유럽 연합군 최고 사령관",
+      "keyword": "돌잔치",
       "traffic": "200+"
     },
     {
-      "rank": 8,
-      "keyword": "놀",
+      "rank": 2,
+      "keyword": "안양 정관장 대 고양 소노",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "아리엘 후라도",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "레임덕",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "오타니",
       "traffic": "500+"
     },
     {
-      "rank": 9,
-      "keyword": "삼성전기 주가",
+      "rank": 6,
+      "keyword": "afc 챔스",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "megan fox",
       "traffic": "100+"
     },
     {
+      "rank": 8,
+      "keyword": "포항 대 조호르 fc",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "홍라희",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "브레이킹 배드",
-      "traffic": "1000+"
+      "keyword": "지커 7x",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "답변하는 추미애 경기도지사",
-      "state": "n",
+      "keyword": "김용지 일본인 남편과 결혼 임신 소식",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "손인혁 헌법재판소 사무처장",
+      "keyword": "장모 살해 20대 구속",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "코스피 6000선 붕괴",
-      "state": "-",
-      "change": "1"
+      "keyword": "인천 흉기 난동 시민 제압 9명 피해",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "임기근 국조실장 활동",
+      "keyword": "정성숙 감독 귀국 인터뷰",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "한화 류지현 감독 선임",
-      "state": "s",
+      "keyword": "이병헌 아들 용돈 10만원",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "두산 김지우 5억원 계약 최고액",
-      "state": "n",
-      "change": "0"
+      "keyword": "홍라희, 이재용에 삼성전자 2.6조 증여",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "김수현 아닌 연예인 A씨",
-      "state": "n",
-      "change": "0"
+      "keyword": "故김현이 비보, 드라마 추모",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "김태승 코레일 사장 질의 응답",
+      "keyword": "DB 손해보험",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "IMF, 韓 성장률 3.3% 상향",
+      "keyword": "에이티즈 밀라노 열애설 해명",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "광주 루아 MVP 선정",
-      "state": "-",
-      "change": "1"
+      "keyword": "HMM 부산 시대 열렸다",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
