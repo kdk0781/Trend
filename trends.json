@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-14T20:46:09.666Z",
+  "updatedAt": "2026-10-14T23:28:28.020Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "육군사관학교",
-      "traffic": "100+"
+      "keyword": "의대생",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "real madrid",
-      "traffic": "100+"
+      "keyword": "띠별 운세",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "맨시티",
-      "traffic": "500+"
+      "keyword": "엘링 홀란",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "man city vs psg",
-      "traffic": "500+"
+      "keyword": "jtbc",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "roma vs real madrid",
-      "traffic": "500+"
+      "keyword": "로봇",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "psg",
+      "keyword": "코어위브",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "레알마드리드",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "로마 대 레알 마드리드",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "조선민주주의인민공화국",
+      "keyword": "klasemen as roma vs real madrid",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "송전선",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
+      "keyword": "날씨",
+      "traffic": "100000+"
+    },
+    {
       "rank": 10,
-      "keyword": "롤드컵",
-      "traffic": "100+"
+      "keyword": "그린란드",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "LG가 준PO 진출!",
-      "state": "s",
-      "change": "0"
+      "keyword": "잠수함발사 전략순항미사일 시험발사",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "美 9월 물가 3.7% 상승",
-      "state": "s",
+      "keyword": "A2O LITE, 29시간 만에 멜론 1위 기록",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "제니하우스 패션쇼 참석",
-      "state": "s",
+      "keyword": "오타니 6번 타순 유지",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "빅나티 깜짝 결혼 발표",
+      "keyword": "나는 솔로 영숙 요리 멘붕",
       "state": "+",
-      "change": "6"
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "나는 솔로 가족관계 고백",
-      "state": "+",
-      "change": "28"
+      "keyword": "트럼프 韓 500억 투자",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 6,
-      "keyword": "인천 흉기난동 구속영장 신청",
-      "state": "-",
-      "change": "1"
+      "keyword": "물가 약세로 하락",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김원형 감독의 아쉬운 시즌",
-      "state": "-",
-      "change": "1"
+      "keyword": "임진모, 아들 양말 착용",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "트럼프 뉴욕 반도체 투자",
-      "state": "s",
+      "keyword": "흉기 난동 치료 불만",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "아내 살해 70대 검거",
-      "state": "-",
-      "change": "2"
+      "keyword": "전주 아내 살해 남편 체포",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "박준금, 감독 뺨 때려 해명",
-      "state": "-",
-      "change": "1"
+      "keyword": "최수종 없었다면 하희라",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
