@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-14T12:18:05.184Z",
+  "updatedAt": "2026-10-14T17:19:29.023Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "민생지원금",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "치지직",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "cpi 발표",
+      "keyword": "lask",
       "traffic": "100+"
     },
     {
-      "rank": 4,
-      "keyword": "cpi",
+      "rank": 2,
+      "keyword": "west indies vs india",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "앤트로픽",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "박성현",
+      "traffic": "100+"
+    },
+    {
       "rank": 5,
-      "keyword": "빅나티 결혼",
+      "keyword": "기온",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "stabbing",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "정몽구",
+      "keyword": "준플레이오프 예매",
       "traffic": "200+"
     },
     {
+      "rank": 7,
+      "keyword": "스테파니",
+      "traffic": "100+"
+    },
+    {
       "rank": 8,
-      "keyword": "네이버 시계",
+      "keyword": "팬오션",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "기부",
+      "keyword": "히샬리송",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "변호사",
-      "traffic": "2000+"
+      "keyword": "스마트폰",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김현이 교통사고",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
       "keyword": "오스틴 선제 투런포",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "하정우와 차정원 결혼 소식",
+      "rank": 2,
+      "keyword": "美 9월 물가 3.7% ↑",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "빅나티 10년 사랑 결혼 발표",
+      "state": "+",
+      "change": "10"
+    },
+    {
       "rank": 4,
-      "keyword": "생후 2개월 딸 폭행 사망 구속",
+      "keyword": "현대차 푸네 신공장 개소식",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "제니하우스 패션쇼 참석",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "경찰, 흉기난동 구속영장 신청",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "김지용 중수청장 청문회 종료",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 5,
-      "keyword": "트리플에스 김채연",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "하현상, 11월 군 입대 준비",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "강선우 징역 2년 6개월",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 8,
-      "keyword": "웨스팅하우스 지분 인수 검토",
-      "state": "n",
+      "keyword": "강선우 징역 2년 6개월",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "서인영, 일본인 전남친과 3년 열애",
-      "state": "-",
-      "change": "2"
+      "keyword": "이지혜, 성심당 대전 감사",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "가족관계증명서",
-      "state": "-",
-      "change": "2"
+      "keyword": "이태원참사 4주기 촉구 피케팅",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
