@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-14T17:19:29.023Z",
+  "updatedAt": "2026-10-14T20:46:09.666Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "lask",
+      "keyword": "육군사관학교",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "west indies vs india",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "앤트로픽",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "박성현",
+      "keyword": "real madrid",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "맨시티",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "man city vs psg",
+      "traffic": "500+"
+    },
+    {
       "rank": 5,
-      "keyword": "기온",
+      "keyword": "roma vs real madrid",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "준플레이오프 예매",
+      "keyword": "psg",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "스테파니",
+      "keyword": "레알마드리드",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "팬오션",
-      "traffic": "200+"
+      "keyword": "로마 대 레알 마드리드",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "히샬리송",
+      "keyword": "조선민주주의인민공화국",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "스마트폰",
-      "traffic": "200+"
+      "keyword": "롤드컵",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "오스틴 선제 투런포",
+      "keyword": "LG가 준PO 진출!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "美 9월 물가 3.7% ↑",
+      "keyword": "美 9월 물가 3.7% 상승",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "빅나티 10년 사랑 결혼 발표",
-      "state": "+",
-      "change": "10"
+      "keyword": "제니하우스 패션쇼 참석",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "현대차 푸네 신공장 개소식",
+      "keyword": "빅나티 깜짝 결혼 발표",
       "state": "+",
-      "change": "1"
+      "change": "6"
     },
     {
       "rank": 5,
-      "keyword": "제니하우스 패션쇼 참석",
+      "keyword": "나는 솔로 가족관계 고백",
       "state": "+",
-      "change": "1"
+      "change": "28"
     },
     {
       "rank": 6,
-      "keyword": "경찰, 흉기난동 구속영장 신청",
-      "state": "+",
+      "keyword": "인천 흉기난동 구속영장 신청",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "김지용 중수청장 청문회 종료",
-      "state": "+",
-      "change": "2"
+      "keyword": "김원형 감독의 아쉬운 시즌",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "강선우 징역 2년 6개월",
+      "keyword": "트럼프 뉴욕 반도체 투자",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이지혜, 성심당 대전 감사",
-      "state": "+",
-      "change": "1"
+      "keyword": "아내 살해 70대 검거",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "이태원참사 4주기 촉구 피케팅",
-      "state": "n",
-      "change": "0"
+      "keyword": "박준금, 감독 뺨 때려 해명",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
