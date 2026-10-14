@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-14T01:29:29.854Z",
+  "updatedAt": "2026-10-14T06:34:38.335Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "모두의 ai",
-      "traffic": "100+"
+      "keyword": "하정우",
+      "traffic": "10000+"
     },
     {
       "rank": 2,
-      "keyword": "gemini 4",
-      "traffic": "100+"
+      "keyword": "정대세",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "민희진",
-      "traffic": "500+"
+      "keyword": "킥보드",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "농민",
-      "traffic": "500+"
+      "keyword": "코레일 채용",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "독도",
-      "traffic": "100+"
+      "keyword": "죽음",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "katie zacharia",
-      "traffic": "100+"
+      "keyword": "asml",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "가디언즈 대 레이스",
-      "traffic": "1000+"
+      "keyword": "수영장",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "일론 머스크",
-      "traffic": "100+"
+      "keyword": "ksoi 한국 사회 여론 연구소",
+      "traffic": "10000+"
     },
     {
       "rank": 9,
-      "keyword": "어디가",
-      "traffic": "100+"
+      "keyword": "동아일보 오늘의 운세",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "마이클 페이지",
-      "traffic": "1000+"
+      "keyword": "황인범",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이형일 부총리 회의 주재",
+      "keyword": "차정원과 하정우 결혼 소식",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "플레어 유, 성장한 모습으로 팬들과 함께해요",
-      "state": "s",
-      "change": "0"
+      "keyword": "강선우 징역형 2년 6개월",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 3,
-      "keyword": "김민석 대표 최고위 주재",
-      "state": "n",
-      "change": "0"
+      "keyword": "이재명 대통령 인구전략",
+      "state": "+",
+      "change": "7"
     },
     {
       "rank": 4,
-      "keyword": "코스피 올라 시작",
-      "state": "s",
+      "keyword": "앤킴 10KG 감량 굶어면서",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "이강인 맨유 제압 첫 승",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "생후 2개월 딸 숨지게 한 아버지",
-      "state": "+",
+      "keyword": "김천 K리그1 불승인, 김포·청주 조건부 승인",
+      "state": "-",
       "change": "2"
     },
     {
-      "rank": 7,
-      "keyword": "KT 800GBPS AI 회선 출시",
+      "rank": 6,
+      "keyword": "김진오 부위원장 발표",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "부스 둘러보는 관람객들",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 8,
-      "keyword": "출근하는 조희대 대법원장",
-      "state": "+",
-      "change": "1"
+      "keyword": "나의 유죄인간 설인아",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "레오 14세 폐암 절제 수술",
+      "keyword": "김지용, 한동훈 부정 어려움",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "정인이 묘소를 찾은 그알 PD",
-      "state": "n",
-      "change": "0"
+      "keyword": "울산 화재 4시간 만에 완진",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
