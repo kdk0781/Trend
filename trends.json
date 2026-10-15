@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-15T01:40:38.175Z",
+  "updatedAt": "2026-10-15T06:29:15.993Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "카드뉴스",
-      "traffic": "100+"
+      "keyword": "포스코노동조합",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "어디가",
-      "traffic": "1000+"
+      "keyword": "서장훈의 이웃집 백만장자",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "kospi",
+      "keyword": "경향신문",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "토스증권",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "독도",
+      "keyword": "tsmc 실적 발표",
       "traffic": "200+"
     },
     {
+      "rank": 5,
+      "keyword": "기상",
+      "traffic": "500+"
+    },
+    {
       "rank": 6,
-      "keyword": "솔비",
+      "keyword": "부모",
       "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "하이닉스 주가",
-      "traffic": "1000+"
+      "keyword": "병역면제",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "삼전 주가",
+      "keyword": "박문성",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "리그 오브 레전드",
+      "keyword": "사교육",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "하이닉스",
-      "traffic": "5000+"
+      "keyword": "초소형군집위성",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이규한 솔비 결혼 복선",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "코스닥 매도 사이드카 발동",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "발언하는 장동혁 대표",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "레알 마드리드, 로마에 대역전승",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "한미 재계 36차 회의",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "삼성전자 AI 협력 확대",
+      "keyword": "이재명 대통령 수석보좌관회의",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 2,
+      "keyword": "김지용 중수청장 채택",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "손흥민, 1골 2도움 맹활약",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "결혼 발표 이규한 솔비 커플사진 공개",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "김혜자 무대인사 취소",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "코스피 서킷브레이커 발동",
+      "state": "-",
+      "change": "5"
+    },
+    {
       "rank": 7,
-      "keyword": "장모 살해 20대 신상 공개 여부 결정",
-      "state": "n",
+      "keyword": "서울 아파트 88주 연속 상승",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "대한전선, 美 초고압 수주",
+      "keyword": "특검 7곳 압수수색",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이수만 A2O 라이트 1위 돌풍",
+      "keyword": "장모 살해·시신 유기 징역 45년",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "LG전자 기아 해결 캠페인",
+      "keyword": "장우혁 폭로 무죄",
       "state": "n",
       "change": "0"
     }
