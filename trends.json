@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-16T00:49:06.763Z",
+  "updatedAt": "2026-10-16T05:09:12.008Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "과천선",
+      "keyword": "이소나",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "지승준",
-      "traffic": "100+"
+      "keyword": "시드니 스위니",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "테슬라 로드스터",
-      "traffic": "100+"
+      "keyword": "지진",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "공무원연금공단",
-      "traffic": "500+"
+      "keyword": "테슬라 주식",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "금융감독원",
-      "traffic": "500+"
+      "keyword": "김지민",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "언더 커버 셰프",
-      "traffic": "500+"
+      "keyword": "구미시",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "이영표",
-      "traffic": "1000+"
+      "keyword": "한국갤럽",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "담보 대출",
-      "traffic": "200+"
+      "keyword": "등산",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "양현석",
-      "traffic": "1000+"
+      "keyword": "프로게이머",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "서식스 공작 해리",
-      "traffic": "200+"
+      "keyword": "국민체력100",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "9월 취업자 증가 11.3만명",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "발언하는 정점식 원내대표",
+      "keyword": "이형일 부총리 면담",
       "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 3,
-      "keyword": "오현규 2골 1도움 원맨쇼",
-      "state": "-",
       "change": "1"
     },
     {
+      "rank": 2,
+      "keyword": "부천 도장공장 화재 조사",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "한화 류지현 감독 취임 소식",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 4,
-      "keyword": "안희연 송지효 한솥밥",
+      "keyword": "강호동 회장 질의 답변",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "나주 부부 살해 박용수",
+      "keyword": "코스닥 매수 사이드카",
       "state": "+",
       "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "전현무 즉흥 여행 대본 논란",
+      "keyword": "질의 김대웅 서울고등법원장",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "에이티즈 11월 13일 컴백",
-      "state": "n",
-      "change": "0"
+      "keyword": "실낙원 김현주, 연상호 감독과 복귀 도전",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "삼성전자 타임 선정 발명품",
-      "state": "n",
-      "change": "0"
+      "keyword": "이태원 참사 4주기 점심 제공",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "유해진 신변보호 해제 요청",
+      "keyword": "노희찬 최미소 결혼 발표",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이규한 결혼 이유",
-      "state": "-",
-      "change": "7"
+      "keyword": "밀워키, 44년 만에 WS 진출",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
