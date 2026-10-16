@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-16T14:18:45.112Z",
+  "updatedAt": "2026-10-16T18:09:37.941Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "대만",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "기업은행 채용",
+      "keyword": "박준금",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "유실물",
+      "traffic": "200+"
+    },
+    {
       "rank": 3,
-      "keyword": "고민시",
+      "keyword": "지예은",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "축의금",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "콜오브듀티 모던워페어4",
+      "keyword": "최예나",
       "traffic": "200+"
     },
     {
-      "rank": 6,
-      "keyword": "대한민국 군의 극초음속 활공비행체 시험 발사 성공 뉴스와 국방부 발표 내용 알려줘",
+      "rank": 5,
+      "keyword": "대만",
       "traffic": "500+"
     },
     {
+      "rank": 6,
+      "keyword": "기업은행 채용",
+      "traffic": "200+"
+    },
+    {
       "rank": 7,
-      "keyword": "셀트리온",
+      "keyword": "축의금",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "현대무벡스",
-      "traffic": "100+"
+      "keyword": "고민시",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "하이마트",
-      "traffic": "100+"
+      "keyword": "콜오브듀티 모던워페어4",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "apple",
+      "keyword": "대한민국 군의 극초음속 활공비행체 시험 발사 성공 뉴스와 국방부 발표 내용 알려줘",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재용 중동 직원 상품권 지급",
-      "state": "n",
-      "change": "0"
+      "keyword": "기념사하는 이재명 대통령",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 2,
-      "keyword": "선수단 전국체육대회 개막식",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "딸 교수 임용 특혜 사건",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "스토킹 피해 여성 죽음",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "27개월 여아 심정지 사망",
+      "keyword": "선수단 전국체육대회 입장",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "기념사하는 이재명 대통령",
+      "rank": 3,
+      "keyword": "인천 59세 최충락 신상 공개",
       "state": "-",
-      "change": "4"
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "전진 류이서 유산 가슴 아파",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "소노, 현대모비스 탈출",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "엔비디아 RTX 출시",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "인천 59세 최충락 신상 공개",
+      "keyword": "전국체전 개회 공연",
       "state": "-",
       "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "전진♥류이서, 7주 유산 아기 고마워",
+      "keyword": "제주의 표현한 문화공연",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "일교차 일요일 비",
+      "keyword": "닥터X 이성욱 고발범이었다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "제주의 표현한 문화공연",
-      "state": "n",
-      "change": "0"
+      "keyword": "이서진, 지예은 결혼 빨리 해?",
+      "state": "+",
+      "change": "15"
     }
   ]
 }
