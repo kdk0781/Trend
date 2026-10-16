@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-16T09:43:13.689Z",
+  "updatedAt": "2026-10-16T14:18:45.112Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "ตรวจหวย",
-      "traffic": "500+"
+      "keyword": "대만",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "에코프로 비엠",
-      "traffic": "500+"
+      "keyword": "기업은행 채용",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "동서식품",
+      "keyword": "고민시",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "박장범",
-      "traffic": "500+"
+      "keyword": "축의금",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "무인 항공기",
+      "keyword": "콜오브듀티 모던워페어4",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "피겨스케이팅",
-      "traffic": "100+"
+      "keyword": "대한민국 군의 극초음속 활공비행체 시험 발사 성공 뉴스와 국방부 발표 내용 알려줘",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "일본",
-      "traffic": "5000+"
+      "keyword": "셀트리온",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "조명우",
-      "traffic": "1000+"
+      "keyword": "현대무벡스",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "이재용",
-      "traffic": "2000+"
+      "keyword": "하이마트",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "현숙",
-      "traffic": "1000+"
+      "keyword": "apple",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "2026 4IR AWARDS 수상 기업",
-      "state": "s",
+      "keyword": "이재용 중동 직원 상품권 지급",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "박상현 부회장 승진",
-      "state": "s",
-      "change": "0"
+      "keyword": "선수단 전국체육대회 개막식",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "전국체전 사브르 결승",
+      "keyword": "딸 교수 임용 특혜 사건",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "저스틴 민 첫 韓 작품 참여",
+      "keyword": "스토킹 피해 여성 죽음",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "북악산 남서측 탐방로",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "석유 가격 동결 4주 연장",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "부천 화재 소방관 6명 부상",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "김유열 EBS 사장 활동",
+      "keyword": "27개월 여아 심정지 사망",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "기념사하는 이재명 대통령",
+      "state": "-",
+      "change": "4"
+    },
+    {
+      "rank": 7,
+      "keyword": "인천 59세 최충락 신상 공개",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 8,
+      "keyword": "전진♥류이서, 7주 유산 아기 고마워",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "제107회 전국체육대회 개회식",
+      "keyword": "일교차 일요일 비",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "한미 재무 통화 첫 면담",
+      "keyword": "제주의 표현한 문화공연",
       "state": "n",
       "change": "0"
     }
