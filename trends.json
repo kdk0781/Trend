@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-16T23:30:02.038Z",
+  "updatedAt": "2026-10-17T01:27:04.886Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "오윤아",
-      "traffic": "200+"
+      "keyword": "차량 화재",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "100 days of deception episode 3",
-      "traffic": "100+"
+      "keyword": "서효림",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "매일노동뉴스",
-      "traffic": "100+"
+      "keyword": "메이저 리그 사커",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "베트남 축구 국가대표팀",
-      "traffic": "200+"
+      "keyword": "레이스 대 가디언즈",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "백악관 대변인",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "홍윤화",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "관광객",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "심형탁",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "kia 타이거즈",
+      "keyword": "조세",
       "traffic": "1000+"
     },
     {
-      "rank": 10,
-      "keyword": "장인화",
+      "rank": 6,
+      "keyword": "신승태",
       "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "라면",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "손아섭",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
+      "keyword": "백진희",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 10,
+      "keyword": "한다감",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 현대 조지아 투자",
+      "keyword": "부천 공장 40대 소방관 사망",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 2,
+      "keyword": "조보아, 이청아 대타 촬영 시작",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "김준호 김지민 산후우울증 걱정",
       "state": "+",
       "change": "9"
     },
     {
-      "rank": 2,
-      "keyword": "김요한♥오연희, 결혼 임박?",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 3,
-      "keyword": "백악관 대변인 나흘 만에 경질",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 4,
-      "keyword": "샘김과 커플",
+      "keyword": "50대 남성 체포",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "전진♥류이서, 시험관 임신 유산",
-      "state": "n",
-      "change": "0"
+      "keyword": "다카이치, 야스쿠니 공물 봉납 보류",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "다카이치, 야스쿠니 공물 봉납",
-      "state": "n",
-      "change": "0"
+      "keyword": "샘김밥 세계김밥페스티벌",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "정수진 6개월 출전 제한",
-      "state": "n",
-      "change": "0"
+      "keyword": "전진♥류이서 유산 슬픔",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 8,
-      "keyword": "로버츠 오타니 4연패라니",
+      "keyword": "김지원 닥터X 3회 첫 16.9%",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "장윤정 가수 헤어메이크업 직접 해요",
+      "keyword": "안세영 17세 덴마크 오픈 4강",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "중동 직원들에게 상품권",
+      "keyword": "백악관 대변인 나흘 만에 경질",
       "state": "n",
       "change": "0"
     }
