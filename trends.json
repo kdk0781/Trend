@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-17T21:01:01.724Z",
+  "updatedAt": "2026-10-17T23:02:41.233Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "파운드리",
-      "traffic": "200+"
+      "keyword": "погода",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "김민재",
-      "traffic": "2000+"
+      "keyword": "한윤서",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "손아섭",
-      "traffic": "500+"
+      "keyword": "롯데 자이언츠",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "카카오뱅크 점검",
-      "traffic": "100+"
+      "keyword": "날씨",
+      "traffic": "200000+"
     },
     {
       "rank": 5,
-      "keyword": "라민 야말",
-      "traffic": "100+"
+      "keyword": "손흥민",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "la liga",
-      "traffic": "100+"
+      "keyword": "weather",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "김정은",
-      "traffic": "200+"
+      "keyword": "thời tiết",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "프랑스",
-      "traffic": "100+"
+      "keyword": "적금",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "분데스리가",
-      "traffic": "200+"
+      "keyword": "天气",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "laliga",
-      "traffic": "500+"
+      "keyword": "부동산",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "바에나 결승골, 아틀레티코 1-0 승리",
+      "keyword": "2026년 10월 18일 운세",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "2026년 10월 18일 운세",
+      "keyword": "바타, 지예은과 결혼 준비 중",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "밀정 김유정, 100일 거짓말 시작",
+      "keyword": "이강인 아틀레티코 5연승!",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "현숙, 백혈병 38명 돕다",
+      "keyword": "김유정 단발 100일 거짓말 시작",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "사랑이 온다 공개 소식",
-      "state": "+",
-      "change": "3"
+      "keyword": "윤소희와 박진희 수양딸 몇 명?",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "젤렌스키 G20 미·러 3자 회담",
-      "state": "s",
-      "change": "0"
+      "keyword": "‘사랑이 온다’ OST 공개될 예정",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "윤소희",
+      "keyword": "전국 곳곳 비 80㎜ 예상",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "LG 임찬규 VS KIA 올러 준PO 2차전",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "이스라엘 유럽 공격",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "바타, 지예은과 결혼 준비 중",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 9,
-      "keyword": "부천 순직 소방관 조문",
-      "state": "+",
-      "change": "3"
-    },
-    {
       "rank": 10,
-      "keyword": "던롭 X-OPEN 테니스 열기",
-      "state": "+",
-      "change": "3"
+      "keyword": "안세영, 마지막 상대는 야마구치",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
