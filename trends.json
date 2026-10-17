@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-17T18:46:52.024Z",
+  "updatedAt": "2026-10-17T21:01:01.724Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "바이에른 뮌헨",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "barcelona",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "분데스리가",
+      "keyword": "파운드리",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "김민재",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "손아섭",
+      "traffic": "500+"
+    },
+    {
       "rank": 4,
-      "keyword": "laliga",
+      "keyword": "카카오뱅크 점검",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "psg",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "맨시티",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "betis vs barcelona",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "이재성",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "liverpool",
+      "keyword": "라민 야말",
       "traffic": "100+"
     },
     {
+      "rank": 6,
+      "keyword": "la liga",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "김정은",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "프랑스",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
+      "keyword": "분데스리가",
+      "traffic": "200+"
+    },
+    {
       "rank": 10,
-      "keyword": "레알 베티스 대 바르셀로나",
-      "traffic": "5000+"
+      "keyword": "laliga",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "부천 화재 소방관 조문",
+      "keyword": "바에나 결승골, 아틀레티코 1-0 승리",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이강인 교체, 바에나 결승골!",
+      "keyword": "2026년 10월 18일 운세",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "밀정 김유정, 100일 거짓말 시작",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "현숙, 백혈병 38명 돕다",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "김유정 단발로 100일 거짓말",
-      "state": "+",
-      "change": "59"
-    },
-    {
-      "rank": 4,
-      "keyword": "현숙이 38명 백혈병 아동 지원",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 5,
-      "keyword": "1246회 로또 1등 16명 각 18.8억",
-      "state": "-",
-      "change": "1"
+      "keyword": "사랑이 온다 공개 소식",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "교황, 폐 수술 5일 만에 퇴원",
-      "state": "+",
-      "change": "2"
+      "keyword": "젤렌스키 G20 미·러 3자 회담",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "버디 퍼트 성공!",
-      "state": "-",
-      "change": "2"
+      "keyword": "윤소희",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "윤소희",
-      "state": "+",
-      "change": "9"
+      "keyword": "바타, 지예은과 결혼 준비 중",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "2026년 10월 18일 운세",
-      "state": "n",
-      "change": "0"
+      "keyword": "부천 순직 소방관 조문",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "지예은과 결혼 앞둔 바타 소감",
-      "state": "n",
-      "change": "0"
+      "keyword": "던롭 X-OPEN 테니스 열기",
+      "state": "+",
+      "change": "3"
     }
   ]
 }
