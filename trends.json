@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-17T05:52:16.039Z",
+  "updatedAt": "2026-10-17T09:56:20.647Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "lg 대 kia",
-      "traffic": "50000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "mlb",
+      "keyword": "알렉산더 즈베레프",
       "traffic": "1000+"
     },
     {
+      "rank": 2,
+      "keyword": "여원재",
+      "traffic": "200+"
+    },
+    {
       "rank": 3,
-      "keyword": "오마이뉴스",
+      "keyword": "천둥",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "최정훈",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "최광야구",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "소방관",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "손주",
+      "keyword": "군위군",
       "traffic": "200+"
     },
     {
-      "rank": 8,
-      "keyword": "이병철",
+      "rank": 5,
+      "keyword": "치지직",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "주우재",
       "traffic": "100+"
     },
     {
+      "rank": 7,
+      "keyword": "손나은",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "배드민턴",
+      "traffic": "1000+"
+    },
+    {
       "rank": 9,
-      "keyword": "앙투안 그리즈만",
+      "keyword": "준플레이오프 일정",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "응급실",
-      "traffic": "200+"
+      "keyword": "헤지펀드",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "LG 염경엽 감독 인터뷰",
+      "keyword": "KIA 준PO 1차전 승리",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "부천 공장 화재 감식",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "김루꾸밴드 라이브 공연",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 4,
-      "keyword": "닥터X 흥행 성공할까",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "손흥민 마지막 우승 도전",
+      "keyword": "추미애 재정 발언 사과",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "손나은 모친상 슬픔 속 빈소 지켜",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "기아 타이거즈",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "차정원, 하정우 결혼 발표 후 행복 미소",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "母 얼굴 못 보고 사망",
+      "keyword": "홍준표가 한동훈 죽이고 싶다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "아버지 복권 10억 당첨",
-      "state": "+",
-      "change": "3"
+      "keyword": "삼성, DB 꺾고 5연승!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "전진 류이서 유산 후 고마워",
-      "state": "-",
-      "change": "5"
+      "keyword": "너희 없으면 이런 일도 없어",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "다카이치 무라야마 담화 계승",
+      "keyword": "경복궁 한푸 인플루언서 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "경복궁 한푸 문화 논란",
+      "keyword": "트럼프 조지아주에 투자",
       "state": "n",
       "change": "0"
     }
