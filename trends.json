@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-17T01:27:04.886Z",
+  "updatedAt": "2026-10-17T05:52:16.039Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "차량 화재",
-      "traffic": "100+"
+      "keyword": "lg 대 kia",
+      "traffic": "50000+"
     },
     {
       "rank": 2,
-      "keyword": "서효림",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "메이저 리그 사커",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "레이스 대 가디언즈",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "조세",
+      "keyword": "mlb",
       "traffic": "1000+"
     },
     {
-      "rank": 6,
-      "keyword": "신승태",
+      "rank": 3,
+      "keyword": "오마이뉴스",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "최정훈",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "최광야구",
       "traffic": "100+"
     },
     {
+      "rank": 6,
+      "keyword": "소방관",
+      "traffic": "2000+"
+    },
+    {
       "rank": 7,
-      "keyword": "라면",
+      "keyword": "손주",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "손아섭",
+      "keyword": "이병철",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "백진희",
-      "traffic": "2000+"
+      "keyword": "앙투안 그리즈만",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "한다감",
-      "traffic": "2000+"
+      "keyword": "응급실",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "부천 공장 40대 소방관 사망",
+      "keyword": "LG 염경엽 감독 인터뷰",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "조보아, 이청아 대타 촬영 시작",
+      "keyword": "부천 공장 화재 감식",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김준호 김지민 산후우울증 걱정",
+      "keyword": "김루꾸밴드 라이브 공연",
       "state": "+",
-      "change": "9"
+      "change": "3"
     },
     {
       "rank": 4,
-      "keyword": "50대 남성 체포",
-      "state": "n",
+      "keyword": "닥터X 흥행 성공할까",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "다카이치, 야스쿠니 공물 봉납 보류",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "샘김밥 세계김밥페스티벌",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "전진♥류이서 유산 슬픔",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 8,
-      "keyword": "김지원 닥터X 3회 첫 16.9%",
+      "keyword": "손흥민 마지막 우승 도전",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "母 얼굴 못 보고 사망",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "아버지 복권 10억 당첨",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 8,
+      "keyword": "전진 류이서 유산 후 고마워",
+      "state": "-",
+      "change": "5"
+    },
+    {
       "rank": 9,
-      "keyword": "안세영 17세 덴마크 오픈 4강",
+      "keyword": "다카이치 무라야마 담화 계승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "백악관 대변인 나흘 만에 경질",
+      "keyword": "경복궁 한푸 문화 논란",
       "state": "n",
       "change": "0"
     }
