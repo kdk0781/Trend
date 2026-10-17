@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-17T13:24:55.156Z",
+  "updatedAt": "2026-10-17T16:32:46.340Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "persita vs persija jakarta",
-      "traffic": "200+"
+      "keyword": "pl",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "데마시아컵",
-      "traffic": "200+"
+      "keyword": "แมนซิตี พบ อิปสวิช",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "사건",
+      "keyword": "리버풀",
       "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "zimbabwe vs bangladesh",
+      "keyword": "fotmob",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "내일 날씨",
-      "traffic": "200000+"
+      "keyword": "man city đấu với ipswich town",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "보행 로봇",
-      "traffic": "100+"
+      "keyword": "wec",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "랜섬웨어",
+      "keyword": "เบรนต์ฟอร์ด พบ ลิเวอร์พูล",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "everton đấu với chelsea",
-      "traffic": "100+"
+      "keyword": "나폴리",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "weather tomorrow",
+      "keyword": "premier league",
       "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "thời tiết ngày mai",
-      "traffic": "2000+"
+      "keyword": "로또 1246 회",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "부천 화재 순직 조문",
-      "state": "n",
+      "keyword": "순직 소방관 조문",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "사랑이 온다, 임형주 OST 공개",
-      "state": "-",
-      "change": "1"
+      "keyword": "준PO 1차전 승리의 기쁨",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "KIA 올러 VS LG 임찬규 선발 대결",
-      "state": "-",
-      "change": "1"
+      "keyword": "현숙, 백혈병 38명 도와.",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 4,
-      "keyword": "손새은, 17일 모친상 빈소 지킨다",
+      "keyword": "이강인 교체 바에나 결승골",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김유정 단발 100일 거짓말 시작",
-      "state": "s",
+      "keyword": "정형돈, 5년 기러기 청산",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "울산, 부천에 역전승!",
-      "state": "n",
-      "change": "0"
+      "keyword": "로또 1등 당첨번호 16, 22, 23, 24, 27, 28",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "현숙, 38명 백혈병 아이들 수술비 기부",
-      "state": "n",
-      "change": "0"
+      "keyword": "최휘영 장관 행사 참석",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "삼성 5연승 달성!",
+      "keyword": "교황, 5일 만에 퇴원",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "17세 안세영과 인도",
-      "state": "n",
-      "change": "0"
+      "keyword": "차정원 결혼 발표 후 근황",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 10,
-      "keyword": "남원 SUV 오토바이 충돌",
+      "keyword": "울산, 부천에 2-1 역전승",
       "state": "n",
       "change": "0"
     }
