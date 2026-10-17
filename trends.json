@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-17T09:56:20.647Z",
+  "updatedAt": "2026-10-17T13:24:55.156Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "알렉산더 즈베레프",
-      "traffic": "1000+"
+      "keyword": "persita vs persija jakarta",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "여원재",
+      "keyword": "데마시아컵",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "천둥",
-      "traffic": "200+"
+      "keyword": "사건",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "군위군",
+      "keyword": "zimbabwe vs bangladesh",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "치지직",
-      "traffic": "2000+"
+      "keyword": "내일 날씨",
+      "traffic": "200000+"
     },
     {
       "rank": 6,
-      "keyword": "주우재",
+      "keyword": "보행 로봇",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "손나은",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "배드민턴",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "준플레이오프 일정",
+      "keyword": "랜섬웨어",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "everton đấu với chelsea",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
+      "keyword": "weather tomorrow",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "헤지펀드",
-      "traffic": "500+"
+      "keyword": "thời tiết ngày mai",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "KIA 준PO 1차전 승리",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "추미애 재정 발언 사과",
+      "keyword": "부천 화재 순직 조문",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "손나은 모친상 슬픔 속 빈소 지켜",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "기아 타이거즈",
+      "rank": 2,
+      "keyword": "사랑이 온다, 임형주 OST 공개",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 3,
+      "keyword": "KIA 올러 VS LG 임찬규 선발 대결",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "손새은, 17일 모친상 빈소 지킨다",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "차정원, 하정우 결혼 발표 후 행복 미소",
+      "keyword": "김유정 단발 100일 거짓말 시작",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "홍준표가 한동훈 죽이고 싶다",
+      "keyword": "울산, 부천에 역전승!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "삼성, DB 꺾고 5연승!",
+      "keyword": "현숙, 38명 백혈병 아이들 수술비 기부",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "너희 없으면 이런 일도 없어",
+      "keyword": "삼성 5연승 달성!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "경복궁 한푸 인플루언서 논란",
+      "keyword": "17세 안세영과 인도",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "트럼프 조지아주에 투자",
+      "keyword": "남원 SUV 오토바이 충돌",
       "state": "n",
       "change": "0"
     }
