@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-18T00:54:40.197Z",
+  "updatedAt": "2026-10-18T05:17:25.416Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "atlanta united vs inter miami",
-      "traffic": "200+"
+      "keyword": "전북 대 제주",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "투자",
-      "traffic": "1000+"
+      "keyword": "버스",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "lafc",
+      "keyword": "일론 머스크",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "왕즈이",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "김천시",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "고독 사",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "mls",
+      "keyword": "사우디 아라비아",
       "traffic": "500+"
     },
     {
+      "rank": 5,
+      "keyword": "대학수학능력시험",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "총경",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "서승재",
+      "traffic": "100+"
+    },
+    {
       "rank": 8,
-      "keyword": "2026",
-      "traffic": "200+"
+      "keyword": "로스 앤젤레스 다저스",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "사랑이 온다",
-      "traffic": "200+"
+      "keyword": "골프",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "애틀랜타 유나이티드 대 인터 마이애미",
-      "traffic": "1000+"
+      "keyword": "매출액",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "AI와 로봇으로 공장 혁신",
-      "state": "n",
+      "keyword": "부천 순직 소방관 빈소",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김지원 닥터X 시청률 상승세",
-      "state": "n",
+      "keyword": "이형일 부총리 면담",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "병원 환수 정당",
-      "state": "n",
+      "keyword": "LG 염경엽 감독 준비 철저히 한다",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "노후자금 182조 증발",
-      "state": "+",
-      "change": "4"
+      "keyword": "서준맘 박세미, 오늘 결혼식 진행",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "임형주 사랑 OST 공개",
-      "state": "-",
-      "change": "2"
+      "keyword": "이달 환율 최저",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "신한은행 대출금리 0.3%P 인하",
+      "keyword": "탬파베이 2승 2패 균형",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "룰라 母 20년 만에 고백",
+      "keyword": "7주 응원 고마워",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김민재 엄청 강했다.",
+      "keyword": "박위 수양딸 박진희만",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "추미애 재정 발언 사과",
-      "state": "n",
-      "change": "0"
+      "keyword": "김지원 닥터X 시청률 20.8% 돌파",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "초등학교 딸 먼저 투입됐다",
+      "keyword": "유수영 UFC 첫 승",
       "state": "n",
       "change": "0"
     }
