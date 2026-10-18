@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-18T19:07:27.207Z",
+  "updatedAt": "2026-10-18T21:26:53.489Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김건희",
-      "traffic": "100+"
+      "keyword": "기사",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "빗썸",
+      "keyword": "류필립",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "구성환",
-      "traffic": "2000+"
+      "keyword": "현대제철",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "nottm forest vs arsenal",
-      "traffic": "500+"
+      "keyword": "la liga",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "ngoại hạng anh",
+      "keyword": "도란",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "pl",
-      "traffic": "100+"
+      "keyword": "북한이탈주민",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "신세계백화점 강남점",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "노팅엄 포레스트 대 아스널",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "사업",
+      "keyword": "박지원",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "real madrid",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
+      "keyword": "극초음속 활공체",
+      "traffic": "500+"
+    },
+    {
       "rank": 10,
-      "keyword": "박위",
-      "traffic": "5000+"
+      "keyword": "레알",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "순직 소방관 빈소 조문",
-      "state": "s",
-      "change": "0"
+      "keyword": "안세영, 야마구치 꺾고 2연패",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 2,
-      "keyword": "아이치-나고야 아시안 패러게임",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "김유정 단발로 거짓말 시작",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "던롭 엑스오픈 리턴 탁탁!",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "중수청 첫 구속 대마 밀수범",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "김승수 박혜연 최종 커플",
+      "keyword": "김유정의 단발 100일 거짓말 시작",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
+      "rank": 3,
+      "keyword": "순직 소방관 추모행사 진행",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
       "keyword": "닥터X : 하얀 마피아의 시대",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "김승수 박혜연 최종 커플",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "아이치-나고야 아시안 패러게임",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "2026년 19일",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "안세영 덴마크오픈 2연패 달성",
-      "state": "n",
+      "keyword": "너 말고 다른 연애",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "너 말고 다른 연애",
-      "state": "n",
-      "change": "0"
+      "keyword": "트럼프 네타냐후 지지",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "2026년 10월 19일 운세",
+      "keyword": "김범수 커피 오마카세 350만원",
       "state": "+",
       "change": "1"
     }
