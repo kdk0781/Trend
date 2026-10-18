@@ -1,91 +1,91 @@
 {
-  "updatedAt": "2026-10-18T09:41:09.854Z",
+  "updatedAt": "2026-10-18T13:35:36.169Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "놀면뭐하니 서울가요제",
-      "traffic": "500+"
+      "keyword": "catl",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "사회복무요원",
+      "keyword": "ลีดส์ พบ แมนยู",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "전상현",
+      "keyword": "나마디 조엘 진",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "테크볼",
-      "traffic": "200+"
+      "keyword": "leeds đấu với man utd",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "채소",
+      "keyword": "신인감독 김연경 시즌2",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "조희대",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "pakistan vs sri lanka",
+      "keyword": "leeds vs man utd",
       "traffic": "1000+"
     },
     {
+      "rank": 7,
+      "keyword": "리즈 유나이티드 대 맨유",
+      "traffic": "10000+"
+    },
+    {
       "rank": 8,
-      "keyword": "이재원",
-      "traffic": "500+"
+      "keyword": "persib bandung vs persik",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "김호령",
-      "traffic": "100+"
+      "keyword": "mbc",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "항공기",
-      "traffic": "500+"
+      "keyword": "明天的天氣",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "닥터X : 하얀 마피아의 시대",
-      "state": "s",
+      "keyword": "소방관 아빠 편지",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "마서영 첫 우승 소감",
-      "state": "s",
+      "keyword": "던롭 엑스오픈 소식들",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "서울 곳곳 침수 발생",
+      "keyword": "심이영, 사랑이 합류",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이범호 전상현 고마워!",
-      "state": "+",
-      "change": "6"
+      "keyword": "닥터X : 하얀 마피아의 시대",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "김유정 단발 거짓말 시작",
-      "state": "+",
-      "change": "1"
+      "keyword": "인도 축제 압사 19명 사망",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "아일릿 이로하 발목 부상",
+      "keyword": "대한민국 선수단 입장",
       "state": "n",
       "change": "0"
     },
@@ -97,21 +97,21 @@
     },
     {
       "rank": 8,
-      "keyword": "주차장 불지른 30대 여성 체포",
+      "keyword": "그민페 티켓 전액 환불",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김용빈 대구 왕자였다",
+      "keyword": "부시장 가마에 깔려 사망",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "비 오는 영산재 식전행사",
+      "keyword": "김유정 단발 거짓말 시작",
       "state": "-",
-      "change": "1"
+      "change": "4"
     }
   ]
 }
