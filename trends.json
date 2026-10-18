@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-18T13:35:36.169Z",
+  "updatedAt": "2026-10-18T16:50:32.150Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "catl",
-      "traffic": "200+"
+      "keyword": "구성환",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "ลีดส์ พบ แมนยู",
-      "traffic": "500+"
+      "keyword": "nottm forest vs arsenal",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "나마디 조엘 진",
+      "keyword": "premier league",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "leeds đấu với man utd",
-      "traffic": "500+"
+      "keyword": "pl",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "신인감독 김연경 시즌2",
-      "traffic": "200+"
+      "keyword": "신세계백화점 강남점",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "leeds vs man utd",
-      "traffic": "1000+"
+      "keyword": "노팅엄 포레스트 대 아스널",
+      "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "리즈 유나이티드 대 맨유",
-      "traffic": "10000+"
+      "keyword": "사업",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "persib bandung vs persik",
-      "traffic": "200+"
+      "keyword": "박위",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "mbc",
-      "traffic": "200+"
+      "keyword": "붕 은 우",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "明天的天氣",
-      "traffic": "200+"
+      "keyword": "최준용",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "소방관 아빠 편지",
-      "state": "n",
+      "keyword": "순직 소방관 빈소 조문",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "던롭 엑스오픈 소식들",
+      "keyword": "이범호 감독 경기 관전",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "심이영, 사랑이 합류",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "닥터X : 하얀 마피아의 시대",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 5,
-      "keyword": "인도 축제 압사 19명 사망",
+      "keyword": "김유정 단발 거짓말 시작",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "아이치-나고야 아시안 패러게임",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "던롭 엑스오픈 소식들",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "대한민국 선수단 입장",
+      "keyword": "아일릿 이로하 발목 부상",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "부천 화재 대표 입건",
+      "keyword": "정찬민, 와이어 우승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "그민페 티켓 전액 환불",
-      "state": "n",
-      "change": "0"
+      "keyword": "서울 폭우 침수",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "부시장 가마에 깔려 사망",
-      "state": "n",
-      "change": "0"
+      "keyword": "중수청 출범 16일 만에 밀수 첫 구속",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "김유정 단발 거짓말 시작",
-      "state": "-",
-      "change": "4"
+      "keyword": "안세영 덴마크오픈 2연패",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
