@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-18T05:17:25.416Z",
+  "updatedAt": "2026-10-18T09:41:09.854Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "전북 대 제주",
-      "traffic": "2000+"
+      "keyword": "놀면뭐하니 서울가요제",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "버스",
-      "traffic": "200+"
+      "keyword": "사회복무요원",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "일론 머스크",
+      "keyword": "전상현",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "사우디 아라비아",
-      "traffic": "500+"
+      "keyword": "테크볼",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "대학수학능력시험",
-      "traffic": "500+"
+      "keyword": "채소",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "총경",
-      "traffic": "100+"
+      "keyword": "조희대",
+      "traffic": "10000+"
     },
     {
       "rank": 7,
-      "keyword": "서승재",
-      "traffic": "100+"
+      "keyword": "pakistan vs sri lanka",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "로스 앤젤레스 다저스",
+      "keyword": "이재원",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "골프",
-      "traffic": "5000+"
+      "keyword": "김호령",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "매출액",
-      "traffic": "2000+"
+      "keyword": "항공기",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "부천 순직 소방관 빈소",
+      "keyword": "닥터X : 하얀 마피아의 시대",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이형일 부총리 면담",
+      "keyword": "마서영 첫 우승 소감",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "LG 염경엽 감독 준비 철저히 한다",
+      "keyword": "서울 곳곳 침수 발생",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "서준맘 박세미, 오늘 결혼식 진행",
-      "state": "n",
-      "change": "0"
+      "keyword": "이범호 전상현 고마워!",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 5,
-      "keyword": "이달 환율 최저",
-      "state": "s",
-      "change": "0"
+      "keyword": "김유정 단발 거짓말 시작",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "탬파베이 2승 2패 균형",
+      "keyword": "아일릿 이로하 발목 부상",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "7주 응원 고마워",
+      "keyword": "부천 화재 대표 입건",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "박위 수양딸 박진희만",
+      "keyword": "주차장 불지른 30대 여성 체포",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김지원 닥터X 시청률 20.8% 돌파",
-      "state": "+",
-      "change": "1"
+      "keyword": "김용빈 대구 왕자였다",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "유수영 UFC 첫 승",
-      "state": "n",
-      "change": "0"
+      "keyword": "비 오는 영산재 식전행사",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
