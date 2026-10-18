@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-18T21:26:53.489Z",
+  "updatedAt": "2026-10-18T23:27:08.201Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "기사",
-      "traffic": "500+"
+      "keyword": "klasemen real madrid vs sevilla fc",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "류필립",
-      "traffic": "100+"
+      "keyword": "십자가",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "현대제철",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "la liga",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "도란",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "북한이탈주민",
+      "keyword": "복권",
       "traffic": "1000+"
     },
     {
+      "rank": 4,
+      "keyword": "채무",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "gpt-6 아스트라",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "real madrid vs sevilla fc standings",
+      "traffic": "500+"
+    },
+    {
       "rank": 7,
-      "keyword": "박지원",
+      "keyword": "그래미 어워드",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "real madrid",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "극초음속 활공체",
+      "keyword": "동아일보",
       "traffic": "500+"
     },
     {
+      "rank": 9,
+      "keyword": "동일노동 동일임금",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "레알",
-      "traffic": "200+"
+      "keyword": "레이스 대 가디언즈",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "안세영, 야마구치 꺾고 2연패",
+      "keyword": "100일의 거짓말",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "김유정의 단발 100일 거짓말 시작",
-      "state": "s",
+      "keyword": "금감원 감사인 지정 1193개사",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "순직 소방관 추모행사 진행",
+      "keyword": "공형진 무례 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
       "keyword": "닥터X : 하얀 마피아의 시대",
-      "state": "s",
-      "change": "0"
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "김승수 박혜연 최종 커플",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "아이치-나고야 아시안 패러게임",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "2026년 19일",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "너 말고 다른 연애",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "트럼프 네타냐후 지지",
+      "keyword": "트럼프 측근 이혼 아닌",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 10,
-      "keyword": "김범수 커피 오마카세 350만원",
+      "rank": 6,
+      "keyword": "이범수 이혼 이윤진 대답했다",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "안세영, 47번째 우승 쾌거!",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "심이영, 사랑이 합류",
       "state": "+",
       "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "승객 둔 지갑 챙긴 객실장 해임 정당",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "구직청년 월평균 58만원 부담",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
