@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-19T19:34:32.276Z",
+  "updatedAt": "2026-10-19T23:02:39.717Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김현지",
-      "traffic": "200+"
+      "keyword": "날씨",
+      "traffic": "200000+"
     },
     {
       "rank": 2,
-      "keyword": "기부",
-      "traffic": "200+"
+      "keyword": "걷기",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "비보르 대 미트윌란",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "lg 트윈스",
+      "keyword": "이다해",
       "traffic": "500+"
     },
     {
+      "rank": 4,
+      "keyword": "손담비",
+      "traffic": "200+"
+    },
+    {
       "rank": 5,
-      "keyword": "김정은",
-      "traffic": "1000+"
+      "keyword": "weather",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "블리치",
+      "keyword": "vix",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "우유",
-      "traffic": "200+"
+      "keyword": "스테이블코인",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "사이버펑크",
-      "traffic": "200+"
+      "keyword": "погода",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "수영",
-      "traffic": "500+"
+      "keyword": "天気",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "로이킴",
+      "keyword": "비야디",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "KBS 이사 임명 재가",
+      "keyword": "트럼프, 김정은 회담 모르겠다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "머스크, 미국 어린이에게 스페이스X 주식 1주씩",
-      "state": "s",
-      "change": "0"
+      "keyword": "혼조 나스닥 1.11%↑",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "안세영, 47회 우승 기록 경신",
-      "state": "+",
-      "change": "10"
-    },
-    {
-      "rank": 4,
-      "keyword": "공형진, 차지연에 사과",
+      "keyword": "호날두 대표팀 이탈 벌금 38만원",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "설인아, 유죄인간 숏컷 변신!",
+      "rank": 4,
+      "keyword": "잠자리 거부 상습 외도 남편",
       "state": "-",
       "change": "2"
     },
     {
-      "rank": 6,
-      "keyword": "중앙일보 인수 CJ 컨소시엄",
-      "state": "+",
+      "rank": 5,
+      "keyword": "사막 다보스 내년으로 연기",
+      "state": "-",
       "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "모두의카드 번호 26일까지 확인하세요",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "DB, 가스공사 탈출",
-      "state": "+",
-      "change": "1"
+      "keyword": "2026년 10월 20일 운세",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "이효리 롤모델 다영 연애 스타일",
+      "keyword": "원산지 김수영 게장",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "대남 확성기 방송 재개",
+      "keyword": "등판 노숙자인 줄 조작은",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "2026년 10월 20일 운세",
+      "keyword": "케데헌 이재 샘킴",
       "state": "n",
       "change": "0"
     }
