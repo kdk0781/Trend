@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-19T13:55:10.886Z",
+  "updatedAt": "2026-10-19T19:34:32.276Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "시험",
-      "traffic": "500+"
+      "keyword": "김현지",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "박평순",
+      "keyword": "기부",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "문재인",
+      "keyword": "비보르 대 미트윌란",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "나의 유죄인간",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "유시민",
+      "keyword": "lg 트윈스",
       "traffic": "500+"
     },
     {
+      "rank": 5,
+      "keyword": "김정은",
+      "traffic": "1000+"
+    },
+    {
       "rank": 6,
-      "keyword": "afghanistan vs zimbabwe",
+      "keyword": "블리치",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "weather tomorrow",
-      "traffic": "2000+"
+      "keyword": "우유",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "погода завтра",
-      "traffic": "1000+"
+      "keyword": "사이버펑크",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "xổ số miền bắc",
-      "traffic": "100+"
+      "keyword": "수영",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "thời tiết ngày mai",
-      "traffic": "2000+"
+      "keyword": "로이킴",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "나의 유죄인간",
+      "keyword": "KBS 이사 임명 재가",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "장모 살해 후 아내 납치",
-      "state": "n",
+      "keyword": "머스크, 미국 어린이에게 스페이스X 주식 1주씩",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "대남 방송 재개 검토",
-      "state": "-",
-      "change": "1"
+      "keyword": "안세영, 47회 우승 기록 경신",
+      "state": "+",
+      "change": "10"
     },
     {
       "rank": 4,
-      "keyword": "정예인 시즌2·3 제작 확정",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "강진 실종 용의자 재구속",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "명량 감독 김한민 결혼",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "모든 어린이 머스크 1주 인증",
+      "keyword": "공형진, 차지연에 사과",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "설인아, 유죄인간 숏컷 변신!",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "중앙일보 인수 CJ 컨소시엄",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "DB, 가스공사 탈출",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "요코하마·히로세 韓팬 만남",
+      "keyword": "이효리 롤모델 다영 연애 스타일",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "구성환 논란 노동청 방문",
-      "state": "-",
-      "change": "1"
+      "keyword": "대남 확성기 방송 재개",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "KBS 이사 임명 재가",
+      "keyword": "2026년 10월 20일 운세",
       "state": "n",
       "change": "0"
     }
