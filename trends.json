@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-20T01:43:22.249Z",
+  "updatedAt": "2026-10-20T06:39:54.696Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "유튜버",
-      "traffic": "200+"
+      "keyword": "지만원",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "박준형",
+      "keyword": "어린이집",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "엘리스그룹",
-      "traffic": "500+"
+      "keyword": "슈퍼 태풍",
+      "traffic": "10000+"
     },
     {
       "rank": 4,
-      "keyword": "솔리다임",
+      "keyword": "김연아",
       "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "배영만",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "독도",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "김학래",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "가디언즈 대 레이스",
+      "keyword": "이혜원",
       "traffic": "2000+"
     },
     {
-      "rank": 9,
-      "keyword": "심형래",
+      "rank": 6,
+      "keyword": "휴머노이드 로봇",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "김정은 속보",
       "traffic": "500+"
     },
     {
-      "rank": 10,
-      "keyword": "세종특별자치시",
+      "rank": 8,
+      "keyword": "cnn",
       "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "혼인",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 10,
+      "keyword": "역삼동 화재",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "국정감사 대책회의 원내대표",
+      "keyword": "김정은 사망설 일축",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "아리셀 박순관 징역 4년 확정",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "케데헌 이재, 샘킴과 결혼",
+      "keyword": "역삼동 화재 발생",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "김학래 임미숙 결혼 추천",
+      "rank": 3,
+      "keyword": "경기하는 남자 탁구",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 4,
+      "keyword": "우크라 공관원 일부 철수",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "토트넘 EPL 첫 승",
+      "keyword": "소방 재정 부승찬 경고와 사과",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "원산지 김수영 논란에",
-      "state": "n",
-      "change": "0"
+      "keyword": "오세훈, 청년 꿀팁 공유",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "세계은행 AI 서밋 개최",
-      "state": "n",
-      "change": "0"
+      "keyword": "템페스트 혁 종료",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "가세연 채널 폐쇄 요청",
-      "state": "n",
-      "change": "0"
+      "keyword": "가계대출 보름새 2.8조",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "출근하는 조희대 대법원장",
+      "keyword": "임시완 말투 왜 저래?",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "임시완X설인아 1위 출발",
+      "keyword": "394만세대 건보료 납부",
       "state": "n",
       "change": "0"
     }
