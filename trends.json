@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-20T20:18:25.383Z",
+  "updatedAt": "2026-10-20T23:13:28.484Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "리버풀",
-      "traffic": "200+"
+      "keyword": "조혜련",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "psg",
-      "traffic": "100+"
+      "keyword": "오늘날씨",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "nba",
+      "keyword": "제1도련선",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "champions league",
+      "keyword": "새만금",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "슈투트가르트 대 아틀레티코",
-      "traffic": "5000+"
+      "keyword": "롤 패치노트",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "psg 대 바르셀로나",
-      "traffic": "5000+"
+      "keyword": "오수미",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "리버풀 대 비야레알",
-      "traffic": "2000+"
+      "keyword": "天氣",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "psg vs barcelona",
-      "traffic": "1000+"
+      "keyword": "임영웅",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "잠실종합운동장 잠실야구장",
-      "traffic": "5000+"
+      "keyword": "klasemen psg vs fc barcelona",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "친문",
+      "keyword": "thứ hạng của psg gặp barcelona",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "KIA, LG 꺾고 PO 진출",
+      "keyword": "스페이스X 매출 161% 급증",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "강헌 평론가 별세 64세",
-      "state": "n",
+      "keyword": "김정은의 우월한 능력",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김민재 차관, 여수섬박람회 점검",
+      "keyword": "이강인 없는 1-1 무승부",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "트럼프, 방중 김정은 만날지 모르겠다",
-      "state": "s",
-      "change": "0"
+      "keyword": "강신일 간암 수술 후 촬영 복귀",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "강신일 아내의 고백",
-      "state": "s",
-      "change": "0"
+      "keyword": "트럼프 젤렌스키, 종전 합의 필요해",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "래퍼 대마 혐의 재판행",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "임시완 말투로 혼란한 시청률",
+      "keyword": "임시완 말투 혼란",
       "state": "-",
       "change": "1"
     },
     {
+      "rank": 7,
+      "keyword": "태풍 경로",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "2026년 10월 21일 운세",
+      "keyword": "뉴욕증시 다우 1% 상승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "SK, 정관장 상대로 첫 승.",
-      "state": "n",
-      "change": "0"
+      "keyword": "2026년 10월 21일 운세",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "강남 연쇄 방화 사건 발생",
+      "keyword": "생산자물가 두 달 상승",
       "state": "-",
-      "change": "3"
+      "change": "1"
     }
   ]
 }
