@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-20T16:58:32.183Z",
+  "updatedAt": "2026-10-20T20:18:25.383Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "데이비드",
-      "traffic": "100+"
+      "keyword": "리버풀",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "종전",
+      "keyword": "psg",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "임라라",
+      "keyword": "nba",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "트럼프",
+      "keyword": "champions league",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "레이더",
-      "traffic": "200+"
+      "keyword": "슈투트가르트 대 아틀레티코",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "south africa vs australia",
-      "traffic": "100+"
+      "keyword": "psg 대 바르셀로나",
+      "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "ai 버블",
-      "traffic": "200+"
+      "keyword": "리버풀 대 비야레알",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "플레이오프 예매",
-      "traffic": "200+"
+      "keyword": "psg vs barcelona",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "김천상무프로축구단",
-      "traffic": "100+"
+      "keyword": "잠실종합운동장 잠실야구장",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "아나운서",
-      "traffic": "500+"
+      "keyword": "친문",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김도영 만루포",
-      "state": "+",
-      "change": "1"
+      "keyword": "KIA, LG 꺾고 PO 진출",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "역삼동 방화 용의자 검거",
-      "state": "+",
-      "change": "1"
+      "keyword": "강헌 평론가 별세 64세",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "강신일, 반지하 아지트 공개",
-      "state": "-",
-      "change": "1"
+      "keyword": "김민재 차관, 여수섬박람회 점검",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "강헌 별세 64세",
-      "state": "+",
-      "change": "2"
+      "keyword": "트럼프, 방중 김정은 만날지 모르겠다",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "李대통령, 3기 신도시 속도전 강조",
+      "keyword": "강신일 아내의 고백",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김정은 사망설 진화 중?",
-      "state": "+",
-      "change": "14"
-    },
-    {
-      "rank": 7,
-      "keyword": "KBS 사장 후보 이태현",
-      "state": "s",
+      "keyword": "래퍼 대마 혐의 재판행",
+      "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "김민재 차관 섬박람회 점검",
-      "state": "+",
+      "rank": 7,
+      "keyword": "임시완 말투로 혼란한 시청률",
+      "state": "-",
       "change": "1"
     },
     {
+      "rank": 8,
+      "keyword": "2026년 10월 21일 운세",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "정부 공관원 철수",
+      "keyword": "SK, 정관장 상대로 첫 승.",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "70대 수서경찰서",
-      "state": "n",
-      "change": "0"
+      "keyword": "강남 연쇄 방화 사건 발생",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
