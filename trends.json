@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-20T06:39:54.696Z",
+  "updatedAt": "2026-10-20T12:10:07.632Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "지만원",
-      "traffic": "500+"
+      "keyword": "fire",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "어린이집",
-      "traffic": "200+"
+      "keyword": "서경배",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "슈퍼 태풍",
-      "traffic": "10000+"
+      "keyword": "설인아",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "김연아",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "이혜원",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "휴머노이드 로봇",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "김정은 속보",
+      "keyword": "선수",
       "traffic": "500+"
     },
     {
+      "rank": 5,
+      "keyword": "박충권",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "m",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "김구라",
+      "traffic": "1000+"
+    },
+    {
       "rank": 8,
-      "keyword": "cnn",
-      "traffic": "200+"
+      "keyword": "나성범",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "혼인",
-      "traffic": "5000+"
+      "keyword": "스포츠",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "역삼동 화재",
-      "traffic": "2000+"
+      "keyword": "이석연",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김정은 사망설 일축",
+      "keyword": "김도영 만루 홈런",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "역삼동 화재 발생",
-      "state": "s",
-      "change": "0"
+      "keyword": "LG 선발 카라스코 강판",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "경기하는 남자 탁구",
+      "keyword": "A20 LITE 아이찡, 보아의 후계자",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "우크라 공관원 일부 철수",
+      "keyword": "역삼동 연쇄 방화 용의자 검거",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "소방 재정 부승찬 경고와 사과",
+      "keyword": "우크라 공관원 철수 결정",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "오세훈, 청년 꿀팁 공유",
-      "state": "-",
-      "change": "3"
+      "keyword": "글로벌 바이오인력양성허브 실습교육장",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "템페스트 혁 종료",
-      "state": "-",
+      "keyword": "박신혜, 출산 2주 만에 콘서트 관람",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "가계대출 보름새 2.8조",
-      "state": "-",
-      "change": "1"
+      "keyword": "설인아, 남장 연기 위해 붕대 감아",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "임시완 말투 왜 저래?",
-      "state": "s",
+      "keyword": "이소영 중소기업 지원",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "394만세대 건보료 납부",
-      "state": "n",
-      "change": "0"
+      "keyword": "하이닉스 주가 변동",
+      "state": "-",
+      "change": "5"
     }
   ]
 }
