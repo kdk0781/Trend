@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-21T12:18:11.318Z",
+  "updatedAt": "2026-10-21T17:20:38.286Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "php 취약점",
-      "traffic": "200+"
+      "keyword": "como vs man utd",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "dem",
-      "traffic": "200+"
+      "keyword": "코모 대 맨유",
+      "traffic": "10000+"
     },
     {
       "rank": 3,
-      "keyword": "삼성전기",
-      "traffic": "1000+"
+      "keyword": "나성범",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "매일경제",
-      "traffic": "100+"
+      "keyword": "카일 프랜시스 케네디",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "m",
-      "traffic": "100+"
+      "keyword": "학교 폭력",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "천궁",
+      "keyword": "샘 김",
       "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "안용준",
-      "traffic": "1000+"
+      "keyword": "明天的天氣",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "이다현",
-      "traffic": "500+"
+      "keyword": "김밥",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "sbs",
-      "traffic": "2000+"
+      "keyword": "파울루 벤투",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "php",
-      "traffic": "500+"
+      "keyword": "잭 로그",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "부캉이 유도 작업 중지",
-      "state": "s",
+      "keyword": "이진숙 국감 참석 허용",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이진숙 국감 참석 가능",
+      "keyword": "삼성, 개막 6연승 달성!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "유홍준 사직안 재가",
+      "keyword": "부캉이 수로 밖으로 나감",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "김정은 사망설과 김여정 시찰",
+      "keyword": "유홍준 사직안 재가",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "삼성 김상식 감독 個人욕심 경계",
-      "state": "n",
+      "keyword": "김혜경 여사 한복의 아름다움",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "이다해, 상하이 집 공개",
-      "state": "n",
-      "change": "0"
+      "keyword": "황정음 김용준 보고싶다",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "맥컬러의 화끈한 덩크슛",
-      "state": "-",
-      "change": "2"
+      "keyword": "김여정 대남확성기 가동",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "국교위 교육계획 발표 연기",
-      "state": "n",
+      "keyword": "70대 방화범 구속영장",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "태풍 경로",
-      "state": "n",
+      "keyword": "A2O LITE 영과 함께",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이상민 감독의 작전 지시",
-      "state": "-",
-      "change": "1"
+      "keyword": "국교위 발표 연기",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
