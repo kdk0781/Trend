@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-21T06:32:08.111Z",
+  "updatedAt": "2026-10-21T12:18:11.318Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "노태문",
-      "traffic": "100+"
+      "keyword": "php 취약점",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "한파주의보",
+      "keyword": "dem",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "사형",
-      "traffic": "200+"
+      "keyword": "삼성전기",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "터치드",
+      "keyword": "매일경제",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "김호중",
-      "traffic": "1000+"
+      "keyword": "m",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "역사 왜곡",
-      "traffic": "200+"
+      "keyword": "천궁",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "농협은행",
-      "traffic": "500+"
+      "keyword": "안용준",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "공중 급유",
-      "traffic": "200+"
+      "keyword": "이다현",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "돔 경기장",
-      "traffic": "200+"
+      "keyword": "sbs",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "니케 4주년",
-      "traffic": "100+"
+      "keyword": "php",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "안용준, 사기 혐의 피소",
+      "keyword": "부캉이 유도 작업 중지",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "법정 가는 정의용과 서훈",
-      "state": "+",
-      "change": "1"
+      "keyword": "이진숙 국감 참석 가능",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "브런슨 주한미군사령관",
-      "state": "-",
-      "change": "1"
+      "keyword": "유홍준 사직안 재가",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "지효, 이밋하우스 설립",
+      "keyword": "김정은 사망설과 김여정 시찰",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "BMW 레이디스 챔피언십",
-      "state": "s",
+      "keyword": "삼성 김상식 감독 個人욕심 경계",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "이소영 중소벤처기업부 장관",
+      "keyword": "이다해, 상하이 집 공개",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김정은 사망설 폭주",
-      "state": "s",
-      "change": "0"
+      "keyword": "맥컬러의 화끈한 덩크슛",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "역삼동 화재 현장 감식",
-      "state": "s",
+      "keyword": "국교위 교육계획 발표 연기",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "부캉이 위험, 기온 저하",
-      "state": "+",
-      "change": "1"
+      "keyword": "태풍 경로",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "음문석, 내년 결혼 예비 신부는 모델",
-      "state": "n",
-      "change": "0"
+      "keyword": "이상민 감독의 작전 지시",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
