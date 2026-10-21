@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-21T01:37:38.460Z",
+  "updatedAt": "2026-10-21T06:32:08.111Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "태풍 참피",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "주간조선",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "카드뉴스",
+      "keyword": "노태문",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "한파주의보",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "사형",
+      "traffic": "200+"
+    },
+    {
       "rank": 4,
-      "keyword": "100일의 거짓말",
-      "traffic": "1000+"
+      "keyword": "터치드",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "박진만",
+      "keyword": "김호중",
       "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "제이비어 브런슨",
+      "keyword": "역사 왜곡",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "엘리스그룹",
-      "traffic": "200+"
+      "keyword": "농협은행",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "제너럴 모터스",
+      "keyword": "공중 급유",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "육군사관학교",
-      "traffic": "500+"
+      "keyword": "돔 경기장",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "아들",
-      "traffic": "10000+"
+      "keyword": "니케 4주년",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "출근하는 조희대 대법원장",
+      "keyword": "안용준, 사기 혐의 피소",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김정은 사망설 확산",
+      "keyword": "법정 가는 정의용과 서훈",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "브런슨 주한미군사령관",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "지효, 이밋하우스 설립",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "김민석 최고위 참석",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 4,
-      "keyword": "차우민과 다현, 구름이 구르미 주연 확정",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 5,
-      "keyword": "현대차 투싼 계약 시작",
-      "state": "+",
-      "change": "2"
+      "keyword": "BMW 레이디스 챔피언십",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "산체스·강동궁 64강 진출",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "10월 수출 최대",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "추미애 부승찬에 경고",
+      "keyword": "이소영 중소벤처기업부 장관",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "김정은 사망설 폭주",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "역삼동 화재 현장 감식",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "코스피 코스닥 상승",
-      "state": "-",
-      "change": "5"
+      "keyword": "부캉이 위험, 기온 저하",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "넷플릭스 걸그룹 오디션",
+      "keyword": "음문석, 내년 결혼 예비 신부는 모델",
       "state": "n",
       "change": "0"
     }
