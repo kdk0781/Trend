@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-22T01:54:36.453Z",
+  "updatedAt": "2026-10-22T06:53:21.705Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "반도체산업",
-      "traffic": "100+"
+      "keyword": "유조선",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "금리",
+      "keyword": "군위군",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "초코파이",
-      "traffic": "500+"
+      "keyword": "백화점",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "claude duet",
-      "traffic": "200+"
+      "keyword": "토지거래허가제",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "독도",
-      "traffic": "1000+"
+      "keyword": "손예진",
+      "traffic": "10000+"
     },
     {
       "rank": 6,
-      "keyword": "레이 아미",
-      "traffic": "200+"
+      "keyword": "한국투자증권",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "국가보훈부",
-      "traffic": "200+"
+      "keyword": "투자",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "프랑스 오픈",
-      "traffic": "200+"
+      "keyword": "육아휴직",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "크비차 크바라트스켈리아",
+      "keyword": "분당 신도시",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "버스",
-      "traffic": "1000+"
+      "keyword": "론스타 펀드",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "한은 기준금리 동결",
-      "state": "+",
-      "change": "2"
+      "keyword": "이재명 대통령 수석보좌관회의",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이진숙 의원 결정은",
-      "state": "-",
+      "keyword": "안효섭 셰프, 요리 대결 준비 중",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "신현송 총재 의사봉 두드림",
-      "state": "+",
+      "keyword": "이재용 회장, UAE 방문",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "발언하는 장동혁 대표",
-      "state": "-",
-      "change": "2"
+      "keyword": "역삼동 방화 피의자 구속",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "송혜교 공유 12월 공개",
+      "keyword": "LG디스플레이 3분기 영업익 42% 감소",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "2026년 후반기 합동도서방어훈련",
-      "state": "n",
-      "change": "0"
+      "keyword": "부캉이, 왜 돌아왔나?",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "김민재 45분 아스널과 2-2 무",
-      "state": "n",
+      "keyword": "기자회견하는 마린 칠리치",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "코스피 하락 시작",
-      "state": "+",
-      "change": "1"
+      "keyword": "광화문광장 육조마당서 열린 100인의",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김정은 사망설 확산",
-      "state": "-",
-      "change": "1"
+      "keyword": "세계 최대 암모니아 선박 건조",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "출근하는 조희대 대법원장",
-      "state": "-",
-      "change": "3"
+      "keyword": "서울 아파트 15.5% 상승",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
