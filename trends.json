@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-22T12:40:19.339Z",
+  "updatedAt": "2026-10-22T17:38:56.763Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "cuaca besok",
+      "keyword": "레흐 포즈난 대 선덜랜드",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "최동환",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "시험",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "멜론티켓",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "엠카",
+      "keyword": "크래프톤",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "야블로네츠 대 브라이턴",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "리설주",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "자격증",
+      "traffic": "500+"
+    },
+    {
       "rank": 6,
-      "keyword": "법원",
-      "traffic": "1000+"
+      "keyword": "박찬호",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "颱風動態",
+      "keyword": "이혼",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "ai 데이터 센터",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "올림픽파크 포레온",
+      "keyword": "천천히 강렬하게",
       "traffic": "100+"
     },
     {
+      "rank": 9,
+      "keyword": "박항서",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "울산 현대모비스 대 창원 lg",
-      "traffic": "1000+"
+      "keyword": "축구 선수",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "나솔 25기 영수",
+      "keyword": "부산교통공사 노사 단체교섭",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "청계천 자율주행버스 A01",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "역삼 방화 70대 도주 우려",
+      "keyword": "전국 법원 전산망 2시간 장애 복구",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 3,
+      "keyword": "서현진 부친상 소식",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 4,
-      "keyword": "김정은 사망설 주목",
+      "keyword": "조기성, 12년 만의 장애인AG 금메달",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "솔비♥이규한, 결혼 후 첫 동반 출연",
-      "state": "n",
-      "change": "0"
+      "keyword": "청계천 자율주행버스 야간운행 시작",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "부캉이 돌아옴",
+      "keyword": "역삼 70대 도주 우려",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "다리우스 베즐리 3점슛 성공",
-      "state": "n",
-      "change": "0"
+      "keyword": "영수 순자 결혼 발표",
+      "state": "+",
+      "change": "8"
     },
     {
       "rank": 8,
-      "keyword": "한미연합 제병협동 도하훈련",
+      "keyword": "다리우스 베즐리, 역전 덩크!",
       "state": "+",
-      "change": "3"
+      "change": "5"
     },
     {
       "rank": 9,
-      "keyword": "법원 전산망 2시간 장애 복구",
-      "state": "-",
-      "change": "3"
+      "keyword": "한미연합 제병협동 도하훈련",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "SK하이닉스 주가 변동",
-      "state": "-",
-      "change": "1"
+      "keyword": "김정은 합의이혼 컴백",
+      "state": "+",
+      "change": "4"
     }
   ]
 }
