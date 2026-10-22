@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-22T20:46:47.349Z",
+  "updatedAt": "2026-10-22T23:39:50.399Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "환율",
-      "traffic": "1000+"
+      "keyword": "상속",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "피싱",
-      "traffic": "500+"
+      "keyword": "테오스카 에르난데스",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "암",
-      "traffic": "500+"
+      "keyword": "금양",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "제16전투비행단",
-      "traffic": "100+"
+      "keyword": "아성다이소",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "젠슨 황",
-      "traffic": "500+"
+      "keyword": "연금",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
-      "keyword": "유로파리그",
+      "keyword": "에어쇼",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "베식타시 대 크리스털 팰리스",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "england cricket team vs sri lanka national cricket team standings",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "솔리다임",
+      "keyword": "주우재",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "포스코퓨처엠",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
+      "keyword": "weather",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "나스닥",
-      "traffic": "500+"
+      "keyword": "погода",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김정은 합의이혼 후 컴백",
-      "state": "+",
-      "change": "5"
+      "keyword": "SK하이닉스, 솔리다임 IPO 중단",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "부산교통공사 단체교섭 타결",
-      "state": "-",
-      "change": "1"
+      "keyword": "태풍 영향 제주 남부 비바람",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "LG 마레이 34리바운드 3연패 탈출",
-      "state": "-",
-      "change": "1"
+      "keyword": "김정은 4월 이혼 6개월 늦게 알림",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "장윤정과 도경완의 은퇴 시사",
-      "state": "+",
-      "change": "1"
+      "keyword": "AI 우려 나스닥 2.6% 급락",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "중국 티베트 7.0 강진 10㎞ 깊이",
+      "keyword": "오현규 75분 팰리스와 무승부",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김태원 재산 161억",
-      "state": "+",
-      "change": "1"
+      "keyword": "유튜버 길바닥 인도 여행 후 생존 확인",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "챔피언 남편 서장훈",
-      "state": "+",
-      "change": "2"
+      "keyword": "8월 은행 연체율 상승",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "부캉이가 돌아왔다.",
+      "keyword": "부캉이처럼 돌아온 손아섭",
       "state": "+",
-      "change": "20"
+      "change": "6"
     },
     {
       "rank": 9,
-      "keyword": "2026년 10월 23일 운세",
-      "state": "+",
-      "change": "1"
+      "keyword": "남유정, 이규한 저격?",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "캐릭 감독 경질 위기",
-      "state": "-",
-      "change": "2"
+      "keyword": "오세훈 항소심 선고 오늘",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
