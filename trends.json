@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-22T17:38:56.763Z",
+  "updatedAt": "2026-10-22T20:46:47.349Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "레흐 포즈난 대 선덜랜드",
-      "traffic": "200+"
+      "keyword": "환율",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "크래프톤",
-      "traffic": "100+"
+      "keyword": "피싱",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "야블로네츠 대 브라이턴",
+      "keyword": "암",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "리설주",
-      "traffic": "200+"
+      "keyword": "제16전투비행단",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "자격증",
+      "keyword": "젠슨 황",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "박찬호",
-      "traffic": "200+"
+      "keyword": "유로파리그",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "이혼",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "천천히 강렬하게",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "박항서",
+      "keyword": "베식타시 대 크리스털 팰리스",
       "traffic": "2000+"
     },
     {
+      "rank": 8,
+      "keyword": "england cricket team vs sri lanka national cricket team standings",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "솔리다임",
+      "traffic": "200+"
+    },
+    {
       "rank": 10,
-      "keyword": "축구 선수",
-      "traffic": "100+"
+      "keyword": "나스닥",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "부산교통공사 노사 단체교섭",
-      "state": "s",
-      "change": "0"
+      "keyword": "김정은 합의이혼 후 컴백",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 2,
-      "keyword": "전국 법원 전산망 2시간 장애 복구",
-      "state": "+",
+      "keyword": "부산교통공사 단체교섭 타결",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "서현진 부친상 소식",
+      "keyword": "LG 마레이 34리바운드 3연패 탈출",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "조기성, 12년 만의 장애인AG 금메달",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "청계천 자율주행버스 야간운행 시작",
+      "keyword": "장윤정과 도경완의 은퇴 시사",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 5,
+      "keyword": "중국 티베트 7.0 강진 10㎞ 깊이",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "역삼 70대 도주 우려",
+      "keyword": "김태원 재산 161억",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "영수 순자 결혼 발표",
+      "keyword": "챔피언 남편 서장훈",
       "state": "+",
-      "change": "8"
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "다리우스 베즐리, 역전 덩크!",
+      "keyword": "부캉이가 돌아왔다.",
       "state": "+",
-      "change": "5"
+      "change": "20"
     },
     {
       "rank": 9,
-      "keyword": "한미연합 제병협동 도하훈련",
+      "keyword": "2026년 10월 23일 운세",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "김정은 합의이혼 컴백",
-      "state": "+",
-      "change": "4"
+      "keyword": "캐릭 감독 경질 위기",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
