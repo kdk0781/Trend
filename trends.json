@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-22T06:53:21.705Z",
+  "updatedAt": "2026-10-22T12:40:19.339Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "유조선",
-      "traffic": "500+"
+      "keyword": "cuaca besok",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "군위군",
-      "traffic": "100+"
+      "keyword": "최동환",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "백화점",
+      "keyword": "시험",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "토지거래허가제",
-      "traffic": "100+"
+      "keyword": "멜론티켓",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "손예진",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "한국투자증권",
+      "keyword": "엠카",
       "traffic": "100+"
     },
     {
-      "rank": 7,
-      "keyword": "투자",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "육아휴직",
+      "rank": 6,
+      "keyword": "법원",
       "traffic": "1000+"
     },
     {
+      "rank": 7,
+      "keyword": "颱風動態",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "ai 데이터 센터",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "분당 신도시",
-      "traffic": "500+"
+      "keyword": "올림픽파크 포레온",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "론스타 펀드",
-      "traffic": "500+"
+      "keyword": "울산 현대모비스 대 창원 lg",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 대통령 수석보좌관회의",
-      "state": "n",
+      "keyword": "나솔 25기 영수",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "안효섭 셰프, 요리 대결 준비 중",
-      "state": "+",
-      "change": "1"
+      "keyword": "청계천 자율주행버스 A01",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이재용 회장, UAE 방문",
-      "state": "-",
+      "keyword": "역삼 방화 70대 도주 우려",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "역삼동 방화 피의자 구속",
-      "state": "s",
+      "keyword": "김정은 사망설 주목",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "LG디스플레이 3분기 영업익 42% 감소",
-      "state": "s",
+      "keyword": "솔비♥이규한, 결혼 후 첫 동반 출연",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "부캉이, 왜 돌아왔나?",
+      "keyword": "부캉이 돌아옴",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "기자회견하는 마린 칠리치",
-      "state": "s",
+      "keyword": "다리우스 베즐리 3점슛 성공",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "광화문광장 육조마당서 열린 100인의",
-      "state": "n",
-      "change": "0"
+      "keyword": "한미연합 제병협동 도하훈련",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "세계 최대 암모니아 선박 건조",
-      "state": "n",
-      "change": "0"
+      "keyword": "법원 전산망 2시간 장애 복구",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "서울 아파트 15.5% 상승",
-      "state": "n",
-      "change": "0"
+      "keyword": "SK하이닉스 주가 변동",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
