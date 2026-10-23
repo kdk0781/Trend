@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-23T20:29:10.786Z",
+  "updatedAt": "2026-10-23T23:20:55.680Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "승리",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "슈투트가르트 대 묀헨글라트바흐",
+      "keyword": "코어장전",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "당구",
+      "traffic": "2000+"
+    },
+    {
       "rank": 3,
-      "keyword": "입스위치 대 노팅엄 포레스트",
+      "keyword": "태풍 경로",
       "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "al",
+      "keyword": "다우 존스 산업평균지수",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "월즈 2026",
-      "traffic": "100+"
+      "keyword": "스마트폰",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "tes",
-      "traffic": "200+"
+      "keyword": "天气",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "페이커",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "로보택시",
+      "keyword": "天気",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "대전날씨",
+      "traffic": "100+"
+    },
+    {
       "rank": 9,
-      "keyword": "t1",
+      "keyword": "국제선",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "2026 월즈",
-      "traffic": "200+"
+      "keyword": "mu",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "대한항공 개인정보 유출",
-      "state": "s",
+      "keyword": "조선인민군 제3차 중대장대회",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "양홍원 불륜 의혹 제기",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 3,
-      "keyword": "육상 장민호 400M 세계신기록 2관왕",
+      "keyword": "다이브 박서함과 친구들",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "오세훈 항소심 무죄",
+      "rank": 3,
+      "keyword": "양홍원, 결혼 5일 만에 불륜 의혹 부인",
       "state": "+",
-      "change": "3"
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "트럼프, 캐나다 관세 철폐 추진",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "저스틴 비버 서울 삼계탕 포착",
+      "keyword": "김정은 사망설은 사실일까?",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "2026 공공디자인대상 수상",
+      "keyword": "부산 기름 유출 상어 부캉이 사라져",
       "state": "+",
       "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "DB, KT 꺾고 3위",
+      "keyword": "손석구 이라크 지원",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "파리 총격 1명 사망·4명 부상",
+      "keyword": "신천지 결과 공개하라니",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "전현무, 아이브 리즈 母와 동갑",
+      "keyword": "안세영 오른발 아프다",
       "state": "+",
-      "change": "5"
+      "change": "9"
     },
     {
       "rank": 10,
-      "keyword": "메르츠 방한 정상회담",
-      "state": "-",
-      "change": "6"
+      "keyword": "이란 전쟁 장기화 가능성",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
