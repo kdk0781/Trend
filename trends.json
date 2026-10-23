@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-10-23T06:51:49.364Z",
+  "updatedAt": "2026-10-23T12:18:20.802Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김광삼",
-      "traffic": "2000+"
+      "keyword": "카를로스 카라스코",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "기호일보",
-      "traffic": "200+"
+      "keyword": "데일리nk",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "인플루언서",
-      "traffic": "500+"
+      "keyword": "청년문화예술패스",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "한고은",
-      "traffic": "2000+"
+      "keyword": "배종옥",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "김영희",
-      "traffic": "200+"
+      "keyword": "고양시",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "김태욱",
-      "traffic": "200+"
+      "keyword": "전지현",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "드론 항공모함",
-      "traffic": "500+"
+      "keyword": "사고",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "인공위성",
-      "traffic": "500+"
+      "keyword": "홍명보",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "구축함",
-      "traffic": "500+"
+      "keyword": "나의 유죄인간",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "콜옵4",
-      "traffic": "100+"
+      "keyword": "수원 kt 대 원주 db",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "오세훈 무죄 판결받아 복귀",
+      "keyword": "헨리의 월든과 파타고니아",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "최길수 특별감찰관 재가",
+      "keyword": "양홍원 결혼과 불륜 의혹",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "송혜교 스탠드와 전속계약",
-      "state": "+",
+      "keyword": "땅으로 고통의 연속",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "이재명 대통령 회의",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 5,
-      "keyword": "장동혁 대표 축사",
+      "keyword": "500MD 헬기 공여식",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "남해준, 유죄인간 캐스팅 도전",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 6,
-      "keyword": "소방 지원 간담회",
-      "state": "n",
+      "keyword": "김정은 사망설 사실 무근",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "한화, 김광삼·진종길 영입",
-      "state": "-",
-      "change": "1"
+      "keyword": "장민호, 장애인AG 2관왕",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이태한 특검 중수청 방문",
+      "keyword": "시련이 모래폭풍처럼 밀려와도",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 9,
+      "keyword": "첨단산업 공급망 협력 필요",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "국방부 남북 군사회담",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 10,
-      "keyword": "지예은 결혼식 사회 유재석, 축가 김종국",
-      "state": "+",
+      "keyword": "부산 북항 기름 부캉이 실종",
+      "state": "-",
       "change": "1"
     }
   ]
