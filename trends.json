@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-23T12:18:20.802Z",
+  "updatedAt": "2026-10-23T17:15:52.677Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "카를로스 카라스코",
-      "traffic": "100+"
+      "keyword": "월즈",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "데일리nk",
-      "traffic": "500+"
+      "keyword": "lck",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "청년문화예술패스",
-      "traffic": "100+"
+      "keyword": "도호쿠 라쿠텐 골든 이글스",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "배종옥",
-      "traffic": "100+"
+      "keyword": "주우재",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "고양시",
+      "keyword": "렌트 푸어",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "전지현",
-      "traffic": "1000+"
+      "keyword": "이선민",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "사고",
+      "keyword": "함소원",
       "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "홍명보",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "나의 유죄인간",
+      "keyword": "교통량",
       "traffic": "100+"
     },
     {
+      "rank": 9,
+      "keyword": "롤드컵",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "수원 kt 대 원주 db",
-      "traffic": "1000+"
+      "keyword": "하주석",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "헨리의 월든과 파타고니아",
-      "state": "s",
-      "change": "0"
+      "keyword": "2026 대한민국 공공디자인대상",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "양홍원 결혼과 불륜 의혹",
+      "keyword": "대한항공 개인정보 유출",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "땅으로 고통의 연속",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "500MD 헬기 공여식",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "남해준, 유죄인간 캐스팅 도전",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "김정은 사망설 사실 무근",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
       "keyword": "장민호, 장애인AG 2관왕",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "시련이 모래폭풍처럼 밀려와도",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 9,
-      "keyword": "첨단산업 공급망 협력 필요",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "부산 북항 기름 부캉이 실종",
+      "rank": 4,
+      "keyword": "차우민 체격 변화와 반려동물 이야기",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 5,
+      "keyword": "오세훈 2심 무죄 판결",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "양홍원 불륜 의혹 해명 필요",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "손석구 반말에 한지민 정색",
       "state": "-",
       "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "파리 총격 1명 사망",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "태풍 참피 제주 비바람",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "땅으로 떨어지는 고통",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
