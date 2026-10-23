@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-23T17:15:52.677Z",
+  "updatedAt": "2026-10-23T20:29:10.786Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "월즈",
-      "traffic": "200+"
+      "keyword": "승리",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "lck",
+      "keyword": "슈투트가르트 대 묀헨글라트바흐",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "도호쿠 라쿠텐 골든 이글스",
-      "traffic": "200+"
+      "keyword": "입스위치 대 노팅엄 포레스트",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "주우재",
-      "traffic": "200+"
+      "keyword": "al",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "렌트 푸어",
+      "keyword": "월즈 2026",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "이선민",
-      "traffic": "100+"
+      "keyword": "tes",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "함소원",
+      "keyword": "페이커",
       "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "교통량",
-      "traffic": "100+"
+      "keyword": "로보택시",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "롤드컵",
-      "traffic": "2000+"
+      "keyword": "t1",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "하주석",
-      "traffic": "100+"
+      "keyword": "2026 월즈",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "2026 대한민국 공공디자인대상",
-      "state": "+",
-      "change": "1"
+      "keyword": "대한항공 개인정보 유출",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "대한항공 개인정보 유출",
+      "keyword": "양홍원 불륜 의혹 제기",
       "state": "+",
-      "change": "1"
+      "change": "4"
     },
     {
       "rank": 3,
-      "keyword": "장민호, 장애인AG 2관왕",
-      "state": "n",
+      "keyword": "육상 장민호 400M 세계신기록 2관왕",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "차우민 체격 변화와 반려동물 이야기",
-      "state": "-",
+      "keyword": "오세훈 항소심 무죄",
+      "state": "+",
       "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "오세훈 2심 무죄 판결",
+      "keyword": "저스틴 비버 서울 삼계탕 포착",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "양홍원 불륜 의혹 해명 필요",
+      "keyword": "2026 공공디자인대상 수상",
       "state": "+",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "손석구 반말에 한지민 정색",
-      "state": "-",
-      "change": "1"
+      "keyword": "DB, KT 꺾고 3위",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "파리 총격 1명 사망",
-      "state": "s",
+      "keyword": "파리 총격 1명 사망·4명 부상",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "태풍 참피 제주 비바람",
-      "state": "s",
-      "change": "0"
+      "keyword": "전현무, 아이브 리즈 母와 동갑",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 10,
-      "keyword": "땅으로 떨어지는 고통",
-      "state": "n",
-      "change": "0"
+      "keyword": "메르츠 방한 정상회담",
+      "state": "-",
+      "change": "6"
     }
   ]
 }
