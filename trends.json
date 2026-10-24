@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-24T01:45:03.978Z",
+  "updatedAt": "2026-10-24T06:30:18.739Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김수미",
-      "traffic": "1000+"
+      "keyword": "최태원",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "lcs",
+      "keyword": "warriors vs grizzlies",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "삼성 갤럭시 s26",
-      "traffic": "200+"
+      "keyword": "fc 서울 대 강원",
+      "traffic": "5000+"
     },
     {
       "rank": 4,
-      "keyword": "운전",
-      "traffic": "500+"
+      "keyword": "안양 대 전북",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "lcp",
-      "traffic": "100+"
+      "keyword": "인천 대 제주",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "김밥축제",
-      "traffic": "100+"
+      "keyword": "낚시",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "매일경제신문",
-      "traffic": "1000+"
+      "keyword": "삼성전기",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "레이스 대 브루어스",
-      "traffic": "10000+"
+      "keyword": "김천상무 대 대전",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "김장",
+      "keyword": "노태문",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "cblol",
-      "traffic": "200+"
+      "keyword": "lakers vs clippers",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "뉴시스 바다마라톤 대회",
+      "keyword": "김기동 감독 우승 희망",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "박병규 오늘 비연예인",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "최형우 전 장관 별세",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 4,
-      "keyword": "양홍원 원현주 유튜브 댓글 제한",
+      "keyword": "조선인민군 제3차 중대장대회",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "최산의 데뷔 초 52KG 비법 공개",
+      "rank": 3,
+      "keyword": "양홍원 불륜 의혹",
       "state": "+",
-      "change": "3"
+      "change": "5"
+    },
+    {
+      "rank": 4,
+      "keyword": "디즈니런 인천 2026 모두 즐겨요!",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "김민석 조희대 탄핵 차근차근 진행",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "인터뷰하는 유동균 마포구청장",
+      "keyword": "닥터X 완벽 응징",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "콩파니 감독 병원 이송",
-      "state": "s",
+      "keyword": "포천 폐차장 화재 대응 1단계",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김정은 중대장대회 개최",
+      "keyword": "강서구 친모 살해 40대 여성 구속",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "대전 지하상가 항소 판결",
-      "state": "n",
+      "keyword": "중동 대사관 인력 축소",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "카와이돌 재탄생한 라잇썸",
-      "state": "+",
-      "change": "3"
+      "keyword": "이틀째 행방 묘연한 부캉이",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
