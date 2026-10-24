@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-24T14:49:47.286Z",
+  "updatedAt": "2026-10-24T17:39:08.895Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "본드걸",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "스토크 시티 대 브리스틀 시티",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "arsenal vs everton",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "아우크스부르크 대 우니온 베를린",
+      "keyword": "첼시",
       "traffic": "500+"
     },
     {
-      "rank": 5,
-      "keyword": "연휴",
+      "rank": 2,
+      "keyword": "볼카노프스키",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "chelsea vs spurs",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "황희찬",
       "traffic": "2000+"
     },
     {
-      "rank": 6,
-      "keyword": "마인츠 05 대 베르더",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "라이프치히 대 엘버스베르크",
+      "rank": 5,
+      "keyword": "유영우",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "내 새끼의 연애",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "첼시 대 토트넘",
+      "traffic": "10000+"
+    },
+    {
       "rank": 8,
-      "keyword": "안효섭",
+      "keyword": "이재성",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "아카데미상",
-      "traffic": "100+"
+      "keyword": "파이널 테이블",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "니콜라 잭슨",
-      "traffic": "2000+"
+      "keyword": "잠수교",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "제주 태풍 참피 영향",
-      "state": "+",
-      "change": "21"
+      "keyword": "한성숙 총리 이태원 참사 사과",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "양홍원 모텔 사건 정리",
-      "state": "n",
+      "keyword": "2026 장애인아시아경기대회 폐막",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
       "keyword": "김정은, 왕후닝과 회담",
-      "state": "n",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "100일의 거짓말",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "구속 도주 우려",
-      "state": "n",
+      "keyword": "윤선우 김가은, 결혼 1년 만에 임신",
+      "state": "s",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "태풍 참피 제주 접근",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 6,
-      "keyword": "김민재 콤파니 감독에",
+      "keyword": "태극기 입장하는 윤지유",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "2026 아이치 장애인아시아경기대회",
-      "state": "-",
-      "change": "2"
+      "keyword": "구속 도주 우려",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "안세영 日 프랑스오픈",
-      "state": "n",
-      "change": "0"
+      "keyword": "장률, 파이널 테이블 완벽주의 셰프",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "장률, 완벽주의 셰프 파이널 테이블",
+      "keyword": "1247회 로또 1등 당첨자 3명",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "그것이 알고 싶다",
-      "state": "-",
-      "change": "1"
+      "keyword": "정준하 아이스크림 가격 논란",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
