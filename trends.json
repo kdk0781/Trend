@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-23T23:20:55.680Z",
+  "updatedAt": "2026-10-24T01:45:03.978Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "코어장전",
-      "traffic": "200+"
+      "keyword": "김수미",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "당구",
-      "traffic": "2000+"
+      "keyword": "lcs",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "태풍 경로",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "다우 존스 산업평균지수",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "스마트폰",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "天气",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "天気",
+      "keyword": "삼성 갤럭시 s26",
       "traffic": "200+"
     },
     {
-      "rank": 8,
-      "keyword": "대전날씨",
+      "rank": 4,
+      "keyword": "운전",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "lcp",
       "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "김밥축제",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "매일경제신문",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "레이스 대 브루어스",
+      "traffic": "10000+"
     },
     {
       "rank": 9,
-      "keyword": "국제선",
-      "traffic": "100+"
+      "keyword": "김장",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "mu",
-      "traffic": "100+"
+      "keyword": "cblol",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "조선인민군 제3차 중대장대회",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "다이브 박서함과 친구들",
+      "keyword": "뉴시스 바다마라톤 대회",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "양홍원, 결혼 5일 만에 불륜 의혹 부인",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "트럼프, 캐나다 관세 철폐 추진",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "김정은 사망설은 사실일까?",
+      "rank": 2,
+      "keyword": "박병규 오늘 비연예인",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "부산 기름 유출 상어 부캉이 사라져",
+      "rank": 3,
+      "keyword": "최형우 전 장관 별세",
+      "state": "+",
+      "change": "6"
+    },
+    {
+      "rank": 4,
+      "keyword": "양홍원 원현주 유튜브 댓글 제한",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "최산의 데뷔 초 52KG 비법 공개",
       "state": "+",
       "change": "3"
     },
     {
+      "rank": 6,
+      "keyword": "인터뷰하는 유동균 마포구청장",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "손석구 이라크 지원",
-      "state": "n",
+      "keyword": "콩파니 감독 병원 이송",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "신천지 결과 공개하라니",
+      "keyword": "김정은 중대장대회 개최",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "안세영 오른발 아프다",
-      "state": "+",
-      "change": "9"
+      "keyword": "대전 지하상가 항소 판결",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이란 전쟁 장기화 가능성",
-      "state": "n",
-      "change": "0"
+      "keyword": "카와이돌 재탄생한 라잇썸",
+      "state": "+",
+      "change": "3"
     }
   ]
 }
