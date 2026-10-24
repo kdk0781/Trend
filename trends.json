@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-24T17:39:08.895Z",
+  "updatedAt": "2026-10-24T19:46:20.481Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "첼시",
-      "traffic": "500+"
+      "keyword": "losene keita",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "볼카노프스키",
-      "traffic": "100+"
+      "keyword": "프리미어리그",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "chelsea vs spurs",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "황희찬",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "유영우",
+      "keyword": "lcp",
       "traffic": "200+"
     },
     {
-      "rank": 6,
-      "keyword": "내 새끼의 연애",
+      "rank": 4,
+      "keyword": "เชลซี พบ สเปอร์ส",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "pl",
       "traffic": "100+"
     },
     {
+      "rank": 6,
+      "keyword": "cfo",
+      "traffic": "200+"
+    },
+    {
       "rank": 7,
-      "keyword": "첼시 대 토트넘",
-      "traffic": "10000+"
+      "keyword": "도르트문트 대 아인트라흐트",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "이재성",
+      "keyword": "2026 롤드컵",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "파이널 테이블",
-      "traffic": "200+"
+      "keyword": "tes",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "잠수교",
-      "traffic": "200+"
+      "keyword": "헐크",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "한성숙 총리 이태원 참사 사과",
-      "state": "s",
+      "keyword": "김정은, 왕후닝과 경제협력 논의",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "2026 장애인아시아경기대회 폐막",
-      "state": "s",
+      "keyword": "100일의 거짓말",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김정은, 왕후닝과 회담",
+      "keyword": "최산, 정산금으로 집 빚 청산",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "윤선우 김가은, 결혼 1년 만에 임신",
-      "state": "s",
-      "change": "0"
+      "keyword": "10년 만에 정상",
+      "state": "+",
+      "change": "10"
     },
     {
       "rank": 5,
-      "keyword": "태풍 참피 제주 접근",
-      "state": "+",
+      "keyword": "1247회 로또 1등 109억 당첨",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "태극기 입장하는 윤지유",
-      "state": "n",
-      "change": "0"
+      "keyword": "프랑스 고물가 시위",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "구속 도주 우려",
-      "state": "+",
-      "change": "1"
+      "keyword": "태풍 참피 제주 근접",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "장률, 파이널 테이블 완벽주의 셰프",
-      "state": "-",
-      "change": "3"
+      "keyword": "사랑이 오다",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "1247회 로또 1등 당첨자 3명",
+      "keyword": "2026년 10월 25일 운세",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "정준하 아이스크림 가격 논란",
+      "keyword": "오세훈 환영행사 비서실",
       "state": "n",
       "change": "0"
     }
