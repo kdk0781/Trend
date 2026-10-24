@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-24T21:57:06.374Z",
+  "updatedAt": "2026-10-24T23:58:40.426Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이강인",
-      "traffic": "5000+"
+      "keyword": "군수산업",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "김장",
+      "keyword": "rbny vs inter miami",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "삼성전자",
-      "traffic": "5000+"
+      "keyword": "젠지",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "포스코노동조합",
-      "traffic": "500+"
+      "keyword": "세균",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "로스앤젤레스 fc",
+      "keyword": "에코프로",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "춘천마라톤",
-      "traffic": "100+"
+      "keyword": "여행",
+      "traffic": "5000+"
     },
     {
       "rank": 7,
-      "keyword": "창신메모리테크놀로지",
-      "traffic": "200+"
+      "keyword": "여수세계박람회장",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "황연주",
-      "traffic": "500+"
+      "keyword": "유해란",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "lcs",
-      "traffic": "100+"
+      "keyword": "สภาพอากาศ",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "한혜진",
-      "traffic": "100+"
+      "keyword": "박현호",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "100일의 거짓말",
-      "state": "s",
+      "keyword": "김정은 중국방문",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "2026년 10월 25일 운세",
-      "state": "+",
-      "change": "4"
+      "keyword": "100일의 거짓말",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "최산, 정산금으로 빚 갚았다",
+      "keyword": "태풍경보 발효된 제주",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "부상 이강인 아틀레티코",
+      "keyword": "이강인 드리블 작렬",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "지각 태풍 참피, 일요일 밤 제주 접근",
-      "state": "s",
-      "change": "0"
+      "keyword": "양홍원 결혼 5일 만에 불륜 의혹",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "프랑스 대규모 시위",
-      "state": "-",
-      "change": "4"
+      "keyword": "장률, 파이널 테이블 셰프 변신",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "양홍원 모텔 불륜 소감 언급",
-      "state": "s",
-      "change": "0"
+      "keyword": "하석진, 안희연 사랑 선택",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "맨유 상황 최악이다",
+      "keyword": "佛 시위 참가자 넘어진 모습",
       "state": "-",
-      "change": "4"
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "웅산, 김장훈·김동규 청혼받아",
-      "state": "s",
+      "keyword": "외국인 건보 적자 1조",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김정은 왕후닝 회담",
-      "state": "n",
-      "change": "0"
+      "keyword": "안세영 10승-50연승 눈앞",
+      "state": "+",
+      "change": "3"
     }
   ]
 }
