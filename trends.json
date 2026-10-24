@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-24T06:30:18.739Z",
+  "updatedAt": "2026-10-24T11:31:39.520Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "최태원",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "warriors vs grizzlies",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "fc 서울 대 강원",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "안양 대 전북",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "인천 대 제주",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "낚시",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "삼성전기",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "김천상무 대 대전",
+      "keyword": "hd현대중공업",
       "traffic": "1000+"
     },
     {
+      "rank": 2,
+      "keyword": "코스피",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "경찰",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "정준하 아이스크림",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "인플루엔자",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "니케 4주년",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "부산항",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "붕어빵",
+      "traffic": "500+"
+    },
+    {
       "rank": 9,
-      "keyword": "노태문",
+      "keyword": "호나우지뉴",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "lakers vs clippers",
-      "traffic": "100+"
+      "keyword": "오픈ai",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김기동 감독 우승 희망",
-      "state": "s",
+      "keyword": "한성숙 총리 이태원 참사 사과",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "조선인민군 제3차 중대장대회",
+      "keyword": "2026 장애인아시아경기대회 폐회",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "양홍원 불륜 의혹",
+      "keyword": "놀면 뭐하니",
       "state": "+",
-      "change": "5"
+      "change": "3"
     },
     {
       "rank": 4,
-      "keyword": "디즈니런 인천 2026 모두 즐겨요!",
-      "state": "+",
+      "keyword": "김가은 아빠 됐다 축하해",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "김민석 조희대 탄핵 차근차근 진행",
-      "state": "n",
-      "change": "0"
+      "keyword": "환희와 최수호, 불후의 명곡 감동 무대",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "닥터X 완벽 응징",
-      "state": "s",
-      "change": "0"
+      "keyword": "정준하 아이스크림",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "포천 폐차장 화재 대응 1단계",
-      "state": "n",
-      "change": "0"
+      "keyword": "양홍원 모텔 동행 여성 입장 표명",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "강서구 친모 살해 40대 여성 구속",
-      "state": "n",
+      "keyword": "삼성 개막 7연승 성공",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "중동 대사관 인력 축소",
-      "state": "s",
-      "change": "0"
+      "keyword": "태풍 참피 제주 폭우 경고",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "이틀째 행방 묘연한 부캉이",
+      "keyword": "안세영, 프랑스오픈 결승 진출!",
       "state": "n",
       "change": "0"
     }
