@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-25T13:22:28.658Z",
+  "updatedAt": "2026-10-25T17:07:41.049Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "garudayaksa fc vs persib bandung",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "신인감독 김연경 시즌2",
+      "keyword": "sc 프라이부르크 대 바이에른",
       "traffic": "2000+"
     },
     {
+      "rank": 2,
+      "keyword": "30호 태풍 참피",
+      "traffic": "1000+"
+    },
+    {
       "rank": 3,
-      "keyword": "한국전력공사",
-      "traffic": "200+"
+      "keyword": "분만",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "inter vs fiorentina",
+      "keyword": "pl",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "국민연금공단",
-      "traffic": "2000+"
+      "keyword": "셀타 비고 대 레알 베티스",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "건강",
-      "traffic": "5000+"
+      "keyword": "남양주시",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "신두",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "mma",
+      "keyword": "ngoại hạng anh",
       "traffic": "100+"
     },
     {
+      "rank": 8,
+      "keyword": "epl",
+      "traffic": "2000+"
+    },
+    {
       "rank": 9,
-      "keyword": "도핑",
-      "traffic": "200+"
+      "keyword": "리버풀",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "한국여자프로골프협회",
-      "traffic": "200+"
+      "keyword": "premier league",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "윤미라, 결혼 없이 동안 비결 밝혀",
+      "keyword": "삼성, 개막 8연승!",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 2,
+      "keyword": "태풍 참피 제주 폭우 피해 발생",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "조세호 도라이버 종영",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "안세영, 프랑스오픈 3연패 달성",
       "state": "+",
       "change": "3"
     },
     {
-      "rank": 2,
-      "keyword": "안세영, 신계에서 인간미와 최강 지킴.",
+      "rank": 5,
+      "keyword": "100일의 거짓말",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 3,
-      "keyword": "삼성, 개막 8연승 성공!",
-      "state": "+",
-      "change": "9"
-    },
-    {
-      "rank": 4,
-      "keyword": "사랑이 온다, 주말 시청률 변동",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "JMS 정명석 항소",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 6,
-      "keyword": "컵대회 대회 현대캐피탈",
-      "state": "n",
+      "keyword": "법무장관 후보 박균택 양부남",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "낚시터 초등생 물에 빠져 사망",
+      "keyword": "유재석·김종국, 지예은 결혼식",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "조세호 도라이버 여정 끝",
-      "state": "-",
-      "change": "7"
+      "keyword": "장애인아시아경기대회 선수단 파이팅!",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "이재성, 브레멘에 헤더 골",
+      "keyword": "파이널 테이블",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "오세훈, 최형우 빈소 조문",
+      "keyword": "오세훈 시장 조문 및 인사",
       "state": "n",
       "change": "0"
     }
