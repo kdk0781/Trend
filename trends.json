@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-25T19:33:45.787Z",
+  "updatedAt": "2026-10-25T22:00:54.474Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "롤드컵 2026",
+      "keyword": "박서진",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "루키",
-      "traffic": "500+"
+      "keyword": "장례",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "앙투안 그리즈만",
-      "traffic": "500+"
+      "keyword": "며느리",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "england cricket team vs pakistan national cricket team standings",
-      "traffic": "200+"
+      "keyword": "삼전 닉스",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "sc 프라이부르크 대 바이에른",
-      "traffic": "5000+"
+      "keyword": "조규성",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "맨체스터 유나이티드 fc",
-      "traffic": "100+"
+      "keyword": "hd현대",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "분만",
-      "traffic": "1000+"
+      "keyword": "barcelona đấu với real madrid",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "pl",
-      "traffic": "200+"
+      "keyword": "김포시",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "남양주시",
-      "traffic": "200+"
+      "keyword": "барселона – реал мадрид",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "셀타 비고 대 레알 베티스",
+      "keyword": "김하성",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "안세영 프랑스오픈 3연패 성공",
+      "keyword": "100일의 거짓말",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "75세 미혼 윤미라 동안 비결은 결혼 안 해서",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "100일의 거짓말",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
       "keyword": "2026년 10월 26일 운세",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "이란 공격안 보고",
+      "rank": 3,
+      "keyword": "맨유, 본머스에 0-3 대패!",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "라이즈 인섬니아 기대해요",
       "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "결혼 후 불륜 의혹 나와",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "조세호 도라이버 마지막 촬영 끝났다",
+      "keyword": "트럼프 이용 관세 50% 저항",
+      "state": "+",
+      "change": "13"
+    },
+    {
+      "rank": 7,
+      "keyword": "미혼 윤미라, 75세 럭셔리 집 공개",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "부산 동해선 열차 지연",
-      "state": "+",
-      "change": "2"
-    },
-    {
       "rank": 8,
-      "keyword": "너 말고 다른 연애",
+      "keyword": "신인감독 김연경 시즌2",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "오상욱 MVP, 상금 3천만 원",
-      "state": "n",
-      "change": "0"
+      "keyword": "푸틴, 유럽 지도자 무능",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
       "keyword": "파이널 테이블",
-      "state": "-",
-      "change": "5"
+      "state": "+",
+      "change": "1"
     }
   ]
 }
