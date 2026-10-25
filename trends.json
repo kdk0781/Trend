@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-25T17:07:41.049Z",
+  "updatedAt": "2026-10-25T19:33:45.787Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "sc 프라이부르크 대 바이에른",
-      "traffic": "2000+"
+      "keyword": "롤드컵 2026",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "30호 태풍 참피",
-      "traffic": "1000+"
+      "keyword": "루키",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "분만",
+      "keyword": "앙투안 그리즈만",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "pl",
+      "keyword": "england cricket team vs pakistan national cricket team standings",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "셀타 비고 대 레알 베티스",
-      "traffic": "500+"
+      "keyword": "sc 프라이부르크 대 바이에른",
+      "traffic": "5000+"
     },
     {
       "rank": 6,
+      "keyword": "맨체스터 유나이티드 fc",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "분만",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "pl",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
       "keyword": "남양주시",
       "traffic": "200+"
     },
     {
-      "rank": 7,
-      "keyword": "ngoại hạng anh",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "epl",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "리버풀",
-      "traffic": "1000+"
-    },
-    {
       "rank": 10,
-      "keyword": "premier league",
+      "keyword": "셀타 비고 대 레알 베티스",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "삼성, 개막 8연승!",
+      "keyword": "안세영 프랑스오픈 3연패 성공",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "태풍 참피 제주 폭우 피해 발생",
-      "state": "s",
-      "change": "0"
+      "keyword": "75세 미혼 윤미라 동안 비결은 결혼 안 해서",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "조세호 도라이버 종영",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "안세영, 프랑스오픈 3연패 달성",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 5,
       "keyword": "100일의 거짓말",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "법무장관 후보 박균택 양부남",
+      "rank": 4,
+      "keyword": "2026년 10월 26일 운세",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "유재석·김종국, 지예은 결혼식",
+      "rank": 5,
+      "keyword": "이란 공격안 보고",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "장애인아시아경기대회 선수단 파이팅!",
+      "rank": 6,
+      "keyword": "조세호 도라이버 마지막 촬영 끝났다",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "부산 동해선 열차 지연",
       "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "너 말고 다른 연애",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "파이널 테이블",
+      "keyword": "오상욱 MVP, 상금 3천만 원",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "오세훈 시장 조문 및 인사",
-      "state": "n",
-      "change": "0"
+      "keyword": "파이널 테이블",
+      "state": "-",
+      "change": "5"
     }
   ]
 }
