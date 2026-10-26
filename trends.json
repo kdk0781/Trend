@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-26T16:58:56.808Z",
+  "updatedAt": "2026-10-26T21:26:49.410Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "베식타시 대 이스탄불 바샥셰히르",
-      "traffic": "1000+"
+      "keyword": "지뢰",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "범죄",
-      "traffic": "2000+"
+      "keyword": "추미애",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "마린 칠리치",
-      "traffic": "100+"
+      "keyword": "배구",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "apple",
+      "keyword": "보조금",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "냉장고를 부탁해",
-      "traffic": "100+"
+      "keyword": "이차 전지",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "시효",
-      "traffic": "200+"
+      "keyword": "주가",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "반려견",
-      "traffic": "1000+"
+      "keyword": "실업급여",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "이태원 참사",
-      "traffic": "200+"
+      "keyword": "사업",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "dazn",
-      "traffic": "200+"
+      "keyword": "추위",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "군인",
-      "traffic": "5000+"
+      "keyword": "나 혼자 산다",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "네일 헤드샷 퇴장",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "정보유출 2091명 확인",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "카스트로 2점 홈런",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
       "keyword": "앤트로픽 나스닥 IPO 신청",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "저스틴 비버 출국",
+      "rank": 2,
+      "keyword": "박진만 감독 타순 변화",
+      "state": "+",
+      "change": "9"
+    },
+    {
+      "rank": 3,
+      "keyword": "JYP, 日 투자그룹 인수 제안 없다",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "정건주 실물 원탑",
       "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "룰라 당선 브라질 증시 폭락",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "부총재보에 최창호 통화정책국장",
+      "keyword": "연애박사와 김소현 기도 이야기",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "2026년 10월 27일 운세",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "양홍원 불륜 폭로자 수배 아냐",
-      "state": "+",
-      "change": "5"
-    },
-    {
       "rank": 8,
-      "keyword": "오세훈 무죄 조희대 탄핵",
+      "keyword": "이효리 이상순 대화 타임",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "비비의 발라드2 눈물 사연",
-      "state": "+",
-      "change": "1"
+      "keyword": "꺾고 3라운드 진출",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "IRIC 2026서 공개",
-      "state": "+",
-      "change": "1"
+      "keyword": "2000만원에 하루 폭로",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
