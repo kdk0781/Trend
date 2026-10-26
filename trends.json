@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-26T04:51:29.318Z",
+  "updatedAt": "2026-10-26T10:39:55.990Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "arirang",
-      "traffic": "100+"
+      "keyword": "야구중계",
+      "traffic": "10000+"
     },
     {
       "rank": 2,
-      "keyword": "로스앤젤레스 fc 대 로스앤젤레스 갤럭시 순위",
-      "traffic": "50000+"
+      "keyword": "티빙",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "mlb",
+      "keyword": "tving",
       "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "존리",
-      "traffic": "1000+"
+      "keyword": "백하나",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "미국 증권거래위원회",
-      "traffic": "1000+"
+      "keyword": "김포",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "실업급여",
+      "keyword": "재벌",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "인파",
-      "traffic": "10000+"
+      "keyword": "샘 올트먼",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "k2 흑표",
-      "traffic": "2000+"
+      "keyword": "npl",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "인스파이어 아레나",
-      "traffic": "100000+"
+      "keyword": "조세호",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "김동선",
+      "keyword": "치어리더",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김지용 중수청장 답변 인사",
+      "keyword": "KB국민은행 2091명 추가 확인",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "질의에 답하는 장관",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "김혜경 여사 인사",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "100일의 거짓말",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 5,
-      "keyword": "롯데 이동욱 이택근 선임",
+      "keyword": "KIA 이범호 감독 웃음꽃 피우다",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "부총재보에 최창호 통화정책국장",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "강레오, 실업급여로 일본 여행 청년들 사진 거부",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 5,
+      "keyword": "100일의 거짓말",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 6,
-      "keyword": "김수현 측 검찰 송치",
+      "keyword": "PO 1차전 시구 백하나",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "하이닉스 주가 상승 1.17%",
+      "keyword": "3분기 순익 감소",
       "state": "-",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "손흥민도 LAFC는 무승부",
+      "keyword": "홍지선 장관 참사 유가족 위로",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "양홍원 불륜 의혹 사과",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "부산 잡 페스티벌 구직자들 모여",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 10,
-      "keyword": "술잔 비우고 운전석 비워요",
+      "keyword": "나성범 이어가는 적시타",
       "state": "n",
       "change": "0"
     }
