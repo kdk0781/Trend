@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-26T10:39:55.990Z",
+  "updatedAt": "2026-10-26T16:58:56.808Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "야구중계",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "티빙",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "tving",
+      "keyword": "베식타시 대 이스탄불 바샥셰히르",
       "traffic": "1000+"
     },
     {
+      "rank": 2,
+      "keyword": "범죄",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 3,
+      "keyword": "마린 칠리치",
+      "traffic": "100+"
+    },
+    {
       "rank": 4,
-      "keyword": "백하나",
+      "keyword": "apple",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "김포",
+      "keyword": "냉장고를 부탁해",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "재벌",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "샘 올트먼",
+      "keyword": "시효",
       "traffic": "200+"
     },
     {
+      "rank": 7,
+      "keyword": "반려견",
+      "traffic": "1000+"
+    },
+    {
       "rank": 8,
-      "keyword": "npl",
+      "keyword": "이태원 참사",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "조세호",
+      "keyword": "dazn",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "치어리더",
-      "traffic": "500+"
+      "keyword": "군인",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "KB국민은행 2091명 추가 확인",
+      "keyword": "네일 헤드샷 퇴장",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "KIA 이범호 감독 웃음꽃 피우다",
+      "keyword": "정보유출 2091명 확인",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "부총재보에 최창호 통화정책국장",
-      "state": "+",
-      "change": "2"
+      "keyword": "카스트로 2점 홈런",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "강레오, 실업급여로 일본 여행 청년들 사진 거부",
-      "state": "+",
-      "change": "4"
+      "keyword": "앤트로픽 나스닥 IPO 신청",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "100일의 거짓말",
-      "state": "+",
-      "change": "1"
+      "keyword": "저스틴 비버 출국",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "PO 1차전 시구 백하나",
-      "state": "n",
+      "keyword": "부총재보에 최창호 통화정책국장",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "3분기 순익 감소",
-      "state": "-",
-      "change": "3"
+      "keyword": "양홍원 불륜 폭로자 수배 아냐",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 8,
-      "keyword": "홍지선 장관 참사 유가족 위로",
-      "state": "+",
-      "change": "2"
+      "keyword": "오세훈 무죄 조희대 탄핵",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "양홍원 불륜 의혹 사과",
-      "state": "n",
-      "change": "0"
+      "keyword": "비비의 발라드2 눈물 사연",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "나성범 이어가는 적시타",
-      "state": "n",
-      "change": "0"
+      "keyword": "IRIC 2026서 공개",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
