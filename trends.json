@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-10-27T16:07:13.890Z",
+  "updatedAt": "2026-10-27T20:38:49.503Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "리그컵",
-      "traffic": "100+"
+      "keyword": "반도체",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "엄태웅",
+      "keyword": "소넨호프 대 아우크스부르크",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "승리",
-      "traffic": "1000+"
+      "keyword": "s",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "전쟁",
+      "keyword": "fomc",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "3기신도시 남양주 왕숙지구",
-      "traffic": "200+"
+      "keyword": "홈런",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "우주발사체",
-      "traffic": "200+"
+      "keyword": "청송군",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "송가 인",
-      "traffic": "10000+"
+      "keyword": "크랙",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "앤 트로픽",
-      "traffic": "1000+"
+      "keyword": "pba 팀리그",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "잠실",
+      "keyword": "리그컵",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "나의 유죄인간",
-      "traffic": "100+"
+      "keyword": "카를로스 알카라스",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "강남 구룡마을 화재 진압 중",
+      "keyword": "구룡마을 화재 대응 1단계 하향",
       "state": "s",
       "change": "0"
     },
@@ -67,51 +67,51 @@
     },
     {
       "rank": 3,
-      "keyword": "김건희 추가 구속 발부",
+      "keyword": "승리 내년 1월 결혼",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 4,
+      "keyword": "이란, 장금상선 법적 경고",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "2026년 10월 28일 운세",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "투런포 디아즈 대활약!",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "헤이지니 노동 착취 반박",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 6,
-      "keyword": "HD현대중 기본급 인상",
+      "keyword": "5·18 지만원 구속",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "김희애 연애박사 감독 찬사",
+      "keyword": "이스라엘 총선 투표율 역대 최고",
       "state": "+",
-      "change": "2"
+      "change": "13"
     },
     {
       "rank": 8,
-      "keyword": "고리 3·4호기 계속운전 허가",
-      "state": "-",
-      "change": "4"
+      "keyword": "삼전닉스, 210조 환원 주주에",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "주택가서 시신 2명 발견",
+      "keyword": "대전, 고베에 0-1 패배",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "3분기 순익 변화",
-      "state": "-",
-      "change": "2"
+      "keyword": "오늘의 승리",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
