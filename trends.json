@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-27T00:39:47.609Z",
+  "updatedAt": "2026-10-27T05:35:02.563Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "브루어스 대 레이스",
-      "traffic": "5000+"
+      "keyword": "yaxel lendeborg",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "배드민턴",
-      "traffic": "20000+"
+      "keyword": "nuggets vs warriors",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "이지훈",
+      "keyword": "아시아나",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "군의관",
-      "traffic": "100+"
+      "keyword": "강남대로",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "연비",
-      "traffic": "200+"
+      "keyword": "그래픽 카드",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "월즈 2026",
-      "traffic": "500+"
+      "keyword": "양산시",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "더존비즈온",
-      "traffic": "100+"
+      "keyword": "hd현대중공업",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "지게차",
-      "traffic": "100+"
+      "keyword": "자산",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "psg vs olympique lyon standings",
-      "traffic": "100+"
+      "keyword": "교도관",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "병역 기피",
-      "traffic": "500+"
+      "keyword": "양서류",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "발언하는 국민의힘 원내대표",
-      "state": "n",
-      "change": "0"
+      "keyword": "특검, 올림픽공원 압수수색",
+      "state": "+",
+      "change": "9"
     },
     {
       "rank": 2,
-      "keyword": "3분기 GDP 1.0% 성장",
+      "keyword": "코리아 그랜드 페스티벌 할인 행사",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "정건주 원픽 너무 착해",
-      "state": "s",
+      "keyword": "밀워키, 창단 1승!",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "케인 첫 발롱도르 수상",
+      "keyword": "황정음, 의문의 남사친 해명",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "KBS 코미디언 35기 모집",
+      "keyword": "갤럭시 성능 제한 과징금 200억",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "앤트로픽 IPO로 증시 상승",
-      "state": "-",
-      "change": "5"
+      "keyword": "오세훈 시장, 아동센터 축사 참석",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "경찰 48기동대 투입",
-      "state": "+",
-      "change": "3"
+      "keyword": "금융의 날 기념식",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "태풍 인파 한반도 영향",
-      "state": "-",
-      "change": "2"
+      "keyword": "안세영 귀국 답변은",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "헤이지니 직원 산재 인정",
+      "keyword": "민원봉사대상 30주년 기념식",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김소현 캐스팅 연애박사 뒷이야기",
-      "state": "+",
-      "change": "9"
+      "keyword": "답하는 주진우 의원",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
