@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-26T21:26:49.410Z",
+  "updatedAt": "2026-10-27T00:39:47.609Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "지뢰",
-      "traffic": "200+"
+      "keyword": "브루어스 대 레이스",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "추미애",
-      "traffic": "500+"
+      "keyword": "배드민턴",
+      "traffic": "20000+"
     },
     {
       "rank": 3,
-      "keyword": "배구",
+      "keyword": "이지훈",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "보조금",
-      "traffic": "200+"
+      "keyword": "군의관",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "이차 전지",
+      "keyword": "연비",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "주가",
-      "traffic": "2000+"
+      "keyword": "월즈 2026",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "실업급여",
+      "keyword": "더존비즈온",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "사업",
-      "traffic": "1000+"
+      "keyword": "지게차",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "추위",
-      "traffic": "500+"
+      "keyword": "psg vs olympique lyon standings",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "나 혼자 산다",
-      "traffic": "200+"
+      "keyword": "병역 기피",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "앤트로픽 나스닥 IPO 신청",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "박진만 감독 타순 변화",
-      "state": "+",
-      "change": "9"
-    },
-    {
-      "rank": 3,
-      "keyword": "JYP, 日 투자그룹 인수 제안 없다",
+      "keyword": "발언하는 국민의힘 원내대표",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "정건주 실물 원탑",
+      "rank": 2,
+      "keyword": "3분기 GDP 1.0% 성장",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "정건주 원픽 너무 착해",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "케인 첫 발롱도르 수상",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 5,
-      "keyword": "룰라 당선 브라질 증시 폭락",
+      "keyword": "KBS 코미디언 35기 모집",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "연애박사와 김소현 기도 이야기",
+      "keyword": "앤트로픽 IPO로 증시 상승",
       "state": "-",
-      "change": "1"
+      "change": "5"
     },
     {
       "rank": 7,
-      "keyword": "2026년 10월 27일 운세",
-      "state": "s",
-      "change": "0"
+      "keyword": "경찰 48기동대 투입",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "이효리 이상순 대화 타임",
-      "state": "s",
-      "change": "0"
+      "keyword": "태풍 인파 한반도 영향",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "꺾고 3라운드 진출",
-      "state": "s",
+      "keyword": "헤이지니 직원 산재 인정",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "2000만원에 하루 폭로",
-      "state": "n",
-      "change": "0"
+      "keyword": "김소현 캐스팅 연애박사 뒷이야기",
+      "state": "+",
+      "change": "9"
     }
   ]
 }
