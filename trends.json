@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-27T20:38:49.503Z",
+  "updatedAt": "2026-10-27T23:59:23.314Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "반도체",
-      "traffic": "2000+"
+      "keyword": "창신 메모리 테크놀로지",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "소넨호프 대 아우크스부르크",
+      "keyword": "공중강습",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "s",
-      "traffic": "100+"
+      "keyword": "별자리",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "fomc",
+      "keyword": "허문회",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "홈런",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "청송군",
+      "keyword": "브라질",
       "traffic": "100+"
     },
     {
+      "rank": 6,
+      "keyword": "하이닉스 실적발표",
+      "traffic": "2000+"
+    },
+    {
       "rank": 7,
-      "keyword": "크랙",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "pba 팀리그",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "리그컵",
+      "keyword": "묀헨글라트바흐 대 카를스루에",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "기온",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "수험",
+      "traffic": "500+"
+    },
+    {
       "rank": 10,
-      "keyword": "카를로스 알카라스",
-      "traffic": "2000+"
+      "keyword": "정준하",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "구룡마을 화재 대응 1단계 하향",
-      "state": "s",
+      "keyword": "발언하는 이찬진 금감원장",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "최형우 최고령 홈런!",
-      "state": "s",
+      "keyword": "우승한 백구영 아내에게 감사",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "승리 내년 1월 결혼",
-      "state": "+",
-      "change": "4"
+      "keyword": "유죄인간 임시완 설인아와",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이란, 장금상선 법적 경고",
+      "keyword": "이스라엘 총선 초박빙",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "2026년 10월 28일 운세",
-      "state": "s",
-      "change": "0"
+      "keyword": "헤이지니 갑질 논란",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "5·18 지만원 구속",
-      "state": "+",
+      "keyword": "김건희 구속 연장 결정",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "이스라엘 총선 투표율 역대 최고",
+      "keyword": "소아응급 7명 사직",
       "state": "+",
-      "change": "13"
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "삼전닉스, 210조 환원 주주에",
+      "keyword": "올림픽공원 이태한 특검 도착",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "대전, 고베에 0-1 패배",
+      "keyword": "승리, 내년 1월 아빠 된다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "오늘의 승리",
-      "state": "n",
-      "change": "0"
+      "keyword": "구룡마을 13시간 완진",
+      "state": "-",
+      "change": "8"
     }
   ]
 }
