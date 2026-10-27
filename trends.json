@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-27T10:53:55.650Z",
+  "updatedAt": "2026-10-27T16:07:13.890Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "사미자",
-      "traffic": "5000+"
+      "keyword": "리그컵",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "tving",
-      "traffic": "500+"
+      "keyword": "엄태웅",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "김선빈",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "삼성라이온즈",
+      "keyword": "승리",
       "traffic": "1000+"
     },
     {
-      "rank": 5,
-      "keyword": "트로트",
+      "rank": 4,
+      "keyword": "전쟁",
       "traffic": "100+"
     },
     {
-      "rank": 6,
-      "keyword": "서울 sk 대 부산 kcc",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "야구 중계",
+      "rank": 5,
+      "keyword": "3기신도시 남양주 왕숙지구",
       "traffic": "200+"
     },
     {
+      "rank": 6,
+      "keyword": "우주발사체",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "송가 인",
+      "traffic": "10000+"
+    },
+    {
       "rank": 8,
-      "keyword": "김지찬",
-      "traffic": "100+"
+      "keyword": "앤 트로픽",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "오승환",
+      "keyword": "잠실",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "리그 오브 레전드 월드 챔피언십",
-      "traffic": "2000+"
+      "keyword": "나의 유죄인간",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "강남 구룡마을 화재 발생",
+      "keyword": "강남 구룡마을 화재 진압 중",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김건희 구속영장 발부",
-      "state": "+",
-      "change": "1"
+      "keyword": "최형우 최고령 홈런!",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "오승환 아들과 시구 기원",
-      "state": "+",
-      "change": "3"
+      "keyword": "김건희 추가 구속 발부",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "임단협 기본급 인상 12만원",
+      "keyword": "투런포 디아즈 대활약!",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "최형우 최고령 안타",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "구로구 시신 유기 남성 긴급체포",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 7,
-      "keyword": "첫사랑 득남 감격",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "하이닉스 주가 반등할까?",
+      "keyword": "헤이지니 노동 착취 반박",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "HD현대중 기본급 인상",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "김희애 연애박사 감독 찬사",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "고리 3·4호기 계속운전 허가",
+      "state": "-",
+      "change": "4"
+    },
+    {
       "rank": 9,
-      "keyword": "허구연 3연임 확정 초읽기",
+      "keyword": "주택가서 시신 2명 발견",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "역투하는 아리엘 후라도",
-      "state": "n",
-      "change": "0"
+      "keyword": "3분기 순익 변화",
+      "state": "-",
+      "change": "2"
     }
   ]
 }
