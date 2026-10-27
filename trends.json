@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-27T05:35:02.563Z",
+  "updatedAt": "2026-10-27T10:53:55.650Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "yaxel lendeborg",
-      "traffic": "200+"
+      "keyword": "사미자",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "nuggets vs warriors",
-      "traffic": "100+"
+      "keyword": "tving",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "아시아나",
-      "traffic": "200+"
+      "keyword": "김선빈",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "강남대로",
-      "traffic": "500+"
+      "keyword": "삼성라이온즈",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "그래픽 카드",
-      "traffic": "500+"
+      "keyword": "트로트",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "양산시",
-      "traffic": "200+"
+      "keyword": "서울 sk 대 부산 kcc",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "hd현대중공업",
-      "traffic": "500+"
+      "keyword": "야구 중계",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "자산",
-      "traffic": "500+"
+      "keyword": "김지찬",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "교도관",
+      "keyword": "오승환",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "양서류",
-      "traffic": "100+"
+      "keyword": "리그 오브 레전드 월드 챔피언십",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "특검, 올림픽공원 압수수색",
-      "state": "+",
-      "change": "9"
-    },
-    {
-      "rank": 2,
-      "keyword": "코리아 그랜드 페스티벌 할인 행사",
+      "keyword": "강남 구룡마을 화재 발생",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "김건희 구속영장 발부",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 3,
-      "keyword": "밀워키, 창단 1승!",
-      "state": "n",
-      "change": "0"
+      "keyword": "오승환 아들과 시구 기원",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 4,
-      "keyword": "황정음, 의문의 남사친 해명",
-      "state": "n",
-      "change": "0"
+      "keyword": "임단협 기본급 인상 12만원",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "갤럭시 성능 제한 과징금 200억",
+      "keyword": "최형우 최고령 안타",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "오세훈 시장, 아동센터 축사 참석",
-      "state": "s",
-      "change": "0"
+      "keyword": "구로구 시신 유기 남성 긴급체포",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "금융의 날 기념식",
+      "keyword": "첫사랑 득남 감격",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "안세영 귀국 답변은",
+      "keyword": "하이닉스 주가 반등할까?",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "민원봉사대상 30주년 기념식",
+      "keyword": "허구연 3연임 확정 초읽기",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "답하는 주진우 의원",
+      "keyword": "역투하는 아리엘 후라도",
       "state": "n",
       "change": "0"
     }
