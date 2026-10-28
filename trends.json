@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-28T04:46:44.552Z",
+  "updatedAt": "2026-10-28T10:51:09.560Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "bangladesh vs west indies",
+      "keyword": "이재성",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "부사관",
-      "traffic": "200+"
+      "keyword": "afc 아시안컵",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "학비",
-      "traffic": "500+"
+      "keyword": "천천히 강렬하게",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "옌스 카스트로프",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "카를로스 카라스코",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "징역형",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "음바페 마오쩌둥",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "골프 존 홀딩스",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "은마아파트",
+      "keyword": "진성준",
       "traffic": "500+"
     },
     {
+      "rank": 5,
+      "keyword": "줍줍",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "chuyển khoản",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "가시마 앤틀러스 대 포항",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "대탈출",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "ai 버블",
+      "traffic": "200+"
+    },
+    {
       "rank": 10,
-      "keyword": "순위",
-      "traffic": "1000+"
+      "keyword": "과징금",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "원민경 성평등가족부 장관",
+      "keyword": "탈북어민 강제북송 상고 포기",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "정관장 지명된 오세인 김아중",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "IBK, 1순위 오드리 박 지명",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "김민하 가난 두려워해",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "구룡마을 화재 합동감식",
+      "keyword": "한미 국방장관 12월 회담",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "인천 폭발 막은 윤대열",
+      "state": "+",
+      "change": "7"
+    },
+    {
+      "rank": 4,
+      "keyword": "조성환 이대형 코치 합류",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "하이닉스 주가 부양 기대",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 6,
-      "keyword": "SK하이닉스 주가 부양 기대",
-      "state": "s",
+      "keyword": "스페인 열차 사고 10명 사망",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "삼성전기 3분기 영업익 6910억",
+      "keyword": "조이현 영화 면접 합격",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "특검, 투표지 검증 시작",
-      "state": "n",
-      "change": "0"
+      "keyword": "박태영 우승 소식",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 9,
-      "keyword": "이마트 쓱데이 개최",
+      "keyword": "구글·애플 인앱결제 637억 과징금",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김태희 고모된다",
-      "state": "-",
-      "change": "8"
+      "keyword": "증선위, 내부자 고발",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
