@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-28T16:55:10.603Z",
+  "updatedAt": "2026-10-28T21:28:03.191Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "lg에너지솔루션",
-      "traffic": "200+"
+      "keyword": "단풍",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "노바크 조코비치",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "한겨레",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "크랙",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "일본 지진",
+      "keyword": "liverpool vs chelsea",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "ลิเวอร์พูล พบ เชลซี",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "맨시티",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "t1",
+      "traffic": "100+"
+    },
+    {
       "rank": 6,
-      "keyword": "서울반도체",
+      "keyword": "구글 주가",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "김민",
+      "keyword": "카카오뱅크",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "메달",
-      "traffic": "100+"
+      "keyword": "숲",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "올림픽파크 포레온",
+      "keyword": "efl cup",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "이계인",
-      "traffic": "1000+"
+      "keyword": "농지",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "스페인 열차 충돌 사망 최소 30명",
+      "keyword": "기준금리 3.75% 동결",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 2,
+      "keyword": "올림픽공원 투표지 검증 종료",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "최형우의 솔로포",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 2,
-      "keyword": "공소청, 탈북어민 상고 포기",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "윤대열, 인천 폭발 참사 막다",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 4,
-      "keyword": "한미 국방장관 12월 회담",
-      "state": "n",
+      "keyword": "신민아 이광수 김우빈 불안한 청룡",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "포항, 가시마 원정서 0-3 패배",
-      "state": "+",
-      "change": "7"
-    },
-    {
-      "rank": 6,
-      "keyword": "진성준 비자 발급 거부",
+      "keyword": "서울, 비엣텔 5-0 ACL2 첫 승",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "김민 나혼산 후 사생활 상실 바꿔보았습니다.",
+      "state": "+",
+      "change": "4"
+    },
+    {
       "rank": 7,
-      "keyword": "조성환·이대형 코치 합류",
+      "keyword": "재미교포 오드리 박, IBK 1순위 지명",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "최형우 솔로포 8-2로 달아나",
+      "keyword": "47세 모태미남 공개",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "조이현 김재원 강유석 최종면접",
-      "state": "n",
-      "change": "0"
+      "keyword": "93세 디자이너 진태옥의 일상",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "박태영 우승 도전",
+      "keyword": "트럼프, 베네수엘라 51주로",
       "state": "n",
       "change": "0"
     }
