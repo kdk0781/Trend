@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-27T23:59:23.314Z",
+  "updatedAt": "2026-10-28T04:46:44.552Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "창신 메모리 테크놀로지",
-      "traffic": "500+"
+      "keyword": "bangladesh vs west indies",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "공중강습",
-      "traffic": "100+"
+      "keyword": "부사관",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "별자리",
+      "keyword": "학비",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "허문회",
-      "traffic": "100+"
+      "keyword": "옌스 카스트로프",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "브라질",
+      "keyword": "카를로스 카라스코",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "하이닉스 실적발표",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "묀헨글라트바흐 대 카를스루에",
+      "keyword": "징역형",
       "traffic": "200+"
     },
     {
+      "rank": 7,
+      "keyword": "음바페 마오쩌둥",
+      "traffic": "100+"
+    },
+    {
       "rank": 8,
-      "keyword": "기온",
+      "keyword": "골프 존 홀딩스",
       "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "수험",
+      "keyword": "은마아파트",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "정준하",
-      "traffic": "200+"
+      "keyword": "순위",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "발언하는 이찬진 금감원장",
-      "state": "n",
+      "keyword": "원민경 성평등가족부 장관",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "우승한 백구영 아내에게 감사",
-      "state": "n",
+      "keyword": "정관장 지명된 오세인 김아중",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "유죄인간 임시완 설인아와",
-      "state": "n",
+      "keyword": "IBK, 1순위 오드리 박 지명",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "이스라엘 총선 초박빙",
-      "state": "n",
+      "keyword": "김민하 가난 두려워해",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "헤이지니 갑질 논란",
-      "state": "-",
-      "change": "1"
+      "keyword": "구룡마을 화재 합동감식",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김건희 구속 연장 결정",
-      "state": "-",
-      "change": "1"
+      "keyword": "SK하이닉스 주가 부양 기대",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "소아응급 7명 사직",
-      "state": "+",
-      "change": "1"
+      "keyword": "삼성전기 3분기 영업익 6910억",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "올림픽공원 이태한 특검 도착",
+      "keyword": "특검, 투표지 검증 시작",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "승리, 내년 1월 아빠 된다",
+      "keyword": "이마트 쓱데이 개최",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "구룡마을 13시간 완진",
+      "keyword": "김태희 고모된다",
       "state": "-",
       "change": "8"
     }
