@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-29T01:08:00.640Z",
+  "updatedAt": "2026-10-29T07:00:02.549Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김영옥",
-      "traffic": "1000+"
+      "keyword": "땅",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "inter miami vs cincinnati",
-      "traffic": "200+"
+      "keyword": "신세계",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "충청권 광역철도",
-      "traffic": "200+"
+      "keyword": "손정범",
+      "traffic": "5000+"
     },
     {
       "rank": 4,
-      "keyword": "신현송",
+      "keyword": "파라타항공",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "호텔",
-      "traffic": "2000+"
+      "keyword": "중앙일보",
+      "traffic": "10000+"
     },
     {
       "rank": 6,
-      "keyword": "우서윤",
-      "traffic": "1000+"
+      "keyword": "강석우",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "성리",
+      "keyword": "메가박스",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "자산",
-      "traffic": "2000+"
+      "keyword": "박시후",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "이기혁",
+      "keyword": "하남시",
       "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "백금",
+      "keyword": "일회용품",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "출근하는 조희대 대법원장",
-      "state": "n",
+      "keyword": "모레노 감독 명단 발표",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "퇴직금 사외적립 의무화",
-      "state": "-",
-      "change": "1"
+      "keyword": "오세훈 핼러윈 점검",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "역삼 방화범 구속 송치",
+      "keyword": "현대차 3분기 5.5%↑",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "제네시스 GV90 기술 공개",
-      "state": "n",
-      "change": "0"
+      "keyword": "북 탄도미사일 발사",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "듄 12월 16일 韓 최초 개봉",
-      "state": "s",
+      "keyword": "국산 비만약 에페 처방 시작",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "강석우 손주 바보 예약",
-      "state": "-",
-      "change": "2"
+      "keyword": "담배 유해성분 검사 확대",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "삼성SDI 3분기 영업익 4078억",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "네이마르 2경기 정지",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "투표지 반출 후 집회 이어가며",
+      "keyword": "어도어 뉴진스 MV 승소 10억 배상",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "이태원 참사 4주기 추모",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "김포 고촌 신규 후보지",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "발언하는 김영훈 장관",
-      "state": "-",
-      "change": "3"
+      "keyword": "신세계, 롯데 센텀 인수",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
