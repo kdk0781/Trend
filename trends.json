@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-28T21:28:03.191Z",
+  "updatedAt": "2026-10-29T01:08:00.640Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "단풍",
+      "keyword": "김영옥",
       "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "liverpool vs chelsea",
+      "keyword": "inter miami vs cincinnati",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "ลิเวอร์พูล พบ เชลซี",
+      "keyword": "충청권 광역철도",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "맨시티",
+      "keyword": "신현송",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "t1",
-      "traffic": "100+"
+      "keyword": "호텔",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "구글 주가",
-      "traffic": "100+"
+      "keyword": "우서윤",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "카카오뱅크",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "숲",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "efl cup",
+      "keyword": "성리",
       "traffic": "200+"
     },
     {
-      "rank": 10,
-      "keyword": "농지",
+      "rank": 8,
+      "keyword": "자산",
       "traffic": "2000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "이기혁",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 10,
+      "keyword": "백금",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "기준금리 3.75% 동결",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "올림픽공원 투표지 검증 종료",
+      "keyword": "출근하는 조희대 대법원장",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "퇴직금 사외적립 의무화",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 3,
-      "keyword": "최형우의 솔로포",
-      "state": "s",
-      "change": "0"
+      "keyword": "역삼 방화범 구속 송치",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "신민아 이광수 김우빈 불안한 청룡",
-      "state": "s",
+      "keyword": "제네시스 GV90 기술 공개",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "서울, 비엣텔 5-0 ACL2 첫 승",
-      "state": "n",
+      "keyword": "듄 12월 16일 韓 최초 개봉",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "김민 나혼산 후 사생활 상실 바꿔보았습니다.",
-      "state": "+",
-      "change": "4"
+      "keyword": "강석우 손주 바보 예약",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "재미교포 오드리 박, IBK 1순위 지명",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "47세 모태미남 공개",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "93세 디자이너 진태옥의 일상",
-      "state": "-",
+      "keyword": "삼성SDI 3분기 영업익 4078억",
+      "state": "+",
       "change": "3"
     },
     {
-      "rank": 10,
-      "keyword": "트럼프, 베네수엘라 51주로",
+      "rank": 8,
+      "keyword": "네이마르 2경기 정지",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "투표지 반출 후 집회 이어가며",
       "state": "n",
       "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "발언하는 김영훈 장관",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
