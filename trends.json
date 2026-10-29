@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-29T14:00:51.129Z",
+  "updatedAt": "2026-10-29T19:32:58.385Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "퇴직",
-      "traffic": "1000+"
+      "keyword": "알나스르 대 알콜루드 클럽",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "오픈ai",
+      "keyword": "최준희",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "지하철",
+      "keyword": "신구",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "시바이누코인",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "런닝맨",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "구속영장",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "이승민",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "김선빈",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "조상우",
+      "keyword": "설인아",
       "traffic": "200+"
     },
     {
-      "rank": 10,
-      "keyword": "매매",
+      "rank": 5,
+      "keyword": "서울경제",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "최불암",
+      "traffic": "20000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "스페인 축구 국가대표팀",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "이병헌",
       "traffic": "500+"
+    },
+    {
+      "rank": 9,
+      "keyword": "성과급",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 10,
+      "keyword": "장경수",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "68명 스페인 열차 참사",
-      "state": "n",
+      "keyword": "최불암 별세",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김도영 역전 솔로포",
+      "keyword": "류지혁 역전 투런포",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "미라 시신 유기 2명 구속",
-      "state": "s",
+      "keyword": "승리의 미소 박진만",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "옥주현, 한남더힐 경매 채무 정리",
-      "state": "n",
-      "change": "0"
+      "keyword": "경기 버스 노사 협상 타결",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "대통령 표창 수상자들",
-      "state": "-",
+      "keyword": "9월 PCE 물가 3.6% 상승",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "윤석열 2심 사형 구형",
-      "state": "n",
-      "change": "0"
+      "keyword": "구로 시신유기 영장 기각",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "모친상 3일전 오마카세 죄스러워",
+      "keyword": "개인정보 유출 사건",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "킥보드로 차량 파손",
-      "state": "+",
-      "change": "2"
+      "keyword": "이태원 참사 유가족 위로",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "30만원 미구매 감금",
+      "keyword": "ECB 금리 동결 2.50%",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이상미, 엄마 그리워하는 근황",
-      "state": "n",
-      "change": "0"
+      "keyword": "오윤아 4살 연하 남편 사랑해",
+      "state": "+",
+      "change": "2"
     }
   ]
 }
