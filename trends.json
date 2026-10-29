@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-29T19:32:58.385Z",
+  "updatedAt": "2026-10-29T23:32:44.307Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "알나스르 대 알콜루드 클럽",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "최준희",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "신구",
+      "keyword": "브래드 갈링하우스",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "붉은사막 dlc",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "도경완",
+      "traffic": "2000+"
+    },
+    {
       "rank": 4,
-      "keyword": "설인아",
+      "keyword": "폐기물",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "서울경제",
+      "keyword": "아마존 주가",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "최불암",
-      "traffic": "20000+"
+      "keyword": "거점국립대학교",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "스페인 축구 국가대표팀",
-      "traffic": "200+"
+      "keyword": "england cricket team vs sri lanka national cricket team standings",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "이병헌",
-      "traffic": "500+"
+      "keyword": "al-nassr vs al kholood standings",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "성과급",
-      "traffic": "5000+"
+      "keyword": "al nassr",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "장경수",
-      "traffic": "1000+"
+      "keyword": "이상순",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "최불암 별세",
+      "keyword": "최불암 마지막 인사",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "류지혁 역전 투런포",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "승리의 미소 박진만",
+      "keyword": "김정은 전시회 참관",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "경기 버스 노사 협상 타결",
+      "rank": 3,
+      "keyword": "바이낸스 해킹 피해 57억 규모",
       "state": "+",
-      "change": "1"
+      "change": "4"
+    },
+    {
+      "rank": 4,
+      "keyword": "강균성 유하진 오늘 결혼",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "9월 PCE 물가 3.6% 상승",
-      "state": "+",
-      "change": "1"
+      "keyword": "경기버스 극적 합의",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "구로 시신유기 영장 기각",
-      "state": "-",
-      "change": "3"
+      "keyword": "유재석 문화훈장 수여",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "개인정보 유출 사건",
+      "keyword": "김성우 아내 강간혐의",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이태원 참사 유가족 위로",
-      "state": "-",
-      "change": "1"
+      "keyword": "AI 투자 우려로 증시 하락",
+      "state": "+",
+      "change": "15"
     },
     {
       "rank": 9,
-      "keyword": "ECB 금리 동결 2.50%",
+      "keyword": "외국인 한달 순매도",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "오윤아 4살 연하 남편 사랑해",
-      "state": "+",
-      "change": "2"
+      "keyword": "조정석 둘째 붕어빵 닮음",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
