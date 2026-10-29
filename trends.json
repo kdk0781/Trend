@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-10-29T07:00:02.549Z",
+  "updatedAt": "2026-10-29T14:00:51.129Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "땅",
-      "traffic": "5000+"
+      "keyword": "퇴직",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "신세계",
+      "keyword": "오픈ai",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "손정범",
-      "traffic": "5000+"
+      "keyword": "지하철",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "파라타항공",
-      "traffic": "200+"
+      "keyword": "시바이누코인",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "중앙일보",
-      "traffic": "10000+"
+      "keyword": "런닝맨",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "강석우",
+      "keyword": "구속영장",
       "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "메가박스",
-      "traffic": "200+"
+      "keyword": "이승민",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "박시후",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "하남시",
+      "keyword": "김선빈",
       "traffic": "1000+"
     },
     {
-      "rank": 10,
-      "keyword": "일회용품",
+      "rank": 9,
+      "keyword": "조상우",
       "traffic": "200+"
+    },
+    {
+      "rank": 10,
+      "keyword": "매매",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "모레노 감독 명단 발표",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "오세훈 핼러윈 점검",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 3,
-      "keyword": "현대차 3분기 5.5%↑",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "북 탄도미사일 발사",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "국산 비만약 에페 처방 시작",
+      "keyword": "68명 스페인 열차 참사",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "담배 유해성분 검사 확대",
+      "rank": 2,
+      "keyword": "김도영 역전 솔로포",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 3,
+      "keyword": "미라 시신 유기 2명 구속",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "옥주현, 한남더힐 경매 채무 정리",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "대통령 표창 수상자들",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "윤석열 2심 사형 구형",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "어도어 뉴진스 MV 승소 10억 배상",
+      "keyword": "모친상 3일전 오마카세 죄스러워",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이태원 참사 4주기 추모",
-      "state": "s",
-      "change": "0"
+      "keyword": "킥보드로 차량 파손",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "김포 고촌 신규 후보지",
-      "state": "s",
+      "keyword": "30만원 미구매 감금",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "신세계, 롯데 센텀 인수",
-      "state": "s",
+      "keyword": "이상미, 엄마 그리워하는 근황",
+      "state": "n",
       "change": "0"
     }
   ]
