@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-30T02:52:43.336Z",
+  "updatedAt": "2026-10-30T09:20:24.207Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "강균성",
-      "traffic": "2000+"
+      "keyword": "자산",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "한국장학재단",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "재판",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "어쌔신 크리드",
+      "keyword": "극한 직업",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "생계",
+      "traffic": "500+"
+    },
+    {
+      "rank": 4,
+      "keyword": "000660",
+      "traffic": "2000+"
+    },
+    {
       "rank": 5,
-      "keyword": "중공업",
-      "traffic": "1000+"
+      "keyword": "보안 취약점",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "비트코인 시세",
-      "traffic": "100+"
+      "keyword": "009150",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "삼성그룹",
-      "traffic": "10000+"
+      "keyword": "오산대",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "binance",
-      "traffic": "100+"
+      "keyword": "김하성",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "카드뉴스",
-      "traffic": "100+"
+      "keyword": "골프장",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "항공대",
-      "traffic": "100+"
+      "keyword": "스타벅스 광주지산유원지입구점",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "최불암 추모 문화예술계 큰 별",
+      "keyword": "차예련 학폭 의혹 부인",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "코스피 매도 사이드카 발동",
+      "keyword": "코스피 급락 마감",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "발언하는 김민석 대표",
+      "keyword": "故 최불암 추모의 길",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "SK그룹 사장단 인사",
+      "keyword": "KIA 이범호 감독 승부수",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "LG CNS 3분기 영업익 1382억",
-      "state": "s",
-      "change": "0"
+      "keyword": "인천공항 항공사 발권",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "주상욱, 낚시 못 간 이유는 차예련 허락 없어서",
+      "keyword": "뮤지컬 마제스티 언론시연",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "김은중호, 11월 멕시코와 2연전",
-      "state": "n",
-      "change": "0"
+      "keyword": "김기현 1심 무죄 소식",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "장동혁의 박정희 생가 방문",
+      "keyword": "GS건설 아파트 개인정보 유출",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "고용진 총장 업무보고",
+      "keyword": "특검 중앙선관위 압수수색",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "계엄 회동 전직 군인 무죄",
+      "keyword": "G마켓 E쿠폰 무단 사용 확인",
       "state": "n",
       "change": "0"
     }
