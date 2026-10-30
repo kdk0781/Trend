@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-30T16:05:42.275Z",
+  "updatedAt": "2026-10-30T20:41:42.242Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이태원",
+      "keyword": "엘버스베르크 대 마인츠 05",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "크랙",
-      "traffic": "500+"
-    },
-    {
-      "rank": 3,
-      "keyword": "한화시스템",
+      "keyword": "le havre vs psg",
       "traffic": "200+"
     },
     {
-      "rank": 4,
-      "keyword": "김민",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "경기도교육감",
+      "rank": 3,
+      "keyword": "나스닥",
       "traffic": "100+"
     },
     {
+      "rank": 4,
+      "keyword": "트위치",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "르아브르 ac 대 psg",
+      "traffic": "2000+"
+    },
+    {
       "rank": 6,
-      "keyword": "intc",
+      "keyword": "중간선거",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "원자력",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "은마아파트",
+      "keyword": "카를로스 알카라스",
       "traffic": "500+"
     },
     {
+      "rank": 8,
+      "keyword": "핼러윈",
+      "traffic": "1000+"
+    },
+    {
       "rank": 9,
-      "keyword": "에릭남",
-      "traffic": "200+"
+      "keyword": "김혜자",
+      "traffic": "10000+"
     },
     {
       "rank": 10,
-      "keyword": "가을",
-      "traffic": "200+"
+      "keyword": "trick or treat",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "최불암, 영원히 기억하겠습니다.",
+      "keyword": "최불암, 아름다운 동행",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "최형우 솔로포 선두",
-      "state": "s",
-      "change": "0"
+      "keyword": "차예련, 학폭 의혹 강경 부인",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 3,
-      "keyword": "KIA PO 4차전 승리",
+      "keyword": "이범호 감독 KIA 5차전 도전",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "포스코 기본급 2.6% 인상 합의",
-      "state": "n",
-      "change": "0"
+      "keyword": "동료에 흉기 난동 역무원 구속",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "특검, 투표지 보전 요청",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "삼성, 개막 9연승 질주",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "인천공항 시스템 복구 완료",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "이태원 순찰하는 경찰특공대",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "페덱의 삼진 환호",
+      "keyword": "팬들 만난 화이트 스콜피온",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "위성락, 스위스 장관 면담",
+      "state": "-",
+      "change": "3"
+    },
+    {
+      "rank": 7,
+      "keyword": "삼성 9연승 달성",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "닥터X 5·18 헬기 사격",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "우리가 사랑을 날",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 10,
-      "keyword": "아파트 입주민 개인정보 유출",
+      "keyword": "2026년 10월 31일 운세",
       "state": "n",
       "change": "0"
     }
