@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-29T23:32:44.307Z",
+  "updatedAt": "2026-10-30T02:52:43.336Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "브래드 갈링하우스",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "붉은사막 dlc",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "도경완",
+      "keyword": "강균성",
       "traffic": "2000+"
     },
     {
+      "rank": 2,
+      "keyword": "한국장학재단",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "재판",
+      "traffic": "1000+"
+    },
+    {
       "rank": 4,
-      "keyword": "폐기물",
+      "keyword": "어쌔신 크리드",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "아마존 주가",
-      "traffic": "200+"
+      "keyword": "중공업",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "거점국립대학교",
+      "keyword": "비트코인 시세",
       "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "england cricket team vs sri lanka national cricket team standings",
-      "traffic": "2000+"
+      "keyword": "삼성그룹",
+      "traffic": "10000+"
     },
     {
       "rank": 8,
-      "keyword": "al-nassr vs al kholood standings",
-      "traffic": "200+"
+      "keyword": "binance",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "al nassr",
-      "traffic": "200+"
+      "keyword": "카드뉴스",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "이상순",
-      "traffic": "200+"
+      "keyword": "항공대",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "최불암 마지막 인사",
+      "keyword": "최불암 추모 문화예술계 큰 별",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김정은 전시회 참관",
-      "state": "n",
+      "keyword": "코스피 매도 사이드카 발동",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "바이낸스 해킹 피해 57억 규모",
-      "state": "+",
-      "change": "4"
+      "keyword": "발언하는 김민석 대표",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "강균성 유하진 오늘 결혼",
-      "state": "n",
+      "keyword": "SK그룹 사장단 인사",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "경기버스 극적 합의",
-      "state": "-",
-      "change": "2"
+      "keyword": "LG CNS 3분기 영업익 1382억",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "유재석 문화훈장 수여",
+      "keyword": "주상욱, 낚시 못 간 이유는 차예련 허락 없어서",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "김성우 아내 강간혐의",
+      "keyword": "김은중호, 11월 멕시코와 2연전",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "AI 투자 우려로 증시 하락",
-      "state": "+",
-      "change": "15"
+      "keyword": "장동혁의 박정희 생가 방문",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "외국인 한달 순매도",
+      "keyword": "고용진 총장 업무보고",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "조정석 둘째 붕어빵 닮음",
+      "keyword": "계엄 회동 전직 군인 무죄",
       "state": "n",
       "change": "0"
     }
