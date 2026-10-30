@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-30T09:20:24.207Z",
+  "updatedAt": "2026-10-30T16:05:42.275Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "자산",
-      "traffic": "1000+"
+      "keyword": "이태원",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "극한 직업",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "생계",
+      "keyword": "크랙",
       "traffic": "500+"
     },
     {
-      "rank": 4,
-      "keyword": "000660",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "보안 취약점",
+      "rank": 3,
+      "keyword": "한화시스템",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "김민",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "경기도교육감",
+      "traffic": "100+"
+    },
+    {
       "rank": 6,
-      "keyword": "009150",
-      "traffic": "1000+"
+      "keyword": "intc",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "오산대",
+      "keyword": "원자력",
       "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "김하성",
-      "traffic": "2000+"
+      "keyword": "은마아파트",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "골프장",
-      "traffic": "500+"
+      "keyword": "에릭남",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "스타벅스 광주지산유원지입구점",
-      "traffic": "500+"
+      "keyword": "가을",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "차예련 학폭 의혹 부인",
+      "keyword": "최불암, 영원히 기억하겠습니다.",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "코스피 급락 마감",
+      "keyword": "최형우 솔로포 선두",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "故 최불암 추모의 길",
+      "keyword": "KIA PO 4차전 승리",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "KIA 이범호 감독 승부수",
-      "state": "s",
+      "keyword": "포스코 기본급 2.6% 인상 합의",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "인천공항 항공사 발권",
-      "state": "+",
-      "change": "1"
+      "keyword": "특검, 투표지 보전 요청",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "뮤지컬 마제스티 언론시연",
-      "state": "+",
-      "change": "1"
+      "keyword": "삼성, 개막 9연승 질주",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김기현 1심 무죄 소식",
-      "state": "-",
-      "change": "1"
+      "keyword": "인천공항 시스템 복구 완료",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "GS건설 아파트 개인정보 유출",
-      "state": "n",
+      "keyword": "이태원 순찰하는 경찰특공대",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "특검 중앙선관위 압수수색",
-      "state": "n",
-      "change": "0"
+      "keyword": "페덱의 삼진 환호",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "G마켓 E쿠폰 무단 사용 확인",
+      "keyword": "아파트 입주민 개인정보 유출",
       "state": "n",
       "change": "0"
     }
