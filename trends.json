@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-31T11:03:31.443Z",
+  "updatedAt": "2026-10-31T16:01:31.625Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "첼시 맨유",
-      "traffic": "200+"
+      "keyword": "카를로스 알카라스",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "싱가포르",
-      "traffic": "100+"
+      "keyword": "맨 시티 대 브라이턴",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "재건축",
-      "traffic": "1000+"
+      "keyword": "고소",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "매매",
-      "traffic": "500+"
+      "keyword": "광규",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "광주 fc 대 김천상무 순위",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "김태희",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "인턴",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "전상현",
+      "keyword": "브렌트퍼드 대 노팅엄 포레스트",
       "traffic": "500+"
     },
     {
+      "rank": 6,
+      "keyword": "빅터 레이예스",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "기상",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "닥터 x",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "k리그2",
+      "keyword": "아우크스부르크 대 sc 프라이부르크",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "용인fc 대 서울 이랜드 fc 순위",
-      "traffic": "200+"
+      "keyword": "알리 광군제",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "임형주, 이모부 최불암 빈소 방문",
+      "keyword": "재난안전 본부장 핼러윈 안전 점검",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "차예련 학폭 의혹",
+      "keyword": "故 최불암 빈소 애도 잇따라",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "제주 옹기 명장 강승철",
-      "state": "s",
+      "keyword": "노시환 MLB 포스팅 도전",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "KCC, DB 잡고 7연패 탈출",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "이재명 대통령 영양 찾음",
+      "keyword": "학폭 부인 차예련, 추가 폭로로 논란",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 5,
+      "keyword": "100일의 거짓말",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 6,
-      "keyword": "첫 홀 버디 성공!",
-      "state": "n",
+      "keyword": "닥터X 시청률 3% 하락",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "불후의 명곡",
-      "state": "n",
+      "keyword": "버디 퍼트 들어가라",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "코리아 그랜드 페스티벌 개막",
-      "state": "n",
+      "keyword": "李대통령 농어촌 소득 확대 필요",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "김동현, 압구정 100억 집주인",
+      "keyword": "너 말고 다른 연애",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "그것이 알고 싶다",
-      "state": "-",
-      "change": "1"
+      "keyword": "코리아 그랜드 페스티벌",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
