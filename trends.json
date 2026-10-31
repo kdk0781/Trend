@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-31T00:07:43.621Z",
+  "updatedAt": "2026-10-31T05:29:07.694Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "sk 사장단 인사",
-      "traffic": "100+"
+      "keyword": "전북 대 대전",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "우주선",
+      "keyword": "인도네시아",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "샌디스크",
+      "keyword": "bangladesh vs west indies",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "lcs",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "직장폐쇄",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "테슬라",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "증여",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "실업급여",
-      "traffic": "100+"
-    },
-    {
-      "rank": 9,
-      "keyword": "박서진",
+      "keyword": "jtbc",
       "traffic": "200+"
     },
     {
+      "rank": 5,
+      "keyword": "이지현",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "제주 삼다수",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "india vs uae",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "jtbc 마라톤",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "공휴일",
+      "traffic": "2000+"
+    },
+    {
       "rank": 10,
-      "keyword": "이수현",
-      "traffic": "10000+"
+      "keyword": "warriors vs lakers",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "차예련 학폭 논란",
-      "state": "+",
-      "change": "1"
+      "keyword": "최불암 장례미사 아베 마리아",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "최불암, 빈소서 눈물 흘리다",
-      "state": "-",
+      "keyword": "강민호 배우",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "완전한 비핵화 의지 재확인",
-      "state": "+",
-      "change": "1"
+      "keyword": "축사하는 김민석 대표",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "트럼프, 바이낸스 해킹 여부 살펴봐",
-      "state": "-",
-      "change": "1"
+      "keyword": "코피 터지는 해외순방",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "AI 우려로 뉴욕증시 하락",
+      "keyword": "김광규 연희동 집 마련 28년 걸림",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "서현진 첫 데이트 성폭행 신고",
-      "state": "n",
-      "change": "0"
+      "keyword": "버스 노선 확인 시민들",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "길음동 아파트 화재 대피",
+      "keyword": "최민정, 전 종목 조 1위 통과",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "사이코패스 구단 비난 폭주",
+      "keyword": "김동현 100억 아파트 50억 대출",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "미쳤다 KIA 결승서",
-      "state": "+",
-      "change": "1"
+      "keyword": "안나 유방암 3기 전이",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "가족 때문에 싱글맘 불행",
+      "keyword": "와이스 FA 재도전",
       "state": "n",
       "change": "0"
     }
