@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-31T19:54:10.384Z",
+  "updatedAt": "2026-10-31T22:56:40.251Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "레알 베티스 대 말라가",
-      "traffic": "100+"
+      "keyword": "날씨",
+      "traffic": "500000+"
     },
     {
       "rank": 2,
-      "keyword": "spurs vs palace",
-      "traffic": "100+"
+      "keyword": "weather",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "토트넘",
-      "traffic": "1000+"
+      "keyword": "사랑이 온다",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "바이에른 뮌헨",
-      "traffic": "200+"
+      "keyword": "thời tiết",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "트위치",
-      "traffic": "200+"
+      "keyword": "天気",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "twitch",
-      "traffic": "200+"
+      "keyword": "가격 지지",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "바이에른 대 도르트문트",
-      "traffic": "5000+"
+      "keyword": "สภาพอากาศ",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "헐 시티 대 입스위치",
+      "keyword": "오픈ai",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "크리스타 파이크",
-      "traffic": "500+"
+      "keyword": "최민정",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "npl",
-      "traffic": "100+"
+      "keyword": "태풍",
+      "traffic": "20000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "핼러윈 인파 이태원역 무정차",
+      "keyword": "이태원역 무정차 통과",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "오지명, 최불암 먼저 가야 했는데 미안해",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "이강인 아틀레티코 선두 도약",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "100일의 거짓말",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "학폭 부인 차예련, 알지 않나?",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "1248회 로또 1등 15명 각 19억",
+      "keyword": "최불암 빈소 조문한 오지명",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "트럼프, 김정은과 대화 준비 중",
+      "rank": 3,
+      "keyword": "차예련, 추가 폭로에 발칵",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "100일의 거짓말",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "이강인 선두 도약",
       "state": "+",
-      "change": "3"
+      "change": "5"
+    },
+    {
+      "rank": 6,
+      "keyword": "트럼프, 김정은 대화 준비",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "악뮤 집 공개, 동거 제안",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "제2회 그랜드 페스티벌 개막",
+      "keyword": "맨유, 9경기 무승 최악 상황",
       "state": "+",
-      "change": "3"
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "임진택씨 모친상",
-      "state": "-",
-      "change": "1"
+      "keyword": "여은, 사랑이 온다 OST 발매",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 10,
-      "keyword": "버디 퍼트 들어가라",
-      "state": "-",
-      "change": "1"
+      "keyword": "전국 아침 최저 3도",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
