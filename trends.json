@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-10-30T20:41:42.242Z",
+  "updatedAt": "2026-10-31T00:07:43.621Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "엘버스베르크 대 마인츠 05",
-      "traffic": "200+"
+      "keyword": "sk 사장단 인사",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "le havre vs psg",
-      "traffic": "200+"
+      "keyword": "우주선",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "나스닥",
+      "keyword": "샌디스크",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "트위치",
-      "traffic": "200+"
+      "keyword": "lcs",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "르아브르 ac 대 psg",
-      "traffic": "2000+"
+      "keyword": "직장폐쇄",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "중간선거",
-      "traffic": "200+"
+      "keyword": "테슬라",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "카를로스 알카라스",
+      "keyword": "증여",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "핼러윈",
-      "traffic": "1000+"
+      "keyword": "실업급여",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "김혜자",
-      "traffic": "10000+"
+      "keyword": "박서진",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "trick or treat",
-      "traffic": "100+"
+      "keyword": "이수현",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "최불암, 아름다운 동행",
-      "state": "s",
-      "change": "0"
+      "keyword": "차예련 학폭 논란",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "차예련, 학폭 의혹 강경 부인",
-      "state": "+",
-      "change": "2"
+      "keyword": "최불암, 빈소서 눈물 흘리다",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "이범호 감독 KIA 5차전 도전",
-      "state": "s",
-      "change": "0"
+      "keyword": "완전한 비핵화 의지 재확인",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "동료에 흉기 난동 역무원 구속",
-      "state": "+",
-      "change": "3"
+      "keyword": "트럼프, 바이낸스 해킹 여부 살펴봐",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "팬들 만난 화이트 스콜피온",
-      "state": "+",
-      "change": "1"
+      "keyword": "AI 우려로 뉴욕증시 하락",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "위성락, 스위스 장관 면담",
-      "state": "-",
-      "change": "3"
+      "keyword": "서현진 첫 데이트 성폭행 신고",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "삼성 9연승 달성",
-      "state": "-",
-      "change": "2"
+      "keyword": "길음동 아파트 화재 대피",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "닥터X 5·18 헬기 사격",
-      "state": "-",
-      "change": "1"
+      "keyword": "사이코패스 구단 비난 폭주",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "우리가 사랑을 날",
-      "state": "-",
+      "keyword": "미쳤다 KIA 결승서",
+      "state": "+",
       "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "2026년 10월 31일 운세",
+      "keyword": "가족 때문에 싱글맘 불행",
       "state": "n",
       "change": "0"
     }
