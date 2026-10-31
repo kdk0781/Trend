@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-31T16:01:31.625Z",
+  "updatedAt": "2026-10-31T19:54:10.384Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "카를로스 알카라스",
-      "traffic": "500+"
+      "keyword": "레알 베티스 대 말라가",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "맨 시티 대 브라이턴",
-      "traffic": "5000+"
+      "keyword": "spurs vs palace",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "고소",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "광규",
+      "keyword": "토트넘",
       "traffic": "1000+"
     },
     {
+      "rank": 4,
+      "keyword": "바이에른 뮌헨",
+      "traffic": "200+"
+    },
+    {
       "rank": 5,
-      "keyword": "브렌트퍼드 대 노팅엄 포레스트",
-      "traffic": "500+"
+      "keyword": "트위치",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "빅터 레이예스",
+      "keyword": "twitch",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "기상",
-      "traffic": "200+"
+      "keyword": "바이에른 대 도르트문트",
+      "traffic": "5000+"
     },
     {
       "rank": 8,
-      "keyword": "닥터 x",
-      "traffic": "200+"
+      "keyword": "헐 시티 대 입스위치",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "아우크스부르크 대 sc 프라이부르크",
+      "keyword": "크리스타 파이크",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "알리 광군제",
+      "keyword": "npl",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "재난안전 본부장 핼러윈 안전 점검",
+      "keyword": "핼러윈 인파 이태원역 무정차",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "故 최불암 빈소 애도 잇따라",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "노시환 MLB 포스팅 도전",
+      "keyword": "오지명, 최불암 먼저 가야 했는데 미안해",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "학폭 부인 차예련, 추가 폭로로 논란",
+      "rank": 3,
+      "keyword": "이강인 아틀레티코 선두 도약",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "keyword": "100일의 거짓말",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "학폭 부인 차예련, 알지 않나?",
       "state": "-",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "닥터X 시청률 3% 하락",
+      "keyword": "1248회 로또 1등 15명 각 19억",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "버디 퍼트 들어가라",
-      "state": "s",
-      "change": "0"
+      "keyword": "트럼프, 김정은과 대화 준비 중",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "李대통령 농어촌 소득 확대 필요",
-      "state": "s",
-      "change": "0"
+      "keyword": "제2회 그랜드 페스티벌 개막",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "너 말고 다른 연애",
-      "state": "n",
-      "change": "0"
+      "keyword": "임진택씨 모친상",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "코리아 그랜드 페스티벌",
-      "state": "n",
-      "change": "0"
+      "keyword": "버디 퍼트 들어가라",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
