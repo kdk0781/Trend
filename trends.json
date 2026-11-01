@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-10-31T22:56:40.251Z",
+  "updatedAt": "2026-11-01T01:47:53.108Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "날씨",
-      "traffic": "500000+"
+      "keyword": "lyon",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "weather",
-      "traffic": "2000+"
+      "keyword": "한화생명 e스포츠",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "사랑이 온다",
+      "keyword": "골키퍼",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "thời tiết",
+      "keyword": "화재",
       "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "天気",
-      "traffic": "100+"
+      "keyword": "정전",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "가격 지지",
-      "traffic": "100+"
+      "keyword": "자폭형 무인 항공기",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "สภาพอากาศ",
-      "traffic": "2000+"
+      "keyword": "이찬원",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "오픈ai",
+      "keyword": "gs건설",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "최민정",
+      "keyword": "테일러 프리츠",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "태풍",
-      "traffic": "20000+"
+      "keyword": "메이저 리그 베이스볼",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이태원역 무정차 통과",
+      "keyword": "10월 수출 2개월 연속",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "최불암 빈소 조문한 오지명",
+      "keyword": "최불암 떠나자 60년 인연",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "차예련, 추가 폭로에 발칵",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "100일의 거짓말",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "이강인 선두 도약",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 6,
-      "keyword": "트럼프, 김정은 대화 준비",
+      "keyword": "차예련 딸 학폭 의혹",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 7,
-      "keyword": "악뮤 집 공개, 동거 제안",
+      "rank": 4,
+      "keyword": "윤종훈♥한은서, 오늘 결혼식 개최",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "엄지성 시즌 3호 도움",
       "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 6,
+      "keyword": "삼성전자 AI 가전 크루 출범",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "SKT AX 혁신 2.0 추진",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "맨유, 9경기 무승 최악 상황",
-      "state": "+",
-      "change": "1"
+      "keyword": "닥터X 시청률 하락 심각하다",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 9,
-      "keyword": "여은, 사랑이 온다 OST 발매",
-      "state": "+",
-      "change": "4"
+      "keyword": "이경실, 아파트 경매 위기",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "전국 아침 최저 3도",
-      "state": "n",
-      "change": "0"
+      "keyword": "김민재 뮌헨, 도르트문트와 2-2 비김",
+      "state": "-",
+      "change": "5"
     }
   ]
 }
