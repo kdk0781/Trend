@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-11-01T19:42:34.246Z",
+  "updatedAt": "2026-11-01T23:07:07.593Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "프리미어리그 순위",
+      "keyword": "구미시",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "킬리안 음바페",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "ลิเวอร์พูล พบ อาร์เซนอล",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "레알마드리드",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "liverpool vs arsenal",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "리버풀 대 아스널",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "라치오",
+      "keyword": "지소연",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "klasemen liverpool vs arsenal",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "사학연금",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "김호령",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "파업",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "미국 중간선거",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "스타링크",
+      "keyword": "신인감독 김연경",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "расинг – реал мадрид",
-      "traffic": "200+"
+      "keyword": "kia 타이거즈",
+      "traffic": "200000+"
     },
     {
       "rank": 10,
-      "keyword": "racing santander vs madrid",
+      "keyword": "klasemen racing santander vs real madrid",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "소연, 결혼 4년 만에 임신",
+      "keyword": "비트코인 북한, 테슬라 보유량 초과",
       "state": "+",
-      "change": "1"
+      "change": "8"
     },
     {
       "rank": 2,
-      "keyword": "너 말고 다른 연애",
-      "state": "+",
-      "change": "84"
+      "keyword": "차예련 학폭 의혹",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "차예련 학폭 부인과 역풍",
-      "state": "-",
-      "change": "2"
+      "keyword": "영원한 아버지 최불암 발인",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "KT-1 훈련기 충돌없음",
-      "state": "-",
-      "change": "1"
+      "keyword": "100일의 거짓말",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "로드FC와 파이팅 포즈",
-      "state": "-",
-      "change": "1"
+      "keyword": "김리안-손진현 기자, 버디 성공!",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "100일의 거짓말",
-      "state": "-",
-      "change": "1"
+      "keyword": "너 말고 다른 연애",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "2026년 11월 2일 운세",
+      "keyword": "네타냐후, 중간선거 후 이란 압박",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "최강창민 5살 아들 자랑",
-      "state": "s",
-      "change": "0"
+      "keyword": "2026년 11월 2일 운세",
+      "state": "-",
+      "change": "6"
     },
     {
       "rank": 9,
-      "keyword": "바이낸스 해킹 북한 소행",
-      "state": "-",
-      "change": "2"
+      "keyword": "사랑이 온다",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "김리안-손진현 기자 버디 성공",
-      "state": "s",
+      "keyword": "김리안 은퇴 경기",
+      "state": "n",
       "change": "0"
     }
   ]
