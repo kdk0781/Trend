@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-11-01T15:13:35.158Z",
+  "updatedAt": "2026-11-01T19:42:34.246Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "우니온 베를린 대 쾰른",
-      "traffic": "500+"
+      "keyword": "프리미어리그 순위",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "코리아 오픈",
+      "keyword": "킬리안 음바페",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "손석구",
-      "traffic": "500+"
+      "keyword": "ลิเวอร์พูล พบ อาร์เซนอล",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "전국노래자랑",
-      "traffic": "200+"
+      "keyword": "레알마드리드",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "중산층",
-      "traffic": "2000+"
+      "keyword": "liverpool vs arsenal",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "배용준",
-      "traffic": "200+"
+      "keyword": "리버풀 대 아스널",
+      "traffic": "10000+"
     },
     {
       "rank": 7,
-      "keyword": "살림하는 남자들",
+      "keyword": "라치오",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "김건모",
-      "traffic": "500+"
+      "keyword": "스타링크",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "이봉주",
-      "traffic": "100+"
+      "keyword": "расинг – реал мадрид",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "롯데그룹",
+      "keyword": "racing santander vs madrid",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "정애연, 화장 안 지우고 외출 복장으로 취침",
-      "state": "s",
-      "change": "0"
+      "keyword": "소연, 결혼 4년 만에 임신",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "주진우 총선 개표 허위입력",
-      "state": "n",
-      "change": "0"
+      "keyword": "너 말고 다른 연애",
+      "state": "+",
+      "change": "84"
     },
     {
       "rank": 3,
-      "keyword": "너 말고 다른 연애",
-      "state": "s",
-      "change": "0"
+      "keyword": "차예련 학폭 부인과 역풍",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "100일의 거짓말",
+      "keyword": "KT-1 훈련기 충돌없음",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "차예련 학폭 주상욱에",
-      "state": "n",
-      "change": "0"
+      "keyword": "로드FC와 파이팅 포즈",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "술 취한 지인 성폭행 3년형",
-      "state": "n",
-      "change": "0"
+      "keyword": "100일의 거짓말",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "소연, 조유민과 결혼 4년 만에 임신",
+      "keyword": "2026년 11월 2일 운세",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "금호타이어 광주공장 사고",
-      "state": "n",
+      "keyword": "최강창민 5살 아들 자랑",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "진성준 국방위원장 미국 출국",
+      "keyword": "바이낸스 해킹 북한 소행",
       "state": "-",
       "change": "2"
     },
     {
       "rank": 10,
-      "keyword": "로드FC와 파이팅 포즈",
-      "state": "+",
-      "change": "9"
+      "keyword": "김리안-손진현 기자 버디 성공",
+      "state": "s",
+      "change": "0"
     }
   ]
 }
