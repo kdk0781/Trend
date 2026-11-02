@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-01T23:07:07.593Z",
+  "updatedAt": "2026-11-02T02:24:09.829Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "구미시",
+      "keyword": "lg화학",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "지소연",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "klasemen liverpool vs arsenal",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "사학연금",
+      "keyword": "정의선",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "골든 스테이트 대 la 클리퍼스",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "영광",
+      "traffic": "100+"
+    },
+    {
       "rank": 5,
-      "keyword": "김호령",
-      "traffic": "5000+"
+      "keyword": "한남더힐 아파트",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "파업",
+      "keyword": "t 멤버십",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "미국 중간선거",
-      "traffic": "200+"
+      "keyword": "삼성증권",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "신인감독 김연경",
+      "keyword": "new england vs inter miami",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "kia 타이거즈",
-      "traffic": "200000+"
+      "keyword": "november",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "klasemen racing santander vs real madrid",
-      "traffic": "200+"
+      "keyword": "한국투자증권",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "비트코인 북한, 테슬라 보유량 초과",
-      "state": "+",
-      "change": "8"
+      "keyword": "국회 시정연설 이재명",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "차예련 학폭 의혹",
-      "state": "-",
-      "change": "1"
+      "keyword": "최불암 장례 미사",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "영원한 아버지 최불암 발인",
-      "state": "s",
+      "keyword": "이만희 총회장 법원 출석",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "100일의 거짓말",
-      "state": "s",
-      "change": "0"
+      "keyword": "코스피 하락 출발",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "김리안-손진현 기자, 버디 성공!",
+      "keyword": "LG CNS 해외 AI센터 구축",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "너 말고 다른 연애",
-      "state": "s",
-      "change": "0"
+      "keyword": "박항서 인종차별 분노 폭발",
+      "state": "+",
+      "change": "12"
     },
     {
       "rank": 7,
-      "keyword": "네타냐후, 중간선거 후 이란 압박",
+      "keyword": "차예련 학폭 의혹 논란",
+      "state": "-",
+      "change": "5"
+    },
+    {
+      "rank": 8,
+      "keyword": "특검 중앙선관위 압수수색",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "2026년 11월 2일 운세",
-      "state": "-",
-      "change": "6"
-    },
-    {
       "rank": 9,
-      "keyword": "사랑이 온다",
-      "state": "+",
-      "change": "3"
+      "keyword": "KT, 3G 가입 중단",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김리안 은퇴 경기",
+      "keyword": "신세경 악플러 항소심 징역 8개월",
       "state": "n",
       "change": "0"
     }
