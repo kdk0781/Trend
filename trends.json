@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-11-02T02:24:09.829Z",
+  "updatedAt": "2026-11-02T09:43:47.684Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "lg화학",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "정의선",
+      "keyword": "하사 사망",
       "traffic": "200+"
     },
     {
-      "rank": 3,
-      "keyword": "골든 스테이트 대 la 클리퍼스",
-      "traffic": "2000+"
+      "rank": 2,
+      "keyword": "김장훈",
+      "traffic": "500+"
     },
     {
-      "rank": 4,
-      "keyword": "영광",
+      "rank": 3,
+      "keyword": "신영우",
       "traffic": "100+"
     },
     {
+      "rank": 4,
+      "keyword": "현대 제네시스",
+      "traffic": "500+"
+    },
+    {
       "rank": 5,
-      "keyword": "한남더힐 아파트",
-      "traffic": "1000+"
+      "keyword": "홋카이도 닛폰햄 파이터스",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "t 멤버십",
+      "keyword": "원익홀딩스",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "삼성증권",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "new england vs inter miami",
+      "keyword": "박수현",
       "traffic": "200+"
     },
     {
+      "rank": 8,
+      "keyword": "코스피",
+      "traffic": "5000+"
+    },
+    {
       "rank": 9,
-      "keyword": "november",
-      "traffic": "100+"
+      "keyword": "k리그",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "한국투자증권",
-      "traffic": "100+"
+      "keyword": "고령화",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "국회 시정연설 이재명",
-      "state": "s",
+      "keyword": "현대차 10월 판매 감소",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "최불암 장례 미사",
-      "state": "n",
-      "change": "0"
+      "keyword": "싸이커스 민재 첫 프로듀싱 성공",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 3,
-      "keyword": "이만희 총회장 법원 출석",
+      "keyword": "경찰 수사개혁위 권고안 발표",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 4,
+      "keyword": "김민수 윤도영 김예건 합류",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "코스피 하락 출발",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 5,
-      "keyword": "LG CNS 해외 AI센터 구축",
-      "state": "s",
-      "change": "0"
+      "keyword": "사랑꾼 차예련과 주상욱 결혼 이유",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "박항서 인종차별 분노 폭발",
-      "state": "+",
-      "change": "12"
+      "keyword": "낮과 밤은 서로에게",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "차예련 학폭 의혹 논란",
+      "keyword": "애경산업 3분기 최고 매출 적자",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "송미령 장관, 벼 수확 참여",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "삼성SDS 구미 AI센터 착공",
       "state": "-",
       "change": "5"
     },
     {
-      "rank": 8,
-      "keyword": "특검 중앙선관위 압수수색",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "KT, 3G 가입 중단",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 10,
-      "keyword": "신세경 악플러 항소심 징역 8개월",
-      "state": "n",
-      "change": "0"
+      "keyword": "조선인과 100일의 진실",
+      "state": "+",
+      "change": "4"
     }
   ]
 }
