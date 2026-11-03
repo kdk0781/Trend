@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-03T08:51:57.662Z",
+  "updatedAt": "2026-11-03T16:44:44.800Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "폴더 블 스마트 폰",
-      "traffic": "1000+"
+      "keyword": "코너 맥그리거",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "우리들의 발라드",
-      "traffic": "500+"
+      "keyword": "종합부동산세",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "한재아",
-      "traffic": "200+"
+      "keyword": "최미나수",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "아시안컵",
-      "traffic": "200+"
+      "keyword": "midterm elections 2026",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "전투기",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "where to vote",
+      "keyword": "한국항공우주산업",
       "traffic": "500+"
     },
     {
-      "rank": 7,
-      "keyword": "삼성",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "어린이",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "스테픈 커리",
+      "rank": 6,
+      "keyword": "small business",
       "traffic": "200+"
     },
     {
+      "rank": 7,
+      "keyword": "폰지 사기",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "사토시",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "내장산ic",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "우량주",
+      "keyword": "kbo",
       "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김자연 결혼",
+      "keyword": "KT, 한국시리즈 1차전 승리",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "한-튀르키예 정상 부부 활동",
+      "keyword": "튀르키예 원전 방산 협력",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "KT 이강철 감독과 삼성 박진만 감독 대결",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 4,
-      "keyword": "코스피 3% 하락 마감",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "민호, 마라톤 논란 사과",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 6,
-      "keyword": "아시안컵 내년 12월로 연기",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "조작기소 특검 5일 처리",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "옆에서 숨 쉬는 게 좋아",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "교육혁신선도지역 선정",
+      "keyword": "이재현 2타점 적시타",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "한·튀르키예 정상 악수",
+      "state": "+",
+      "change": "6"
+    },
+    {
+      "rank": 5,
+      "keyword": "구자욱 투런 홈런",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "美 중간선거 개시 및 판세 예상",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "소리새 김광석 별세",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "OECD 가입 30주년 만찬",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "한학자 보석 취소",
+      "state": "-",
+      "change": "5"
+    },
+    {
       "rank": 10,
-      "keyword": "LG생활건강 3분기 영업익 52% 증가",
+      "keyword": "필수의료 수사 논의",
       "state": "n",
       "change": "0"
     }
