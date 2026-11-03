@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-02T19:48:32.014Z",
+  "updatedAt": "2026-11-03T01:50:46.798Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "에어부산",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "아이 파크 몰 용산 점",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "노숙인",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "김지영",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "김태균",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "크랙",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "걷기",
+      "keyword": "비야 디",
       "traffic": "5000+"
     },
     {
+      "rank": 2,
+      "keyword": "래블업",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "미스트롯4",
+      "traffic": "200+"
+    },
+    {
+      "rank": 4,
+      "keyword": "말자쇼",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "양주시",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "리센느 컴백",
+      "traffic": "100+"
+    },
+    {
+      "rank": 7,
+      "keyword": "단기채",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "손정범",
+      "keyword": "도지코인",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "알나스르",
-      "traffic": "100+"
+      "keyword": "매일경제",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "pakhtakor đấu với al-nassr",
-      "traffic": "100+"
+      "keyword": "제민일보",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "전한길 공소청 송치",
-      "state": "s",
-      "change": "0"
+      "keyword": "순방단 개인정보 유출 조사",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "탑 나나 생일 데이트 포착",
-      "state": "s",
-      "change": "0"
+      "keyword": "77세 이명수 연쇄방화 피의자",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "정관장, 가스공사 꺾고 3연패 탈출",
-      "state": "n",
-      "change": "0"
+      "keyword": "국정감사 국민보고 대회",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "1호기 탑승자 정보 유출",
-      "state": "s",
-      "change": "0"
+      "keyword": "출근하는 조희대 대법원장",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "신현준 김혜수의 아름다운 마음",
+      "keyword": "김빅토리아노 최불암 추모",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "필리핀 한국인 관광객 강도 사건",
+      "keyword": "아일릿과 코르티스, 日 FNS 가요제 출격!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "사랑꾼 차예련, 결혼 이유는 울타리 필요",
+      "keyword": "10월 물가 상승 2.8%",
       "state": "-",
-      "change": "1"
+      "change": "6"
     },
     {
       "rank": 8,
-      "keyword": "김원효, 심진화 명품백 선물",
-      "state": "+",
-      "change": "2"
+      "keyword": "웰컴저축은행, 에스와이 제압 2연승",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "강남 치과 임플란트 사망 사건",
+      "keyword": "지수연",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "유영 5위로 발리예바",
+      "keyword": "이재명 대통령 국무회의 참석",
       "state": "n",
       "change": "0"
     }
