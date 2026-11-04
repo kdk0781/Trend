@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-03T22:03:00.184Z",
+  "updatedAt": "2026-11-04T02:10:55.698Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "대구백화점 본점",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "villarreal vs psg",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "พยากรณ์อากาศ",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "한국경제",
+      "keyword": "서장훈",
       "traffic": "2000+"
     },
     {
+      "rank": 2,
+      "keyword": "포스코",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "대도시 특례",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "로보월드",
+      "traffic": "100+"
+    },
+    {
       "rank": 5,
-      "keyword": "man utd đấu với roma",
-      "traffic": "200+"
+      "keyword": "버거킹",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "맥주",
-      "traffic": "500+"
+      "keyword": "송중기",
+      "traffic": "10000+"
     },
     {
       "rank": 7,
-      "keyword": "라이언 와이스",
-      "traffic": "500+"
+      "keyword": "2026 us election results",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "한국수력원자력",
+      "keyword": "하트시그널",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "챔스",
-      "traffic": "500+"
+      "keyword": "홈택스 국세청",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "연금",
-      "traffic": "10000+"
+      "keyword": "근로장려금",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "쿠팡 3분기 영업손실 6423억원",
-      "state": "n",
+      "keyword": "김민석 대표의 모습",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "삼성 박진만 감독의 도전",
-      "state": "n",
+      "keyword": "미국 중간선거 운명의 날",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "32기 영수 몰카 사과",
+      "keyword": "북, 동해상 발사체 발사",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "미 중간선거 결과 주시하세요",
-      "state": "-",
-      "change": "2"
+      "keyword": "더 뉴 BMW 7시리즈 출시",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "추영우, 김소현 이별 이유",
-      "state": "-",
-      "change": "1"
+      "keyword": "서예지, 6년 만 스크린 복귀",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "최수종 하희라 재혼은 절대 안 돼",
+      "keyword": "최동원, 스포츠영웅 선정",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "아시안컵 2027년 말로 연기",
-      "state": "n",
+      "keyword": "카카오게임즈 3분기 손실 263억",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "여객기 폭파 위협",
+      "keyword": "손영권, 김자연과 결혼",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "특검, 선관위 압수수색",
       "state": "-",
       "change": "3"
     },
     {
-      "rank": 9,
-      "keyword": "유재석 감기 사태",
-      "state": "+",
-      "change": "3"
-    },
-    {
       "rank": 10,
-      "keyword": "신천지 반명 책임져야",
+      "keyword": "GS리테일 3분기 영업익 최대",
       "state": "n",
       "change": "0"
     }
