@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-11-04T02:10:55.698Z",
+  "updatedAt": "2026-11-04T09:18:32.483Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "서장훈",
-      "traffic": "2000+"
+      "keyword": "레미콘",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "포스코",
+      "keyword": "가덕도 신공항",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "대도시 특례",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "로보월드",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "버거킹",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "송중기",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "2026 us election results",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "하트시그널",
+      "keyword": "한국어",
       "traffic": "200+"
     },
     {
-      "rank": 9,
-      "keyword": "홈택스 국세청",
+      "rank": 4,
+      "keyword": "melbourne victory vs persib bandung",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "할인",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "scott colom",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "mary peltola",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "김기수",
       "traffic": "1000+"
     },
     {
+      "rank": 9,
+      "keyword": "이스타항공",
+      "traffic": "500+"
+    },
+    {
       "rank": 10,
-      "keyword": "근로장려금",
-      "traffic": "100+"
+      "keyword": "유선민 중령",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김민석 대표의 모습",
-      "state": "s",
-      "change": "0"
+      "keyword": "홍콩 ELS 과징금 3700억 확정",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 2,
-      "keyword": "미국 중간선거 운명의 날",
-      "state": "s",
-      "change": "0"
+      "keyword": "공공재개발 이재명 대통령",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "북, 동해상 발사체 발사",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "더 뉴 BMW 7시리즈 출시",
+      "keyword": "KT 이강철 감독 로건 투입 실수",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "코스닥 상승 마감",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 5,
-      "keyword": "서예지, 6년 만 스크린 복귀",
-      "state": "s",
+      "keyword": "조작기소 특검법 통과",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "최동원, 스포츠영웅 선정",
+      "keyword": "태영호 아들 징역 3년 6개월",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "카카오게임즈 3분기 손실 263억",
-      "state": "s",
-      "change": "0"
+      "keyword": "유튜브 대통령 소통",
+      "state": "-",
+      "change": "6"
     },
     {
       "rank": 8,
-      "keyword": "손영권, 김자연과 결혼",
-      "state": "n",
-      "change": "0"
+      "keyword": "차예련, 학폭 의혹 법적 대응",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "특검, 선관위 압수수색",
+      "keyword": "정하연 별세 애도",
       "state": "-",
       "change": "3"
     },
     {
       "rank": 10,
-      "keyword": "GS리테일 3분기 영업익 최대",
-      "state": "n",
+      "keyword": "특수고용노동자 결의대회",
+      "state": "s",
       "change": "0"
     }
   ]
