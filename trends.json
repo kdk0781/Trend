@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-05T02:50:14.625Z",
+  "updatedAt": "2026-11-05T10:06:03.470Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "아이폰",
+      "keyword": "유네스코",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "김대호",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "한남더힐 아파트",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "레인보우로보틱스",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "다문화 가정",
+      "keyword": "외국인",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "하이닉스",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "fifa u-17 여자 월드컵",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "어벤져스 둠스데이",
+      "traffic": "200+"
+    },
+    {
       "rank": 6,
-      "keyword": "젠지 라이언",
+      "keyword": "장동민",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "우주발사체",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "lg그룹",
+      "keyword": "시험",
       "traffic": "500+"
     },
     {
+      "rank": 8,
+      "keyword": "이동국",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "디트로이트 대 필라데피아",
-      "traffic": "1000+"
+      "keyword": "프리지아",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "한국대학신문",
-      "traffic": "100+"
+      "keyword": "위험성",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "코스피 급락 매도 사이드카",
-      "state": "+",
-      "change": "1"
+      "keyword": "최태원, 학생들과 기념촬영",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "청해부대 임무 확대",
+      "keyword": "언차일드 컴백 연기",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "쿠팡 개인정보 유출 과징금 유지",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "외치는 삼성전자 동행노조",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 3,
-      "keyword": "LG, 벡 영입!",
-      "state": "+",
+      "rank": 5,
+      "keyword": "안세영 52연승 행진",
+      "state": "-",
       "change": "2"
     },
     {
-      "rank": 4,
-      "keyword": "발언하는 장동혁 대표",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "9월 경상수지 600억 달러 흑자",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 6,
-      "keyword": "서인영 잔고 4만 원",
-      "state": "-",
+      "keyword": "단원고 아카이브 세계유산 등재",
+      "state": "+",
       "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "출근하는 조희대 대법원장",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "수능일 증시 오전 10시 개장",
+      "keyword": "LG엔솔 ESS 불참",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "프리지아 법적 대응 예고",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "기관 순매수 5일째",
-      "state": "s",
+      "keyword": "노용우 디지털엑스 대표 내정",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "하지원, 23년만 다모 재현",
+      "keyword": "靑, 한미동맹 영향 없다",
       "state": "n",
       "change": "0"
     }
