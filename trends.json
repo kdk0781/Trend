@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-11-05T10:06:03.470Z",
+  "updatedAt": "2026-11-05T17:57:49.646Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "유네스코",
+      "keyword": "수술",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "외국인",
-      "traffic": "100+"
+      "keyword": "비트코인",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "하이닉스",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "fifa u-17 여자 월드컵",
+      "keyword": "샌디스크 주가",
       "traffic": "100+"
     },
     {
-      "rank": 5,
-      "keyword": "어벤져스 둠스데이",
+      "rank": 4,
+      "keyword": "nasdaq",
       "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "세계 청년 대회",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "장동민",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "시험",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "이동국",
+      "keyword": "마이크론 주가",
       "traffic": "200+"
     },
     {
+      "rank": 7,
+      "keyword": "어선",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "qld",
+      "traffic": "100+"
+    },
+    {
       "rank": 9,
-      "keyword": "프리지아",
+      "keyword": "soxl stock",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "위험성",
+      "keyword": "vix",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "최태원, 학생들과 기념촬영",
-      "state": "s",
+      "keyword": "내란 2심 내년 선고",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "언차일드 컴백 연기",
+      "keyword": "호날두, 포르투갈 은퇴 선언",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "쿠팡 개인정보 유출 과징금 유지",
-      "state": "n",
-      "change": "0"
+      "keyword": "영국 기준금리 4% 인상",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 4,
-      "keyword": "외치는 삼성전자 동행노조",
+      "keyword": "이규한, 솔비 선택 이유 알고 싶다.",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "안세영 52연승 행진",
-      "state": "-",
+      "keyword": "장남 주진우 고소",
+      "state": "+",
       "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "단원고 아카이브 세계유산 등재",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 7,
-      "keyword": "LG엔솔 ESS 불참",
+      "keyword": "최태원 회장, 학생들과 촬영",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "프리지아 법적 대응 예고",
-      "state": "-",
+      "rank": 7,
+      "keyword": "리노, 내년 1분기 병역 의무 이행",
+      "state": "+",
       "change": "1"
     },
     {
+      "rank": 8,
+      "keyword": "김정관 장관, 중국 방문",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 9,
-      "keyword": "노용우 디지털엑스 대표 내정",
-      "state": "n",
+      "keyword": "조작기소 특검법 처리 전투 시작",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "靑, 한미동맹 영향 없다",
-      "state": "n",
-      "change": "0"
+      "keyword": "쿠팡 개인정보 유출 과징금 유지",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
