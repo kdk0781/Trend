@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-06T03:27:33.540Z",
+  "updatedAt": "2026-11-06T11:18:44.311Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "제주국제공항",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "돔 경기장",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "토토 재팬 클래식",
+      "keyword": "안양 정관장 대 서울 sk",
       "traffic": "500+"
     },
     {
+      "rank": 2,
+      "keyword": "야구중계",
+      "traffic": "500+"
+    },
+    {
+      "rank": 3,
+      "keyword": "tving",
+      "traffic": "200+"
+    },
+    {
       "rank": 4,
-      "keyword": "존리",
+      "keyword": "퇴직",
       "traffic": "20000+"
     },
     {
       "rank": 5,
-      "keyword": "소형모듈원자로",
-      "traffic": "1000+"
+      "keyword": "티빙",
+      "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "에너지",
-      "traffic": "200+"
+      "keyword": "병사",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "노소영",
-      "traffic": "500+"
+      "keyword": "배트맨",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "엘리자베스 홈즈",
+      "keyword": "박지후",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "a24",
+      "keyword": "강민호",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "어쌔신 크리드 발할라",
-      "traffic": "200+"
+      "keyword": "kt 대 삼성",
+      "traffic": "50000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "신천지 조사 중인 최민희",
+      "keyword": "구자욱 2타점 3루타",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "도상우 박지혜 내년 결혼",
-      "state": "s",
+      "keyword": "금융시장 긴급 간담회",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "하이닉스 주가",
+      "keyword": "공소청 강호동 구속영장",
       "state": "+",
-      "change": "1"
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "농구 월드컵 예선 12인 확정",
-      "state": "n",
-      "change": "0"
+      "keyword": "이용철 법무장관 검찰개혁",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "이형일 부총리 시장 점검 회의",
-      "state": "+",
-      "change": "2"
+      "keyword": "1타점 KT 힐리어드",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "조제 하무스 오르타 대통령 참배",
+      "keyword": "조작기소 특검법 통과",
+      "state": "-",
+      "change": "5"
+    },
+    {
+      "rank": 7,
+      "keyword": "하이닉스 주가",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "아이브 장원영 깜찍한 인형",
-      "state": "+",
-      "change": "2"
-    },
-    {
       "rank": 8,
-      "keyword": "신용융자 담보비율 면제",
+      "keyword": "카광, 장애여성 학대 의혹",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "장동혁과 오세훈",
+      "keyword": "고팍스 매매 출금 중단",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "조작기소 특검 우려 표명",
+      "keyword": "이태현 KBS 사장 후보 인사청문 재가",
       "state": "n",
       "change": "0"
     }
