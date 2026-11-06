@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-11-06T18:05:45.804Z",
+  "updatedAt": "2026-11-06T23:01:09.171Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "임형주",
-      "traffic": "5000+"
+      "keyword": "토트넘 홋스퍼 fc",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "일론 머스크",
-      "traffic": "100+"
+      "keyword": "송해",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "t1 kc",
-      "traffic": "500+"
+      "keyword": "옥스퍼드 시티 fc 대 레스터 시티",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "유튜버",
-      "traffic": "500+"
+      "keyword": "데이터 센터",
+      "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "겨울",
-      "traffic": "2000+"
+      "keyword": "기소",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "숲",
-      "traffic": "2000+"
+      "keyword": "은마아파트",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "삼성증권",
+      "keyword": "비트코인",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "노태문",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "디씨",
+      "keyword": "패션",
       "traffic": "1000+"
     },
     {
+      "rank": 9,
+      "keyword": "임영웅",
+      "traffic": "100+"
+    },
+    {
       "rank": 10,
-      "keyword": "화장실",
+      "keyword": "테일러 프리츠",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "삼성 후라도의 호투",
+      "keyword": "트럼프 비서실장 교체",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 2,
+      "keyword": "이서진 하지원, 다모 재현",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 2,
-      "keyword": "美 10월 고용 증가 16.5만명",
-      "state": "+",
-      "change": "4"
-    },
-    {
       "rank": 3,
-      "keyword": "류효영, 이태성에 호감 있다",
-      "state": "+",
-      "change": "2"
+      "keyword": "류효영, 이태성에 사랑 고백",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "조작기소 특검법 국회 통과",
+      "keyword": "2026년 11월 7일 운세",
       "state": "+",
-      "change": "7"
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "강호동 구속영장 기각",
-      "state": "-",
-      "change": "3"
+      "keyword": "샤이니 민호, 철인 3종 출전 논란",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "고팍스 매매 중단",
-      "state": "-",
-      "change": "2"
+      "keyword": "유연석, 서현진 불송치 후 옥자연에 한잔?",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "청해부대 중단 촉구 행사",
+      "keyword": "미국증시",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "민호, 철인 3종 경기 도전!",
-      "state": "s",
-      "change": "0"
+      "keyword": "조작기소 특검 통과",
+      "state": "+",
+      "change": "8"
     },
     {
       "rank": 9,
-      "keyword": "테슬라, 한국 1위 자축",
-      "state": "+",
-      "change": "1"
+      "keyword": "안세영, 日 미야자키에게 역전패",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김정관 장관 중국 방문",
-      "state": "-",
-      "change": "1"
+      "keyword": "100일의 거짓말",
+      "state": "+",
+      "change": "3"
     }
   ]
 }
