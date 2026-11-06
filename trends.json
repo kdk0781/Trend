@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-05T23:17:25.945Z",
+  "updatedAt": "2026-11-06T03:27:33.540Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "퇴장",
+      "keyword": "제주국제공항",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "테슬라 주가",
-      "traffic": "200+"
+      "keyword": "돔 경기장",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "헤이지니",
-      "traffic": "1000+"
+      "keyword": "토토 재팬 클래식",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "기초 연구",
-      "traffic": "100+"
+      "keyword": "존리",
+      "traffic": "20000+"
     },
     {
       "rank": 5,
-      "keyword": "天氣",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "스톡 옵션",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "성리",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "아파트",
+      "keyword": "소형모듈원자로",
       "traffic": "1000+"
     },
     {
+      "rank": 6,
+      "keyword": "에너지",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "노소영",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "엘리자베스 홈즈",
+      "traffic": "200+"
+    },
+    {
       "rank": 9,
-      "keyword": "김지민",
-      "traffic": "2000+"
+      "keyword": "a24",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "셀트리온",
-      "traffic": "100+"
+      "keyword": "어쌔신 크리드 발할라",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "AI 규제 우려 나스닥 5.5%↓",
-      "state": "s",
+      "keyword": "신천지 조사 중인 최민희",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "나나, 탑과 열애에 대한 발언",
+      "keyword": "도상우 박지혜 내년 결혼",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "호날두 포르투갈 은퇴",
-      "state": "s",
-      "change": "0"
+      "keyword": "하이닉스 주가",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "조작기소 특검법 본회의 상정",
-      "state": "+",
-      "change": "7"
-    },
-    {
-      "rank": 5,
-      "keyword": "프랑스 60만 고물가 시위",
+      "keyword": "농구 월드컵 예선 12인 확정",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 5,
+      "keyword": "이형일 부총리 시장 점검 회의",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 6,
-      "keyword": "2026년 11월 6일 운세",
-      "state": "s",
+      "keyword": "조제 하무스 오르타 대통령 참배",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "참패 후 루비오 사퇴 저울질",
-      "state": "n",
-      "change": "0"
+      "keyword": "아이브 장원영 깜찍한 인형",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "이란 수장, 푸틴과 논의",
+      "keyword": "신용융자 담보비율 면제",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "차예련, 다시 열린 공구창 논란 속 예의 바름",
-      "state": "+",
-      "change": "1"
+      "keyword": "장동혁과 오세훈",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "진선규 박보경 딸 공개",
+      "keyword": "조작기소 특검 우려 표명",
       "state": "n",
       "change": "0"
     }
