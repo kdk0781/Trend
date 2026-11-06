@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-11-06T11:18:44.311Z",
+  "updatedAt": "2026-11-06T18:05:45.804Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "안양 정관장 대 서울 sk",
-      "traffic": "500+"
+      "keyword": "임형주",
+      "traffic": "5000+"
     },
     {
       "rank": 2,
-      "keyword": "야구중계",
-      "traffic": "500+"
+      "keyword": "일론 머스크",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "tving",
-      "traffic": "200+"
+      "keyword": "t1 kc",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "퇴직",
-      "traffic": "20000+"
+      "keyword": "유튜버",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "티빙",
+      "keyword": "겨울",
       "traffic": "2000+"
     },
     {
       "rank": 6,
-      "keyword": "병사",
-      "traffic": "100+"
+      "keyword": "숲",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "배트맨",
+      "keyword": "삼성증권",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "박지후",
-      "traffic": "200+"
+      "keyword": "노태문",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "강민호",
-      "traffic": "200+"
+      "keyword": "디씨",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "kt 대 삼성",
-      "traffic": "50000+"
+      "keyword": "화장실",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "구자욱 2타점 3루타",
-      "state": "n",
+      "keyword": "삼성 후라도의 호투",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "금융시장 긴급 간담회",
-      "state": "n",
-      "change": "0"
+      "keyword": "美 10월 고용 증가 16.5만명",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 3,
-      "keyword": "공소청 강호동 구속영장",
+      "keyword": "류효영, 이태성에 호감 있다",
       "state": "+",
       "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "이용철 법무장관 검찰개혁",
+      "keyword": "조작기소 특검법 국회 통과",
       "state": "+",
-      "change": "2"
+      "change": "7"
     },
     {
       "rank": 5,
-      "keyword": "1타점 KT 힐리어드",
+      "keyword": "강호동 구속영장 기각",
       "state": "-",
-      "change": "1"
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "조작기소 특검법 통과",
+      "keyword": "고팍스 매매 중단",
       "state": "-",
-      "change": "5"
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "하이닉스 주가",
+      "keyword": "청해부대 중단 촉구 행사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "카광, 장애여성 학대 의혹",
-      "state": "n",
+      "keyword": "민호, 철인 3종 경기 도전!",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "고팍스 매매 출금 중단",
-      "state": "n",
-      "change": "0"
+      "keyword": "테슬라, 한국 1위 자축",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "이태현 KBS 사장 후보 인사청문 재가",
-      "state": "n",
-      "change": "0"
+      "keyword": "김정관 장관 중국 방문",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
