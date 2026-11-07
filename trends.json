@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-11-06T23:01:09.171Z",
+  "updatedAt": "2026-11-07T02:42:59.249Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "토트넘 홋스퍼 fc",
-      "traffic": "200+"
+      "keyword": "보험",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "송해",
+      "keyword": "지스타",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "옥스퍼드 시티 fc 대 레스터 시티",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "데이터 센터",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "기소",
+      "keyword": "이주승",
       "traffic": "100+"
     },
     {
-      "rank": 6,
-      "keyword": "은마아파트",
+      "rank": 4,
+      "keyword": "수도권제2순환고속도로",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "클리블랜드 대 필라데피아",
       "traffic": "1000+"
     },
     {
+      "rank": 6,
+      "keyword": "조명우",
+      "traffic": "500+"
+    },
+    {
       "rank": 7,
-      "keyword": "비트코인",
+      "keyword": "신세계백화점",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "패션",
-      "traffic": "1000+"
+      "keyword": "집",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "임영웅",
+      "keyword": "폭탄",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "테일러 프리츠",
-      "traffic": "100+"
+      "keyword": "주차장",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 비서실장 교체",
-      "state": "+",
-      "change": "1"
+      "keyword": "미래에셋증권도 해킹당했다 유출",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "이서진 하지원, 다모 재현",
-      "state": "s",
+      "keyword": "김하성 FA 최하위 5등급",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "류효영, 이태성에 사랑 고백",
-      "state": "s",
+      "keyword": "아파트 10층서 다이빙",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "2026년 11월 7일 운세",
+      "keyword": "중대재해 반복 기업 관리 강화",
       "state": "+",
-      "change": "1"
+      "change": "4"
     },
     {
       "rank": 5,
-      "keyword": "샤이니 민호, 철인 3종 출전 논란",
-      "state": "+",
+      "keyword": "입동 첫 얼음 관측",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "유연석, 서현진 불송치 후 옥자연에 한잔?",
+      "keyword": "유연석 서현진 옥자연 한잔",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "미국증시",
+      "keyword": "민호 철인 3종 3위 달성",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "조작기소 특검 통과",
-      "state": "+",
-      "change": "8"
-    },
-    {
-      "rank": 9,
-      "keyword": "안세영, 日 미야자키에게 역전패",
+      "keyword": "사이버트럭 단종 수순",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "오픈AI 데이터센터 투자 지속",
+      "state": "-",
+      "change": "4"
+    },
+    {
       "rank": 10,
-      "keyword": "100일의 거짓말",
-      "state": "+",
-      "change": "3"
+      "keyword": "이중주차 시위하는 시의원",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
