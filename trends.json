@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-07T02:42:59.249Z",
+  "updatedAt": "2026-11-07T09:16:16.085Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "보험",
-      "traffic": "1000+"
+      "keyword": "하희라",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "지스타",
+      "keyword": "주권",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "이주승",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "수도권제2순환고속도로",
+      "keyword": "나탈리 하프",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "혈당",
+      "traffic": "2000+"
+    },
+    {
       "rank": 5,
-      "keyword": "클리블랜드 대 필라데피아",
-      "traffic": "1000+"
+      "keyword": "김영철",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "조명우",
+      "keyword": "수원 kt 대 대구 한국가스공사",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "신세계백화점",
-      "traffic": "200+"
+      "keyword": "젠슨황",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "집",
+      "keyword": "우규민",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "폭탄",
-      "traffic": "100+"
+      "keyword": "맥도날드",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "주차장",
-      "traffic": "500+"
+      "keyword": "류현인",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "미래에셋증권도 해킹당했다 유출",
+      "keyword": "삼성, 우승 1승 남았다!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김하성 FA 최하위 5등급",
-      "state": "n",
+      "keyword": "민주노총 2026 전국노동자대회",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "아파트 10층서 다이빙",
-      "state": "n",
+      "keyword": "박승규 2타점 2루타",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "중대재해 반복 기업 관리 강화",
-      "state": "+",
-      "change": "4"
+      "keyword": "장재인, 반신마비 진단받다",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "입동 첫 얼음 관측",
-      "state": "-",
-      "change": "1"
+      "keyword": "광안리 상공에 뜬 블랙이글스",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "유연석 서현진 옥자연 한잔",
+      "keyword": "밀어내기 볼넷 배찬승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "민호 철인 3종 3위 달성",
-      "state": "n",
+      "keyword": "백악관 무장 남성 체포",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "사이버트럭 단종 수순",
-      "state": "n",
+      "keyword": "하정우, 차정원 결혼 준비 중",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "오픈AI 데이터센터 투자 지속",
-      "state": "-",
-      "change": "4"
+      "keyword": "백지영 사우나 불쾌 스킨십",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이중주차 시위하는 시의원",
+      "keyword": "미래에셋증권도 해킹당했다 임직원",
       "state": "n",
       "change": "0"
     }
