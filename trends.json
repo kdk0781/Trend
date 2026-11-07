@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-07T09:16:16.085Z",
+  "updatedAt": "2026-11-07T15:42:21.757Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "하희라",
-      "traffic": "500+"
+      "keyword": "버밍엄 대 스완지 시티",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "주권",
+      "keyword": "arsenal vs hull",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "나탈리 하프",
-      "traffic": "200+"
-    },
-    {
-      "rank": 4,
-      "keyword": "혈당",
+      "keyword": "아스널 대 헐 시티",
       "traffic": "2000+"
     },
     {
+      "rank": 4,
+      "keyword": "풀럼 대 뉴캐슬",
+      "traffic": "500+"
+    },
+    {
       "rank": 5,
-      "keyword": "김영철",
+      "keyword": "라이프치히 대 아우크스부르크",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "수원 kt 대 대구 한국가스공사",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "젠슨황",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "우규민",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "맥도날드",
+      "keyword": "도르트문트 대 엘버스베르크",
       "traffic": "200+"
     },
     {
+      "rank": 7,
+      "keyword": "리즈 유나이티드 대 토트넘 홋스퍼 fc 라인업",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "마인츠 05 대 바이에른",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "페드로 포로",
+      "traffic": "500+"
+    },
+    {
       "rank": 10,
-      "keyword": "류현인",
+      "keyword": "ลีดส์ พบ สเปอร์ส",
       "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "삼성, 우승 1승 남았다!",
-      "state": "n",
+      "keyword": "100일의 거짓말",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "민주노총 2026 전국노동자대회",
+      "keyword": "삼성, 우승 1승 남았다!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "박승규 2타점 2루타",
+      "keyword": "구속 도망 우려",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "장재인, 반신마비 진단받다",
+      "keyword": "베스트 아티스트 수상 쾌거",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "광안리 상공에 뜬 블랙이글스",
-      "state": "s",
-      "change": "0"
+      "keyword": "부산불꽃축제 인파",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "밀어내기 볼넷 배찬승",
-      "state": "n",
-      "change": "0"
+      "keyword": "그것이 알고 싶다",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "백악관 무장 남성 체포",
-      "state": "s",
-      "change": "0"
+      "keyword": "민주노총 전국노동자대회",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "하정우, 차정원 결혼 준비 중",
-      "state": "s",
-      "change": "0"
+      "keyword": "포스코 노조 임금안 부결",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "백지영 사우나 불쾌 스킨십",
+      "keyword": "故 전유성 1주기 추모 행사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "미래에셋증권도 해킹당했다 임직원",
+      "keyword": "광안리 상공에 뜬 블랙이글스",
       "state": "n",
       "change": "0"
     }
