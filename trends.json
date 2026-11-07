@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-11-07T19:38:49.225Z",
+  "updatedAt": "2026-11-07T22:58:32.647Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "맨시티",
+      "keyword": "암호화폐",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "gta6",
+      "keyword": "몽레알 대 화이트캡스",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "노팅엄 포레스트 대 맨 시티",
-      "traffic": "5000+"
+      "keyword": "루키",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "일본 지진",
-      "traffic": "200+"
+      "keyword": "valencia đấu với real madrid",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "이천수",
+      "keyword": "한화",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "복권",
-      "traffic": "5000+"
+      "keyword": "天気",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "하정우",
-      "traffic": "1000+"
+      "keyword": "валенсия – реал мадрид",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "mainz vs bayern",
+      "keyword": "엘레나 리바키나",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "김성우",
-      "traffic": "200+"
+      "keyword": "인터 마이애미 대 샬럿",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "nepal premier league",
-      "traffic": "100+"
+      "keyword": "심폐소생술",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "100일의 거짓말",
-      "state": "+",
-      "change": "27"
+      "keyword": "크라쿠프 총기 난사 6명 사망·15명 부상",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "젠슨 황 장녀 방한 취소",
-      "state": "-",
-      "change": "1"
+      "keyword": "100일의 거짓말",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "들어가라 버디 퍼트",
+      "keyword": "정미녀, 남편 문제 폭로",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "트럼프, UFC 회장에 백악관 대변인 제안",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "2026년 11월 8일 운세",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "젠슨 황 딸 방한 취소",
       "state": "+",
       "change": "3"
     },
     {
-      "rank": 4,
-      "keyword": "김현철 유재석 축의금 환불 원해",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "부산 밤하늘 화려한 불꽃",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "서울서 로또 1등 14명 당첨",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 7,
-      "keyword": "폴란드 총기난사 사망 부상",
+      "keyword": "박수홍 딸 800만원 신발",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "이 악물고 날리는 티샷",
-      "state": "-",
-      "change": "6"
+      "keyword": "최수종 하희라 연극 준비 중",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "피겨 이해인 동메달 획득",
-      "state": "+",
-      "change": "1"
+      "keyword": "삼성, 최초 업셋 우승 눈앞",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "베스트 수상 감사합니다",
-      "state": "n",
+      "keyword": "북한 미사일 에너지 시설 공격",
+      "state": "s",
       "change": "0"
     }
   ]
