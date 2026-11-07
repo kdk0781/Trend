@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-11-07T15:42:21.757Z",
+  "updatedAt": "2026-11-07T19:38:49.225Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "버밍엄 대 스완지 시티",
+      "keyword": "맨시티",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "arsenal vs hull",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "아스널 대 헐 시티",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "풀럼 대 뉴캐슬",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "라이프치히 대 아우크스부르크",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "도르트문트 대 엘버스베르크",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "리즈 유나이티드 대 토트넘 홋스퍼 fc 라인업",
+      "keyword": "gta6",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "노팅엄 포레스트 대 맨 시티",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "일본 지진",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "이천수",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "복권",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "하정우",
+      "traffic": "1000+"
+    },
+    {
       "rank": 8,
-      "keyword": "마인츠 05 대 바이에른",
-      "traffic": "10000+"
+      "keyword": "mainz vs bayern",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "페드로 포로",
-      "traffic": "500+"
+      "keyword": "김성우",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "ลีดส์ พบ สเปอร์ส",
+      "keyword": "nepal premier league",
       "traffic": "100+"
     }
   ],
@@ -56,60 +56,60 @@
     {
       "rank": 1,
       "keyword": "100일의 거짓말",
-      "state": "s",
-      "change": "0"
+      "state": "+",
+      "change": "27"
     },
     {
       "rank": 2,
-      "keyword": "삼성, 우승 1승 남았다!",
-      "state": "s",
-      "change": "0"
+      "keyword": "젠슨 황 장녀 방한 취소",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "구속 도망 우려",
-      "state": "s",
-      "change": "0"
+      "keyword": "들어가라 버디 퍼트",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 4,
-      "keyword": "베스트 아티스트 수상 쾌거",
-      "state": "s",
-      "change": "0"
+      "keyword": "김현철 유재석 축의금 환불 원해",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "부산불꽃축제 인파",
-      "state": "+",
-      "change": "2"
+      "keyword": "부산 밤하늘 화려한 불꽃",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "그것이 알고 싶다",
-      "state": "+",
+      "keyword": "서울서 로또 1등 14명 당첨",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "민주노총 전국노동자대회",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "포스코 노조 임금안 부결",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "故 전유성 1주기 추모 행사",
+      "keyword": "폴란드 총기난사 사망 부상",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "이 악물고 날리는 티샷",
+      "state": "-",
+      "change": "6"
+    },
+    {
+      "rank": 9,
+      "keyword": "피겨 이해인 동메달 획득",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 10,
-      "keyword": "광안리 상공에 뜬 블랙이글스",
+      "keyword": "베스트 수상 감사합니다",
       "state": "n",
       "change": "0"
     }
