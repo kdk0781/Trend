@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-08T15:40:54.938Z",
+  "updatedAt": "2026-11-08T19:58:34.672Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "คริสตัลพาเลซ พบ ลิเวอร์พูล",
+      "keyword": "압구정동",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "snow",
+      "keyword": "f1",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "palace vs liverpool",
-      "traffic": "200+"
+      "keyword": "닥터x 10화",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "원더독스",
-      "traffic": "1000+"
+      "keyword": "프리미어리그 순위",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "elche vs betis",
+      "keyword": "sc 프라이부르크 대 우니온 베를린",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "인도네시아",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "와이스",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "sbs",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "브라이턴 대 브렌트퍼드",
+      "keyword": "베식타시 대 겐칠레르빌리이",
       "traffic": "1000+"
     },
     {
-      "rank": 10,
-      "keyword": "sunderland vs chelsea",
+      "rank": 7,
+      "keyword": "แมนยู พบ แอสตันวิลลา",
+      "traffic": "200+"
+    },
+    {
+      "rank": 8,
+      "keyword": "man utd đấu với aston villa",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "전력",
       "traffic": "500+"
+    },
+    {
+      "rank": 10,
+      "keyword": "man utd vs aston villa",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "삼성, 12년 만에 시리즈 우승",
+      "keyword": "여자친구 살해한 20대",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "종부세 14억 공제 요구",
-      "state": "s",
-      "change": "0"
+      "keyword": "유현조 대보하우스디 우승",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "최해천 서울대 총장 후보",
+      "keyword": "김장훈 이소라와 열애설",
       "state": "+",
-      "change": "5"
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "유현조 최종전 우승",
+      "keyword": "100일의 거짓말",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "종부세 공제 14억 통일 요구",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "베스트 뮤직 수상 즐거운 일",
-      "state": "+",
-      "change": "1"
-    },
-    {
       "rank": 6,
-      "keyword": "고위당정협의회 김민석 발언",
-      "state": "-",
-      "change": "1"
+      "keyword": "수원 삼성 K리그1 복귀",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "이정효 감독의 다짐",
-      "state": "n",
+      "keyword": "사우디 금융지구 피격",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "블랙핑크 지수, 다양한 활동 중",
+      "keyword": "블핑 지수, 먹고 싶다!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "숙희 OST 사랑 온다 공개",
-      "state": "-",
-      "change": "2"
+      "keyword": "2026년 11월 운세",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "테러리스트 김영빈 별세",
+      "keyword": "트럼프 중간선거 후퇴 두려워 말라",
       "state": "n",
       "change": "0"
     }
