@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-11-08T19:58:34.672Z",
+  "updatedAt": "2026-11-08T23:26:57.765Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "압구정동",
-      "traffic": "200+"
+      "keyword": "atlético madrid vs fc barcelona standings",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "f1",
-      "traffic": "100+"
+      "keyword": "엘리스황",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "닥터x 10화",
-      "traffic": "100+"
+      "keyword": "닥터x: 하얀 마피아의 시대",
+      "traffic": "5000+"
     },
     {
       "rank": 4,
-      "keyword": "프리미어리그 순위",
-      "traffic": "500+"
+      "keyword": "송중기",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "sc 프라이부르크 대 우니온 베를린",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "베식타시 대 겐칠레르빌리이",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "แมนยู พบ แอสตันวิลลา",
-      "traffic": "200+"
-    },
-    {
-      "rank": 8,
-      "keyword": "man utd đấu với aston villa",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "전력",
+      "keyword": "blg",
       "traffic": "500+"
     },
     {
-      "rank": 10,
-      "keyword": "man utd vs aston villa",
+      "rank": 6,
+      "keyword": "weather",
       "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "숲",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "농업",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
+      "keyword": "한푸",
+      "traffic": "200+"
+    },
+    {
+      "rank": 10,
+      "keyword": "klasemen manchester united f.c. vs aston villa",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "여자친구 살해한 20대",
+      "keyword": "젠슨 황 불륜 시인",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "유현조 대보하우스디 우승",
-      "state": "+",
-      "change": "1"
+      "keyword": "이강인 선제골 기점 역전패",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김장훈 이소라와 열애설",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
       "keyword": "100일의 거짓말",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "종부세 공제 14억 통일 요구",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "JYP 오브더블루 론칭",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "이집트 열차 사고 7명 부상",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "수원 삼성 K리그1 복귀",
+      "keyword": "김재원 짜증내는 팬들",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "사우디 금융지구 피격",
-      "state": "s",
-      "change": "0"
+      "keyword": "숙희, 사랑이 온다 OST 공개",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "블핑 지수, 먹고 싶다!",
-      "state": "n",
-      "change": "0"
+      "keyword": "브라이언과 유명 여연예인 밀회 목격",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "2026년 11월 운세",
-      "state": "s",
+      "keyword": "최저 2도 남부 비",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "트럼프 중간선거 후퇴 두려워 말라",
-      "state": "n",
-      "change": "0"
+      "keyword": "김종철 경찰청장 후보자",
+      "state": "+",
+      "change": "7"
     }
   ]
 }
