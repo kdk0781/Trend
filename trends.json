@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-11-07T22:58:32.647Z",
+  "updatedAt": "2026-11-08T02:05:14.843Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "암호화폐",
+      "keyword": "첫눈",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "몽레알 대 화이트캡스",
-      "traffic": "100+"
+      "keyword": "인구감소지역",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "루키",
-      "traffic": "100+"
+      "keyword": "이자",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "valencia đấu với real madrid",
-      "traffic": "100+"
+      "keyword": "우박",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "한화",
-      "traffic": "100+"
+      "keyword": "코리아 그랜드 뮤직 어워즈",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "天気",
-      "traffic": "100+"
+      "keyword": "sk하이닉스",
+      "traffic": "20000+"
     },
     {
       "rank": 7,
-      "keyword": "валенсия – реал мадрид",
-      "traffic": "100+"
+      "keyword": "후티",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "엘레나 리바키나",
+      "keyword": "메이저 리그 베이스볼",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "인터 마이애미 대 샬럿",
-      "traffic": "1000+"
+      "keyword": "밥",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "심폐소생술",
+      "keyword": "남대문시장",
       "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "크라쿠프 총기 난사 6명 사망·15명 부상",
-      "state": "s",
+      "keyword": "2026 부산 해리티지런 출발",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "100일의 거짓말",
-      "state": "s",
+      "keyword": "블랙핑크 지수 에이티즈 출격",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "정미녀, 남편 문제 폭로",
-      "state": "s",
+      "keyword": "이재성 VAR 취소, 마인츠 1-2 패배",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "트럼프, UFC 회장에 백악관 대변인 제안",
-      "state": "s",
+      "keyword": "LG전자 차량 모듈 최고 안전 인증",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "2026년 11월 8일 운세",
+      "keyword": "돈자랑 논란에 지치고",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "젠슨 황 딸 방한 취소",
+      "keyword": "자전거 날 행사 투어",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "부캉이 등장?상어도로",
       "state": "+",
       "change": "3"
     },
     {
-      "rank": 7,
-      "keyword": "박수홍 딸 800만원 신발",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 8,
-      "keyword": "최수종 하희라 연극 준비 중",
-      "state": "n",
-      "change": "0"
+      "keyword": "서울 사립초 신입생 모집",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 9,
-      "keyword": "삼성, 최초 업셋 우승 눈앞",
+      "keyword": "하정우 차정원 신혼 포착",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "북한 미사일 에너지 시설 공격",
-      "state": "s",
+      "keyword": "아내 내연남 살해",
+      "state": "n",
       "change": "0"
     }
   ]
