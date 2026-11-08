@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-08T02:05:14.843Z",
+  "updatedAt": "2026-11-08T08:53:57.941Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "첫눈",
+      "keyword": "김우석",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "인구감소지역",
+      "keyword": "유현조",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "이자",
-      "traffic": "500+"
+      "keyword": "권동진",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "우박",
+      "keyword": "주권",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "코리아 그랜드 뮤직 어워즈",
-      "traffic": "1000+"
+      "keyword": "kt",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "sk하이닉스",
-      "traffic": "20000+"
+      "keyword": "우규민",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "후티",
-      "traffic": "200+"
+      "keyword": "공기업",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "메이저 리그 베이스볼",
-      "traffic": "200+"
+      "keyword": "박진만",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "밥",
-      "traffic": "2000+"
+      "keyword": "창원 lg 대 부산 kcc",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "남대문시장",
-      "traffic": "500+"
+      "keyword": "기사",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "2026 부산 해리티지런 출발",
+      "keyword": "삼성 12년 만에 우승",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "블랙핑크 지수 에이티즈 출격",
+      "keyword": "김민석 민주당 대표",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "이재성 VAR 취소, 마인츠 1-2 패배",
+      "keyword": "100일의 거짓말",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "LG전자 차량 모듈 최고 안전 인증",
+      "keyword": "이정효 감독, 승격의 기쁨",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "돈자랑 논란에 지치고",
+      "keyword": "블랙핑크 지수 시식 포기",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "자전거 날 행사 투어",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "부캉이 등장?상어도로",
-      "state": "+",
+      "keyword": "서영교 특검법 기자회견",
+      "state": "-",
       "change": "3"
     },
     {
-      "rank": 8,
-      "keyword": "서울 사립초 신입생 모집",
-      "state": "-",
-      "change": "4"
-    },
-    {
-      "rank": 9,
-      "keyword": "하정우 차정원 신혼 포착",
+      "rank": 7,
+      "keyword": "폴란드 총기난사 6명 사망",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "SK, DB 완파!",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "서울 아파트 매물 33% 증가",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 10,
-      "keyword": "아내 내연남 살해",
+      "keyword": "630억대 43억에 산 200억",
       "state": "n",
       "change": "0"
     }
