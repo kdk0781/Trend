@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-09T10:41:32.463Z",
+  "updatedAt": "2026-11-09T21:06:12.897Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "가상자산",
+      "keyword": "삼성전기",
       "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "김부선",
-      "traffic": "5000+"
+      "keyword": "홈플러스",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "nepal premier league",
+      "keyword": "1기 신도시",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "스타틴",
-      "traffic": "1000+"
+      "keyword": "로스앤젤레스 다저스",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "김장훈",
-      "traffic": "5000+"
+      "keyword": "신한은행",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "구속",
-      "traffic": "5000+"
+      "keyword": "장례",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "볼더링",
-      "traffic": "500+"
+      "keyword": "스카프 아저씨",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "에너지",
-      "traffic": "500+"
+      "keyword": "신현준",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "한국 민속촌",
-      "traffic": "2000+"
+      "keyword": "google",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "류지현",
-      "traffic": "1000+"
+      "keyword": "1인당 국민소득",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "젠슨 황과 엔비디아 논란",
+      "keyword": "젠슨 황 불륜 파문 엔비디아 영향",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 2,
+      "keyword": "연애박사 갈등과 사랑",
+      "state": "+",
+      "change": "35"
+    },
+    {
+      "rank": 3,
+      "keyword": "김단비 8000득점 역대 3호",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 2,
-      "keyword": "뉴진스 계약 보도 유감",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 3,
-      "keyword": "투표지 정밀 감정 의뢰",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 4,
-      "keyword": "타구 맞은 권동진",
-      "state": "n",
-      "change": "0"
+      "keyword": "2026년 11월 10일 운세",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "100일의 거짓말 계속될까",
+      "keyword": "나의 유죄인간",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "오세훈 시장, 로컬마켓 방문",
-      "state": "n",
-      "change": "0"
+      "keyword": "삼성 김상식 승리의 힘",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 7,
-      "keyword": "백악관 대변인 농담이었어",
-      "state": "n",
-      "change": "0"
+      "keyword": "맹승지, 개그우먼 은퇴 선언",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 8,
-      "keyword": "가능한 사랑 오스카",
+      "keyword": "눈 2번 성형한 최설아",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "우즈벡 상원의장 접견",
-      "state": "n",
+      "keyword": "유인식 100일 거짓말?",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "여성 성폭력 60대 구속",
+      "keyword": "조작기소 특검법 다음주 상정",
       "state": "n",
       "change": "0"
     }
