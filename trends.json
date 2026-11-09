@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-11-09T02:52:00.129Z",
+  "updatedAt": "2026-11-09T10:41:32.463Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "젠지",
-      "traffic": "1000+"
+      "keyword": "가상자산",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "젠슨 황 부인",
-      "traffic": "20000+"
+      "keyword": "김부선",
+      "traffic": "5000+"
     },
     {
       "rank": 3,
-      "keyword": "마산가고파국화축제",
+      "keyword": "nepal premier league",
       "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "삼성전자 주식",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "이용철",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "공장",
+      "keyword": "스타틴",
       "traffic": "1000+"
     },
     {
+      "rank": 5,
+      "keyword": "김장훈",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "구속",
+      "traffic": "5000+"
+    },
+    {
       "rank": 7,
-      "keyword": "이찬혁",
-      "traffic": "2000+"
+      "keyword": "볼더링",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "카카오모빌리티",
-      "traffic": "200+"
+      "keyword": "에너지",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "매일경제신문",
+      "keyword": "한국 민속촌",
       "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "르브론 제임스",
-      "traffic": "100+"
+      "keyword": "류지현",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "젠슨 황 불륜 인정",
+      "keyword": "젠슨 황과 엔비디아 논란",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "스토킹 신고 전 연인 살해 43세 권종필",
-      "state": "n",
-      "change": "0"
+      "keyword": "뉴진스 계약 보도 유감",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 3,
-      "keyword": "100일의 거짓말",
+      "keyword": "투표지 정밀 감정 의뢰",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "정점식 1인 시위",
-      "state": "+",
-      "change": "6"
+      "keyword": "타구 맞은 권동진",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "테이, 굿모닝FM DJ 하차",
-      "state": "-",
-      "change": "4"
+      "keyword": "100일의 거짓말 계속될까",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "이용철 후보자 출근길",
+      "keyword": "오세훈 시장, 로컬마켓 방문",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "현대캐피탈, 블랑 감독 재계약!",
+      "keyword": "백악관 대변인 농담이었어",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "강동완 위원장 인사말",
+      "keyword": "가능한 사랑 오스카",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "빅뱅 방콕 콘서트 중단",
-      "state": "-",
-      "change": "6"
+      "keyword": "우즈벡 상원의장 접견",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "무임수송 법제화 촉구 캠페인",
-      "state": "-",
-      "change": "1"
+      "keyword": "여성 성폭력 60대 구속",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
