@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-11-08T23:26:57.765Z",
+  "updatedAt": "2026-11-09T02:52:00.129Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "atlético madrid vs fc barcelona standings",
-      "traffic": "500+"
+      "keyword": "젠지",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "엘리스황",
-      "traffic": "500+"
+      "keyword": "젠슨 황 부인",
+      "traffic": "20000+"
     },
     {
       "rank": 3,
-      "keyword": "닥터x: 하얀 마피아의 시대",
-      "traffic": "5000+"
+      "keyword": "마산가고파국화축제",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "송중기",
-      "traffic": "2000+"
+      "keyword": "삼성전자 주식",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "blg",
-      "traffic": "500+"
+      "keyword": "이용철",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "weather",
-      "traffic": "2000+"
+      "keyword": "공장",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "숲",
-      "traffic": "500+"
+      "keyword": "이찬혁",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "농업",
-      "traffic": "500+"
+      "keyword": "카카오모빌리티",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "한푸",
-      "traffic": "200+"
+      "keyword": "매일경제신문",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "klasemen manchester united f.c. vs aston villa",
-      "traffic": "200+"
+      "keyword": "르브론 제임스",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "젠슨 황 불륜 시인",
-      "state": "s",
-      "change": "0"
+      "keyword": "젠슨 황 불륜 인정",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "이강인 선제골 기점 역전패",
+      "keyword": "스토킹 신고 전 연인 살해 43세 권종필",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
       "keyword": "100일의 거짓말",
-      "state": "s",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "JYP 오브더블루 론칭",
-      "state": "n",
-      "change": "0"
+      "keyword": "정점식 1인 시위",
+      "state": "+",
+      "change": "6"
     },
     {
       "rank": 5,
-      "keyword": "이집트 열차 사고 7명 부상",
-      "state": "n",
-      "change": "0"
+      "keyword": "테이, 굿모닝FM DJ 하차",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 6,
-      "keyword": "김재원 짜증내는 팬들",
-      "state": "s",
+      "keyword": "이용철 후보자 출근길",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "숙희, 사랑이 온다 OST 공개",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "브라이언과 유명 여연예인 밀회 목격",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "최저 2도 남부 비",
+      "keyword": "현대캐피탈, 블랑 감독 재계약!",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "강동완 위원장 인사말",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "빅뱅 방콕 콘서트 중단",
+      "state": "-",
+      "change": "6"
+    },
+    {
       "rank": 10,
-      "keyword": "김종철 경찰청장 후보자",
-      "state": "+",
-      "change": "7"
+      "keyword": "무임수송 법제화 촉구 캠페인",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
