@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-09T21:06:12.897Z",
+  "updatedAt": "2026-11-10T03:28:13.886Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "삼성전기",
-      "traffic": "500+"
+      "keyword": "골프",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "홈플러스",
+      "keyword": "연비",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "1기 신도시",
-      "traffic": "200+"
+      "keyword": "가수",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "로스앤젤레스 다저스",
-      "traffic": "100+"
+      "keyword": "원태인",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "신한은행",
-      "traffic": "100+"
+      "keyword": "박진만",
+      "traffic": "20000+"
     },
     {
       "rank": 6,
-      "keyword": "장례",
+      "keyword": "3 기 신도시 남양주 왕숙 지구",
       "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "스카프 아저씨",
-      "traffic": "100+"
+      "keyword": "중대범죄 수사청",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "신현준",
-      "traffic": "100+"
+      "keyword": "인구",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "google",
-      "traffic": "100+"
+      "keyword": "병무청",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "1인당 국민소득",
-      "traffic": "200+"
+      "keyword": "청약홈",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "젠슨 황 불륜 파문 엔비디아 영향",
-      "state": "n",
+      "keyword": "이재명 대통령 국무회의",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "연애박사 갈등과 사랑",
-      "state": "+",
-      "change": "35"
-    },
-    {
-      "rank": 3,
-      "keyword": "김단비 8000득점 역대 3호",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "2026년 11월 10일 운세",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 5,
-      "keyword": "나의 유죄인간",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "삼성 김상식 승리의 힘",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 7,
-      "keyword": "맹승지, 개그우먼 은퇴 선언",
-      "state": "-",
-      "change": "5"
-    },
-    {
-      "rank": 8,
-      "keyword": "눈 2번 성형한 최설아",
+      "keyword": "청와대 앞 의총",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "유인식 100일 거짓말?",
+      "rank": 3,
+      "keyword": "젠슨 황 엔비디아 위기",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "리센느 초동 60만 장 돌파",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "김민수 부상으로 대체 발탁",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "기관 순매수 계속 상승",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "WHE 2026서 수소 기술 선보여",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "심우정 전 총장 법정 출석",
+      "state": "-",
+      "change": "4"
+    },
+    {
+      "rank": 9,
+      "keyword": "부정청약 354건 적발",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 10,
-      "keyword": "조작기소 특검법 다음주 상정",
+      "keyword": "CES 2027 혁신상 9관왕 등극",
       "state": "n",
       "change": "0"
     }
