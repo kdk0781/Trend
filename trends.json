@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-11-10T18:47:12.599Z",
+  "updatedAt": "2026-11-10T23:45:07.572Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이재진",
-      "traffic": "100+"
+      "keyword": "k리그",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "gta",
-      "traffic": "200+"
+      "keyword": "부동산",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "로스앤젤레스 다저스",
-      "traffic": "200+"
+      "keyword": "맨체스터 유나이티드 fc",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "엘리자베스 홈즈",
+      "keyword": "난민",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "추위",
-      "traffic": "500+"
+      "keyword": "통영어부장터",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "임준우",
-      "traffic": "1000+"
+      "keyword": "메이플스토리",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "장동윤",
-      "traffic": "200+"
+      "keyword": "vix",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "코어위브",
-      "traffic": "200+"
+      "keyword": "조인성",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "철도",
+      "keyword": "메이저 리그 사커",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "고발",
-      "traffic": "200+"
+      "keyword": "농구",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이효정 자녀, 장동윤과 연관",
-      "state": "+",
-      "change": "75"
-    },
-    {
-      "rank": 2,
-      "keyword": "젠슨 황 스캔들 파장은?",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "금융보안원 해킹당해 정보 유출",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "A매치 소집 앞둔 팀",
+      "keyword": "10월 취업자 13.9만 증가",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 5,
-      "keyword": "美 10월 물가 0.4%↑",
+      "rank": 2,
+      "keyword": "장동윤과 차경은 동서지간",
       "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "방탄소년단 SWIM 애플뮤직 선정",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "감독 3주 만에 복귀",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "안판석 연애박사 최고 시청률 종영",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "첫 홀 버디 성공 소식",
-      "state": "+",
-      "change": "1"
+      "keyword": "엔비디아 젠슨 의혹 한국계 변호사",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "이지현, 미용실 그만둔다",
-      "state": "+",
-      "change": "1"
+      "keyword": "나의 유죄인간",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 8,
-      "keyword": "나의 유죄인간",
-      "state": "+",
-      "change": "25"
+      "keyword": "수능 일정 미준수",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "소노 5연패 탈출",
-      "state": "s",
+      "keyword": "임창정 아들 프로 됐다",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "조현, 루비오와 G7 환담",
-      "state": "s",
+      "keyword": "지수 나연 연습생 시절",
+      "state": "n",
       "change": "0"
     }
   ]
