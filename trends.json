@@ -1,117 +1,56 @@
 {
-  "updatedAt": "2026-11-10T23:45:07.572Z",
+  "updatedAt": "2026-11-11T03:04:54.802Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "k리그",
-      "traffic": "500+"
+      "keyword": "민방위",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "부동산",
+      "keyword": "수원fc",
       "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "맨체스터 유나이티드 fc",
+      "keyword": "롯데월드",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "난민",
+      "keyword": "이형범",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "육군특수전사령부",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "엽떡 11 월 11 일",
       "traffic": "200+"
     },
     {
-      "rank": 5,
-      "keyword": "통영어부장터",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "메이플스토리",
+      "rank": 7,
+      "keyword": "기사",
       "traffic": "2000+"
     },
     {
-      "rank": 7,
-      "keyword": "vix",
-      "traffic": "500+"
-    },
-    {
       "rank": 8,
-      "keyword": "조인성",
+      "keyword": "미라 안드레예바",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "메이저 리그 사커",
-      "traffic": "500+"
+      "keyword": "필라데피아 대 보스턴",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "농구",
-      "traffic": "1000+"
+      "keyword": "솔비",
+      "traffic": "500+"
     }
   ],
-  "domestic": [
-    {
-      "rank": 1,
-      "keyword": "10월 취업자 13.9만 증가",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "장동윤과 차경은 동서지간",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "방탄소년단 SWIM 애플뮤직 선정",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "감독 3주 만에 복귀",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "안판석 연애박사 최고 시청률 종영",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "엔비디아 젠슨 의혹 한국계 변호사",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "나의 유죄인간",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "수능 일정 미준수",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "임창정 아들 프로 됐다",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 10,
-      "keyword": "지수 나연 연습생 시절",
-      "state": "n",
-      "change": "0"
-    }
-  ]
+  "domestic": []
 }
