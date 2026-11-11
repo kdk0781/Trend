@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-11T10:44:43.995Z",
+  "updatedAt": "2026-11-11T18:05:06.120Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김현지",
-      "traffic": "100+"
+      "keyword": "구자욱",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "비전",
+      "keyword": "노무현",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "둠스데이",
+      "keyword": "오현민",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "의약품",
-      "traffic": "2000+"
+      "keyword": "크러쉬 조이",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "김태희",
-      "traffic": "500+"
+      "keyword": "이수혁",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "토마토",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "세무사 수석",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "포체티노",
+      "keyword": "restaurants near me",
       "traffic": "2000+"
     },
     {
+      "rank": 7,
+      "keyword": "채령",
+      "traffic": "100+"
+    },
+    {
+      "rank": 8,
+      "keyword": "빵",
+      "traffic": "10000+"
+    },
+    {
       "rank": 9,
-      "keyword": "마운자로",
-      "traffic": "500+"
+      "keyword": "라라랜드",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "pakistan vs sri lanka",
-      "traffic": "200+"
+      "keyword": "블레이즈벨",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "수능 스마트안경 연수",
+      "keyword": "3연승 박철우 감독",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "젠슨 황 불륜 논란",
-      "state": "+",
-      "change": "5"
+      "keyword": "젠슨 황 스캔들 파장",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "심판 3개월 출전정지",
-      "state": "+",
-      "change": "1"
+      "keyword": "고우림 ♥김연아 애교 넘쳐",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "한성숙 총리 교육감 만남",
+      "keyword": "운암동 아파트 화재 경비원 참변",
       "state": "+",
-      "change": "2"
+      "change": "3"
     },
     {
       "rank": 5,
-      "keyword": "금투협 국고채 담합 반발",
+      "keyword": "김민석 만찬 당정 한마음",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "소노, 제임스 대체 올루조비 영입",
-      "state": "+",
-      "change": "3"
+      "keyword": "사우디 평가전 훈련 중",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "삼양식품, 베트남에 공장 설립",
-      "state": "+",
+      "keyword": "한성숙 총리, 수도권 교육감 회동",
+      "state": "-",
       "change": "3"
     },
     {
       "rank": 8,
-      "keyword": "나의 유죄인간",
-      "state": "n",
-      "change": "0"
+      "keyword": "아빠 힘내세요로 월 3000만원!",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "연애박사 종영 감정 성장",
+      "keyword": "10대 살해 사건",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "3분기 순익 변화",
+      "keyword": "인천 공장 가스 누출 5명 호흡곤란",
       "state": "n",
       "change": "0"
     }
