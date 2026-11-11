@@ -1,56 +1,117 @@
 {
-  "updatedAt": "2026-11-11T03:04:54.802Z",
+  "updatedAt": "2026-11-11T10:44:43.995Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "민방위",
+      "keyword": "김현지",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "수원fc",
-      "traffic": "500+"
+      "keyword": "비전",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "롯데월드",
-      "traffic": "500+"
+      "keyword": "둠스데이",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "이형범",
-      "traffic": "1000+"
+      "keyword": "의약품",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "육군특수전사령부",
+      "keyword": "김태희",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "엽떡 11 월 11 일",
-      "traffic": "200+"
+      "keyword": "토마토",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "기사",
-      "traffic": "2000+"
+      "keyword": "세무사 수석",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "미라 안드레예바",
-      "traffic": "100+"
+      "keyword": "포체티노",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "필라데피아 대 보스턴",
-      "traffic": "1000+"
+      "keyword": "마운자로",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "솔비",
-      "traffic": "500+"
+      "keyword": "pakistan vs sri lanka",
+      "traffic": "200+"
     }
   ],
-  "domestic": []
+  "domestic": [
+    {
+      "rank": 1,
+      "keyword": "수능 스마트안경 연수",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 2,
+      "keyword": "젠슨 황 불륜 논란",
+      "state": "+",
+      "change": "5"
+    },
+    {
+      "rank": 3,
+      "keyword": "심판 3개월 출전정지",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "한성숙 총리 교육감 만남",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "금투협 국고채 담합 반발",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "소노, 제임스 대체 올루조비 영입",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 7,
+      "keyword": "삼양식품, 베트남에 공장 설립",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 8,
+      "keyword": "나의 유죄인간",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 9,
+      "keyword": "연애박사 종영 감정 성장",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "3분기 순익 변화",
+      "state": "n",
+      "change": "0"
+    }
+  ]
 }
