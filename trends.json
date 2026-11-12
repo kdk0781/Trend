@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-11T18:05:06.120Z",
+  "updatedAt": "2026-11-12T00:31:40.537Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "구자욱",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "노무현",
+      "keyword": "파운드리",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "kimberly powell",
+      "traffic": "1000+"
+    },
+    {
       "rank": 3,
-      "keyword": "오현민",
+      "keyword": "미세먼지",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "크러쉬 조이",
+      "keyword": "메르세데스-벤츠 v 클래스",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "이수혁",
-      "traffic": "100+"
+      "keyword": "압구정 현대아파트",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "restaurants near me",
-      "traffic": "2000+"
+      "keyword": "미라 안드레예바",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "채령",
+      "keyword": "노란봉투법",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "빵",
-      "traffic": "10000+"
+      "keyword": "정의선",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "라라랜드",
-      "traffic": "100+"
+      "keyword": "암호화폐",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "블레이즈벨",
-      "traffic": "100+"
+      "keyword": "죽도시장",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "3연승 박철우 감독",
+      "keyword": "젠슨 황 해임 추진",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "젠슨 황 스캔들 파장",
-      "state": "s",
+      "keyword": "출근하는 이용철 후보자",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "고우림 ♥김연아 애교 넘쳐",
-      "state": "s",
+      "keyword": "네이버 3분기 매출 3조4724억",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "운암동 아파트 화재 경비원 참변",
-      "state": "+",
-      "change": "3"
+      "keyword": "맨유 캐릭 경질 포체티노 유력",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김민석 만찬 당정 한마음",
-      "state": "s",
+      "keyword": "솔로 34기 영호의 선택받기",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "사우디 평가전 훈련 중",
-      "state": "s",
-      "change": "0"
+      "keyword": "금융회사 지배구조 개선 협의",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "한성숙 총리, 수도권 교육감 회동",
-      "state": "-",
-      "change": "3"
+      "keyword": "故 송재림 2주기 그리움 가득",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "아빠 힘내세요로 월 3000만원!",
+      "keyword": "임추위 전원 독립이사 구성",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "10대 살해 사건",
+      "keyword": "김동현 아파트 88억 하락",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "인천 공장 가스 누출 5명 호흡곤란",
+      "keyword": "클라라, 10년 만에 예능 복귀",
       "state": "n",
       "change": "0"
     }
