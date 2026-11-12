@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-11-12T07:39:26.334Z",
+  "updatedAt": "2026-11-12T16:12:53.580Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "근로장려금",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "에버랜드",
+      "keyword": "13일의 금요일",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "젠틀몬스터",
+      "traffic": "200+"
+    },
+    {
       "rank": 3,
-      "keyword": "박희승",
+      "keyword": "100 일 의 거짓말",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "스마트글래스",
-      "traffic": "1000+"
+      "keyword": "colette kress",
+      "traffic": "5000+"
     },
     {
       "rank": 5,
-      "keyword": "투자신탁",
+      "keyword": "msci",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "혜리",
+      "keyword": "amd 주가",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "김현석",
-      "traffic": "100+"
+      "keyword": "토스증권",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "천궁",
-      "traffic": "10000+"
+      "keyword": "해변",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "현대엔지니어링",
+      "keyword": "jyp 엔터테인먼트",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "sk쉴더스",
-      "traffic": "200+"
+      "keyword": "학대",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김승우, 2200만원 절도 혐의 피소",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "젠슨 황 해임 위기",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "에이티즈 산 꿈 같은 나날 보내고 있다",
+      "keyword": "젠슨 황, 엔비디아 CEO 사임",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "김민석 최민희 감찰 지시",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "김승우 측 절도 혐의 반박",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 4,
-      "keyword": "외국인 2천만명 돌파",
+      "keyword": "김승원 브로커 징역 4년 구형",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "한국 야구, APBC서 호주에 패배",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "오세훈 서울시장 동국대 방문",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 7,
-      "keyword": "진에어·에어부산 합병 승인",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 8,
-      "keyword": "디올 CEO 학위식 재계 참석",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "건보공단 특사경 반대",
+      "keyword": "축구 대표팀 사우디 평가전",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 10,
-      "keyword": "KBS 사장 문무 정치인들 많이 봤으면",
+      "rank": 6,
+      "keyword": "50대 소녀 살해 구속영장 청구",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "여자축구, LA 올림픽 예선 B조 확정",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 8,
+      "keyword": "삼성 AI 안경 출시",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 9,
+      "keyword": "3분기 순익 변화",
       "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 10,
+      "keyword": "가상자산업권 보안 대책회의",
+      "state": "s",
       "change": "0"
     }
   ]
