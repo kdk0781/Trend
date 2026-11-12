@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-11-12T16:12:53.580Z",
+  "updatedAt": "2026-11-12T22:15:26.787Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "13일의 금요일",
-      "traffic": "100+"
+      "keyword": "관광객",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "젠틀몬스터",
+      "keyword": "czechia vs spain",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "100 일 의 거짓말",
+      "keyword": "검사",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "colette kress",
-      "traffic": "5000+"
+      "keyword": "여자 복식",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "msci",
-      "traffic": "100+"
+      "keyword": "단풍",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "amd 주가",
+      "keyword": "양도소득세",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "토스증권",
-      "traffic": "1000+"
+      "keyword": "경기도",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "해변",
+      "keyword": "italy vs france",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "jyp 엔터테인먼트",
+      "keyword": "서승재",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "학대",
-      "traffic": "100+"
+      "keyword": "진양곤",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "젠슨 황, 엔비디아 CEO 사임",
-      "state": "s",
+      "keyword": "젠슨 황 사임 충격",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김민석 최민희 감찰 지시",
+      "keyword": "박정성 통상교섭본부장 유럽의회 면담",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김승우 측 절도 혐의 반박",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "김승원 브로커 징역 4년 구형",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "축구 대표팀 사우디 평가전",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "50대 소녀 살해 구속영장 청구",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "여자축구, LA 올림픽 예선 B조 확정",
+      "keyword": "모레노 감독 훈련 지도",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 8,
-      "keyword": "삼성 AI 안경 출시",
-      "state": "+",
-      "change": "3"
+      "rank": 4,
+      "keyword": "물건 이호선 긴급",
+      "state": "s",
+      "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "3분기 순익 변화",
+      "rank": 5,
+      "keyword": "축구 대표팀, 내일 평가전",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 6,
+      "keyword": "김승우, 비난 받는 절도 혐의",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "김민석 최민희 감찰 지시",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "기현 뜨거운 안녕 OST 발매",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "김선아, 스페인 항구마을서 파격 노출",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 10,
-      "keyword": "가상자산업권 보안 대책회의",
-      "state": "s",
+      "keyword": "이숙캠 남편 아내 통제",
+      "state": "n",
       "change": "0"
     }
   ]
