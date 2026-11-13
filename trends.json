@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-11-13T09:57:29.893Z",
+  "updatedAt": "2026-11-13T17:29:36.885Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "우크라이나",
-      "traffic": "200+"
+      "keyword": "오세훈",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "김종민",
+      "keyword": "인벤",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "김현태",
-      "traffic": "500+"
+      "keyword": "박지현",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "배드민턴",
-      "traffic": "5000+"
+      "keyword": "구성환",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "015760",
-      "traffic": "200+"
+      "keyword": "김수현",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "공인중개사",
-      "traffic": "200+"
+      "keyword": "대한민국",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "문화누리카드",
-      "traffic": "100+"
+      "keyword": "쿠플",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "탁재훈",
+      "keyword": "포수",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "035420",
-      "traffic": "200+"
+      "keyword": "광천동주택재개발",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "주간조선",
+      "keyword": "민희진",
       "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "젠슨 황 없는 GPU 공급",
+      "keyword": "젠슨 황과 엔비디아 위기",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "쏘스뮤직 민희진 손배소 항소",
+      "keyword": "조현 한반도 평화 공동이익",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "민희진 손배소 즉각 항소",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "3분기 매출 개선",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 4,
-      "keyword": "모두의 창업 개인정보 유출",
-      "state": "+",
-      "change": "2"
+      "keyword": "모레노호, 사우디에 2-3 패배",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "삼성메디슨 홍천 제조동 준공",
+      "keyword": "구성환 초콜릿 러브레터",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "레이오버 호텔 주연 정연주 안소희 박정연 박소진 안동구",
-      "state": "n",
-      "change": "0"
+      "keyword": "석유 가격 5회 동결",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "윤호중 장관 가을산불 캠페인",
-      "state": "n",
-      "change": "0"
+      "keyword": "IBK기업은행 4연승 질주",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "전국스포츠클럽 교류전 개최",
+      "keyword": "바르샤 초대권 수수 의혹",
       "state": "+",
-      "change": "34"
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "김승우, 2200만 원 논란",
+      "keyword": "홍지선 장관 제설 점검",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "142개 양조장 우리술 대축제",
-      "state": "n",
-      "change": "0"
+      "keyword": "원주 K-매운맛 방문객들로 가득",
+      "state": "+",
+      "change": "5"
     }
   ]
 }
