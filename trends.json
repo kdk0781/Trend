@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-13T02:38:41.924Z",
+  "updatedAt": "2026-11-13T09:57:29.893Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "진학사",
-      "traffic": "500+"
+      "keyword": "우크라이나",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "공군사관학교",
-      "traffic": "100+"
+      "keyword": "김종민",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "평가",
-      "traffic": "1000+"
+      "keyword": "김현태",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "아시아 프로야구 챔피언십",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "금융통화위원회",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "메르세데스-벤츠",
+      "keyword": "배드민턴",
       "traffic": "5000+"
     },
     {
+      "rank": 5,
+      "keyword": "015760",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "공인중개사",
+      "traffic": "200+"
+    },
+    {
       "rank": 7,
-      "keyword": "gemini 4 hydrogen",
-      "traffic": "500+"
+      "keyword": "문화누리카드",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "양승조",
-      "traffic": "500+"
+      "keyword": "탁재훈",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "m365",
-      "traffic": "500+"
+      "keyword": "035420",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "김영훈",
-      "traffic": "200+"
+      "keyword": "주간조선",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이재명 자본시장 발언",
+      "keyword": "젠슨 황 없는 GPU 공급",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김민석 최고위 참석",
+      "keyword": "쏘스뮤직 민희진 손배소 항소",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "젠슨 황 퇴진 엔비디아 충격",
-      "state": "s",
-      "change": "0"
+      "keyword": "3분기 매출 개선",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "정점식 원내대표 원내대책회의 참석",
-      "state": "s",
-      "change": "0"
+      "keyword": "모두의 창업 개인정보 유출",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "송혜교·공유 12월 11일 공개",
-      "state": "s",
-      "change": "0"
+      "keyword": "삼성메디슨 홍천 제조동 준공",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "박재상 퓨처스 감독 선임",
+      "keyword": "레이오버 호텔 주연 정연주 안소희 박정연 박소진 안동구",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "김영훈 장관 간담회",
-      "state": "-",
-      "change": "1"
+      "keyword": "윤호중 장관 가을산불 캠페인",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "하이닉스 주가 하락",
+      "keyword": "전국스포츠클럽 교류전 개최",
       "state": "+",
-      "change": "7"
+      "change": "34"
     },
     {
       "rank": 9,
-      "keyword": "월급방위대 TF 킥오프 개최",
+      "keyword": "김승우, 2200만 원 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "HJ중공업 3분기 영업익 1554억",
+      "keyword": "142개 양조장 우리술 대축제",
       "state": "n",
       "change": "0"
     }
