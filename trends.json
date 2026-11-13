@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-12T22:15:26.787Z",
+  "updatedAt": "2026-11-13T02:38:41.924Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "관광객",
-      "traffic": "1000+"
+      "keyword": "진학사",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "czechia vs spain",
-      "traffic": "200+"
+      "keyword": "공군사관학교",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "검사",
-      "traffic": "100+"
+      "keyword": "평가",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "여자 복식",
-      "traffic": "500+"
+      "keyword": "아시아 프로야구 챔피언십",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "단풍",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "양도소득세",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "경기도",
+      "keyword": "금융통화위원회",
       "traffic": "100+"
     },
     {
+      "rank": 6,
+      "keyword": "메르세데스-벤츠",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "gemini 4 hydrogen",
+      "traffic": "500+"
+    },
+    {
       "rank": 8,
-      "keyword": "italy vs france",
+      "keyword": "양승조",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "서승재",
-      "traffic": "200+"
+      "keyword": "m365",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "진양곤",
+      "keyword": "김영훈",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "젠슨 황 사임 충격",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "박정성 통상교섭본부장 유럽의회 면담",
+      "keyword": "이재명 자본시장 발언",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "김민석 최고위 참석",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 3,
-      "keyword": "모레노 감독 훈련 지도",
-      "state": "+",
-      "change": "2"
+      "keyword": "젠슨 황 퇴진 엔비디아 충격",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "물건 이호선 긴급",
+      "keyword": "정점식 원내대표 원내대책회의 참석",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "축구 대표팀, 내일 평가전",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 6,
-      "keyword": "김승우, 비난 받는 절도 혐의",
+      "keyword": "송혜교·공유 12월 11일 공개",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "김민석 최민희 감찰 지시",
+      "rank": 6,
+      "keyword": "박재상 퓨처스 감독 선임",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "기현 뜨거운 안녕 OST 발매",
+      "rank": 7,
+      "keyword": "김영훈 장관 간담회",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "김선아, 스페인 항구마을서 파격 노출",
+      "rank": 8,
+      "keyword": "하이닉스 주가 하락",
       "state": "+",
-      "change": "1"
+      "change": "7"
+    },
+    {
+      "rank": 9,
+      "keyword": "월급방위대 TF 킥오프 개최",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이숙캠 남편 아내 통제",
+      "keyword": "HJ중공업 3분기 영업익 1554억",
       "state": "n",
       "change": "0"
     }
