@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-11-14T09:27:41.892Z",
+  "updatedAt": "2026-11-14T15:56:22.594Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "구성환",
-      "traffic": "500+"
-    },
-    {
-      "rank": 2,
-      "keyword": "웨이브",
+      "keyword": "bangladesh vs pakistan",
       "traffic": "200+"
     },
     {
+      "rank": 2,
+      "keyword": "나의 이방인",
+      "traffic": "500+"
+    },
+    {
       "rank": 3,
-      "keyword": "이로운",
+      "keyword": "1250 회 로또",
       "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "대한민국 국군",
-      "traffic": "100+"
+      "keyword": "채령",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "수수료",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "무인 항공기",
+      "keyword": "천천히 강렬하게",
       "traffic": "2000+"
     },
     {
-      "rank": 7,
-      "keyword": "닭한마리",
+      "rank": 6,
+      "keyword": "데블스 플랜",
       "traffic": "500+"
     },
     {
+      "rank": 7,
+      "keyword": "딜라이브",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "인수 합병",
-      "traffic": "100+"
+      "keyword": "갈비뼈",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "문지애",
-      "traffic": "200+"
+      "keyword": "맥도날드 세종dt점",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "북대서양 조약 기구",
-      "traffic": "200+"
+      "keyword": "버거킹",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "발언하는 장동혁 대표",
+      "keyword": "100일의 거짓말",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "잠실 마지막 이닝 서군 승리",
+      "keyword": "장혁 연기 미쳤어요, 문무 첫 방송 가치",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "노란우산 개인정보 유출 우려",
-      "state": "+",
-      "change": "1"
+      "keyword": "고경표 음주운전 논란",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "MMA2026 참가자들",
+      "keyword": "젠슨 황 사태로 찬바람 부는 업계",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 5,
+      "keyword": "김도영 결승포로 한국 APBC 결승 진출",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "2026 멜뮤어 레드카펫 참석",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 5,
-      "keyword": "구성환 첫사랑 재회 이야기",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 6,
-      "keyword": "고경표 주량 4~5병 사고",
-      "state": "-",
-      "change": "3"
-    },
-    {
       "rank": 7,
-      "keyword": "105억 전세 분쟁, 안 당해보면 몰라",
+      "keyword": "한소희 엑스러브 숙소 공개, 우무티 그림 교환",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "노란우산 개인정보 유출 우려",
       "state": "-",
       "change": "4"
     },
     {
-      "rank": 8,
-      "keyword": "수빙수 종양 재발 고백",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 9,
-      "keyword": "KCC, SK 제압 4연승!",
-      "state": "n",
+      "keyword": "MMA2026 참석자들",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "박진영 이단 의혹 반박",
-      "state": "n",
+      "keyword": "오세훈 시장, 서울달빛미식회",
+      "state": "s",
       "change": "0"
     }
   ]
