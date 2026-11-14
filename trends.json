@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-14T02:42:17.677Z",
+  "updatedAt": "2026-11-14T09:27:41.892Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김지원",
-      "traffic": "1000+"
+      "keyword": "구성환",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "그랜드 테프트 오토",
-      "traffic": "100+"
+      "keyword": "웨이브",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "광진구",
-      "traffic": "100+"
+      "keyword": "이로운",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "기내식",
+      "keyword": "대한민국 국군",
       "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "고용노동부",
+      "keyword": "수수료",
       "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "삼천당제약",
-      "traffic": "500+"
+      "keyword": "무인 항공기",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "항공기",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "법학적성시험",
+      "keyword": "닭한마리",
       "traffic": "500+"
     },
     {
-      "rank": 9,
-      "keyword": "argentina đấu với uruguay",
+      "rank": 8,
+      "keyword": "인수 합병",
       "traffic": "100+"
     },
     {
+      "rank": 9,
+      "keyword": "문지애",
+      "traffic": "200+"
+    },
+    {
       "rank": 10,
-      "keyword": "고경표",
-      "traffic": "10000+"
+      "keyword": "북대서양 조약 기구",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "고경표 팬미팅 취소",
+      "keyword": "발언하는 장동혁 대표",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "젠슨 황 복귀 청원 가짜",
-      "state": "n",
+      "keyword": "잠실 마지막 이닝 서군 승리",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "전국스포츠클럽 교류전 탁구대회",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 4,
-      "keyword": "美 전역 항공기 이륙 중단",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "클롭의 독일, 세르비아 꺾고 8강 진출",
+      "keyword": "노란우산 개인정보 유출 우려",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 6,
-      "keyword": "스페인 카탈루냐 월드컵 대비",
+      "rank": 4,
+      "keyword": "MMA2026 참가자들",
       "state": "+",
-      "change": "4"
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "구성환 첫사랑 재회 이야기",
+      "state": "+",
+      "change": "5"
+    },
+    {
+      "rank": 6,
+      "keyword": "고경표 주량 4~5병 사고",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "성유리 안성현 무죄 확정",
-      "state": "n",
-      "change": "0"
+      "keyword": "105억 전세 분쟁, 안 당해보면 몰라",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 8,
-      "keyword": "초교 동창에 집착 연락 20대 벌금형",
+      "keyword": "수빙수 종양 재발 고백",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "정계성 법률사무소 대표변호사",
+      "keyword": "KCC, SK 제압 4연승!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "최혜진, 디 안니카 2R 선두 유지",
+      "keyword": "박진영 이단 의혹 반박",
       "state": "n",
       "change": "0"
     }
