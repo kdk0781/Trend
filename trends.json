@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-15T05:22:09.158Z",
+  "updatedAt": "2026-11-15T12:52:24.457Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "차예련",
-      "traffic": "10000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "f-35b",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "케이조선",
+      "keyword": "김유재",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "화물기",
+      "traffic": "200+"
+    },
+    {
+      "rank": 3,
+      "keyword": "백신",
+      "traffic": "200+"
+    },
+    {
       "rank": 4,
-      "keyword": "yousri belgaroui",
+      "keyword": "로봇",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "카르다노",
-      "traffic": "100+"
+      "keyword": "한국 일본 야구",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "uroš medić",
-      "traffic": "200+"
+      "keyword": "전국노래자랑",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "한동희",
-      "traffic": "1000+"
+      "keyword": "sk하이닉스 채용",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "축제",
-      "traffic": "100+"
+      "keyword": "임창정",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "김성한",
-      "traffic": "1000+"
+      "keyword": "멜론 뮤직 어워드",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "nz vs ind",
-      "traffic": "100+"
+      "keyword": "웨이브",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "HD현대 안두릴과 무인수상함",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 2,
-      "keyword": "김유정 100일 거짓말",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "이괄 지사 유해 귀국",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 4,
-      "keyword": "리센느 미나미, 컨디션 난조로 불참",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "문무 강렬한 출발",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 6,
-      "keyword": "고경표 팬 입장문 역풍",
+      "keyword": "문무 첫 방송 시청률 4.7% 기록",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "사랑이 온다",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 3,
+      "keyword": "AI 국가자격시험 전수조사",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "고경표 음주운전 사과",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 5,
+      "keyword": "김건우, 4이닝 5실점",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "멜론뮤직어워드 레드카펫 참석",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "세무사 AI 부정행위 자수",
+      "keyword": "영월 화목난로 폭발 일가족 부상",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "박슬기, 10년 만에 셋째 임신 발표",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 9,
-      "keyword": "주민이 읍면동장 뽑는다",
+      "keyword": "허훈 3점 플레이 KCC 5연승",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "젠슨 황 복귀 청원 동참",
+      "state": "-",
+      "change": "4"
+    },
+    {
       "rank": 10,
-      "keyword": "개혁 방해 용납 안 돼",
+      "keyword": "BTS·안효섭, 키즈 초이스 수상",
       "state": "n",
       "change": "0"
     }
