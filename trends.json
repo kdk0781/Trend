@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-11-15T23:23:26.170Z",
+  "updatedAt": "2026-11-16T02:54:15.245Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "해리 케인",
-      "traffic": "500+"
+      "keyword": "이재명",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "สเปน พบ อังกฤษ",
-      "traffic": "100+"
+      "keyword": "우주",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "испания – англия",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "통근",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "spanyol vs inggris",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "테니스",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "김정은",
+      "keyword": "무역",
       "traffic": "500+"
     },
     {
-      "rank": 8,
-      "keyword": "미나미",
+      "rank": 4,
+      "keyword": "즉석밥",
+      "traffic": "500+"
+    },
+    {
+      "rank": 5,
+      "keyword": "이현중",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "공모",
       "traffic": "100+"
     },
     {
+      "rank": 7,
+      "keyword": "박혜연",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "초고층",
+      "traffic": "1000+"
+    },
+    {
       "rank": 9,
-      "keyword": "tây ban nha đấu với anh",
+      "keyword": "청년미래적금",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "운세",
-      "traffic": "5000+"
+      "keyword": "공직",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "젠슨 황 CEO 복귀 논의",
+      "keyword": "대법, 한덕수 내란 19일 선고",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김유정 100일의 거짓말",
+      "keyword": "수능 AI 부정행위 대책 필요",
+      "state": "+",
+      "change": "6"
+    },
+    {
+      "rank": 3,
+      "keyword": "이재명 부부 필리핀행",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 3,
-      "keyword": "최혜진 LPGA 준우승",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 4,
-      "keyword": "미미미누 수능 연기 촉구",
-      "state": "n",
-      "change": "0"
+      "keyword": "조정식 국회의장 헌법개정위원장",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "고경표 음주운전 소식",
-      "state": "s",
-      "change": "0"
+      "keyword": "최민희 의원 하이에나 고소",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "국토부 건설현장 안전점검",
-      "state": "n",
-      "change": "0"
+      "keyword": "김유정 100일 거짓말",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "문무 드라마 시청률 4.7%",
+      "keyword": "문무 장혁 검증 완료",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "김자옥 폐암 투병 별세",
-      "state": "n",
+      "keyword": "서울중수청 명륜당 압수수색",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "사랑이 온다",
-      "state": "+",
-      "change": "6"
+      "keyword": "이호선, 모친상 조의금 기부",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "신인감독 김연경 시즌2",
-      "state": "s",
-      "change": "0"
+      "keyword": "호나우지뉴, 11년 만에 복귀",
+      "state": "+",
+      "change": "6"
     }
   ]
 }
