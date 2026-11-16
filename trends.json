@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-11-16T02:54:15.245Z",
+  "updatedAt": "2026-11-16T10:25:23.335Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "이재명",
-      "traffic": "200+"
+      "keyword": "ตรวจหวย",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "우주",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "무역",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "즉석밥",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "이현중",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "공모",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "박혜연",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 8,
-      "keyword": "초고층",
+      "keyword": "엔비디아 전 ceo 복귀 시도와 미국 재무장관 반대에 대한 최신 뉴스 알려줘",
       "traffic": "1000+"
     },
     {
-      "rank": 9,
-      "keyword": "청년미래적금",
+      "rank": 3,
+      "keyword": "bangladesh vs south africa",
       "traffic": "200+"
     },
     {
+      "rank": 4,
+      "keyword": "южная корея",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "김지수",
+      "traffic": "5000+"
+    },
+    {
+      "rank": 6,
+      "keyword": "신랑",
+      "traffic": "10000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "캄보디아",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "005930",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 9,
+      "keyword": "검찰",
+      "traffic": "500+"
+    },
+    {
       "rank": 10,
-      "keyword": "공직",
+      "keyword": "박지윤",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "대법, 한덕수 내란 19일 선고",
-      "state": "n",
-      "change": "0"
+      "keyword": "AI 부정행위 우려 여전",
+      "state": "+",
+      "change": "92"
     },
     {
       "rank": 2,
-      "keyword": "수능 AI 부정행위 대책 필요",
-      "state": "+",
-      "change": "6"
-    },
-    {
-      "rank": 3,
-      "keyword": "이재명 부부 필리핀행",
+      "keyword": "APBC 후 귀국하는 선수들",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "조정식 국회의장 헌법개정위원장",
+      "rank": 3,
+      "keyword": "한동훈 의원 빙부상 조문",
       "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 4,
+      "keyword": "민희진 뉴진스 계약 해지 부인",
+      "state": "-",
       "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "최민희 의원 하이에나 고소",
+      "keyword": "이재명 한-아세안 정상회의",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 6,
-      "keyword": "김유정 100일 거짓말",
-      "state": "-",
+      "keyword": "3분기 순이익 전년비",
+      "state": "+",
       "change": "2"
     },
     {
       "rank": 7,
-      "keyword": "문무 장혁 검증 완료",
+      "keyword": "김유정 100일의 진실!",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "서울중수청 명륜당 압수수색",
-      "state": "s",
-      "change": "0"
+      "keyword": "블랙핑크 그룹 활동 논의 중",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "이호선, 모친상 조의금 기부",
-      "state": "n",
-      "change": "0"
+      "keyword": "젠슨 황 복귀 추진 중",
+      "state": "+",
+      "change": "10"
     },
     {
       "rank": 10,
-      "keyword": "호나우지뉴, 11년 만에 복귀",
-      "state": "+",
-      "change": "6"
+      "keyword": "NCCK 회장 김장환",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
