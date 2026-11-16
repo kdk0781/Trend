@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-11-16T10:25:23.335Z",
+  "updatedAt": "2026-11-16T20:36:05.551Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "ตรวจหวย",
-      "traffic": "2000+"
+      "keyword": "독일 대 네덜란드",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "엔비디아 전 ceo 복귀 시도와 미국 재무장관 반대에 대한 최신 뉴스 알려줘",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "bangladesh vs south africa",
+      "keyword": "임예진",
       "traffic": "200+"
     },
     {
+      "rank": 3,
+      "keyword": "장항준",
+      "traffic": "100+"
+    },
+    {
       "rank": 4,
-      "keyword": "южная корея",
+      "keyword": "경비원",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "김지수",
-      "traffic": "5000+"
+      "keyword": "robert pattinson",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "신랑",
-      "traffic": "10000+"
+      "keyword": "다시보기",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "캄보디아",
-      "traffic": "500+"
+      "keyword": "로버트 패틴슨",
+      "traffic": "1000+"
     },
     {
       "rank": 8,
-      "keyword": "005930",
-      "traffic": "2000+"
+      "keyword": "추미애",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "검찰",
-      "traffic": "500+"
+      "keyword": "최우제",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "박지윤",
-      "traffic": "200+"
+      "keyword": "김주혁",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "AI 부정행위 우려 여전",
-      "state": "+",
-      "change": "92"
-    },
-    {
-      "rank": 2,
-      "keyword": "APBC 후 귀국하는 선수들",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 3,
-      "keyword": "한동훈 의원 빙부상 조문",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 4,
-      "keyword": "민희진 뉴진스 계약 해지 부인",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "이재명 한-아세안 정상회의",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "3분기 순이익 전년비",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "김유정 100일의 진실!",
+      "keyword": "트럼프 중국서 김정은 만날 수도",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "고경표 팬미팅 취소",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "젠슨 황 복귀 검토 안 해",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 4,
+      "keyword": "카타르전 앞두고 훈련 중인 대표팀",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "제니 그래미 후보",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "하나은행, 우리은행에 첫 승",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 7,
+      "keyword": "서울시립대 15명 정보 유출",
+      "state": "-",
+      "change": "2"
+    },
+    {
       "rank": 8,
-      "keyword": "블랙핑크 그룹 활동 논의 중",
-      "state": "+",
-      "change": "1"
+      "keyword": "AI 커닝 확산 우려",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 9,
-      "keyword": "젠슨 황 복귀 추진 중",
-      "state": "+",
-      "change": "10"
+      "keyword": "김성환 기후부 장관",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "NCCK 회장 김장환",
-      "state": "n",
+      "keyword": "이재명 대통령 갈라디너",
+      "state": "s",
       "change": "0"
     }
   ]
