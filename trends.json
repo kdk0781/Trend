@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-11-17T11:42:33.288Z",
+  "updatedAt": "2026-11-17T20:02:00.875Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "심우정",
-      "traffic": "1000+"
+      "keyword": "gta6",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "로베르트 모레노",
-      "traffic": "1000+"
+      "keyword": "애플",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "권순우",
-      "traffic": "500+"
+      "keyword": "데블스플랜",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "미스터트롯3",
+      "keyword": "탄도 미사일",
       "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "원주 db 대 안양 정관장",
-      "traffic": "500+"
+      "keyword": "mbk파트너스",
+      "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "농협은행",
-      "traffic": "200+"
+      "keyword": "정우영",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "심정지",
-      "traffic": "500+"
+      "keyword": "서울경제",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "이재명",
-      "traffic": "500+"
+      "keyword": "헝거게임",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "singapore vs brazil",
-      "traffic": "2000+"
+      "keyword": "친선경기",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "싱가포르 대 브라질",
-      "traffic": "10000+"
+      "keyword": "김다현",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "일본 입국 거부된 조국 원장",
+      "keyword": "경북 상주 지진 발생",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "모레노, 카타르전 후 스페인행",
+      "keyword": "오세훈, 카타르에 1-0 승리",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "장나라, 연하 남편 고백",
-      "state": "s",
-      "change": "0"
+      "keyword": "젠슨 황 복귀 의사 표명",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "수능 부정행위하겠습니다 행위",
+      "keyword": "AI 부정행위 조사",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "AI 커닝 확산 우려",
-      "state": "-",
-      "change": "3"
+      "keyword": "여에스더 홍혜걸, 합방 32년 만에",
+      "state": "+",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "나의 유죄인간",
+      "keyword": "DAMEX 2026서 공개",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "이규태 이동근 발탁",
-      "state": "n",
-      "change": "0"
+      "keyword": "중국 간 이재명 대통령",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "에이티즈 우영 고양이 웃음",
+      "keyword": "무관용 엄정 대응",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이현욱 장혁 김강우 박성웅 문무 캐릭터",
-      "state": "+",
-      "change": "1"
+      "keyword": "한국전력 OK저축은행 4연승",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "DB 손해보험",
-      "state": "-",
-      "change": "3"
+      "keyword": "최희, 사후 장기기증 결정",
+      "state": "+",
+      "change": "4"
     }
   ]
 }
