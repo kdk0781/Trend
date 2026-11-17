@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-11-16T20:36:05.551Z",
+  "updatedAt": "2026-11-17T03:06:57.098Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "독일 대 네덜란드",
-      "traffic": "500+"
+      "keyword": "예비소집일",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "임예진",
-      "traffic": "200+"
+      "keyword": "피의자",
+      "traffic": "10000+"
     },
     {
       "rank": 3,
-      "keyword": "장항준",
-      "traffic": "100+"
+      "keyword": "상장",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "경비원",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "robert pattinson",
-      "traffic": "500+"
-    },
-    {
-      "rank": 6,
-      "keyword": "다시보기",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "로버트 패틴슨",
+      "keyword": "너구리",
       "traffic": "1000+"
     },
     {
-      "rank": 8,
-      "keyword": "추미애",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "최우제",
+      "rank": 5,
+      "keyword": "2027",
       "traffic": "100+"
     },
     {
-      "rank": 10,
-      "keyword": "김주혁",
+      "rank": 6,
+      "keyword": "미스터트롯4",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 7,
+      "keyword": "서울고등법원",
       "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "풍자",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
+      "keyword": "유학생",
+      "traffic": "200+"
+    },
+    {
+      "rank": 10,
+      "keyword": "두산에너빌리티",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 중국서 김정은 만날 수도",
-      "state": "s",
-      "change": "0"
+      "keyword": "조작기소 특검법 의결 규탄 행진",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "고경표 팬미팅 취소",
-      "state": "s",
+      "keyword": "국무회의 한성숙 국무총리",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "젠슨 황 복귀 검토 안 해",
+      "keyword": "오태곤과 양의지 FA 1호 계약",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "카타르전 앞두고 훈련 중인 대표팀",
+      "keyword": "빈지노, 고경표 사과문에 좋아요",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "제니 그래미 후보",
+      "keyword": "발언하는 한병도 원내대표",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "하이닉스 주가 전망 하락",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 7,
+      "keyword": "젠슨 황 관련 뉴스의 중심이 된 엔비디아 위기.",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "하나은행, 우리은행에 첫 승",
+      "rank": 8,
+      "keyword": "LG 올레드 TV, 유럽 7국 27부문 1위",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "서울시립대 15명 정보 유출",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 8,
-      "keyword": "AI 커닝 확산 우려",
-      "state": "-",
-      "change": "2"
-    },
-    {
       "rank": 9,
-      "keyword": "김성환 기후부 장관",
+      "keyword": "이광재 위원장 활동",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이재명 대통령 갈라디너",
-      "state": "s",
-      "change": "0"
+      "keyword": "임현주 육아휴직 중 퇴사 논란",
+      "state": "-",
+      "change": "5"
     }
   ]
 }
