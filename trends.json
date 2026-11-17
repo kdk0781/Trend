@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-11-17T03:06:57.098Z",
+  "updatedAt": "2026-11-17T11:42:33.288Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "예비소집일",
-      "traffic": "100+"
+      "keyword": "심우정",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "피의자",
-      "traffic": "10000+"
+      "keyword": "로베르트 모레노",
+      "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "상장",
-      "traffic": "200+"
+      "keyword": "권순우",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "너구리",
+      "keyword": "미스터트롯3",
       "traffic": "1000+"
     },
     {
       "rank": 5,
-      "keyword": "2027",
-      "traffic": "100+"
+      "keyword": "원주 db 대 안양 정관장",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "미스터트롯4",
-      "traffic": "2000+"
+      "keyword": "농협은행",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "서울고등법원",
+      "keyword": "심정지",
       "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "풍자",
+      "keyword": "이재명",
       "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "유학생",
-      "traffic": "200+"
+      "keyword": "singapore vs brazil",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "두산에너빌리티",
-      "traffic": "5000+"
+      "keyword": "싱가포르 대 브라질",
+      "traffic": "10000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "조작기소 특검법 의결 규탄 행진",
+      "keyword": "일본 입국 거부된 조국 원장",
       "state": "+",
       "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "국무회의 한성숙 국무총리",
+      "keyword": "모레노, 카타르전 후 스페인행",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "오태곤과 양의지 FA 1호 계약",
+      "keyword": "장나라, 연하 남편 고백",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "빈지노, 고경표 사과문에 좋아요",
+      "keyword": "수능 부정행위하겠습니다 행위",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "발언하는 한병도 원내대표",
-      "state": "+",
-      "change": "1"
+      "keyword": "AI 커닝 확산 우려",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "하이닉스 주가 전망 하락",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 7,
-      "keyword": "젠슨 황 관련 뉴스의 중심이 된 엔비디아 위기.",
+      "keyword": "나의 유죄인간",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "이규태 이동근 발탁",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 8,
-      "keyword": "LG 올레드 TV, 유럽 7국 27부문 1위",
+      "keyword": "에이티즈 우영 고양이 웃음",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "이광재 위원장 활동",
-      "state": "s",
-      "change": "0"
+      "keyword": "이현욱 장혁 김강우 박성웅 문무 캐릭터",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "임현주 육아휴직 중 퇴사 논란",
+      "keyword": "DB 손해보험",
       "state": "-",
-      "change": "5"
+      "change": "3"
     }
   ]
 }
