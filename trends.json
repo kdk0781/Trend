@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-18T02:20:34.928Z",
+  "updatedAt": "2026-11-18T10:26:13.221Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "탄약",
-      "traffic": "500+"
+      "keyword": "축산신문",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "변요한",
+      "keyword": "공습",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "argentina đấu với costa rica",
-      "traffic": "100+"
+      "keyword": "새만금",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "argentina vs kosta rika",
-      "traffic": "100+"
+      "keyword": "호랑이",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "음료",
+      "keyword": "김효진",
       "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "금양",
-      "traffic": "500+"
+      "keyword": "bangladesh vs south africa",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "공무원연금공단",
+      "keyword": "여자 기성전",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "카르다노",
-      "traffic": "100+"
+      "keyword": "백금",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "메가커피",
-      "traffic": "100+"
+      "keyword": "치매",
+      "traffic": "5000+"
     },
     {
       "rank": 10,
-      "keyword": "제물포고등학교",
-      "traffic": "100+"
+      "keyword": "중대범죄수사청",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "수능 AI 부정행위 대책 논의",
-      "state": "s",
+      "keyword": "펄어비스 붉은사막 8관왕",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "고액 체납자 공개",
-      "state": "+",
-      "change": "4"
+      "keyword": "수능 집행정지 기각",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "코스피 5천선 회복",
+      "keyword": "배종옥의 공포 첫 도전",
       "state": "+",
-      "change": "2"
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "고경표 음주 불편 최소화",
-      "state": "-",
-      "change": "3"
+      "keyword": "한동희 손등 골절 진단 6주 소요",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "K리그 이달의 수상자 발표",
-      "state": "n",
-      "change": "0"
+      "keyword": "이재명 APEC 서밋 참석",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "KDB생명 매각 무산",
-      "state": "+",
-      "change": "1"
+      "keyword": "한중 FTA 타결 기대",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "최태원 회장 기조연설",
+      "keyword": "하이닉스 주가 반등 여부",
+      "state": "+",
+      "change": "5"
+    },
+    {
+      "rank": 8,
+      "keyword": "민희진 방시혁 42억 소송 5차례",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "사람 살리는 금융 캠페인",
+      "rank": 9,
+      "keyword": "쇼트트랙 최민정 은퇴",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "앤 해서웨이 셋째",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 10,
-      "keyword": "강민경 복지 3년",
+      "keyword": "정은경 장관 발언",
       "state": "n",
       "change": "0"
     }
