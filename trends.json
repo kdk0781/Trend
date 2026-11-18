@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-11-17T20:02:00.875Z",
+  "updatedAt": "2026-11-18T02:20:34.928Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "gta6",
-      "traffic": "200+"
+      "keyword": "탄약",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "애플",
+      "keyword": "변요한",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "데블스플랜",
-      "traffic": "1000+"
+      "keyword": "argentina đấu với costa rica",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "탄도 미사일",
-      "traffic": "1000+"
+      "keyword": "argentina vs kosta rika",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "mbk파트너스",
-      "traffic": "100+"
+      "keyword": "음료",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "정우영",
-      "traffic": "100+"
+      "keyword": "금양",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "서울경제",
-      "traffic": "200+"
+      "keyword": "공무원연금공단",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "헝거게임",
+      "keyword": "카르다노",
       "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "친선경기",
-      "traffic": "1000+"
+      "keyword": "메가커피",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "김다현",
-      "traffic": "200+"
+      "keyword": "제물포고등학교",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "경북 상주 지진 발생",
-      "state": "+",
-      "change": "1"
+      "keyword": "수능 AI 부정행위 대책 논의",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "오세훈, 카타르에 1-0 승리",
-      "state": "n",
-      "change": "0"
+      "keyword": "고액 체납자 공개",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 3,
-      "keyword": "젠슨 황 복귀 의사 표명",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "AI 부정행위 조사",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "여에스더 홍혜걸, 합방 32년 만에",
+      "keyword": "코스피 5천선 회복",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 6,
-      "keyword": "DAMEX 2026서 공개",
-      "state": "s",
-      "change": "0"
+      "rank": 4,
+      "keyword": "고경표 음주 불편 최소화",
+      "state": "-",
+      "change": "3"
     },
     {
-      "rank": 7,
-      "keyword": "중국 간 이재명 대통령",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "무관용 엄정 대응",
+      "rank": 5,
+      "keyword": "K리그 이달의 수상자 발표",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "KDB생명 매각 무산",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "최태원 회장 기조연설",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "사람 살리는 금융 캠페인",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "한국전력 OK저축은행 4연승",
-      "state": "s",
+      "keyword": "앤 해서웨이 셋째",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "최희, 사후 장기기증 결정",
-      "state": "+",
-      "change": "4"
+      "keyword": "강민경 복지 3년",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
