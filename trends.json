@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-19T08:19:24.966Z",
+  "updatedAt": "2026-11-19T17:26:30.710Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "lg 임원인사",
-      "traffic": "500+"
+      "keyword": "amd",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "해군",
-      "traffic": "200+"
+      "keyword": "플라비오 코볼리",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "주얼리",
-      "traffic": "1000+"
+      "keyword": "엔화",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "수능 결시율",
-      "traffic": "200+"
+      "keyword": "kt wiz",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "버거킹 초콜릿와퍼",
-      "traffic": "100+"
+      "keyword": "습관",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "민주유공자법",
-      "traffic": "200+"
+      "keyword": "회계사",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "디 에이치 반포 124",
-      "traffic": "100+"
+      "keyword": "프로게이머",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "예비타당성조사",
-      "traffic": "200+"
+      "keyword": "박하나",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "수능 샤프",
-      "traffic": "200+"
+      "keyword": "앤트로픽",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "서울교통공사",
-      "traffic": "100+"
+      "keyword": "타래",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "이진우 CCTV 공개",
-      "state": "s",
-      "change": "0"
+      "keyword": "조희대 탄핵 추진",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "한국 수출 1조 달러",
+      "keyword": "수능 부정행위 108건 적발",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김건희·한덕수 선고일",
-      "state": "s",
+      "keyword": "리트 만점자 사망 수사 계속",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "수능 시간표",
+      "keyword": "대한항공 3연패 탈출",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "박찬종 시신기증",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "민주유공자법 본회의 상정",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "LG전자 사장 승진 2명",
+      "keyword": "성폭행 유죄 강지환, 틱톡 뜨개질 라이브",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "김건희 징역 4년 확정",
+      "state": "+",
+      "change": "2"
+    },
+    {
+      "rank": 7,
+      "keyword": "직업탐구 및 외국어 정답표",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 8,
-      "keyword": "김민솔 1억 기부 아너 소사이어티",
+      "keyword": "이상민 감독 작전지시",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "출산 다큐 상영회",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "최동석, 박지윤 입장 반박",
-      "state": "-",
-      "change": "2"
-    },
-    {
       "rank": 10,
-      "keyword": "박하나, 김태술과 부모 된다",
+      "keyword": "PHP 치명적 취약점 발견",
       "state": "n",
       "change": "0"
     }
