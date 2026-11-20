@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-11-20T13:21:01.807Z",
+  "updatedAt": "2026-11-20T21:23:01.992Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "홍진경",
-      "traffic": "100+"
-    },
-    {
-      "rank": 2,
-      "keyword": "cl",
+      "keyword": "당구",
       "traffic": "200+"
     },
     {
-      "rank": 3,
-      "keyword": "흥국생명",
+      "rank": 2,
+      "keyword": "황유민",
       "traffic": "2000+"
     },
     {
+      "rank": 3,
+      "keyword": "김호령",
+      "traffic": "500+"
+    },
+    {
       "rank": 4,
-      "keyword": "cuaca besok",
+      "keyword": "아틀레틱 대 에스파뇰",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "신영수",
-      "traffic": "500+"
+      "keyword": "김수현",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "국민연금공단",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "최미나수",
+      "keyword": "한국수력원자력",
       "traffic": "100+"
     },
     {
+      "rank": 7,
+      "keyword": "tqqq",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "이진우 부검",
-      "traffic": "1000+"
+      "keyword": "장윤정",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "2027 수능 만점자",
-      "traffic": "1000+"
+      "keyword": "며느리",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "ind-a vs nep",
-      "traffic": "2000+"
+      "keyword": "한파",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "마이 케이팝 스타 수상한",
-      "state": "n",
-      "change": "0"
+      "keyword": "트럼프 해외 데이터센터 세금 폭탄",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "김수현 소속사 쿠쿠 배상 8억7천",
+      "keyword": "장나라 변호사 굿파트너",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 3,
+      "keyword": "방탄소년단 대상 영예 책임감↑",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 3,
-      "keyword": "김종철 경찰청장 임명 재가",
-      "state": "+",
-      "change": "3"
-    },
-    {
       "rank": 4,
-      "keyword": "김민, 산불 초기 진화",
+      "keyword": "푸른길 형사 만남",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "친구 살해 정재환 의식 있었다",
-      "state": "n",
-      "change": "0"
+      "keyword": "투바투 연준, 7개월차 요리 실력!",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "50대 남성 범죄 혐의",
-      "state": "n",
-      "change": "0"
+      "keyword": "조희대 탄핵 논란",
+      "state": "+",
+      "change": "4"
     },
     {
       "rank": 7,
-      "keyword": "포스코 노사 임금협상 재도출",
+      "keyword": "아침 영하 8도 강추위",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "신림동 인도 돌진 2명 부상",
+      "keyword": "헝가리 귀화 김민석 은퇴",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "99% 수험생 단추 없는 옷",
+      "keyword": "정철원 키움행! 롯데 임지열 영입!",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이해란 26점 삼성생명 4연승 1위",
-      "state": "n",
-      "change": "0"
+      "keyword": "후티, 사우디 시설 공격 예고",
+      "state": "+",
+      "change": "1"
     }
   ]
 }
