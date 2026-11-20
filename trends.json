@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-20T04:20:43.010Z",
+  "updatedAt": "2026-11-20T13:21:01.807Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "살인",
+      "keyword": "홍진경",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "인천일보",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "이만수",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "김아림",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "한겨레",
+      "keyword": "cl",
       "traffic": "200+"
     },
     {
-      "rank": 6,
-      "keyword": "배치표",
+      "rank": 3,
+      "keyword": "흥국생명",
       "traffic": "2000+"
     },
     {
+      "rank": 4,
+      "keyword": "cuaca besok",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "신영수",
+      "traffic": "500+"
+    },
+    {
+      "rank": 6,
+      "keyword": "국민연금공단",
+      "traffic": "1000+"
+    },
+    {
       "rank": 7,
-      "keyword": "ราคาทองวันนี้",
+      "keyword": "최미나수",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "시애틀 사운더스 대 솔트레이크",
-      "traffic": "2000+"
+      "keyword": "이진우 부검",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "키오스크",
-      "traffic": "500+"
+      "keyword": "2027 수능 만점자",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "굿파트너",
-      "traffic": "500+"
+      "keyword": "ind-a vs nep",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "수능 부정행위 111건 적발",
-      "state": "+",
-      "change": "2"
-    },
-    {
-      "rank": 2,
-      "keyword": "중견기업인의 날 기념식",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "코스피 매도 사이드카 발동",
+      "keyword": "마이 케이팝 스타 수상한",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "김수현 소속사 쿠쿠 배상 8억7천",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "김종철 경찰청장 임명 재가",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 4,
-      "keyword": "김영삼 대통령 추모식",
-      "state": "s",
+      "keyword": "김민, 산불 초기 진화",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김범수 2심도 무죄",
-      "state": "-",
-      "change": "4"
+      "keyword": "친구 살해 정재환 의식 있었다",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "이진우 사망 수사 계속 의혹 규명",
-      "state": "-",
-      "change": "1"
+      "keyword": "50대 남성 범죄 혐의",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "기리보이, 이세영 아들 친부 확인",
-      "state": "s",
+      "keyword": "포스코 노사 임금협상 재도출",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "젊어지고 싶은 욕망",
+      "keyword": "신림동 인도 돌진 2명 부상",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "가고시마 SSG MVP",
-      "state": "+",
-      "change": "3"
+      "keyword": "99% 수험생 단추 없는 옷",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "박지윤 악플러 송치",
+      "keyword": "이해란 26점 삼성생명 4연승 1위",
       "state": "n",
       "change": "0"
     }
