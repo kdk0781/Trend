@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-21T17:35:01.591Z",
+  "updatedAt": "2026-11-21T22:19:23.649Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "토트넘 홋스퍼 fc 대 입스위치 타운 fc 라인업",
+      "keyword": "최미나수",
       "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "เชลซี พบ ลีดส์",
+      "keyword": "쇼트트랙",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "como vs cagliari",
-      "traffic": "100+"
+      "keyword": "지수",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "권순우",
-      "traffic": "200+"
+      "keyword": "경제",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "엑셀방송",
-      "traffic": "200+"
+      "keyword": "강사",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "채령",
-      "traffic": "500+"
-    },
-    {
-      "rank": 7,
-      "keyword": "chelsea vs leeds",
-      "traffic": "500+"
-    },
-    {
-      "rank": 8,
-      "keyword": "장동혁",
-      "traffic": "200+"
-    },
-    {
-      "rank": 9,
-      "keyword": "민효린",
+      "keyword": "레알마드리드",
       "traffic": "100+"
     },
     {
+      "rank": 7,
+      "keyword": "배추",
+      "traffic": "2000+"
+    },
+    {
+      "rank": 8,
+      "keyword": "송미령",
+      "traffic": "100+"
+    },
+    {
+      "rank": 9,
+      "keyword": "real madrid vs celta",
+      "traffic": "500+"
+    },
+    {
       "rank": 10,
-      "keyword": "코번트리 대 크리스털 팰리스",
-      "traffic": "1000+"
+      "keyword": "알렉산더 즈베레프",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "22일 첫차 운행 재개",
+      "keyword": "굿파트너 2",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "BTS와 코르티스 MAMA 대상 수상",
+      "keyword": "박진영, 김유정의 인질이 되다",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "수원 삼성 승격 우승 이어",
+      "keyword": "ITZY 채령 라면 한번도 안 먹어",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "ITZY 채령 라면 먹은 적 없어",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "로또 1등 14명 20억씩 지급",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 6,
-      "keyword": "추미애 조희대 탄핵 즉각 실행",
+      "keyword": "18세 1골 1도움 맹활약",
       "state": "s",
       "change": "0"
     },
     {
-      "rank": 7,
-      "keyword": "신한은행, 3연승으로 선두 복귀",
-      "state": "-",
+      "rank": 5,
+      "keyword": "은퇴전 패배 후 추사랑 오열",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "AMF FESTA 수상자들",
+      "state": "+",
       "change": "4"
     },
     {
+      "rank": 7,
+      "keyword": "푸른길 형사들의 만남",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 8,
-      "keyword": "홍대서 버스 인도 돌진 6명 경상",
+      "keyword": "바레인 RAK 컬렉션",
       "state": "+",
       "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "추성훈 은퇴전 패배",
-      "state": "s",
+      "keyword": "아침 기온 영하 9도 추위",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김유정과 박진영 위기 속 인질 상황",
+      "keyword": "이란 F-16 공격 주장",
       "state": "n",
       "change": "0"
     }
