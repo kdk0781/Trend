@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-21T10:10:48.131Z",
+  "updatedAt": "2026-11-21T17:35:01.591Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "중일 관계",
-      "traffic": "200+"
+      "keyword": "토트넘 홋스퍼 fc 대 입스위치 타운 fc 라인업",
+      "traffic": "100+"
     },
     {
       "rank": 2,
-      "keyword": "england vs australia",
+      "keyword": "เชลซี พบ ลีดส์",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "성리",
-      "traffic": "500+"
+      "keyword": "como vs cagliari",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "굴",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "멜라니아 트럼프",
-      "traffic": "100+"
-    },
-    {
-      "rank": 6,
-      "keyword": "광주공항",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "sri lanka a vs hong kong",
-      "traffic": "100+"
-    },
-    {
-      "rank": 8,
-      "keyword": "류효영",
-      "traffic": "500+"
-    },
-    {
-      "rank": 9,
-      "keyword": "은지원",
+      "keyword": "권순우",
       "traffic": "200+"
     },
     {
-      "rank": 10,
-      "keyword": "종묘",
+      "rank": 5,
+      "keyword": "엑셀방송",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "채령",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "chelsea vs leeds",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "장동혁",
+      "traffic": "200+"
+    },
+    {
+      "rank": 9,
+      "keyword": "민효린",
       "traffic": "100+"
+    },
+    {
+      "rank": 10,
+      "keyword": "코번트리 대 크리스털 팰리스",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "대구 경북 규탄대회",
-      "state": "+",
-      "change": "1"
+      "keyword": "22일 첫차 운행 재개",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "수원 삼성 K리그2 우승!",
-      "state": "-",
-      "change": "1"
+      "keyword": "BTS와 코르티스 MAMA 대상 수상",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "태양, 민효린 언급하다 울컥",
+      "keyword": "수원 삼성 승격 우승 이어",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "최민정 월드투어 3연속 금메달",
-      "state": "n",
-      "change": "0"
+      "keyword": "ITZY 채령 라면 먹은 적 없어",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 5,
-      "keyword": "한동훈, 12월 3일에 꼭 하라",
-      "state": "n",
-      "change": "0"
+      "keyword": "로또 1등 14명 20억씩 지급",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 6,
-      "keyword": "李대통령 울산 전통시장 방문",
-      "state": "n",
+      "keyword": "추미애 조희대 탄핵 즉각 실행",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "공기총 손질하다 행인 부상",
-      "state": "n",
-      "change": "0"
+      "keyword": "신한은행, 3연승으로 선두 복귀",
+      "state": "-",
+      "change": "4"
     },
     {
       "rank": 8,
-      "keyword": "신한은행 3연승 공동 선두",
-      "state": "n",
-      "change": "0"
+      "keyword": "홍대서 버스 인도 돌진 6명 경상",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "경기도교육청 교원 158명 유출",
-      "state": "n",
+      "keyword": "추성훈 은퇴전 패배",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김준호와 가족 다섯 태교 여행",
+      "keyword": "김유정과 박진영 위기 속 인질 상황",
       "state": "n",
       "change": "0"
     }
