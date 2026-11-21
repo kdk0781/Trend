@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-11-20T21:23:01.992Z",
+  "updatedAt": "2026-11-21T02:38:09.380Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "당구",
-      "traffic": "200+"
-    },
-    {
-      "rank": 2,
-      "keyword": "황유민",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "김호령",
+      "keyword": "편의점",
       "traffic": "500+"
     },
     {
+      "rank": 2,
+      "keyword": "nh농협카드",
+      "traffic": "100+"
+    },
+    {
+      "rank": 3,
+      "keyword": "매일경제",
+      "traffic": "100+"
+    },
+    {
       "rank": 4,
-      "keyword": "아틀레틱 대 에스파뇰",
+      "keyword": "두산베어스",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "김수현",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "한국수력원자력",
+      "keyword": "전북특별자치도",
       "traffic": "100+"
     },
     {
-      "rank": 7,
-      "keyword": "tqqq",
-      "traffic": "200+"
+      "rank": 6,
+      "keyword": "패딩",
+      "traffic": "10000+"
     },
     {
-      "rank": 8,
-      "keyword": "장윤정",
+      "rank": 7,
+      "keyword": "동아일보",
       "traffic": "2000+"
     },
     {
+      "rank": 8,
+      "keyword": "lpga",
+      "traffic": "1000+"
+    },
+    {
       "rank": 9,
-      "keyword": "며느리",
-      "traffic": "500+"
+      "keyword": "지스타",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "한파",
+      "keyword": "공군사관학교",
       "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 해외 데이터센터 세금 폭탄",
-      "state": "+",
-      "change": "1"
+      "keyword": "경부선 화물열차 탈선 중단",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "장나라 변호사 굿파트너",
-      "state": "-",
-      "change": "1"
+      "keyword": "굿파트너 2",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "방탄소년단 대상 영예 책임감↑",
+      "keyword": "재혼 황후 글로벌 1위 달성",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "푸른길 형사 만남",
+      "keyword": "다저스, 내야수 루이스 영입",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "투바투 연준, 7개월차 요리 실력!",
+      "keyword": "조희대 탄핵 논란",
       "state": "+",
-      "change": "3"
+      "change": "2"
     },
     {
       "rank": 6,
-      "keyword": "조희대 탄핵 논란",
-      "state": "+",
-      "change": "4"
-    },
-    {
-      "rank": 7,
-      "keyword": "아침 영하 8도 강추위",
-      "state": "n",
+      "keyword": "인터뷰하는 서준오 노원구청장",
+      "state": "s",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "홀인원 김아림, 최종전 선두",
+      "state": "+",
+      "change": "14"
+    },
+    {
       "rank": 8,
-      "keyword": "헝가리 귀화 김민석 은퇴",
+      "keyword": "트럼프 한반도 위험 논의",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "정철원 키움행! 롯데 임지열 영입!",
+      "keyword": "수능 6번 도전 친구의 안타까운 죽음",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "후티, 사우디 시설 공격 예고",
-      "state": "+",
-      "change": "1"
+      "keyword": "최근에 넣었다 가슴",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
