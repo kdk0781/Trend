@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-21T02:38:09.380Z",
+  "updatedAt": "2026-11-21T10:10:48.131Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "편의점",
-      "traffic": "500+"
+      "keyword": "중일 관계",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "nh농협카드",
+      "keyword": "england vs australia",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "매일경제",
-      "traffic": "100+"
+      "keyword": "성리",
+      "traffic": "500+"
     },
     {
       "rank": 4,
-      "keyword": "두산베어스",
-      "traffic": "200+"
+      "keyword": "굴",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "전북특별자치도",
+      "keyword": "멜라니아 트럼프",
       "traffic": "100+"
     },
     {
       "rank": 6,
-      "keyword": "패딩",
-      "traffic": "10000+"
+      "keyword": "광주공항",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "동아일보",
-      "traffic": "2000+"
+      "keyword": "sri lanka a vs hong kong",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "lpga",
-      "traffic": "1000+"
+      "keyword": "류효영",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "지스타",
-      "traffic": "1000+"
+      "keyword": "은지원",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "공군사관학교",
-      "traffic": "200+"
+      "keyword": "종묘",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "경부선 화물열차 탈선 중단",
-      "state": "s",
-      "change": "0"
+      "keyword": "대구 경북 규탄대회",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "굿파트너 2",
-      "state": "s",
-      "change": "0"
+      "keyword": "수원 삼성 K리그2 우승!",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 3,
-      "keyword": "재혼 황후 글로벌 1위 달성",
+      "keyword": "태양, 민효린 언급하다 울컥",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "다저스, 내야수 루이스 영입",
+      "keyword": "최민정 월드투어 3연속 금메달",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "조희대 탄핵 논란",
-      "state": "+",
-      "change": "2"
+      "keyword": "한동훈, 12월 3일에 꼭 하라",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "인터뷰하는 서준오 노원구청장",
-      "state": "s",
+      "keyword": "李대통령 울산 전통시장 방문",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "홀인원 김아림, 최종전 선두",
-      "state": "+",
-      "change": "14"
+      "keyword": "공기총 손질하다 행인 부상",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "트럼프 한반도 위험 논의",
+      "keyword": "신한은행 3연승 공동 선두",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "수능 6번 도전 친구의 안타까운 죽음",
+      "keyword": "경기도교육청 교원 158명 유출",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "최근에 넣었다 가슴",
+      "keyword": "김준호와 가족 다섯 태교 여행",
       "state": "n",
       "change": "0"
     }
