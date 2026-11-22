@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-21T22:19:23.649Z",
+  "updatedAt": "2026-11-22T02:19:15.807Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "최미나수",
-      "traffic": "100+"
+      "keyword": "오현규",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "쇼트트랙",
-      "traffic": "100+"
-    },
-    {
-      "rank": 3,
-      "keyword": "지수",
-      "traffic": "500+"
-    },
-    {
-      "rank": 4,
-      "keyword": "경제",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "강사",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 6,
-      "keyword": "레알마드리드",
-      "traffic": "100+"
-    },
-    {
-      "rank": 7,
-      "keyword": "배추",
+      "keyword": "도경완",
       "traffic": "2000+"
     },
     {
+      "rank": 3,
+      "keyword": "담보 대출",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "김호영",
+      "traffic": "200+"
+    },
+    {
+      "rank": 5,
+      "keyword": "마마 어워즈",
+      "traffic": "200+"
+    },
+    {
+      "rank": 6,
+      "keyword": "나경원",
+      "traffic": "200+"
+    },
+    {
+      "rank": 7,
+      "keyword": "inter miami vs columbus",
+      "traffic": "500+"
+    },
+    {
       "rank": 8,
-      "keyword": "송미령",
-      "traffic": "100+"
+      "keyword": "수출규제",
+      "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "real madrid vs celta",
-      "traffic": "500+"
+      "keyword": "수험",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "알렉산더 즈베레프",
-      "traffic": "500+"
+      "keyword": "인공지능",
+      "traffic": "1000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "굿파트너 2",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "박진영, 김유정의 인질이 되다",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "ITZY 채령 라면 한번도 안 먹어",
+      "keyword": "현대엘리베이터 무벡스 지분 매각",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 4,
-      "keyword": "18세 1골 1도움 맹활약",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "은퇴전 패배 후 추사랑 오열",
+      "rank": 2,
+      "keyword": "김아림, LPGA 최종전 선두 유지",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 3,
+      "keyword": "김유정 박진영 빗속 입맞춤",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 4,
+      "keyword": "흑백 트리플스타 강승원 재혼 발표",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "고경표 핑계고 후보 논란",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "AMF FESTA 수상자들",
-      "state": "+",
-      "change": "4"
+      "keyword": "최태원 AI 인재 키우자",
+      "state": "-",
+      "change": "5"
     },
     {
       "rank": 7,
-      "keyword": "푸른길 형사들의 만남",
-      "state": "+",
-      "change": "2"
+      "keyword": "김태희 보면 감동",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "바레인 RAK 컬렉션",
-      "state": "+",
+      "keyword": "LG유플러스 AI 사업 실행력 강화",
+      "state": "-",
       "change": "3"
     },
     {
       "rank": 9,
-      "keyword": "아침 기온 영하 9도 추위",
+      "keyword": "안소현 레슨 진행",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "이란 F-16 공격 주장",
+      "keyword": "HD건설기계 통합제품센터 준공",
       "state": "n",
       "change": "0"
     }
