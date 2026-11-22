@@ -1,68 +1,68 @@
 {
-  "updatedAt": "2026-11-22T17:31:10.479Z",
+  "updatedAt": "2026-11-22T22:44:48.211Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "ลิเวอร์พูล พบ แมนยู",
-      "traffic": "500+"
+      "keyword": "날씨",
+      "traffic": "500000+"
     },
     {
       "rank": 2,
-      "keyword": "리버풀 맨유",
-      "traffic": "500+"
+      "keyword": "치매",
+      "traffic": "2000+"
     },
     {
       "rank": 3,
-      "keyword": "청년문화예술패스",
+      "keyword": "레임덕",
       "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "라민 야말",
-      "traffic": "100+"
+      "keyword": "weather",
+      "traffic": "5000+"
     },
     {
       "rank": 5,
-      "keyword": "liverpool vs man utd",
+      "keyword": "погода",
       "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "리버풀 대 맨유",
-      "traffic": "10000+"
+      "keyword": "天气",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "fc barcelona vs villarreal cf standings",
-      "traffic": "500+"
+      "keyword": "klasemen liverpool vs manchester united f.c.",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "u17 월드컵",
-      "traffic": "100+"
+      "keyword": "สภาพอากาศ",
+      "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "브라이튼",
+      "keyword": "양산시",
       "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "백종헌",
-      "traffic": "200+"
+      "keyword": "홍창기",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "증안펀드 가동 준비 중",
-      "state": "+",
-      "change": "1"
+      "keyword": "트럼프 이란 새해 공격 경고",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "남자 계주 금메달 획득!",
-      "state": "n",
+      "keyword": "아시아모델어워즈 부문 수상",
+      "state": "s",
       "change": "0"
     },
     {
@@ -73,45 +73,45 @@
     },
     {
       "rank": 4,
-      "keyword": "아시아모델어워즈 부문 수상",
+      "keyword": "김아림, 최종전 공동 7위 티띠꾼",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김동완 SNS 중단 선언",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "화석연료 합의문 채택",
+      "keyword": "김정은 대사 신임장 접수",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "2026년 11월 23일 운세",
+      "state": "+",
+      "change": "3"
+    },
+    {
       "rank": 7,
-      "keyword": "이랜드 다이렉트 승격",
-      "state": "n",
-      "change": "0"
+      "keyword": "박종민, 사랑이 온다 OST 부른다",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 8,
-      "keyword": "AI와 문무 가능성",
+      "keyword": "조희대 탄핵 논란이다",
       "state": "-",
       "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "KB, 삼성생명 4연패 탈출",
-      "state": "-",
-      "change": "1"
+      "keyword": "젠슨 황 불륜 논란 발생",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "해광호 실종자 수색 본격화",
-      "state": "-",
-      "change": "1"
+      "keyword": "창원 아파트 5개월 아기와 추락",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
