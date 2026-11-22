@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-11-22T09:55:05.960Z",
+  "updatedAt": "2026-11-22T17:31:10.479Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김영훈",
-      "traffic": "200+"
+      "keyword": "ลิเวอร์พูล พบ แมนยู",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "기온",
-      "traffic": "100+"
+      "keyword": "리버풀 맨유",
+      "traffic": "500+"
     },
     {
       "rank": 3,
-      "keyword": "노동자",
-      "traffic": "500+"
+      "keyword": "청년문화예술패스",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "정부",
-      "traffic": "1000+"
+      "keyword": "라민 야말",
+      "traffic": "100+"
     },
     {
       "rank": 5,
-      "keyword": "코스닥",
-      "traffic": "100+"
+      "keyword": "liverpool vs man utd",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "검은 월요일",
-      "traffic": "500+"
+      "keyword": "리버풀 대 맨유",
+      "traffic": "10000+"
     },
     {
       "rank": 7,
-      "keyword": "인수 합병",
-      "traffic": "200+"
+      "keyword": "fc barcelona vs villarreal cf standings",
+      "traffic": "500+"
     },
     {
       "rank": 8,
-      "keyword": "김천상무 대 제주 sk fc 순위",
-      "traffic": "2000+"
+      "keyword": "u17 월드컵",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "류효영",
-      "traffic": "100+"
+      "keyword": "브라이튼",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "소년 소녀 가장",
-      "traffic": "100+"
+      "keyword": "백종헌",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "남자 5000M 계주 금메달",
+      "keyword": "증안펀드 가동 준비 중",
       "state": "+",
-      "change": "5"
+      "change": "1"
     },
     {
       "rank": 2,
-      "keyword": "해광호 선체 수색 시작",
-      "state": "s",
+      "keyword": "남자 계주 금메달 획득!",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "음주운전 고경표 사과",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 4,
-      "keyword": "굿파트너 2",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
       "keyword": "100일의 거짓말",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 4,
+      "keyword": "아시아모델어워즈 부문 수상",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 5,
+      "keyword": "김동완 SNS 중단 선언",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 6,
-      "keyword": "문무",
-      "state": "+",
-      "change": "1"
+      "keyword": "화석연료 합의문 채택",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "조희대 탄핵 추진에",
+      "keyword": "이랜드 다이렉트 승격",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "명륜당 압수수색 영장 기각",
-      "state": "n",
-      "change": "0"
+      "keyword": "AI와 문무 가능성",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 9,
-      "keyword": "박종민, 사랑이 온다 OST 발표",
-      "state": "s",
-      "change": "0"
+      "keyword": "KB, 삼성생명 4연패 탈출",
+      "state": "-",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "이효리 넘었나 통편집",
-      "state": "n",
-      "change": "0"
+      "keyword": "해광호 실종자 수색 본격화",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
