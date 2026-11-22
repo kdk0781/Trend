@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-22T02:19:15.807Z",
+  "updatedAt": "2026-11-22T09:55:05.960Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "오현규",
+      "keyword": "김영훈",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "도경완",
-      "traffic": "2000+"
+      "keyword": "기온",
+      "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "담보 대출",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "김호영",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "마마 어워즈",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "나경원",
-      "traffic": "200+"
-    },
-    {
-      "rank": 7,
-      "keyword": "inter miami vs columbus",
+      "keyword": "노동자",
       "traffic": "500+"
     },
     {
+      "rank": 4,
+      "keyword": "정부",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "코스닥",
+      "traffic": "100+"
+    },
+    {
+      "rank": 6,
+      "keyword": "검은 월요일",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "인수 합병",
+      "traffic": "200+"
+    },
+    {
       "rank": 8,
-      "keyword": "수출규제",
+      "keyword": "김천상무 대 제주 sk fc 순위",
       "traffic": "2000+"
     },
     {
       "rank": 9,
-      "keyword": "수험",
-      "traffic": "2000+"
+      "keyword": "류효영",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "인공지능",
-      "traffic": "1000+"
+      "keyword": "소년 소녀 가장",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "현대엘리베이터 무벡스 지분 매각",
-      "state": "n",
-      "change": "0"
+      "keyword": "남자 5000M 계주 금메달",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 2,
-      "keyword": "김아림, LPGA 최종전 선두 유지",
+      "keyword": "해광호 선체 수색 시작",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "음주운전 고경표 사과",
       "state": "+",
       "change": "1"
     },
     {
-      "rank": 3,
-      "keyword": "김유정 박진영 빗속 입맞춤",
+      "rank": 4,
+      "keyword": "굿파트너 2",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 4,
-      "keyword": "흑백 트리플스타 강승원 재혼 발표",
-      "state": "n",
-      "change": "0"
-    },
-    {
       "rank": 5,
-      "keyword": "고경표 핑계고 후보 논란",
-      "state": "n",
+      "keyword": "100일의 거짓말",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "최태원 AI 인재 키우자",
-      "state": "-",
-      "change": "5"
+      "keyword": "문무",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 7,
-      "keyword": "김태희 보면 감동",
+      "keyword": "조희대 탄핵 추진에",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "LG유플러스 AI 사업 실행력 강화",
-      "state": "-",
-      "change": "3"
-    },
-    {
-      "rank": 9,
-      "keyword": "안소현 레슨 진행",
+      "keyword": "명륜당 압수수색 영장 기각",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 9,
+      "keyword": "박종민, 사랑이 온다 OST 발표",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "HD건설기계 통합제품센터 준공",
+      "keyword": "이효리 넘었나 통편집",
       "state": "n",
       "change": "0"
     }
