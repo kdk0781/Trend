@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-11-22T22:44:48.211Z",
+  "updatedAt": "2026-11-23T03:09:36.085Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "날씨",
-      "traffic": "500000+"
+      "keyword": "lpga",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "치매",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 3,
-      "keyword": "레임덕",
+      "keyword": "국가장학금",
       "traffic": "100+"
     },
     {
+      "rank": 3,
+      "keyword": "ssg 랜더스",
+      "traffic": "1000+"
+    },
+    {
       "rank": 4,
-      "keyword": "weather",
-      "traffic": "5000+"
+      "keyword": "제주특별자치도",
+      "traffic": "500+"
     },
     {
       "rank": 5,
-      "keyword": "погода",
-      "traffic": "1000+"
+      "keyword": "삼성증권",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "天气",
-      "traffic": "1000+"
+      "keyword": "리비아",
+      "traffic": "100+"
     },
     {
       "rank": 7,
-      "keyword": "klasemen liverpool vs manchester united f.c.",
-      "traffic": "200+"
+      "keyword": "화이트캡스 대 솔트레이크",
+      "traffic": "2000+"
     },
     {
       "rank": 8,
-      "keyword": "สภาพอากาศ",
+      "keyword": "구조조정",
       "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "양산시",
-      "traffic": "200+"
+      "keyword": "부산항",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "홍창기",
-      "traffic": "2000+"
+      "keyword": "수원 fc",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 이란 새해 공격 경고",
+      "keyword": "김종철 경찰청장 경례 및 참배",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "아시아모델어워즈 부문 수상",
-      "state": "s",
+      "keyword": "김민석 최고위 참석",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "100일의 거짓말",
-      "state": "s",
-      "change": "0"
+      "keyword": "박남춘 인천공항공사 사장",
+      "state": "+",
+      "change": "5"
     },
     {
       "rank": 4,
-      "keyword": "김아림, 최종전 공동 7위 티띠꾼",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "김정은 대사 신임장 접수",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "2026년 11월 23일 운세",
-      "state": "+",
-      "change": "3"
-    },
-    {
-      "rank": 7,
-      "keyword": "박종민, 사랑이 온다 OST 부른다",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 8,
-      "keyword": "조희대 탄핵 논란이다",
+      "keyword": "삼성증권 8241명 개인정보 유출",
       "state": "-",
       "change": "1"
     },
     {
-      "rank": 9,
-      "keyword": "젠슨 황 불륜 논란 발생",
+      "rank": 5,
+      "keyword": "조희대 탄핵 추진",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 6,
+      "keyword": "100일의 거짓말",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 7,
+      "keyword": "김신영, 정오의 희망곡 하차",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "윤한홍 의원 공판 출석",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 9,
+      "keyword": "강신철 장관 질의 답변",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "창원 아파트 5개월 아기와 추락",
-      "state": "n",
+      "keyword": "정은경 장관 중앙생활보장위원회",
+      "state": "s",
       "change": "0"
     }
   ]
