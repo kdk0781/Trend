@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-11-23T03:09:36.085Z",
+  "updatedAt": "2026-11-23T12:22:28.788Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "lpga",
+      "keyword": "상장",
       "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "국가장학금",
+      "keyword": "m",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "ssg 랜더스",
-      "traffic": "1000+"
+      "keyword": "공항",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "제주특별자치도",
-      "traffic": "500+"
+      "keyword": "반도체 메모리",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "삼성증권",
+      "keyword": "중위소득",
       "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "리비아",
-      "traffic": "100+"
+      "keyword": "브레인악셀",
+      "traffic": "500+"
     },
     {
       "rank": 7,
-      "keyword": "화이트캡스 대 솔트레이크",
-      "traffic": "2000+"
+      "keyword": "일론 머스크",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "구조조정",
+      "keyword": "이진관 판사",
       "traffic": "1000+"
     },
     {
       "rank": 9,
-      "keyword": "부산항",
-      "traffic": "1000+"
+      "keyword": "가석방",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "수원 fc",
-      "traffic": "100+"
+      "keyword": "딜라이트",
+      "traffic": "200+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김종철 경찰청장 경례 및 참배",
+      "keyword": "고경표, 경찰 조사 출석하며 사죄",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "김민석 최고위 참석",
-      "state": "n",
+      "keyword": "수능 부정신고 5억 포상",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "박남춘 인천공항공사 사장",
-      "state": "+",
-      "change": "5"
-    },
-    {
-      "rank": 4,
-      "keyword": "삼성증권 8241명 개인정보 유출",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 5,
-      "keyword": "조희대 탄핵 추진",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 6,
-      "keyword": "100일의 거짓말",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 7,
-      "keyword": "김신영, 정오의 희망곡 하차",
+      "keyword": "박준현 서면사과 취소",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "윤한홍 의원 공판 출석",
+      "rank": 4,
+      "keyword": "가족관계증명서",
+      "state": "+",
+      "change": "3"
+    },
+    {
+      "rank": 5,
+      "keyword": "한성숙, 카타르 및 몽골 장관 접견",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "친일 남주 옹호 반대해",
       "state": "-",
       "change": "2"
     },
     {
+      "rank": 7,
+      "keyword": "한동훈 제명 날, 장동혁 문자",
+      "state": "-",
+      "change": "1"
+    },
+    {
+      "rank": 8,
+      "keyword": "신한은행 단독 선두 유지",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "강신철 장관 질의 답변",
-      "state": "s",
+      "keyword": "포즈 취하는 이하느리",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "정은경 장관 중앙생활보장위원회",
-      "state": "s",
-      "change": "0"
+      "keyword": "강금실 국정원장 임명",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
