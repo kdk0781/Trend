@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-11-24T00:08:40.789Z",
+  "updatedAt": "2026-11-24T09:46:24.394Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "김범수",
-      "traffic": "1000+"
+      "keyword": "서경석",
+      "traffic": "2000+"
     },
     {
       "rank": 2,
-      "keyword": "tsla",
-      "traffic": "100+"
+      "keyword": "슈퍼문",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "울릉도",
-      "traffic": "5000+"
+      "keyword": "데블스플랜3 우승자",
+      "traffic": "2000+"
     },
     {
       "rank": 4,
-      "keyword": "김호령",
-      "traffic": "5000+"
+      "keyword": "차은우",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "c-390 밀레니엄",
-      "traffic": "1000+"
+      "keyword": "웨스팅하우스",
+      "traffic": "500+"
     },
     {
       "rank": 6,
-      "keyword": "이지애 아나운서",
+      "keyword": "김병기",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "정우성",
-      "traffic": "100+"
+      "keyword": "고양시",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "지하철 파업",
+      "keyword": "몸매",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "이유비",
+      "keyword": "화장실",
       "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "효연",
-      "traffic": "100+"
+      "keyword": "로치",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "트럼프 젠슨 황 복귀",
+      "keyword": "원현주 양홍원 이혼 소식",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 2,
+      "keyword": "젠슨 황 복귀에 증시 급등",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 2,
-      "keyword": "울릉도 경계경보 발령",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 3,
-      "keyword": "박보경, 김서형 빈자리 채운다",
+      "keyword": "임지연·이도현, 3년 만에 결별",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "구하라 7주기 그리움 여전해",
-      "state": "s",
+      "keyword": "유승민 FIFA 서한 논란",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "김민선 유현조 이다연 LPGA 합류",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "안철수 강금실 지명 철회 요구",
+      "keyword": "전주·창원 도심융합특구 선정",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 6,
+      "keyword": "하이닉스 사장 자사주 매입",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 7,
-      "keyword": "조규성 골 홍현석 자책골",
+      "keyword": "송민호 102일 추가 복무",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "크래시2 시청률 5%대 실패",
-      "state": "s",
+      "keyword": "육성재 기립성 저혈압으로 넘어져",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "선관위 1명만 구속",
-      "state": "n",
-      "change": "0"
+      "keyword": "제8차 미세먼지 관리제 시행",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 10,
-      "keyword": "하이닉스 사장 자사주 16억 매입",
-      "state": "n",
-      "change": "0"
+      "keyword": "러브와이파이궁 기대감 UP!",
+      "state": "-",
+      "change": "1"
     }
   ]
 }
