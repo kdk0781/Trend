@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-11-24T09:46:24.394Z",
+  "updatedAt": "2026-11-24T20:21:54.312Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "서경석",
-      "traffic": "2000+"
+      "keyword": "레알 마드리드 대 에인트호번",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "슈퍼문",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "데블스플랜3 우승자",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "차은우",
-      "traffic": "200+"
-    },
-    {
-      "rank": 5,
-      "keyword": "웨스팅하우스",
+      "keyword": "아스널 대 도르트문트",
       "traffic": "500+"
     },
     {
+      "rank": 3,
+      "keyword": "al-nassr vs al sadd",
+      "traffic": "100+"
+    },
+    {
+      "rank": 4,
+      "keyword": "의대생",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "중앙일보",
+      "traffic": "2000+"
+    },
+    {
       "rank": 6,
-      "keyword": "김병기",
+      "keyword": "정치",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "고양시",
+      "keyword": "에코프로비엠",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "몸매",
+      "keyword": "알나스르 대 알사드",
       "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "화장실",
-      "traffic": "500+"
+      "keyword": "galatasaray vs aston villa",
+      "traffic": "200+"
     },
     {
       "rank": 10,
-      "keyword": "로치",
-      "traffic": "500+"
+      "keyword": "제우스",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "원현주 양홍원 이혼 소식",
-      "state": "+",
-      "change": "1"
-    },
-    {
-      "rank": 2,
-      "keyword": "젠슨 황 복귀에 증시 급등",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 3,
-      "keyword": "임지연·이도현, 3년 만에 결별",
+      "keyword": "젠슨 황 복귀로 시장 영향",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "2026 아시아모델어워즈 수상자들",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 3,
+      "keyword": "오정태 딸 카이스트 조기 입학",
+      "state": "+",
+      "change": "6"
+    },
+    {
       "rank": 4,
-      "keyword": "유승민 FIFA 서한 논란",
-      "state": "n",
+      "keyword": "로컬바이브 2026서 관광지 30선 소개",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "전주·창원 도심융합특구 선정",
+      "keyword": "대한항공 풀세트 승리",
       "state": "+",
-      "change": "1"
+      "change": "5"
     },
     {
       "rank": 6,
-      "keyword": "하이닉스 사장 자사주 매입",
-      "state": "n",
+      "keyword": "이번주 과잉생산 관세 발표",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "송민호 102일 추가 복무",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 8,
-      "keyword": "육성재 기립성 저혈압으로 넘어져",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 9,
-      "keyword": "제8차 미세먼지 관리제 시행",
+      "keyword": "서울 지하철 파업 타결",
       "state": "+",
       "change": "1"
     },
     {
+      "rank": 8,
+      "keyword": "정준하 아들, 4개 국어 가능",
+      "state": "+",
+      "change": "4"
+    },
+    {
+      "rank": 9,
+      "keyword": "김재헌 감독 대행, 아쉬움 가득",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 10,
-      "keyword": "러브와이파이궁 기대감 UP!",
+      "keyword": "김혜경 여사 권양숙 여사 오찬",
       "state": "-",
-      "change": "1"
+      "change": "3"
     }
   ]
 }
