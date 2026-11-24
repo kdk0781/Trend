@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-11-23T12:22:28.788Z",
+  "updatedAt": "2026-11-24T00:08:40.789Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "상장",
+      "keyword": "김범수",
       "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "m",
+      "keyword": "tsla",
       "traffic": "100+"
     },
     {
       "rank": 3,
-      "keyword": "공항",
-      "traffic": "100+"
+      "keyword": "울릉도",
+      "traffic": "5000+"
     },
     {
       "rank": 4,
-      "keyword": "반도체 메모리",
-      "traffic": "200+"
+      "keyword": "김호령",
+      "traffic": "5000+"
     },
     {
       "rank": 5,
-      "keyword": "중위소득",
-      "traffic": "500+"
+      "keyword": "c-390 밀레니엄",
+      "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "브레인악셀",
-      "traffic": "500+"
+      "keyword": "이지애 아나운서",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "일론 머스크",
+      "keyword": "정우성",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "이진관 판사",
-      "traffic": "1000+"
+      "keyword": "지하철 파업",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "가석방",
-      "traffic": "200+"
+      "keyword": "이유비",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "딜라이트",
-      "traffic": "200+"
+      "keyword": "효연",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "고경표, 경찰 조사 출석하며 사죄",
-      "state": "s",
+      "keyword": "트럼프 젠슨 황 복귀",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "수능 부정신고 5억 포상",
+      "keyword": "울릉도 경계경보 발령",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "박준현 서면사과 취소",
-      "state": "n",
+      "keyword": "박보경, 김서형 빈자리 채운다",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "가족관계증명서",
-      "state": "+",
-      "change": "3"
+      "keyword": "구하라 7주기 그리움 여전해",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "한성숙, 카타르 및 몽골 장관 접견",
-      "state": "n",
+      "keyword": "김민선 유현조 이다연 LPGA 합류",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "친일 남주 옹호 반대해",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "한동훈 제명 날, 장동혁 문자",
-      "state": "-",
+      "keyword": "안철수 강금실 지명 철회 요구",
+      "state": "+",
       "change": "1"
     },
     {
-      "rank": 8,
-      "keyword": "신한은행 단독 선두 유지",
+      "rank": 7,
+      "keyword": "조규성 골 홍현석 자책골",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 8,
+      "keyword": "크래시2 시청률 5%대 실패",
+      "state": "s",
+      "change": "0"
+    },
+    {
       "rank": 9,
-      "keyword": "포즈 취하는 이하느리",
+      "keyword": "선관위 1명만 구속",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "강금실 국정원장 임명",
-      "state": "-",
-      "change": "3"
+      "keyword": "하이닉스 사장 자사주 16억 매입",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
