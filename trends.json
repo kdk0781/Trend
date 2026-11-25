@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-11-25T03:37:02.444Z",
+  "updatedAt": "2026-11-25T13:27:07.456Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "반도체",
-      "traffic": "20000+"
-    },
-    {
-      "rank": 2,
-      "keyword": "한국대학신문",
+      "keyword": "pce 발표",
       "traffic": "100+"
     },
     {
+      "rank": 2,
+      "keyword": "에콰도르 u-17 대 대한민국 u-17",
+      "traffic": "1000+"
+    },
+    {
       "rank": 3,
-      "keyword": "서훈",
+      "keyword": "난방",
       "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "연금 개혁",
-      "traffic": "5000+"
-    },
-    {
-      "rank": 5,
-      "keyword": "3기 신도시",
-      "traffic": "200+"
-    },
-    {
-      "rank": 6,
-      "keyword": "디에고 시메오네",
-      "traffic": "2000+"
-    },
-    {
-      "rank": 7,
-      "keyword": "김천(구미)",
+      "keyword": "조이현",
       "traffic": "100+"
     },
     {
-      "rank": 8,
-      "keyword": "폭설",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 9,
-      "keyword": "디트로이트 타이거스",
+      "rank": 5,
+      "keyword": "persib bandung vs fc seoul",
       "traffic": "500+"
     },
     {
+      "rank": 6,
+      "keyword": "재혼황후",
+      "traffic": "500+"
+    },
+    {
+      "rank": 7,
+      "keyword": "백화점",
+      "traffic": "500+"
+    },
+    {
+      "rank": 8,
+      "keyword": "해군",
+      "traffic": "500+"
+    },
+    {
+      "rank": 9,
+      "keyword": "강남",
+      "traffic": "1000+"
+    },
+    {
       "rank": 10,
-      "keyword": "южная корея",
-      "traffic": "200+"
+      "keyword": "은퇴 요원 관리팀",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "발언하는 김민석 대표",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "젠슨 황 복귀 소식",
+      "keyword": "젠슨황 효과 하루 만에 코스피 급락",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "나인 투 식스",
+      "state": "-",
+      "change": "1"
+    },
+    {
       "rank": 3,
-      "keyword": "퇴장하는 최민희 최고위원",
+      "keyword": "KBO, 구글과 파트너십 체결",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "조희대 탄핵 5당 연대",
-      "state": "-",
-      "change": "1"
+      "keyword": "베트남전 국군전사자 유해봉환식",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "LG 케네디와 재계약",
-      "state": "-",
-      "change": "1"
+      "keyword": "김민솔 대상 수상",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "노소영 최태원 화해 요청 거부",
+      "keyword": "부산원장 명퇴 논란",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "65세 정년연장 입법 촉구",
+      "keyword": "조희대 탄핵 이슈 부각",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "태연 정규 4집 LP 발매",
+      "keyword": "맹승지 의사와 결혼 준비",
+      "state": "+",
+      "change": "1"
+    },
+    {
+      "rank": 9,
+      "keyword": "윤호중 장관 정부혁신 박람회",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 9,
-      "keyword": "원전 공론화 중단하라!",
-      "state": "s",
-      "change": "0"
-    },
-    {
       "rank": 10,
-      "keyword": "블랙프라이데이 직구 물품 세관",
-      "state": "-",
-      "change": "2"
+      "keyword": "정찬성 스승 에디 별세",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
