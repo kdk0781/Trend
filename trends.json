@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-26T14:07:30.813Z",
+  "updatedAt": "2026-11-26T22:56:34.124Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "수디르만컵",
-      "traffic": "100+"
+      "keyword": "부부",
+      "traffic": "1000+"
     },
     {
       "rank": 2,
-      "keyword": "삼성반도체",
+      "keyword": "배구",
       "traffic": "1000+"
     },
     {
       "rank": 3,
-      "keyword": "이데일리",
-      "traffic": "2000+"
+      "keyword": "погода",
+      "traffic": "1000+"
     },
     {
       "rank": 4,
-      "keyword": "올림픽선수기자촌",
-      "traffic": "200+"
+      "keyword": "세무 냥이",
+      "traffic": "2000+"
     },
     {
       "rank": 5,
-      "keyword": "김아현 주식 눈물",
+      "keyword": "배당",
       "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "나인투식스",
-      "traffic": "5000+"
+      "keyword": "탄핵",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "설인아",
-      "traffic": "500+"
+      "keyword": "박현경",
+      "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "weather tomorrow",
-      "traffic": "5000+"
+      "keyword": "삼성자산운용",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "박장범",
+      "keyword": "한국경제신문사",
       "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "погода завтра",
-      "traffic": "1000+"
+      "keyword": "광명시",
+      "traffic": "500+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "윤석열 무죄 감사",
+      "keyword": "김정은, 러시아 공연 관람",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "한국 관세 25% 인상 가능성",
-      "state": "n",
+      "keyword": "미성숙 남편, 아내 친구와 갈등",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "중진 의원 만찬 참석",
-      "state": "-",
-      "change": "1"
+      "keyword": "김도영 두 번째 MVP",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "무쇠소녀단 3",
-      "state": "+",
-      "change": "2"
+      "keyword": "땅속 광섬유로 작은",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 5,
+      "keyword": "2026년 11월 27일 운세",
+      "state": "s",
+      "change": "0"
+    },
+    {
+      "rank": 6,
+      "keyword": "美 관세 압박 강화",
+      "state": "-",
+      "change": "2"
+    },
+    {
+      "rank": 7,
       "keyword": "선우용여, 젠슨 황 불륜 분노",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 6,
-      "keyword": "AI 커닝 세무사 구속영장 신청",
+      "rank": 8,
+      "keyword": "트럼프 가짜 성장률",
       "state": "-",
-      "change": "1"
+      "change": "5"
     },
     {
-      "rank": 7,
-      "keyword": "정대세 명서현 셋째 임신",
+      "rank": 9,
+      "keyword": "아들 아들은 재산",
       "state": "n",
       "change": "0"
     },
     {
-      "rank": 8,
-      "keyword": "김세진 감독 응원합니다",
-      "state": "-",
-      "change": "1"
-    },
-    {
-      "rank": 9,
-      "keyword": "강금실 인사청문요구서 재가",
-      "state": "-",
-      "change": "1"
-    },
-    {
       "rank": 10,
-      "keyword": "CJ올리브영 고객정보 유출",
+      "keyword": "급식 비정규직 총파업에",
       "state": "n",
       "change": "0"
     }
