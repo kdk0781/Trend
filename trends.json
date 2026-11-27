@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-11-26T22:56:34.124Z",
+  "updatedAt": "2026-11-27T04:44:05.888Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "부부",
-      "traffic": "1000+"
+      "keyword": "수학자",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "배구",
-      "traffic": "1000+"
+      "keyword": "맨체스터 시티 fc",
+      "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "погода",
-      "traffic": "1000+"
+      "keyword": "낸시랭",
+      "traffic": "200+"
     },
     {
       "rank": 4,
-      "keyword": "세무 냥이",
-      "traffic": "2000+"
+      "keyword": "최성민",
+      "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "배당",
+      "keyword": "jyp 엔터테인먼트",
       "traffic": "1000+"
     },
     {
       "rank": 6,
-      "keyword": "탄핵",
-      "traffic": "2000+"
+      "keyword": "엘니뇨",
+      "traffic": "1000+"
     },
     {
       "rank": 7,
-      "keyword": "박현경",
-      "traffic": "100+"
+      "keyword": "pet the horse",
+      "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "삼성자산운용",
-      "traffic": "100+"
+      "keyword": "강시후",
+      "traffic": "5000+"
     },
     {
       "rank": 9,
-      "keyword": "한국경제신문사",
-      "traffic": "100+"
+      "keyword": "남경필",
+      "traffic": "2000+"
     },
     {
       "rank": 10,
-      "keyword": "광명시",
-      "traffic": "500+"
+      "keyword": "남편",
+      "traffic": "2000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "김정은, 러시아 공연 관람",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 2,
-      "keyword": "미성숙 남편, 아내 친구와 갈등",
+      "keyword": "남경필 아들 성관계 유포 혐의",
       "state": "s",
       "change": "0"
     },
     {
+      "rank": 2,
+      "keyword": "레드카펫 위 배우들",
+      "state": "n",
+      "change": "0"
+    },
+    {
       "rank": 3,
-      "keyword": "김도영 두 번째 MVP",
+      "keyword": "7학년 교실 오세훈",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "땅속 광섬유로 작은",
-      "state": "-",
-      "change": "3"
+      "keyword": "낸시랭 음주운전 불송치",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "2026년 11월 27일 운세",
+      "keyword": "기관 5일 순매수행진",
       "state": "s",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "美 관세 압박 강화",
-      "state": "-",
-      "change": "2"
-    },
-    {
-      "rank": 7,
-      "keyword": "선우용여, 젠슨 황 불륜 분노",
+      "keyword": "KB손보, 아히 영입 결단",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 7,
+      "keyword": "장동혁 대표 쌀 축제 참석",
+      "state": "+",
+      "change": "2"
+    },
+    {
       "rank": 8,
-      "keyword": "트럼프 가짜 성장률",
-      "state": "-",
-      "change": "5"
+      "keyword": "북 주민 6명 송환",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "아들 아들은 재산",
+      "keyword": "밥 대신 빵",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "급식 비정규직 총파업에",
-      "state": "n",
-      "change": "0"
+      "keyword": "김대기 1심 징역형 집유",
+      "state": "-",
+      "change": "3"
     }
   ]
 }
