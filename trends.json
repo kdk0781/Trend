@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-11-27T04:44:05.888Z",
+  "updatedAt": "2026-11-27T14:24:09.361Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "수학자",
-      "traffic": "200+"
+      "keyword": "굿파트너2",
+      "traffic": "500+"
     },
     {
       "rank": 2,
-      "keyword": "맨체스터 시티 fc",
+      "keyword": "강지영",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "낸시랭",
-      "traffic": "200+"
+      "keyword": "명서현",
+      "traffic": "100+"
     },
     {
       "rank": 4,
-      "keyword": "최성민",
+      "keyword": "박정수",
       "traffic": "200+"
     },
     {
       "rank": 5,
-      "keyword": "jyp 엔터테인먼트",
-      "traffic": "1000+"
+      "keyword": "멸망전",
+      "traffic": "200+"
     },
     {
       "rank": 6,
-      "keyword": "엘니뇨",
-      "traffic": "1000+"
+      "keyword": "농협은행",
+      "traffic": "2000+"
     },
     {
       "rank": 7,
-      "keyword": "pet the horse",
+      "keyword": "박훈정",
       "traffic": "200+"
     },
     {
       "rank": 8,
-      "keyword": "강시후",
-      "traffic": "5000+"
+      "keyword": "황교안",
+      "traffic": "200+"
     },
     {
       "rank": 9,
-      "keyword": "남경필",
-      "traffic": "2000+"
+      "keyword": "파기 환송",
+      "traffic": "1000+"
     },
     {
       "rank": 10,
-      "keyword": "남편",
-      "traffic": "2000+"
+      "keyword": "두바이",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "남경필 아들 성관계 유포 혐의",
-      "state": "s",
+      "keyword": "한동훈 자료유출 의혹 경찰",
+      "state": "n",
       "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "레드카펫 위 배우들",
+      "keyword": "황교안 징역 10년 구형",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "7학년 교실 오세훈",
-      "state": "n",
-      "change": "0"
+      "keyword": "홍민기 배우",
+      "state": "+",
+      "change": "1"
     },
     {
       "rank": 4,
-      "keyword": "낸시랭 음주운전 불송치",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 5,
-      "keyword": "기관 5일 순매수행진",
-      "state": "s",
-      "change": "0"
-    },
-    {
-      "rank": 6,
-      "keyword": "KB손보, 아히 영입 결단",
-      "state": "n",
-      "change": "0"
-    },
-    {
-      "rank": 7,
-      "keyword": "장동혁 대표 쌀 축제 참석",
+      "keyword": "우리는 단순 친구입니다",
       "state": "+",
       "change": "2"
     },
     {
-      "rank": 8,
-      "keyword": "북 주민 6명 송환",
+      "rank": 5,
+      "keyword": "수능 부정행위 474건 급증",
       "state": "n",
       "change": "0"
     },
     {
+      "rank": 6,
+      "keyword": "실바 30점 GS칼텍스 5연승",
+      "state": "+",
+      "change": "10"
+    },
+    {
+      "rank": 7,
+      "keyword": "내년 맹장 수술비 87만원",
+      "state": "n",
+      "change": "0"
+    },
+    {
+      "rank": 8,
+      "keyword": "굿파트너 2",
+      "state": "+",
+      "change": "1"
+    },
+    {
       "rank": 9,
-      "keyword": "밥 대신 빵",
+      "keyword": "김상혁 유채련 질투 폭발",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김대기 1심 징역형 집유",
-      "state": "-",
-      "change": "3"
+      "keyword": "이혼할 때도 사랑했다",
+      "state": "n",
+      "change": "0"
     }
   ]
 }
