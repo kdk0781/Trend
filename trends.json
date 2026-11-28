@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-28T04:18:30.318Z",
+  "updatedAt": "2026-11-28T13:14:09.991Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "남대문시장",
+      "keyword": "al-hazem vs al-nassr",
       "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "한능검 81회 정답",
-      "traffic": "200+"
-    },
-    {
-      "rank": 3,
-      "keyword": "이찬원",
-      "traffic": "100+"
-    },
-    {
-      "rank": 4,
-      "keyword": "닥터 둠",
-      "traffic": "100+"
-    },
-    {
-      "rank": 5,
-      "keyword": "샌안토니오 대 la 레이커스",
+      "keyword": "로또 당첨번호",
       "traffic": "1000+"
     },
     {
+      "rank": 3,
+      "keyword": "링컨 시티 대 울브스",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 4,
+      "keyword": "알 하즘 대 알나스르",
+      "traffic": "1000+"
+    },
+    {
+      "rank": 5,
+      "keyword": "심장",
+      "traffic": "500+"
+    },
+    {
       "rank": 6,
-      "keyword": "tear gas",
+      "keyword": "무기",
       "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "실업급여",
+      "keyword": "中選會",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "브론슨 리드",
-      "traffic": "500+"
+      "keyword": "근로장려금 신청",
+      "traffic": "100+"
     },
     {
       "rank": 9,
-      "keyword": "은평구",
-      "traffic": "500+"
+      "keyword": "브래디",
+      "traffic": "100+"
     },
     {
       "rank": 10,
-      "keyword": "국제 원자력 기구",
-      "traffic": "100+"
+      "keyword": "주가",
+      "traffic": "5000+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "동해 AI 데이터센터 착공",
-      "state": "+",
-      "change": "3"
+      "keyword": "사랑이 온다",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 2,
-      "keyword": "민우 재학 맞대결!",
-      "state": "n",
+      "keyword": "1252회 로또 1등 번호 9, 19, 23, 28, 33, 44",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "김정은 방중설 주시",
-      "state": "-",
-      "change": "2"
+      "keyword": "신지아 그랑프리 금메달",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 4,
-      "keyword": "지효 비냐 델 마르 최초 출격",
-      "state": "+",
-      "change": "2"
+      "keyword": "로맨스의 거짓말 100일",
+      "state": "s",
+      "change": "0"
     },
     {
       "rank": 5,
-      "keyword": "U-17 한일전 성사!",
+      "keyword": "강금실 무보수 명예직",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "곽시양·유지애, 오늘 결혼해요!",
-      "state": "-",
-      "change": "3"
+      "keyword": "트럼프 이라크 지지",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 7,
-      "keyword": "기부하던 30억 통큰",
+      "keyword": "메시 마이애미 1라운드 탈락",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "임찬규, 손새은에 프러포즈했다",
+      "keyword": "그것이 알고 싶다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "LG 포스트시즌 다큐멘터리",
-      "state": "n",
+      "keyword": "문무전투 이현욱 시신 눈 떴다",
+      "state": "s",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "팬들과 대화하는 박민우와 이우성",
+      "keyword": "최민정 4연속 금!",
       "state": "n",
       "change": "0"
     }
