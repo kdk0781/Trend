@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-11-27T22:48:45.606Z",
+  "updatedAt": "2026-11-28T04:18:30.318Z",
   "google": [
     {
       "rank": 1,
-      "keyword": "thời tiết",
-      "traffic": "1000+"
+      "keyword": "남대문시장",
+      "traffic": "200+"
     },
     {
       "rank": 2,
-      "keyword": "마운자로",
+      "keyword": "한능검 81회 정답",
       "traffic": "200+"
     },
     {
       "rank": 3,
-      "keyword": "한지민",
-      "traffic": "1000+"
-    },
-    {
-      "rank": 4,
-      "keyword": "시장",
-      "traffic": "500+"
-    },
-    {
-      "rank": 5,
-      "keyword": "국제 축구 연맹",
+      "keyword": "이찬원",
       "traffic": "100+"
     },
     {
+      "rank": 4,
+      "keyword": "닥터 둠",
+      "traffic": "100+"
+    },
+    {
+      "rank": 5,
+      "keyword": "샌안토니오 대 la 레이커스",
+      "traffic": "1000+"
+    },
+    {
       "rank": 6,
-      "keyword": "부동산",
-      "traffic": "2000+"
+      "keyword": "tear gas",
+      "traffic": "200+"
     },
     {
       "rank": 7,
-      "keyword": "한국은행 기준금리",
+      "keyword": "실업급여",
       "traffic": "100+"
     },
     {
       "rank": 8,
-      "keyword": "베르더 대 묀헨글라트바흐",
-      "traffic": "100+"
+      "keyword": "브론슨 리드",
+      "traffic": "500+"
     },
     {
       "rank": 9,
-      "keyword": "연금",
-      "traffic": "10000+"
+      "keyword": "은평구",
+      "traffic": "500+"
     },
     {
       "rank": 10,
-      "keyword": "nottm forest vs chelsea",
-      "traffic": "500+"
+      "keyword": "국제 원자력 기구",
+      "traffic": "100+"
     }
   ],
   "domestic": [
     {
       "rank": 1,
-      "keyword": "2026년 11월 28일 운세",
-      "state": "s",
-      "change": "0"
+      "keyword": "동해 AI 데이터센터 착공",
+      "state": "+",
+      "change": "3"
     },
     {
       "rank": 2,
-      "keyword": "남경주 제자 성관계 시도",
-      "state": "+",
-      "change": "1"
+      "keyword": "민우 재학 맞대결!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 3,
-      "keyword": "젠슨 황 디올 재킷 복귀",
-      "state": "+",
-      "change": "1"
+      "keyword": "김정은 방중설 주시",
+      "state": "-",
+      "change": "2"
     },
     {
       "rank": 4,
-      "keyword": "이서진 블핑 지수 너무 예뻐!",
-      "state": "-",
+      "keyword": "지효 비냐 델 마르 최초 출격",
+      "state": "+",
       "change": "2"
     },
     {
       "rank": 5,
-      "keyword": "이란 해상봉쇄 돌파",
-      "state": "+",
-      "change": "2"
+      "keyword": "U-17 한일전 성사!",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 6,
-      "keyword": "AI 관련주 상승",
-      "state": "+",
-      "change": "6"
+      "keyword": "곽시양·유지애, 오늘 결혼해요!",
+      "state": "-",
+      "change": "3"
     },
     {
       "rank": 7,
-      "keyword": "이동연 팬레터 폐기 사과",
-      "state": "-",
-      "change": "2"
+      "keyword": "기부하던 30억 통큰",
+      "state": "n",
+      "change": "0"
     },
     {
       "rank": 8,
-      "keyword": "일본 성인물 원정매매",
+      "keyword": "임찬규, 손새은에 프러포즈했다",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 9,
-      "keyword": "주진모 민혜연 7년 만 임신",
+      "keyword": "LG 포스트시즌 다큐멘터리",
       "state": "n",
       "change": "0"
     },
     {
       "rank": 10,
-      "keyword": "김이현, 생일 앞두고 뺑소니 사고 사망",
+      "keyword": "팬들과 대화하는 박민우와 이우성",
       "state": "n",
       "change": "0"
     }
